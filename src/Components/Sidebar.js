@@ -4,7 +4,6 @@ const Sidebar = () => {
     const [articles, setArticles] = useState([])
     let list = []
     const updateNews = async ()=>{
-        // const url = `https://gnews.io/api/v4/search?q=${props.category}&token=${props.apiKey}&lang=hi`;
         const url = "http://localhost:3000/c.json";
         let data = await fetch(url);
         let parsedData = await data.json()
