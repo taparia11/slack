@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "6ebf57cf-2d8d-4ac0-9d56-e4be3d5c4fec",
+        "type": "message",
+        "text": "Has anyone here used Grammarly (for editorial review \/ style guides) ? Would love to pick your brain if so!",
+        "user": "U01N4EQQTL6",
+        "ts": "1613681700.041000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c1a8242648ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-22\/1779468503170_c1a8242648ece4a8cb11_72.png",
+            "first_name": "Meg",
+            "real_name": "Meg Scarborough",
+            "display_name": "Meg Scarborough",
+            "team": "TJE58GTJL",
+            "name": "meg851",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zqEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone here used Grammarly (for editorial review \/ style guides) ? Would love to pick your brain if so!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613681700.041000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1613778720.047900",
+        "reply_users": [
+            "U016BDEQ40J",
+            "U01N4EQQTL6",
+            "UUH2EB134"
+        ],
+        "replies": [
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1613705078.042000"
+            },
+            {
+                "user": "U01N4EQQTL6",
+                "ts": "1613764852.043400"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1613778720.047900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b6f7dda5-f0f6-426b-b99e-db4e2d7134c0",
+        "type": "message",
+        "text": "TLDR: it’s not a reliable measure of quality.\n\nI’ve been on the receiving end of using Grammarly as a basis for edits. And while I understand its primary purpose, the way it was employed in my case was very insulting.\n\nThe client basically insisted on a 99% score on Grammarly before accepting the work, which was an impossibility since Grammarly was giving conflicting edits. A sentence that was “too long” became “too short” as soon as you chopped it up, for instance. And since it was a technical article it used many words Grammarly didn’t know and so considered a “typo” and reduced the score.\n\nAlso, writing to satisfy an algorithm made the actual piece jilted and unnatural, The whole exercise focused on the wrong thing--meeting the score--rather on the value of the piece.\n\nIMHO, a lot of nitpicking and time wasting for an article that was worse off from when it started.\n\nI performed the edits as directed and got as close to 99% as I could, and then I dropped him as a client. I am now wary of any other client that required Grammarly as a measuring stick.",
+        "user": "U016BDEQ40J",
+        "ts": "1613705078.042000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U016BDEQ40J",
+            "ts": "1613705583.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dG2xu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TLDR: it’s not a reliable measure of quality.\n\nI’ve been on the receiving end of using Grammarly as a basis for edits. And while I understand its primary purpose, the way it was employed in my case was very insulting.\n\nThe client basically insisted on a 99% score on Grammarly before accepting the work, which was an impossibility since Grammarly was giving conflicting edits. A sentence that was “too long” became “too short” as soon as you chopped it up, for instance. And since it was a technical article it used many words Grammarly didn’t know and so considered a “typo” and reduced the score.\n\nAlso, writing to satisfy an algorithm made the actual piece jilted and unnatural, The whole exercise focused on the wrong thing--meeting the score--rather on the value of the piece.\n\nIMHO, a lot of nitpicking and time wasting for an article that was worse off from when it started.\n\nI performed the edits as directed and got as close to 99% as I could, and then I dropped him as a client. I am now wary of any other client that required Grammarly as a measuring stick."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613681700.041000",
+        "parent_user_id": "U01N4EQQTL6",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "UJFELMVU1",
+                    "U011QQDDSJV"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

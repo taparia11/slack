@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "1c2bd97e-f4d5-4c4b-931a-23d3da62e593",
+        "type": "message",
+        "text": "<@U017XD7H4P7> i'd love to know more about those ads you're running, mind if i DM you?",
+        "user": "U01EJ7VE9FD",
+        "ts": "1614857188.012200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=oFi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017XD7H4P7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i'd love to know more about those ads you're running, mind if i DM you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614720499.006800",
+        "parent_user_id": "U01EB7M4REJ",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U017XD7H4P7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9293ef32-f8ea-4929-bfaf-0e407c468ed5",
+        "type": "message",
+        "text": "<@U01EJ7VE9FD> please feel free :slightly_smiling_face:",
+        "user": "U017XD7H4P7",
+        "ts": "1614886091.013000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ab77023918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1256516765207_f9ab77023918e4c2b919_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Dietrich",
+            "display_name": "Erik Dietrich",
+            "team": "TJE58GTJL",
+            "name": "erik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VKM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EJ7VE9FD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please feel free "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614720499.006800",
+        "parent_user_id": "U01EB7M4REJ"
+    }
+]

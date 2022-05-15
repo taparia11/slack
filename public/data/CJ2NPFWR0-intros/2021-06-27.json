@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "27d506b7-d8b5-4fcf-a649-d234c80ad722",
+        "type": "message",
+        "text": "Welcome, Jonas! :pray::skin-tone-2:",
+        "user": "UUVS8PURK",
+        "ts": "1624782655.154600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "54e245cfd2a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-24\/1091117627204_54e245cfd2a92cbdeb1e_72.png",
+            "first_name": "Andreea",
+            "real_name": "Andreea Serb",
+            "display_name": "Andreea Serb",
+            "team": "TJE58GTJL",
+            "name": "andreea",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5sGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome, Jonas! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624635625.151100",
+        "parent_user_id": "U02681WABA7",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02681WABA7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ca81b60-d663-4307-89e2-58e33f24e865",
+        "type": "message",
+        "text": "Welcome <@U02681WABA7>. Good to have you mate",
+        "user": "U0216EN5J80",
+        "ts": "1624839679.155200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "06d99994e2c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2100940373924_06d99994e2c33c6937f6_72.jpg",
+            "first_name": "Jack",
+            "real_name": "Jack Delaney",
+            "display_name": "Jack Delaney",
+            "team": "TJE58GTJL",
+            "name": "jack089",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "moT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02681WABA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Good to have you mate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624635625.151100",
+        "parent_user_id": "U02681WABA7",
+        "reactions": [
+            {
+                "name": "man-raising-hand",
+                "users": [
+                    "U02681WABA7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

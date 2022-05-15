@@ -1,0 +1,1468 @@
+[
+    {
+        "client_msg_id": "ffb371fd-6af6-486e-9a5b-99e7e24eb5d2",
+        "type": "message",
+        "text": "Is anyone getting a lot of \"Crawled - currently not indexed\" on Search Console? We've had a few articles that were all good and now are not being indexed for some reason. For others, it's been over two weeks and they still aren't indexed, even though they are turning up on Google.",
+        "user": "U01MW6DPU72",
+        "ts": "1644485757.293859",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2ab21f412c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2ab21f412c3215ee2b3c2994772c589e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Araminta",
+            "real_name": "Araminta Robertson",
+            "display_name": "Araminta Robertson",
+            "team": "TJE58GTJL",
+            "name": "robertsona98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9IAP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone getting a lot of \"Crawled - currently not indexed\" on Search Console? We've had a few articles that were all good and now are not being indexed for some reason. For others, it's been over two weeks and they still aren't indexed, even though they are turning up on Google."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644485757.293859",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1645107969.055249",
+        "reply_users": [
+            "UJJFDTN8G",
+            "U030RSEK1HQ",
+            "U01MW6DPU72",
+            "UPZ4VTLJE",
+            "U02KFSN2QDR"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1644492734.616869"
+            },
+            {
+                "user": "U030RSEK1HQ",
+                "ts": "1644498147.296109"
+            },
+            {
+                "user": "U01MW6DPU72",
+                "ts": "1644503836.489329"
+            },
+            {
+                "user": "UPZ4VTLJE",
+                "ts": "1644511070.260969"
+            },
+            {
+                "user": "U02KFSN2QDR",
+                "ts": "1644543204.660819"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1645088658.366159"
+            },
+            {
+                "user": "U01MW6DPU72",
+                "ts": "1645107969.055249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c5c6ff42-61c1-46c9-841a-7f625ec8215e",
+        "type": "message",
+        "text": "twitter is full of this - consensus is to wait patiently and you haven't done anything wrong.\n\nSince we last spoke about this, my sites that were experiencing it have come down from a week to a few hours. Didn't do anything.",
+        "user": "UJJFDTN8G",
+        "ts": "1644492734.616869",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPfi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "twitter is full of this - consensus is to wait patiently and you haven't done anything wrong.\n\nSince we last spoke about this, my sites that were experiencing it have come down from a week to a few hours. Didn't do anything."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644485757.293859",
+        "parent_user_id": "U01MW6DPU72",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U02R3S1RBUL",
+                    "U024K88ECFN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d01f770a-2c4f-4a82-9541-ef2e374f720e",
+        "type": "message",
+        "text": "<@U01MW6DPU72> Couple things you can do here-\n\n1. Increase internal linking for your new articles from older pages on the site (best internal links are always contextual and from the best performing pages that get significant traffic) \n2. Use Google’s indexing API (Google says to use it for News or Job Post aggregator sites but I’ve tested it on content websites and it works! Everything gets indexed within 24-48 hours) ",
+        "user": "U030RSEK1HQ",
+        "ts": "1644498147.296109",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "77d20b2748e1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3038533833937_77d20b2748e19050d717_72.jpg",
+            "first_name": "Naman",
+            "real_name": "Naman Nepal",
+            "display_name": "Naman Nepal",
+            "team": "TJE58GTJL",
+            "name": "namannepal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030RSEK1HQ",
+            "ts": "1644498164.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J6q5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01MW6DPU72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Couple things you can do here-\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Increase internal linking for your new articles from older pages on the site (best internal links are always contextual and from the best performing pages that get significant traffic) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use Google’s indexing API (Google says to use it for News or Job Post aggregator sites but I’ve tested it on content websites and it works! Everything gets indexed within 24-48 hours) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644485757.293859",
+        "parent_user_id": "U01MW6DPU72"
+    },
+    {
+        "client_msg_id": "757c5c25-a728-4955-a671-f33856b252f1",
+        "type": "message",
+        "text": "Just saw this on Twitter and thought I’d share here:\n\n&gt; If you’re a student in the US &amp; you’re taking an SEO or digital marketing course, you are entitled to a free 3-month subscription to Semrush (i.e., for the semester).\n<https:\/\/www.semrush.com\/lp\/semrush-for-education\/en\/>",
+        "user": "U026R1895QV",
+        "ts": "1644503182.162999",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.semrush.com\/lp\/semrush-for-education\/en\/",
+                "image_url": "https:\/\/mcusercontent.com\/dfc72515bd206c2eb1657ee49\/images\/495a28d6-32e6-15d9-e346-d28a53ff66e0.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 75034,
+                "service_icon": "https:\/\/www.semrush.com\/lp\/semrush-for-education\/img\/favicon.ico?2",
+                "id": 1,
+                "original_url": "https:\/\/www.semrush.com\/lp\/semrush-for-education\/en\/",
+                "fallback": "Semrush: Are you a university student interested in learning online marketing?",
+                "text": "Your journey starts here. Sign up now to get free access to Semrush for 3 months.",
+                "title": "Are you a university student interested in learning online marketing?",
+                "title_link": "https:\/\/www.semrush.com\/lp\/semrush-for-education\/en\/",
+                "service_name": "Semrush"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just saw this on Twitter and thought I’d share here:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you’re a student in the US & you’re taking an SEO or digital marketing course, you are entitled to a free 3-month subscription to Semrush (i.e., for the semester)."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.semrush.com\/lp\/semrush-for-education\/en\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dce8f16c-9119-437a-a7ea-f9c9d039661b",
+        "type": "message",
+        "text": "Hey SEO pro’s - *What are your thoughts on Glossaries for SEO?* Is it worth the effort? An example I’ve come across is <http:\/\/trainingindustry.com\/glossary\/|trainingindustry.com\/glossary\/>. It drives more traffic for them than my company’s site gets :sweat_smile:",
+        "user": "U01MM4EAC69",
+        "ts": "1644503429.401109",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Rgh4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey SEO pro’s - "
+                            },
+                            {
+                                "type": "text",
+                                "text": "What are your thoughts on Glossaries for SEO? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Is it worth the effort? An example I’ve come across is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/trainingindustry.com\/glossary\/",
+                                "text": "trainingindustry.com\/glossary\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It drives more traffic for them than my company’s site gets "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "reply_count": 11,
+        "reply_users_count": 9,
+        "latest_reply": "1644516658.306329",
+        "reply_users": [
+            "U02F1GK6U6B",
+            "U02HG9U4JQG",
+            "ULJBEFSJJ",
+            "UJJFDTN8G",
+            "UUXMCJQ15",
+            "U01ANAZTZTK",
+            "U01MM4EAC69",
+            "U014PRHQUQ2",
+            "U02BRGBQZ8F"
+        ],
+        "replies": [
+            {
+                "user": "U02F1GK6U6B",
+                "ts": "1644503735.800829"
+            },
+            {
+                "user": "U02HG9U4JQG",
+                "ts": "1644503854.175989"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1644504271.677459"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1644504479.621359"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1644504898.634109"
+            },
+            {
+                "user": "U01ANAZTZTK",
+                "ts": "1644505962.340869"
+            },
+            {
+                "user": "U01MM4EAC69",
+                "ts": "1644510129.056019"
+            },
+            {
+                "user": "U01MM4EAC69",
+                "ts": "1644510144.123659"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1644514742.298169"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1644515949.574939"
+            },
+            {
+                "user": "U02BRGBQZ8F",
+                "ts": "1644516658.306329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5c6055d5-7b7f-4c99-b866-1f9f4cfdc5e6",
+        "type": "message",
+        "text": "I think it is. Another glossary I've seen work is:\n<https:\/\/www.analytics-toolkit.com\/glossary\/>\nI still visit this glossary even after 3 years of working in the same industry.\nGlossaries are a gift that keep giving long after the initial investment.",
+        "user": "U02F1GK6U6B",
+        "ts": "1644503735.800829",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b77d6f7d6c82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/3004677185921_b77d6f7d6c82fd929faa_72.jpg",
+            "first_name": "Nneka",
+            "real_name": "Nneka Otika",
+            "display_name": "Nneka Otika",
+            "team": "TJE58GTJL",
+            "name": "nnekaotika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.analytics-toolkit.com\/glossary\/",
+                "service_icon": "https:\/\/www.analytics-toolkit.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.analytics-toolkit.com\/glossary\/",
+                "fallback": "www.analytics-toolkit.com: Glossary of A\/B Testing Terms and Abbreviations",
+                "text": "Index of all terms in A\/B testing \/ online controlled experiments in conversion rate optimization (CRO). Comprehensive glossary of A\/B testing terms and abbreviations with detailed definitions, related reading, examples.",
+                "title": "Glossary of A\/B Testing Terms and Abbreviations",
+                "title_link": "https:\/\/www.analytics-toolkit.com\/glossary\/",
+                "service_name": "www.analytics-toolkit.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LIOMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it is. Another glossary I've seen work is:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.analytics-toolkit.com\/glossary\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI still visit this glossary even after 3 years of working in the same industry.\nGlossaries are a gift that keep giving long after the initial investment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "48273df3-0339-494d-a71f-0444d958e596",
+        "type": "message",
+        "text": "Thanks <@U030RSEK1HQ> super useful!\n\nAnd yeah <@UJJFDTN8G> for some reason some blogs have been down as well :disappointed:",
+        "user": "U01MW6DPU72",
+        "ts": "1644503836.489329",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2ab21f412c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2ab21f412c3215ee2b3c2994772c589e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Araminta",
+            "real_name": "Araminta Robertson",
+            "display_name": "Araminta Robertson",
+            "team": "TJE58GTJL",
+            "name": "robertsona98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MJl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030RSEK1HQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " super useful!\n\nAnd yeah "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJJFDTN8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for some reason some blogs have been down as well "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644485757.293859",
+        "parent_user_id": "U01MW6DPU72"
+    },
+    {
+        "client_msg_id": "5131a148-8af7-4790-9699-3c69f9a8be06",
+        "type": "message",
+        "text": "Definitely! Just:\n• Make your glossary unique (not just in terms of words, but presentation of materials)\n• Create the glossary with users in mind, not search engines\n• Make sure you interlink to make the glossary more of an encyclopaedia\n• Always think in terms of funnels - which glossary term are where and how can you guide the reader down your funnel by providing quality information (this is related to the previous point)",
+        "user": "U02HG9U4JQG",
+        "ts": "1644503854.175989",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "de85cbd5409b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572117757491_de85cbd5409ba2c4ab46_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam",
+            "display_name": "Adam",
+            "team": "TJE58GTJL",
+            "name": "adam.yates",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2hG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely! Just:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make your glossary unique (not just in terms of words, but presentation of materials)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create the glossary with users in mind, not search engines"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Make sure you interlink to make the glossary more of an encyclopaedia"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Always think in terms of funnels - which glossary term are where and how can you guide the reader down your funnel by providing quality information (this is related to the previous point)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02F1GK6U6B",
+                    "ULJBEFSJJ",
+                    "U032FH4EAKW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88053d1e-f49d-472d-8fe4-499b2fa7ae7b",
+        "type": "message",
+        "text": "I think it depends on the industry. Imo it works better for ones that are highly technical \/ more complicated since then there's an opportunity for the company to establish themselves as an expert, as well as in industries that aren't as competitive SEO-wise (since it can be easier to rank without creating the most in-depth content ever).",
+        "user": "ULJBEFSJJ",
+        "ts": "1644504271.677459",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M\/M3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it depends on the industry. Imo it works better for ones that are highly technical \/ more complicated since then there's an opportunity for the company to establish themselves as an expert, as well as in industries that aren't as competitive SEO-wise (since it can be easier to rank without creating the most in-depth content ever)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "73022daf-041e-4c53-a042-44ef81582b4b",
+        "type": "message",
+        "text": "Agree with Tatiana - plus you gotta be patient to rank IMO. If you're after a quick win then this is not the tactic.\n\nif you've already got 100s of articles, it's fairly easy to 1) implement and 2) rank",
+        "user": "UJJFDTN8G",
+        "ts": "1644504479.621359",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rbKhN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agree with Tatiana - plus you gotta be patient to rank IMO. If you're after a quick win then this is not the tactic.\n\nif you've already got 100s of articles, it's fairly easy to 1) implement and 2) rank"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "ULJBEFSJJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I'm currently building one for SEO for the Rest of Us.\n\nFor most of the clients I work with, glossaries are not only traffic drivers, but also KEY to building backlinks (case study below).\n\nAlso also, if you work in a highly technical industry where your ideal customer is allergic to typical marketing articles, a Glossary can also be big for lead gen.\n\nOne of the big moves when I joined ActiveCampaign was refreshing and updating <https:\/\/www.activecampaign.com\/glossary|their glossary>, too, and we've seen big traffic (and even trials) coming in through it.",
+        "files": [
+            {
+                "id": "F032LQ9MPFW",
+                "created": 1644504885,
+                "timestamp": 1644504885,
+                "name": "Growth Sprints Capabilities and Case Studies - January 2022.png",
+                "title": "Growth Sprints Capabilities and Case Studies - January 2022.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UUXMCJQ15",
+                "editable": false,
+                "size": 69565,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F032LQ9MPFW\/growth_sprints_capabilities_and_case_studies_-_january_2022.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F032LQ9MPFW\/download\/growth_sprints_capabilities_and_case_studies_-_january_2022.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032LQ9MPFW-54c9ea0a26\/growth_sprints_capabilities_and_case_studies_-_january_2022_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032LQ9MPFW-54c9ea0a26\/growth_sprints_capabilities_and_case_studies_-_january_2022_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032LQ9MPFW-54c9ea0a26\/growth_sprints_capabilities_and_case_studies_-_january_2022_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032LQ9MPFW-54c9ea0a26\/growth_sprints_capabilities_and_case_studies_-_january_2022_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032LQ9MPFW-54c9ea0a26\/growth_sprints_capabilities_and_case_studies_-_january_2022_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032LQ9MPFW-54c9ea0a26\/growth_sprints_capabilities_and_case_studies_-_january_2022_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032LQ9MPFW-54c9ea0a26\/growth_sprints_capabilities_and_case_studies_-_january_2022_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032LQ9MPFW-54c9ea0a26\/growth_sprints_capabilities_and_case_studies_-_january_2022_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "original_w": 960,
+                "original_h": 540,
+                "thumb_tiny": "AwAbADC+zqpwTTutQyEFjlRx35qUdBxioGLRRTApD57fU0APopkqb1A5\/PFLGuxMf1zQMQ\/ePNJ+NGefxpm9s9aG7AlcnT607NVt7etJvb1oUh8jLWaQ81W3t60b29aOcORn\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UUXMCJQ15\/F032LQ9MPFW\/growth_sprints_capabilities_and_case_studies_-_january_2022.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F032LQ9MPFW-4942539ae4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UUXMCJQ15",
+        "display_as_bot": false,
+        "ts": "1644504898.634109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm currently building one for SEO for the Rest of Us.\n\nFor most of the clients I work with, glossaries are not only traffic drivers, but also KEY to building backlinks (case study below).\n\nAlso also, if you work in a highly technical industry where your ideal customer is allergic to typical marketing articles, a Glossary can also be big for lead gen.\n\nOne of the big moves when I joined ActiveCampaign was refreshing and updating "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.activecampaign.com\/glossary",
+                                "text": "their glossary"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", too, and we've seen big traffic (and even trials) coming in through it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "44eb9733-715a-41b7-95bc-7c472bded670",
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "1f8e9e5b-b65a-485f-84b3-4a311953907f",
+        "type": "message",
+        "text": "We do this! I wrote a linkedin post about the benefits it gives us! <https:\/\/www.linkedin.com\/posts\/theresa-hebert-21725b114_seo-activity-6892835229673816064-3V76>",
+        "user": "U01ANAZTZTK",
+        "ts": "1644505962.340869",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ef5727669c45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1349771386962_ef5727669c45c9f60612_72.jpg",
+            "first_name": "Theresa",
+            "real_name": "Theresa Hebert",
+            "display_name": "Theresa Hebert",
+            "team": "TJE58GTJL",
+            "name": "theresa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/theresa-hebert-21725b114_seo-activity-6892835229673816064-3V76",
+                "image_url": "https:\/\/static-exp1.licdn.com\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 34857,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/theresa-hebert-21725b114_seo-activity-6892835229673816064-3V76",
+                "fallback": "Theresa Hebert on LinkedIn: #seo",
+                "text": "A surprising content marketing strategy that has worked well at Quorum — a dictionary. Yes, we sell to public affairs professionals and have a blog on...",
+                "title": "Theresa Hebert on LinkedIn: #seo",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/theresa-hebert-21725b114_seo-activity-6892835229673816064-3V76",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "54qN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We do this! I wrote a linkedin post about the benefits it gives us! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/theresa-hebert-21725b114_seo-activity-6892835229673816064-3V76"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "ac4a765a-aea1-43a8-ae79-47816584ff5e",
+        "type": "message",
+        "text": "This is awesome! Thank you everyone for your insights! :pray: I think this may be a good project for <https:\/\/www.togetherplatform.com\/|Together> to try in the HR\/L&amp;D\/Employee development space. If anyone has any tips on how to get buy in for this up the chain I’d love to hear it! :slightly_smiling_face:",
+        "user": "U01MM4EAC69",
+        "ts": "1644510129.056019",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CLL5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is awesome! Thank you everyone for your insights! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think this may be a good project for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.togetherplatform.com\/",
+                                "text": "Together"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to try in the HR\/L&D\/Employee development space. If anyone has any tips on how to get buy in for this up the chain I’d love to hear it! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "c806cd53-a780-4b70-8870-edf21dc73e32",
+        "type": "message",
+        "text": "And how much time it would realistically take!",
+        "user": "U01MM4EAC69",
+        "ts": "1644510144.123659",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xqzq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And how much time it would realistically take!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "5FE9B852-3CB3-4A6F-AAC8-9A7D66F30FE7",
+        "type": "message",
+        "text": "A couple other methods to try and nudge indexing for important pages:\n\n• change the url of the page, republish, and request indexing in GSC\n• I haven't used this yet but have heard good things about this service: <https:\/\/indexmenow.com\/en\/|https:\/\/indexmenow.com\/en\/>",
+        "user": "UPZ4VTLJE",
+        "ts": "1644511070.260969",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c99b7b58614",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-04\/2587988620704_5c99b7b58614943546f4_72.jpg",
+            "first_name": "",
+            "real_name": "Gary Magnone",
+            "display_name": "Gary Magnone",
+            "team": "TJE58GTJL",
+            "name": "gary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/indexmenow.com\/en\/",
+                "image_url": "https:\/\/indexmenow.com\/wp-content\/uploads\/2021\/12\/listeprojetflou.png",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 343639,
+                "service_icon": "https:\/\/indexmenow.com\/wp-content\/uploads\/2022\/01\/cropped-269760981_111925498016713_6972043156953243417_n-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/indexmenow.com\/en\/",
+                "fallback": "Indexemenow: indexer tool: IndexMeNow: Google indexing, 80% indexed in 24h, indexed or re-credited",
+                "text": "Are you tired of Google not indexing your pages? Our indexing service really works. Indexed or re-credited!",
+                "title": "IndexMeNow: Google indexing, 80% indexed in 24h, indexed or re-credited",
+                "title_link": "https:\/\/indexmenow.com\/en\/",
+                "service_name": "Indexemenow: indexer tool"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yw3=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A couple other methods to try and nudge indexing for important pages:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "change the url of the page, republish, and request indexing in GSC"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I haven't used this yet but have heard good things about this service: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/indexmenow.com\/en\/",
+                                        "text": "https:\/\/indexmenow.com\/en\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644485757.293859",
+        "parent_user_id": "U01MW6DPU72",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02KFSN2QDR",
+                    "U01MW6DPU72"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83d8d981-175a-4c4b-8d99-3b6584b856be",
+        "type": "message",
+        "text": "What's your best distro channel right now? If it's search, focus on that. If it's email or social or paid, focus on the ebooks, whitepapers that provide more value. Those won't work as well in search",
+        "user": "UJG24P8P6",
+        "ts": "1644511840.192819",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's your best distro channel right now? If it's search, focus on that. If it's email or social or paid, focus on the ebooks, whitepapers that provide more value. Those won't work as well in search"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644218919.561249",
+        "parent_user_id": "U02PQ08HCSF"
+    },
+    {
+        "client_msg_id": "1f1db1ff-d63d-40a4-8668-525c7ced1386",
+        "type": "message",
+        "text": "It's search at the moment!",
+        "user": "U02PQ08HCSF",
+        "ts": "1644514534.853159",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b8ca19f14bce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-10\/3109468218448_b8ca19f14bceae7c9a64_72.jpg",
+            "first_name": "Samridhi",
+            "real_name": "Samridhi Jain",
+            "display_name": "Samridhi",
+            "team": "TJE58GTJL",
+            "name": "samridhijain019",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DknSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's search at the moment!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644218919.561249",
+        "parent_user_id": "U02PQ08HCSF"
+    },
+    {
+        "client_msg_id": "7ff74212-6ddd-4e7b-93dc-8b69fa267f58",
+        "type": "message",
+        "text": "timing will depend on how many terms you'd be aiming for. I'd recommend doing some keyword research first, to get a rough estimate of traffic \/ # of terms, then looking at how much of that traffic you can realistically expect to convert based on your current blog conversion rates — this can help give you more ammunition to get buy-in!",
+        "user": "ULJBEFSJJ",
+        "ts": "1644514742.298169",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "timing will depend on how many terms you'd be aiming for. I'd recommend doing some keyword research first, to get a rough estimate of traffic \/ # of terms, then looking at how much of that traffic you can realistically expect to convert based on your current blog conversion rates — this can help give you more ammunition to get buy-in!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "1045c645-172d-4d5c-9b9c-23967c0f73dd",
+        "type": "message",
+        "text": "Years ago, build out a glossary in the Dutch law niche. Was and is a massive hit, brings in LOADS of traffic. Not all leads, but lots of newsletter subs, social media followers, those that are not leads are often law students (future colleagues?), it attracts lots of links and makes for a great place to link internally from to your money pages",
+        "user": "U014PRHQUQ2",
+        "ts": "1644515949.574939",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "op5r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Years ago, build out a glossary in the Dutch law niche. Was and is a massive hit, brings in LOADS of traffic. Not all leads, but lots of newsletter subs, social media followers, those that are not leads are often law students (future colleagues?), it attracts lots of links and makes for a great place to link internally from to your money pages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01MM4EAC69"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d88f2e67-a067-410a-a3c3-9b27ef7fa90e",
+        "type": "message",
+        "text": "Ours drives a good amount of traffic. The biggest dilemma we have is where it fits in relation to something like a knowledge base, that’s slightly more substitutive, incorporates definitions, and answers basic questions, rather than individual terms. Semantics aside, my two cents is that the knowledge base is more likely to become a solid SEO moat (but curious to get your thoughts <@UQ3GRPQDP>).",
+        "user": "U02BRGBQZ8F",
+        "ts": "1644516658.306329",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1815f81897a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-25\/2415612736677_1815f81897a92cc8ab0a_72.jpg",
+            "first_name": "Adam",
+            "real_name": "Adam Cohen",
+            "display_name": "Adam Cohen",
+            "team": "TJE58GTJL",
+            "name": "acohen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixau",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ours drives a good amount of traffic. The biggest dilemma we have is where it fits in relation to something like a knowledge base, that’s slightly more substitutive, incorporates definitions, and answers basic questions, rather than individual terms. Semantics aside, my two cents is that the knowledge base is more likely to become a solid SEO moat (but curious to get your thoughts "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQ3GRPQDP"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644503429.401109",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "04b5a96a-1993-46a2-9c22-65c5e9d507c9",
+        "type": "message",
+        "text": "^Did the above on a page that had yet to be indexed after 10 days. After republishing, was indexed within hours!",
+        "user": "U02KFSN2QDR",
+        "ts": "1644543204.660819",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e4f61408086",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2659164394037_6e4f614080868caecca3_72.png",
+            "first_name": "Lucia",
+            "real_name": "Lucia Tang",
+            "display_name": "Lucia Tang",
+            "team": "TJE58GTJL",
+            "name": "luciaqtang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^Did the above on a page that had yet to be indexed after 10 days. After republishing, was indexed within hours!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644485757.293859",
+        "parent_user_id": "U01MW6DPU72"
+    },
+    {
+        "client_msg_id": "b2d9c35d-6fc0-4428-bf84-254b29a27628",
+        "type": "message",
+        "text": "This may sound crazy, but scroll all the way to the bottom of the screen. I had some of my options randomly drop below the editor a few weeks back…",
+        "user": "U01P13NTGG6",
+        "ts": "1644544920.049379",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ikxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This may sound crazy, but scroll all the way to the bottom of the screen. I had some of my options randomly drop below the editor a few weeks back…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644250650.877429",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "6a0ee9f0-6823-4061-9190-4da7826ba2cc",
+        "type": "message",
+        "text": "Always happy to chat. :nerd_face:",
+        "user": "U01P13NTGG6",
+        "ts": "1644545191.476929",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Always happy to chat. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nerd_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644335616.876379",
+        "parent_user_id": "U02LW0L0P4J"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1644561822.002249",
+        "thread_ts": "1644561822.002249",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1644873483.022059",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1644873483.022059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1644873483.022059"
+    },
+    {
+        "client_msg_id": "DF822BCF-E1E0-4A30-B368-558426B313EE",
+        "type": "message",
+        "text": "I wouldn't put it past me missing them but alas they are not there ",
+        "user": "UJJFDTN8G",
+        "ts": "1644565151.692319",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3rf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn't put it past me missing them but alas they are not there "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644250650.877429",
+        "parent_user_id": "UJJFDTN8G"
+    }
+]

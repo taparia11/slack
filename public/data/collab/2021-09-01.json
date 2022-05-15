@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "0e39e9a8-c1e6-48d7-88d1-6cbc86f2b477",
+        "type": "message",
+        "text": "hi <@U02CUML0VMG> - this isn't exactly what we're looking for in this channel. see <@UJJFDTN8G>’s post above for a good example of what we are looking for.",
+        "user": "UJG9WTEKG",
+        "ts": "1630536883.047100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u6HKq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02CUML0VMG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - this isn't exactly what we're looking for in this channel. see "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJJFDTN8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s post above for a good example of what we are looking for."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630472127.044700",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "28c66341-59ec-4dc8-8ada-8bed63d86b28",
+        "type": "message",
+        "text": "i'll remove this message. thx.",
+        "user": "UJG9WTEKG",
+        "ts": "1630536889.047300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SjAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'll remove this message. thx."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630472127.044700",
+        "parent_user_id": "USLACKBOT"
+    }
+]

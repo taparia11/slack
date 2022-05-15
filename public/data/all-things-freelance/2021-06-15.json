@@ -1,0 +1,478 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1623755118.124900",
+        "thread_ts": "1623755118.124900",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1623846467.132800",
+        "reply_users": [
+            "U024Z91H0KC",
+            "U02469XJPGW",
+            "U02452P54A1",
+            "U01DBK8NUCR"
+        ],
+        "replies": [
+            {
+                "user": "U024Z91H0KC",
+                "ts": "1623762195.125800"
+            },
+            {
+                "user": "U02469XJPGW",
+                "ts": "1623769533.128000"
+            },
+            {
+                "user": "U02452P54A1",
+                "ts": "1623795717.132000"
+            },
+            {
+                "user": "U01DBK8NUCR",
+                "ts": "1623830779.132400"
+            },
+            {
+                "user": "U02452P54A1",
+                "ts": "1623846467.132800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U020EL92NBZ",
+                    "U01J84U3SQ6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2eddd05-c9a7-4a57-80a7-ae93c827667a",
+        "type": "message",
+        "text": "Do the writers need to be UK-based?",
+        "user": "U024Z91H0KC",
+        "ts": "1623762195.125800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e54b9c0d1d7d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-14\/2193186202656_e54b9c0d1d7dcc24c0b5_72.png",
+            "first_name": "Leanna",
+            "real_name": "Leanna Lee",
+            "display_name": "Leanna Lee",
+            "team": "TJE58GTJL",
+            "name": "leannaleewriter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7kF2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do the writers need to be UK-based?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623755118.124900",
+        "parent_user_id": "U01DBK8NUCR"
+    },
+    {
+        "client_msg_id": "8D35C029-16E3-4629-94AB-4D951096C1A9",
+        "type": "message",
+        "text": "<@U01AHL8AGBB> they’re <tel:1200-160|1200-160>0 words most of the time. :relaxed:",
+        "user": "U024K88ECFN",
+        "ts": "1623762465.127200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xf7zm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " they’re "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:1200-160",
+                                "text": "1200-160"
+                            },
+                            {
+                                "type": "text",
+                                "text": "0 words most of the time. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623448618.107200",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "ce6ba9b9-b0ed-4b62-a2b1-94a1e95be0f7",
+        "type": "message",
+        "text": "Gotcha. That lines up with all the upthread responses!",
+        "user": "U01AHL8AGBB",
+        "ts": "1623764941.127500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oi2fW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gotcha. That lines up with all the upthread responses!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623448618.107200",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "048adcf4-e965-4725-810b-acbb9d87a1da",
+        "type": "message",
+        "text": "Hi Hannah, if they're not required to be based in the UK, I'm certainly interested! <mailto:sabrinatoppa@gmail.com|sabrinatoppa@gmail.com>",
+        "user": "U02469XJPGW",
+        "ts": "1623769533.128000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9da9d00f6cb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-15\/2186507057537_9da9d00f6cb1d23f50ad_72.jpg",
+            "first_name": "",
+            "real_name": "Sabrina Toppa",
+            "display_name": "Sabrina Toppa",
+            "team": "TJE58GTJL",
+            "name": "sabrinatoppa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Hannah, if they're not required to be based in the UK, I'm certainly interested! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:sabrinatoppa@gmail.com",
+                                "text": "sabrinatoppa@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623755118.124900",
+        "parent_user_id": "U01DBK8NUCR"
+    },
+    {
+        "client_msg_id": "40d09bbd-b9c1-4b4e-9466-c55c2df0881a",
+        "type": "message",
+        "text": "Rebekah, I'm curious what you consider a fair rate for freelancers in this scenario?\n\n(Also, outlining an article isn't the same as writing the article..)",
+        "user": "U02469XJPGW",
+        "ts": "1623769857.128400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9da9d00f6cb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-15\/2186507057537_9da9d00f6cb1d23f50ad_72.jpg",
+            "first_name": "",
+            "real_name": "Sabrina Toppa",
+            "display_name": "Sabrina Toppa",
+            "team": "TJE58GTJL",
+            "name": "sabrinatoppa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02469XJPGW",
+            "ts": "1623769881.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "==5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rebekah, I'm curious what you consider a fair rate for freelancers in this scenario?\n\n(Also, outlining an article isn't the same as writing the article..)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623448618.107200",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "4d23c77b-5424-4c13-bc65-8b1635110f18",
+        "type": "message",
+        "text": "We are looking for an *PR\/Media Relations\/Outreach Assistant* to help us promote our clients’ content (e.g. research reports, data dashboards, surveys, interactive tools) through targeted outreach.\n\nPrimary responsibilities of this hourly role include:\n– Coming up with keywords that are relevant to the content\n- Identifying suitable types of sites and handpick sites our clients´ content could resonate with\n- Creating a list of contacts to target, via our automated tool (no email research!)\n- Crafting well-researched and personalized pitches to the media and bloggers\n– Manage replies and follow up emails\n- Track and record the status of each site we’re in contact with\nThere are a few other tasks that fit within the process that we’ll bring you up to speed on when hired. Everything you’ll be doing we have training documents for.\n\nThe ideal candidate:\n– Can read and speak perfect English\n– Can create positive relationships through email\n– Has some level of sales\/persuasion\/negotiation skills\n– Is proactive and works well independently\n– Can handle managing dozens of email conversations at the same time\n\nCreativity and impeccable attention to detail &gt; experience\n\nIf this sounds like something you’d be great at, then please apply!\n\nIn your message let us know of any experience you have that’s related to this job.\n\nThanks for taking the time to apply! Have a great day.\n\nBest,\nDaniel",
+        "user": "U0227HT9YRF",
+        "ts": "1623778758.129200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2718c7484a5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2048969125879_2718c7484a5e30b53f00_72.jpg",
+            "first_name": "",
+            "real_name": "Daniel Kupka",
+            "display_name": "Daniel Kupka",
+            "team": "TJE58GTJL",
+            "name": "daniel.kupka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are looking for an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "PR\/Media Relations\/Outreach Assistant ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "to help us promote our clients’ content (e.g. research reports, data dashboards, surveys, interactive tools) through targeted outreach.\n\nPrimary responsibilities of this hourly role include:\n– Coming up with keywords that are relevant to the content\n- Identifying suitable types of sites and handpick sites our clients´ content could resonate with\n- Creating a list of contacts to target, via our automated tool (no email research!)\n- Crafting well-researched and personalized pitches to the media and bloggers\n– Manage replies and follow up emails\n- Track and record the status of each site we’re in contact with\nThere are a few other tasks that fit within the process that we’ll bring you up to speed on when hired. Everything you’ll be doing we have training documents for.\n\nThe ideal candidate:\n– Can read and speak perfect English\n– Can create positive relationships through email\n– Has some level of sales\/persuasion\/negotiation skills\n– Is proactive and works well independently\n– Can handle managing dozens of email conversations at the same time\n\nCreativity and impeccable attention to detail > experience\n\nIf this sounds like something you’d be great at, then please apply!\n\nIn your message let us know of any experience you have that’s related to this job.\n\nThanks for taking the time to apply! Have a great day.\n\nBest,\nDaniel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6fa6958-82a2-404c-ac7a-6a86ef25c50f",
+        "type": "message",
+        "text": "Looking for *sales focused* writers in the B2B space. Mostly will need long-form content of 2,000-3,000 words. Message me or reply here if interested.",
+        "user": "U020GLH1U10",
+        "ts": "1623791022.130800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "36fac68535ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-08\/2609166114656_36fac68535ace53d6c0a_72.jpg",
+            "first_name": "Alessandra",
+            "real_name": "Alessandra Colaci",
+            "display_name": "Alessandra Colaci",
+            "team": "TJE58GTJL",
+            "name": "alessandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "POP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sales focused",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " writers in the B2B space. Mostly will need long-form content of 2,000-3,000 words. Message me or reply here if interested."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623791022.130800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1626374750.295900",
+        "reply_users": [
+            "U01J84U3SQ6",
+            "U025J1947A6",
+            "U028D815JA0"
+        ],
+        "replies": [
+            {
+                "user": "U01J84U3SQ6",
+                "ts": "1623981121.143500"
+            },
+            {
+                "user": "U025J1947A6",
+                "ts": "1624105451.148900"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1626374750.295900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U012GHRAHDK",
+                    "U020EL92NBZ",
+                    "U01J84U3SQ6",
+                    "US3TA64RE"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U013JCCN8JE",
+                    "U01GWU4JWE4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01K3VD3154"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "406b8a4d-943b-4cd3-be50-df4b30f13baa",
+        "type": "message",
+        "text": "Hey <@U01DBK8NUCR>! If location is not a problem am certainly down for it.",
+        "user": "U02452P54A1",
+        "ts": "1623795717.132000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ec3ac4499e67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-07\/2168273861568_ec3ac4499e674b97c89b_72.jpg",
+            "first_name": "Timothy",
+            "real_name": "Timothy Ovie",
+            "display_name": "Timothy",
+            "team": "TJE58GTJL",
+            "name": "iamtimothyovie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkIL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01DBK8NUCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! If location is not a problem am certainly down for it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623755118.124900",
+        "parent_user_id": "U01DBK8NUCR"
+    }
+]

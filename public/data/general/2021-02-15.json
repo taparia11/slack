@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1613397724.071700",
+        "thread_ts": "1613397724.071700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1613415843.072100",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1613415843.072100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1613415843.072100"
+    },
+    {
+        "client_msg_id": "fa6d57aa-f74e-43f0-80f4-c5027ca7c5bd",
+        "type": "message",
+        "text": "hey casey - i'm trying to keep job stuff in <#CJE3XC44V|job-listings>. gonna remove this post but will include in <#CJE3XC0H3|-announcements> this week!",
+        "user": "UJG9WTEKG",
+        "ts": "1613415843.072100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogyog",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey casey - i'm trying to keep job stuff in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CJE3XC44V"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". gonna remove this post but will include in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CJE3XC0H3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this week!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613397724.071700",
+        "parent_user_id": "U01MV98FQAY"
+    }
+]

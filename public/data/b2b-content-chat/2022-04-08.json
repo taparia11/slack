@@ -1,0 +1,233 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1649406066.837559",
+        "thread_ts": "1649406066.837559",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649432980.521219",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1649432980.521219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649432980.521219"
+    },
+    {
+        "client_msg_id": "9644469e-bd3b-4c10-b7cc-78e5e410cf1c",
+        "type": "message",
+        "text": "Thanks <@U02ME70EHBL> I’m envisioning first step is educating them on it, then second step would be managing it for them, I’ve seen it done successfully before too. I also want LinkedIn coaching for mid-level employees too, give them the tools, knowledge and motivation to really get after it",
+        "user": "U031BTRBDJP",
+        "ts": "1649410829.869129",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eabb66f9cb2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-03\/3064871782817_eabb66f9cb2a8060c4b4_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Billington",
+            "display_name": "Alexander Billington",
+            "team": "TJE58GTJL",
+            "name": "alexander.billington",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N==xw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ME70EHBL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m envisioning first step is educating them on it, then second step would be managing it for them, I’ve seen it done successfully before too. I also want LinkedIn coaching for mid-level employees too, give them the tools, knowledge and motivation to really get after it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649326916.420519",
+        "parent_user_id": "U031BTRBDJP"
+    },
+    {
+        "client_msg_id": "e7794ead-40ca-4b11-b719-516fc336c9c2",
+        "type": "message",
+        "text": "Thank you <@UUXMCJQ15> I’ll check it out!",
+        "user": "U031BTRBDJP",
+        "ts": "1649410851.770549",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eabb66f9cb2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-03\/3064871782817_eabb66f9cb2a8060c4b4_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Billington",
+            "display_name": "Alexander Billington",
+            "team": "TJE58GTJL",
+            "name": "alexander.billington",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tg0ZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ll check it out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649326916.420519",
+        "parent_user_id": "U031BTRBDJP"
+    },
+    {
+        "client_msg_id": "1787e6f4-cb03-46b7-bce0-ed09f4e6e8b6",
+        "type": "message",
+        "text": "<@U031FGHH00M> can you move this one to <#CKRJX5U5A|collab> as well?",
+        "user": "UJG9WTEKG",
+        "ts": "1649432980.521219",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "seR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U031FGHH00M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this one to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKRJX5U5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as well?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649406066.837559",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U031FGHH00M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ceea1d78-4199-49f5-b2ea-2f5741a5fe5c",
+        "type": "message",
+        "text": "Quick question for y’all: has anyone hired a _part-time\/freelance_ managing editor (or content manager)? How do you balance product knowledge and subject matter expertise when outsourcing this role?\n\nOr on the flipside: is editorial a role you think should never be outsourced?",
+        "user": "UJ7R3QGSV",
+        "ts": "1649452541.625229",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gaf0f8ed70a3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5baf0f8ed70a3ef2324402c5dfe65280.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Kieran",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "kieran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FuNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quick question for y’all: has anyone hired a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "part-time\/freelance",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " managing editor (or content manager)? How do you balance product knowledge and subject matter expertise when outsourcing this role?\n\nOr on the flipside: is editorial a role you think should never be outsourced?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

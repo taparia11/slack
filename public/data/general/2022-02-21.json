@@ -1,0 +1,1412 @@
+[
+    {
+        "client_msg_id": "3c57d62a-b5f9-4baa-9066-bd2f36feb191",
+        "type": "message",
+        "text": "Hi, we are seeing a huge uptick in the number of bots clicking links in emails, ads, etc. Our marketing platform is Pardot, CRM = Salesforce, and website is Wordpress - has anyone implemented any solutions that have successfully countered bots?",
+        "user": "U02PS72HVD2",
+        "ts": "1645436176.917829",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "671255a77a0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-08\/2839389151632_671255a77a0d61f5f1d1_72.jpg",
+            "first_name": "Nick",
+            "real_name": "Nick Potts",
+            "display_name": "Nick Potts",
+            "team": "TJE58GTJL",
+            "name": "n.potts",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, we are seeing a huge uptick in the number of bots clicking links in emails, ads, etc. Our marketing platform is Pardot, CRM = Salesforce, and website is Wordpress - has anyone implemented any solutions that have successfully countered bots?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645436176.917829",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1645544437.460969",
+        "reply_users": [
+            "UJE5LARL0",
+            "UUJBMNRNF",
+            "U02PS72HVD2"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645456978.405149"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645456998.704329"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645457039.902779"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1645471203.946009"
+            },
+            {
+                "user": "U02PS72HVD2",
+                "ts": "1645544437.460969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fb4b0034-e3a7-45d5-a117-38573f221f16",
+        "type": "message",
+        "text": "To me:\n• content strategist: SEO-focused, creating a keyword-based strategy for on-site content creation\n• content marketer: includes everything that's content marketing, so also social media strategy and content creation, video strategy and creation, etc.",
+        "user": "U02J7DM81AQ",
+        "ts": "1645456301.569509",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb47e412d680",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b47e412d680490c17c4ca22271a9e55b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sofie",
+            "real_name": "Sofie Couwenbergh",
+            "display_name": "Sofie Couwenbergh",
+            "team": "TJE58GTJL",
+            "name": "sofie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02J7DM81AQ",
+            "ts": "1645456369.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ygt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To me:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "content strategist: SEO-focused, creating a keyword-based strategy for on-site content creation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "content marketer: includes everything that's content marketing, so also social media strategy and content creation, video strategy and creation, etc."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645218253.242399",
+        "parent_user_id": "U01J3P3EVDL",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01J3P3EVDL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3679a4e-d93d-41a6-a46d-35e51ee23d80",
+        "type": "message",
+        "text": "Putting Cloudflare or some other WAF in front of your site is probably the highest time\/payoff thing you can do.",
+        "user": "UJE5LARL0",
+        "ts": "1645456978.405149",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LsCd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Putting Cloudflare or some other WAF in front of your site is probably the highest time\/payoff thing you can do."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645436176.917829",
+        "parent_user_id": "U02PS72HVD2",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92648771-df0f-4bc6-b1cf-be3b673efb44",
+        "type": "message",
+        "text": "There are _much_ more expensive solutions, but as a solid first step, that's hard to beat",
+        "user": "UJE5LARL0",
+        "ts": "1645456998.704329",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7anK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "much",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " more expensive solutions, but as a solid first step, that's hard to beat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645436176.917829",
+        "parent_user_id": "U02PS72HVD2"
+    },
+    {
+        "client_msg_id": "1c776185-e7fb-43c7-a1f8-1d213c1faa2d",
+        "type": "message",
+        "text": "You could also try Sucuri who have a low cost platform, that would at least let you kill the obvious bots.",
+        "user": "UJE5LARL0",
+        "ts": "1645457039.902779",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+7+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You could also try Sucuri who have a low cost platform, that would at least let you kill the obvious bots."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645436176.917829",
+        "parent_user_id": "U02PS72HVD2"
+    },
+    {
+        "client_msg_id": "6847b4f0-97e0-412c-8e2f-547b8f0502ef",
+        "type": "message",
+        "text": "<@ULJBEFSJJ> here's a good article: <https:\/\/firstpagesage.com\/seo-blog\/b2b-saas-funnel-conversion-benchmarks-fc\/> -- shows conversion rates by channel and industry segments.",
+        "user": "U032XMHTPTK",
+        "ts": "1645458179.627669",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "618173ed4460",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-01\/3324655820966_618173ed44600f391cf0_72.png",
+            "first_name": "Kim",
+            "real_name": "Kim Ann King",
+            "display_name": "Kim Ann King",
+            "team": "TJE58GTJL",
+            "name": "kimannking",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/firstpagesage.com\/seo-blog\/b2b-saas-funnel-conversion-benchmarks-fc\/",
+                "ts": 1614182449,
+                "thumb_url": "https:\/\/firstpagesage.com\/wp-content\/uploads\/grid-image-7.png",
+                "thumb_width": 990,
+                "thumb_height": 780,
+                "service_icon": "https:\/\/firstpagesage.com\/wp-content\/uploads\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/firstpagesage.com\/seo-blog\/b2b-saas-funnel-conversion-benchmarks-fc\/",
+                "fallback": "First Page Sage: B2B SaaS Funnel Conversion Benchmarks - First Page Sage",
+                "text": "In this report, we provide benchmarks for marketing performance along each step of the B2B SaaS conversion funnel. We will begin with definitions and average conversion rates for each step and proceed to break down conversion rate benchmarks by marketing channel, industry, and target audience company size.",
+                "title": "B2B SaaS Funnel Conversion Benchmarks - First Page Sage",
+                "title_link": "https:\/\/firstpagesage.com\/seo-blog\/b2b-saas-funnel-conversion-benchmarks-fc\/",
+                "service_name": "First Page Sage",
+                "fields": [
+                    {
+                        "value": "Evan Bailyn",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iy4v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "ULJBEFSJJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here's a good article: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/firstpagesage.com\/seo-blog\/b2b-saas-funnel-conversion-benchmarks-fc\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- shows conversion rates by channel and industry segments."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644874603.064999",
+        "parent_user_id": "ULJBEFSJJ",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "ULJBEFSJJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "605164f0-ebc4-4fd9-ab1a-d32880a7b459",
+        "type": "message",
+        "text": "<@U02U3RDQKHP> suggest trying <#C0226F0HVV1|agency-life>",
+        "user": "UJG9WTEKG",
+        "ts": "1645460534.093119",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dAP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02U3RDQKHP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " suggest trying "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0226F0HVV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645331823.645179",
+        "parent_user_id": "U02U3RDQKHP"
+    },
+    {
+        "client_msg_id": "d79e5338-d4eb-4df4-8fb4-f8bce6fa1be4",
+        "type": "message",
+        "text": "<@U03330N1VS4> is this a freelance role? if so, can you move it to <#C021RFDHEMD|all-things-freelance>?",
+        "user": "UJG9WTEKG",
+        "ts": "1645460595.455639",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SC7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03330N1VS4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is this a freelance role? if so, can you move it to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C021RFDHEMD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645301834.917379",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "d7d61360-576e-42e5-961e-f599190e9065",
+        "type": "message",
+        "text": "Question for anyone who works with illustrators on hand-drawn blog images, website graphics, etc. — what do you budget for a single custom illustration?",
+        "user": "U01JKS2FESH",
+        "ts": "1645471149.528379",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3e23e8affeb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-13\/1635462882835_3e23e8affeb067235cca_72.jpg",
+            "first_name": "Hal",
+            "real_name": "Hal Walling",
+            "display_name": "Hal Walling",
+            "team": "TJE58GTJL",
+            "name": "hal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p3y7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question for anyone who works with illustrators on hand-drawn blog images, website graphics, etc. — what do you budget for a single custom illustration?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645471149.528379",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1645940435.806599",
+        "reply_users": [
+            "U02GYR8TM96",
+            "U01JKS2FESH",
+            "UUE7J6UDN",
+            "U014UBPTJ0N",
+            "URLKJLWKS",
+            "U02J1CXD44X",
+            "U01P13NTGG6"
+        ],
+        "replies": [
+            {
+                "user": "U02GYR8TM96",
+                "ts": "1645488471.543149"
+            },
+            {
+                "user": "U01JKS2FESH",
+                "ts": "1645496064.819739"
+            },
+            {
+                "user": "U01JKS2FESH",
+                "ts": "1645496086.265039"
+            },
+            {
+                "user": "UUE7J6UDN",
+                "ts": "1645544530.068029"
+            },
+            {
+                "user": "UUE7J6UDN",
+                "ts": "1645544588.634379"
+            },
+            {
+                "user": "U014UBPTJ0N",
+                "ts": "1645544906.604769"
+            },
+            {
+                "user": "URLKJLWKS",
+                "ts": "1645626317.926109"
+            },
+            {
+                "user": "U02J1CXD44X",
+                "ts": "1645799345.434379"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1645940435.806599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJHT5CHUY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cb9fdb4-0765-4d29-8457-2445739f2577",
+        "type": "message",
+        "text": "Wordfence works pretty well.",
+        "user": "UUJBMNRNF",
+        "ts": "1645471203.946009",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ozf7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wordfence works pretty well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645436176.917829",
+        "parent_user_id": "U02PS72HVD2"
+    },
+    {
+        "client_msg_id": "c94656c9-6f04-4df9-b4d7-df1c841c1401",
+        "type": "message",
+        "text": ":sparkles:Client onboarding process:sparkles:\n\nHi all...I'm hoping some of you will share your process with me when a potential client gets in touch for a writing project, as I'd like to solidify my process. Do you schedule a call or just an email? Do you ask them for a brief before giving a quote? Do you send an onboarding document to fill out? Do you always send a contract for every client?\n\nThanks for any wisdom and insight you are willing to share! :pray:",
+        "user": "U033RCB53B2",
+        "ts": "1645482023.974909",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b05893f0dd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-20\/3133292338755_3b05893f0dd0a6726ae2_72.jpg",
+            "first_name": "Stephanie",
+            "real_name": "Stephanie Gilman",
+            "display_name": "Steph Gilman",
+            "team": "TJE58GTJL",
+            "name": "gilman.steph",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4wRZg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sparkles"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Client onboarding process"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHi all...I'm hoping some of you will share your process with me when a potential client gets in touch for a writing project, as I'd like to solidify my process. Do you schedule a call or just an email? Do you ask them for a brief before giving a quote? Do you send an onboarding document to fill out? Do you always send a contract for every client?\n\nThanks for any wisdom and insight you are willing to share! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645482023.974909",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1645554849.632809",
+        "reply_users": [
+            "U016BDEQ40J",
+            "U033RCB53B2",
+            "U024K88ECFN",
+            "U030TFJMQ74"
+        ],
+        "replies": [
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1645483857.221049"
+            },
+            {
+                "user": "U033RCB53B2",
+                "ts": "1645484477.395699"
+            },
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1645484575.245379"
+            },
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1645484584.906179"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1645501430.353439"
+            },
+            {
+                "user": "U033RCB53B2",
+                "ts": "1645503335.333029"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1645538772.622849"
+            },
+            {
+                "user": "U030TFJMQ74",
+                "ts": "1645554849.632809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "660e82b2-87ac-44c8-9f30-3b32f790e02a",
+        "type": "message",
+        "text": "to answer your questions simply:\n• start out with email to ask for basic info about the project and the company\n• I send a client questionnaire (formal or informal) and ask them to fill it out before scheduling a call\n• call is a feeling-out of the client themselves to see if they’re someone i wanna work with, and so they can get a feel for me. i also do a deeper dive into the questionnaire\n• I never give a quote on the call. I always give it a day or so to think about it before quoting\n• I always send a contract for clients ",
+        "user": "U016BDEQ40J",
+        "ts": "1645483857.221049",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to answer your questions simply:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "start out with email to ask for basic info about the project and the company"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I send a client questionnaire (formal or informal) and ask them to fill it out before scheduling a call"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "call is a feeling-out of the client themselves to see if they’re someone i wanna work with, and so they can get a feel for me. i also do a deeper dive into the questionnaire"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I never give a quote on the call. I always give it a day or so to think about it before quoting"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I always send a contract for clients "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645482023.974909",
+        "parent_user_id": "U033RCB53B2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U031B8HB5FB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3c5335d-d54b-470a-bca5-1026f858e7e9",
+        "type": "message",
+        "text": "Thanks so much <@U016BDEQ40J>, that's very helpful! My concern is trying to find the balance between not doing too much work upfront before even getting hired\/agreeing to work with the client...but also wanting to be organized and have everything I need from the get go.",
+        "user": "U033RCB53B2",
+        "ts": "1645484477.395699",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b05893f0dd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-20\/3133292338755_3b05893f0dd0a6726ae2_72.jpg",
+            "first_name": "Stephanie",
+            "real_name": "Stephanie Gilman",
+            "display_name": "Steph Gilman",
+            "team": "TJE58GTJL",
+            "name": "gilman.steph",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "745Jz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks so much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016BDEQ40J"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", that's very helpful! My concern is trying to find the balance between not doing too much work upfront before even getting hired\/agreeing to work with the client...but also wanting to be organized and have everything I need from the get go."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645482023.974909",
+        "parent_user_id": "U033RCB53B2"
+    },
+    {
+        "client_msg_id": "73f902d4-9426-4654-8242-6393640fe7ad",
+        "type": "message",
+        "text": "also don’t be afraid to move the prospect away from what they are originally proposing. i just spoke to someone who wanted a retainer contract right away but felt he was jumping into things too fast, so i talked him into paying for a couple of trial articles first to make sure he and i were a fit (which he greatly appreciated)",
+        "user": "U016BDEQ40J",
+        "ts": "1645484575.245379",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ILB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also don’t be afraid to move the prospect away from what they are originally proposing. i just spoke to someone who wanted a retainer contract right away but felt he was jumping into things too fast, so i talked him into paying for a couple of trial articles first to make sure he and i were a fit (which he greatly appreciated)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645482023.974909",
+        "parent_user_id": "U033RCB53B2"
+    },
+    {
+        "client_msg_id": "3ecd7097-a8ab-4feb-8bc1-c4875ab36117",
+        "type": "message",
+        "text": "DM me if you wanna chat more about this",
+        "user": "U016BDEQ40J",
+        "ts": "1645484584.906179",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28ey",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DM me if you wanna chat more about this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645482023.974909",
+        "parent_user_id": "U033RCB53B2"
+    },
+    {
+        "client_msg_id": "8de9c7b3-020c-44e7-bbc9-d94502450d76",
+        "type": "message",
+        "text": "Hey, y'all! I was wondering if anyone here has suggestions on how to ask current clients for permission to use their logo in marketing materials? Any thoughts are appreciated. Thank you!",
+        "user": "U027N7D5ZHD",
+        "ts": "1645486001.587019",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f277ef81923d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3140243785828_f277ef81923d86a34c0c_72.jpg",
+            "first_name": "",
+            "real_name": "Hannah Middleton",
+            "display_name": "Hannah Middleton",
+            "team": "TJE58GTJL",
+            "name": "hannahmidd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ufbuj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, y'all! I was wondering if anyone here has suggestions on how to ask current clients for permission to use their logo in marketing materials? Any thoughts are appreciated. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645486001.587019",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1645940892.281599",
+        "reply_users": [
+            "U02UW2PH6FQ",
+            "U01P13NTGG6"
+        ],
+        "replies": [
+            {
+                "user": "U02UW2PH6FQ",
+                "ts": "1645634538.859049"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1645940892.281599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f6a8fe80-4f05-4630-9c0d-4ec398c62cd4",
+        "type": "message",
+        "text": "Following because I'd love to know this answer",
+        "user": "U02GYR8TM96",
+        "ts": "1645488471.543149",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f1f652ee1a88",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2556223130962_f1f652ee1a88d648e327_72.png",
+            "first_name": "David",
+            "real_name": "David Ramos",
+            "display_name": "David Ramos",
+            "team": "TJE58GTJL",
+            "name": "david.ramos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KTPva",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Following because I'd love to know this answer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645471149.528379",
+        "parent_user_id": "U01JKS2FESH"
+    },
+    {
+        "type": "message",
+        "text": "When you see someone responded and hope they have an answer",
+        "files": [
+            {
+                "id": "F03429D50DR",
+                "created": 1645496005,
+                "timestamp": 1645496005,
+                "name": "letdown.gif",
+                "title": "letdown.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U01JKS2FESH",
+                "editable": false,
+                "size": 10038850,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F03429D50DR\/letdown.gif?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F03429D50DR\/download\/letdown.gif?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 269,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_360.gif?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_480.gif?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "original_w": 480,
+                "original_h": 269,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_deanimate.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03429D50DR-5e667893a9\/letdown_deanimate_gif.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_tiny": "AwAaADDOOSakQAnJ5A7U0rgUqHC5YcZpCLAU7c7vw7VDIqhgRwG\/SpV29MGo5CDnHGKCmgliUY25zSqwwvy8jrTUfc43kEHvT1IBJB\/CgQmwHgUFd2ABxSJ92rEX3DQMYqkH2pwtMjIbk9jUifeFTdqaQMz5YimegOcUKoCncRn60+46\/jVdun40hH\/\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01JKS2FESH\/F03429D50DR\/letdown.gif",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F03429D50DR-8cf10fe181",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01JKS2FESH",
+        "display_as_bot": false,
+        "ts": "1645496064.819739",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gef",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you see someone responded and hope they have an answer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1f62f2a5-dd61-4e32-9614-2a2cf2f3e821",
+        "thread_ts": "1645471149.528379",
+        "parent_user_id": "U01JKS2FESH",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U02GYR8TM96"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U0113AV4895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37d72612-ed5a-400a-86c3-974582138106",
+        "type": "message",
+        "text": "jk <@U02GYR8TM96> I hope we find what we're looking for",
+        "user": "U01JKS2FESH",
+        "ts": "1645496086.265039",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3e23e8affeb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-13\/1635462882835_3e23e8affeb067235cca_72.jpg",
+            "first_name": "Hal",
+            "real_name": "Hal Walling",
+            "display_name": "Hal Walling",
+            "team": "TJE58GTJL",
+            "name": "hal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jk "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GYR8TM96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I hope we find what we're looking for"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645471149.528379",
+        "parent_user_id": "U01JKS2FESH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GYR8TM96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60e0a5f1-2d65-485b-aecb-6237540e4e4d",
+        "type": "message",
+        "text": "I run an agency, but I've found that giving potential clients the option to ask more questions in an email OR schedule a discovery call on my Calendly has worked well. People who have a lot of qualifying questions will usually ask them in the email, but people who feel confident about moving forward usually go to Calendly.\n\nI use the specific link I set up with ~4 survey questions that help me get a feel for exactly what they need before we meet. In the first 30-minute call, I identify what I need to know and take _copious_ notes.\n\nAt that point, I'll either write up a formal proposal or email the client with an idea of what I recommend for them (depending on the use case).\n\nWe do use contracts pretty religiously these days. I didn't at first, and in our case it was not a great call. I would say it probably depends on the nature of the work you're doing, but I'm generally a fan of contracts to make sure the expectations and deliverables are very clear up front.",
+        "user": "U024K88ECFN",
+        "ts": "1645501430.353439",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1JYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I run an agency, but I've found that giving potential clients the option to ask more questions in an email OR schedule a discovery call on my Calendly has worked well. People who have a lot of qualifying questions will usually ask them in the email, but people who feel confident about moving forward usually go to Calendly.\n\nI use the specific link I set up with ~4 survey questions that help me get a feel for exactly what they need before we meet. In the first 30-minute call, I identify what I need to know and take "
+                            },
+                            {
+                                "type": "text",
+                                "text": "copious",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " notes.\n\nAt that point, I'll either write up a formal proposal or email the client with an idea of what I recommend for them (depending on the use case).\n\nWe do use contracts pretty religiously these days. I didn't at first, and in our case it was not a great call. I would say it probably depends on the nature of the work you're doing, but I'm generally a fan of contracts to make sure the expectations and deliverables are very clear up front."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645482023.974909",
+        "parent_user_id": "U033RCB53B2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02E02NL6GM",
+                    "U031B8HB5FB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90155575-76f2-499b-9aa1-1a5ac9376d3e",
+        "type": "message",
+        "text": "Thank you <@U024K88ECFN>! What types of questions do you ask in your initial survey? And do you then ask the client for a more fulsome brief after you've decided to go ahead with the project? At what point in that whole process do you provide your rate\/quote?",
+        "user": "U033RCB53B2",
+        "ts": "1645503335.333029",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b05893f0dd0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-20\/3133292338755_3b05893f0dd0a6726ae2_72.jpg",
+            "first_name": "Stephanie",
+            "real_name": "Stephanie Gilman",
+            "display_name": "Steph Gilman",
+            "team": "TJE58GTJL",
+            "name": "gilman.steph",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YYM=O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U024K88ECFN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! What types of questions do you ask in your initial survey? And do you then ask the client for a more fulsome brief after you've decided to go ahead with the project? At what point in that whole process do you provide your rate\/quote?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645482023.974909",
+        "parent_user_id": "U033RCB53B2",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03330MFEN4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f539f65-1cfa-4736-ba1c-7c8a1f87aa19",
+        "type": "message",
+        "text": "*Hey folks, I’ve a couple of questions re: rate cards.* :slightly_smiling_face: I’ve only given custom quotes at this point, but recently some leads have been asking for rate cards, so I’d like to explore this option.\n\n1. Do you use a rate card? How’s it working for you?\n\n2. When is it a good choice to give your rate card instead of inviting them to a call + creating a custom quote?\n\n3. What’s a good format for a writing rate card?\n\nThanks in advance!",
+        "user": "U033T3XET3K",
+        "ts": "1645506763.472849",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "47acf4220a26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-17\/3121281737557_47acf4220a261234191d_72.jpg",
+            "first_name": "kristiana",
+            "real_name": "kristiana rule",
+            "display_name": "kristiana rule",
+            "team": "TJE58GTJL",
+            "name": "kristiana.rule",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=uM\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks, I’ve a couple of questions re: rate cards.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ve only given custom quotes at this point, but recently some leads have been asking for rate cards, so I’d like to explore this option.\n\n1. Do you use a rate card? How’s it working for you?\n\n2. When is it a good choice to give your rate card instead of inviting them to a call + creating a custom quote?\n\n3. What’s a good format for a writing rate card?\n\nThanks in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645506763.472849",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1645580624.527839",
+        "reply_users": [
+            "U01NJ39M36K",
+            "U0344825724",
+            "U0211K6LSM9",
+            "U033T3XET3K"
+        ],
+        "replies": [
+            {
+                "user": "U01NJ39M36K",
+                "ts": "1645546538.247739"
+            },
+            {
+                "user": "U0344825724",
+                "ts": "1645546891.942799"
+            },
+            {
+                "user": "U01NJ39M36K",
+                "ts": "1645546999.063429"
+            },
+            {
+                "user": "U0344825724",
+                "ts": "1645559400.985849"
+            },
+            {
+                "user": "U0211K6LSM9",
+                "ts": "1645559625.730749"
+            },
+            {
+                "user": "U033T3XET3K",
+                "ts": "1645580624.527839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

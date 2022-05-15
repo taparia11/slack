@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1609851716.086600",
+        "thread_ts": "1609851716.086600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1609857680.086700",
+        "reply_users": [
+            "UJJFDTN8G"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1609857680.086700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2014c185-e0e2-4952-9ac9-df87e014b5ed",
+        "type": "message",
+        "text": "<@UJHMVAE3G>?",
+        "user": "UJJFDTN8G",
+        "ts": "1609857680.086700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lvqdu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJHMVAE3G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609851716.086600",
+        "parent_user_id": "U01CSDCBGGL"
+    }
+]

@@ -1,0 +1,815 @@
+[
+    {
+        "client_msg_id": "86c6dbdf-2f5b-4feb-ad33-0b218e567703",
+        "type": "message",
+        "text": "Yes, this impacts their SEO. Each of those pages has the same URL (and different parameters), so Google sees them as the _same_ page and URL.\n\nFor example:\n\n• Pet Toys (\/shop\/\n• Birthday Pet Toys (\/shop\/?filter_occasion=birthday_\n• Cheap Birthday Pet Toys (\/shop\/?min_price=200&amp;max_price=390&amp;filter_occasion=21st-birthday&amp;filter_person=grandparents)\nAll the same page (\/shop\/). Not great.\n\n&gt; If yes, would a simple solution be to no-index the filter URLs and add a canonical tag??\nWhat would you be canonicaling the filtered URLs to?",
+        "user": "U01KH3P18RZ",
+        "ts": "1639060056.341700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, this impacts their SEO. Each of those pages has the same URL (and different parameters), so Google sees them as the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "same",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " page and URL.\n\nFor example:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pet Toys (\/shop\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Birthday Pet Toys (\/shop\/?filter_occasion=birthday_"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cheap Birthday Pet Toys (\/shop\/?min_price=200&max_price=390&filter_occasion=21st-birthday&filter_person=grandparents)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAll the same page (\/shop\/). Not great.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If yes, would a simple solution be to no-index the filter URLs and add a canonical tag??"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nWhat would you be canonicaling the filtered URLs to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02H3K9BEMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "280f777a-61ba-44fd-8aa8-8060279c24b4",
+        "type": "message",
+        "text": "Recently had a client with a similar question.\n\nYou can use robots.txt and place something like  Disallow: *?color=red\n\nHere is an article that might help for what you re asking:\n<https:\/\/delante.co\/how-to-index-products-on-filter-pages\/>",
+        "user": "U02KR8D3EMC",
+        "ts": "1639063898.342000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d3c3141759e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3101674047607_d3c3141759e2415414c1_72.jpg",
+            "first_name": "Alejo",
+            "real_name": "Alejo Garcia Bravo",
+            "display_name": "Alejo Garcia Bravo",
+            "team": "TJE58GTJL",
+            "name": "alejogarciag1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Recently had a client with a similar question.\n\nYou can use robots.txt and place something like  Disallow: *?color=red\n\nHere is an article that might help for what you re asking:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/delante.co\/how-to-index-products-on-filter-pages\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02H3K9BEMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6af4980-d8c8-4465-ab43-0a60495ecd7f",
+        "type": "message",
+        "text": "<@U01KH3P18RZ> Thank you for your helpful reply! What would happen if I add the canonical tag to the \/shop page?",
+        "user": "U02H3K9BEMA",
+        "ts": "1639064555.342600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09a184af1fd8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2592228292273_09a184af1fd866e135e1_72.jpg",
+            "first_name": "Claire",
+            "real_name": "Claire Beveridge",
+            "display_name": "Claire Beveridge",
+            "team": "TJE58GTJL",
+            "name": "claire919",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kChKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KH3P18RZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you for your helpful reply! What would happen if I add the canonical tag to the \/shop page?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA"
+    },
+    {
+        "client_msg_id": "490e51e8-876e-4281-bdf8-bb7b2dcbd3a4",
+        "type": "message",
+        "text": "<@U02H3K9BEMA> What would you be canonicaling \/shop\/ to?",
+        "user": "U01KH3P18RZ",
+        "ts": "1639064754.342800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YIdS=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02H3K9BEMA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What would you be canonicaling \/shop\/ to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA"
+    },
+    {
+        "client_msg_id": "98a878a3-4716-41b9-865e-7192dacb9acd",
+        "type": "message",
+        "text": "Oh, I mean, add a no-index + the can tag to the filter pages and canonical to \/shop?",
+        "user": "U02H3K9BEMA",
+        "ts": "1639064908.343000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09a184af1fd8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2592228292273_09a184af1fd866e135e1_72.jpg",
+            "first_name": "Claire",
+            "real_name": "Claire Beveridge",
+            "display_name": "Claire Beveridge",
+            "team": "TJE58GTJL",
+            "name": "claire919",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, I mean, add a no-index + the can tag to the filter pages and canonical to \/shop?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA"
+    },
+    {
+        "client_msg_id": "6616279f-87ed-48e0-8c2b-bcc9279b3c9c",
+        "type": "message",
+        "text": "&gt; Oh, I mean, add a no-index + the can tag to the filter pages and canonical to \/shop?\nNo-index + can is not a combo (<https:\/\/www.seroundtable.com\/google-noindex-rel-canonical-confusion-26079.html>)\n\n• \/shop\/?filter=1\n• \/shop\/?filter=2&amp;color=red\n• \/shop\/?filter=3&amp;color=blue&amp;price=500\nAll are the same page (\/shop\/) with different parameters. If you no-index _and_ canonical the filter pages to the shop page, that no-index will bite you - now \/shop\/ is no index!.\n\nPersonally, canonical to the master url might be the best route here.\n\n&gt; a) each filter is its own separate URL that Google has to crawl and rank (goodbye, crawl budget!) \nYup, that is an issue. Check to see how this is affecting your crawl budget. This article (<https:\/\/www.bluearray.co.uk\/news\/technical-seo\/faceted-navigation-and-seo-how-to-avoid-these-14-common-mistakes\/>) gets into faceted navigation and some crawl issues. Solving that can be complex but worth it if it’s affecting you currently.\n\n&gt; b) each page is effectively duplicate content?\nYup, that’s an issue. You’ll want to do _one_ of canonical or no-index.",
+        "user": "U01KH3P18RZ",
+        "ts": "1639068000.343200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+BuT",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, I mean, add a no-index + the can tag to the filter pages and canonical to \/shop?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nNo-index + can is not a combo ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.seroundtable.com\/google-noindex-rel-canonical-confusion-26079.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\/shop\/?filter=1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\/shop\/?filter=2&color=red"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\/shop\/?filter=3&color=blue&price=500"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAll are the same page (\/shop\/) with different parameters. If you no-index "
+                            },
+                            {
+                                "type": "text",
+                                "text": "and",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " canonical the filter pages to the shop page, that no-index will bite you - now \/shop\/ is no index!.\n\nPersonally, canonical to the master url might be the best route here.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a) each filter is its own separate URL that Google has to crawl and rank (goodbye, crawl budget!) "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nYup, that is an issue. Check to see how this is affecting your crawl budget. This article ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bluearray.co.uk\/news\/technical-seo\/faceted-navigation-and-seo-how-to-avoid-these-14-common-mistakes\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") gets into faceted navigation and some crawl issues. Solving that can be complex but worth it if it’s affecting you currently.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "b) each page is effectively duplicate content?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nYup, that’s an issue. You’ll want to do "
+                            },
+                            {
+                                "type": "text",
+                                "text": "one",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " of canonical or no-index."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA"
+    },
+    {
+        "client_msg_id": "e0a78a36-a804-4272-8543-1d8973d93fb6",
+        "type": "message",
+        "text": "Got it. Thanks so much, <@U01KH3P18RZ>! You've been really helpful! :pray:",
+        "user": "U02H3K9BEMA",
+        "ts": "1639071051.343700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09a184af1fd8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2592228292273_09a184af1fd866e135e1_72.jpg",
+            "first_name": "Claire",
+            "real_name": "Claire Beveridge",
+            "display_name": "Claire Beveridge",
+            "team": "TJE58GTJL",
+            "name": "claire919",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E5y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it. Thanks so much, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KH3P18RZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! You've been really helpful! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA",
+        "reactions": [
+            {
+                "name": "sparkling_heart",
+                "users": [
+                    "U01KH3P18RZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1377F031-3996-4FF7-A5FE-0D99C5E2BF72",
+        "type": "message",
+        "text": "I agree with Kai that assessing and setting a canonical would be the easiest route here.\n\nI do want to note that I have had instances where Google has ignored the canonicals we set, so I would highly, highly recommend that you fix the route cause of the issue by creating sub folders for each category.",
+        "user": "U02A8UR3Z60",
+        "ts": "1639072235.347700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f1I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with Kai that assessing and setting a canonical would be the easiest route here.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI do want to note that I have had instances where Google has ignored the canonicals we set, so I would highly, highly recommend that you fix the route cause of the issue by creating sub folders for each category."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02H3K9BEMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f323d87-1f6a-43f6-9f67-61cdb17a69c8",
+        "type": "message",
+        "text": "Great insight, <@U02A8UR3Z60> Thank you! I might circle back to you later with another question :slightly_smiling_face:",
+        "user": "U02H3K9BEMA",
+        "ts": "1639072307.348000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09a184af1fd8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2592228292273_09a184af1fd866e135e1_72.jpg",
+            "first_name": "Claire",
+            "real_name": "Claire Beveridge",
+            "display_name": "Claire Beveridge",
+            "team": "TJE58GTJL",
+            "name": "claire919",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Icw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great insight, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02A8UR3Z60"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you! I might circle back to you later with another question "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639011086.341300",
+        "parent_user_id": "U02H3K9BEMA",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U02A8UR3Z60"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "083bf374-c048-486f-953d-ee39f96975f2",
+        "type": "message",
+        "text": "hey pals, what's a really simple bulk keyword generator? Most of these tools look awful, that's what I need\n\nI had one, and I forgot too bookmark it?",
+        "user": "UJG24P8P6",
+        "ts": "1639088383.349800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4RiNS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey pals, what's a really simple bulk keyword generator? Most of these tools look awful, that's what I need\n\nI had one, and I forgot too bookmark it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639088383.349800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1639157162.351000",
+        "reply_users": [
+            "U01AHL8AGBB",
+            "UJG24P8P6"
+        ],
+        "replies": [
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1639098071.350700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1639157162.351000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d83fd72a-09e4-4e68-a253-4bc7ae8004e7",
+        "type": "message",
+        "text": "oh, found it: <https:\/\/wordmongolian.com\/>",
+        "user": "UJG24P8P6",
+        "ts": "1639088550.350000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VyA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh, found it: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordmongolian.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5de72675-da1e-452e-9b45-1e767d0aa1cd",
+        "type": "message",
+        "text": "There's also <https:\/\/keywordsheeter.com\/> ~ though I only know it coz it has a fun name :slightly_smiling_face:",
+        "user": "U01AHL8AGBB",
+        "ts": "1639098071.350700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/keywordsheeter.com\/",
+                "thumb_url": "https:\/\/keywordsheeter.com\/static\/images\/faviconKS.png",
+                "thumb_width": 122,
+                "thumb_height": 106,
+                "service_icon": "https:\/\/keywordsheeter.com\/static\/images\/faviconKS.png",
+                "id": 1,
+                "original_url": "https:\/\/keywordsheeter.com\/",
+                "fallback": "Keyword Sheeter",
+                "text": "Keyword Research Tool",
+                "title": "Keyword Sheeter",
+                "title_link": "https:\/\/keywordsheeter.com\/",
+                "service_name": "keywordsheeter.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SvSkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's also "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/keywordsheeter.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ~ though I only know it coz it has a fun name "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639088383.349800",
+        "parent_user_id": "UJG24P8P6"
+    }
+]

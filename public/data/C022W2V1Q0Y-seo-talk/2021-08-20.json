@@ -1,0 +1,783 @@
+[
+    {
+        "client_msg_id": "4766eff9-015d-473f-bd52-8047a928c350",
+        "type": "message",
+        "text": "This is great and something I completely missed!",
+        "user": "U01MM4EAC69",
+        "ts": "1629460165.069700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNfyp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is great and something I completely missed!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629422633.068500",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "c5d25b23-a5d3-4637-80ac-eff5aaf83419",
+        "type": "message",
+        "text": "Thank you <@U02AR2XSN1M> and <@UUJBMNRNF>",
+        "user": "U01MM4EAC69",
+        "ts": "1629460186.069900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AR2XSN1M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUJBMNRNF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629422633.068500",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8218ab9-5043-41e9-a369-8efad9b19a0c",
+        "type": "message",
+        "text": "I'm also experiencing this <@U01MM4EAC69>. Really valid points <@UUKNSAKUH> <@U01KH3P18RZ>, thanks! I had some further questions you might be able to help with.\n\n• When you localise English content i.e. US to UK, how do the UK variations sit within the existing blog architecture? Are they simply orphan pages or do you have to create a new blog homepage to house all the UK articles?\n• Are the localised versions still indexed and crawled the same way as the original articles?\nThanks!",
+        "user": "U013Y1BL3JM",
+        "ts": "1629463651.070100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a43708b3d6f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2548333297782_a43708b3d6f1a7dfa528_72.png",
+            "first_name": "",
+            "real_name": "Freddie Campbell",
+            "display_name": "Freddie Campbell",
+            "team": "TJE58GTJL",
+            "name": "frederique.campbell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Til",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm also experiencing this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01MM4EAC69"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Really valid points "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUKNSAKUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KH3P18RZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thanks! I had some further questions you might be able to help with.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When you localise English content i.e. US to UK, how do the UK variations sit within the existing blog architecture? Are they simply orphan pages or do you have to create a new blog homepage to house all the UK articles?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Are the localised versions still indexed and crawled the same way as the original articles?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626290444.188700",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "7fe1082c-5d9b-4333-9edb-c1e5d7f8fd65",
+        "type": "message",
+        "text": "I will also say that we've found the best results when hyper-focusing on certain areas of a business for content strategy (specifically for blog posts). Like, what is the most specific area of this business with 5-10 keywords you could build out as an individual category? The broader you get with the topic of the individual pieces of content you write, the longer it will take to rank.\n\nAlso, +1 to getting citations as Hannah said, as well as GMB. :slightly_smiling_face:",
+        "user": "U024K88ECFN",
+        "ts": "1629469286.070400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1B6qE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will also say that we've found the best results when hyper-focusing on certain areas of a business for content strategy (specifically for blog posts). Like, what is the most specific area of this business with 5-10 keywords you could build out as an individual category? The broader you get with the topic of the individual pieces of content you write, the longer it will take to rank.\n\nAlso, +1 to getting citations as Hannah said, as well as GMB. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629422633.068500",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6273ab28-f8c8-4b0b-8e7c-7da1b8eb2935",
+        "type": "message",
+        "text": "What consumer site does SEO (not social) really well?\n\nI'm thinking Bankrate, Nerdwallet, who else?",
+        "user": "UJG24P8P6",
+        "ts": "1629484113.071000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9v4d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What consumer site does SEO (not social) really well?\n\nI'm thinking Bankrate, Nerdwallet, who else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629484113.071000",
+        "reply_count": 10,
+        "reply_users_count": 7,
+        "latest_reply": "1630553171.049400",
+        "reply_users": [
+            "U022WPACV4L",
+            "U023Q8E7MNE",
+            "UJG24P8P6",
+            "U024WV5KLDS",
+            "U02AG6CGR3L",
+            "U02268ENZPU",
+            "U024BHRFEPQ"
+        ],
+        "replies": [
+            {
+                "user": "U022WPACV4L",
+                "ts": "1629484227.071800"
+            },
+            {
+                "user": "U022WPACV4L",
+                "ts": "1629484247.072100"
+            },
+            {
+                "user": "U023Q8E7MNE",
+                "ts": "1629484259.072700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1629487263.073300"
+            },
+            {
+                "user": "U024WV5KLDS",
+                "ts": "1629488768.073900"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1629489213.074100"
+            },
+            {
+                "user": "U02AG6CGR3L",
+                "ts": "1629604437.074700"
+            },
+            {
+                "user": "U02268ENZPU",
+                "ts": "1629733276.075300"
+            },
+            {
+                "user": "U024BHRFEPQ",
+                "ts": "1630518867.046900"
+            },
+            {
+                "user": "U02AG6CGR3L",
+                "ts": "1630553171.049400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AG6CGR3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "339c6df4-2eb3-45ec-99d0-fc0f31355018",
+        "type": "message",
+        "text": "I would go super specific like \"Why landscaping in ABC City is hard\" etc",
+        "user": "UJG24P8P6",
+        "ts": "1629484211.071500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AglP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would go super specific like \"Why landscaping in ABC City is hard\" etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629422633.068500",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01MM4EAC69",
+                    "U024K88ECFN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65cad038-ec9a-4815-803b-196f63212973",
+        "type": "message",
+        "text": "i really like how gainful handles SEO: <https:\/\/www.gainful.com\/blog\/>",
+        "user": "U022WPACV4L",
+        "ts": "1629484227.071800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bc588db919e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2092645159746_bc588db919e300f6dc48_72.jpg",
+            "first_name": "Taran",
+            "real_name": "Taran Soodan",
+            "display_name": "Taran Soodan",
+            "team": "TJE58GTJL",
+            "name": "taran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pza",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i really like how gainful handles SEO: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gainful.com\/blog\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629484113.071000",
+        "parent_user_id": "UJG24P8P6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84a35ef2-216d-4c79-b1ce-5d8ed666d499",
+        "type": "message",
+        "text": "titan is pretty good too: <https:\/\/www.titan.com\/articles>",
+        "user": "U022WPACV4L",
+        "ts": "1629484247.072100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bc588db919e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2092645159746_bc588db919e300f6dc48_72.jpg",
+            "first_name": "Taran",
+            "real_name": "Taran Soodan",
+            "display_name": "Taran Soodan",
+            "team": "TJE58GTJL",
+            "name": "taran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qeJAD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "titan is pretty good too: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.titan.com\/articles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629484113.071000",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "9d28cb4e-a8eb-4aba-b46c-0c7865295b59",
+        "type": "message",
+        "text": "I'm a personal finance writer and Wealthsimple always pops up in my research:\n\n<https:\/\/www.wealthsimple.com\/en-ca\/>",
+        "user": "U023Q8E7MNE",
+        "ts": "1629484259.072700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d10b67c0be5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-09\/2154037287843_d10b67c0be5fd16cb51e_72.jpg",
+            "first_name": "Rachel",
+            "real_name": "Rachel Cribby",
+            "display_name": "Rachel Cribby she\/her (EST)",
+            "team": "TJE58GTJL",
+            "name": "rachelcribby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U023Q8E7MNE",
+            "ts": "1629484268.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm a personal finance writer and Wealthsimple always pops up in my research:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wealthsimple.com\/en-ca\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629484113.071000",
+        "parent_user_id": "UJG24P8P6",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62804d6f-df48-4988-b5f2-10da106fc4f6",
+        "type": "message",
+        "text": "Thanks <@U022WPACV4L> i'll take a look",
+        "user": "UJG24P8P6",
+        "ts": "1629487263.073300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7=Fq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WPACV4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i'll take a look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629484113.071000",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "c54eeef3-c4cf-4c19-be73-c153c6721a7b",
+        "type": "message",
+        "text": "&gt; When you localise English content i.e. US to UK, how do the UK variations sit within the existing blog architecture? Are they simply orphan pages or do you have to create a new blog homepage to house all the UK articles?\nI think `Href Lang` is what you’re looking for, this is a syntax to indicating alternate versions of pages: <https:\/\/developers.google.com\/search\/docs\/advanced\/crawling\/localized-versions>\n\nThis will let you specify which page to use in which language, so people (and Google) arrive in the right spot.\n\nAnd using Href Lang should help Google index + crawl + rank the right content in the right way.",
+        "user": "U01KH3P18RZ",
+        "ts": "1629487927.073600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Developers",
+                "title": "Tell Google about localized versions of your page  |  Search Central",
+                "title_link": "https:\/\/developers.google.com\/search\/docs\/advanced\/crawling\/localized-versions",
+                "fallback": "Google Developers: Tell Google about localized versions of your page  |  Search Central",
+                "image_url": "https:\/\/developers.google.com\/search\/images\/home-social-share-lockup.png",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/developers.google.com\/search\/docs\/advanced\/crawling\/localized-versions",
+                "image_bytes": 167943,
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/vf0396724755d04dbab75050e6812ced8fb2ab11d424163deba5826536b4b1964\/developers\/images\/touchicon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/developers.google.com\/search\/docs\/advanced\/crawling\/localized-versions"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WuIMf",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you localise English content i.e. US to UK, how do the UK variations sit within the existing blog architecture? Are they simply orphan pages or do you have to create a new blog homepage to house all the UK articles?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI think "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Href Lang",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is what you’re looking for, this is a syntax to indicating alternate versions of pages: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.google.com\/search\/docs\/advanced\/crawling\/localized-versions"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis will let you specify which page to use in which language, so people (and Google) arrive in the right spot.\n\nAnd using Href Lang should help Google index + crawl + rank the right content in the right way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626290444.188700",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "091ee62d-3195-4958-b7d6-c1108d7eba8d",
+        "type": "message",
+        "text": "Depends on what consumer segments you're looking at, but within the financial sector, brands like BoA, Geico, Capital One are very strong in that space, however, you have brands like Acorns and Robinhood that are slowly starting to disrupt that space.",
+        "user": "U024WV5KLDS",
+        "ts": "1629488768.073900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "300f512c1c6e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2399193484323_300f512c1c6e842995d0_72.png",
+            "first_name": "Nicholas",
+            "real_name": "Nicholas J. Price",
+            "display_name": "Nick Price",
+            "team": "TJE58GTJL",
+            "name": "njp155",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gjFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depends on what consumer segments you're looking at, but within the financial sector, brands like BoA, Geico, Capital One are very strong in that space, however, you have brands like Acorns and Robinhood that are slowly starting to disrupt that space."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629484113.071000",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "ed213486-aa71-40c7-bb0b-df2902887f2d",
+        "type": "message",
+        "text": "Thx <@U024WV5KLDS> I'm kind of in a B2B bubble sometimes and know there are sites outside my niche I can learn from. Those 2 finance sites just came to mind, but other industries would be great too.",
+        "user": "UJG24P8P6",
+        "ts": "1629489213.074100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "64F9m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thx "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U024WV5KLDS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm kind of in a B2B bubble sometimes and know there are sites outside my niche I can learn from. Those 2 finance sites just came to mind, but other industries would be great too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629484113.071000",
+        "parent_user_id": "UJG24P8P6"
+    }
+]

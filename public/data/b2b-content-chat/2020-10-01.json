@@ -1,0 +1,199 @@
+[
+    {
+        "client_msg_id": "570dd75e-baf6-441b-a6b7-2270896bb3f1",
+        "type": "message",
+        "text": "Thank you <@U012R27LRJ8> and <@U017XD7H4P7> - really insightful!\n\n<@URAV154AV> - thanks for your input. Paid content syndication is also of interest to me. I have a demo lined up with <http:\/\/netline.com|netline.com> to learn more from them. Do you have any further insights you can share about other vendors?",
+        "user": "U0125MKEXFS",
+        "ts": "1601536991.017400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0058a70ee16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0058a70ee16931f3b9a73a4a4a959082.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Andy",
+            "real_name": "Andy Parker",
+            "display_name": "Andy Parker",
+            "team": "TJE58GTJL",
+            "name": "andy610",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NvOI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012R27LRJ8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017XD7H4P7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - really insightful!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URAV154AV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - thanks for your input. Paid content syndication is also of interest to me. I have a demo lined up with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/netline.com",
+                                "text": "netline.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to learn more from them. Do you have any further insights you can share about other vendors?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601484688.013000",
+        "parent_user_id": "U0125MKEXFS"
+    },
+    {
+        "client_msg_id": "d9bde8eb-b5e9-4bda-aa32-577d3ed37a19",
+        "type": "message",
+        "text": "Hi all! I'm looking into hosting an AMA -- if you've hosted one before, what platform(s) do you like best?\n\nBased on my research, it seems like the AMA-like features on Product Hunt are defunct. Which makes it seem like options are:\n• Reddit\n• Quora\n• Twitter\n• Livestorm\/Facebook Live or another livestreaming platform\nAiming to reach an audience of software developers\/engineering leaders. Thanks in advance!",
+        "user": "U019SM5LH6D",
+        "ts": "1601576926.021300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0bc5f929171",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1315176107894_f0bc5f929171fb026543_72.jpg",
+            "first_name": "Hillary",
+            "real_name": "Hillary Nussbaum",
+            "display_name": "Hillary Nussbaum",
+            "team": "TJE58GTJL",
+            "name": "hillary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U019SM5LH6D",
+            "ts": "1601580063.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5JfF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! I'm looking into hosting an AMA -- if you've hosted one before, what platform(s) do you like best?\n\nBased on my research, it seems like the AMA-like features on Product Hunt are defunct. Which makes it seem like options are:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reddit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quora"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Twitter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Livestorm\/Facebook Live or another livestreaming platform"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAiming to reach an audience of software developers\/engineering leaders. Thanks in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601576926.021300",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1601665752.022700",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U019SM5LH6D",
+            "U015B888266"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1601655555.022100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1601655568.022300"
+            },
+            {
+                "user": "U019SM5LH6D",
+                "ts": "1601658524.022500"
+            },
+            {
+                "user": "U015B888266",
+                "ts": "1601665752.022700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1601665752.022700"
+    }
+]

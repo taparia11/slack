@@ -1,0 +1,336 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1614352640.015800",
+        "thread_ts": "1614352640.015800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1614363702.019300",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1614363702.019300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1614363702.019300"
+    },
+    {
+        "client_msg_id": "2bea1cb8-2840-43ad-8f6b-19bda9ce803b",
+        "type": "message",
+        "text": "<@U01MV98FQAY> this is a dream role! Thanks for sharing.",
+        "user": "U01A3TF6X6C",
+        "ts": "1614362891.017700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eb87872b0c4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-24\/1332724706817_eb87872b0c4c0cf02a33_72.jpg",
+            "first_name": "",
+            "real_name": "Victoria J. Tice",
+            "display_name": "Victoria J. Tice",
+            "team": "TJE58GTJL",
+            "name": "vjwordsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uu4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01MV98FQAY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is a dream role! Thanks for sharing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613599483.159900"
+    },
+    {
+        "client_msg_id": "5fccda2f-7811-4832-b532-d60a2d237d9a",
+        "type": "message",
+        "text": "<@U01P61APPJ9> we've recently starting charging a small fee for this channel. i'll remove this post but if you'd like to repost you can use this link <https:\/\/superpath.co\/blog\/slack-jobs>",
+        "user": "UJG9WTEKG",
+        "ts": "1614363702.019300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uapz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01P61APPJ9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we've recently starting charging a small fee for this channel. i'll remove this post but if you'd like to repost you can use this link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/slack-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614352640.015800",
+        "parent_user_id": "U01P61APPJ9"
+    },
+    {
+        "client_msg_id": "356640a3-e2b8-4495-80d3-e15b6dc0a781",
+        "type": "message",
+        "text": "<@U0109RH7U00> we've recently starting charging a small fee for this channel. i'll remove this post but if you'd like to repost you can use this link <https:\/\/superpath.co\/blog\/slack-jobs>",
+        "user": "UJG9WTEKG",
+        "ts": "1614363714.019600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4\/fN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0109RH7U00"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we've recently starting charging a small fee for this channel. i'll remove this post but if you'd like to repost you can use this link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/slack-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614302082.014300",
+        "parent_user_id": "U0109RH7U00",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0109RH7U00"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14fab7d2-361e-4f6d-bb07-c6f6d81cdcdb",
+        "type": "message",
+        "text": "Thanks, Jimmy — and apologies for not seeing the change in protocol.",
+        "user": "U0109RH7U00",
+        "ts": "1614364923.020300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8260739d9a87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-18\/997168871314_8260739d9a87acc6a8a3_72.jpg",
+            "first_name": "Jane",
+            "real_name": "Jane O'Hara",
+            "display_name": "Jane O'Hara",
+            "team": "TJE58GTJL",
+            "name": "johara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JL3vv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Jimmy — and apologies for not seeing the change in protocol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614302082.014300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "fae4e571-d4d3-4d65-ab22-ab21da3b0852",
+        "type": "message",
+        "text": "no worries at all!",
+        "user": "UJG9WTEKG",
+        "ts": "1614365447.020500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tTSj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no worries at all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614302082.014300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1614379297.020700",
+        "thread_ts": "1614379297.020700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1614391925.021200",
+        "reply_users": [
+            "U01K5S9P57C"
+        ],
+        "replies": [
+            {
+                "user": "U01K5S9P57C",
+                "ts": "1614391925.021200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7126732E-9B54-420E-90AC-A0F2BD23F84F",
+        "type": "message",
+        "text": "<@U01KGTNFLVA> ",
+        "user": "U01K5S9P57C",
+        "ts": "1614391925.021200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5572185f4fdb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-09\/3230357380017_5572185f4fdb6502fa62_72.png",
+            "first_name": "Lee",
+            "real_name": "Lee Anna McGuire",
+            "display_name": "Lee Anna McGuire",
+            "team": "TJE58GTJL",
+            "name": "leeannamcguiremusic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5wUcl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KGTNFLVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614379297.020700"
+    }
+]

@@ -1,0 +1,414 @@
+[
+    {
+        "client_msg_id": "cf57ebdf-bbf5-4fc4-a84d-2dbcd0e324aa",
+        "type": "message",
+        "text": "<!everyone> hey folks and happy tuesday! a few things for you today:\n• we're cohosting a webinar with <@U037Q0P51E3> next week! topic is *Content Strategy for SaaS Companies*. <https:\/\/app.livestorm.co\/superpath\/content-marketing-strategy-for-saas?type=detailed|you can learn more and register here>.\n• this friday, we're hosting our first ever *Quiet Time*. what the heck is this? it's a 1-hour block of time to get sh*t done! come hang on a zoom call with your fellow content marketers. we'll close slack\/email, play focus music and revel in the joy of _deep work_. <https:\/\/calndr.link\/event\/b7aNnsjU9Y|add it to your calendar here.>\n• <#CTVJQSS0M|nyc> folks! hope to see you at our first ever meetup next week. Mat 2 at 6:30pm. venue changing but <https:\/\/www.eventbrite.com\/e\/superpaths-first-internal-link-nyc-meetup-tickets-317720790437|pls signup here>. (i just booked a flight :airplane:)\n• we've gotten tons of great applications for our open <https:\/\/jobs.superpath.co\/job\/278470-content-and-community-manager-superpath|Content &amp; Community Manager role>. interested? pls do apply. we're screening folks starting this week.\n• MarketMuse is hosting *Content Strategy Collective Live* on June 7-9. superpath members can get $49 off their ticket. use the code `superpath` at checkout. <https:\/\/csclive.marketmuse.com\/funnel\/csc-live-2022-waitlist\/op3-page-61f0630f1973a\/|details here>.\nand here are a few great threads from the past few days:\n• <@U030U5Y08TW> → <https:\/\/content-career-growth.slack.com\/archives\/CUYDAGXKR\/p1650397102216849|How do content creators and writers handle the transfer of knowledge from subject matter experts into content? Curious to know about ideation, gathering general knowledge on a subject and then diving into details.>\n• <@UJJFDTN8G> → <https:\/\/content-career-growth.slack.com\/archives\/CJ7QQKJ73\/p1650364803488359|When creating listicles that include your own product, has anyone found the prime position to include theirs?>\n• <@U017WRJTKF1> → <https:\/\/content-career-growth.slack.com\/archives\/C022W2V1Q0Y\/p1650401705806069|I’ve been staring at this new “from the web” feature on Google for a couple of minutes now, and genuinely cannot figure out if content and SEO folks are supposed to love it or hate it.>\n• <@U0113AV4895> → <https:\/\/content-career-growth.slack.com\/archives\/C016ENU9KNU\/p1650294439512459|What are your all-time favorite guides\/articles in the content space? Like something you would show a new hire to make sure they have the basics down, like Moz’s beginner guide to keyword research.>\n• <@U01M2NNL7GS> → <https:\/\/content-career-growth.slack.com\/archives\/CTF6SG2GP\/p1650396195926449|Curious to learn how everyone does internal content distribution? What’s the best way to share the content internally (with other teams)? >\nthat's all for today. have a great week!\n:v: jimmy",
+        "user": "UJG9WTEKG",
+        "ts": "1650990446.069159",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=dM7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey folks and happy tuesday! a few things for you today:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "we're cohosting a webinar with "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U037Q0P51E3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " next week! topic is "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Content Strategy for SaaS Companies",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/app.livestorm.co\/superpath\/content-marketing-strategy-for-saas?type=detailed",
+                                        "text": "you can learn more and register here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "this friday, we're hosting our first ever "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Quiet Time",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". what the heck is this? it's a 1-hour block of time to get sh*t done! come hang on a zoom call with your fellow content marketers. we'll close slack\/email, play focus music and revel in the joy of "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "deep work",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/calndr.link\/event\/b7aNnsjU9Y",
+                                        "text": "add it to your calendar here."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "CTVJQSS0M"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " folks! hope to see you at our first ever meetup next week. Mat 2 at 6:30pm. venue changing but "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.eventbrite.com\/e\/superpaths-first-internal-link-nyc-meetup-tickets-317720790437",
+                                        "text": "pls signup here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". (i just booked a flight "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "airplane"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "we've gotten tons of great applications for our open "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/jobs.superpath.co\/job\/278470-content-and-community-manager-superpath",
+                                        "text": "Content & Community Manager role"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". interested? pls do apply. we're screening folks starting this week."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MarketMuse is hosting "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Content Strategy Collective Live",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " on June 7-9. superpath members can get $49 off their ticket. use the code "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "superpath",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " at checkout. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/csclive.marketmuse.com\/funnel\/csc-live-2022-waitlist\/op3-page-61f0630f1973a\/",
+                                        "text": "details here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and here are a few great threads from the past few days:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U030U5Y08TW"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " → "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/content-career-growth.slack.com\/archives\/CUYDAGXKR\/p1650397102216849",
+                                        "text": "How do content creators and writers handle the transfer of knowledge from subject matter experts into content? Curious to know about ideation, gathering general knowledge on a subject and then diving into details."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "UJJFDTN8G"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " → "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/content-career-growth.slack.com\/archives\/CJ7QQKJ73\/p1650364803488359",
+                                        "text": "When creating listicles that include your own product, has anyone found the prime position to include theirs?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U017WRJTKF1"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " → "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/content-career-growth.slack.com\/archives\/C022W2V1Q0Y\/p1650401705806069",
+                                        "text": "I’ve been staring at this new “from the web” feature on Google for a couple of minutes now, and genuinely cannot figure out if content and SEO folks are supposed to love it or hate it."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0113AV4895"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " → "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/content-career-growth.slack.com\/archives\/C016ENU9KNU\/p1650294439512459",
+                                        "text": "What are your all-time favorite guides\/articles in the content space? Like something you would show a new hire to make sure they have the basics down, like Moz’s beginner guide to keyword research."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01M2NNL7GS"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " → "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/content-career-growth.slack.com\/archives\/CTF6SG2GP\/p1650396195926449",
+                                        "text": "Curious to learn how everyone does internal content distribution? What’s the best way to share the content internally (with other teams)? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's all for today. have a great week!\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            },
+                            {
+                                "type": "text",
+                                "text": " jimmy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partygritty",
+                "users": [
+                    "U02LR6JUZN3",
+                    "UJX78P22U",
+                    "U011Q6ZP6KU",
+                    "UJFELMVU1",
+                    "U02HWBZS9QC",
+                    "U035FFGEHT2",
+                    "U03D56J87NC",
+                    "U02NGRLBMV5",
+                    "UUY2GK6NA",
+                    "U03CVG3E3TM",
+                    "U039LHJCL6N",
+                    "U02QBGXUH1U",
+                    "U01PQFQBGHJ",
+                    "U0376A15FH8",
+                    "U037X7XJ85D",
+                    "U03C8PWL6PQ",
+                    "U029RML9WKH",
+                    "U032DD27TS7",
+                    "U03AGR60JH3",
+                    "U03AZ6M7URM",
+                    "U02UTRGB0F6",
+                    "U037Q0P51E3"
+                ],
+                "count": 22
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03B27GRSSF",
+                    "U02HWBZS9QC",
+                    "U02H3K9BEMA",
+                    "U02NGRLBMV5",
+                    "UUG4XUDJR",
+                    "U027Z9VD16V",
+                    "U03CVG3E3TM",
+                    "U0208DGLY87",
+                    "U02DAUAKQNR",
+                    "U0376A15FH8",
+                    "U01V7CQF8LC",
+                    "U036HR0KYFM",
+                    "U02CMCUPA9Z",
+                    "U03CFDD8Z5G",
+                    "U029RML9WKH",
+                    "U03CZK9JD5M",
+                    "U037Q0P51E3"
+                ],
+                "count": 17
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U02CMV5CT9C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U0306LHA2MQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UPH4SCGTH",
+                    "U02CMCUPA9Z",
+                    "U029RML9WKH",
+                    "U037Q0P51E3"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

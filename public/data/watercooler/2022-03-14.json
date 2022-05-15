@@ -1,0 +1,215 @@
+[
+    {
+        "client_msg_id": "5d460ac3-2385-457f-a4db-92bacc26e158",
+        "type": "message",
+        "text": "I left a job last year for a lack of development and growth opportunities, if you need anyone else to talk to!",
+        "user": "U032AAX829K",
+        "ts": "1647246313.407499",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba787921771",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-09\/3086421497716_8ba787921771e8940bfb_72.jpg",
+            "first_name": "Marilyn",
+            "real_name": "Marilyn Starkenberg",
+            "display_name": "Marilyn Starkenberg",
+            "team": "TJE58GTJL",
+            "name": "marilyn.starkenberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oHwx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I left a job last year for a lack of development and growth opportunities, if you need anyone else to talk to!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646993145.274019",
+        "parent_user_id": "UJEUM7NQ4"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647268200.137439",
+        "thread_ts": "1647268200.137439",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1647272757.345479",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1647272751.547439"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1647272757.345479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1647272757.345479"
+    },
+    {
+        "client_msg_id": "bacbaba9-4390-4393-ad0e-2f8af6e1da1c",
+        "type": "message",
+        "text": "<@U02FY96RBSM> can you move this to <#CKRJX5U5A|collab>?",
+        "user": "UJG9WTEKG",
+        "ts": "1647272700.413939",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02FY96RBSM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKRJX5U5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647160304.633549",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0a86ad29-ab16-4759-bd19-041f2da37e35",
+        "type": "message",
+        "text": "<@U02GXA3PWC9> can you move this to <#CKRJX5U5A|collab>?",
+        "user": "UJG9WTEKG",
+        "ts": "1647272751.547439",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v68HK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02GXA3PWC9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKRJX5U5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647268200.137439",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "f7d894c8-7a58-4e55-8e53-479323ecf98b",
+        "type": "message",
+        "text": "i'll dm you the copy",
+        "user": "UJG9WTEKG",
+        "ts": "1647272757.345479",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iJgzp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'll dm you the copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647268200.137439",
+        "parent_user_id": "USLACKBOT"
+    }
+]

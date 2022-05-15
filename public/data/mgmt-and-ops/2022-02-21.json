@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "38928291-4268-45A5-835C-8B777B3F1AD3",
+        "type": "message",
+        "text": "One of the great things about doing the compensation survey was potentially helping folks who were in the middle of negotiations for new jobs or raises. Heard today, for example:\n\n“Hey, Maggie. Hope you're enjoying the long weekend. Wanted to let you know that I've accepted an offer for a new role that's a big step up for me aaaaand I got a whopping $XX increase over my current salary — so thanks for letting us all know how lucrative the content world can be. Onwards and upwards! :slightly_smiling_face:”",
+        "user": "U02VBUQR0E7",
+        "ts": "1645488478.828909",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be07c97b2d91",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-26\/3003750081638_be07c97b2d91fb8016d9_72.png",
+            "first_name": "Maggie",
+            "real_name": "Maggie Leung",
+            "display_name": "Maggie Leung",
+            "team": "TJE58GTJL",
+            "name": "mleung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9yS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of the great things about doing the compensation survey was potentially helping folks who were in the middle of negotiations for new jobs or raises. Heard today, for example:\n\n“Hey, Maggie. Hope you're enjoying the long weekend. Wanted to let you know that I've accepted an offer for a new role that's a big step up for me aaaaand I got a whopping $XX increase over my current salary — so thanks for letting us all know how lucrative the content world can be. Onwards and upwards! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644528240.074599",
+        "parent_user_id": "U02VBUQR0E7"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "did someone say salary? here's some data that might be helpful. <https:\/\/superpath.co\/blog\/content-marketing-salary-report>",
+        "user": "USLACKBOT",
+        "ts": "1645488507.955789",
+        "attachments": [
+            {
+                "from_url": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/609d9c530fe0402cfde14a9c\/t\/61d76e005dd5ad7b9ebc6932\/1641508361386\/superpath+salary.jpg?format=1500w",
+                "thumb_width": 1052,
+                "thumb_height": 751,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/609d9c530fe0402cfde14a9c\/e34ef9bd-2724-4781-88fd-e8cba90125ef\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "fallback": "Your Content Career Headquarters: How Much Money Do Content Marketer's Make? (2022 Salary Report) — Your Content Career Headquarters",
+                "text": "The average content marketing salary is $93,725. Check out our salary report for more detailed data on job titles, experience and pay discrepancies.",
+                "title": "How Much Money Do Content Marketer's Make? (2022 Salary Report) — Your Content Career Headquarters",
+                "title_link": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "service_name": "Your Content Career Headquarters"
+            }
+        ],
+        "thread_ts": "1644528240.074599",
+        "parent_user_id": "U02VBUQR0E7"
+    }
+]

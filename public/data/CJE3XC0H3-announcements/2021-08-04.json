@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "4fecad19-3ae3-4bcc-a22c-2d3d45a51a24",
+        "type": "message",
+        "text": "<!everyone> AMA with <@U01VACQHD0E> and <@U01A5QD7T62> starting in <#C014P2BJLER|ask-me-anything> in a few minutes :sunglasses:",
+        "user": "UJG9WTEKG",
+        "ts": "1628103515.020600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ebpc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " AMA with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01VACQHD0E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A5QD7T62"
+                            },
+                            {
+                                "type": "text",
+                                "text": " starting in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C014P2BJLER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in a few minutes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U014ZK7Q1TP",
+                    "U0201FV7XGQ",
+                    "U02A8UR3Z60",
+                    "U010JU2GTND",
+                    "UJ48Q1HAP",
+                    "U01JGE01ZA8",
+                    "U024D3CP77U",
+                    "URLKJLWKS",
+                    "U01K9FNB35E",
+                    "U029G4HMVFH",
+                    "U01J84U3SQ6"
+                ],
+                "count": 11
+            }
+        ]
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "0dd9c562-013e-4bc6-a2ae-71a253f6fe43",
+        "type": "message",
+        "text": "Hey! I am very interested to join any discussion on this!",
+        "user": "U02GLJM8MST",
+        "ts": "1638799726.130600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbb2e32aabd3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb2e32aabd3787f0def01233ddfb6434.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Iliya",
+            "real_name": "Iliya Valchanov",
+            "display_name": "Iliya Valchanov",
+            "team": "TJE58GTJL",
+            "name": "iliya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bRBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! I am very interested to join any discussion on this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638400325.122000",
+        "parent_user_id": "URB31QKM4"
+    },
+    {
+        "client_msg_id": "dc99a61d-0be6-4a1a-a1d5-e70300641260",
+        "type": "message",
+        "text": "<@UJG9WTEKG> highlighted post?",
+        "user": "U011QQDDSJV",
+        "ts": "1638836135.133100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UV+0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " highlighted post?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638400325.122000",
+        "parent_user_id": "URB31QKM4"
+    },
+    {
+        "client_msg_id": "41B469EE-5530-49FA-9EF6-534B4324818D",
+        "type": "message",
+        "text": "<@U011QQDDSJV> yea will put in <#CJE3XC0H3|-announcements> tomorrow!",
+        "user": "UJG9WTEKG",
+        "ts": "1638836893.133900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A43t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011QQDDSJV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yea will put in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CJE3XC0H3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638400325.122000",
+        "parent_user_id": "URB31QKM4",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "URB31QKM4",
+                    "U011QQDDSJV"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

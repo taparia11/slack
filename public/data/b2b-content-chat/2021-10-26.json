@@ -1,0 +1,1345 @@
+[
+    {
+        "client_msg_id": "728a8b59-aef4-4bb5-95bf-e4fa96f7480d",
+        "type": "message",
+        "text": "[Urgent] This has probably been asked already but can someone share how I can track clicks from internal links? Example: Page A has a link to the Demo page. I want to track how many folks clicks on the “Demo page” link on Page A.\n\nPlease please tell me the easiest solution; GTM click triggers and anything complicated is out of question (campaign goes live tomorrow). TIA! :pray:",
+        "user": "U012GHRAHDK",
+        "ts": "1635248476.015700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+wL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Urgent] This has probably been asked already but can someone share how I can track clicks from internal links? Example: Page A has a link to the Demo page. I want to track how many folks clicks on the “Demo page” link on Page A.\n\nPlease please tell me the easiest solution; GTM click triggers and anything complicated is out of question (campaign goes live tomorrow). TIA! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "reply_count": 13,
+        "reply_users_count": 7,
+        "latest_reply": "1636041392.090000",
+        "reply_users": [
+            "U02AG6CLTV0",
+            "U012GHRAHDK",
+            "U01EJ7VE9FD",
+            "U02GLJM8MST",
+            "U02GA73RSHK",
+            "U02GKTN1NDC",
+            "U01NRLHF3HT"
+        ],
+        "replies": [
+            {
+                "user": "U02AG6CLTV0",
+                "ts": "1635249331.015800"
+            },
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1635249620.016000"
+            },
+            {
+                "user": "U02AG6CLTV0",
+                "ts": "1635250019.016300"
+            },
+            {
+                "user": "U01EJ7VE9FD",
+                "ts": "1635253287.016700"
+            },
+            {
+                "user": "U02GLJM8MST",
+                "ts": "1635259859.016900"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1635266430.017400"
+            },
+            {
+                "user": "U02GKTN1NDC",
+                "ts": "1635276827.019300"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1635277277.019800"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1635277886.020600"
+            },
+            {
+                "user": "U02GKTN1NDC",
+                "ts": "1635277955.021000"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1635278474.021300"
+            },
+            {
+                "user": "U02GKTN1NDC",
+                "ts": "1635278655.021500"
+            },
+            {
+                "user": "U01NRLHF3HT",
+                "ts": "1636041392.090000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "69a4b870-b8c0-4578-9fd2-97924721ebcf",
+        "type": "message",
+        "text": "Not sure if I’m missing anything here..but if you’re directing users to the demo page using the CTA, then adding UTM params can work?\n\nIf it’s for A\/B testing, then add different UTM params for different pages or placements..\n\nGA can show how many users ended on your demo page using the CTA on page A..",
+        "user": "U02AG6CLTV0",
+        "ts": "1635249331.015800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga516a458323",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a516a45832363813435b8af2faed24e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Rasheed",
+            "real_name": "Rasheed",
+            "display_name": "Rasheed",
+            "team": "TJE58GTJL",
+            "name": "rasheed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DhYKt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if I’m missing anything here..but if you’re directing users to the demo page using the CTA, then adding UTM params can work?\n\nIf it’s for A\/B testing, then add different UTM params for different pages or placements..\n\nGA can show how many users ended on your demo page using the CTA on page A.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK",
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U01P13NTGG6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f79bc25-a1d0-4361-b465-c0901ac240ca",
+        "type": "message",
+        "text": "<https:\/\/www.seroundtable.com\/google-tagging-internal-links-google-27144.html> &gt;&gt; Because of this, I can’t use UTM params (but that was my first thought too).",
+        "user": "U012GHRAHDK",
+        "ts": "1635249620.016000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "seroundtable.com",
+                "title": "Google: Tagging Internal Links With UTM Tracking Parameters Send Mixed Signals",
+                "title_link": "https:\/\/www.seroundtable.com\/google-tagging-internal-links-google-27144.html",
+                "text": "Google's John Mueller said in a webmaster hangout on YouTube yesterday at the 16:56 mark into the video that it can confuse Google if you are tagging your internal links with tracking parameters, such",
+                "fallback": "seroundtable.com: Google: Tagging Internal Links With UTM Tracking Parameters Send Mixed Signals",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/images.seroundtable.com\/google-tracks-1550671926.jpg",
+                "from_url": "https:\/\/www.seroundtable.com\/google-tagging-internal-links-google-27144.html",
+                "thumb_width": 640,
+                "thumb_height": 317,
+                "service_icon": "https:\/\/www.seroundtable.com\/favicon32.png",
+                "id": 1,
+                "original_url": "https:\/\/www.seroundtable.com\/google-tagging-internal-links-google-27144.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O3s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.seroundtable.com\/google-tagging-internal-links-google-27144.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " >> Because of this, I can’t use UTM params (but that was my first thought too)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "546c93b9-5c92-4380-a77d-d13cbddd04ed",
+        "type": "message",
+        "text": "ahh..got it. But it doesn’t look like a problem in your case (if you refer the Youtube video with the complete question and John Mu’s reply)..",
+        "user": "U02AG6CLTV0",
+        "ts": "1635250019.016300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga516a458323",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a516a45832363813435b8af2faed24e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Rasheed",
+            "real_name": "Rasheed",
+            "display_name": "Rasheed",
+            "team": "TJE58GTJL",
+            "name": "rasheed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qDfG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahh..got it. But it doesn’t look like a problem in your case (if you refer the Youtube video with the complete question and John Mu’s reply).."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "dab432b1-5a87-4567-a8dc-fde58531c2d7",
+        "type": "message",
+        "text": "UTM will trigger a new session in universal (not sure about GA4)\n\nyou could set up a goal in GA\n\nor event tracking on the link",
+        "user": "U01EJ7VE9FD",
+        "ts": "1635253287.016700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cnsZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UTM will trigger a new session in universal (not sure about GA4)\n\nyou could set up a goal in GA\n\nor event tracking on the link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "4671a6f5-d8a5-421d-8d28-c08af59ea5ff",
+        "type": "message",
+        "text": "Don't use UTMs on internal links. This is a bad practice. Usually it leads to double counting page views.\n\nTo know the number of clicks you should either tag in GTM or tag with something else. The easiest tool for tagging is the Facebook tracking (there is a setup wizard). Either way, I highly recommend you get someone to tag this for you in GTM. It is literally a 5 min job and everything else is a workaround.",
+        "user": "U02GLJM8MST",
+        "ts": "1635259859.016900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbb2e32aabd3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb2e32aabd3787f0def01233ddfb6434.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Iliya",
+            "real_name": "Iliya Valchanov",
+            "display_name": "Iliya Valchanov",
+            "team": "TJE58GTJL",
+            "name": "iliya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02GLJM8MST",
+            "ts": "1635259880.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m52",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't use UTMs on internal links. This is a bad practice. Usually it leads to double counting page views.\n\nTo know the number of clicks you should either tag in GTM or tag with something else. The easiest tool for tagging is the Facebook tracking (there is a setup wizard). Either way, I highly recommend you get someone to tag this for you in GTM. It is literally a 5 min job and everything else is a workaround."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U01EJ7VE9FD",
+                    "U02GA73RSHK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce1e2299-9f79-41ec-a365-26a99885b8fb",
+        "type": "message",
+        "text": "<@U012GHRAHDK>  Agree with Illiya. The best thing to do this is set up event tracking with GTM. Events can be set to track when a link is clicked on any place on the site and you can put in as much detail as you need about where they clicked. I'd be happy to help get it set up if you'd like (for free) with Google Tag Manager.",
+        "user": "U02GA73RSHK",
+        "ts": "1635266430.017400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gf272e31d4b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f272e31d4b1988945d4630cf3b47f9b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Lamar",
+            "display_name": "Steve Lamar",
+            "team": "TJE58GTJL",
+            "name": "steve694",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012GHRAHDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Agree with Illiya. The best thing to do this is set up event tracking with GTM. Events can be set to track when a link is clicked on any place on the site and you can put in as much detail as you need about where they clicked. I'd be happy to help get it set up if you'd like (for free) with Google Tag Manager."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "bf439a30-f2cc-4192-81e1-58979aa8e96e",
+        "type": "message",
+        "text": "Are there any other B2B companies you can think of besides HubSpot and Shopify who invested in content very early on and it paid off?",
+        "user": "U023339GRF0",
+        "ts": "1635276503.019200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a7efaebaca87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-27\/2135776736896_a7efaebaca871aee27ff_72.jpg",
+            "first_name": "Natalie",
+            "real_name": "Natalie Taylor",
+            "display_name": "nat",
+            "team": "TJE58GTJL",
+            "name": "nataliecstaylor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VD4s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there any other B2B companies you can think of besides HubSpot and Shopify who invested in content very early on and it paid off?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635276503.019200",
+        "reply_count": 8,
+        "reply_users_count": 7,
+        "latest_reply": "1636041417.090200",
+        "reply_users": [
+            "U02AG6CLTV0",
+            "U02GA73RSHK",
+            "UJG9WTEKG",
+            "URB31QKM4",
+            "U023339GRF0",
+            "U01SFTTQ483",
+            "U01NRLHF3HT"
+        ],
+        "replies": [
+            {
+                "user": "U02AG6CLTV0",
+                "ts": "1635277023.019500"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1635277752.020300"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1635279435.021800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1635279452.022000"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1635280694.022400"
+            },
+            {
+                "user": "U023339GRF0",
+                "ts": "1635296433.026600"
+            },
+            {
+                "user": "U01SFTTQ483",
+                "ts": "1635341343.034000"
+            },
+            {
+                "user": "U01NRLHF3HT",
+                "ts": "1636041417.090200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1636041417.090200"
+    },
+    {
+        "client_msg_id": "833065b6-c81a-4e78-8c59-0de111dbfa75",
+        "type": "message",
+        "text": "<@U012GHRAHDK> I have that same question actually! right now we are using GTM and im setting up individual tags \/ triggers for each link, so this means that only important clicks are getting tracked…. because it just takes too much time to track everything.\n\nso, i also would like to know if there are better ways out there!",
+        "user": "U02GKTN1NDC",
+        "ts": "1635276827.019300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cca41336255d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2586380459574_cca41336255d5ddee32e_72.jpg",
+            "first_name": "Axel",
+            "real_name": "Axel Sukianto",
+            "display_name": "Axel Sukianto",
+            "team": "TJE58GTJL",
+            "name": "axel.sukianto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=NljO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012GHRAHDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have that same question actually! right now we are using GTM and im setting up individual tags \/ triggers for each link, so this means that only important clicks are getting tracked…. because it just takes too much time to track everything.\n\nso, i also would like to know if there are better ways out there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "67f515af-93f2-4c5f-be60-f7d891c2e191",
+        "type": "message",
+        "text": "Intercom, Moz, <https:\/\/medium.com\/help-scout\/what-3-million-visitors-taught-us-about-content-marketing-cdf6173dbe03|HelpScout>..",
+        "user": "U02AG6CLTV0",
+        "ts": "1635277023.019500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga516a458323",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a516a45832363813435b8af2faed24e1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Rasheed",
+            "real_name": "Rasheed",
+            "display_name": "Rasheed",
+            "team": "TJE58GTJL",
+            "name": "rasheed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l265c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Intercom, Moz, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/help-scout\/what-3-million-visitors-taught-us-about-content-marketing-cdf6173dbe03",
+                                "text": "HelpScout"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635276503.019200",
+        "parent_user_id": "U023339GRF0",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U023339GRF0",
+                    "UJFELMVU1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b296665-57d6-4904-b51d-120e2271ed50",
+        "type": "message",
+        "text": "<@U02GKTN1NDC> There is a better way. You can setup a tag in GTM that is triggered by internal link clicks that are only contained within certain elements on the website. For instance, if you only want to track the navigation links, you can identify the element that wraps the navigation and set the trigger in GA to only fire when an internal link is clicked within that element.\n\nIf you only want to fire on links that point to a specific page you can set a trigger to fire on Link Clicks that contain '\/demo' for example.\n\nThis can be the same tag with different triggers that have different rules associated to them.\n\nI'd be willing to do a video demo on how to make this happen in GTM if there is enough interest. But, this is a good article on how this works: <https:\/\/www.lupagedigital.com\/blog\/track-internal-links\/>",
+        "user": "U02GA73RSHK",
+        "ts": "1635277277.019800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gf272e31d4b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f272e31d4b1988945d4630cf3b47f9b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Lamar",
+            "display_name": "Steve Lamar",
+            "team": "TJE58GTJL",
+            "name": "steve694",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02GKTN1NDC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " There is a better way. You can setup a tag in GTM that is triggered by internal link clicks that are only contained within certain elements on the website. For instance, if you only want to track the navigation links, you can identify the element that wraps the navigation and set the trigger in GA to only fire when an internal link is clicked within that element.\n\nIf you only want to fire on links that point to a specific page you can set a trigger to fire on Link Clicks that contain '\/demo' for example.\n\nThis can be the same tag with different triggers that have different rules associated to them.\n\nI'd be willing to do a video demo on how to make this happen in GTM if there is enough interest. But, this is a good article on how this works: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lupagedigital.com\/blog\/track-internal-links\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02AG6CLTV0",
+                    "U02GKTN1NDC",
+                    "UJFELMVU1",
+                    "U02GD7MCUCB"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0d1e63a-0915-443d-af2f-8ebcdb5c5768",
+        "type": "message",
+        "text": "Ahref &amp; Coschedule are good examples that come to mind.",
+        "user": "U02GA73RSHK",
+        "ts": "1635277752.020300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gf272e31d4b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f272e31d4b1988945d4630cf3b47f9b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Lamar",
+            "display_name": "Steve Lamar",
+            "team": "TJE58GTJL",
+            "name": "steve694",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dlQ\/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahref & Coschedule are good examples that come to mind."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635276503.019200",
+        "parent_user_id": "U023339GRF0"
+    },
+    {
+        "client_msg_id": "145915a1-d25d-416a-a960-9cc9f0d534b0",
+        "type": "message",
+        "text": "<@U012GHRAHDK> I just realized you said GTM is not an option. Sorry about that - the only other option is putting a query string on the URLs like \/?link=demo or something like that. That is the quickest way to do it if you have dev resources to update the links.",
+        "user": "U02GA73RSHK",
+        "ts": "1635277886.020600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gf272e31d4b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f272e31d4b1988945d4630cf3b47f9b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Lamar",
+            "display_name": "Steve Lamar",
+            "team": "TJE58GTJL",
+            "name": "steve694",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012GHRAHDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I just realized you said GTM is not an option. Sorry about that - the only other option is putting a query string on the URLs like \/?link=demo or something like that. That is the quickest way to do it if you have dev resources to update the links."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "5051188a-cfb2-43b1-a3de-c062b51a22bb",
+        "type": "message",
+        "text": "<@U01R7R9RKKQ> This thread! :smiley:",
+        "user": "U01NX4TN5PE",
+        "ts": "1635277938.020800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g20eeda42ab5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20eeda42ab50a2a8ddc399ae5fe0f54b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Dustin Slightham",
+            "display_name": "Dustin Slightham",
+            "team": "TJE58GTJL",
+            "name": "dslightham",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01R7R9RKKQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This thread! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634910280.006500",
+        "parent_user_id": "U02ANC57AAY",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01R7R9RKKQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19edaf6c-377a-4074-b9a6-80215f6fc3f2",
+        "type": "message",
+        "text": "awesome, thanks for sharing that insight + link <@U02GA73RSHK>!\n\none question — would this method be able to distinguish the source easily on GA for reporting?\n\neg, if it is a demo link that is common across blog post X and blog post Y, will this method be able to distinguish that for reporting",
+        "user": "U02GKTN1NDC",
+        "ts": "1635277955.021000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cca41336255d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2586380459574_cca41336255d5ddee32e_72.jpg",
+            "first_name": "Axel",
+            "real_name": "Axel Sukianto",
+            "display_name": "Axel Sukianto",
+            "team": "TJE58GTJL",
+            "name": "axel.sukianto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "58nMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome, thanks for sharing that insight + link "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GA73RSHK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\none question — would this method be able to distinguish the source easily on GA for reporting?\n\neg, if it is a demo link that is common across blog post X and blog post Y, will this method be able to distinguish that for reporting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "type": "message",
+        "text": "In GA events you have 3 values you can populate: Category, Action and Labels. These can be populated with static or dynamic data (using variables) and pass pretty much anything you want.\n\nYou can also add a dimension on GA reports to show the page the event took place. For example, I track CTA events when folks click on my pricing page. Here is what the label of the CTA is and the page they clicked from:",
+        "files": [
+            {
+                "id": "F02JQ9NPMFH",
+                "created": 1635278436,
+                "timestamp": 1635278436,
+                "name": "2021-10-26_14-00-29.png",
+                "title": "2021-10-26_14-00-29.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02GA73RSHK",
+                "editable": false,
+                "size": 26560,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02JQ9NPMFH\/2021-10-26_14-00-29.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02JQ9NPMFH\/download\/2021-10-26_14-00-29.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02JQ9NPMFH-9c0d86b587\/2021-10-26_14-00-29_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02JQ9NPMFH-9c0d86b587\/2021-10-26_14-00-29_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02JQ9NPMFH-9c0d86b587\/2021-10-26_14-00-29_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02JQ9NPMFH-9c0d86b587\/2021-10-26_14-00-29_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 321,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02JQ9NPMFH-9c0d86b587\/2021-10-26_14-00-29_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "original_w": 557,
+                "original_h": 372,
+                "thumb_tiny": "AwAgADDQKA9z+dLil70tADcUbec5NOpu7nnH50AGKMU6igBO9LSd6WgAppznv+Qp1MOMnp+VADsn0NAOexFCjA7fhS0Af\/\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U02GA73RSHK\/F02JQ9NPMFH\/2021-10-26_14-00-29.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F02JQ9NPMFH-7e701bd986",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02GA73RSHK",
+        "display_as_bot": false,
+        "ts": "1635278474.021300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lp6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In GA events you have 3 values you can populate: Category, Action and Labels. These can be populated with static or dynamic data (using variables) and pass pretty much anything you want.\n\nYou can also add a dimension on GA reports to show the page the event took place. For example, I track CTA events when folks click on my pricing page. Here is what the label of the CTA is and the page they clicked from:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f5a8c165-d811-4c54-aa49-627b4c1eadbb",
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "d37a6183-a4a3-4812-9397-3240c3d298fc",
+        "type": "message",
+        "text": "oh neat! the “adding a dimension” is one thing I didnt know \/ think about! i will definitely try that, thank you!",
+        "user": "U02GKTN1NDC",
+        "ts": "1635278655.021500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cca41336255d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2586380459574_cca41336255d5ddee32e_72.jpg",
+            "first_name": "Axel",
+            "real_name": "Axel Sukianto",
+            "display_name": "Axel Sukianto",
+            "team": "TJE58GTJL",
+            "name": "axel.sukianto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8csOg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh neat! the “adding a dimension” is one thing I didnt know \/ think about! i will definitely try that, thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635248476.015700",
+        "parent_user_id": "U012GHRAHDK",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02GA73RSHK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84366ae9-4b9a-47c2-a240-2723677a9286",
+        "type": "message",
+        "text": "many! buffer &amp; intercom are two that come to mind when i think of founder-led content",
+        "user": "UJG9WTEKG",
+        "ts": "1635279435.021800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/iW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "many! buffer & intercom are two that come to mind when i think of founder-led content"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635276503.019200",
+        "parent_user_id": "U023339GRF0"
+    },
+    {
+        "client_msg_id": "6332005a-b464-4842-b7e5-220ab182f1f9",
+        "type": "message",
+        "text": "i.e. the founders were blogging from the very beginning and that ultimately become part of the company's ethos",
+        "user": "UJG9WTEKG",
+        "ts": "1635279452.022000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0QK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i.e. the founders were blogging from the very beginning and that ultimately become part of the company's ethos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635276503.019200",
+        "parent_user_id": "U023339GRF0",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02GA73RSHK",
+                    "U028D815JA0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39255e03-ae73-4500-a020-820b90550878",
+        "type": "message",
+        "text": "Biased since I work there :slightly_smiling_face: but Sprout Social is an example; I think we’ve removed a lot of the early founder blogs but they were blogging since day one and content has always been a huge part of our strategy and organic growth.",
+        "user": "URB31QKM4",
+        "ts": "1635280694.022400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "099d380d742a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-04\/936714280756_099d380d742afea0dc9f_72.png",
+            "first_name": "Alicia",
+            "real_name": "Alicia Johnston",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "aliciabjohnston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZNjkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Biased since I work there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but Sprout Social is an example; I think we’ve removed a lot of the early founder blogs but they were blogging since day one and content has always been a huge part of our strategy and organic growth."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635276503.019200",
+        "parent_user_id": "U023339GRF0",
+        "reactions": [
+            {
+                "name": "chart_with_upwards_trend",
+                "users": [
+                    "UJG9WTEKG",
+                    "U02A8UR3Z60",
+                    "U02F1GK6U6B"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd19978b-c99a-43f5-9a5b-cbad59edcd9b",
+        "type": "message",
+        "text": "<@U02ANC57AAY>, there's a good article about employee advocacy on <https:\/\/www.oktopost.com\/blog\/employee-advocates-arent-sharing-content\/?utm_campaign=2021+Back+to+the+Basics+%28Oktopost+Content%29&amp;utm_content=UI&amp;utm_medium=social&amp;utm_source=linkedin|oktopost>.",
+        "user": "UV5V2P0VB",
+        "ts": "1635287332.022900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KKU6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02ANC57AAY"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", there's a good article about employee advocacy on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.oktopost.com\/blog\/employee-advocates-arent-sharing-content\/?utm_campaign=2021+Back+to+the+Basics+%28Oktopost+Content%29&utm_content=UI&utm_medium=social&utm_source=linkedin",
+                                "text": "oktopost"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634910280.006500",
+        "parent_user_id": "U02ANC57AAY"
+    },
+    {
+        "client_msg_id": "58ea2b0c-b54e-40cd-bc42-1f6f1f05d543",
+        "type": "message",
+        "text": "Thank you, all! For this specific example I'm thinking less about founder-led brands and more about overall content production and strategy. But I love great founder brand examples too.",
+        "user": "U023339GRF0",
+        "ts": "1635296433.026600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a7efaebaca87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-27\/2135776736896_a7efaebaca871aee27ff_72.jpg",
+            "first_name": "Natalie",
+            "real_name": "Natalie Taylor",
+            "display_name": "nat",
+            "team": "TJE58GTJL",
+            "name": "nataliecstaylor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oEwRd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, all! For this specific example I'm thinking less about founder-led brands and more about overall content production and strategy. But I love great founder brand examples too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635276503.019200",
+        "parent_user_id": "U023339GRF0"
+    },
+    {
+        "client_msg_id": "e26db683-c086-4da2-a8f7-414b21b52dfd",
+        "type": "message",
+        "text": "Hasn't seen any emails come through since I signed up 3 weeks ago. How often are you emailing updates <@UJHMVAE3G>?",
+        "user": "U01RSA9E9D4",
+        "ts": "1635298295.027400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfbc217f6e1b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbc217f6e1b233bf10c4247333c118e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Anfernee",
+            "real_name": "Anfernee Chansamooth",
+            "display_name": "Anf Chansamooth",
+            "team": "TJE58GTJL",
+            "name": "anf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RSA9E9D4",
+            "ts": "1635298314.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5APh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hasn't seen any emails come through since I signed up 3 weeks ago. How often are you emailing updates "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJHMVAE3G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633456399.441200",
+        "parent_user_id": "U02GA73RSHK"
+    },
+    {
+        "client_msg_id": "f4467554-aeb6-4856-b13c-583ac90e5b04",
+        "type": "message",
+        "text": "What kind of collab? A simple blog swap? A co-authored e-book with lead sharing? A co-branded webinar? Different tips for different arrangements :)",
+        "user": "U027RNU0A69",
+        "ts": "1635298931.027700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "65e678e06b61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-14\/2267230866486_65e678e06b61dff41796_72.png",
+            "first_name": "Erin",
+            "real_name": "Erin Balsa",
+            "display_name": "Erin Balsa",
+            "team": "TJE58GTJL",
+            "name": "erinbalsa1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U027RNU0A69",
+            "ts": "1635298938.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+GDQo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What kind of collab? A simple blog swap? A co-authored e-book with lead sharing? A co-branded webinar? Different tips for different arrangements :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634738457.035600",
+        "parent_user_id": "U013WR69RDE"
+    },
+    {
+        "client_msg_id": "163faa6f-aa0d-4370-9680-4ae608ffbfc0",
+        "type": "message",
+        "text": "Buyer journeys are non-linear. You can have someone come to your site for the first time via an branded SEO blog (e.g., How does [company name] work?\") and request a demo in the same visit. But that doesn't mean they didn't hear someone talk about you on a webinar and check you out on G2, before typing that query.\n\nAll that to say, you need content for all different types of intent and awareness stages. You'll get the most eyeballs with topical content, though branded and product content will drive the most handraisers.",
+        "user": "U027RNU0A69",
+        "ts": "1635299235.028000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "65e678e06b61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-14\/2267230866486_65e678e06b61dff41796_72.png",
+            "first_name": "Erin",
+            "real_name": "Erin Balsa",
+            "display_name": "Erin Balsa",
+            "team": "TJE58GTJL",
+            "name": "erinbalsa1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vPFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buyer journeys are non-linear. You can have someone come to your site for the first time via an branded SEO blog (e.g., How does [company name] work?\") and request a demo in the same visit. But that doesn't mean they didn't hear someone talk about you on a webinar and check you out on G2, before typing that query.\n\nAll that to say, you need content for all different types of intent and awareness stages. You'll get the most eyeballs with topical content, though branded and product content will drive the most handraisers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634833123.003000",
+        "parent_user_id": "U02FJ6W5YJG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1636459118.039800",
+        "thread_ts": "1636459118.039800",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1636476351.040500",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1636476351.040500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1636476351.040500"
+    },
+    {
+        "client_msg_id": "9eef9122-3ffb-4d93-8cc7-ef39dddf250e",
+        "type": "message",
+        "text": "<@U02CRMLF161> can you move this to <#C012AUSC85C|promotion>?",
+        "user": "UJG9WTEKG",
+        "ts": "1636476268.040000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IEZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CRMLF161"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636100389.037400",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "3dffa941-495e-4339-8c09-443c5bfc39e1",
+        "type": "message",
+        "text": "this channel is meant for sharing stuff form other folks",
+        "user": "UJG9WTEKG",
+        "ts": "1636476276.040200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQ60",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this channel is meant for sharing stuff form other folks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636100389.037400",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1636476294.040400",
+        "user": "UJG9WTEKG",
+        "text": "set the channel topic: share stuff you're reading (no promotion pls)",
+        "topic": "share stuff you're reading (no promotion pls)"
+    },
+    {
+        "client_msg_id": "3f50a579-1a8f-4c76-9a5e-2b75cf88b4d7",
+        "type": "message",
+        "text": "<@U02AQNVCJPL> this channel is just for sharing other people's work. you can repost in <#C012AUSC85C|promotion> if you'd like",
+        "user": "UJG9WTEKG",
+        "ts": "1636476351.040500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1636476352.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GPQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02AQNVCJPL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this channel is just for sharing other people's work. you can repost in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you'd like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636459118.039800",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "ccbc61d7-6bea-4c15-b576-ee8ac48fa0ef",
+        "type": "message",
+        "text": "i'll remove, feel free to repost in <#C012AUSC85C|promotion>",
+        "user": "UJG9WTEKG",
+        "ts": "1636476370.040900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4tKt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'll remove, feel free to repost in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636100389.037400",
+        "parent_user_id": "USLACKBOT"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "893a5e58-4050-4d68-8da7-45d79a344f93",
+        "type": "message",
+        "text": "hi <@U02625MJG3W>! We continue to use Ghost for our blog (agree that the guest author\/contributor ‘management’ is super annoying there!) and Contentful for our larger “resources”, including books, with plans to build out a more robust library like the Slack example you mentioned. <https:\/\/clearbit.com\/resources>. Also have plans to move our whole marketing site content management (still hardcoded)  into Contentful\n\nI can’t speak much to the ease of setup as our growth engineers set everything up (Ghost does seem to be more self-servey from a non-eng perspective - like I can find a way to hack around in there). But once all the templates and preview ability was set — things are pretty easy from the content workflow perspective.\n\n(We tried using Webflow for some book landing pages and I personally really didn’t like using it for the user issue and the workflows to edit\/preview felt super convoluted.)",
+        "user": "UJ2MPBP7V",
+        "ts": "1629475697.108000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c52e31dec26d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-03\/628025237031_c52e31dec26d7abfd5dd_72.jpg",
+            "first_name": "Janet",
+            "real_name": "Janet Choi",
+            "display_name": "Janet",
+            "team": "TJE58GTJL",
+            "name": "janet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ2MPBP7V",
+            "ts": "1629475762.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kpwyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02625MJG3W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! We continue to use Ghost for our blog (agree that the guest author\/contributor ‘management’ is super annoying there!) and Contentful for our larger “resources”, including books, with plans to build out a more robust library like the Slack example you mentioned. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/clearbit.com\/resources"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Also have plans to move our whole marketing site content management (still hardcoded)  into Contentful\n\nI can’t speak much to the ease of setup as our growth engineers set everything up (Ghost does seem to be more self-servey from a non-eng perspective - like I can find a way to hack around in there). But once all the templates and preview ability was set — things are pretty easy from the content workflow perspective.\n\n(We tried using Webflow for some book landing pages and I personally really didn’t like using it for the user issue and the workflows to edit\/preview felt super convoluted.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W"
+    }
+]

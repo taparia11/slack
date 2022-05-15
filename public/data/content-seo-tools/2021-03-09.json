@@ -1,0 +1,665 @@
+[
+    {
+        "client_msg_id": "F8A43F86-8D45-45E3-9115-780A39A0F840",
+        "type": "message",
+        "text": "Great idea ! It would be great if they had a mobile app since many of my screenshots come from my phone...",
+        "user": "U01LLSRQ57A",
+        "ts": "1615307028.035500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8c94185462c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1676815123701_8c94185462c6da317cbb_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Mark",
+            "display_name": "Rebecca Mark",
+            "team": "TJE58GTJL",
+            "name": "rebeccamark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Es0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great idea ! It would be great if they had a mobile app since many of my screenshots come from my phone..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614945078.029400",
+        "parent_user_id": "U014RK24F9D"
+    },
+    {
+        "client_msg_id": "07F0C7E0-98E8-49AA-A7F1-77FFE323C80B",
+        "type": "message",
+        "text": "Has anyone had to set up a new blog interface for their company—- and run in to all sorts of issues?\n\nI have a WP developer who migrated our blog from ghost to WP, using elementor, and we are having all sorts of issues with it just looking bad and being cumbersome to use. From the blog interface being complicated, to the frames being too wide for the screen (cited by Google search console too), to images showing up too large or too small. It’s also taken a full month to make the switch.\n\nOn the venting side: Has anyone else found moving a corporate blog to be a total nightmare? \n\nOn the tactical side: is elementor just a subpar tool for managing a company blog? What can I tell our WP developer to do to make it more user friendly?",
+        "user": "U01LLSRQ57A",
+        "ts": "1615307268.042100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8c94185462c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1676815123701_8c94185462c6da317cbb_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Mark",
+            "display_name": "Rebecca Mark",
+            "team": "TJE58GTJL",
+            "name": "rebeccamark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01LLSRQ57A",
+            "ts": "1615307310.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6MK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone had to set up a new blog interface for their company—- and run in to all sorts of issues?\n\nI have a WP developer who migrated our blog from ghost to WP, using elementor, and we are having all sorts of issues with it just looking bad and being cumbersome to use. From the blog interface being complicated, to the frames being too wide for the screen (cited by Google search console too), to images showing up too large or too small. It’s also taken a full month to make the switch.\n\nOn the venting side: Has anyone else found moving a corporate blog to be a total nightmare? \n\nOn the tactical side: is elementor just a subpar tool for managing a company blog? What can I tell our WP developer to do to make it more user friendly?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615307268.042100",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1615408957.058600",
+        "reply_users": [
+            "U01MW6DPU72",
+            "U01LLSRQ57A",
+            "U01AHL8AGBB",
+            "U01LECPAECX",
+            "U01KYJVARBP"
+        ],
+        "replies": [
+            {
+                "user": "U01MW6DPU72",
+                "ts": "1615309169.042400"
+            },
+            {
+                "user": "U01LLSRQ57A",
+                "ts": "1615309925.043300"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1615318239.048000"
+            },
+            {
+                "user": "U01LLSRQ57A",
+                "ts": "1615320183.048400"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1615321083.048600"
+            },
+            {
+                "user": "U01LECPAECX",
+                "ts": "1615394966.051400"
+            },
+            {
+                "user": "U01KYJVARBP",
+                "ts": "1615408957.058600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c3d54ccb-fa3a-45e6-995d-51268fdd4e7a",
+        "type": "message",
+        "text": "Oh my... I totally relate. I've had to go through with multiple blog migrations as my clients go from WP to Webflow, use Elementor, Squarespace, you name it.\n\nOnce you get the hang of it, Elementor is incredibly useful to use and you get to create really beautiful pages. I recommend watching a couple of Elementor tutorials to really understand how it works - sometimes it's not so intuitive. Once you get over the hump, you may start to like it a bit more (I know I initially hated it!).",
+        "user": "U01MW6DPU72",
+        "ts": "1615309169.042400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2ab21f412c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2ab21f412c3215ee2b3c2994772c589e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Araminta",
+            "real_name": "Araminta Robertson",
+            "display_name": "Araminta Robertson",
+            "team": "TJE58GTJL",
+            "name": "robertsona98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7WJf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh my... I totally relate. I've had to go through with multiple blog migrations as my clients go from WP to Webflow, use Elementor, Squarespace, you name it.\n\nOnce you get the hang of it, Elementor is incredibly useful to use and you get to create really beautiful pages. I recommend watching a couple of Elementor tutorials to really understand how it works - sometimes it's not so intuitive. Once you get over the hump, you may start to like it a bit more (I know I initially hated it!)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615307268.042100",
+        "parent_user_id": "U01LLSRQ57A"
+    },
+    {
+        "client_msg_id": "912097E3-49D0-48D4-B8F4-A0E715726A02",
+        "type": "message",
+        "text": "Thanks <@U01MW6DPU72> ! Glad to know there is a light at the end of the tunnel!",
+        "user": "U01LLSRQ57A",
+        "ts": "1615309925.043300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8c94185462c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1676815123701_8c94185462c6da317cbb_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Mark",
+            "display_name": "Rebecca Mark",
+            "team": "TJE58GTJL",
+            "name": "rebeccamark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bi\/5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01MW6DPU72"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! Glad to know there is a light at the end of the tunnel!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615307268.042100",
+        "parent_user_id": "U01LLSRQ57A"
+    },
+    {
+        "client_msg_id": "837ee5fe-6643-4d12-a4fe-a36902e10834",
+        "type": "message",
+        "text": "If you need a posse to vent with, I will join that marching band! Others have vented about moving material off of Medium (Eeek!*!) and somewhere out there in a sleepy server farm is my original corporate blog on Blogspot.",
+        "user": "U019CR3HQ2K",
+        "ts": "1615311368.045000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc534d8e3bec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c534d8e3becb8f830c6e2f4194d71482.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "David Wallace",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "dwallace",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DEh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you need a posse to vent with, I will join that marching band! Others have vented about moving material off of Medium (Eeek!*!) and somewhere out there in a sleepy server farm is my original corporate blog on Blogspot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01LLSRQ57A",
+                    "U015B88C4CA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48cf79e7-c4d2-47d2-aec9-719ee30086a0",
+        "type": "message",
+        "text": "One suggestion is a template of standard size photo\/image (one horiz and one vert for a start). But, yes, things may need to be resized and QCd manually in the new platform.",
+        "user": "U019CR3HQ2K",
+        "ts": "1615311439.046300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc534d8e3bec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c534d8e3becb8f830c6e2f4194d71482.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "David Wallace",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "dwallace",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHcy8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One suggestion is a template of standard size photo\/image (one horiz and one vert for a start). But, yes, things may need to be resized and QCd manually in the new platform."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615311439.046300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1615312032.046700",
+        "reply_users": [
+            "U01LLSRQ57A"
+        ],
+        "replies": [
+            {
+                "user": "U01LLSRQ57A",
+                "ts": "1615312032.046700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01LLSRQ57A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B1013AA4-B90B-4752-9990-6C53AD3E0C6C",
+        "type": "message",
+        "text": "Thanks!!",
+        "user": "U01LLSRQ57A",
+        "ts": "1615312032.046700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8c94185462c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1676815123701_8c94185462c6da317cbb_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Mark",
+            "display_name": "Rebecca Mark",
+            "team": "TJE58GTJL",
+            "name": "rebeccamark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gazM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615311439.046300",
+        "parent_user_id": "U019CR3HQ2K"
+    },
+    {
+        "client_msg_id": "f14ce561-9eaf-4363-830c-b44a057d012b",
+        "type": "message",
+        "text": "Tactically, Elementor is for *static page building*. Blogs are dynamic, and flow through a dynamic CMS like Wordpress for the best user experience.\n\nElementor is not really a dynamic CMS. If you Google \"making a blog with elementor\" you'll find that they subtly guide you away from the dynamic blog content to the \"Blog Page\" which is `<http:\/\/yourcompany.com\/blog|yourcompany.com\/blog>` vs `<http:\/\/yourcompany.com\/blog\/2021\/2\/name-of-post|yourcompany.com\/blog\/2021\/2\/name-of-post>`\n\nThe key may be in finding a good plugin that enables better communication between the core CMS (Wordpress) and the visual page builder (Elementor). They communicate just fine for PAGES. Not so much for POSTS.\n\nThe job of the developer should be to find a way to do this without bogging down the the page with JS and plugin libraries... and this starts to get out of my wheelhouse and into technical land.\n\n(One reason I've really warmed to Webflow is that it gives you a visual CSS editor (elementor does not really expose you CSS that much) plus a built in dynamic CMS that can read from a database.)",
+        "user": "U01AHL8AGBB",
+        "ts": "1615318239.048000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Nd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tactically, Elementor is for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "static page building",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Blogs are dynamic, and flow through a dynamic CMS like Wordpress for the best user experience.\n\nElementor is not really a dynamic CMS. If you Google \"making a blog with elementor\" you'll find that they subtly guide you away from the dynamic blog content to the \"Blog Page\" which is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/yourcompany.com\/blog",
+                                "text": "yourcompany.com\/blog",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " vs "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/yourcompany.com\/blog\/2021\/2\/name-of-post",
+                                "text": "yourcompany.com\/blog\/2021\/2\/name-of-post",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe key may be in finding a good plugin that enables better communication between the core CMS (Wordpress) and the visual page builder (Elementor). They communicate just fine for PAGES. Not so much for POSTS.\n\nThe job of the developer should be to find a way to do this without bogging down the the page with JS and plugin libraries... and this starts to get out of my wheelhouse and into technical land.\n\n(One reason I've really warmed to Webflow is that it gives you a visual CSS editor (elementor does not really expose you CSS that much) plus a built in dynamic CMS that can read from a database.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615307268.042100",
+        "parent_user_id": "U01LLSRQ57A",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01LLSRQ57A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01LLSRQ57A",
+                    "U010AKESAPL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "795a58bb-f4f1-4a58-8fd5-6b339c2b05a0",
+        "type": "message",
+        "text": "<@U01AHL8AGBB> SUPER helpful. Thank you!! I appreciate you highlighting the distinction of static page building.",
+        "user": "U01LLSRQ57A",
+        "ts": "1615320183.048400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8c94185462c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1676815123701_8c94185462c6da317cbb_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Mark",
+            "display_name": "Rebecca Mark",
+            "team": "TJE58GTJL",
+            "name": "rebeccamark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z=UCY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " SUPER helpful. Thank you!! I appreciate you highlighting the distinction of static page building."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615307268.042100",
+        "parent_user_id": "U01LLSRQ57A"
+    },
+    {
+        "client_msg_id": "18a00b7e-13d2-4fc1-b0f1-205ab5d21360",
+        "type": "message",
+        "text": "<@U01LLSRQ57A> No problem! Glad I could help. :slightly_smiling_face:",
+        "user": "U01AHL8AGBB",
+        "ts": "1615321083.048600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvMyI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01LLSRQ57A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " No problem! Glad I could help. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615307268.042100",
+        "parent_user_id": "U01LLSRQ57A"
+    },
+    {
+        "client_msg_id": "f30b592a-21fe-425f-8731-32a95b7b712b",
+        "type": "message",
+        "text": "So the product has great intent - but it falls short in a couple ways (after trying it for the past few hours).\n(1) It doesn't have a mobile interface - since the majority of my ideas\/inspo come from scrolling on my phone, and is currently a series of screenshots saved in my apple photos app, i am missing probably about 75% of my \"swipe files\"\n(2) It only allows bookmarking of sites. since sites and campaigns change constantly, the thing that I may have wanted to \"save\" could be gone the next time I try to retrieve the bookmark\n(3) no ability to drag and drop screenshots - which probably takes the tools utility from 25% of my non-phone swipes down to 5% (if I am being generous)\n(4) no ability to save social media posts - another major source of swipe file inspiration (Linkedin shares\/videos on Insta Stories\/etc.).\n\n<@U014RK24F9D> not sure if you know Jay but thought I would share early beta feedback (since our team is constantly on the hunt for beta feedback too!)",
+        "user": "U01LLSRQ57A",
+        "ts": "1615324449.048800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8c94185462c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1676815123701_8c94185462c6da317cbb_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Mark",
+            "display_name": "Rebecca Mark",
+            "team": "TJE58GTJL",
+            "name": "rebeccamark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bgO7H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So the product has great intent - but it falls short in a couple ways (after trying it for the past few hours).\n(1) It doesn't have a mobile interface - since the majority of my ideas\/inspo come from scrolling on my phone, and is currently a series of screenshots saved in my apple photos app, i am missing probably about 75% of my \"swipe files\"\n(2) It only allows bookmarking of sites. since sites and campaigns change constantly, the thing that I may have wanted to \"save\" could be gone the next time I try to retrieve the bookmark\n(3) no ability to drag and drop screenshots - which probably takes the tools utility from 25% of my non-phone swipes down to 5% (if I am being generous)\n(4) no ability to save social media posts - another major source of swipe file inspiration (Linkedin shares\/videos on Insta Stories\/etc.).\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014RK24F9D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not sure if you know Jay but thought I would share early beta feedback (since our team is constantly on the hunt for beta feedback too!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614945078.029400",
+        "parent_user_id": "U014RK24F9D"
+    },
+    {
+        "client_msg_id": "c2a122ad-0fad-40e9-938a-f5ea841bfdf2",
+        "type": "message",
+        "text": "Hey <@U01LLSRQ57A> Fantastic feedback, thank you for taking the time.\n\nI know a couple of these are on the roadmap (priority on the mobile interface and screenshot function, along with social sharing).\n\nOn the site\/social saves — I’d reach out to Jay (the support tickets in app currently go right to him) and ask. You can definitely save individual elements of a site _and_ individual social posts, so he may have a fix for you.",
+        "user": "U014RK24F9D",
+        "ts": "1615333867.049300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga545eb99486",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a545eb9948650963cb153a5fc279c195.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Brooklin",
+            "real_name": "Brooklin Nash",
+            "display_name": "Brooklin Nash",
+            "team": "TJE58GTJL",
+            "name": "brooklin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pPb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01LLSRQ57A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Fantastic feedback, thank you for taking the time.\n\nI know a couple of these are on the roadmap (priority on the mobile interface and screenshot function, along with social sharing).\n\nOn the site\/social saves — I’d reach out to Jay (the support tickets in app currently go right to him) and ask. You can definitely save individual elements of a site "
+                            },
+                            {
+                                "type": "text",
+                                "text": "and ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "individual social posts, so he may have a fix for you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614945078.029400",
+        "parent_user_id": "U014RK24F9D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01LLSRQ57A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

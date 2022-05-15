@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "38d26763-20d0-4a00-be2b-563d956d8a7a",
+        "type": "message",
+        "text": "this is a cool thread: <https:\/\/twitter.com\/adadithya\/status\/1498167772156620800>",
+        "user": "UJG9WTEKG",
+        "ts": "1646083179.277449",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/adadithya\/status\/1498167772156620800",
+                "ts": 1646026006,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/adadithya\/status\/1498167772156620800",
+                "fallback": "<https:\/\/twitter.com\/adadithya|@adadithya>: Name any employee-friendly policy in your, or any other startup\/large org, that's super helpful\/really cool. \n\nEx: Unlimited sick leaves, work from anywhere, No meetings on Fridays etc...",
+                "text": "Name any employee-friendly policy in your, or any other startup\/large org, that's super helpful\/really cool. \n\nEx: Unlimited sick leaves, work from anywhere, No meetings on Fridays etc...",
+                "author_name": "Adithya Venkatesan",
+                "author_link": "https:\/\/twitter.com\/adadithya\/status\/1498167772156620800",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1466823061852737539\/Lw11vsuI_normal.jpg",
+                "author_subname": "@adadithya",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9iVi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is a cool thread: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/adadithya\/status\/1498167772156620800"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646083179.277449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1646088697.983789",
+        "reply_users": [
+            "UUH2ESL66"
+        ],
+        "replies": [
+            {
+                "user": "UUH2ESL66",
+                "ts": "1646088697.983789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1646088697.983789",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f21fd7f-903d-4f04-aba5-108dd99abfd4",
+        "type": "message",
+        "text": "Thanks for sharing! At Butter we just introduced an annual travel stipend to visit other Butterers (on top of annual global meetups), which I thought was pretty cool. Covering co-work fees is another pretty cool benefit.",
+        "user": "UUH2ESL66",
+        "ts": "1646088697.983789",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for sharing! At Butter we just introduced an annual travel stipend to visit other Butterers (on top of annual global meetups), which I thought was pretty cool. Covering co-work fees is another pretty cool benefit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646083179.277449",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01L7S9CVNG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1617784475.060200",
+        "thread_ts": "1617784475.060200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617813248.061900",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1617813248.061900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617813248.061900"
+    },
+    {
+        "client_msg_id": "2e1e2036-5242-45b6-83d0-c356bcc1fc77",
+        "type": "message",
+        "text": "hi <@U01JV77871C> - this channel is just for job listings, which folks pay for. just fyi, i'm going to remove this message.",
+        "user": "UJG9WTEKG",
+        "ts": "1617813248.061900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVAyk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JV77871C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - this channel is just for job listings, which folks pay for. just fyi, i'm going to remove this message."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617784475.060200",
+        "parent_user_id": "U01JV77871C"
+    }
+]

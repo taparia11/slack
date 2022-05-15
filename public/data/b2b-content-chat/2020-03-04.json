@@ -1,0 +1,589 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583361900.000200",
+        "user": "UUVC0LK2Q",
+        "text": "<@UUVC0LK2Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583361939.000400",
+        "user": "URAV154AV",
+        "text": "<@URAV154AV> has joined the channel"
+    },
+    {
+        "client_msg_id": "c15e03fd-fcf1-4c65-a19a-9deec3e99e84",
+        "type": "message",
+        "text": "<@UUXMC3ZFH> <@UJE5LQ2JC> <@UUH28N3U2> <@UJS103D7S> Hi!",
+        "user": "UUVC0LK2Q",
+        "ts": "1583361972.001100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4ec985a26973",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972433803617_4ec985a269734364d461_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Staffel",
+            "display_name": "Rebecca Staffel",
+            "team": "TJE58GTJL",
+            "name": "rstaffel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CCb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXMC3ZFH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LQ2JC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH28N3U2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJS103D7S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UUH28N3U2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583361977.001300",
+        "user": "UUXMC3ZFH",
+        "text": "<@UUXMC3ZFH> has joined the channel",
+        "inviter": "UUVC0LK2Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583361977.001500",
+        "user": "UJE5LQ2JC",
+        "text": "<@UJE5LQ2JC> has joined the channel",
+        "inviter": "UUVC0LK2Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583361977.001700",
+        "user": "UUH28N3U2",
+        "text": "<@UUH28N3U2> has joined the channel",
+        "inviter": "UUVC0LK2Q"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583361977.001900",
+        "user": "UJS103D7S",
+        "text": "<@UJS103D7S> has joined the channel",
+        "inviter": "UUVC0LK2Q"
+    },
+    {
+        "client_msg_id": "17aa145a-5ae2-44e5-83a9-7fa61a39ccf8",
+        "type": "message",
+        "text": "Dave, I like the phrase \"complex sales.\" It's certainly how I feel about it.",
+        "user": "UUVC0LK2Q",
+        "ts": "1583362001.002300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4ec985a26973",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972433803617_4ec985a269734364d461_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Staffel",
+            "display_name": "Rebecca Staffel",
+            "team": "TJE58GTJL",
+            "name": "rstaffel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tmTg\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dave, I like the phrase \"complex sales.\" It's certainly how I feel about it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "141d150e-d7b3-417a-ac21-15de1c9435a7",
+        "type": "message",
+        "text": "Bsquare focuses on intelligent devices (aka IoT). We write software for and sell licenses to device makers and enterprises with needs for embedded technologies.",
+        "user": "UUVC0LK2Q",
+        "ts": "1583362077.003600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4ec985a26973",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972433803617_4ec985a269734364d461_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Staffel",
+            "display_name": "Rebecca Staffel",
+            "team": "TJE58GTJL",
+            "name": "rstaffel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2apW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bsquare focuses on intelligent devices (aka IoT). We write software for and sell licenses to device makers and enterprises with needs for embedded technologies."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15006b1e-bd2d-49a1-bc32-99ba8ed82dec",
+        "type": "message",
+        "text": "When I try to explain my strategy to people, it starts looking like a math equation (and I'm not good at math):\n\nComplex products X, Y and Z\nx Large buying committees\nx Multiple business units\nx Custom tech stacks\nx 5+ personas\nx Maturity",
+        "user": "URAV154AV",
+        "ts": "1583362955.005600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lm0=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I try to explain my strategy to people, it starts looking like a math equation (and I'm not good at math):\n\nComplex products X, Y and Z\nx Large buying committees\nx Multiple business units\nx Custom tech stacks\nx 5+ personas\nx Maturity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78238e91-6414-4fa6-a97a-97f3856239fe",
+        "type": "message",
+        "text": "Hey, nice math!",
+        "user": "UUVC0LK2Q",
+        "ts": "1583363554.006000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4ec985a26973",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972433803617_4ec985a269734364d461_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Staffel",
+            "display_name": "Rebecca Staffel",
+            "team": "TJE58GTJL",
+            "name": "rstaffel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aH9qe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, nice math!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dab2766f-4e69-4637-ba3e-0d8f9bec363f",
+        "type": "message",
+        "text": "Our company is retargeting at a few particular verticals, so in a lot of ways, I'm starting from scratch",
+        "user": "UUVC0LK2Q",
+        "ts": "1583363596.006700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4ec985a26973",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972433803617_4ec985a269734364d461_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Staffel",
+            "display_name": "Rebecca Staffel",
+            "team": "TJE58GTJL",
+            "name": "rstaffel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BJAbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our company is retargeting at a few particular verticals, so in a lot of ways, I'm starting from scratch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "396fcd41-f878-419e-8a77-69898d5d88cc",
+        "type": "message",
+        "text": "Personas are next on the to-do list",
+        "user": "UUVC0LK2Q",
+        "ts": "1583363607.007000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4ec985a26973",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972433803617_4ec985a269734364d461_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Staffel",
+            "display_name": "Rebecca Staffel",
+            "team": "TJE58GTJL",
+            "name": "rstaffel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJZl6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personas are next on the to-do list"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ff09313-51db-4911-83cc-5ebcf14aa475",
+        "type": "message",
+        "text": "<@UUVC0LK2Q> Thanks again for starting this channel! This is great. It's a wish come true. Talking shop with others who are in the same boat.",
+        "user": "UUXMC3ZFH",
+        "ts": "1583370596.007700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g32741d44912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/32741d44912ef78f542f28f30f1abf21.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Vranicar",
+            "display_name": "Dave Vranicar",
+            "team": "TJE58GTJL",
+            "name": "dave.vranicar950",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qYF5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUVC0LK2Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks again for starting this channel! This is great. It's a wish come true. Talking shop with others who are in the same boat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "UUVC0LK2Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6598b35-77ad-431f-969f-8546b7869120",
+        "type": "message",
+        "text": "<@URAV154AV> I'm not so good at math, either. (That's one reason why I chose journalism over STEM.)\n\nI'm not sure I understand your equation. Here's my guess at putting it into language I can understand better:",
+        "user": "UUXMC3ZFH",
+        "ts": "1583370805.009200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g32741d44912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/32741d44912ef78f542f28f30f1abf21.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Vranicar",
+            "display_name": "Dave Vranicar",
+            "team": "TJE58GTJL",
+            "name": "dave.vranicar950",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URAV154AV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm not so good at math, either. (That's one reason why I chose journalism over STEM.)\n\nI'm not sure I understand your equation. Here's my guess at putting it into language I can understand better:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59b5aeef-4199-472f-9123-e9a1a2b9fe4a",
+        "type": "message",
+        "text": "You sell multiple products to companies that have big buying committees across multiple business units.",
+        "user": "UUXMC3ZFH",
+        "ts": "1583370839.009800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g32741d44912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/32741d44912ef78f542f28f30f1abf21.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Vranicar",
+            "display_name": "Dave Vranicar",
+            "team": "TJE58GTJL",
+            "name": "dave.vranicar950",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j\/J6\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You sell multiple products to companies that have big buying committees across multiple business units."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fad4057-9a89-4b29-97c6-08aa2bb0efde",
+        "type": "message",
+        "text": "You sell to multiple buyer personas.",
+        "user": "UUXMC3ZFH",
+        "ts": "1583370851.010100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g32741d44912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/32741d44912ef78f542f28f30f1abf21.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Vranicar",
+            "display_name": "Dave Vranicar",
+            "team": "TJE58GTJL",
+            "name": "dave.vranicar950",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "COT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You sell to multiple buyer personas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d26d75b0-a024-43cc-88b2-e0ad8fb43b47",
+        "type": "message",
+        "text": "I don't get the part about Maturity or Custom Tech Stacks.\n\nRegardless, this looks like classic territory for the \"complex sale.\"\n\nIt drives me crazy when people say B2B and B2C are becoming more alike. It's true in part, but it's so misleading.\n\nYes, B2B is borrowing more marketing approaches from B2C. But at the far end of the scale of B2B sales complexity, the buyer's decision process has almost nothing in common with B2C buying decisions (other than that human beings are involved in both).\n\nIn my experience, marketers who have done only B2C content have no clue about how to create effective content for complex sales.\n\nWhat's your view?",
+        "user": "UUXMC3ZFH",
+        "ts": "1583371094.014100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g32741d44912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/32741d44912ef78f542f28f30f1abf21.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Vranicar",
+            "display_name": "Dave Vranicar",
+            "team": "TJE58GTJL",
+            "name": "dave.vranicar950",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EdDV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't get the part about Maturity or Custom Tech Stacks.\n\nRegardless, this looks like classic territory for the \"complex sale.\"\n\nIt drives me crazy when people say B2B and B2C are becoming more alike. It's true in part, but it's so misleading.\n\nYes, B2B is borrowing more marketing approaches from B2C. But at the far end of the scale of B2B sales complexity, the buyer's decision process has almost nothing in common with B2C buying decisions (other than that human beings are involved in both).\n\nIn my experience, marketers who have done only B2C content have no clue about how to create effective content for complex sales.\n\nWhat's your view?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583371094.014100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1583512268.036000",
+        "reply_users": [
+            "URAV154AV",
+            "UUXMC3ZFH"
+        ],
+        "replies": [
+            {
+                "user": "URAV154AV",
+                "ts": "1583454143.018200"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1583454183.018400"
+            },
+            {
+                "user": "UUXMC3ZFH",
+                "ts": "1583512268.036000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583377078.014300",
+        "user": "UUJBNHZQB",
+        "text": "<@UUJBNHZQB> has joined the channel"
+    }
+]

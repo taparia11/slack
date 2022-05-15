@@ -1,0 +1,399 @@
+[
+    {
+        "client_msg_id": "b88d77a4-741c-4ca1-b55b-ba0bb2379888",
+        "type": "message",
+        "text": "hey guys",
+        "user": "UJG9WTEKG",
+        "ts": "1591309178.085100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srrWW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591309178.085100",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1591363698.087700",
+        "reply_users": [
+            "U012R27LRJ8",
+            "UJG9WTEKG",
+            "UUH2EB134",
+            "ULJBEFSJJ"
+        ],
+        "replies": [
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1591309240.085300"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1591309257.085500"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1591309262.085700"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1591309319.086000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1591309347.086300"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1591309361.086500"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1591363698.087700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1591367207.647405",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U011SV8U2LV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1591309179.085200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U011YP2K5E2",
+                    "U014FMGRKQA",
+                    "ULJBEFSJJ",
+                    "U0107Q25BRT",
+                    "UUH2ESL66",
+                    "U01369L4VBQ",
+                    "U012SFLCAF2",
+                    "U012UG9F6E8",
+                    "U016A2ADU3F"
+                ],
+                "count": 9
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UL4TUV38B",
+                    "U013VFE9EGK",
+                    "UUVRED0LQ",
+                    "U012UG9F6E8",
+                    "U016HJRC77E",
+                    "U016VHZ0ZD5"
+                ],
+                "count": 6
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UUVRED0LQ",
+                    "U012UG9F6E8",
+                    "UUVC0LK2Q"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe23eeab-c16b-45af-b08c-414eba9b5c09",
+        "type": "message",
+        "text": ":wave:",
+        "user": "U012R27LRJ8",
+        "ts": "1591309240.085300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc7e97cc49db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7e97cc49db3bc3a0bae60f1201822c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Al",
+            "real_name": "Al Chen",
+            "display_name": "Al Chen",
+            "team": "TJE58GTJL",
+            "name": "al",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591309178.085100",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "3c53fb3c-038d-4ff4-875e-73423a1b4182",
+        "type": "message",
+        "text": "hey al!",
+        "user": "UJG9WTEKG",
+        "ts": "1591309257.085500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey al!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591309178.085100",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "f6d3afff-1795-4bda-9ef0-0b3a432aeb6b",
+        "type": "message",
+        "text": "sorry just running a little test here",
+        "user": "UJG9WTEKG",
+        "ts": "1591309262.085700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wYB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry just running a little test here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591309178.085100",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012R27LRJ8",
+                    "U010XAE2D3K"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d563763-9387-4e74-9c19-2c40fca837f8",
+        "type": "message",
+        "text": "Inclusive language bot?",
+        "user": "UUH2EB134",
+        "ts": "1591309319.086000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "litND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inclusive language bot?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591309178.085100",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "2B81F0C8-3084-40BA-B4CA-0D82598DE324",
+        "type": "message",
+        "text": "yep! ",
+        "user": "UJG9WTEKG",
+        "ts": "1591309347.086300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VvHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591309178.085100",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUVC5QGA0",
+                    "UUH2ESL66",
+                    "UUH28Q5D0",
+                    "U016HJRC77E"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcc5ab9f-d008-4a5b-b12f-2b87ea7df69c",
+        "type": "message",
+        "text": "Nice!",
+        "user": "UUH2EB134",
+        "ts": "1591309361.086500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591309178.085100",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

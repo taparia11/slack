@@ -1,0 +1,128 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1601104954.004400",
+        "thread_ts": "1601104954.004400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1601285762.006000",
+        "reply_users": [
+            "U010JU2GTND",
+            "U019P0ADPCH",
+            "U01A4DV8W0J"
+        ],
+        "replies": [
+            {
+                "user": "U010JU2GTND",
+                "ts": "1601141902.005600"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1601143262.005800"
+            },
+            {
+                "user": "U01A4DV8W0J",
+                "ts": "1601285762.006000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D54FCF2F-3E27-4601-8ED6-51B54BEF4FD3",
+        "type": "message",
+        "text": "Lots of people at Soapbox can contribute :) happy to make an intro! ",
+        "user": "U010JU2GTND",
+        "ts": "1601141902.005600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iiO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lots of people at Soapbox can contribute :) happy to make an intro! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601104954.004400",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "f77b2d0c-7e3a-4898-989b-c2fbb28e5f0c",
+        "type": "message",
+        "text": "<@U010JU2GTND> One person will do. Thanks so much! Have them write to me at <mailto:alexandra@zengrowth.de|alexandra@zengrowth.de> and I'll get back with the details.",
+        "user": "U019P0ADPCH",
+        "ts": "1601143262.005800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RNTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010JU2GTND"
+                            },
+                            {
+                                "type": "text",
+                                "text": " One person will do. Thanks so much! Have them write to me at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:alexandra@zengrowth.de",
+                                "text": "alexandra@zengrowth.de"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I'll get back with the details."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601104954.004400",
+        "parent_user_id": "U019P0ADPCH"
+    }
+]

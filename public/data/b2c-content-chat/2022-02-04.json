@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "6b6a2f8b-7447-4d2b-98a5-a3b78a51f8cb",
+        "type": "message",
+        "text": "Hi Momina! I'd say the top thing to avoid would be having the popup appear immediately when the user goes onto the page (rather than setting a delay or having it pop up when the user is about to exit or when they scroll to the bottom).\nAnother one is making the popup hard to exit out of.",
+        "user": "U02TDTEHQKA",
+        "ts": "1644022849.779789",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e332980d3bbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2921100568433_e332980d3bbe1de386fd_72.jpg",
+            "first_name": "Kristina",
+            "real_name": "Kristina D",
+            "display_name": "Kristina D",
+            "team": "TJE58GTJL",
+            "name": "kristinazitamusic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02TDTEHQKA",
+            "ts": "1644022863.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "exkwf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Momina! I'd say the top thing to avoid would be having the popup appear immediately when the user goes onto the page (rather than setting a delay or having it pop up when the user is about to exit or when they scroll to the bottom).\nAnother one is making the popup hard to exit out of."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643889456.394989",
+        "parent_user_id": "U03018Z4NTA",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03018Z4NTA",
+                    "U02PUQ6CQRX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93bc7a6a-c6ea-4967-a35e-76f12c063bf3",
+        "type": "message",
+        "text": "Hey Kristina! Thank you. Can I get your full name and title to quote you in the article please?",
+        "user": "U03018Z4NTA",
+        "ts": "1644047541.655639",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a0ef0e75f97",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-31\/3033413541571_3a0ef0e75f97ede9217b_72.jpg",
+            "first_name": "Momina",
+            "real_name": "Momina Asif",
+            "display_name": "Momina",
+            "team": "TJE58GTJL",
+            "name": "momnaasif",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bcyt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Kristina! Thank you. Can I get your full name and title to quote you in the article please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643889456.394989",
+        "parent_user_id": "U03018Z4NTA"
+    }
+]

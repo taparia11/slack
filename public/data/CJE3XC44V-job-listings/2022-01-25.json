@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "279de9b8-d2f9-4330-9292-4e0cd58bc796",
+        "type": "message",
+        "text": "Ping me if you have any questions on this. :v:",
+        "user": "U0166H7KUAZ",
+        "ts": "1643124799.041900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f58be1456496",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-29\/1197308509671_f58be1456496f374b7ea_72.jpg",
+            "first_name": "",
+            "real_name": "Phillip Paquette",
+            "display_name": "Phillip Paquette",
+            "team": "TJE58GTJL",
+            "name": "phillippaquette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTxAR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ping me if you have any questions on this. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643085339.041500"
+    },
+    {
+        "client_msg_id": "cdc3b54e-f34f-4558-9628-dd2185474599",
+        "type": "message",
+        "text": "<@U0166H7KUAZ> just read the job description and I LOVE that you included the \"why this might not be a good fit\" section! I haven't seen that before. Aaand I'm applying btw :slightly_smiling_face:",
+        "user": "U02VAB2TQ2D",
+        "ts": "1643132339.044200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "643c0c0b809d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2982585709365_643c0c0b809d440d04c8_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa Zehner",
+            "display_name": "Melissa Zehner",
+            "team": "TJE58GTJL",
+            "name": "melissa525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRE9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0166H7KUAZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just read the job description and I LOVE that you included the \"why this might not be a good fit\" section! I haven't seen that before. Aaand I'm applying btw "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643085339.041500",
+        "reactions": [
+            {
+                "name": "partygritty",
+                "users": [
+                    "UJG9WTEKG",
+                    "U0166H7KUAZ",
+                    "U02UNH5M7QX",
+                    "U032Q4CT9G8"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Superpath is hiring a Freelance writer (cryptocurrency and blockchain) ()* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/232108-freelance-writer-cryptocurrency-and-blockchain>",
+        "ts": "1643140583.044400",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U02CVNB3X1T",
+                    "U02FBJMJ47R",
+                    "UN29JC48H"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*<http:\/\/Builder.io|Builder.io> is hiring a Senior Content Strategist ()* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/232219-senior-content-strategist>",
+        "ts": "1643160558.046100",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR"
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "2fcd63d9-3256-4ce2-8f2f-6ac9c334cd42",
+        "type": "message",
+        "text": "please send me your email's",
+        "user": "UUE7J6UDN",
+        "ts": "1587326706.085900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f1a97da24d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-13\/2403885855088_f1a97da24d4c59536828_72.jpg",
+            "first_name": "Matthew",
+            "real_name": "Matthew Speiser",
+            "display_name": "Matthew Speiser",
+            "team": "TJE58GTJL",
+            "name": "spyzguyz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCE5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please send me your email's"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587133302.080200",
+        "parent_user_id": "UUE7J6UDN"
+    },
+    {
+        "client_msg_id": "0471d7b2-3093-4d79-a8c8-bc9353f67d5e",
+        "type": "message",
+        "text": "<@UUE7J6UDN> Here you go, you can find me at <mailto:mailtoevnisha@gmail.com|mailtoevnisha@gmail.com>!",
+        "user": "UQTQJ5QCF",
+        "ts": "1587358609.086200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g8b1c9c16bba",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8b1c9c16bba0f91c2d0a37037b5b4bba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "E Malani",
+            "display_name": "E Malani",
+            "team": "TJE58GTJL",
+            "name": "mailtoevnisha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQTQJ5QCF",
+            "ts": "1587358624.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WvJ6=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUE7J6UDN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here you go, you can find me at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:mailtoevnisha@gmail.com",
+                                "text": "mailtoevnisha@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587133302.080200",
+        "parent_user_id": "UUE7J6UDN"
+    }
+]

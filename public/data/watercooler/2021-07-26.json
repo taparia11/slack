@@ -1,0 +1,122 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1627321983.151200",
+        "thread_ts": "1627321983.151200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1627326141.151500",
+        "reply_users": [
+            "U01FUP6AMEZ"
+        ],
+        "replies": [
+            {
+                "user": "U01FUP6AMEZ",
+                "ts": "1627326141.151500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4fda16c9-4313-4d16-be91-0ba6929b279d",
+        "type": "message",
+        "text": "really brill lead magnet, <@U01MQD27JG3>!!",
+        "user": "U01FUP6AMEZ",
+        "ts": "1627326141.151500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "128762c3ea3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-01\/1527137254583_128762c3ea3f3d65d19b_72.jpg",
+            "first_name": "Joanna",
+            "real_name": "Joanna Rutter",
+            "display_name": "Joanna Rutter",
+            "team": "TJE58GTJL",
+            "name": "rutterjoanna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wDsfr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "really brill lead magnet, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01MQD27JG3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627321983.151200",
+        "parent_user_id": "U01MQD27JG3",
+        "reactions": [
+            {
+                "name": "relaxed",
+                "users": [
+                    "U01MQD27JG3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7500ec3-116b-455a-9ec5-c57106e8f9ba",
+        "type": "message",
+        "text": "fascinating!",
+        "user": "U01RSA9E9D4",
+        "ts": "1627353918.151900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfbc217f6e1b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbc217f6e1b233bf10c4247333c118e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Anfernee",
+            "real_name": "Anfernee Chansamooth",
+            "display_name": "Anf Chansamooth",
+            "team": "TJE58GTJL",
+            "name": "anf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5NLx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fascinating!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624554551.107800",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

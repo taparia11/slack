@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "1346597a-6d8d-4382-b127-ef0182a5739c",
+        "type": "message",
+        "text": "<@U015T6HEA95> might also be able to help here",
+        "user": "U01SFTTQ483",
+        "ts": "1624979437.159500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bffef5138cc6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-25\/1893741270550_bffef5138cc63fcea5b0_72.png",
+            "first_name": "Shawn",
+            "real_name": "Shawn Ragell",
+            "display_name": "Shawn Ragell",
+            "team": "TJE58GTJL",
+            "name": "shawn.ragell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0Dx8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U015T6HEA95"
+                            },
+                            {
+                                "type": "text",
+                                "text": " might also be able to help here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624542535.148200",
+        "parent_user_id": "U0231C2LYNM"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1624979456.159800",
+        "user": "U015T6HEA95",
+        "text": "<@U015T6HEA95> has joined the channel",
+        "inviter": "U01SFTTQ483"
+    }
+]

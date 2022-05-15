@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "1f943e30-94d2-491c-9896-6ad22033e6fa",
+        "type": "message",
+        "text": "Hi Emma. Did you publish that post? Would love to read it if\/when it’s done.",
+        "user": "U015HDJKZM2",
+        "ts": "1607012733.177900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aed54987a896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-12\/1180335660085_aed54987a896e3bce76d_72.jpg",
+            "first_name": "Jeff",
+            "real_name": "Jeff Green",
+            "display_name": "Jeff",
+            "team": "TJE58GTJL",
+            "name": "jeffreyalangreen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GTdJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Emma. Did you publish that post? Would love to read it if\/when it’s done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605019516.120400",
+        "parent_user_id": "UQ5U6E5PF"
+    },
+    {
+        "client_msg_id": "3e429d54-c0ec-4f0b-a95b-e654c8072794",
+        "type": "message",
+        "text": "If you haven’t hear this, it’s a podcast worth listening to about how Slack (and Flickr) came to be. <https:\/\/www.npr.org\/2018\/07\/27\/633164558\/slack-flickr-stewart-butterfield>",
+        "user": "U015HDJKZM2",
+        "ts": "1607012871.178200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aed54987a896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-12\/1180335660085_aed54987a896e3bce76d_72.jpg",
+            "first_name": "Jeff",
+            "real_name": "Jeff Green",
+            "display_name": "Jeff",
+            "team": "TJE58GTJL",
+            "name": "jeffreyalangreen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NPR.org",
+                "title": "Slack &amp; Flickr: Stewart Butterfield : How I Built This with Guy Raz",
+                "title_link": "https:\/\/www.npr.org\/2018\/07\/27\/633164558\/slack-flickr-stewart-butterfield",
+                "text": "In the early 2000s, Stewart Butterfield tried to build a weird, massively multiplayer online game, but the venture failed. Instead, he and his co-founders used the technology they developed to create the photo-sharing site Flickr. After Flickr was acquired by Yahoo in 2005, Butterfield went back to the online game idea, only to fail again. But the office messaging platform Slack rose from the ashes of that second failure — a company which, today, is valued at over $5 billion. PLUS, for our postscript \"How You Built That,\" how a peanut butter obsession turned teenager Abby Kircher into a CEO before she was old enough to drive.",
+                "fallback": "NPR.org: Slack &amp; Flickr: Stewart Butterfield : How I Built This with Guy Raz",
+                "image_url": "https:\/\/media.npr.org\/assets\/img\/2018\/07\/27\/ep83-slack_wide-cd382e6c29f39d7d98e4577b3962681213b68135.jpg?s=1400",
+                "from_url": "https:\/\/www.npr.org\/2018\/07\/27\/633164558\/slack-flickr-stewart-butterfield",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 201617,
+                "service_icon": "https:\/\/static-assets.npr.org\/static\/images\/favicon\/favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.npr.org\/2018\/07\/27\/633164558\/slack-flickr-stewart-butterfield"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nuz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you haven’t hear this, it’s a podcast worth listening to about how Slack (and Flickr) came to be. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.npr.org\/2018\/07\/27\/633164558\/slack-flickr-stewart-butterfield"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606858605.173000",
+        "parent_user_id": "U016UC1UQEN"
+    }
+]

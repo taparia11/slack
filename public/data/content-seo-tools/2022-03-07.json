@@ -1,0 +1,621 @@
+[
+    {
+        "client_msg_id": "c763a731-8513-4b71-b928-e8548833b328",
+        "type": "message",
+        "text": "Thanks <@U02J27W7K1B>!",
+        "user": "U02J7DM81AQ",
+        "ts": "1646652673.898289",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb47e412d680",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b47e412d680490c17c4ca22271a9e55b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sofie",
+            "real_name": "Sofie Couwenbergh",
+            "display_name": "Sofie Couwenbergh",
+            "team": "TJE58GTJL",
+            "name": "sofie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m3kYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02J27W7K1B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646130229.544159",
+        "parent_user_id": "U02J7DM81AQ"
+    },
+    {
+        "client_msg_id": "31ed572b-9e28-4f4f-8e89-9945a9f278a7",
+        "type": "message",
+        "text": "Any podcasters out there have a recording platform that keeps both the talent and the production team happy? We use Riverside for recording, and I as the producer love it, but our host (and CEO) has gotten fed up with the poor video quality while on the call and says it impacts his connection with the guest too much.  (He also hates not being able to hide his self view during the interview, but that’s more a wish-list than a must-have.)\n\nAs far as I can tell, any platform that records the AV locally (like Riverside, Zencastr, etc.) will have the risk of that same issue of video quality while on the call — but having separate local recordings makes the final podcast quality so much better, both in terms of the audio itself and being able to edit out crosstalk, etc. Any platforms manage to do both, or any other tools you use that help out?",
+        "user": "U027Y9T7GTC",
+        "ts": "1646673043.819329",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b664de8e1308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-13\/2263791601558_b664de8e130877c44472_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Skalbeck",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "megan582",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9NAS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any podcasters out there have a recording platform that keeps both the talent and the production team happy? We use Riverside for recording, and I as the producer love it, but our host (and CEO) has gotten fed up with the poor video quality while on the call and says it impacts his connection with the guest too much.  (He also hates not being able to hide his self view during the interview, but that’s more a wish-list than a must-have.)\n\nAs far as I can tell, any platform that records the AV locally (like Riverside, Zencastr, etc.) will have the risk of that same issue of video quality while on the call — but having separate local recordings makes the final podcast quality so much better, both in terms of the audio itself and being able to edit out crosstalk, etc. Any platforms manage to do both, or any other tools you use that help out?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646673043.819329",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1647446911.387199",
+        "reply_users": [
+            "U012GHRAHDK",
+            "U027Y9T7GTC",
+            "U01TB1SDD61",
+            "UUH2EB134",
+            "U0331KC4D0S",
+            "UP6K3LYQ7"
+        ],
+        "replies": [
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1646673168.806489"
+            },
+            {
+                "user": "U027Y9T7GTC",
+                "ts": "1646673408.559849"
+            },
+            {
+                "user": "U01TB1SDD61",
+                "ts": "1646673581.094419"
+            },
+            {
+                "user": "U027Y9T7GTC",
+                "ts": "1646673944.391629"
+            },
+            {
+                "user": "U01TB1SDD61",
+                "ts": "1646674877.798619"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1646687475.127159"
+            },
+            {
+                "user": "U027Y9T7GTC",
+                "ts": "1646697273.520119"
+            },
+            {
+                "user": "U0331KC4D0S",
+                "ts": "1647006873.797889"
+            },
+            {
+                "user": "UP6K3LYQ7",
+                "ts": "1647446911.387199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3f3ec689-aa2f-4fa6-927b-6fd8901fa3de",
+        "type": "message",
+        "text": "Why not use Zoom? I have used it in the past and the quality is great. You can also look at Whereby for a slightly better video quality.",
+        "user": "U012GHRAHDK",
+        "ts": "1646673168.806489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hpo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why not use Zoom? I have used it in the past and the quality is great. You can also look at Whereby for a slightly better video quality."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646673043.819329",
+        "parent_user_id": "U027Y9T7GTC"
+    },
+    {
+        "client_msg_id": "034e0cac-ab72-404f-bb89-abacbbad5208",
+        "type": "message",
+        "text": "We used Zoom originally, but the quality of the audio recordings isn’t ideal, and you can’t edit the host and guest audio separately when there’s crosstalk. (And audio is our main focus since we only use the video for a short snippet on social.)\n\nI haven’t heard of Whereby though, I’ll check it out. Thanks Deb!",
+        "user": "U027Y9T7GTC",
+        "ts": "1646673408.559849",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b664de8e1308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-13\/2263791601558_b664de8e130877c44472_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Skalbeck",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "megan582",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We used Zoom originally, but the quality of the audio recordings isn’t ideal, and you can’t edit the host and guest audio separately when there’s crosstalk. (And audio is our main focus since we only use the video for a short snippet on social.)\n\nI haven’t heard of Whereby though, I’ll check it out. Thanks Deb!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646673043.819329",
+        "parent_user_id": "U027Y9T7GTC"
+    },
+    {
+        "client_msg_id": "39ec7bc8-1570-4201-b5e5-defd7281f97d",
+        "type": "message",
+        "text": "Streamyard and Zip Message are cool.",
+        "user": "U01TB1SDD61",
+        "ts": "1646673581.094419",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2da59dbebfcc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3018278919268_2da59dbebfccdb6e4267_72.png",
+            "first_name": "Rosemary",
+            "real_name": "Rosemary Egbo",
+            "display_name": "Rosemary Egbo",
+            "team": "TJE58GTJL",
+            "name": "rosemaryegbo2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nQvQi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Streamyard and Zip Message are cool."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646673043.819329",
+        "parent_user_id": "U027Y9T7GTC"
+    },
+    {
+        "client_msg_id": "0ac8f73b-bf0e-4fe9-bb62-9b346e9642e6",
+        "type": "message",
+        "text": "Ooh I hadn’t looked at streaming platforms, since we don’t do anything live, but presumably those would prioritize video quality during the call, and Streamyard also seems to enable separate audio tracks. Fantastic. Thank you, Rosemary!",
+        "user": "U027Y9T7GTC",
+        "ts": "1646673944.391629",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b664de8e1308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-13\/2263791601558_b664de8e130877c44472_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Skalbeck",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "megan582",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m1Lib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ooh I hadn’t looked at streaming platforms, since we don’t do anything live, but presumably those would prioritize video quality during the call, and Streamyard also seems to enable separate audio tracks. Fantastic. Thank you, Rosemary!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646673043.819329",
+        "parent_user_id": "U027Y9T7GTC"
+    },
+    {
+        "client_msg_id": "0ff0798c-6869-4f41-8a1c-a650e606872d",
+        "type": "message",
+        "text": "You're welcome. :hugging_face:",
+        "user": "U01TB1SDD61",
+        "ts": "1646674877.798619",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2da59dbebfcc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3018278919268_2da59dbebfccdb6e4267_72.png",
+            "first_name": "Rosemary",
+            "real_name": "Rosemary Egbo",
+            "display_name": "Rosemary Egbo",
+            "team": "TJE58GTJL",
+            "name": "rosemaryegbo2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BIue",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're welcome. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646673043.819329",
+        "parent_user_id": "U027Y9T7GTC"
+    },
+    {
+        "client_msg_id": "7389f989-9470-423d-8d14-f18f52a9a61e",
+        "type": "message",
+        "text": "Has anybody used <http:\/\/ceros.com|Ceros> to create more interactive content? If so, would love to hear your experiences, the types of success it brought\/how you measured it, the impact it has had, challenges, etc. It has quite a steep price tag, and my team is currently in the pilot phase to see how we like it.\n\nIf you don't use Ceros, what other tools do you use to create content that is more interactive\/engaging than a PDF? I'm all ears.",
+        "user": "U02TQCETCT1",
+        "ts": "1646678803.986179",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4fc877de6317",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-14\/2942698553655_4fc877de6317f65c2d3d_72.jpg",
+            "first_name": "Leah",
+            "real_name": "Leah Bury",
+            "display_name": "Leah Bury",
+            "team": "TJE58GTJL",
+            "name": "leah.bury",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=R4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anybody used "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ceros.com",
+                                "text": "Ceros"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to create more interactive content? If so, would love to hear your experiences, the types of success it brought\/how you measured it, the impact it has had, challenges, etc. It has quite a steep price tag, and my team is currently in the pilot phase to see how we like it.\n\nIf you don't use Ceros, what other tools do you use to create content that is more interactive\/engaging than a PDF? I'm all ears."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646678803.986179",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1646924506.737639",
+        "reply_users": [
+            "U01AU94TABA",
+            "UUKNRAD4Z",
+            "U031B8HB5FB",
+            "URAV154AV"
+        ],
+        "replies": [
+            {
+                "user": "U01AU94TABA",
+                "ts": "1646683317.705879"
+            },
+            {
+                "user": "UUKNRAD4Z",
+                "ts": "1646693672.409669"
+            },
+            {
+                "user": "U031B8HB5FB",
+                "ts": "1646796950.679359"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1646848611.470079"
+            },
+            {
+                "user": "UUKNRAD4Z",
+                "ts": "1646859109.904469"
+            },
+            {
+                "user": "U031B8HB5FB",
+                "ts": "1646924506.737639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "54f8693c-e073-4923-96df-2b27e0a1d550",
+        "type": "message",
+        "text": "We had Ceros build some interactive landing pages. The process of was very collaborative and pleasant. The challenges were on on our end of coordinating feedback to meet Ceros' sometimes tight deadlines. I haven't used the platform myself but I believe we are getting some of our designers licensed\/trained so we can create Ceros experiences in-house.\n\nWe didn't use any different measurements for Ceros projects. The Ceros landing page had the most page views over the past 6 months for the particular section of our website that houses it, with a 2.5 minute higher-than-average time on page.\n<https:\/\/www.amerisourcebergen.com\/provider-solutions\/providers-101-series>\n\nIt's hard to tell with projects like this if it's the content or the format that brings people in",
+        "user": "U01AU94TABA",
+        "ts": "1646683317.705879",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6236aae5a4ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1368396724496_6236aae5a4ffcfa4bf4d_72.jpg",
+            "first_name": "Danielle",
+            "real_name": "Danielle Love",
+            "display_name": "Danielle Love",
+            "team": "TJE58GTJL",
+            "name": "danielle.love",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We had Ceros build some interactive landing pages. The process of was very collaborative and pleasant. The challenges were on on our end of coordinating feedback to meet Ceros' sometimes tight deadlines. I haven't used the platform myself but I believe we are getting some of our designers licensed\/trained so we can create Ceros experiences in-house.\n\nWe didn't use any different measurements for Ceros projects. The Ceros landing page had the most page views over the past 6 months for the particular section of our website that houses it, with a 2.5 minute higher-than-average time on page.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amerisourcebergen.com\/provider-solutions\/providers-101-series"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIt's hard to tell with projects like this if it's the content or the format that brings people in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646678803.986179",
+        "parent_user_id": "U02TQCETCT1",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U02TQCETCT1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U02TQCETCT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c4e4370-c928-45ce-886a-ba37188e6910",
+        "type": "message",
+        "text": "+1 to StreamYard (although I’m biased).\n\nBut to be bluntly honest, if you’re already using Riverside, you’ve hit the limit on quality. The only way to achieve a noticeable difference in quality is by sending a production crew on-site.",
+        "user": "UUH2EB134",
+        "ts": "1646687475.127159",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Da9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 to StreamYard (although I’m biased).\n\nBut to be bluntly honest, if you’re already using Riverside, you’ve hit the limit on quality. The only way to achieve a noticeable difference in quality is by sending a production crew on-site."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646673043.819329",
+        "parent_user_id": "U027Y9T7GTC"
+    },
+    {
+        "client_msg_id": "4e757049-3880-4e1a-a1e5-9c9b4e5851d1",
+        "type": "message",
+        "text": "Competitors to Ceros include Vev, Foleon, Shorthand, Turtl, Rock Content, and a few others. Most should be cheaper than Ceros, though it's hard to get apples-to-apples comparisons.\n\n(Disclaimer: I work for Shorthand &amp; haven't a heap of experience with the other tools).",
+        "user": "UUKNRAD4Z",
+        "ts": "1646693672.409669",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a1b61d04207",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/972261198097_7a1b61d0420706ec2439_72.jpg",
+            "first_name": "MattM",
+            "real_name": "MattM",
+            "display_name": "MattM",
+            "team": "TJE58GTJL",
+            "name": "mcgma709",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HV5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Competitors to Ceros include Vev, Foleon, Shorthand, Turtl, Rock Content, and a few others. Most should be cheaper than Ceros, though it's hard to get apples-to-apples comparisons.\n\n(Disclaimer: I work for Shorthand & haven't a heap of experience with the other tools)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646678803.986179",
+        "parent_user_id": "U02TQCETCT1"
+    },
+    {
+        "client_msg_id": "b2c38786-ba76-4558-9793-507db492c361",
+        "type": "message",
+        "text": "<@UUH2EB134> got it, thank you for that confirmation! Maybe our host can live with some pixelated video during the interview:crossed_fingers:",
+        "user": "U027Y9T7GTC",
+        "ts": "1646697273.520119",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b664de8e1308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-13\/2263791601558_b664de8e130877c44472_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Skalbeck",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "megan582",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WRJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            },
+                            {
+                                "type": "text",
+                                "text": " got it, thank you for that confirmation! Maybe our host can live with some pixelated video during the interview"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646673043.819329",
+        "parent_user_id": "U027Y9T7GTC"
+    }
+]

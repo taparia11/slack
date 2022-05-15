@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "75f325d2-adb0-403c-83f1-4476b036d437",
+        "type": "message",
+        "text": "so basically.. let’s monitor for a few hours\/days, cross our fingers, and see what happened? :wink:",
+        "user": "U017WRJTKF1",
+        "ts": "1607105354.090000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017WRJTKF1",
+            "ts": "1607105376.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cXjq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so basically.. let’s monitor for a few hours\/days, cross our fingers, and see what happened? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607023224.084000",
+        "parent_user_id": "UUJBMNRNF",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2eeac61b-2cf7-4e74-8791-f66a1c162a99",
+        "type": "message",
+        "text": "<@U017WRJTKF1> exactly",
+        "user": "UJ2QESJ66",
+        "ts": "1607114522.090400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6f45bd7b7f97",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-24\/1268680536836_6f45bd7b7f97c52740e0_72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Ortega",
+            "display_name": "Juan",
+            "team": "TJE58GTJL",
+            "name": "juan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RS=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " exactly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607023224.084000",
+        "parent_user_id": "UUJBMNRNF"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "bb9e799d-e8f2-4f45-9498-e0147f8b22e1",
+        "type": "message",
+        "text": "Hi Hiba,\n\nI have dropped you an email :slightly_smiling_face:",
+        "user": "U0195R8C1FF",
+        "ts": "1611553982.005800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a47c4b9c903c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-20\/1320586948020_a47c4b9c903c49c2911c_72.png",
+            "first_name": "",
+            "real_name": "Pranoy Pauly",
+            "display_name": "Pranoy Pauly",
+            "team": "TJE58GTJL",
+            "name": "pranoy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zhPAG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Hiba,\n\nI have dropped you an email "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611257676.003300",
+        "parent_user_id": "U010JU2GTND",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010JU2GTND"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1611555454.009000",
+        "thread_ts": "1611555454.009000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1612975807.024500",
+        "reply_users": [
+            "UJG9WTEKG",
+            "USLACKBOT"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1612975806.024300"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1612975807.024500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1612975807.024500"
+    }
+]

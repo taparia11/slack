@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": ":star: _new featured role_ :star:\n---\n*mParticle is hiring a Content Marketing Manager (Remote)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/235092-content-marketing-manager>",
+        "ts": "1643711333.564659",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":sunglasses:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f60e.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1643747253.541309",
+        "thread_ts": "1643747253.541309",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1643748909.984899",
+        "reply_users": [
+            "UKAK6J1NY",
+            "U03164PQHKK"
+        ],
+        "replies": [
+            {
+                "user": "UKAK6J1NY",
+                "ts": "1643748140.571489"
+            },
+            {
+                "user": "U03164PQHKK",
+                "ts": "1643748909.984899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1643748909.984899"
+    },
+    {
+        "client_msg_id": "9d3ab322-fdaa-4001-b3d9-72b41875b31d",
+        "type": "message",
+        "text": "<@U03164PQHKK> this channel is synced with the superpath job board, <@UJG9WTEKG> can give you more info!",
+        "user": "UKAK6J1NY",
+        "ts": "1643748140.571489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g97d298175c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1797d298175c37a06606a2ac30e258e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Shayna",
+            "real_name": "Shayna Hodkin",
+            "display_name": "shayna (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "slhodkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKAK6J1NY",
+            "ts": "1643748151.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hIXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03164PQHKK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this channel is synced with the superpath job board, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can give you more info!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643747253.541309",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7392C3EF-01F6-4F36-825F-0FCF813EC2D5",
+        "type": "message",
+        "text": "Thank you!:man-facepalming:",
+        "user": "U03164PQHKK",
+        "ts": "1643748909.984899",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g367309e804d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/367309e804d15c68c538397d0c1495de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Val",
+            "real_name": "Val Vesa",
+            "display_name": "Val",
+            "team": "TJE58GTJL",
+            "name": "valvesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SyRI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-facepalming"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643747253.541309",
+        "parent_user_id": "USLACKBOT"
+    }
+]

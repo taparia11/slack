@@ -1,0 +1,1309 @@
+[
+    {
+        "client_msg_id": "21f9fbba-5eed-429e-a0db-677fc394551a",
+        "type": "message",
+        "text": "Can anyone have a look at this write-up - <https:\/\/www.getastra.com\/blog\/security-audit\/penetration-testing-cost\/|https:\/\/www.getastra.com\/blog\/security-audit\/penetration-testing-cost\/> and provide some useful feedback?",
+        "user": "U020PD12B0B",
+        "ts": "1630425556.038100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c27ebf0002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-03\/2035906692849_22c27ebf000236d0f682_72.jpg",
+            "first_name": "Aakanchha",
+            "real_name": "Aakanchha keshri",
+            "display_name": "Aakanchha",
+            "team": "TJE58GTJL",
+            "name": "aakanchha.getastra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Astra Security Blog",
+                "title": "How Much Does a Penetration Testing Cost on Average?",
+                "title_link": "https:\/\/www.getastra.com\/blog\/security-audit\/penetration-testing-cost\/",
+                "text": "Once you decide that you need a penetration test for your online business, the next obvious question that pops up is - how much does penetration testing cost?",
+                "fallback": "Astra Security Blog: How Much Does a Penetration Testing Cost on Average?",
+                "thumb_url": "https:\/\/www.getastra.com\/blog\/wp-content\/uploads\/2021\/08\/penetration-testing-pricing.png",
+                "from_url": "https:\/\/www.getastra.com\/blog\/security-audit\/penetration-testing-cost\/",
+                "thumb_width": 590,
+                "thumb_height": 394,
+                "service_icon": "https:\/\/cdn-cabjl.nitrocdn.com\/YoVmuBIpsvuspwogEjXtdsHjqUanNAAQ\/assets\/static\/optimized\/rev-cdd7b77\/blog\/wp-content\/uploads\/2020\/04\/cropped-favicon-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.getastra.com\/blog\/security-audit\/penetration-testing-cost\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anyone have a look at this write-up - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.getastra.com\/blog\/security-audit\/penetration-testing-cost\/",
+                                "text": "https:\/\/www.getastra.com\/blog\/security-audit\/penetration-testing-cost\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and provide some useful feedback?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630425556.038100",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1630435179.048800",
+        "reply_users": [
+            "U01AHL8AGBB",
+            "U020PD12B0B"
+        ],
+        "replies": [
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1630426138.038300"
+            },
+            {
+                "user": "U020PD12B0B",
+                "ts": "1630426214.038500"
+            },
+            {
+                "user": "U020PD12B0B",
+                "ts": "1630426575.038800"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1630432468.039700"
+            },
+            {
+                "user": "U020PD12B0B",
+                "ts": "1630435179.048800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "62bf9ea8-3a17-4a90-93d4-31fec09aef06",
+        "type": "message",
+        "text": "I'll take a deeper look in a minute, but from a skim:\n\nYou've buried the lede, never do this: \"If you are also wondering the right answer to these questions, stick around until the end.\"\n\nNo, tell me the answer right now please.\n\n~\n\nThere's also a lot of \"stage direction\" phrasing, like \"I will shorten my explanation of penetration testing here, as I believe you already know what it is.\"\n\nThe author shouldn't share their musings in the middle of the article, unless it's a tonality you're going for (but this is hard to get right).\n\n~\n\nAlso saw some grammatical stuff and awkward phrasing. If you have a google doc of the content im happy to do a Suggested edits\/comments on it",
+        "user": "U01AHL8AGBB",
+        "ts": "1630426138.038300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rg1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll take a deeper look in a minute, but from a skim:\n\nYou've buried the lede, never do this: \"If you are also wondering the right answer to these questions, stick around until the end.\"\n\nNo, tell me the answer right now please.\n\n~\n\nThere's also a lot of \"stage direction\" phrasing, like \"I will shorten my explanation of penetration testing here, as I believe you already know what it is.\"\n\nThe author shouldn't share their musings in the middle of the article, unless it's a tonality you're going for (but this is hard to get right).\n\n~\n\nAlso saw some grammatical stuff and awkward phrasing. If you have a google doc of the content im happy to do a Suggested edits\/comments on it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630425556.038100",
+        "parent_user_id": "U020PD12B0B"
+    },
+    {
+        "client_msg_id": "de04ad24-49b8-4213-872e-4dc7b92a1f95",
+        "type": "message",
+        "text": "Thanks Jordy, I do have a google doc, sharing that in a minute",
+        "user": "U020PD12B0B",
+        "ts": "1630426214.038500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c27ebf0002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-03\/2035906692849_22c27ebf000236d0f682_72.jpg",
+            "first_name": "Aakanchha",
+            "real_name": "Aakanchha keshri",
+            "display_name": "Aakanchha",
+            "team": "TJE58GTJL",
+            "name": "aakanchha.getastra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYrBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Jordy, I do have a google doc, sharing that in a minute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630425556.038100",
+        "parent_user_id": "U020PD12B0B",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U01AHL8AGBB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "701fdbf6-3f69-43ad-a91e-9ea0e2a824a9",
+        "type": "message",
+        "text": "Here - <https:\/\/docs.google.com\/document\/d\/1FGbt_iSBTYgkrayGDh9TFE675z_l01QNcr09wGyxlnA\/edit?usp=drivesdk|https:\/\/docs.google.com\/document\/d\/1FGbt_iSBTYgkrayGDh9TFE675z_l01QNcr09wGyxlnA\/edit?usp=drivesdk>",
+        "user": "U020PD12B0B",
+        "ts": "1630426575.038800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c27ebf0002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-03\/2035906692849_22c27ebf000236d0f682_72.jpg",
+            "first_name": "Aakanchha",
+            "real_name": "Aakanchha keshri",
+            "display_name": "Aakanchha",
+            "team": "TJE58GTJL",
+            "name": "aakanchha.getastra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1hboD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1FGbt_iSBTYgkrayGDh9TFE675z_l01QNcr09wGyxlnA\/edit?usp=drivesdk",
+                                "text": "https:\/\/docs.google.com\/document\/d\/1FGbt_iSBTYgkrayGDh9TFE675z_l01QNcr09wGyxlnA\/edit?usp=drivesdk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630425556.038100",
+        "parent_user_id": "U020PD12B0B"
+    },
+    {
+        "client_msg_id": "e3e608bb-26c8-4772-a1b0-9b364f6044a4",
+        "type": "message",
+        "text": "<@U020PD12B0B> I have slashed it all up with the proverbial red pen. Hope this helps!",
+        "user": "U01AHL8AGBB",
+        "ts": "1630432468.039700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8eHm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U020PD12B0B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have slashed it all up with the proverbial red pen. Hope this helps!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630425556.038100",
+        "parent_user_id": "U020PD12B0B"
+    },
+    {
+        "client_msg_id": "1b2c46e3-ea89-461a-8f11-82db7e9a9cf2",
+        "type": "message",
+        "text": "Hi folks! So, I have finished writing a piece right now and there are tons of edits. This is the second edit round and there are still many edits.\n\nDo you ever feel your self-esteem drop when you see the huge amounts of edits on a piece or is it just me? I mean, do you ever feel like you're a terrible writer and you should quit? \n\nI'm asking because that's how I feel right now. I've been freelancing for about a year now, but I just recently started getting bigger clients and I'm kinda scared to take on new gigs because I feel like I would do a terrible job. \n\nI'm just fishing for encouragement so please, help a sister out if you can. \n\nThank you!",
+        "user": "U028D815JA0",
+        "ts": "1630433057.046300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7e2cf488ec83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-09\/2701205349650_7e2cf488ec8355d9ecca_72.jpg",
+            "first_name": "althea",
+            "real_name": "althea storm",
+            "display_name": "althea storm",
+            "team": "TJE58GTJL",
+            "name": "altheanymphcstorm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi folks! So, I have finished writing a piece right now and there are tons of edits. This is the second edit round and there are still many edits.\n\nDo you ever feel your self-esteem drop when you see the huge amounts of edits on a piece or is it just me? I mean, do you ever feel like you're a terrible writer and you should quit? \n\nI'm asking because that's how I feel right now. I've been freelancing for about a year now, but I just recently started getting bigger clients and I'm kinda scared to take on new gigs because I feel like I would do a terrible job. \n\nI'm just fishing for encouragement so please, help a sister out if you can. \n\nThank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "reply_count": 32,
+        "reply_users_count": 13,
+        "latest_reply": "1634036000.160900",
+        "reply_users": [
+            "U017WRJTKF1",
+            "U028D815JA0",
+            "U0241GTJEDC",
+            "UR41NSSLW",
+            "U02AR2XSN1M",
+            "U02CMUQ7494",
+            "U02CVNB3X1T",
+            "U02CT59T5NW",
+            "U021RTQ7QP4",
+            "U01K0BWEQD6",
+            "U027RNU0A69",
+            "U02EARBFRMK",
+            "U01TEA7AGP9"
+        ],
+        "replies": [
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1630433139.046400"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630433252.046900"
+            },
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1630433338.047200"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630433632.047400"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630433648.047600"
+            },
+            {
+                "user": "U0241GTJEDC",
+                "ts": "1630433830.047800"
+            },
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1630433966.048000"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630434058.048200"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630434728.048600"
+            },
+            {
+                "user": "UR41NSSLW",
+                "ts": "1630443242.052800"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630443524.053000"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1630447640.054200"
+            },
+            {
+                "user": "U02CMUQ7494",
+                "ts": "1630455253.054400"
+            },
+            {
+                "user": "U02CVNB3X1T",
+                "ts": "1630456520.054600"
+            },
+            {
+                "user": "U02CT59T5NW",
+                "ts": "1630467068.062200"
+            },
+            {
+                "user": "U021RTQ7QP4",
+                "ts": "1630513971.062500"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630517427.063000"
+            },
+            {
+                "user": "U01K0BWEQD6",
+                "ts": "1630517463.064200"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630517500.064400"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630517603.064600"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630517681.064800"
+            },
+            {
+                "user": "U027RNU0A69",
+                "ts": "1630591917.069200"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1630591978.069400"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1631638120.087500"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1631638194.087700"
+            },
+            {
+                "user": "U02EARBFRMK",
+                "ts": "1631639899.088200"
+            },
+            {
+                "user": "U02EARBFRMK",
+                "ts": "1631639910.088400"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1631640005.088700"
+            },
+            {
+                "user": "U02EARBFRMK",
+                "ts": "1631640563.088900"
+            },
+            {
+                "user": "U028D815JA0",
+                "ts": "1631640614.089100"
+            },
+            {
+                "user": "U02EARBFRMK",
+                "ts": "1631640629.089400"
+            },
+            {
+                "user": "U01TEA7AGP9",
+                "ts": "1634036000.160900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017WRJTKF1",
+                    "U020EL92NBZ",
+                    "U01AHL8AGBB",
+                    "U010UHR7PED",
+                    "U02065TQWG7",
+                    "U02CT59T5NW",
+                    "U01CGUT2HH6",
+                    "U02CMV5CT9C",
+                    "U02AUQ0KMGC",
+                    "U016A2ADU3F",
+                    "U02CT9E6R6K",
+                    "U01FUP6AMEZ",
+                    "U02EARBFRMK",
+                    "U014UBPTJ0N",
+                    "U01PLSB4EKD"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35404234-41fc-4da6-a6b3-3a3c85f50de8",
+        "type": "message",
+        "text": "Althea! We got you! :heart:  I once wrote a thing that might help → <https:\/\/contentfolks.substack.com\/p\/how-to-understand-feedback-on-your-work>",
+        "user": "U017WRJTKF1",
+        "ts": "1630433139.046400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HqJ=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Althea! We got you! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I once wrote a thing that might help → "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/contentfolks.substack.com\/p\/how-to-understand-feedback-on-your-work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "8c38955c-17cf-47d2-a333-17fa5285b817",
+        "type": "message",
+        "text": "I'll go through this <@U017WRJTKF1>. Thank you!",
+        "user": "U028D815JA0",
+        "ts": "1630433252.046900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7e2cf488ec83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-09\/2701205349650_7e2cf488ec8355d9ecca_72.jpg",
+            "first_name": "althea",
+            "real_name": "althea storm",
+            "display_name": "althea storm",
+            "team": "TJE58GTJL",
+            "name": "altheanymphcstorm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rk0HR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll go through this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "5eb22cdf-fc9d-45f0-b973-327989869771",
+        "type": "message",
+        "text": "What kind of edits are we talking about? Is it grammar and stuff that can be picked up via things like Grammarly, or more high-level comments about structure, etc.?",
+        "user": "U017WRJTKF1",
+        "ts": "1630433338.047200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nI1L9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What kind of edits are we talking about? Is it grammar and stuff that can be picked up via things like Grammarly, or more high-level comments about structure, etc.?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "8dc8499b-b6db-40e0-a708-306d1f365383",
+        "type": "message",
+        "text": "Structure, flow, sentence construction, proof, explicitly talking about the what, where, why, and how of things, etc. High-level stuff, I'd say.",
+        "user": "U028D815JA0",
+        "ts": "1630433632.047400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7e2cf488ec83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-09\/2701205349650_7e2cf488ec8355d9ecca_72.jpg",
+            "first_name": "althea",
+            "real_name": "althea storm",
+            "display_name": "althea storm",
+            "team": "TJE58GTJL",
+            "name": "altheanymphcstorm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SJl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Structure, flow, sentence construction, proof, explicitly talking about the what, where, why, and how of things, etc. High-level stuff, I'd say."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "794d1fbd-8d12-4d65-b9f3-5f97333d4ee7",
+        "type": "message",
+        "text": "Not Grammarly stuff, no.",
+        "user": "U028D815JA0",
+        "ts": "1630433648.047600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7e2cf488ec83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-09\/2701205349650_7e2cf488ec8355d9ecca_72.jpg",
+            "first_name": "althea",
+            "real_name": "althea storm",
+            "display_name": "althea storm",
+            "team": "TJE58GTJL",
+            "name": "altheanymphcstorm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3nh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not Grammarly stuff, no."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "506dc4f1-54f1-41ae-be9a-9418f5b54f8b",
+        "type": "message",
+        "text": "When I feel like this, I go back and look at positive feedback I've gotten from other clients. If you've gotten positive feedback elsewhere, this client may just not be a good fit for you. BUT, on the other hand, if you can be open to the feedback and commit yourself to doing whatever it takes to implement their feedback and wow them, you might make them your biggest fan in the end. I one time had a client come back and say \"this isn't at all what I wanted. I could've done this myself.\"  When I talked to him and better understood what he wanted, I thought, \"Dang. I should've priced this way higher.\" But I didn't tell him that—I just put my head down and got to work doing what he asked. And he left me a glowing Upwork review, specifically talking about how rare it is to find someone who can take difficult feedback and deliver. I'm rambling, but I guess I just want you to know I'm a successful freelancer\/copywriter, and I've definitely been there.",
+        "user": "U0241GTJEDC",
+        "ts": "1630433830.047800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "536d8eb0424e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-07\/2130419106119_536d8eb0424e890966a3_72.jpg",
+            "first_name": "Kaleigh",
+            "real_name": "Kaleigh Cox",
+            "display_name": "Kaleigh Cox",
+            "team": "TJE58GTJL",
+            "name": "kaleighcoxwriter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PePVD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I feel like this, I go back and look at positive feedback I've gotten from other clients. If you've gotten positive feedback elsewhere, this client may just not be a good fit for you. BUT, on the other hand, if you can be open to the feedback and commit yourself to doing whatever it takes to implement their feedback and wow them, you might make them your biggest fan in the end. I one time had a client come back and say \"this isn't at all what I wanted. I could've done this myself.\"  When I talked to him and better understood what he wanted, I thought, \"Dang. I should've priced this way higher.\" But I didn't tell him that—I just put my head down and got to work doing what he asked. And he left me a glowing Upwork review, specifically talking about how rare it is to find someone who can take difficult feedback and deliver. I'm rambling, but I guess I just want you to know I'm a successful freelancer\/copywriter, and I've definitely been there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "080262d9-cbed-4cf4-a551-8d1afe1f2829",
+        "type": "message",
+        "text": "Okay! So it’s developmental edits more than line-editing. Got it.\n\nAs hard as it can be, try (it’s hard! I know! _it’s SO hard_) to approach these edits with curiosity rather than with sadness or self-doubt. Think of it this way: you’ve just been handed a free consultation session on how to make your writing even stronger than it already is—try to take advantage of it :heart:",
+        "user": "U017WRJTKF1",
+        "ts": "1630433966.048000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N8U3E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay! So it’s developmental edits more than line-editing. Got it.\n\nAs hard as it can be, try (it’s hard! I know! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s SO hard",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") to approach these edits with curiosity rather than with sadness or self-doubt. Think of it this way: you’ve just been handed a free consultation session on how to make your writing even stronger than it already is—try to take advantage of it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0166H7KUAZ",
+                    "U01S6GPFXM1",
+                    "U028D815JA0",
+                    "U013E6Y46BZ",
+                    "U019PMEE4T1",
+                    "U02D81BQP1Q",
+                    "U0263SUFNE6",
+                    "U02CCU35W0L"
+                ],
+                "count": 8
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01LEHMH1BQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8ad476f-df0f-470f-8fde-fe16ef16e797",
+        "type": "message",
+        "text": "Thank you, <@U0241GTJEDC>. This job was outsourced to me by another writer (a mentor of sorts). Part of me feels like she wants me to write the way she would, which I'm struggling to do. \n\nHowever, her edits make A LOT of sense and I definitely want to implement them as I think they would make me better at my craft.",
+        "user": "U028D815JA0",
+        "ts": "1630434058.048200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7e2cf488ec83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-09\/2701205349650_7e2cf488ec8355d9ecca_72.jpg",
+            "first_name": "althea",
+            "real_name": "althea storm",
+            "display_name": "althea storm",
+            "team": "TJE58GTJL",
+            "name": "altheanymphcstorm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ezo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0241GTJEDC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". This job was outsourced to me by another writer (a mentor of sorts). Part of me feels like she wants me to write the way she would, which I'm struggling to do. \n\nHowever, her edits make A LOT of sense and I definitely want to implement them as I think they would make me better at my craft."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "307a33a0-a21f-4b4e-9887-85ea96df328e",
+        "type": "message",
+        "text": "Will do. Thanks for understanding, <@U017WRJTKF1> :heart:",
+        "user": "U028D815JA0",
+        "ts": "1630434728.048600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7e2cf488ec83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-09\/2701205349650_7e2cf488ec8355d9ecca_72.jpg",
+            "first_name": "althea",
+            "real_name": "althea storm",
+            "display_name": "althea storm",
+            "team": "TJE58GTJL",
+            "name": "altheanymphcstorm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QWgkf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do. Thanks for understanding, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "2090ca18-2e80-41fe-a499-798bc60d98aa",
+        "type": "message",
+        "text": "Thank you Jordy :pray: , this is super super helpful :grin::grin:",
+        "user": "U020PD12B0B",
+        "ts": "1630435179.048800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c27ebf0002",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-03\/2035906692849_22c27ebf000236d0f682_72.jpg",
+            "first_name": "Aakanchha",
+            "real_name": "Aakanchha keshri",
+            "display_name": "Aakanchha",
+            "team": "TJE58GTJL",
+            "name": "aakanchha.getastra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bd2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you Jordy "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , this is super super helpful "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630425556.038100",
+        "parent_user_id": "U020PD12B0B"
+    },
+    {
+        "client_msg_id": "16D0031A-CAB2-4453-B9C7-A6FB1491F758",
+        "type": "message",
+        "text": "It may not be a case here but sometimes there just wont be a great vibe between you and your client. In other words, sometimes your writing may be great but your client wont like it for some reasons. You just may not be a great fit for each other. ",
+        "user": "UR41NSSLW",
+        "ts": "1630443242.052800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a1ad7392c18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1899093258144_3a1ad7392c18cc082b38_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Grabski",
+            "display_name": "Tom Grabski",
+            "team": "TJE58GTJL",
+            "name": "grabskitomasz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LuH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It may not be a case here but sometimes there just wont be a great vibe between you and your client. In other words, sometimes your writing may be great but your client wont like it for some reasons. You just may not be a great fit for each other. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01TEA7AGP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "870a71bc-919e-4e6f-9092-fb686bf4a14a",
+        "type": "message",
+        "text": "I understand, <@UR41NSSLW>",
+        "user": "U028D815JA0",
+        "ts": "1630443524.053000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7e2cf488ec83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-09\/2701205349650_7e2cf488ec8355d9ecca_72.jpg",
+            "first_name": "althea",
+            "real_name": "althea storm",
+            "display_name": "althea storm",
+            "team": "TJE58GTJL",
+            "name": "altheanymphcstorm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uvt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I understand, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UR41NSSLW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "9a116255-52f1-4541-afd2-c5184eca168c",
+        "type": "message",
+        "text": "Althea, I agree with Tom - some jobs just never quite feel 'right'! It's not your fault, it's just not a good fit :yellow_heart:\n\nAlso if you've got this project second hand through someone else, perhaps something has been lost in translation?\n\nWe all want to submit work that's perfect first time, but it doesn't always happen. Look back on the times when clients LOVED what you did (I keep a 'smile file' in my inbox) and put some perspective around it :slightly_smiling_face:",
+        "user": "U02AR2XSN1M",
+        "ts": "1630447640.054200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V4FFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Althea, I agree with Tom - some jobs just never quite feel 'right'! It's not your fault, it's just not a good fit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yellow_heart"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAlso if you've got this project second hand through someone else, perhaps something has been lost in translation?\n\nWe all want to submit work that's perfect first time, but it doesn't always happen. Look back on the times when clients LOVED what you did (I keep a 'smile file' in my inbox) and put some perspective around it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0"
+    },
+    {
+        "client_msg_id": "718de940-77b3-4413-9dcb-709b67a14c40",
+        "type": "message",
+        "text": "Feels like I might just be piling on at this point, but for the sake of encouraging you, I'm just going to say it once more: being coachable and learning from the feedback is good, of course; BUT there are certainly times where the client isn't going to be pleased no matter what you do and it has nothing to do with whether your submission was awesome or not :slightly_smiling_face: You might've submitted an absolutely stellar piece and the reviewer will shred it for *preference* reasons. Because they have stylistic differences and they are proposing edits that align with how _they'd_ do it, even if what you did wasn't wrong. Another thing we run into often is that between the outline and the second draft, they've changed their mind about what they want to say. That's not your fault either, and if it's habitual, they should pay for the extra edit round.",
+        "user": "U02CMUQ7494",
+        "ts": "1630455253.054400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g22830366fef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/22830366fefe1b9aa68d3e15362d8684.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "James",
+            "real_name": "James Green",
+            "display_name": "James Green",
+            "team": "TJE58GTJL",
+            "name": "james455",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0MLG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feels like I might just be piling on at this point, but for the sake of encouraging you, I'm just going to say it once more: being coachable and learning from the feedback is good, of course; BUT there are certainly times where the client isn't going to be pleased no matter what you do and it has nothing to do with whether your submission was awesome or not "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You might've submitted an absolutely stellar piece and the reviewer will shred it for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "preference",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " reasons. Because they have stylistic differences and they are proposing edits that align with how "
+                            },
+                            {
+                                "type": "text",
+                                "text": "they'd",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " do it, even if what you did wasn't wrong. Another thing we run into often is that between the outline and the second draft, they've changed their mind about what they want to say. That's not your fault either, and if it's habitual, they should pay for the extra edit round."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01K0BWEQD6",
+                    "U019PMEE4T1",
+                    "U01TVKGNB6W",
+                    "U028D815JA0",
+                    "U02D81BQP1Q"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "789c1485-9e65-4b91-9eff-86954d7ebb83",
+        "type": "message",
+        "text": "I hate to say it, but my most PIA pieces were the ones that I learned the most. I had one editor that was absolutely AWFUL. She was mean, and she was terrifying. But darn it all if she didn't have some fantastic edits. She made me feel like I was a child learning how to write sentences. However, this was over three years ago, and whenever I have \"difficult edits\" they never compare to that one editor. She gave me some thick skin, and made me think about what I submitted. So maybe take it with a grain of salt, give yourself some credit and move on. Its just one client! There will be many more good (and bad) ones to come!",
+        "user": "U02CVNB3X1T",
+        "ts": "1630456520.054600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a98cd79fc67b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-28\/2891088304196_a98cd79fc67b29986082_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Simpson",
+            "display_name": "Julie Simpson",
+            "team": "TJE58GTJL",
+            "name": "jujuklu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hate to say it, but my most PIA pieces were the ones that I learned the most. I had one editor that was absolutely AWFUL. She was mean, and she was terrifying. But darn it all if she didn't have some fantastic edits. She made me feel like I was a child learning how to write sentences. However, this was over three years ago, and whenever I have \"difficult edits\" they never compare to that one editor. She gave me some thick skin, and made me think about what I submitted. So maybe take it with a grain of salt, give yourself some credit and move on. Its just one client! There will be many more good (and bad) ones to come!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U019PMEE4T1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0DA6506C-19AE-4B5E-9CFB-C52F60394E77",
+        "type": "message",
+        "text": "As a copy editor and proofreader, I do my best to be gentle with my clients no matter the feedback. Taking hit after hit from all the suggested changes can be gruelling—as you’ve experienced—so it’s really important to ensure that they still feel like they’re good at what they do. I like to get my clients to see me as a helping hand on their team, so they can focus on coming up with the ideas and basic structure, and then I help them fine tune them. Working as a team changes the dynamic from “I’m crapping all over your writing” to “Let’s strengthen this point with some different wording and some punctuation fixes for clarity.”",
+        "user": "U02CT59T5NW",
+        "ts": "1630467068.062200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c7750d4d5a61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-31\/2460804907616_c7750d4d5a617c817e32_72.png",
+            "first_name": "Lisa",
+            "real_name": "Lisa Millstead",
+            "display_name": "Lisa Millstead (Corekshuns)",
+            "team": "TJE58GTJL",
+            "name": "info582",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6TPQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a copy editor and proofreader, I do my best to be gentle with my clients no matter the feedback. Taking hit after hit from all the suggested changes can be gruelling—as you’ve experienced—so it’s really important to ensure that they still feel like they’re good at what they do. I like to get my clients to see me as a helping hand on their team, so they can focus on coming up with the ideas and basic structure, and then I help them fine tune them. Working as a team changes the dynamic from “I’m crapping all over your writing” to “Let’s strengthen this point with some different wording and some punctuation fixes for clarity.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630433057.046300",
+        "parent_user_id": "U028D815JA0",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U019PMEE4T1",
+                    "U028D815JA0",
+                    "U02D81BQP1Q"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

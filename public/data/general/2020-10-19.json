@@ -1,0 +1,201 @@
+[
+    {
+        "client_msg_id": "a48ff2c3-5ab2-4fc4-819e-472ebc0783e6",
+        "type": "message",
+        "text": "is there a word for failing without knowing you're failing?",
+        "user": "U016BDEQ40J",
+        "ts": "1603133140.025000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is there a word for failing without knowing you're failing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603133140.025000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1603138364.026300",
+        "reply_users": [
+            "UJDPMTREY"
+        ],
+        "replies": [
+            {
+                "user": "UJDPMTREY",
+                "ts": "1603138364.026300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D27E0E53-1AD3-4681-BD1C-C9CF2622EC8D",
+        "type": "message",
+        "text": "Dunning-Kruger effect isn’t a perfect match, but it’s in the vicinity.",
+        "user": "UJDPMTREY",
+        "ts": "1603138364.026300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7zW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dunning-Kruger effect isn’t a perfect match, but it’s in the vicinity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603133140.025000",
+        "parent_user_id": "U016BDEQ40J"
+    },
+    {
+        "client_msg_id": "ac048cf4-27ea-496e-b6a3-35cc716d4dcf",
+        "type": "message",
+        "text": "One of the best editors I’ve ever worked with, Rachel Jepsen, is hosting a workshop every Friday on becoming a better writer called “The Long Conversation”. I attended last week’s inaugural workshop, loved it, and highly recommend it: <https:\/\/thelongconversation.substack.com\/>\n\nIt’s part of the <https:\/\/everything.substack.com\/|Everything> bundle on Substack with Superorganizers (Dan Shipper), Divinations (Nathan Baschez), Praxis (Tiago Forte) and others!",
+        "user": "U014UBPTJ0N",
+        "ts": "1603149637.026700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "86917470f316",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-08\/1171350014499_86917470f3169134cc58_72.jpg",
+            "first_name": "",
+            "real_name": "Fadeke Adegbuyi",
+            "display_name": "Fadeke Adegbuyi",
+            "team": "TJE58GTJL",
+            "name": "fadeke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "The Long Conversation",
+                "title_link": "https:\/\/thelongconversation.substack.com\/",
+                "text": "A weekly show dedicated to the craft of writing.",
+                "fallback": "The Long Conversation",
+                "from_url": "https:\/\/thelongconversation.substack.com\/",
+                "service_icon": "https:\/\/thelongconversation.substack.com\/icons\/substack\/apple-touch-icon-57x57.png",
+                "service_name": "thelongconversation.substack.com",
+                "id": 1,
+                "original_url": "https:\/\/thelongconversation.substack.com\/"
+            },
+            {
+                "title": "Everything",
+                "title_link": "https:\/\/everything.substack.com\/",
+                "text": "Strategy and productivity. What to do, and how to actually get it done.",
+                "fallback": "Everything",
+                "thumb_url": "https:\/\/cdn.substack.com\/image\/fetch\/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep\/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4523351a-2bd0-46c3-828e-9838c300c99c_256x256.png",
+                "from_url": "https:\/\/everything.substack.com\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\/public\/images\/c0dc4c18-f195-4fae-a195-1bb89729c87f\/apple-touch-icon-57x57.png",
+                "service_name": "everything.substack.com",
+                "id": 2,
+                "original_url": "https:\/\/everything.substack.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3BA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of the best editors I’ve ever worked with, Rachel Jepsen, is hosting a workshop every Friday on becoming a better writer called “The Long Conversation”. I attended last week’s inaugural workshop, loved it, and highly recommend it: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/thelongconversation.substack.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIt’s part of the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/everything.substack.com\/",
+                                "text": "Everything"
+                            },
+                            {
+                                "type": "text",
+                                "text": " bundle on Substack with Superorganizers (Dan Shipper), Divinations (Nathan Baschez), Praxis (Tiago Forte) and others!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01CVQ02E5S",
+                    "U015DN66NQ1",
+                    "U016VHZ0ZD5",
+                    "UJE6FLEFJ",
+                    "U01704F04QH",
+                    "U01DEA6F7CH",
+                    "UMQASRN1W"
+                ],
+                "count": 7
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJE5LQ2JC",
+                    "UP6K3LYQ7",
+                    "U01CGUT2HH6"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

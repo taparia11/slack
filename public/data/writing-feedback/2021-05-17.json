@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1621290251.193100",
+        "user": "UJG9WTEKG",
+        "text": "has renamed the channel from \"ask-for-feedback\" to \"writing-feedback\"",
+        "old_name": "ask-for-feedback",
+        "name": "writing-feedback",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01AHL8AGBB",
+                    "U012UL77GUT",
+                    "U019P0ADPCH",
+                    "UJG9WTEKG"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ac941fb-debc-4054-bc2b-3e81df19cd2f",
+        "type": "message",
+        "text": "^ The editor in me finds this intriguing... :pencil:",
+        "user": "U01AHL8AGBB",
+        "ts": "1621292785.193600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yVUDk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^ The editor in me finds this intriguing... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pencil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U020NR8J2SG",
+                    "UJG9WTEKG",
+                    "U017WRJTKF1",
+                    "UVCDN5SQZ",
+                    "U012UL77GUT",
+                    "U016LHA1BHP",
+                    "U019P0ADPCH",
+                    "U01J84U3SQ6",
+                    "U01D0FSPDV4",
+                    "U02065TQWG7"
+                ],
+                "count": 10
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U01V7CQF8LC",
+                    "U020GLH1U10",
+                    "UJG9WTEKG",
+                    "U0201FV7XGQ",
+                    "U01FXSKB4G7",
+                    "UUXPJ96EQ",
+                    "UUKNLUX5X",
+                    "U01JGE053M2"
+                ],
+                "count": 8
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "UUKNSAKUH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

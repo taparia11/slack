@@ -1,0 +1,1341 @@
+[
+    {
+        "client_msg_id": "620c1cba-aa39-4ce0-b21d-21ae1c95ac51",
+        "type": "message",
+        "text": "<@UJDPMTREY> thanks!",
+        "user": "UPM5604VC",
+        "ts": "1578993324.021200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3c569af8775c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810299076387_3c569af8775c97496940_72.jpg",
+            "first_name": "",
+            "real_name": "Dean Dallman",
+            "display_name": "Dean Dallman",
+            "team": "TJE58GTJL",
+            "name": "dean357",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WM0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJDPMTREY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578667400.004200",
+        "parent_user_id": "UPM5604VC"
+    },
+    {
+        "client_msg_id": "17fa4d72-4dca-494d-ab85-3d5714383fdb",
+        "type": "message",
+        "text": "a couple discrete ideas that have helped us at Animalz (particularly weighted towards  an agency, but hopefully useful in some capacity for other orgs):\n\n• *planning content in 3-month blocks, wherever possible* (this seems to be a sweet-spot - long enough for content to begin driving ROI, short enough that we can iterate regularly and keep customers excited)\n• *30% feedback on content* (based on this concept - <https:\/\/42floors.com\/blog\/startups\/thirty-percent-feedback> - we front-load editing and feedback)",
+        "user": "UJ3K7N8GJ",
+        "ts": "1578997262.021400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e354841b2058",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629246990838_e354841b20589b6851e1_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Law",
+            "display_name": "Ryan Law",
+            "team": "TJE58GTJL",
+            "name": "ryan096",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LVz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a couple discrete ideas that have helped us at Animalz (particularly weighted towards  an agency, but hopefully useful in some capacity for other orgs):\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "planning content in 3-month blocks, wherever possible ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(this seems to be a sweet-spot - long enough for content to begin driving ROI, short enough that we can iterate regularly and keep customers excited)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "30% feedback on content",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (based on this concept - "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/42floors.com\/blog\/startups\/thirty-percent-feedback"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - we front-load editing and feedback)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578964860.021100",
+        "parent_user_id": "UL2E0QVB3"
+    },
+    {
+        "client_msg_id": "04a82498-11e2-4a4b-903c-9d2d470eb1e8",
+        "type": "message",
+        "text": "Hey gang - I wanted to see if anyone had some advice on a slightly pernicketty topic. We've just started work on some very specific 'pain point SEO'-type content. We're trying to create some posts that rank for long-tail search terms with a high intent, with the hope of converting traffic directly into sign-ups  to our Saas product.\n\nOne thing that I so far haven't been able to get my head round is that this seems to be a question of _phrasing._ Even if I've identified a pain point that I'm going to write for, it seems like a bit of guess making sure that I optimise that post for the search terms that readers are going to use. Obviously, when looking to rank for keywords with very low search volume there's no data in Ahrefs or similar to validate your work against.\n\nFor example - one pain point our target persona suffers with is 'not knowing how or where to store employee data'. That pain point could be expressed in a dozen different ways in a Google search... \"where do I store employee data?\" vs \"how do I collect staff documents?\" vs \"best way to organise employee details\", etc etc.\n\nAm I worrying unnecessarily here? Do I just rely on Google being smart enough to group these variations together? Or do I need to validate the longtail keywords we target a different way?",
+        "user": "UMQLZTGAE",
+        "ts": "1579003663.024300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e63398db8228",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-11\/744846146995_e63398db82282a6ce5d1_72.jpg",
+            "first_name": "Jack",
+            "real_name": "Jack Enright",
+            "display_name": "Jack Enright",
+            "team": "TJE58GTJL",
+            "name": "jackenright93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wXX6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey gang - I wanted to see if anyone had some advice on a slightly pernicketty topic. We've just started work on some very specific 'pain point SEO'-type content. We're trying to create some posts that rank for long-tail search terms with a high intent, with the hope of converting traffic directly into sign-ups  to our Saas product.\n\nOne thing that I so far haven't been able to get my head round is that this seems to be a question of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "phrasing. ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Even if I've identified a pain point that I'm going to write for, it seems like a bit of guess making sure that I optimise that post for the search terms that readers are going to use. Obviously, when looking to rank for keywords with very low search volume there's no data in Ahrefs or similar to validate your work against.\n\nFor example - one pain point our target persona suffers with is 'not knowing how or where to store employee data'. That pain point could be expressed in a dozen different ways in a Google search... \"where do I store employee data?\" vs \"how do I collect staff documents?\" vs \"best way to organise employee details\", etc etc.\n\nAm I worrying unnecessarily here? Do I just rely on Google being smart enough to group these variations together? Or do I need to validate the longtail keywords we target a different way?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1579032539.030000",
+        "reply_users": [
+            "UJG12DM1V",
+            "UJ3K7N8GJ",
+            "UNA88V285",
+            "UJJFDTN8G",
+            "UJG24P8P6",
+            "UN3EHV8RK",
+            "UMQLZTGAE",
+            "UJ420S7MG"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1579004396.024900"
+            },
+            {
+                "user": "UJ3K7N8GJ",
+                "ts": "1579006802.025100"
+            },
+            {
+                "user": "UNA88V285",
+                "ts": "1579006809.025300"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1579007267.025700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1579008221.026000"
+            },
+            {
+                "user": "UN3EHV8RK",
+                "ts": "1579013330.026200"
+            },
+            {
+                "user": "UMQLZTGAE",
+                "ts": "1579018462.026500"
+            },
+            {
+                "user": "UJ420S7MG",
+                "ts": "1579032539.030000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "599393c5-bfb1-48d4-97a6-ec9f6698bc9b",
+        "type": "message",
+        "text": "Keen to hear how other people have approached this problem! Thanks all x",
+        "user": "UMQLZTGAE",
+        "ts": "1579003691.024800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e63398db8228",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-11\/744846146995_e63398db82282a6ce5d1_72.jpg",
+            "first_name": "Jack",
+            "real_name": "Jack Enright",
+            "display_name": "Jack Enright",
+            "team": "TJE58GTJL",
+            "name": "jackenright93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q09X0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Keen to hear how other people have approached this problem! Thanks all x"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e45d0a44-4607-48e4-bae6-812af625e452",
+        "type": "message",
+        "text": "I would expect the phrasing to matter and that Google won't be smart enough to connect all of that together.\n\nThis sounds like a good time to talk to folks on sales and try to understand how prospects talk about this. Consider sitting in on some calls and collecting your own data as well.",
+        "user": "UJG12DM1V",
+        "ts": "1579004396.024900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wug1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would expect the phrasing to matter and that Google won't be smart enough to connect all of that together.\n\nThis sounds like a good time to talk to folks on sales and try to understand how prospects talk about this. Consider sitting in on some calls and collecting your own data as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "parent_user_id": "UMQLZTGAE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UR3A94N4R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "795f6b51-a66f-4bd0-a072-2f5934e27ad8",
+        "type": "message",
+        "text": "+1 <@UJG12DM1V>\n\ntalking to customers is the tack I would take, sales people as a next-best alternative.  chat to a dozen customers, ask them to speak to the core topic you'e interested in, and take note of the commonalities in language in phrasing between them all.\n\nyou're right that Ahrefs and co aren't designed for hyper-long-tail keywords, so validation has to come directly from the source. getting the \"wrong\" phrasing can be hugely alienating to your audience too - as an example, legal firms probably wouldn't talk about \"data\" as much as \"matter,\" and so on",
+        "user": "UJ3K7N8GJ",
+        "ts": "1579006802.025100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e354841b2058",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629246990838_e354841b20589b6851e1_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Law",
+            "display_name": "Ryan Law",
+            "team": "TJE58GTJL",
+            "name": "ryan096",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WnXB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ntalking to customers is the tack I would take, sales people as a next-best alternative.  chat to a dozen customers, ask them to speak to the core topic you'e interested in, and take note of the commonalities in language in phrasing between them all.\n\nyou're right that Ahrefs and co aren't designed for hyper-long-tail keywords, so validation has to come directly from the source. getting the \"wrong\" phrasing can be hugely alienating to your audience too - as an example, legal firms probably wouldn't talk about \"data\" as much as \"matter,\" and so on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "parent_user_id": "UMQLZTGAE",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "UNA88V285",
+                    "UJG24P8P6",
+                    "UJS7GK1TP",
+                    "UR3A94N4R"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbbdea1e-4104-4091-94dd-489f992a914d",
+        "type": "message",
+        "text": "Great question, Jack. Something I worry about, too--even as someone who works in SEO.\n\nTraditionally, Google has been focused on exact keywords and semantically-similar variations. For example, if my keyword is \"atlanta personal injury lawyer,\" I would also want to use \"personal injury lawyer in Atlanta\" and \"personal injury attorney\" on the page.\n\nHowever, Google's recent \"BERT\" update indicates that they are moving toward recognizing (and hopefully rewarding) natural speech.\n\nSo, for the long tail phrase \"where do I store employee data\", I would start by looking at the search engine results page (SERP) to see what kinds of content google is ranking for the keyword. Here's what comes up for that one in particular: <http:\/\/prntscr.com\/qnixez>\n\nThe first result directly answers the query. Also, the People Also Ask box shows you variations of ways people ask this questions + related questions they have. I would use all of this data to outline my article.\n\nIt sounds to me like \"how do I collect staff documents\" could be its own article (if there is a lot you can say on the topic), but if it's only worth a couple of paragraphs, I would add that topic into the article about where to store employee data.\n\nLet me know if any of that doesn't make sense or doesn't answer your question!",
+        "user": "UNA88V285",
+        "ts": "1579006809.025300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cdb0b4a94101",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-13\/747977536211_cdb0b4a941016e85934d_72.jpg",
+            "first_name": "Dani",
+            "real_name": "Dani Henion",
+            "display_name": "Dani Henion",
+            "team": "TJE58GTJL",
+            "name": "dani.henion",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Lightshot",
+                "title": "Screenshot",
+                "title_link": "http:\/\/prntscr.com\/qnixez",
+                "text": "Captured with Lightshot",
+                "fallback": "Lightshot: Screenshot",
+                "image_url": "https:\/\/image.prntscr.com\/image\/fIldSRT6SAeqOM-QgtLqFg.png",
+                "from_url": "http:\/\/prntscr.com\/qnixez",
+                "image_width": 262,
+                "image_height": 250,
+                "image_bytes": 98507,
+                "service_icon": "http:\/\/prntscr.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/prntscr.com\/qnixez"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lx74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great question, Jack. Something I worry about, too--even as someone who works in SEO.\n\nTraditionally, Google has been focused on exact keywords and semantically-similar variations. For example, if my keyword is \"atlanta personal injury lawyer,\" I would also want to use \"personal injury lawyer in Atlanta\" and \"personal injury attorney\" on the page.\n\nHowever, Google's recent \"BERT\" update indicates that they are moving toward recognizing (and hopefully rewarding) natural speech.\n\nSo, for the long tail phrase \"where do I store employee data\", I would start by looking at the search engine results page (SERP) to see what kinds of content google is ranking for the keyword. Here's what comes up for that one in particular: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/prntscr.com\/qnixez"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe first result directly answers the query. Also, the People Also Ask box shows you variations of ways people ask this questions + related questions they have. I would use all of this data to outline my article.\n\nIt sounds to me like \"how do I collect staff documents\" could be its own article (if there is a lot you can say on the topic), but if it's only worth a couple of paragraphs, I would add that topic into the article about where to store employee data.\n\nLet me know if any of that doesn't make sense or doesn't answer your question!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "parent_user_id": "UMQLZTGAE"
+    },
+    {
+        "client_msg_id": "a17fa78b-a2a0-4ef8-83ec-fd6d30682d1c",
+        "type": "message",
+        "text": "I shared this video on my twitter yesterday. 1) it's worth a watch anyway + 2) Andy covers Semantic SEO which should help you out <https:\/\/twitter.com\/DomKent\/status\/1216778105458774020?s=20>",
+        "user": "UJJFDTN8G",
+        "ts": "1579007267.025700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m\/C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I shared this video on my twitter yesterday. 1) it's worth a watch anyway + 2) Andy covers Semantic SEO which should help you out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/DomKent\/status\/1216778105458774020?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "parent_user_id": "UMQLZTGAE"
+    },
+    {
+        "client_msg_id": "da0fa9e8-2f66-4984-a350-11a24668c48b",
+        "type": "message",
+        "text": "+1 to everything above.\n\nin the process, capture quotes from your sales team or customers and use it in the article as well.\n\nGoogle likes experts + your potential customers (especially with a high intent word) would like some social proof.",
+        "user": "UJG24P8P6",
+        "ts": "1579008221.026000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TyUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 to everything above.\n\nin the process, capture quotes from your sales team or customers and use it in the article as well.\n\nGoogle likes experts + your potential customers (especially with a high intent word) would like some social proof."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "parent_user_id": "UMQLZTGAE"
+    },
+    {
+        "client_msg_id": "c608cd5f-939d-4e16-ab3f-91e3241431da",
+        "type": "message",
+        "text": "guys. this thread is so educational. :eyes:\n\ni'm about to start working on some really similar stuff. <@UMQLZTGAE> do you mind if I pin this board so I (and others) can come back to it?",
+        "user": "UN3EHV8RK",
+        "ts": "1579013330.026200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab4371126c14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/891384144997_ab4371126c14a2928222_72.png",
+            "first_name": "Helene",
+            "real_name": "Helene Fleischer",
+            "display_name": "Helene Fleischer",
+            "team": "TJE58GTJL",
+            "name": "fleischerhg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UN3EHV8RK",
+            "ts": "1579013363.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B=2Cz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "guys. this thread is so educational. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ni'm about to start working on some really similar stuff. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQLZTGAE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you mind if I pin this board so I (and others) can come back to it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "parent_user_id": "UMQLZTGAE",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UQTT05BC1",
+                    "UJ3K7N8GJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ca98e53-8420-4cbd-a7f7-46ff006109bc",
+        "type": "message",
+        "text": "Everyone, thanks so much for your advice and answers! Genuinely super useful. We're not able to go back to our customers for a fresh interview round but we're going to try and validate our phrasing from previous research :slightly_smiling_face: <@UN3EHV8RK> please feel free! Hope it's been useful (and message me if you want to compare notes!)",
+        "user": "UMQLZTGAE",
+        "ts": "1579018462.026500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e63398db8228",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-11\/744846146995_e63398db82282a6ce5d1_72.jpg",
+            "first_name": "Jack",
+            "real_name": "Jack Enright",
+            "display_name": "Jack Enright",
+            "team": "TJE58GTJL",
+            "name": "jackenright93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iT3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everyone, thanks so much for your advice and answers! Genuinely super useful. We're not able to go back to our customers for a fresh interview round but we're going to try and validate our phrasing from previous research "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UN3EHV8RK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please feel free! Hope it's been useful (and message me if you want to compare notes!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "parent_user_id": "UMQLZTGAE"
+    },
+    {
+        "client_msg_id": "0d58cb1a-2959-43e7-866c-4033ef32ebc1",
+        "type": "message",
+        "text": "Content writers, do you think strong SEO knowledge is essential in the long-term job market, or do you think there's\/will be a market for awesome writers that, say, work in partnership with an SEO specialist? Or not at all?",
+        "user": "UR3LUBF39",
+        "ts": "1579027945.028300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb2040cfa4b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2040cfa4b572b282a0aada8c69b33ac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Janekcallahan",
+            "display_name": "Janekcallahan",
+            "team": "TJE58GTJL",
+            "name": "janekcallahan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JJvsj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Content writers, do you think strong SEO knowledge is essential in the long-term job market, or do you think there's\/will be a market for awesome writers that, say, work in partnership with an SEO specialist? Or not at all?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579027945.028300",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1579082862.038300",
+        "reply_users": [
+            "UR3LUBF39",
+            "UJG9WTEKG",
+            "UJDPMTREY",
+            "UL4TUV38B",
+            "UJ7RT1J1X",
+            "UJ3K7N8GJ"
+        ],
+        "replies": [
+            {
+                "user": "UR3LUBF39",
+                "ts": "1579028136.028400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1579029917.028600"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1579029928.028800"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1579031197.029200"
+            },
+            {
+                "user": "UL4TUV38B",
+                "ts": "1579031832.029500"
+            },
+            {
+                "user": "UJ7RT1J1X",
+                "ts": "1579050461.037600"
+            },
+            {
+                "user": "UJ3K7N8GJ",
+                "ts": "1579082862.038300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1579082862.038300"
+    },
+    {
+        "client_msg_id": "efa89fde-43a3-4ab0-aea6-0e849e67fd31",
+        "type": "message",
+        "text": "Adding: I think the former category is true for web copy and perhaps blogs, and the latter category better for non-search-centric content like marketing emails, and maybe white papers?",
+        "user": "UR3LUBF39",
+        "ts": "1579028136.028400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb2040cfa4b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b2040cfa4b572b282a0aada8c69b33ac.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Janekcallahan",
+            "display_name": "Janekcallahan",
+            "team": "TJE58GTJL",
+            "name": "janekcallahan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPLgP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding: I think the former category is true for web copy and perhaps blogs, and the latter category better for non-search-centric content like marketing emails, and maybe white papers?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579027945.028300",
+        "parent_user_id": "UR3LUBF39"
+    },
+    {
+        "client_msg_id": "01cf22d2-6d7f-4fdf-a9c3-bbdb304c75e5",
+        "type": "message",
+        "text": "great writing + basic seo skills = winning combo in my mind",
+        "user": "UJG9WTEKG",
+        "ts": "1579029917.028600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BWBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great writing + basic seo skills = winning combo in my mind"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579027945.028300",
+        "parent_user_id": "UR3LUBF39",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "UJ53ETCLB",
+                    "UL2E0QVB3",
+                    "UJS7GK1TP",
+                    "UR3A94N4R",
+                    "UJJELJPNH"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "494034ce-c984-48ec-9483-4fe2567c3461",
+        "type": "message",
+        "text": "i think we are trending towards a much stronger emphasis on quality writing",
+        "user": "UJG9WTEKG",
+        "ts": "1579029928.028800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "visf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think we are trending towards a much stronger emphasis on quality writing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579027945.028300",
+        "parent_user_id": "UR3LUBF39",
+        "reactions": [
+            {
+                "name": "lower_left_fountain_pen",
+                "users": [
+                    "UR3LUBF39",
+                    "UL2E0QVB3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJDPMTREY",
+                    "UNA88V285",
+                    "UJS7GK1TP",
+                    "UJ3K7N8GJ",
+                    "UN3EHU7EZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e0a652c-fe68-4396-bba3-ebf0e82241d6",
+        "type": "message",
+        "text": "for writers, SEO knowledge for the purposes of supporting a _distribution_ _strategy_ is probably less important compared to the value of SEO knowledge for researching what people want and how they ask for it.",
+        "user": "UJDPMTREY",
+        "ts": "1579031197.029200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1579031215.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEWOw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for writers, SEO knowledge for the purposes of supporting a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "distribution",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "strategy",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is probably less important compared to the value of SEO knowledge for researching what people want and how they ask for it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579027945.028300",
+        "parent_user_id": "UR3LUBF39",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJ3K7N8GJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UR3LUBF39"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c98884b-e855-48ee-992f-bf64367787e0",
+        "type": "message",
+        "text": "As a writer, I've been praying there will be a market for that kind of partnership. I'm working to learn about SEO for research, distribution, and strategy purposes. But it feels like I'm working from my weaknesses there. Love, love the idea of a partnership where we're both working from our strengths.",
+        "user": "UL4TUV38B",
+        "ts": "1579031832.029500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c1fcc8eb5742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-16\/1360677760262_c1fcc8eb5742ad012747_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Bosco",
+            "display_name": "Laura Bosco",
+            "team": "TJE58GTJL",
+            "name": "laura.e.hash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EtXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a writer, I've been praying there will be a market for that kind of partnership. I'm working to learn about SEO for research, distribution, and strategy purposes. But it feels like I'm working from my weaknesses there. Love, love the idea of a partnership where we're both working from our strengths."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579027945.028300",
+        "parent_user_id": "UR3LUBF39"
+    },
+    {
+        "client_msg_id": "6575e075-14a3-4e18-aa64-0a3b3212ff1b",
+        "type": "message",
+        "text": "*I second the 30% feedback!*\n\nBesides that, it helped our team when we got really clear on:\n• Formalizing our process for content briefs and requiring them for all content produced\n• Quarterly planning and retro meetings\n• Having time everyday\/week dedicated to checking in with the team and seeing where we are at on projects\n• Having a systemized rubric for priorities that everyone understands",
+        "user": "UJ420S7MG",
+        "ts": "1579032394.029700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "582aa21bfc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629332107879_582aa21bfc2076e148a1_72.jpg",
+            "first_name": "Kyla",
+            "real_name": "Kyla Sims",
+            "display_name": "Kyla Sims",
+            "team": "TJE58GTJL",
+            "name": "kyla.sims",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ420S7MG",
+            "ts": "1579032452.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oRy1v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I second the 30% feedback!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBesides that, it helped our team when we got really clear on:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Formalizing our process for content briefs and requiring them for all content produced"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quarterly planning and retro meetings"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Having time everyday\/week dedicated to checking in with the team and seeing where we are at on projects"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Having a systemized rubric for priorities that everyone understands"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578964860.021100",
+        "parent_user_id": "UL2E0QVB3"
+    },
+    {
+        "client_msg_id": "b64e71d3-2248-4a9c-874f-6eaf08245dfa",
+        "type": "message",
+        "text": "<@UQHP55C7Q>",
+        "user": "UJ420S7MG",
+        "ts": "1579032539.030000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "582aa21bfc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629332107879_582aa21bfc2076e148a1_72.jpg",
+            "first_name": "Kyla",
+            "real_name": "Kyla Sims",
+            "display_name": "Kyla Sims",
+            "team": "TJE58GTJL",
+            "name": "kyla.sims",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FiW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQHP55C7Q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579003663.024300",
+        "parent_user_id": "UMQLZTGAE"
+    },
+    {
+        "client_msg_id": "bf228612-484a-4226-8168-e28e4a75bb31",
+        "type": "message",
+        "text": "Hey friends!\n\nQuestion about product content. (For context, we are an B2B SaaS Company serving enterprise clients.)\n\nWe’ve been running exceptionally successful education-focused webinars (KPIs: registrants, attendees, emails). Now we want to apply those skills to our product webinars and see if we can bump up our KPIs around demos and SQLs.\n\nWe’ve always been uncomfortable developing this kind of content and have consistently erred on the side of education vs. selling the product because we so badly do not want to alienate our audience.\n\n(Also for context, our avg. buyer only stays in their job for 2 years before they move onto the next company so if they can’t get us approved in their current org. we do get a second chance later if we can keep them interested.)\n\nSo three questions:\n\n1. Who is doing this well? I would love to see examples of demoey\/producty webinars that do a good job. \n2. What are your experiences with standing, group demo type webinars? Have you seen success? Do they lead to personalized webinars? \n3. Do you have any advice (besides know your audience + provide value) for creating product content that people actually want to watch\/read?\nThank you!",
+        "user": "UJ420S7MG",
+        "ts": "1579032961.037000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "582aa21bfc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629332107879_582aa21bfc2076e148a1_72.jpg",
+            "first_name": "Kyla",
+            "real_name": "Kyla Sims",
+            "display_name": "Kyla Sims",
+            "team": "TJE58GTJL",
+            "name": "kyla.sims",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v7EB8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey friends!\n\nQuestion about product content. (For context, we are an B2B SaaS Company serving enterprise clients.)\n\nWe’ve been running exceptionally successful education-focused webinars (KPIs: registrants, attendees, emails). Now we want to apply those skills to our product webinars and see if we can bump up our KPIs around demos and SQLs.\n\nWe’ve always been uncomfortable developing this kind of content and have consistently erred on the side of education vs. selling the product because we so badly do not want to alienate our audience.\n\n(Also for context, our avg. buyer only stays in their job for 2 years before they move onto the next company so if they can’t get us approved in their current org. we do get a second chance later if we can keep them interested.)\n\nSo three questions:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Who is doing this well? I would love to see examples of demoey\/producty webinars that do a good job. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What are your experiences with standing, group demo type webinars? Have you seen success? Do they lead to personalized webinars? "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do you have any advice (besides know your audience + provide value) for creating product content that people actually want to watch\/read?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e146963e-0995-4015-b32b-be5d319dfdff",
+        "type": "message",
+        "text": "Thanks for sharing <@UJ3K7N8GJ>. Looks like an interesting concept!",
+        "user": "UL2E0QVB3",
+        "ts": "1579049179.037200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge9a383c24eb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/46e9a383c24ebc58aff0a71a2925d006.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Taru",
+            "real_name": "Taru",
+            "display_name": "Taru",
+            "team": "TJE58GTJL",
+            "name": "taru.bhargav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for sharing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ3K7N8GJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Looks like an interesting concept!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578964860.021100",
+        "parent_user_id": "UL2E0QVB3"
+    },
+    {
+        "client_msg_id": "575b10b9-1851-4974-b943-a6917ecc4cbb",
+        "type": "message",
+        "text": "I would argue (and some would disagree) that the skillset of a content SEO and an SEO specialist\/manager is different. Great content SEOs can do a lot more to set an article up for success, whereas specialists\/managers tend to do more with technical\/sitewide stuff.\n\nAt ActiveCampaign I trained all of our writers on the content side of SEO, and I think it's a huge reason that we've been able to scale from 8k monthly visitors to 120k monthly visitors",
+        "user": "UJ7RT1J1X",
+        "ts": "1579050461.037600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3344738d2bc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-17\/1076357263828_3344738d2bc26736e62e_72.jpg",
+            "first_name": "Benyamin",
+            "real_name": "Benyamin Elias",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benyamin.elias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCDf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would argue (and some would disagree) that the skillset of a content SEO and an SEO specialist\/manager is different. Great content SEOs can do a lot more to set an article up for success, whereas specialists\/managers tend to do more with technical\/sitewide stuff.\n\nAt ActiveCampaign I trained all of our writers on the content side of SEO, and I think it's a huge reason that we've been able to scale from 8k monthly visitors to 120k monthly visitors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579027945.028300",
+        "parent_user_id": "UR3LUBF39",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJJELJPNH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

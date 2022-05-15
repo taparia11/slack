@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "be97d4fb-297a-4324-8ba3-e9a6bea497c7",
+        "type": "message",
+        "text": "<!here> just added a new channel inspired by <@URB31QKM4>: <#C018DRKH0M9|diversity-and-inclusion>",
+        "user": "UJG9WTEKG",
+        "ts": "1596722195.057400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPNiI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just added a new channel inspired by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URB31QKM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C018DRKH0M9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "mustache-parrot",
+                "users": [
+                    "UJ48Q1HAP",
+                    "UJ2QESJ66",
+                    "UJG4WTGKS",
+                    "U0159EE99HB",
+                    "U016VHZ0ZD5",
+                    "U012UL77GUT",
+                    "URA4VBQ2X",
+                    "UJG46SBV3",
+                    "U012YJ35BML",
+                    "U017P9D6Y2G",
+                    "U016LHA1BHP",
+                    "U017GEM6F6V",
+                    "UUQ0C0ZUH"
+                ],
+                "count": 13
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "URB31QKM4",
+                    "URA4VBQ2X",
+                    "U015WN80X97",
+                    "UPH4SCGTH",
+                    "UJS7GK1TP",
+                    "U016G65CCUS",
+                    "U011QQDDSJV",
+                    "UUQ0C0ZUH"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

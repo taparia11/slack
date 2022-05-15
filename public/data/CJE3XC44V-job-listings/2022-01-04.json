@@ -1,0 +1,103 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Hi all, happy to field any questions about this one!",
+        "user": "U02TDTBU2PJ",
+        "ts": "1641333477.150400",
+        "thread_ts": "1641227739.144900",
+        "root": {
+            "type": "message",
+            "subtype": "bot_message",
+            "text": "*A Network for Grateful Living is hiring a Content Strategist (Hadley, MA, USA)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/221652-content-strategist>",
+            "ts": "1641227739.144900",
+            "username": "Superpath Job Bot",
+            "icons": {
+                "emoji": ":partying_face:",
+                "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+            },
+            "bot_id": "B0199MPQELR",
+            "thread_ts": "1641227739.144900",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1641348939.150700",
+            "reply_users": [
+                "U02TDTBU2PJ",
+                "U02Q8U5T7TP"
+            ],
+            "replies": [
+                {
+                    "user": "U02TDTBU2PJ",
+                    "ts": "1641333477.150400"
+                },
+                {
+                    "user": "U02Q8U5T7TP",
+                    "ts": "1641348939.150700"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8lVk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, happy to field any questions about this one!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1ade672a-fa81-4ddc-92e0-f83f52f0ffbb"
+    },
+    {
+        "client_msg_id": "0073cad8-c314-4ac7-bb7e-0dcc0f8da760",
+        "type": "message",
+        "text": "<@U02TDTBU2PJ> I am interested and will send you a DM",
+        "user": "U02Q8U5T7TP",
+        "ts": "1641348939.150700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6ac00fe7f7de",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3395185200147_6ac00fe7f7de679b0f41_72.jpg",
+            "first_name": "Johelski",
+            "real_name": "Johelski",
+            "display_name": "johelski",
+            "team": "TJE58GTJL",
+            "name": "ajayijohel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "36e3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TDTBU2PJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am interested and will send you a DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641227739.144900"
+    }
+]

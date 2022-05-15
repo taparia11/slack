@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "15344940-9235-4a21-b9c3-5976eb886839",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U02GFCTS89J",
+        "ts": "1633677939.371900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1911a59ab4a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2570431495553_1911a59ab4a804da14e5_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Schaaf",
+            "display_name": "Julian Schaaf",
+            "team": "TJE58GTJL",
+            "name": "julian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UMiz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633542290.364300",
+        "parent_user_id": "U01LEHMH1BQ"
+    },
+    {
+        "client_msg_id": "facfab04-ce7d-4569-ab4a-c0f266198361",
+        "type": "message",
+        "text": "Hello everyone. How do you plan your quarters for sales &amp; productivity? I want to manage my time better and I thought to ask you!",
+        "user": "U02FBJRCX71",
+        "ts": "1633720901.374900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e76239a58629",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-16\/2962539579124_e76239a58629fcc8759d_72.png",
+            "first_name": "Mira",
+            "real_name": "Mira ANAMAE",
+            "display_name": "Mira ANAMAE",
+            "team": "TJE58GTJL",
+            "name": "miraanamae",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02FBJRCX71",
+            "ts": "1633767095.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6zm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone. How do you plan your quarters for sales & productivity? I want to manage my time better and I thought to ask you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1633720902.375000"
+    }
+]

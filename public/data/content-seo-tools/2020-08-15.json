@@ -1,0 +1,205 @@
+[
+    {
+        "client_msg_id": "482b1da4-f44e-4931-aa2e-343502eaf02f",
+        "type": "message",
+        "text": "I'm just getting to the point with my blog where I would benefit from more in-depth analytics, and I've never been on the setup side of things, so I'd appreciate some recommendations!\n\nI'm looking for a tool that will track full user activity connected to my website and email list, allowing me to look at a customer and see:\n\n• the original blog post that brought them to my site\n• everything they've read\/clicked on between original contact and purchase\nAnd also be able to sort and filter data to see stuff like:\n\n• which blog posts are bringing in the most customers\n• which blog posts are showing up most frequently in purchasing journeys\nI'm currently using ConvertKit, which lets me look at a specific customer to see signup and email related data, but I'm blind on which blog posts they are interacting with, and there is no macro filtering to get larger insights with ConvertKit. I'd have to click on each customer individually to try and piece together larger insights.\n\nWould appreciate any recommendations on this end, whether it's one tool - connecting a few tools (or even just finally learning more advanced GA setup). Thanks!",
+        "user": "U010EN555TN",
+        "ts": "1597537928.018700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge2c1c2575a8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2c1c2575a8cfd85abedfeae665f5b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Jacob McMillen",
+            "display_name": "Jacob McMillen",
+            "team": "TJE58GTJL",
+            "name": "jmcmillen89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nU+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm just getting to the point with my blog where I would benefit from more in-depth analytics, and I've never been on the setup side of things, so I'd appreciate some recommendations!\n\nI'm looking for a tool that will track full user activity connected to my website and email list, allowing me to look at a customer and see:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the original blog post that brought them to my site"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "everything they've read\/clicked on between original contact and purchase"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAnd also be able to sort and filter data to see stuff like:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "which blog posts are bringing in the most customers"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "which blog posts are showing up most frequently in purchasing journeys"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI'm currently using ConvertKit, which lets me look at a specific customer to see signup and email related data, but I'm blind on which blog posts they are interacting with, and there is no macro filtering to get larger insights with ConvertKit. I'd have to click on each customer individually to try and piece together larger insights.\n\nWould appreciate any recommendations on this end, whether it's one tool - connecting a few tools (or even just finally learning more advanced GA setup). Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597537928.018700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1597595002.024200",
+        "reply_users": [
+            "U012YJ35BML",
+            "U010EN555TN"
+        ],
+        "replies": [
+            {
+                "user": "U012YJ35BML",
+                "ts": "1597541473.023800"
+            },
+            {
+                "user": "U010EN555TN",
+                "ts": "1597595002.024200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "B024119B-C7C2-40B4-8C70-6661C5F6931F",
+        "type": "message",
+        "text": "Hey Jacob,\n\nGoogle Analtyics will be able to solve a lot of these questions. If you set it up with Google Tag Manager you can create events to track link clicking (or any click), form fill outs, and lastly (and probably what your thinking) creating UserIDs as a dimension to track individual users. \n\nBe sure to be GDPR compliant and remove PII.\n\nI haven’t worked with Convertkit but I’ve been setting up multiple connections\/tags\/lists with Active Campaign. :+1:",
+        "user": "U012YJ35BML",
+        "ts": "1597541473.023800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQVmE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Jacob,\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Google Analtyics will be able to solve a lot of these questions. If you set it up with Google Tag Manager you can create events to track link clicking (or any click), form fill outs, and lastly (and probably what your thinking) creating UserIDs as a dimension to track individual users. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Be sure to be GDPR compliant and remove PII.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I haven’t worked with Convertkit but I’ve been setting up multiple connections\/tags\/lists with Active Campaign. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597537928.018700",
+        "parent_user_id": "U010EN555TN",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U010EN555TN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

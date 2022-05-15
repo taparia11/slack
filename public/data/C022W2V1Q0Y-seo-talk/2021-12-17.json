@@ -1,0 +1,249 @@
+[
+    {
+        "client_msg_id": "f865df52-bdec-4984-8b4a-507825bb9a3d",
+        "type": "message",
+        "text": "Apologies if this is a basic question, but I'm not 100% where to begin.\nEarlier this year we merged a blog, newsletter, and a small assortment of other pages into a single resources collection. 99% of it is perfectly organized. But I've found a dozen pages that literally only have 1 sentence on them - not sure how they were created, I'm assuming something weird occurred during the merge.\n• Is there a good visual sitemap tool that can help me see if there are any more of these stragglers?\n• Should these pages be deleted or redirected? ",
+        "user": "U02GYR8TM96",
+        "ts": "1639757026.397700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f1f652ee1a88",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2556223130962_f1f652ee1a88d648e327_72.png",
+            "first_name": "David",
+            "real_name": "David Ramos",
+            "display_name": "David Ramos",
+            "team": "TJE58GTJL",
+            "name": "david.ramos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s3QPp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apologies if this is a basic question, but I'm not 100% where to begin.\nEarlier this year we merged a blog, newsletter, and a small assortment of other pages into a single resources collection. 99% of it is perfectly organized. But I've found a dozen pages that literally only have 1 sentence on them - not sure how they were created, I'm assuming something weird occurred during the merge.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Is there a good visual sitemap tool that can help me see if there are any more of these stragglers?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Should these pages be deleted or redirected? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639757026.397700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1640350851.422300",
+        "reply_users": [
+            "U026R1895QV",
+            "U02GYR8TM96",
+            "U024K88ECFN",
+            "U02KR8D3EMC"
+        ],
+        "replies": [
+            {
+                "user": "U026R1895QV",
+                "ts": "1639757188.397800"
+            },
+            {
+                "user": "U02GYR8TM96",
+                "ts": "1639757259.398100"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1639758520.398400"
+            },
+            {
+                "user": "U02KR8D3EMC",
+                "ts": "1640350851.422300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "19631786-f32b-4cfd-8090-43e68e2cfa2f",
+        "type": "message",
+        "text": "Check out <http:\/\/SiteBulb.com|SiteBulb.com> for the visual sitemap tool. And if they’re not bringing in any traffic, letting them 404 is likely fine.",
+        "user": "U026R1895QV",
+        "ts": "1639757188.397800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=CTC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/SiteBulb.com",
+                                "text": "SiteBulb.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the visual sitemap tool. And if they’re not bringing in any traffic, letting them 404 is likely fine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639757026.397700",
+        "parent_user_id": "U02GYR8TM96",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U02GYR8TM96",
+                    "U024K88ECFN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73ea981a-85e9-41ca-b67c-407f357a7f20",
+        "type": "message",
+        "text": "Ah nice, thank you for the recommendation!",
+        "user": "U02GYR8TM96",
+        "ts": "1639757259.398100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f1f652ee1a88",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2556223130962_f1f652ee1a88d648e327_72.png",
+            "first_name": "David",
+            "real_name": "David Ramos",
+            "display_name": "David Ramos",
+            "team": "TJE58GTJL",
+            "name": "david.ramos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah nice, thank you for the recommendation!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639757026.397700",
+        "parent_user_id": "U02GYR8TM96"
+    },
+    {
+        "client_msg_id": "1c005175-4f27-4115-a82e-3d7d9a660e5c",
+        "type": "message",
+        "text": "<@U026R1895QV> I'm excited to check this out!",
+        "user": "U024K88ECFN",
+        "ts": "1639758520.398400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lusGG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U026R1895QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm excited to check this out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639757026.397700",
+        "parent_user_id": "U02GYR8TM96",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U026R1895QV",
+                    "U02GYR8TM96"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

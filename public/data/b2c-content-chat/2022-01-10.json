@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "cb65ecfc-a9dd-4d39-a52a-09405d0e3305",
+        "type": "message",
+        "text": "Hey all! I'm looking for examples where SaaS (or brand-owned) blogs had guest authors write for them on a niche topic. I'm interested in having experts weigh in with their own series on our blog.  We want to make sure it doesn't conflict with their other projects (especially as they're often reviewing tech products). Any tips around disclosures and what to watch out for is also very welcome. Thanks!",
+        "user": "U028XDRBC3U",
+        "ts": "1641854660.004200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "134f353b3c11",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2300674519413_134f353b3c11d2455cfd_72.png",
+            "first_name": "",
+            "real_name": "Carla Andre-Brown",
+            "display_name": "Carla Andre-Brown",
+            "team": "TJE58GTJL",
+            "name": "carlaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U028XDRBC3U",
+            "ts": "1641854691.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8VNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all! I'm looking for examples where SaaS (or brand-owned) blogs had guest authors write for them on a niche topic. I'm interested in having experts weigh in with their own series on our blog.  We want to make sure it doesn't conflict with their other projects (especially as they're often reviewing tech products). Any tips around disclosures and what to watch out for is also very welcome. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641854660.004200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1641855551.004400",
+        "reply_users": [
+            "U02RPKXLL67"
+        ],
+        "replies": [
+            {
+                "user": "U02RPKXLL67",
+                "ts": "1641855551.004400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2ae003d5-421d-46e9-ad5f-f6b5e2e581db",
+        "type": "message",
+        "text": "Here’s an example of a blog with a specific “expert opinions” tag. The post in particular “5 tips for better multimodal design” is written by a designer that works for another product that could be seen as a competitor of theirs, so may be one to look at home its disclosed there. <https:\/\/www.voiceflow.com\/category\/expert-opinions>",
+        "user": "U02RPKXLL67",
+        "ts": "1641855551.004400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2347ca95f594",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-27\/2886600947794_2347ca95f594224b56bd_72.jpg",
+            "first_name": "Hillary",
+            "real_name": "Hillary Black",
+            "display_name": "Hillary Black",
+            "team": "TJE58GTJL",
+            "name": "hillary483",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TmbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here’s an example of a blog with a specific “expert opinions” tag. The post in particular “5 tips for better multimodal design” is written by a designer that works for another product that could be seen as a competitor of theirs, so may be one to look at home its disclosed there. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.voiceflow.com\/category\/expert-opinions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641854660.004200",
+        "parent_user_id": "U028XDRBC3U",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U028XDRBC3U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "3579d7c0-c221-4c94-9da5-314f2c433265",
+        "type": "message",
+        "text": "<@U02ME7MGZ2P> can you move to <#C012AUSC85C|promotion>?",
+        "user": "UJG9WTEKG",
+        "ts": "1637695287.088200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2az9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02ME7MGZ2P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637573505.080200",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "31d43831-8b44-4f1f-96fd-e91c71d8945c",
+        "type": "message",
+        "text": "I'll make sure to do so! Sorry for the misunderstanding :raised_hands:",
+        "user": "U02ME7MGZ2P",
+        "ts": "1637695362.088500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab22d78a744b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-16\/2742725248209_ab22d78a744b13a37d3b_72.png",
+            "first_name": "Ala",
+            "real_name": "Ala Eddine Abid",
+            "display_name": "Al",
+            "team": "TJE58GTJL",
+            "name": "abid.alaeddine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll make sure to do so! Sorry for the misunderstanding "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637573505.080200",
+        "parent_user_id": "USLACKBOT"
+    }
+]

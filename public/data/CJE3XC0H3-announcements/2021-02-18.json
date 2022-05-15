@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "07fae555-748b-4cf6-85ab-21a8a4065d38",
+        "type": "message",
+        "text": "Congrats <@UJG9WTEKG>! New channel? :slightly_smiling_face:",
+        "user": "U01PAU5QV32",
+        "ts": "1613686907.136400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "860ce9ae1a6c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-05\/2040266128308_860ce9ae1a6cb71f89ef_72.png",
+            "first_name": "Erin",
+            "real_name": "Erin Sarris",
+            "display_name": "Erin",
+            "team": "TJE58GTJL",
+            "name": "erinsarris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aMF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! New channel? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612908559.056200",
+        "parent_user_id": "U011UJX75PE",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

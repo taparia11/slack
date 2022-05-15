@@ -1,0 +1,331 @@
+[
+    {
+        "client_msg_id": "dc57b57c-2442-48c9-8242-0609fa79d9a6",
+        "type": "message",
+        "text": "Running into a weird issue with one of my client's search results. Every few days, some of their blog content will completely disappear from Google even when performing a \"site:<http:\/\/domain.com|domain.com> blog name\" search. And then the content will show up a few days later, go away again, and then show up again. It's a vicious cycle and I've never seen this happen with anyone before.\n\nWe've checked their robots.txt file, manual actions, and reports in Search Console where we see that everything is good to go. Any ideas as to  what could be causing the issue?",
+        "user": "U022WPACV4L",
+        "ts": "1631035674.070900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bc588db919e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2092645159746_bc588db919e300f6dc48_72.jpg",
+            "first_name": "Taran",
+            "real_name": "Taran Soodan",
+            "display_name": "Taran Soodan",
+            "team": "TJE58GTJL",
+            "name": "taran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZ5HE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Running into a weird issue with one of my client's search results. Every few days, some of their blog content will completely disappear from Google even when performing a \"site:domain.com blog name\" search. And then the content will show up a few days later, go away again, and then show up again. It's a vicious cycle and I've never seen this happen with anyone before.\n\nWe've checked their robots.txt file, manual actions, and reports in Search Console where we see that everything is good to go. Any ideas as to  what could be causing the issue?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631035674.070900",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1633448241.257500",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U022WPACV4L",
+            "U024BHRFEPQ",
+            "U02DARBD76C"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1631039994.071000"
+            },
+            {
+                "user": "U022WPACV4L",
+                "ts": "1631040507.071200"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1631043217.073200"
+            },
+            {
+                "user": "U022WPACV4L",
+                "ts": "1631043291.073400"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1631043311.073600"
+            },
+            {
+                "user": "U022WPACV4L",
+                "ts": "1631043893.073800"
+            },
+            {
+                "user": "U024BHRFEPQ",
+                "ts": "1632869349.205900"
+            },
+            {
+                "user": "U02DARBD76C",
+                "ts": "1633448241.257500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a231f6ba-f258-4a51-8bd6-837cee313d5f",
+        "type": "message",
+        "text": "Is this showed in search console where visits drop to 0 on those days?",
+        "user": "UUXMCJQ15",
+        "ts": "1631039994.071000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQ8O0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this showed in search console where visits drop to 0 on those days?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631035674.070900",
+        "parent_user_id": "U022WPACV4L"
+    },
+    {
+        "client_msg_id": "3b40a7e2-3245-48e5-b952-c03ab6648faa",
+        "type": "message",
+        "text": "yes, impressions and clicks drop to 0",
+        "user": "U022WPACV4L",
+        "ts": "1631040507.071200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bc588db919e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2092645159746_bc588db919e300f6dc48_72.jpg",
+            "first_name": "Taran",
+            "real_name": "Taran Soodan",
+            "display_name": "Taran Soodan",
+            "team": "TJE58GTJL",
+            "name": "taran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDvd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, impressions and clicks drop to 0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631035674.070900",
+        "parent_user_id": "U022WPACV4L"
+    },
+    {
+        "client_msg_id": "b3b11d13-90a9-4cc6-918b-f50cd571d175",
+        "type": "message",
+        "text": "I've seen really wild things happen with plugins in WordPress in the past. May be the case here if they have a lot of plugins running.",
+        "user": "UUXMCJQ15",
+        "ts": "1631043217.073200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "geWR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've seen really wild things happen with plugins in WordPress in the past. May be the case here if they have a lot of plugins running."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631035674.070900",
+        "parent_user_id": "U022WPACV4L"
+    },
+    {
+        "client_msg_id": "e7f805d4-9eeb-41c3-8f30-3f341e5a08dd",
+        "type": "message",
+        "text": "ooh good idea. they only have Yoast and 2 others running but i'll have to check them just in case",
+        "user": "U022WPACV4L",
+        "ts": "1631043291.073400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bc588db919e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2092645159746_bc588db919e300f6dc48_72.jpg",
+            "first_name": "Taran",
+            "real_name": "Taran Soodan",
+            "display_name": "Taran Soodan",
+            "team": "TJE58GTJL",
+            "name": "taran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2cL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ooh good idea. they only have Yoast and 2 others running but i'll have to check them just in case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631035674.070900",
+        "parent_user_id": "U022WPACV4L"
+    },
+    {
+        "client_msg_id": "0d7381dc-9abb-44ad-91dd-10215938520c",
+        "type": "message",
+        "text": "Truthfully though, I just had a friend's client's site (a division of one of the largest companies in the world) just deindex itself the other day. I'm starting to think Google might release a note saying something is up soon.",
+        "user": "UUXMCJQ15",
+        "ts": "1631043311.073600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "99e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Truthfully though, I just had a friend's client's site (a division of one of the largest companies in the world) just deindex itself the other day. I'm starting to think Google might release a note saying something is up soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631035674.070900",
+        "parent_user_id": "U022WPACV4L"
+    },
+    {
+        "client_msg_id": "42a02b7e-5b2b-4ec3-9c4c-abca06e657b0",
+        "type": "message",
+        "text": ":crossed_fingers::skin-tone-3: it's a google issue",
+        "user": "U022WPACV4L",
+        "ts": "1631043893.073800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bc588db919e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2092645159746_bc588db919e300f6dc48_72.jpg",
+            "first_name": "Taran",
+            "real_name": "Taran Soodan",
+            "display_name": "Taran Soodan",
+            "team": "TJE58GTJL",
+            "name": "taran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "USgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " it's a google issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631035674.070900",
+        "parent_user_id": "U022WPACV4L"
+    }
+]

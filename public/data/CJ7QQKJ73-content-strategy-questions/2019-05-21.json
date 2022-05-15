@@ -1,0 +1,499 @@
+[
+    {
+        "client_msg_id": "e6ae758a-fe73-4337-a840-8a4aa08d549b",
+        "type": "message",
+        "text": "^^attn <@UJAFNEVH7>",
+        "user": "UJDPMTREY",
+        "ts": "1558442371.013300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1558442404.000000"
+        },
+        "thread_ts": "1558345332.012300",
+        "parent_user_id": "UJJELJPNH",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "UJAFNEVH7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bd93b16-6476-43d5-872b-5f72949838ef",
+        "type": "message",
+        "text": "So, we’re currently in the middle of tackling the monster task of converting our blog into the topic cluster model. One question I’m getting stuck on is - *can a topic cluster link to another cluster, or should it operate in isolation?*\n\nLet’s say, we’re creating a pillar page on Italian Food. Here we cover the history of Italian food as well as many different types of Italian food, from pasta to pizza to cannoli.\n\nBut we’ve also got a bunch of articles about pizza, like “104 of the Best Pizza Toppings’ and “21 NYC Pizza Spots You Can’t Miss”.\n\nIt’s enough individual content pieces (and enough search volume) to create a pillar page just about pizza.\n\nWhen managing internal links, should we:\na. Link the Italian food pillar to the pizza pillar, and none of the individual articles (ie: pillar page to pillar page only).\nb. Link the Italian food pillar only to the relevant individual pizza articles (no linking from pillar to pillar).\nc. Try to not link them at all. In fact, cut out the pizza section of the Italian food pillar page so there’s no crossover.\nd. Don’t do the pizza pillar page at all.",
+        "user": "UJKGTUJJ2",
+        "ts": "1558451913.025700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f5890e4ac3eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/823277751298_f5890e4ac3eb1e4e8ff5_72.jpg",
+            "first_name": "Venetia",
+            "real_name": "Venetia Anderson",
+            "display_name": "venetia",
+            "team": "TJE58GTJL",
+            "name": "venetia.anderson05",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558451913.025700",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1558532844.046800",
+        "reply_users": [
+            "UJFELLXSR",
+            "UJDPMTREY",
+            "UJKGTUJJ2"
+        ],
+        "replies": [
+            {
+                "user": "UJFELLXSR",
+                "ts": "1558455649.025900"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1558465981.028600"
+            },
+            {
+                "user": "UJKGTUJJ2",
+                "ts": "1558532844.046800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJ5HZNSR0",
+                    "UJHBBR59V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fba5a47e-76fc-4a8d-a40a-50a0e0a56e43",
+        "type": "message",
+        "text": "Imo, as long as your link is relevant and adds to the context where it's linked in (:grin:), you're good :slightly_smiling_face:",
+        "user": "UJFELLXSR",
+        "ts": "1558455649.025900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae8f2247231d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-09\/1232164853826_ae8f2247231dabc86588_72.jpg",
+            "first_name": "jean-baptiste",
+            "real_name": "jean-baptiste",
+            "display_name": "jean-baptiste",
+            "team": "TJE58GTJL",
+            "name": "jean-baptiste",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558451913.025700",
+        "parent_user_id": "UJKGTUJJ2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJHBBR59V",
+                    "UJG24P8P6",
+                    "UJS7GK1TP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "870E127A-5CDF-4C38-BAB9-3E6B67C3CA65",
+        "type": "message",
+        "text": "^I second that opinion and would add that the bigger risk is usually _not_ linking to relevant content.\n\nIt makes sense to prioritize\/ensure that there are relevant links to showcase the hierarchy within the pillar, but a secondary effort to include other relevant internal links is good for users and search engines.",
+        "user": "UJDPMTREY",
+        "ts": "1558465981.028600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558451913.025700",
+        "parent_user_id": "UJKGTUJJ2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJHBBR59V",
+                    "UJFELMVU1",
+                    "UJKGTUJJ2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20db12f4-a71d-4c2c-8a65-3cef47f9ea59",
+        "type": "message",
+        "text": "What do you use for editorial calendars? Google Sheets? PM software? Combination of both?",
+        "user": "UJG24P8P6",
+        "ts": "1558472936.033400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558472936.033400",
+        "reply_count": 17,
+        "reply_users_count": 8,
+        "latest_reply": "1579273644.001600",
+        "reply_users": [
+            "UJG9WTEKG",
+            "UJG24P8P6",
+            "UJDPMTREY",
+            "UJ36Q2ZRQ",
+            "UJFELLXSR",
+            "UJE5LQ2JC",
+            "UJ7RT1J1X",
+            "US3NM8ZHT"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1558475569.033700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1558475579.033900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1558475591.034300"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1558483553.036300"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1558507322.037300"
+            },
+            {
+                "user": "UJ36Q2ZRQ",
+                "ts": "1558515759.046600"
+            },
+            {
+                "user": "UJFELLXSR",
+                "ts": "1558534646.051300"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1558540304.051700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1558540723.052100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1558540745.052300"
+            },
+            {
+                "user": "UJ7RT1J1X",
+                "ts": "1558554917.053200"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1558555650.053700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1558555682.053900"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1558624770.055700"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1558624788.055900"
+            },
+            {
+                "user": "UJ36Q2ZRQ",
+                "ts": "1559132318.007100"
+            },
+            {
+                "user": "US3NM8ZHT",
+                "ts": "1579273644.001600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1579273644.001600"
+    },
+    {
+        "client_msg_id": "b9cca4df-49af-4a4e-8637-49e89a28bbe1",
+        "type": "message",
+        "text": "airtable!",
+        "user": "UJG9WTEKG",
+        "ts": "1558475569.033700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558472936.033400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "e73587c8-e14d-4ea3-803c-9c5629a452ca",
+        "type": "message",
+        "text": "<https:\/\/www.jimmydaly.com\/how-to-run-a-content-pipeline-with-airtable\/>",
+        "user": "UJG9WTEKG",
+        "ts": "1558475579.033900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1558475585.000000"
+        },
+        "thread_ts": "1558472936.033400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "e9b90f13-335c-4c25-a286-3ec14e43d56d",
+        "type": "message",
+        "text": "a video showing how in that post ^^",
+        "user": "UJG9WTEKG",
+        "ts": "1558475591.034300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558472936.033400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "0eb460a7-2cee-4517-a933-b0b8331d823e",
+        "type": "message",
+        "text": "I've written a large, \"Ultimate Guide\" for one of our customers, and the content is great. Right now we have it as a PDF that we can send to a customer for their email.\n\nMy question is, is it worth also adding it in it's entirety to the website as a guide like Stripe does with a download option, or would it be better to create posts from each section independently?",
+        "user": "UJ53ETCLB",
+        "ts": "1558481256.036200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "23747b1b645e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-07\/628585710176_23747b1b645ef10c8f5e_72.jpg",
+            "first_name": "Charles",
+            "real_name": "Charles Forster",
+            "display_name": "Charles Forster",
+            "team": "TJE58GTJL",
+            "name": "design",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558481256.036200",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1560176337.032000",
+        "reply_users": [
+            "UJDPMTREY",
+            "UJ53ETCLB",
+            "UJFCMA7V3"
+        ],
+        "replies": [
+            {
+                "user": "UJDPMTREY",
+                "ts": "1558507460.039800"
+            },
+            {
+                "user": "UJ53ETCLB",
+                "ts": "1558540580.051900"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1558541003.052500"
+            },
+            {
+                "user": "UJFCMA7V3",
+                "ts": "1560176214.031700"
+            },
+            {
+                "user": "UJ53ETCLB",
+                "ts": "1560176337.032000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "402e20b9-8706-4661-823e-ccd3fb69a4bc",
+        "type": "message",
+        "text": "Yes! I remember you writing this post now. Thanks",
+        "user": "UJG24P8P6",
+        "ts": "1558483553.036300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558472936.033400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "561F6A22-EB4A-4829-A8F4-87842F7C7ABE",
+        "type": "message",
+        "text": "We use Trello, but I’m not a huge fan.",
+        "user": "UJDPMTREY",
+        "ts": "1558507322.037300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558472936.033400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "A10B02BE-4639-47E0-9430-9592FD75C78D",
+        "type": "message",
+        "text": "The “one post or many?” answer usually depends on search volume. If multiple topics _within_ the post have search volume, I’d create a separate post for each topic with search volume. If only the top-level topic does (or none do), I’d keep it as a single post.",
+        "user": "UJDPMTREY",
+        "ts": "1558507460.039800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558481256.036200",
+        "parent_user_id": "UJ53ETCLB",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJFELMVU1",
+                    "UJLQEEVHV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DDF8BCCF-6584-421C-BCB2-AAD06BD67070",
+        "type": "message",
+        "text": "Thanks for sharing <@UJDPMTREY> :slightly_smiling_face:",
+        "user": "UJAFNEVH7",
+        "ts": "1558507696.040500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gcd3193e7d1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/99cd3193e7d1c7e29242c088bfe404bc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Emily",
+            "real_name": "Emily Byford",
+            "display_name": "Emily Byford",
+            "team": "TJE58GTJL",
+            "name": "emily",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1558345332.012300",
+        "parent_user_id": "UJJELJPNH"
+    }
+]

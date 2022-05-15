@@ -1,0 +1,245 @@
+[
+    {
+        "client_msg_id": "ae8f1b06-d9aa-4817-a9a9-bd4f1b807066",
+        "type": "message",
+        "text": "<@U024E9WNQMA> One thing I really like about Webflow is its dynamic CMS. It can API into a headless CMS or a database. There are some styling limitations for blog\/article style content.\n\nAnd with webflow you also give up a lot of the backend config re hosting, customization, etc. (compared to Wordpress).\n\nLike <@U021QMNMQ68> said, you'd need to define that \"heavy lifting\" with much more nuance and tech-spec to really understand if webflow\/others &gt; wordpress in your case",
+        "user": "U01AHL8AGBB",
+        "ts": "1625150192.348300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "od7Xt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U024E9WNQMA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " One thing I really like about Webflow is its dynamic CMS. It can API into a headless CMS or a database. There are some styling limitations for blog\/article style content.\n\nAnd with webflow you also give up a lot of the backend config re hosting, customization, etc. (compared to Wordpress).\n\nLike "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021QMNMQ68"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said, you'd need to define that \"heavy lifting\" with much more nuance and tech-spec to really understand if webflow\/others > wordpress in your case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625121217.346700",
+        "parent_user_id": "U024E9WNQMA"
+    },
+    {
+        "client_msg_id": "a8b4d532-28d5-4090-8b1c-211ee3f308d9",
+        "type": "message",
+        "text": "I am just toeing into Notion myself, but from what I can tell:\n\n*CON:* no backend control. If you need that, maybe put the Notion style stuff in a subdomain\n\nunsure if there's good CMS \/ API control. The editor UI seems to favour authorship and design over configuration.\n\n*PRO:* looks gorgeous and modern effortlessly, with a lot of subtle and smart styling options. Content organization and depth can be immense too, but AFAIK you have to handcraft all of that\n\nLearn curve for authors\/designers is very small\n\nAlso, check out <https:\/\/potion.so> for skinning Notion sites into something that looks different :slightly_smiling_face:",
+        "user": "U01AHL8AGBB",
+        "ts": "1625150383.348500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Potion",
+                "title_link": "https:\/\/potion.so\/",
+                "text": "Create custom websites in minutes. All on Notion. Potion adds the magic, generating a speedy site with custom domains, styles and great SEO.",
+                "fallback": "Potion",
+                "image_url": "https:\/\/potion.nyc3.cdn.digitaloceanspaces.com\/5fd6a8c77a7bd00017b0f172\/site_image.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/potion.so\/",
+                "image_bytes": 91980,
+                "service_icon": "https:\/\/potion.nyc3.cdn.digitaloceanspaces.com\/5fd6a8c77a7bd00017b0f172\/favicon.png",
+                "service_name": "potion.so",
+                "id": 1,
+                "original_url": "https:\/\/potion.so"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lim\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am just toeing into Notion myself, but from what I can tell:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "CON:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " no backend control. If you need that, maybe put the Notion style stuff in a subdomain\n\nunsure if there's good CMS \/ API control. The editor UI seems to favour authorship and design over configuration.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "PRO:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " looks gorgeous and modern effortlessly, with a lot of subtle and smart styling options. Content organization and depth can be immense too, but AFAIK you have to handcraft all of that\n\nLearn curve for authors\/designers is very small\n\nAlso, check out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/potion.so"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for skinning Notion sites into something that looks different "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625121267.347700",
+        "parent_user_id": "U024E9WNQMA"
+    },
+    {
+        "client_msg_id": "cb79969a-2cfb-4ced-bcfc-f2c7dc56d4c4",
+        "type": "message",
+        "text": "Thank you <@U021QMNMQ68> and <@U01AHL8AGBB>. This is v helpful. Potion for Notion seems very interesting :slightly_smiling_face:",
+        "user": "U024E9WNQMA",
+        "ts": "1625151159.348800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cbc2a3cfcda7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-07\/2131733489399_cbc2a3cfcda7d1a945ce_72.jpg",
+            "first_name": "Vinay",
+            "real_name": "Vinay Rao",
+            "display_name": "Vinay Rao",
+            "team": "TJE58GTJL",
+            "name": "vinay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GR=Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021QMNMQ68"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". This is v helpful. Potion for Notion seems very interesting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625121267.347700",
+        "parent_user_id": "U024E9WNQMA"
+    },
+    {
+        "client_msg_id": "726d3019-4217-483e-b488-0d048de9dfca",
+        "type": "message",
+        "text": "Right?? It's a cool little SaaS project I found on Reddit.",
+        "user": "U01AHL8AGBB",
+        "ts": "1625154957.350900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right?? It's a cool little SaaS project I found on Reddit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625121267.347700",
+        "parent_user_id": "U024E9WNQMA"
+    }
+]

@@ -1,0 +1,773 @@
+[
+    {
+        "client_msg_id": "b9d99e1d-2cec-49a4-9f98-1fd4407715e9",
+        "type": "message",
+        "text": "Thank you <@U03330MFEN4> and <@U02SW3L1G5B>",
+        "user": "U032D0T39QR",
+        "ts": "1646077591.862689",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e43324317aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3067799456070_5e43324317aab3a79c72_72.jpg",
+            "first_name": "Chauncey",
+            "real_name": "Chauncey Zalkin",
+            "display_name": "Chauncey Zalkin",
+            "team": "TJE58GTJL",
+            "name": "chaunceyzalkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03330MFEN4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02SW3L1G5B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644782156.794679",
+        "parent_user_id": "U032D0T39QR",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U03330MFEN4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2da63b3-cefb-4c48-9737-a3e9e389dbff",
+        "type": "message",
+        "text": "Hi all! I’m publishing ~150 articles\/month using a combination of content writing agencies (Verblio) + freelance editors + medical reviewers. But managing it on my own is a lot!\n\nI’m currently using Airtable + Google Sheets + Zapier to try to automate as much as possible.\n\nDo you recommend any other tools or workflows that can help *streamline all these workflows and bring them into one place?* I’ve seen Narrato mentioned before - any pros or cons you can share?!",
+        "user": "U02C68DM1K4",
+        "ts": "1646085838.173069",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "60ba29ae3d8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-25\/2413401429877_60ba29ae3d8cbc2015fe_72.jpg",
+            "first_name": "Caitlin",
+            "real_name": "Caitlin Burns",
+            "display_name": "Caitlin Burns",
+            "team": "TJE58GTJL",
+            "name": "caitlin399",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uaC1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! I’m publishing ~150 articles\/month using a combination of content writing agencies (Verblio) + freelance editors + medical reviewers. But managing it on my own is a lot!\n\nI’m currently using Airtable + Google Sheets + Zapier to try to automate as much as possible.\n\nDo you recommend any other tools or workflows that can help "
+                            },
+                            {
+                                "type": "text",
+                                "text": "streamline all these workflows and bring them into one place?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ve seen Narrato mentioned before - any pros or cons you can share?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "reply_count": 18,
+        "reply_users_count": 9,
+        "latest_reply": "1646345311.602419",
+        "reply_users": [
+            "U02AR2XSN1M",
+            "UUH2EB134",
+            "U02C68DM1K4",
+            "U034H601T7X",
+            "U024K88ECFN",
+            "U01P13NTGG6",
+            "U027V14CNHF",
+            "U01V7CQF8LC",
+            "UJG24P8P6"
+        ],
+        "replies": [
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1646086186.917769"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1646086216.363949"
+            },
+            {
+                "user": "U02C68DM1K4",
+                "ts": "1646086665.871519"
+            },
+            {
+                "user": "U02C68DM1K4",
+                "ts": "1646086761.961979"
+            },
+            {
+                "user": "U034H601T7X",
+                "ts": "1646087404.171059"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1646089311.002239"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1646101612.717889"
+            },
+            {
+                "user": "U034H601T7X",
+                "ts": "1646106589.446439"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1646109171.653379"
+            },
+            {
+                "user": "U034H601T7X",
+                "ts": "1646109218.949809"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1646110544.538199"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1646131806.357349"
+            },
+            {
+                "user": "U027V14CNHF",
+                "ts": "1646170873.315429"
+            },
+            {
+                "user": "U02C68DM1K4",
+                "ts": "1646172868.779709"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1646172907.974479"
+            },
+            {
+                "user": "U01V7CQF8LC",
+                "ts": "1646288482.668819"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1646331228.136689"
+            },
+            {
+                "user": "U02C68DM1K4",
+                "ts": "1646345311.602419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c4cdfdc4-429d-48d4-befb-03704ef8c240",
+        "type": "message",
+        "text": "You've got a lot going on! Following - I've just started using Notion and am loving it but I'm sure I could automate much more. I also juggle a combination of freelancers and writing agencies. (Are you in AU Caitlin? It's not often I see people in the same time zone here :slightly_smiling_face: )",
+        "user": "U02AR2XSN1M",
+        "ts": "1646086186.917769",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RtbWS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You've got a lot going on! Following - I've just started using Notion and am loving it but I'm sure I could automate much more. I also juggle a combination of freelancers and writing agencies. (Are you in AU Caitlin? It's not often I see people in the same time zone here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02C68DM1K4",
+                    "UNA88V285"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4cac851-0bd8-4335-b872-2ba10a93cb31",
+        "type": "message",
+        "text": "I don’t have recommendations because I’m trying to build what you’re currently using since I’ve yet to find a solution that does this and becomes a library of existing content connected to performance reporting.\n\nSo given that you’re already got the production engine automation in place, I gotta wonder if you need more people — not new tools.",
+        "user": "UUH2EB134",
+        "ts": "1646086216.363949",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c7k5j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t have recommendations because I’m trying to build what you’re currently using since I’ve yet to find a solution that does this and becomes a library of existing content connected to performance reporting.\n\nSo given that you’re already got the production engine automation in place, I gotta wonder if you need more people — not new tools."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02C68DM1K4",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd777f44-cbbc-4add-b01e-73cf69dbe980",
+        "type": "message",
+        "text": "<@U02AR2XSN1M> I sure am! Would be great to connect :slightly_smiling_face:",
+        "user": "U02C68DM1K4",
+        "ts": "1646086665.871519",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "60ba29ae3d8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-25\/2413401429877_60ba29ae3d8cbc2015fe_72.jpg",
+            "first_name": "Caitlin",
+            "real_name": "Caitlin Burns",
+            "display_name": "Caitlin Burns",
+            "team": "TJE58GTJL",
+            "name": "caitlin399",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02AR2XSN1M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I sure am! Would be great to connect "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4"
+    },
+    {
+        "client_msg_id": "12037e65-9c92-40c4-9412-6d70754253ce",
+        "type": "message",
+        "text": "<@UUH2EB134> I think more people is the end goal, so I guess I’m looking for a platform that could be more of a stop-gap. A content coordinator would be the ideal solution - someone to oversee communications and keep on top of progress!",
+        "user": "U02C68DM1K4",
+        "ts": "1646086761.961979",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "60ba29ae3d8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-25\/2413401429877_60ba29ae3d8cbc2015fe_72.jpg",
+            "first_name": "Caitlin",
+            "real_name": "Caitlin Burns",
+            "display_name": "Caitlin Burns",
+            "team": "TJE58GTJL",
+            "name": "caitlin399",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qOwm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think more people is the end goal, so I guess I’m looking for a platform that could be more of a stop-gap. A content coordinator would be the ideal solution - someone to oversee communications and keep on top of progress!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4"
+    },
+    {
+        "client_msg_id": "e5639633-3fc5-461d-9159-603b429a5573",
+        "type": "message",
+        "text": "sounds like you need project management software",
+        "user": "U034H601T7X",
+        "ts": "1646087404.171059",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05f4767730a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-24\/3168737349953_05f4767730a3afcc5ea8_72.jpg",
+            "first_name": "John",
+            "real_name": "John Doherty",
+            "display_name": "John Doherty",
+            "team": "TJE58GTJL",
+            "name": "dohertyjf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdQej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sounds like you need project management software"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4"
+    },
+    {
+        "client_msg_id": "34f23c15-ebc8-4861-88d7-23f8eeeb5d3e",
+        "type": "message",
+        "text": "We've found Notion + Google Docs to be pretty clean (we also used to use Asana for the assignment end of things). However, building out the scheduling part in Notion was a bit of a daunting task.\n\nAre you editing and posting all of those articles yourself? That's wild, if so! (You go girl, but also kudos to you for looking for help!)",
+        "user": "U024K88ECFN",
+        "ts": "1646089311.002239",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mrTDq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We've found Notion + Google Docs to be pretty clean (we also used to use Asana for the assignment end of things). However, building out the scheduling part in Notion was a bit of a daunting task.\n\nAre you editing and posting all of those articles yourself? That's wild, if so! (You go girl, but also kudos to you for looking for help!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4"
+    },
+    {
+        "client_msg_id": "1a2357e5-3d0b-4763-9231-a22bf614e462",
+        "type": "message",
+        "text": "This has me thinking that I might spend a few weekends on a side project spinning up a prototype with Retool <@UUH2EB134>. I think the hardest piece is getting things from Docs into WP—wouldn’t be nearly as bad with something headless though.\n\nGetting performance data back into an app from GSC\/GA\/Salesforce shouldn’t be too difficult (can’t get certain model comparison data back from GA though—e.g. w\/ secondary dimensions), but data from Salesforce\/Bizible aggregated in a warehouse is what we did at our last company.",
+        "user": "U01P13NTGG6",
+        "ts": "1646101612.717889",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2VW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This has me thinking that I might spend a few weekends on a side project spinning up a prototype with Retool "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I think the hardest piece is getting things from Docs into WP—wouldn’t be nearly as bad with something headless though.\n\nGetting performance data back into an app from GSC\/GA\/Salesforce shouldn’t be too difficult (can’t get certain model comparison data back from GA though—e.g. w\/ secondary dimensions), but data from Salesforce\/Bizible aggregated in a warehouse is what we did at our last company."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4"
+    },
+    {
+        "client_msg_id": "6B818ADB-B307-4694-B255-9E2266E527C3",
+        "type": "message",
+        "text": "<@U01P13NTGG6> check out Wordable",
+        "user": "U034H601T7X",
+        "ts": "1646106589.446439",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05f4767730a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-24\/3168737349953_05f4767730a3afcc5ea8_72.jpg",
+            "first_name": "John",
+            "real_name": "John Doherty",
+            "display_name": "John Doherty",
+            "team": "TJE58GTJL",
+            "name": "dohertyjf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01P13NTGG6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " check out Wordable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4"
+    },
+    {
+        "client_msg_id": "3EAEC106-D7C9-445E-8630-B277266499D5",
+        "type": "message",
+        "text": "+1 on Wordable. I saw it when Tim Soulo recommended it on Twitter. :blush:\n\n <https:\/\/wordable.io\/|https:\/\/wordable.io\/>",
+        "user": "U024K88ECFN",
+        "ts": "1646109171.653379",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/wordable.io\/",
+                "image_url": "https:\/\/cdn.shortpixel.ai\/client\/q_lossy,ret_img\/https:\/\/wordable.io\/wp-content\/themes\/wordable\/assets\/newimages\/4.png",
+                "image_width": 312,
+                "image_height": 250,
+                "image_bytes": 1503360,
+                "service_icon": "https:\/\/sp-ao.shortpixel.ai\/client\/to_webp,q_lossy,ret_img,w_180,h_180\/https:\/\/wordable.io\/wp-content\/uploads\/2021\/01\/cropped-Just-the-W-Transparent-Background-2-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/wordable.io\/",
+                "fallback": "Wordable: Wordable: A faster way to publish content.",
+                "text": "Instantly export your content to any website. In seconds, in bulk, and with whatever formatting you want.",
+                "title": "Wordable: A faster way to publish content.",
+                "title_link": "https:\/\/wordable.io\/",
+                "service_name": "Wordable",
+                "fields": [
+                    {
+                        "value": "4 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFQU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 on Wordable. I saw it when Tim Soulo recommended it on Twitter. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordable.io\/",
+                                "text": "https:\/\/wordable.io\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4"
+    },
+    {
+        "client_msg_id": "f9dc2c2c-d58d-4e0c-9375-c2ee5037778f",
+        "type": "message",
+        "text": "my buddy founded it and my other buddy bought it from him :slightly_smiling_face:",
+        "user": "U034H601T7X",
+        "ts": "1646109218.949809",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05f4767730a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-24\/3168737349953_05f4767730a3afcc5ea8_72.jpg",
+            "first_name": "John",
+            "real_name": "John Doherty",
+            "display_name": "John Doherty",
+            "team": "TJE58GTJL",
+            "name": "dohertyjf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rBP5N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my buddy founded it and my other buddy bought it from him "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b6c5714-27eb-45c0-9b3d-02baa6dd6c19",
+        "type": "message",
+        "text": "Wordable looks very cool. A stopgap solution could be this addon that I find super useful; it pulls all your H1, H2 formatting etc into html so you can just drop it into the text editor in wordpress. Wordable is next level though! <https:\/\/workspace.google.com\/marketplace\/app\/docs_to_markdown\/700168918607>",
+        "user": "U02AR2XSN1M",
+        "ts": "1646110544.538199",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/workspace.google.com\/marketplace\/app\/docs_to_markdown\/700168918607",
+                "service_icon": "https:\/\/ssl.gstatic.com\/apps\/additnow\/images\/logo_marketplace_1x_48dp.png",
+                "id": 1,
+                "original_url": "https:\/\/workspace.google.com\/marketplace\/app\/docs_to_markdown\/700168918607",
+                "fallback": "Docs to Markdown - Google Workspace Marketplace",
+                "text": "Free, open-source Drive add-on that converts a Google Doc to simple, readable Markdown or HTML.",
+                "title": "Docs to Markdown - Google Workspace Marketplace",
+                "title_link": "https:\/\/workspace.google.com\/marketplace\/app\/docs_to_markdown\/700168918607",
+                "service_name": "workspace.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zAG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wordable looks very cool. A stopgap solution could be this addon that I find super useful; it pulls all your H1, H2 formatting etc into html so you can just drop it into the text editor in wordpress. Wordable is next level though! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/workspace.google.com\/marketplace\/app\/docs_to_markdown\/700168918607"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4"
+    }
+]

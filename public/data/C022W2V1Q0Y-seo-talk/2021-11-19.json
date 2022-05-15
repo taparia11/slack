@@ -1,0 +1,836 @@
+[
+    {
+        "client_msg_id": "cc82f218-0d80-4ddf-83af-007686d9632e",
+        "type": "message",
+        "text": "Hey! Would anyone know why Google would ignore the meta description we put in via the Yoast SEO plugin? Seems like it's pulling something random from the page, our engineers tell us nothing is hard coded in either.",
+        "user": "U01T31CUVC1",
+        "ts": "1637336276.203200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1d099e10e744",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2581636308963_1d099e10e7440656ca57_72.png",
+            "first_name": "Arielle",
+            "real_name": "Arielle Kimbarovsky",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "a.kimbarovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P=278",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! Would anyone know why Google would ignore the meta description we put in via the Yoast SEO plugin? Seems like it's pulling something random from the page, our engineers tell us nothing is hard coded in either."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1637507389.208400",
+        "reply_users": [
+            "U02681WABA7",
+            "U02DH3CF30R",
+            "U026R1895QV",
+            "UJJFDTN8G",
+            "U02J27W7K1B",
+            "U01T31CUVC1",
+            "UUKNSAKUH"
+        ],
+        "replies": [
+            {
+                "user": "U02681WABA7",
+                "ts": "1637336349.203400"
+            },
+            {
+                "user": "U02681WABA7",
+                "ts": "1637336402.203700"
+            },
+            {
+                "user": "U02DH3CF30R",
+                "ts": "1637336456.203900"
+            },
+            {
+                "user": "U026R1895QV",
+                "ts": "1637337709.204400"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1637337756.204700"
+            },
+            {
+                "user": "U02J27W7K1B",
+                "ts": "1637344902.205100"
+            },
+            {
+                "user": "U01T31CUVC1",
+                "ts": "1637345005.205500"
+            },
+            {
+                "user": "U026R1895QV",
+                "ts": "1637345183.205800"
+            },
+            {
+                "user": "UUKNSAKUH",
+                "ts": "1637507389.208400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7fa1f084-47fb-4489-9450-a72ae74710ff",
+        "type": "message",
+        "text": "This august\/september update, most probably? <https:\/\/developers.google.com\/search\/blog\/2021\/08\/update-to-generating-page-titles>",
+        "user": "U02681WABA7",
+        "ts": "1637336349.203400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e00edcfaaddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-29\/2531730201543_e00edcfaaddd70703667_72.jpg",
+            "first_name": "Jonas",
+            "real_name": "Jonas van de Poel",
+            "display_name": "Jonas van de Poel",
+            "team": "TJE58GTJL",
+            "name": "jonas792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/developers.google.com\/search\/blog\/2021\/08\/update-to-generating-page-titles",
+                "service_name": "Google Developers",
+                "title": "An update to how we generate web page titles",
+                "title_link": "https:\/\/developers.google.com\/search\/blog\/2021\/08\/update-to-generating-page-titles",
+                "image_url": "https:\/\/developers.google.com\/search\/blog\/images\/social-share-blog.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 66290,
+                "fallback": "Google Developers: An update to how we generate web page titles",
+                "service_icon": "https:\/\/www.gstatic.com\/devrel-devsite\/prod\/v8fd805b581ccd4ea25bb3c9d6fd75d38ac1dfcb55016a4d660f139190a81898b\/developers\/images\/touchicon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/developers.google.com\/search\/blog\/2021\/08\/update-to-generating-page-titles"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This august\/september update, most probably? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/developers.google.com\/search\/blog\/2021\/08\/update-to-generating-page-titles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "parent_user_id": "U01T31CUVC1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ad33fcf-dc09-4694-a9f0-db590c0cada7",
+        "type": "message",
+        "text": "Tools like keyword surfer's Chrome extension as well as SEMrush now show you when a title has been changed, as well",
+        "user": "U02681WABA7",
+        "ts": "1637336402.203700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e00edcfaaddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-29\/2531730201543_e00edcfaaddd70703667_72.jpg",
+            "first_name": "Jonas",
+            "real_name": "Jonas van de Poel",
+            "display_name": "Jonas van de Poel",
+            "team": "TJE58GTJL",
+            "name": "jonas792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tools like keyword surfer's Chrome extension as well as SEMrush now show you when a title has been changed, as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "parent_user_id": "U01T31CUVC1"
+    },
+    {
+        "client_msg_id": "dfa327fa-8476-40e2-b5db-55bbc6b8a612",
+        "type": "message",
+        "text": "So many different iterations are happening now. Saw one yesterday where the description was pulled from a bot comment :disappointed:",
+        "user": "U02DH3CF30R",
+        "ts": "1637336456.203900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "65d769f03108",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-07\/2486806136288_65d769f031084c1db233_72.jpg",
+            "first_name": "Jess",
+            "real_name": "Jess Joyce",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jessjoyce",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So many different iterations are happening now. Saw one yesterday where the description was pulled from a bot comment "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "parent_user_id": "U01T31CUVC1",
+        "reactions": [
+            {
+                "name": "mild-panic",
+                "users": [
+                    "U02681WABA7",
+                    "U013W748P7T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0219a106-ce72-40a5-bc25-b0136ea69f72",
+        "type": "message",
+        "text": "Google has never guaranteed that it will use your suggested meta description or title. In fact, it rewrites meta descriptions 70% and customizes them for the searcher’s query. Titles are rewritten more like ~20-30% of the time.",
+        "user": "U026R1895QV",
+        "ts": "1637337709.204400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U026R1895QV",
+            "ts": "1637337741.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/j3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google has never guaranteed that it will use your suggested meta description or title. In fact, it rewrites meta descriptions 70% and customizes them for the searcher’s query. Titles are rewritten more like ~20-30% of the time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "parent_user_id": "U01T31CUVC1",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U02DH3CF30R",
+                    "U02A8UR3Z60",
+                    "U02NJDGLMJ4",
+                    "U01TBAF98H0"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01dc7d1f-6e39-43c2-9681-859330f1e12e",
+        "type": "message",
+        "text": "I was literally typing what <@U026R1895QV> just said :point_up:\n\nHappens all the time and not related to the new core update.",
+        "user": "UJJFDTN8G",
+        "ts": "1637337756.204700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H4Yhl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was literally typing what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U026R1895QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just said "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHappens all the time and not related to the new core update."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "parent_user_id": "U01T31CUVC1",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U026R1895QV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2226372-c3d3-4897-b611-b8bd3fe144be",
+        "type": "message",
+        "text": "Hey, these are two different things:\n• The page title update from this summer.\n• Meta descriptions. In my opinion, Google has autopulled them for a while… either when they dont find it fitting or the user searches something related to a section of the page and google pulls a part from the section. There is nothing that you can do except trying to better\/more relevant in your metas.",
+        "user": "U02J27W7K1B",
+        "ts": "1637344902.205100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g02f3d27587a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02f3d27587a93da21d03ed14d4d0aad0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Viola",
+            "real_name": "Viola Eva",
+            "display_name": "Viola Eva",
+            "team": "TJE58GTJL",
+            "name": "viola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6sJ2u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, these are two different things:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The page title update from this summer."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Meta descriptions. In my opinion, Google has autopulled them for a while… either when they dont find it fitting or the user searches something related to a section of the page and google pulls a part from the section. There is nothing that you can do except trying to better\/more relevant in your metas."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "parent_user_id": "U01T31CUVC1",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U02J7DM81AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f03638f-7469-43f6-9329-098e56558195",
+        "type": "message",
+        "text": "Thanks everyone, I figured Google was just doing it's thing because it assumes it's not relevant. <@U026R1895QV> I didn't realize it rewrote metas that often!",
+        "user": "U01T31CUVC1",
+        "ts": "1637345005.205500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1d099e10e744",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2581636308963_1d099e10e7440656ca57_72.png",
+            "first_name": "Arielle",
+            "real_name": "Arielle Kimbarovsky",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "a.kimbarovsky",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KfwM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks everyone, I figured Google was just doing it's thing because it assumes it's not relevant. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U026R1895QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I didn't realize it rewrote metas that often!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "parent_user_id": "U01T31CUVC1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U026R1895QV",
+                    "U01TBAF98H0"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3841586e-8f84-4d13-938d-fe4026561227",
+        "type": "message",
+        "text": "Google has been changing page titles for years before this summer’s update. The 2021 page title update was just one of the more noticeable shifts as Google tested a new model for the changes, but they’ve been using what they want for titles as far back as 2010. <https:\/\/searchengineland.com\/writing-html-title-tags-humans-google-bing-59384>\n\nHere’s the meta description data: <https:\/\/rankactive.com\/blog\/title-and-description-in-2021-why-google-rewrites-seos-meta-tags>",
+        "user": "U026R1895QV",
+        "ts": "1637345183.205800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8X2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google has been changing page titles for years before this summer’s update. The 2021 page title update was just one of the more noticeable shifts as Google tested a new model for the changes, but they’ve been using what they want for titles as far back as 2010. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/searchengineland.com\/writing-html-title-tags-humans-google-bing-59384"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHere’s the meta description data: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rankactive.com\/blog\/title-and-description-in-2021-why-google-rewrites-seos-meta-tags"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637336276.203200",
+        "parent_user_id": "U01T31CUVC1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01T31CUVC1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eea6b915-0006-4302-8084-989eaff1cb48",
+        "type": "message",
+        "text": "i have a friend looking for a technical SEO to train\/mentor a team. not a consultant, a teacher. know anyone?",
+        "user": "UJG9WTEKG",
+        "ts": "1637350802.206700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E2DNb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have a friend looking for a technical SEO to train\/mentor a team. not a consultant, a teacher. know anyone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637350802.206700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1637356183.207500",
+        "reply_users": [
+            "U02HWBZS9QC",
+            "U026RJJFP46",
+            "U024K88ECFN",
+            "UUXMCJQ15"
+        ],
+        "replies": [
+            {
+                "user": "U02HWBZS9QC",
+                "ts": "1637351368.206800"
+            },
+            {
+                "user": "U026RJJFP46",
+                "ts": "1637351450.207100"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1637351753.207300"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1637356183.207500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1637356183.207500"
+    },
+    {
+        "client_msg_id": "523c3727-c998-460e-90a8-cb8e8a7a3d9e",
+        "type": "message",
+        "text": "Do you want me to publish your request in one of the SEO-dedicated Slack communities I'm a part of?",
+        "user": "U02HWBZS9QC",
+        "ts": "1637351368.206800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cea3c2adb719",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-23\/2879299611220_cea3c2adb71995b8fd88_72.jpg",
+            "first_name": "Ankit",
+            "real_name": "Ankit Vora",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "ankitplaynody",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02HWBZS9QC",
+            "ts": "1637351386.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIBFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you want me to publish your request in one of the SEO-dedicated Slack communities I'm a part of?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637350802.206700",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "ee6f429c-f32d-4637-b222-e57d488ffd78",
+        "type": "message",
+        "text": "That would be great! This request came from me :slightly_smiling_face: are these communities that I could join? I am fairly new to Slack",
+        "user": "U026RJJFP46",
+        "ts": "1637351450.207100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "02b68874adc6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-07\/2272998273008_02b68874adc600254da5_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Peterson",
+            "display_name": "Becca Peterson",
+            "team": "TJE58GTJL",
+            "name": "rebeccapeterson8914",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would be great! This request came from me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are these communities that I could join? I am fairly new to Slack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637350802.206700",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "eb6b71e2-5ce6-4a3c-b15a-446259f912e6",
+        "type": "message",
+        "text": "Out of curiosity, what would the biggest difference between a consultant vs. teacher for you in this circumstance <@U026RJJFP46>? I only ask because I have a training background and have trained each member of our in-house team one by one — would love to help, but I'm not sure if I'd be considered a consultant in that way. :slightly_smiling_face:",
+        "user": "U024K88ECFN",
+        "ts": "1637351753.207300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzAd\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Out of curiosity, what would the biggest difference between a consultant vs. teacher for you in this circumstance "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U026RJJFP46"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? I only ask because I have a training background and have trained each member of our in-house team one by one — would love to help, but I'm not sure if I'd be considered a consultant in that way. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637350802.206700",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "3bd04ff9-9d18-4a43-a68f-e1055b7f216e",
+        "type": "message",
+        "text": "I work in SEO. I was a high school teacher for 10 years. Would love to chat <@U026RJJFP46>! :wave:",
+        "user": "UUXMCJQ15",
+        "ts": "1637356183.207500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ilFC6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I work in SEO. I was a high school teacher for 10 years. Would love to chat "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U026RJJFP46"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637350802.206700",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

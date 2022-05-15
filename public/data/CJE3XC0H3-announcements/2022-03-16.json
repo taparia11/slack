@@ -1,0 +1,59 @@
+[
+    {
+        "bot_id": "BLLCEVD9N",
+        "type": "message",
+        "text": "police",
+        "user": "UJJFDTN8G",
+        "ts": "1647417483.670319",
+        "team": "TJE58GTJL",
+        "bot_profile": {
+            "id": "BLLCEVD9N",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1563567276,
+            "team_id": "TJE58GTJL"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "WVW",
+                "image_url": "https:\/\/media0.giphy.com\/media\/81xwEHX23zhvy\/giphy.gif?cid=6104955ed831d0e77e7c6189bf31666aa40f3b61302aa69e&rid=giphy.gif&ct=g",
+                "alt_text": "police",
+                "title": {
+                    "type": "plain_text",
+                    "text": "police",
+                    "emoji": true
+                },
+                "image_width": 480,
+                "image_height": 260,
+                "image_bytes": 831886,
+                "is_animated": true,
+                "fallback": "480x260px image"
+            },
+            {
+                "type": "context",
+                "block_id": "5i7",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647362588.069399",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

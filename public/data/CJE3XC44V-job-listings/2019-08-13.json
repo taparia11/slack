@@ -1,0 +1,94 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1565713694.029400",
+        "thread_ts": "1565713694.029400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1565729980.029900",
+        "reply_users": [
+            "UM7QJPCVA",
+            "UJHT5CHUY"
+        ],
+        "replies": [
+            {
+                "user": "UM7QJPCVA",
+                "ts": "1565720687.029600"
+            },
+            {
+                "user": "UJHT5CHUY",
+                "ts": "1565729980.029900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UM7QJPCVA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcbef66f-9e3d-461e-8887-05661405737f",
+        "type": "message",
+        "text": "Sent you an email! Feel free to contact me here as well. Thanks!",
+        "user": "UM7QJPCVA",
+        "ts": "1565720687.029600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9e26374b2565",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-10\/716280436769_9e26374b2565923c3173_72.jpg",
+            "first_name": "",
+            "real_name": "Tara McQuaide",
+            "display_name": "Tara McQuaide",
+            "team": "TJE58GTJL",
+            "name": "taralmcquaide",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565713694.029400",
+        "parent_user_id": "UJHT5CHUY",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UJHT5CHUY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82c5047b-0f1a-4163-a2da-01e9a1c61f51",
+        "type": "message",
+        "text": "Great, thanks Tara!",
+        "user": "UJHT5CHUY",
+        "ts": "1565729980.029900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9b31c258d041",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1883903218582_9b31c258d041f6de2b99_72.jpg",
+            "first_name": "Scott",
+            "real_name": "Scott Mathson",
+            "display_name": "scottmathson",
+            "team": "TJE58GTJL",
+            "name": "yo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565713694.029400",
+        "parent_user_id": "UJHT5CHUY"
+    }
+]

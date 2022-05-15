@@ -1,0 +1,1394 @@
+[
+    {
+        "client_msg_id": "d06663a6-cbe6-4dbd-9f0b-ecdc83b73bfd",
+        "type": "message",
+        "text": "Good morning everyone :wave:  (or good *insert whatever is more appropriate for your timezone* :blush:)\nWe're considering moving our blog to Webflow (it's on Prismic + Gatsby right now and we don't have the dev resources to keep it updated) and I'm looking for feedback. Is anyone running their website + blog on webflow too? Any downsides we should consider before moving forward?",
+        "user": "U032D7Y0658",
+        "ts": "1644481818.566969",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0bcf480280f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-10\/3084541355059_0bcf480280f2b3f1e621_72.png",
+            "first_name": "Hanne",
+            "real_name": "Hanne Deceuninck",
+            "display_name": "Hanne",
+            "team": "TJE58GTJL",
+            "name": "hanne.deceuninck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032D7Y0658",
+            "ts": "1644486307.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9wSnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning everyone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  (or good *insert whatever is more appropriate for your timezone* "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\nWe're considering moving our blog to Webflow (it's on Prismic + Gatsby right now and we don't have the dev resources to keep it updated) and I'm looking for feedback. Is anyone running their website + blog on webflow too? Any downsides we should consider before moving forward?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "reply_count": 11,
+        "reply_users_count": 7,
+        "latest_reply": "1645276888.693989",
+        "reply_users": [
+            "U01J3L8CJRL",
+            "U02ANC57AAY",
+            "U032D7Y0658",
+            "U01GWU4JWE4",
+            "UUH2ESL66",
+            "U03190LG82H",
+            "UJE5LARL0"
+        ],
+        "replies": [
+            {
+                "user": "U01J3L8CJRL",
+                "ts": "1644482963.986569"
+            },
+            {
+                "user": "U02ANC57AAY",
+                "ts": "1644485960.293179"
+            },
+            {
+                "user": "U032D7Y0658",
+                "ts": "1644486510.294409"
+            },
+            {
+                "user": "U02ANC57AAY",
+                "ts": "1644487023.333829"
+            },
+            {
+                "user": "U032D7Y0658",
+                "ts": "1644491588.126009"
+            },
+            {
+                "user": "U01GWU4JWE4",
+                "ts": "1644492940.864339"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1644516411.360349"
+            },
+            {
+                "user": "U032D7Y0658",
+                "ts": "1644571554.218529"
+            },
+            {
+                "user": "U03190LG82H",
+                "ts": "1644606564.529179"
+            },
+            {
+                "user": "U032D7Y0658",
+                "ts": "1644614723.552849"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645276888.693989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ef9f443a-4e38-49f8-a06f-fdf1ac59205c",
+        "type": "message",
+        "text": "I used webflow in my earlier company. Those were dark days I would say :stuck_out_tongue:\n\nThe app is slow and takes lot of time.  Marking links as DoFollow and NoFollow became a major task for me.  Its also complex compared to WordPress.",
+        "user": "U01J3L8CJRL",
+        "ts": "1644482963.986569",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12550f10b66e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-14\/2588602098551_12550f10b66e24ed3adb_72.png",
+            "first_name": "Saurabh",
+            "real_name": "Saurabh",
+            "display_name": "Saurabh",
+            "team": "TJE58GTJL",
+            "name": "saurabh.content.saas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D302",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I used webflow in my earlier company. Those were dark days I would say "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe app is slow and takes lot of time.  Marking links as DoFollow and NoFollow became a major task for me.  Its also complex compared to WordPress."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U032D7Y0658",
+                    "U02QBTA3943"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "250733a9-f7e7-4096-89fb-5c846f95456f",
+        "type": "message",
+        "text": "Hey <@U032D7Y0658>! We have just moved our website from Prismic to WebFlow! We did have a designer set it up for us and I usually live in the contributor mode so don’t have access to the “code-y bits”.\n\nI’m finding it pretty straightforward so far to upload blogs etc. For me, it’s just a case of putting in the copy, select whatever I want as H1, H2 headers etc., linking the relevant stuff, and filling in the relevant info (e.g. thumbnail and any other fields).",
+        "user": "U02ANC57AAY",
+        "ts": "1644485960.293179",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "45b108914224",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-09\/2359758724082_45b108914224a53b7683_72.jpg",
+            "first_name": "Steph",
+            "real_name": "Steph Smith",
+            "display_name": "Steph Smith",
+            "team": "TJE58GTJL",
+            "name": "steph",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032D7Y0658"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! We have just moved our website from Prismic to WebFlow! We did have a designer set it up for us and I usually live in the contributor mode so don’t have access to the “code-y bits”.\n\nI’m finding it pretty straightforward so far to upload blogs etc. For me, it’s just a case of putting in the copy, select whatever I want as H1, H2 headers etc., linking the relevant stuff, and filling in the relevant info (e.g. thumbnail and any other fields)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032D7Y0658"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22bbac95-8333-4cee-b8dc-2302fc85cb1d",
+        "type": "message",
+        "text": "<@U01J3L8CJRL> we've moved away from wordpress as it was too slow. I'll look into the DoFollow and NoFollows!\n\n<@U02ANC57AAY> we'll have a designer set it up for us too so should be good there. I see you've set up your site in French and English too. Are you using Weglot or did you create 2 projects (one for each language)? Can you share a screenshot of what contributor mode looks like? (maybe in dm if you're more comfortable?) Congrats on the new podcast by the way!",
+        "user": "U032D7Y0658",
+        "ts": "1644486510.294409",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0bcf480280f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-10\/3084541355059_0bcf480280f2b3f1e621_72.png",
+            "first_name": "Hanne",
+            "real_name": "Hanne Deceuninck",
+            "display_name": "Hanne",
+            "team": "TJE58GTJL",
+            "name": "hanne.deceuninck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v0D1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01J3L8CJRL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we've moved away from wordpress as it was too slow. I'll look into the DoFollow and NoFollows!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02ANC57AAY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we'll have a designer set it up for us too so should be good there. I see you've set up your site in French and English too. Are you using Weglot or did you create 2 projects (one for each language)? Can you share a screenshot of what contributor mode looks like? (maybe in dm if you're more comfortable?) Congrats on the new podcast by the way!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658"
+    },
+    {
+        "client_msg_id": "d9e731ab-f921-497f-8613-3bdf7c6290ce",
+        "type": "message",
+        "text": "Ah yes - we’re using Weglot but I must admit, trying to cater to two languages has been a bit of a nightmare!\n\nAs we still wanted some blogs in French for SEO, we’ve ended up having to translate all French articles into English so all articles are on the website in English. BUT we then manually add a French version which can appear for search as the automatic translation doesn’t translate to the standard we want to maintain at this stage… So we may have to pay a freelancer to translate the blogs we create and then manually add them. We’re still working out what is the best solution… :sweat_smile:\n\nSure - I’ll DM you some screenshots :slightly_smiling_face:\n\nThanks! The podcast is a lot of work but good fun and hopefully valuable for our audience!",
+        "user": "U02ANC57AAY",
+        "ts": "1644487023.333829",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "45b108914224",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-09\/2359758724082_45b108914224a53b7683_72.jpg",
+            "first_name": "Steph",
+            "real_name": "Steph Smith",
+            "display_name": "Steph Smith",
+            "team": "TJE58GTJL",
+            "name": "steph",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYaa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah yes - we’re using Weglot but I must admit, trying to cater to two languages has been a bit of a nightmare!\n\nAs we still wanted some blogs in French for SEO, we’ve ended up having to translate all French articles into English so all articles are on the website in English. BUT we then manually add a French version which can appear for search as the automatic translation doesn’t translate to the standard we want to maintain at this stage… So we may have to pay a freelancer to translate the blogs we create and then manually add them. We’re still working out what is the best solution… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSure - I’ll DM you some screenshots "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThanks! The podcast is a lot of work but good fun and hopefully valuable for our audience!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032D7Y0658"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d58c3ca1-2eca-4265-bff3-b5ab89ae1b7c",
+        "type": "message",
+        "text": "We need our site in French, English and Spanish in Q2 so we're thinking of setting up a webflow project in each language. The automatic translations aren't up to the standard we need :confused:",
+        "user": "U032D7Y0658",
+        "ts": "1644491588.126009",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0bcf480280f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-10\/3084541355059_0bcf480280f2b3f1e621_72.png",
+            "first_name": "Hanne",
+            "real_name": "Hanne Deceuninck",
+            "display_name": "Hanne",
+            "team": "TJE58GTJL",
+            "name": "hanne.deceuninck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s8\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We need our site in French, English and Spanish in Q2 so we're thinking of setting up a webflow project in each language. The automatic translations aren't up to the standard we need "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658"
+    },
+    {
+        "client_msg_id": "525bf42e-9991-4317-9458-02359b9796b7",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/posts\/alfredlua_we-migrated-our-blog-from-wordpress-to-webflow-activity-6897385299538800640-R_-L>",
+        "user": "U01GWU4JWE4",
+        "ts": "1644492940.864339",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7be117499ef4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-03\/1615103505012_7be117499ef4a8ee7673_72.jpg",
+            "first_name": "Ernest",
+            "real_name": "Ernest Bio Bogore",
+            "display_name": "Ernest Bio Bogore",
+            "team": "TJE58GTJL",
+            "name": "bioernest80",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/alfredlua_we-migrated-our-blog-from-wordpress-to-webflow-activity-6897385299538800640-R_-L",
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C5622AQHPLyuDq5rIGA\/feedshare-shrink_800\/0\/1644464801904?e=1647475200&v=beta&t=krifSzEtqBvHHfksmWiOEl_FRlKGIjD0xr-tbY9_Q58",
+                "image_width": 493,
+                "image_height": 250,
+                "image_bytes": 48815,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/alfredlua_we-migrated-our-blog-from-wordpress-to-webflow-activity-6897385299538800640-R_-L",
+                "fallback": "Alfred Lua on LinkedIn: We migrated our blog from WordPress to Webflow yesterday. Thankfully | 12 comments",
+                "text": "We migrated our blog from WordPress to Webflow yesterday. Thankfully, it seemed to have gone pretty smooth! - Hourly blog traffic remained stable - Page... 12 comments on LinkedIn",
+                "title": "Alfred Lua on LinkedIn: We migrated our blog from WordPress to Webflow yesterday. Thankfully | 12 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/alfredlua_we-migrated-our-blog-from-wordpress-to-webflow-activity-6897385299538800640-R_-L",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ueh6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/alfredlua_we-migrated-our-blog-from-wordpress-to-webflow-activity-6897385299538800640-R_-L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U032D7Y0658"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D085E04F-1335-49EB-9123-38EB4D7A4EE9",
+        "type": "message",
+        "text": "Thank you, I’ll check it out. But yes, I love Grammarly for this kind of thing usually :nerd_face:",
+        "user": "URLKJLWKS",
+        "ts": "1644511809.047289",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "623baec1eb40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/860396897233_623baec1eb40f711996c_72.jpg",
+            "first_name": "",
+            "real_name": "Alice Teodorescu",
+            "display_name": "Alice Teodorescu",
+            "team": "TJE58GTJL",
+            "name": "alice",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KUTz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, I’ll check it out. But yes, I love Grammarly for this kind of thing usually "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nerd_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643710897.133479",
+        "parent_user_id": "URLKJLWKS",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ac56d0c-ff3c-424a-bd94-b3b17c6bf124",
+        "type": "message",
+        "text": "We do pretty much everything in Notion!",
+        "user": "UUH2ESL66",
+        "ts": "1644516325.302179",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We do pretty much everything in Notion!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644471803.132329",
+        "parent_user_id": "UUH2C52DQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02ME70EHBL",
+                    "U032D7YLJ2W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2aae56fa-3db2-41fe-9e21-f4cfcdb84b6b",
+        "type": "message",
+        "text": "I'm using Webflow for the first time now (I've always been in WordPress). I wouldn't do it unless I had a developer\/frontend designer on-hand to make little tweaks you need here and there. A lot of what's there by default in WordPress has to be customized in Webflow (e.g. adding title tag\/meta description fields)",
+        "user": "UUH2ESL66",
+        "ts": "1644516411.360349",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5JYO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm using Webflow for the first time now (I've always been in WordPress). I wouldn't do it unless I had a developer\/frontend designer on-hand to make little tweaks you need here and there. A lot of what's there by default in WordPress has to be customized in Webflow (e.g. adding title tag\/meta description fields)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658"
+    },
+    {
+        "client_msg_id": "a00d4dcd-7f2f-46d5-8b2c-3c497c343f1f",
+        "type": "message",
+        "text": "Hey gang! Are there any social scheduling tools that let you preschedule the infamous \"link in the comments\" on LinkedIn? Seems like that may be the shortcoming of my plan to automate our LinkedIn posting...",
+        "user": "UUH2ESL66",
+        "ts": "1644516498.337669",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KxY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey gang! Are there any social scheduling tools that let you preschedule the infamous \"link in the comments\" on LinkedIn? Seems like that may be the shortcoming of my plan to automate our LinkedIn posting..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644516498.337669",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1644596654.975469",
+        "reply_users": [
+            "UUH2ESL66",
+            "U02AR2XSN1M",
+            "U032J4EUCHF",
+            "U01FUP6AMEZ"
+        ],
+        "replies": [
+            {
+                "user": "UUH2ESL66",
+                "ts": "1644517295.713239"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1644528991.853549"
+            },
+            {
+                "user": "U032J4EUCHF",
+                "ts": "1644529503.692679"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1644529878.719219"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1644530050.631319"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1644530115.872069"
+            },
+            {
+                "user": "U032J4EUCHF",
+                "ts": "1644531630.254189"
+            },
+            {
+                "user": "U01FUP6AMEZ",
+                "ts": "1644596654.975469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U032J4EUCHF",
+                    "U02PQ08HCSF",
+                    "U031QSNBB6K",
+                    "U01FUP6AMEZ",
+                    "U02QBTA3943"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1A4A501A-1C7C-4D19-8902-73242F279172",
+        "type": "message",
+        "text": "As far as I know, none <@UUH2ESL66>, as LinkedIn API only goes so far.",
+        "user": "U032J4EUCHF",
+        "ts": "1644517261.444149",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g5e47ef63fb2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e47ef63fb2243a6122e2e611cf80c7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Jeff",
+            "real_name": "Jeff Fryer",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jeff.fryer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As far as I know, none "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2ESL66"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", as LinkedIn API only goes so far."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "UUH2ESL66",
+                    "U032J4EUCHF",
+                    "U017WRJTKF1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc4aaf3a-b111-4e00-8f3a-cde6d9224ce6",
+        "type": "message",
+        "text": "Thanks <@U032J4EUCHF> :cry:, just moving your response here in case anyone finds this thread later... <https:\/\/content-career-growth.slack.com\/archives\/CN9UCQ92A\/p1644517261444149>",
+        "user": "UUH2ESL66",
+        "ts": "1644517295.713239",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUH2ESL66",
+            "ts": "1644517326.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/content-career-growth.slack.com\/archives\/CN9UCQ92A\/p1644517261444149",
+                "ts": "1644517261.444149",
+                "author_id": "U032J4EUCHF",
+                "channel_team": "TJE58GTJL",
+                "channel_id": "CN9UCQ92A",
+                "channel_name": "content-seo-tools",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "TJE58GTJL",
+                        "channel": "CN9UCQ92A",
+                        "ts": "1644517261.444149",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "pRA",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "As far as I know, none "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "UUH2ESL66"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ", as LinkedIn API only goes so far."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/content-career-growth.slack.com\/archives\/CN9UCQ92A\/p1644517261444149",
+                "fallback": "[February 10th, 2022 10:21 AM] jeff.fryer: As far as I know, none <@UUH2ESL66>, as LinkedIn API only goes so far.",
+                "text": "As far as I know, none <@UUH2ESL66>, as LinkedIn API only goes so far.",
+                "author_name": "Jeff Fryer",
+                "author_link": "https:\/\/content-career-growth.slack.com\/team\/U032J4EUCHF",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/5e47ef63fb2243a6122e2e611cf80c7f.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+                "author_subname": "Jeff Fryer",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Posted in #content-seo-tools"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9nzX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032J4EUCHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", just moving your response here in case anyone finds this thread later... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/content-career-growth.slack.com\/archives\/CN9UCQ92A\/p1644517261444149"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644516498.337669",
+        "parent_user_id": "UUH2ESL66"
+    },
+    {
+        "client_msg_id": "fc366d6b-50f0-4380-9ffb-cd21fcad219a",
+        "type": "message",
+        "text": "I'm sure Publer does this <@UUH2ESL66>! :slightly_smiling_face:",
+        "user": "U02AR2XSN1M",
+        "ts": "1644528991.853549",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RjQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm sure Publer does this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2ESL66"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644516498.337669",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ECD16D44-AFFE-481B-B906-C20541E92098",
+        "type": "message",
+        "text": "If it does, <@UUH2ESL66> … share with the group. There is a lot that LinkedIn doesn't actually let you do in its API. But I’m always surprised when it changes sometimes!",
+        "user": "U032J4EUCHF",
+        "ts": "1644529503.692679",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g5e47ef63fb2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e47ef63fb2243a6122e2e611cf80c7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Jeff",
+            "real_name": "Jeff Fryer",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jeff.fryer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DwNYb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it does, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2ESL66"
+                            },
+                            {
+                                "type": "text",
+                                "text": " … share with the group. There is a lot that LinkedIn doesn't actually let you do in its API. But I’m always surprised when it changes sometimes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644516498.337669",
+        "parent_user_id": "UUH2ESL66"
+    },
+    {
+        "type": "message",
+        "text": "So far so good, <@U02AR2XSN1M> (cc <@U032J4EUCHF>)",
+        "files": [
+            {
+                "id": "F032PF4SATE",
+                "created": 1644529868,
+                "timestamp": 1644529868,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UUH2ESL66",
+                "editable": false,
+                "size": 82818,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F032PF4SATE\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F032PF4SATE\/download\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032PF4SATE-cab3091f76\/image_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032PF4SATE-cab3091f76\/image_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032PF4SATE-cab3091f76\/image_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 317,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032PF4SATE-cab3091f76\/image_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 423,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032PF4SATE-cab3091f76\/image_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032PF4SATE-cab3091f76\/image_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 635,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032PF4SATE-cab3091f76\/image_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 705,
+                "original_w": 947,
+                "original_h": 835,
+                "thumb_tiny": "AwAqADCpge9G0UtFAAse7pTvIb0qzYRo5k3jOMVd+zx\/3P1NUuXqS79DJ8lvT9aaybTg1sfZ4\/7n6mqF8ipMAowNtD5egK\/UrUUUVJRd07GZAfar\/wCNUdN6yfhV7PtQAuazdR\/4+B\/u1o59qzdRz9oXGPuigCrRRRQBe03rJ+FX+tYW5l+6SPoaPMf++350AbKy7s\/I4+oqhqHM6\/7tVfNk\/vt+dG4tyxJPvQB\/\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UUH2ESL66\/F032PF4SATE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F032PF4SATE-e170129139",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UUH2ESL66",
+        "display_as_bot": false,
+        "ts": "1644529878.719219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vf08Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So far so good, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AR2XSN1M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032J4EUCHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "223d0ca8-4585-48f4-abfb-d3dcf21a4b7b",
+        "thread_ts": "1644516498.337669",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U01P13NTGG6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Huzzah! Thanks <@U02AR2XSN1M>!",
+        "files": [
+            {
+                "id": "F032ZQKMGQH",
+                "created": 1644530048,
+                "timestamp": 1644530048,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UUH2ESL66",
+                "editable": false,
+                "size": 107579,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F032ZQKMGQH\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F032ZQKMGQH\/download\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032ZQKMGQH-c738a634e8\/image_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032ZQKMGQH-c738a634e8\/image_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032ZQKMGQH-c738a634e8\/image_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 218,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032ZQKMGQH-c738a634e8\/image_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 291,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032ZQKMGQH-c738a634e8\/image_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032ZQKMGQH-c738a634e8\/image_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 437,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F032ZQKMGQH-c738a634e8\/image_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 485,
+                "original_w": 859,
+                "original_h": 521,
+                "thumb_tiny": "AwAdADC+xCkuc8Dmo1uVYgKrnJxnFT\/w0i8DAGB9MUANEmWYbW+X1FP6j\/61GBnvQAPSgBAuMY7dKXGBRgelGPagBKKKKAGqUDPjOc88HrSmRQQOefalPNGB6UALkUcUfhRQB\/\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UUH2ESL66\/F032ZQKMGQH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F032ZQKMGQH-08a2bf3119",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UUH2ESL66",
+        "display_as_bot": false,
+        "ts": "1644530050.631319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iT\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Huzzah! Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AR2XSN1M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b821136d-c57c-4a71-aac4-7d3402e78fc6",
+        "thread_ts": "1644516498.337669",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02U23PJU1K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2c83ecb-e57a-468b-8fba-4d00da0b1fa6",
+        "type": "message",
+        "text": "Haha no worries. It's a great platform! So simple compared to some of the others (Buffer does my head in :sweat_smile:)",
+        "user": "U02AR2XSN1M",
+        "ts": "1644530115.872069",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/oyA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha no worries. It's a great platform! So simple compared to some of the others (Buffer does my head in "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644516498.337669",
+        "parent_user_id": "UUH2ESL66"
+    },
+    {
+        "client_msg_id": "8ab62471-3110-4336-8461-3ab158a37ce7",
+        "type": "message",
+        "text": "Hey Eric, so lovely to see your face pop up! Hope you've been well. Would you mind sharing an overview of your Notion set up? I was considering Notion to replace Airtable as our WIP hub, but wasn't sure if editing written content in Notion has the same flexibility at G Docs.",
+        "user": "UUH2C52DQ",
+        "ts": "1644531542.965889",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g8319d14fdf8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8319d14fdf895c07e6a243c5c23179c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Olivia Blazevic",
+            "display_name": "Olivia Blazevic",
+            "team": "TJE58GTJL",
+            "name": "olivia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eXod",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Eric, so lovely to see your face pop up! Hope you've been well. Would you mind sharing an overview of your Notion set up? I was considering Notion to replace Airtable as our WIP hub, but wasn't sure if editing written content in Notion has the same flexibility at G Docs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644471803.132329",
+        "parent_user_id": "UUH2C52DQ"
+    },
+    {
+        "client_msg_id": "14328455-7F87-447A-B14D-DAC4EC4B09B0",
+        "type": "message",
+        "text": "Whoa! Happy to be wrong. And looks like I have something to go to my platform of choice about now!!!",
+        "user": "U032J4EUCHF",
+        "ts": "1644531630.254189",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g5e47ef63fb2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e47ef63fb2243a6122e2e611cf80c7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Jeff",
+            "real_name": "Jeff Fryer",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jeff.fryer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Dz3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whoa! Happy to be wrong. And looks like I have something to go to my platform of choice about now!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644516498.337669",
+        "parent_user_id": "UUH2ESL66"
+    },
+    {
+        "client_msg_id": "1912e4b3-c395-48b2-92f8-5d533f7935d9",
+        "type": "message",
+        "text": "Notion recently added a great QOL feature that allows you to select text without selecting the whole block that has made editing a lot less annoying. :pray:",
+        "user": "U01P13NTGG6",
+        "ts": "1644544553.484069",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FK2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Notion recently added a great QOL feature that allows you to select text without selecting the whole block that has made editing a lot less annoying. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644471803.132329",
+        "parent_user_id": "UUH2C52DQ"
+    },
+    {
+        "client_msg_id": "a3cd32ff-d3b6-4bb8-aa82-ee7710d455b5",
+        "type": "message",
+        "text": "I still do actual blog writing in Google docs because it's less finicky. But we manage documentation and our workflow in Notion.",
+        "user": "UUH2ESL66",
+        "ts": "1644547115.593639",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYUWd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I still do actual blog writing in Google docs because it's less finicky. But we manage documentation and our workflow in Notion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644471803.132329",
+        "parent_user_id": "UUH2C52DQ"
+    }
+]

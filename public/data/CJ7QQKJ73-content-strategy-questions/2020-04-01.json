@@ -1,0 +1,2223 @@
+[
+    {
+        "client_msg_id": "869d535e-c360-4ac4-9bf8-ee4fd67b2249",
+        "type": "message",
+        "text": "Glen Fisher - the art of the click",
+        "user": "UJJFDTN8G",
+        "ts": "1585724506.066900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1uH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glen Fisher - the art of the click"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585723540.066800",
+        "parent_user_id": "UUJBTMPSP"
+    },
+    {
+        "client_msg_id": "87dc7324-5966-4ab6-98b8-e2609caa635f",
+        "type": "message",
+        "text": "Hey Rebekah, Dave Gerhardt shared an example I really liked on <https:\/\/www.patreon.com\/davegerhardt|his Patreon> podcast. Essentially, his best-performing cold outreach email at <http:\/\/www.drift.com|Drift> abandoned the idea of trying to secure a meeting or call, instead it read (and I'm paraphrasing from memory):\n\nSubject: Only forms?\nBody: Hey [name], I was taking a look at your website and noticed you're only using email forms. Is there a particular reason for that?\n\nDave speculates this performed so well because:\n1. It was short and punchy.\n2. It captured intrigue (\"Only forms? What does he mean only forms? What are the alternatives to forms I don't know about?\").\n3. It was ultra low friction - all it asked for was an email reply, nothing else.\nBy aiming for just getting a reply to the email, he could continue the conversation in follow up emails, leading to booking calls\/meetings.\n\nThat's just one way of doing this - I'm sure there are thousands of email styles that have worked brilliantly for thousands of different people. :slightly_smiling_face:",
+        "user": "UUVS4LBPF",
+        "ts": "1585724839.067100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9df64f1c14b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/992848122279_9df64f1c14b5557fbbad_72.jpg",
+            "first_name": "Brad",
+            "real_name": "Brad Ewin",
+            "display_name": "Brad",
+            "team": "TJE58GTJL",
+            "name": "bewin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUVS4LBPF",
+            "ts": "1588170363.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DI=8X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Rebekah, Dave Gerhardt shared an example I really liked on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.patreon.com\/davegerhardt",
+                                "text": "his Patreon"
+                            },
+                            {
+                                "type": "text",
+                                "text": " podcast. Essentially, his best-performing cold outreach email at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.drift.com",
+                                "text": "Drift"
+                            },
+                            {
+                                "type": "text",
+                                "text": " abandoned the idea of trying to secure a meeting or call, instead it read (and I'm paraphrasing from memory):\n\nSubject: Only forms?\nBody: Hey [name], I was taking a look at your website and noticed you're only using email forms. Is there a particular reason for that?\n\nDave speculates this performed so well because:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It was short and punchy."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It captured intrigue (\"Only forms? What does he mean only forms? What are the alternatives to forms I don't know about?\")."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It was ultra low friction - all it asked for was an email reply, nothing else."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nBy aiming for just getting a reply to the email, he could continue the conversation in follow up emails, leading to booking calls\/meetings.\n\nThat's just one way of doing this - I'm sure there are thousands of email styles that have worked brilliantly for thousands of different people. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585679224.062900",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "61F539DA-700F-4C46-8034-BF0F96D61BC0",
+        "type": "message",
+        "text": "Ann Handley’s Everybody Writes ",
+        "user": "U0105JEFJ1F",
+        "ts": "1585727183.067800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g29d59714b66",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/29d59714b66ad72852d980d95f2e3b5e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Masooma",
+            "real_name": "Masooma Memon",
+            "display_name": "Masooma",
+            "team": "TJE58GTJL",
+            "name": "masoomame2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "66sA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ann Handley’s Everybody Writes "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585723540.066800",
+        "parent_user_id": "UUJBTMPSP",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UUVC10WAY",
+                    "UUVRK10QG",
+                    "UUVC7TMFW",
+                    "UUVS5QTM3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab50bdc1-3881-42f9-9999-7d2ddfa4a790",
+        "type": "message",
+        "text": "<@UJJFDTN8G> <@U0105JEFJ1F> Brilliant, thank you :pray:",
+        "user": "UUJBTMPSP",
+        "ts": "1585730250.068000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e13dba813acc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/976318873745_e13dba813accb559c1ce_72.jpg",
+            "first_name": "",
+            "real_name": "Katharina Hoehendinger",
+            "display_name": "Katharina Hoehendinger",
+            "team": "TJE58GTJL",
+            "name": "k.hoehendinger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJJFDTN8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0105JEFJ1F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Brilliant, thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585723540.066800",
+        "parent_user_id": "UUJBTMPSP",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U0105JEFJ1F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56455913-3951-45b7-9a58-bb0a9f36c198",
+        "type": "message",
+        "text": "Went through my Pocket, found these 3 that are pretty good :grin:\n• <https:\/\/copyhackers.com\/2019\/05\/writing-case-studies\/>\n• <https:\/\/copyhackers.com\/2015\/10\/copywriting-formula\/>\n• <https:\/\/www.slideshare.net\/ReferralCandy\/how-to-write-good-42635109>",
+        "user": "UJFELLXSR",
+        "ts": "1585731668.068200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae8f2247231d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-09\/1232164853826_ae8f2247231dabc86588_72.jpg",
+            "first_name": "jean-baptiste",
+            "real_name": "jean-baptiste",
+            "display_name": "jean-baptiste",
+            "team": "TJE58GTJL",
+            "name": "jean-baptiste",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJFELLXSR",
+            "ts": "1585747039.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lb6m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Went through my Pocket, found these 3 that are pretty good "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/copyhackers.com\/2019\/05\/writing-case-studies\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/copyhackers.com\/2015\/10\/copywriting-formula\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.slideshare.net\/ReferralCandy\/how-to-write-good-42635109"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585723540.066800",
+        "parent_user_id": "UUJBTMPSP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0105JEFJ1F",
+                    "UUVC0EX8C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da9fa36c-4904-45bb-86ff-5951a4c18d65",
+        "type": "message",
+        "text": "<@UJJFDTN8G>, Do you track the blog to sales landing page in Google Analytics?",
+        "user": "UV5V2P0VB",
+        "ts": "1585739204.069000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HHF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJJFDTN8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Do you track the blog to sales landing page in Google Analytics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584963226.262900",
+        "parent_user_id": "UMU130KPZ"
+    },
+    {
+        "client_msg_id": "eba4aa1d-d2eb-4361-87c5-37496b3fddc4",
+        "type": "message",
+        "text": "Yep. Our blog (<http:\/\/dispatch.m.io|dispatch.m.io>) is on a different domain to our sales landing page (<http:\/\/m.io|m.io>) so we have it setup as an event currently.",
+        "user": "UJJFDTN8G",
+        "ts": "1585739449.069300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D4l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep. Our blog ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dispatch.m.io",
+                                "text": "dispatch.m.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") is on a different domain to our sales landing page ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/m.io",
+                                "text": "m.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") so we have it setup as an event currently."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584963226.262900",
+        "parent_user_id": "UMU130KPZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV5V2P0VB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f86e4516-f12d-44af-b42b-445a7f6409ca",
+        "type": "message",
+        "text": "We're merging properties so it's all one tomorrow actually. So it will be easier to find trends and high performing pages.",
+        "user": "UJJFDTN8G",
+        "ts": "1585739478.069600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rL6d\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're merging properties so it's all one tomorrow actually. So it will be easier to find trends and high performing pages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584963226.262900",
+        "parent_user_id": "UMU130KPZ"
+    },
+    {
+        "type": "message",
+        "text": "You can see we had 259 people convert this week. You can then drill down into which pages on <http:\/\/m.io|m.io> they clicked to (request demo, how it works, pricing) and from which pages on the blog they clicked from.",
+        "files": [
+            {
+                "id": "F01170C8U2U",
+                "created": 1585739725,
+                "timestamp": 1585739725,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UJJFDTN8G",
+                "editable": false,
+                "size": 228769,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01170C8U2U\/image_from_ios.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01170C8U2U\/download\/image_from_ios.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01170C8U2U-25fbc91ca8\/image_from_ios_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABax9mP94fkaPsrf3h+VWSGzxSqDjmp5UVzsrfZWxjcPypPsrf3h+VWqKOVBzsSnZ96bRVEi0ZpKKACikpNyn+IUAOooooA\/\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJJFDTN8G\/F01170C8U2U\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F01170C8U2U-82645751c8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UJJFDTN8G",
+        "display_as_bot": false,
+        "ts": "1585739730.069900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1HcyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can see we had 259 people convert this week. You can then drill down into which pages on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/m.io",
+                                "text": "m.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " they clicked to (request demo, how it works, pricing) and from which pages on the blog they clicked from."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f7575a03-491d-4021-b93f-f3d55ca40c59",
+        "thread_ts": "1584963226.262900",
+        "parent_user_id": "UMU130KPZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV5V2P0VB",
+                    "UMU130KPZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fe8bb4a-3a28-4429-a544-d8ac83adebe1",
+        "type": "message",
+        "text": "Hi everyone! Does anyone use SMS marketing to help them attract leads, remind clients of appointments, or promote new services? We use HubSpot as a CRM\/CMS and my boss wants to use Chatflow, but I'm not sure if you can also text contacts. :thinking_face: I do know we can connect it to our FB page. I'm familiar with ManyChat, but my boss doesn't want to add any new expenses with their pro plan since we are losing business account from Covid-19 disruptions. Let me know your suggesstions. Thanks! :pray:",
+        "user": "UV5V2P0VB",
+        "ts": "1585744003.075600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZkX8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! Does anyone use SMS marketing to help them attract leads, remind clients of appointments, or promote new services? We use HubSpot as a CRM\/CMS and my boss wants to use Chatflow, but I'm not sure if you can also text contacts. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I do know we can connect it to our FB page. I'm familiar with ManyChat, but my boss doesn't want to add any new expenses with their pro plan since we are losing business account from Covid-19 disruptions. Let me know your suggesstions. Thanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585744003.075600",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1586179166.110200",
+        "reply_users": [
+            "UJ53ETCLB",
+            "UV5V2P0VB",
+            "UUH28Q5D0"
+        ],
+        "replies": [
+            {
+                "user": "UJ53ETCLB",
+                "ts": "1585745336.077500"
+            },
+            {
+                "user": "UV5V2P0VB",
+                "ts": "1585756476.080500"
+            },
+            {
+                "user": "UJ53ETCLB",
+                "ts": "1585756693.080700"
+            },
+            {
+                "user": "UV5V2P0VB",
+                "ts": "1585756875.081100"
+            },
+            {
+                "user": "UJ53ETCLB",
+                "ts": "1585756975.081400"
+            },
+            {
+                "user": "UUH28Q5D0",
+                "ts": "1585939518.101700"
+            },
+            {
+                "user": "UV5V2P0VB",
+                "ts": "1585999017.102000"
+            },
+            {
+                "user": "UV5V2P0VB",
+                "ts": "1585999078.102200"
+            },
+            {
+                "user": "UJ53ETCLB",
+                "ts": "1586179166.110200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6738e9b9-ab06-40dc-8714-7a9c7c6db155",
+        "type": "message",
+        "text": "ManyChat is the industry darling, so you'll hear a lot of people recommending it. I've never personally used it, but I hear good things. We personally don't use SMS marketing except when it's integrated into a service we use like Calendly",
+        "user": "UJ53ETCLB",
+        "ts": "1585745336.077500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "23747b1b645e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-07\/628585710176_23747b1b645ef10c8f5e_72.jpg",
+            "first_name": "Charles",
+            "real_name": "Charles Forster",
+            "display_name": "Charles Forster",
+            "team": "TJE58GTJL",
+            "name": "design",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jzzb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ManyChat is the industry darling, so you'll hear a lot of people recommending it. I've never personally used it, but I hear good things. We personally don't use SMS marketing except when it's integrated into a service we use like Calendly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585744003.075600",
+        "parent_user_id": "UV5V2P0VB"
+    },
+    {
+        "client_msg_id": "3c0d6203-01c7-4224-b1df-b0d62059b820",
+        "type": "message",
+        "text": "<@UJFELLXSR> Thank you so much :smiley:",
+        "user": "UUJBTMPSP",
+        "ts": "1585746901.077700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e13dba813acc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/976318873745_e13dba813accb559c1ce_72.jpg",
+            "first_name": "",
+            "real_name": "Katharina Hoehendinger",
+            "display_name": "Katharina Hoehendinger",
+            "team": "TJE58GTJL",
+            "name": "k.hoehendinger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LV038",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJFELLXSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you so much "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585723540.066800",
+        "parent_user_id": "UUJBTMPSP",
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "UJFELLXSR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6B40C581-FE83-42C9-A9B2-4C509D13352E",
+        "type": "message",
+        "text": "Can anyone provide examples of how their content teams are structured? Particularly for career growth?",
+        "user": "UUVRCKTJ4",
+        "ts": "1585755607.080100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e40c809d58df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-23\/1395527182065_e40c809d58dfc0a8ca3c_72.png",
+            "first_name": "Gail",
+            "real_name": "Gail Axelrod",
+            "display_name": "Gail Axelrod",
+            "team": "TJE58GTJL",
+            "name": "gaxelrod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4TBw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can anyone provide examples of how their content teams are structured? Particularly for career growth?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "reply_count": 16,
+        "reply_users_count": 8,
+        "latest_reply": "1587085355.241600",
+        "reply_users": [
+            "UUVC9HJTE",
+            "UJG12DM1V",
+            "UJE5LQ2JC",
+            "UUVS4LBPF",
+            "ULJBEFSJJ",
+            "URB31QKM4",
+            "US478JFCY",
+            "UJG24P8P6"
+        ],
+        "replies": [
+            {
+                "user": "UUVC9HJTE",
+                "ts": "1585755816.080300"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1585756806.080900"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1585757203.081600"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1585757436.081800"
+            },
+            {
+                "user": "UUVS4LBPF",
+                "ts": "1585759432.082000"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1585764716.088600"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1585765165.088800"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1585765281.089000"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1585765477.089200"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1585765609.089400"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1585784952.099700"
+            },
+            {
+                "user": "US478JFCY",
+                "ts": "1586120703.103400"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1586179491.116800"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1586179633.119400"
+            },
+            {
+                "user": "US478JFCY",
+                "ts": "1586718617.200300"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1587085355.241600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UUVC9HJTE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UV5V2P0VB",
+                    "UUH2ESL66",
+                    "UJG46SBV3",
+                    "U0108B9JJ3C"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b497ab2f-eb2e-4d04-96a5-8e55a8237a63",
+        "type": "message",
+        "text": "I run my own gig, so super interested to hear what others in bigger teams have to say on this :eyes:",
+        "user": "UUVC9HJTE",
+        "ts": "1585755816.080300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "243e712f81bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/969140406898_243e712f81bc05c4c428_72.jpg",
+            "first_name": "Nina",
+            "real_name": "Nina P",
+            "display_name": "Nina P",
+            "team": "TJE58GTJL",
+            "name": "nina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rrg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I run my own gig, so super interested to hear what others in bigger teams have to say on this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4"
+    },
+    {
+        "client_msg_id": "5cffc8e1-089b-434c-8939-05494cb310e6",
+        "type": "message",
+        "text": "Thanks, <@UJ53ETCLB>. I've used ManyChat and really like it, but not sure if I can convince them to sign up for a trial. They really don't want to add new expenses even though I'm pretty sure they will see the return. We have about 7k contacts but only about 500 are really engaged. So I wonder if we should message only clients or use it more for promoting new services to our entire list of contacts. My guess is that they want to recoup revenue lost from clients that dropped us recently. :shrug:",
+        "user": "UV5V2P0VB",
+        "ts": "1585756476.080500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pfS7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ53ETCLB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I've used ManyChat and really like it, but not sure if I can convince them to sign up for a trial. They really don't want to add new expenses even though I'm pretty sure they will see the return. We have about 7k contacts but only about 500 are really engaged. So I wonder if we should message only clients or use it more for promoting new services to our entire list of contacts. My guess is that they want to recoup revenue lost from clients that dropped us recently. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shrug"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585744003.075600",
+        "parent_user_id": "UV5V2P0VB"
+    },
+    {
+        "client_msg_id": "981fcd59-c232-4b08-80cd-20aafdb47252",
+        "type": "message",
+        "text": "I'd tread carefully on messaging contacts out of the blue. Make sure you're abiding by the CANSPAM laws, otherwise you could find yourself in a world of hurt :slightly_smiling_face:",
+        "user": "UJ53ETCLB",
+        "ts": "1585756693.080700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "23747b1b645e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-07\/628585710176_23747b1b645ef10c8f5e_72.jpg",
+            "first_name": "Charles",
+            "real_name": "Charles Forster",
+            "display_name": "Charles Forster",
+            "team": "TJE58GTJL",
+            "name": "design",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUAR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd tread carefully on messaging contacts out of the blue. Make sure you're abiding by the CANSPAM laws, otherwise you could find yourself in a world of hurt "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585744003.075600",
+        "parent_user_id": "UV5V2P0VB"
+    },
+    {
+        "client_msg_id": "d2c519e1-4678-4b7a-bb28-140a9a6fdb5e",
+        "type": "message",
+        "text": "I'm seeing more companies moves away from having a dedicated content team. Ex: during my time at HubSpot, the \"content team\" restructured several times, the last iteration moved the blog team and lead-gen folks over to Growth, and more editorial content sits on a brand team alongside social (If I'm remember all this correctly).\n\nI'm seeing others adopt a similar approach. I spoke with a marketing VP at a ~50ish person company recently whose marketing team is split by demand gen, product marketing, and brand. Each of those has a content component, but there is no single \"content team\"",
+        "user": "UJG12DM1V",
+        "ts": "1585756806.080900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TuiJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm seeing more companies moves away from having a dedicated content team. Ex: during my time at HubSpot, the \"content team\" restructured several times, the last iteration moved the blog team and lead-gen folks over to Growth, and more editorial content sits on a brand team alongside social (If I'm remember all this correctly).\n\nI'm seeing others adopt a similar approach. I spoke with a marketing VP at a ~50ish person company recently whose marketing team is split by demand gen, product marketing, and brand. Each of those has a content component, but there is no single \"content team\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4"
+    },
+    {
+        "client_msg_id": "0945e8bd-3569-4c1f-a52c-7194472765fb",
+        "type": "message",
+        "text": "<@UJ53ETCLB>, definitely :+1:. I would follow the laws with allowing them to opt-in. Manychat makes it pretty easy.",
+        "user": "UV5V2P0VB",
+        "ts": "1585756875.081100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Cc1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ53ETCLB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", definitely "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I would follow the laws with allowing them to opt-in. Manychat makes it pretty easy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585744003.075600",
+        "parent_user_id": "UV5V2P0VB"
+    },
+    {
+        "client_msg_id": "f910c9c6-5298-4902-83bb-abdbf222bfeb",
+        "type": "message",
+        "text": "Right on, well best of luck convincing them! You could always try to convince your boss to  do a trial with them and set it up so if you reach goal XYZ they sign up for the service. I was able to convince my partners to do something similar recently with a biz dev campaign and it worked great",
+        "user": "UJ53ETCLB",
+        "ts": "1585756975.081400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "23747b1b645e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-07\/628585710176_23747b1b645ef10c8f5e_72.jpg",
+            "first_name": "Charles",
+            "real_name": "Charles Forster",
+            "display_name": "Charles Forster",
+            "team": "TJE58GTJL",
+            "name": "design",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Itz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right on, well best of luck convincing them! You could always try to convince your boss to  do a trial with them and set it up so if you reach goal XYZ they sign up for the service. I was able to convince my partners to do something similar recently with a biz dev campaign and it worked great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585744003.075600",
+        "parent_user_id": "UV5V2P0VB",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV5V2P0VB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b7c886a-09da-48b2-8a8a-de67e78cd729",
+        "type": "message",
+        "text": "At a previous gig (1000+ employees) we split content into “agency” and “creative” Agency = all the stuff where the “client” was someone internal like sales enablement. Creative = editorial work like blog posts, video interviews, etc. where the “client” is the reader \/ customer",
+        "user": "UJE5LQ2JC",
+        "ts": "1585757203.081600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7in3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At a previous gig (1000+ employees) we split content into “agency” and “creative” Agency = all the stuff where the “client” was someone internal like sales enablement. Creative = editorial work like blog posts, video interviews, etc. where the “client” is the reader \/ customer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUVS5QTM3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c61701c2-464a-4e63-b0ca-4e63f6080e3f",
+        "type": "message",
+        "text": "ooh, I like that!",
+        "user": "UJG12DM1V",
+        "ts": "1585757436.081800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gH1R4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ooh, I like that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4"
+    },
+    {
+        "client_msg_id": "9363fb2f-4ce1-4b8e-a8cc-b7c9f4266446",
+        "type": "message",
+        "text": "I've spoken with a couple of \"writers\" at tech companies recently, who work in a vaguely similar approach to what you're both saying, Janessa and Sean.\n\nThey act as internal agencies for many teams\/functions within the company, supporting where needed.\n\nInterestingly, in both these companies there are also named \"content\" teams, who they seem to have no overlap with. These \"content\" teams appear to focus largely on blog-type content, and perhaps some other mediums too.\n\nAt GoCardless, where I work, we have \"Content\" as a team that sits under a broader \"Comms\" umbrella, which sits within the even broader (broadest?) \"Marketing\" team. The individuals within this team tend to have separate primary focuses - mine, for instance, is our high-volume blog content (for SEO) and major research reports.",
+        "user": "UUVS4LBPF",
+        "ts": "1585759432.082000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9df64f1c14b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/992848122279_9df64f1c14b5557fbbad_72.jpg",
+            "first_name": "Brad",
+            "real_name": "Brad Ewin",
+            "display_name": "Brad",
+            "team": "TJE58GTJL",
+            "name": "bewin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W=S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've spoken with a couple of \"writers\" at tech companies recently, who work in a vaguely similar approach to what you're both saying, Janessa and Sean.\n\nThey act as internal agencies for many teams\/functions within the company, supporting where needed.\n\nInterestingly, in both these companies there are also named \"content\" teams, who they seem to have no overlap with. These \"content\" teams appear to focus largely on blog-type content, and perhaps some other mediums too.\n\nAt GoCardless, where I work, we have \"Content\" as a team that sits under a broader \"Comms\" umbrella, which sits within the even broader (broadest?) \"Marketing\" team. The individuals within this team tend to have separate primary focuses - mine, for instance, is our high-volume blog content (for SEO) and major research reports."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4"
+    },
+    {
+        "client_msg_id": "68a90530-c324-44be-9e0c-7bf0a21b9fa9",
+        "type": "message",
+        "text": "Just throwing this out there because I am hitting a creative wall - does anyone have a good word that would encompass guides, webinars and reports - that *isn’t* resources?",
+        "user": "UV5GVN7M2",
+        "ts": "1585761290.083100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8878aef67926",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/981129670690_8878aef679261fd77022_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Z",
+            "display_name": "Megan Z",
+            "team": "TJE58GTJL",
+            "name": "mzink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VXqK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just throwing this out there because I am hitting a creative wall - does anyone have a good word that would encompass guides, webinars and reports - that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "isn’t ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "resources?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "reply_count": 13,
+        "reply_users_count": 7,
+        "latest_reply": "1586370068.164300",
+        "reply_users": [
+            "UUVS4LBPF",
+            "UJE5LQ2JC",
+            "UV5GVN7M2",
+            "UJG9WTEKG",
+            "UJFELMVU1",
+            "UVCDN5SQZ",
+            "UUXMC3ZFH"
+        ],
+        "replies": [
+            {
+                "user": "UUVS4LBPF",
+                "ts": "1585761342.083200"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1585761354.083400"
+            },
+            {
+                "user": "UV5GVN7M2",
+                "ts": "1585762966.088200"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1585763802.088400"
+            },
+            {
+                "user": "UUVS4LBPF",
+                "ts": "1585767779.089800"
+            },
+            {
+                "user": "UV5GVN7M2",
+                "ts": "1585767816.090000"
+            },
+            {
+                "user": "UV5GVN7M2",
+                "ts": "1585767828.090200"
+            },
+            {
+                "user": "UUVS4LBPF",
+                "ts": "1585768830.090500"
+            },
+            {
+                "user": "UV5GVN7M2",
+                "ts": "1585773748.090700"
+            },
+            {
+                "user": "UJFELMVU1",
+                "ts": "1585778044.090900"
+            },
+            {
+                "user": "UVCDN5SQZ",
+                "ts": "1585839387.100400"
+            },
+            {
+                "user": "UUXMC3ZFH",
+                "ts": "1586365360.161900"
+            },
+            {
+                "user": "UV5GVN7M2",
+                "ts": "1586370068.164300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1586375634.031800"
+    },
+    {
+        "client_msg_id": "55f14512-17b8-4136-be2f-faac1d12e647",
+        "type": "message",
+        "text": "Sorry Megan, being that annoying devil's advocate here - why averse to \"resources\"?",
+        "user": "UUVS4LBPF",
+        "ts": "1585761342.083200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9df64f1c14b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/992848122279_9df64f1c14b5557fbbad_72.jpg",
+            "first_name": "Brad",
+            "real_name": "Brad Ewin",
+            "display_name": "Brad",
+            "team": "TJE58GTJL",
+            "name": "bewin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hyjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry Megan, being that annoying devil's advocate here - why averse to \"resources\"?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2"
+    },
+    {
+        "client_msg_id": "9e973837-6d0d-4968-b3c6-d3f2f1ae4119",
+        "type": "message",
+        "text": "Education, Training, Career Development",
+        "user": "UJE5LQ2JC",
+        "ts": "1585761354.083400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLge0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Education, Training, Career Development"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2"
+    },
+    {
+        "client_msg_id": "d24245d6-7e75-46b6-bff5-a0da68f1703c",
+        "type": "message",
+        "text": "<@UUVS4LBPF> fair! ‘Resources’ will be the navigation bar item",
+        "user": "UV5GVN7M2",
+        "ts": "1585762966.088200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8878aef67926",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/981129670690_8878aef679261fd77022_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Z",
+            "display_name": "Megan Z",
+            "team": "TJE58GTJL",
+            "name": "mzink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFmNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUVS4LBPF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fair! ‘Resources’ will be the navigation bar item"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2"
+    },
+    {
+        "client_msg_id": "59443f55-b8de-4308-b701-99702d43ec71",
+        "type": "message",
+        "text": "library",
+        "user": "UJG9WTEKG",
+        "ts": "1585763802.088400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AcMgP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "library"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UUVS4LBPF",
+                    "UJE5LQ2JC",
+                    "UV5V2P0VB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad13e64b-a4ff-4c33-953c-c33cee090de0",
+        "type": "message",
+        "text": "our team is currently split into \"content\" &amp; \"demand gen\", with content including product marketing, webinars, emails, and long form content. as the SEO manager and primary blog content writer, i'm on demand gen (since it drives ~50% of our free trials and i work v closely with our PPC manager) along with the content specialist i manage who manages our social media. it's an interesting split, but it seems to be going well for us so far",
+        "user": "ULJBEFSJJ",
+        "ts": "1585764716.088600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bdC0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "our team is currently split into \"content\" & \"demand gen\", with content including product marketing, webinars, emails, and long form content. as the SEO manager and primary blog content writer, i'm on demand gen (since it drives ~50% of our free trials and i work v closely with our PPC manager) along with the content specialist i manage who manages our social media. it's an interesting split, but it seems to be going well for us so far"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4"
+    },
+    {
+        "client_msg_id": "9dd57725-08dc-49a2-8e83-97c384e75d68",
+        "type": "message",
+        "text": "I am so interested in teams where SEO works closely with PPC, and would love to know more about how you coordinate efforts.",
+        "user": "UJG12DM1V",
+        "ts": "1585765165.088800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mLG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am so interested in teams where SEO works closely with PPC, and would love to know more about how you coordinate efforts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4"
+    },
+    {
+        "client_msg_id": "4357970f-0fba-4caf-a970-b8404f693adc",
+        "type": "message",
+        "text": "<@UJG12DM1V> happy to answer any questions you have! feel free to DM me and I'll do my best to help",
+        "user": "ULJBEFSJJ",
+        "ts": "1585765281.089000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " happy to answer any questions you have! feel free to DM me and I'll do my best to help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4"
+    },
+    {
+        "client_msg_id": "e2b54858-9b8f-4891-bc6b-b3c67df4f30f",
+        "type": "message",
+        "text": "ty! I don't have time to take you up on that offer right now :slightly_smiling_face: but if you've written anything about it I would love to read",
+        "user": "UJG12DM1V",
+        "ts": "1585765477.089200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8RI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ty! I don't have time to take you up on that offer right now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but if you've written anything about it I would love to read"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4"
+    },
+    {
+        "client_msg_id": "7acf216b-50ef-42d2-8ac0-cf5157cf2a7a",
+        "type": "message",
+        "text": "I do not, sorry! If it comes up again I'll try to expand on it for you though",
+        "user": "ULJBEFSJJ",
+        "ts": "1585765609.089400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zb\/7h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do not, sorry! If it comes up again I'll try to expand on it for you though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG12DM1V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83d46f7e-39a1-44ed-9586-3fa810278818",
+        "type": "message",
+        "text": "<@UV5GVN7M2> Got you. Where's this alternative _not-resources_ word being used? :thinking_face:",
+        "user": "UUVS4LBPF",
+        "ts": "1585767779.089800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9df64f1c14b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/992848122279_9df64f1c14b5557fbbad_72.jpg",
+            "first_name": "Brad",
+            "real_name": "Brad Ewin",
+            "display_name": "Brad",
+            "team": "TJE58GTJL",
+            "name": "bewin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MwZ5W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV5GVN7M2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Got you. Where's this alternative "
+                            },
+                            {
+                                "type": "text",
+                                "text": "not-resources",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " word being used? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2"
+    },
+    {
+        "client_msg_id": "ff9e23bf-81dc-413e-82ec-1e015c45067c",
+        "type": "message",
+        "text": "it’ll be a label of the assets when you hover over the ‘resources’ button",
+        "user": "UV5GVN7M2",
+        "ts": "1585767816.090000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8878aef67926",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/981129670690_8878aef679261fd77022_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Z",
+            "display_name": "Megan Z",
+            "team": "TJE58GTJL",
+            "name": "mzink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2fi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it’ll be a label of the assets when you hover over the ‘resources’ button"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2"
+    },
+    {
+        "client_msg_id": "c28cf529-8262-4bb8-bda5-97fd1598a966",
+        "type": "message",
+        "text": "so ‘resources’ &gt;&gt; case studies, blog, XX",
+        "user": "UV5GVN7M2",
+        "ts": "1585767828.090200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8878aef67926",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/981129670690_8878aef679261fd77022_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Z",
+            "display_name": "Megan Z",
+            "team": "TJE58GTJL",
+            "name": "mzink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZdXT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so ‘resources’ >> case studies, blog, XX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2"
+    },
+    {
+        "client_msg_id": "c3e923a3-88b1-46ac-9e95-ffaa1bca39fd",
+        "type": "message",
+        "text": "Ahhh, I see. Personally, I like Jimmy's suggestion of Library. :ok_hand:",
+        "user": "UUVS4LBPF",
+        "ts": "1585768830.090500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9df64f1c14b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/992848122279_9df64f1c14b5557fbbad_72.jpg",
+            "first_name": "Brad",
+            "real_name": "Brad Ewin",
+            "display_name": "Brad",
+            "team": "TJE58GTJL",
+            "name": "bewin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7\/fm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahhh, I see. Personally, I like Jimmy's suggestion of Library. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2"
+    },
+    {
+        "client_msg_id": "cd16f77c-0902-4f97-9c61-ca8ce91c1763",
+        "type": "message",
+        "text": "Awsome - these are really great everyone, thank you for your help!!",
+        "user": "UV5GVN7M2",
+        "ts": "1585773748.090700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8878aef67926",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/981129670690_8878aef679261fd77022_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Z",
+            "display_name": "Megan Z",
+            "team": "TJE58GTJL",
+            "name": "mzink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "paBa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awsome - these are really great everyone, thank you for your help!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2"
+    },
+    {
+        "client_msg_id": "f63d1270-945f-45a7-96ba-25e23f0fa2ca",
+        "type": "message",
+        "text": "A couple other ideas that could work depending on context: hub, collection, kit",
+        "user": "UJFELMVU1",
+        "ts": "1585778044.090900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f99c9b96a13d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-27\/3177379518961_f99c9b96a13d5b027747_72.jpg",
+            "first_name": "Eliza",
+            "real_name": "Eliza Wright",
+            "display_name": "Eliza Wright",
+            "team": "TJE58GTJL",
+            "name": "eliza1wright",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EM6P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A couple other ideas that could work depending on context: hub, collection, kit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585761290.083100",
+        "parent_user_id": "UV5GVN7M2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV5GVN7M2",
+                    "UV5V2P0VB",
+                    "UUVRC8PS4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13125FE1-C034-49E3-A618-89C55495366A",
+        "type": "message",
+        "text": "At Sprout we have a content team, which primarily drives strategy and marketing-wide editorial planning, brand content and customer proof (eg case studies), as well as an SEO team that leads our search driven content. The content team or demand gen team usually drive acquisition campaigns, but my team (content) creates the bulk of external materials. \n\nWe also have different “squads” across marketing so members of the content team sit on both Awareness &amp; Perception (social, brand content, events, PR, internal comms) and New Business (SEO, DG, paid social and search, web and marketing ops). Others across the biz play a role in content brainstorming, feedback and supporting with sales collateral\/enablement. \n\nIt sounds messy but has actually been a good evolution and solution for us, as long as there is clear communication about goals and priorities at all levels. Happy to talk further if anyone is interested, I love learning about other teams’ setups. ",
+        "user": "URB31QKM4",
+        "ts": "1585784952.099700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "099d380d742a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-04\/936714280756_099d380d742afea0dc9f_72.png",
+            "first_name": "Alicia",
+            "real_name": "Alicia Johnston",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "aliciabjohnston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At Sprout we have a content team, which primarily drives strategy and marketing-wide editorial planning, brand content and customer proof (eg case studies), as well as an SEO team that leads our search driven content. The content team or demand gen team usually drive acquisition campaigns, but my team (content) creates the bulk of external materials. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "We also have different “squads” across marketing so members of the content team sit on both Awareness & Perception (social, brand content, events, PR, internal comms) and New Business (SEO, DG, paid social and search, web and marketing ops). Others across the biz play a role in content brainstorming, feedback and supporting with sales collateral\/enablement. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "It sounds messy but has actually been a good evolution and solution for us, as long as there is clear communication about goals and priorities at all levels. Happy to talk further if anyone is interested, I love learning about other teams’ setups. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585755607.080100",
+        "parent_user_id": "UUVRCKTJ4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULJBEFSJJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UJG24P8P6",
+                    "UUVS5QTM3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

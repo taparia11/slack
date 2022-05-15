@@ -1,0 +1,997 @@
+[
+    {
+        "client_msg_id": "7C5936AC-8419-48DA-86A0-32B12C5565E1",
+        "type": "message",
+        "text": "Hey everyone,\n\nI got the chance to write about Google Analytics. \n\nI really tried to make this Google Analytics Audit about the BUSINESS impact of these changes to your analytics.\n\nI saw too many “laundry lists” on the first page, so I came up with this post as an answer.\n\nHopefully you get something from it. \n\nThis was my first legit post ever! I’m psyched, a little nervous, and 100% self conscious haha. I’m hoping I can grow from this experience and be a better content marketer. \n\n<https:\/\/www.breaktheweb.agency\/strategy\/google-analytics-audit\/|https:\/\/www.breaktheweb.agency\/strategy\/google-analytics-audit\/>",
+        "user": "U012YJ35BML",
+        "ts": "1598372111.017900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Break The Web",
+                "title": "Google Analytics Audit: Top 15 Fixes | Break The Web",
+                "title_link": "https:\/\/www.breaktheweb.agency\/strategy\/google-analytics-audit\/",
+                "text": "With so many bells &amp; whistles in Google Analytics, how can you be sure Analytics set up correctly. This article is not a Google Analytics Audit checklist but more a framework for success.",
+                "fallback": "Break The Web: Google Analytics Audit: Top 15 Fixes | Break The Web",
+                "image_url": "https:\/\/www.breaktheweb.agency\/wp-content\/uploads\/Google-Analytics-Audit-Top-15-Fixes.png",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1598363073,
+                "from_url": "https:\/\/www.breaktheweb.agency\/strategy\/google-analytics-audit\/",
+                "image_bytes": 32782,
+                "service_icon": "https:\/\/cdn.shortpixel.ai\/client\/q_lossy,ret_img,w_180,h_180\/https:\/\/www.breaktheweb.agency\/wp-content\/uploads\/2019\/08\/Artboard-2fav.png",
+                "id": 1,
+                "original_url": "https:\/\/www.breaktheweb.agency\/strategy\/google-analytics-audit\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "azGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone,\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I got the chance to write about Google Analytics. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I really tried to make this Google Analytics Audit about the BUSINESS impact of these changes to your analytics.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I saw too many “laundry lists” on the first page, so I came up with this post as an answer.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hopefully you get something from it. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This was my first legit post ever! I’m psyched, a little nervous, and 100% self conscious haha. I’m hoping I can grow from this experience and be a better content marketer. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.breaktheweb.agency\/strategy\/google-analytics-audit\/",
+                                "text": "https:\/\/www.breaktheweb.agency\/strategy\/google-analytics-audit\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598372111.017900",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1598381782.019800",
+        "reply_users": [
+            "U012R27LRJ8",
+            "U012YJ35BML",
+            "UUJBMNRNF",
+            "U016QB6H2F6"
+        ],
+        "replies": [
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1598372764.018100"
+            },
+            {
+                "user": "U012YJ35BML",
+                "ts": "1598373645.019100"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1598381674.019500"
+            },
+            {
+                "user": "U016QB6H2F6",
+                "ts": "1598381782.019800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U016UC1UQEN",
+                    "U016QB6H2F6",
+                    "UJ2QESJ66",
+                    "U01AU954YM6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U018T8D2AK1",
+                    "UJ2QESJ66",
+                    "U01AU954YM6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "chart_with_upwards_trend",
+                "users": [
+                    "U016QB6H2F6",
+                    "U01AU954YM6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e24041e-dc7d-4345-a7b8-654635fac4f0",
+        "type": "message",
+        "text": "Really like how you bold the *key takeaways* in each section. Makes it clear what I should take away from a long block of text.",
+        "user": "U012R27LRJ8",
+        "ts": "1598372764.018100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc7e97cc49db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7e97cc49db3bc3a0bae60f1201822c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Al",
+            "real_name": "Al Chen",
+            "display_name": "Al Chen",
+            "team": "TJE58GTJL",
+            "name": "al",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really like how you bold the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "key takeaways ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "in each section. Makes it clear what I should take away from a long block of text."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598372111.017900",
+        "parent_user_id": "U012YJ35BML"
+    },
+    {
+        "client_msg_id": "9FD9B766-2C9C-4437-87D1-C9AFE18B276F",
+        "type": "message",
+        "text": "Thanks <@U012R27LRJ8> I appreciate that you took the time. :muscle:",
+        "user": "U012YJ35BML",
+        "ts": "1598373645.019100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nyb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012R27LRJ8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I appreciate that you took the time. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598372111.017900",
+        "parent_user_id": "U012YJ35BML"
+    },
+    {
+        "client_msg_id": "bb06599e-f0d7-4fa8-a45a-a04f9dfec094",
+        "type": "message",
+        "text": "Looks good! Enjoyed the list and you did great with headings and graphics!",
+        "user": "UUJBMNRNF",
+        "ts": "1598381674.019500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGRo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks good! Enjoyed the list and you did great with headings and graphics!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598372111.017900",
+        "parent_user_id": "U012YJ35BML",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U012YJ35BML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af30cf96-81f2-44e6-b987-2af9b8da9c04",
+        "type": "message",
+        "text": "Thanks for contributing, <@U012YJ35BML> - it really came out great and Ryan’s been a huge help for analytics for many of our clients (_hit him up if you need help, as well)._\n\nAnd if anyone else wants to get some thought leadership out there, feel free to DM me!",
+        "user": "U016QB6H2F6",
+        "ts": "1598381782.019800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "87a22b8c4104",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-06\/1218057313478_87a22b8c4104144847bb_72.png",
+            "first_name": "Jason",
+            "real_name": "Jason Berkowitz",
+            "display_name": "Jason Berkowitz",
+            "team": "TJE58GTJL",
+            "name": "jason753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+pyEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for contributing, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012YJ35BML"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - it really came out great and Ryan’s been a huge help for analytics for many of our clients ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "hit him up if you need help, as well).",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnd if anyone else wants to get some thought leadership out there, feel free to DM me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598372111.017900",
+        "parent_user_id": "U012YJ35BML",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U012YJ35BML"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U012YJ35BML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28b595a3-3fd3-4559-93a7-8caa0f7f4417",
+        "type": "message",
+        "text": "Following up re: Infographic-style Instagram posts, I made one for my “bookstagram” last week and it WENT TOTALLY VIRAL. :scream::tada: <https:\/\/www.instagram.com\/p\/CECUz13gbdZ\/?igshid=rmvskygqpgxq>",
+        "user": "UVCDN5SQZ",
+        "ts": "1598383053.021400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "46f501e256d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3053376698566_46f501e256d6e8bdab86_72.png",
+            "first_name": "Deedi",
+            "real_name": "Deedi Brown",
+            "display_name": "Deedi",
+            "team": "TJE58GTJL",
+            "name": "dcboland1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Instagram",
+                "service_url": "https:\/\/www.instagram.com",
+                "title": "My friends: I know that Amazon is cheaper. I know that Amazon is faster. But Amazon is NOT better — not for book lovers, and not for the books we love.",
+                "title_link": "https:\/\/www.instagram.com\/p\/CECUz13gbdZ\/?igshid=rmvskygqpgxq",
+                "author_name": "deedireads",
+                "author_link": "https:\/\/www.instagram.com\/deedireads",
+                "thumb_url": "https:\/\/scontent-iad3-1.cdninstagram.com\/v\/t51.2885-15\/e35\/s480x480\/117752053_592593114766198_5303016411313697656_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=vnH49beyhVoAX_ZyKqU&oh=e20d57763dd96c0c0680352a7440a341&oe=5F6D43A3",
+                "thumb_width": 480,
+                "thumb_height": 480,
+                "text": "My friends: I know that Amazon is cheaper. I know that Amazon is faster. But Amazon is NOT better — not for book lovers, and not for the books we love.",
+                "fallback": "Instagram Photo: My friends: I know that Amazon is cheaper. I know that Amazon is faster. But Amazon is NOT better — not for book lovers, and not for the books we love.",
+                "image_url": "https:\/\/scontent-iad3-1.cdninstagram.com\/v\/t51.2885-15\/e35\/s480x480\/117752053_592593114766198_5303016411313697656_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=vnH49beyhVoAX_ZyKqU&oh=e20d57763dd96c0c0680352a7440a341&oe=5F6D43A3",
+                "image_width": 480,
+                "image_height": 480,
+                "from_url": "https:\/\/www.instagram.com\/p\/CECUz13gbdZ\/?igshid=rmvskygqpgxq",
+                "image_bytes": 28428,
+                "id": 1,
+                "original_url": "https:\/\/www.instagram.com\/p\/CECUz13gbdZ\/?igshid=rmvskygqpgxq"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ubi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Following up re: Infographic-style Instagram posts, I made one for my “bookstagram” last week and it WENT TOTALLY VIRAL. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/p\/CECUz13gbdZ\/?igshid=rmvskygqpgxq"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598383053.021400",
+        "reply_count": 10,
+        "reply_users_count": 7,
+        "latest_reply": "1598908809.005100",
+        "reply_users": [
+            "UVCDN5SQZ",
+            "U018T8D2AK1",
+            "UJG9WTEKG",
+            "U018A6AEMPF",
+            "UM9NER5JR",
+            "U016UC1UQEN",
+            "U0153M0K2N7"
+        ],
+        "replies": [
+            {
+                "user": "UVCDN5SQZ",
+                "ts": "1598383086.022000"
+            },
+            {
+                "user": "U018T8D2AK1",
+                "ts": "1598383401.022700"
+            },
+            {
+                "user": "UVCDN5SQZ",
+                "ts": "1598383523.022900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1598387614.024400"
+            },
+            {
+                "user": "U018A6AEMPF",
+                "ts": "1598391286.024600"
+            },
+            {
+                "user": "UVCDN5SQZ",
+                "ts": "1598393231.025600"
+            },
+            {
+                "user": "UM9NER5JR",
+                "ts": "1598397508.026500"
+            },
+            {
+                "user": "U016UC1UQEN",
+                "ts": "1598436306.027000"
+            },
+            {
+                "user": "UVCDN5SQZ",
+                "ts": "1598447644.027600"
+            },
+            {
+                "user": "U0153M0K2N7",
+                "ts": "1598908809.005100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1598908809.005100",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U018T8D2AK1",
+                    "UL4QTGBGT",
+                    "U015B888266",
+                    "U01694YQ3FX",
+                    "U012YJ35BML",
+                    "UJS7GK1TP",
+                    "U014TSHLS5S",
+                    "U016SGTLRLZ",
+                    "U015WN80X97",
+                    "UN29JC48H",
+                    "U017P9D6Y2G",
+                    "U0192P2G8F5",
+                    "U01AU954YM6",
+                    "UMX8MPHA6"
+                ],
+                "count": 14
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UUJBMNRNF",
+                    "UN29JC48H",
+                    "U01AU954YM6",
+                    "UMX8MPHA6"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Side by side post performance vs a more typical post for me",
+        "files": [
+            {
+                "id": "F019V9CUV97",
+                "created": 1598383071,
+                "timestamp": 1598383071,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UVCDN5SQZ",
+                "editable": false,
+                "size": 303507,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F019V9CUV97\/image_from_ios.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F019V9CUV97\/download\/image_from_ios.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019V9CUV97-ccf5e4d6c0\/image_from_ios_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABa19hh\/2vzpPsUXo\/51Z4BPvRgAD0FAFf7DD\/tfnR9hh\/2vzqwMZJ9aWgBMH1ozzQOtLQAUUd6SgAxz1NAPPSgEc80b1P8AEPzoAWikzzS0Af\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UVCDN5SQZ\/F019V9CUV97\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F019V9CUV97-d9fefb3ba3",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F019DHV1ZPX",
+                "created": 1598383072,
+                "timestamp": 1598383072,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UVCDN5SQZ",
+                "editable": false,
+                "size": 269147,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F019DHV1ZPX\/image_from_ios.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F019DHV1ZPX\/download\/image_from_ios.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F019DHV1ZPX-c2c09905bc\/image_from_ios_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABa19hh\/2vzpPsUXo\/51ZwOfejAAHtQBX+ww\/wC1+dH2GH\/a\/OrAx1HeloATB9f0pc0nOen60uRnGaACiiigBOtGKO\/Wjep\/iH50ALRR3ooA\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UVCDN5SQZ\/F019DHV1ZPX\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F019DHV1ZPX-efc8f0c8a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UVCDN5SQZ",
+        "ts": "1598383086.022000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aiy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Side by side post performance vs a more typical post for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3480FDF3-9E06-4E14-836A-6EB0AD159ADC",
+        "thread_ts": "1598383053.021400",
+        "parent_user_id": "UVCDN5SQZ"
+    },
+    {
+        "client_msg_id": "c346e749-c90f-4642-ace9-b6af2e648e8f",
+        "type": "message",
+        "text": "This is soooooooo dope. Good work, <@UVCDN5SQZ>! You've inspired me! This is so good.",
+        "user": "U018T8D2AK1",
+        "ts": "1598383401.022700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8edb21fb4090",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-21\/1339911330864_8edb21fb409061b4c5e5_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Craft",
+            "display_name": "Chris Craft",
+            "team": "TJE58GTJL",
+            "name": "chris564",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jzO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is soooooooo dope. Good work, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UVCDN5SQZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! You've inspired me! This is so good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598383053.021400",
+        "parent_user_id": "UVCDN5SQZ"
+    },
+    {
+        "client_msg_id": "5a4be513-a296-41c7-9b72-7e87899329c2",
+        "type": "message",
+        "text": "Thanks <@U018T8D2AK1>!!",
+        "user": "UVCDN5SQZ",
+        "ts": "1598383523.022900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "46f501e256d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3053376698566_46f501e256d6e8bdab86_72.png",
+            "first_name": "Deedi",
+            "real_name": "Deedi Brown",
+            "display_name": "Deedi",
+            "team": "TJE58GTJL",
+            "name": "dcboland1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U018T8D2AK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598383053.021400",
+        "parent_user_id": "UVCDN5SQZ"
+    },
+    {
+        "client_msg_id": "aaca754a-1759-4736-ba2f-6d3bd5b7e828",
+        "type": "message",
+        "text": "yea this is awsome. gonna put this in my newsletter this week",
+        "user": "UJG9WTEKG",
+        "ts": "1598387614.024400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea this is awsome. gonna put this in my newsletter this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598383053.021400",
+        "parent_user_id": "UVCDN5SQZ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UVCDN5SQZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UVCDN5SQZ",
+                    "U016LHA1BHP",
+                    "U017P9D6Y2G"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "UVCDN5SQZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle::skin-tone-5",
+                "users": [
+                    "U018T8D2AK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b82895e-a25d-440b-9334-f07dd20fc6ef",
+        "type": "message",
+        "text": "love this! i hate amazon. i don’t use it.",
+        "user": "U018A6AEMPF",
+        "ts": "1598391286.024600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g519e263a343",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/519e263a3438833c8c1e11c6077ce315.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Divya Raghavan",
+            "display_name": "Divya Raghavan",
+            "team": "TJE58GTJL",
+            "name": "divyaraghavan89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jd5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "love this! i hate amazon. i don’t use it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598383053.021400",
+        "parent_user_id": "UVCDN5SQZ",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UVCDN5SQZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5c15ebe-e3d7-49b5-979f-3cba1a43cb53",
+        "type": "message",
+        "text": "Thanks <@UJG9WTEKG>!!",
+        "user": "UVCDN5SQZ",
+        "ts": "1598393231.025600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "46f501e256d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3053376698566_46f501e256d6e8bdab86_72.png",
+            "first_name": "Deedi",
+            "real_name": "Deedi Brown",
+            "display_name": "Deedi",
+            "team": "TJE58GTJL",
+            "name": "dcboland1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8=xE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598383053.021400",
+        "parent_user_id": "UVCDN5SQZ"
+    },
+    {
+        "client_msg_id": "44CF3F98-BD52-4ED3-84F6-1FB56576BF38",
+        "type": "message",
+        "text": "Great content for a great cause, congrats!",
+        "user": "UM9NER5JR",
+        "ts": "1598397508.026500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "30e5ef11eb21",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1332059674928_30e5ef11eb21cb1ed521_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Baum",
+            "display_name": "Ryan Baum",
+            "team": "TJE58GTJL",
+            "name": "rbaum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89e1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great content for a great cause, congrats!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598383053.021400",
+        "parent_user_id": "UVCDN5SQZ"
+    }
+]

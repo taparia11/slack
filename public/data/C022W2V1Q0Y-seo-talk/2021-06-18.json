@@ -1,0 +1,544 @@
+[
+    {
+        "client_msg_id": "ae19b0a8-cc87-4156-8588-e40a3c644029",
+        "type": "message",
+        "text": "*Does anyone have a good\/great resource or article to help settle a `subdomains vs subfolders` SEO debate? (Or strong anecdotal experiences to share?)*\n\nContext: My client is about to launch a new page targeting a healthy two keyword phrase (12k+ monthly searches). They have a good chance of ranking in the top 5 in the next few months.\n\nThis page currently lives at a subdomain (it’s a premium template gallery so `<http:\/\/templates.example.com|templates.example.com>` made a lot of sense while this was being developed). If it makes more sense to have this live in a subfolder, I’d love to tackle that left now before it officially launches.\n\nSo, any good\/great resources that help point towards one approach over the other? Or are they essentially the same in terms of SEO benefits\/costs\/opportunities in the year of our lady two thousand and twenty one?",
+        "user": "U01KH3P18RZ",
+        "ts": "1624030114.110200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+FNy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have a good\/great resource or article to help settle a ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "subdomains vs subfolders",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " SEO debate? (Or strong anecdotal experiences to share?)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nContext: My client is about to launch a new page targeting a healthy two keyword phrase (12k+ monthly searches). They have a good chance of ranking in the top 5 in the next few months.\n\nThis page currently lives at a subdomain (it’s a premium template gallery so "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/templates.example.com",
+                                "text": "templates.example.com",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " made a lot of sense while this was being developed). If it makes more sense to have this live in a subfolder, I’d love to tackle that left now before it officially launches.\n\nSo, any good\/great resources that help point towards one approach over the other? Or are they essentially the same in terms of SEO benefits\/costs\/opportunities in the year of our lady two thousand and twenty one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030114.110200",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1624585844.142600",
+        "reply_users": [
+            "U025AB5JNRW",
+            "UUH2EB134",
+            "U01KH3P18RZ",
+            "UUJBMNRNF",
+            "U01P13NTGG6",
+            "U025W7J15K7"
+        ],
+        "replies": [
+            {
+                "user": "U025AB5JNRW",
+                "ts": "1624030971.112000"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1624032044.112200"
+            },
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1624033638.112500"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1624038735.116500"
+            },
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1624048642.116800"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1624049128.117100"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1624049292.117300"
+            },
+            {
+                "user": "U025W7J15K7",
+                "ts": "1624585844.142600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0064f5b1-a52b-45d3-a901-6975f52e0ce4",
+        "type": "message",
+        "text": "Content is king, doesn’t matter if the content is within a folder or subdomain… but be aware of keyword competition between the domains when using a subdomain if the purpose or context is the same.",
+        "user": "U025AB5JNRW",
+        "ts": "1624030971.112000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a065fd3ef26c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-10\/2141814580775_a065fd3ef26c1b28aca5_72.jpg",
+            "first_name": "Birger",
+            "real_name": "Birger Hartung",
+            "display_name": "Birger Hartung",
+            "team": "TJE58GTJL",
+            "name": "hartung",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Content is king, doesn’t matter if the content is within a folder or subdomain… but be aware of keyword competition between the domains when using a subdomain if the purpose or context is the same."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030114.110200",
+        "parent_user_id": "U01KH3P18RZ"
+    },
+    {
+        "client_msg_id": "dc1ae7bc-6a68-4c1b-9e5e-d0814ea0ab17",
+        "type": "message",
+        "text": "<@UUXMCJQ15> recently tackled this debate <https:\/\/seofortherestofus.org\/seo\/subdomain-vs-subdirectory\/|here>.",
+        "user": "UUH2EB134",
+        "ts": "1624032044.112200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SEO for the Rest of Us - Learn SEO Fast (Seriously)",
+                "title": "Subdomain vs. Subdirectory: Let's Settle This SEO Debate",
+                "title_link": "https:\/\/seofortherestofus.org\/seo\/subdomain-vs-subdirectory\/",
+                "text": "Subdomain vs. subdirectory is a HUGE SEO debate. Here's the evidence you need to explain to your in-house or agency partner.",
+                "fallback": "SEO for the Rest of Us - Learn SEO Fast (Seriously): Subdomain vs. Subdirectory: Let's Settle This SEO Debate",
+                "image_url": "https:\/\/seofortherestofus.org\/wp-content\/uploads\/2020\/11\/subfolder-vs-subdomain-seo.jpg",
+                "image_width": 779,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Brendan Hufford",
+                        "short": true
+                    }
+                ],
+                "ts": 1610924732,
+                "from_url": "https:\/\/seofortherestofus.org\/seo\/subdomain-vs-subdirectory\/",
+                "image_bytes": 32807,
+                "service_icon": "https:\/\/seofortherestofus.org\/wp-content\/uploads\/2020\/07\/cropped-seo-for-the-rest-of-us-logo-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/seofortherestofus.org\/seo\/subdomain-vs-subdirectory\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UjY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": " recently tackled this debate "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/seofortherestofus.org\/seo\/subdomain-vs-subdirectory\/",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030114.110200",
+        "parent_user_id": "U01KH3P18RZ",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U021TAHP6TB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5578f638-15b6-4cdd-82d2-b5f0e7210072",
+        "type": "message",
+        "text": "Wonderful! Thanks, Yall!",
+        "user": "U01KH3P18RZ",
+        "ts": "1624033638.112500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PpYyu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wonderful! Thanks, Yall!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030114.110200",
+        "parent_user_id": "U01KH3P18RZ"
+    },
+    {
+        "client_msg_id": "457FA400-2473-4C2D-B6B1-8069A128979C",
+        "type": "message",
+        "text": "Doesn't matter if it's a sub domain or sub folder. \n\nSubdomains are complete websites on their own. You can have a subfolder in a subdomain or you can have a subfolder on the main domain. \n\nAre you deciding whether the article should live on the main website domain in a subfolder vs. the subdomain website?",
+        "user": "UUJBMNRNF",
+        "ts": "1624038735.116500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tzJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Doesn't matter if it's a sub domain or sub folder. \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Subdomains are complete websites on their own. You can have a subfolder in a subdomain or you can have a subfolder on the main domain. \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Are you deciding whether the article should live on the main website domain in a subfolder vs. the subdomain website?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030114.110200",
+        "parent_user_id": "U01KH3P18RZ"
+    },
+    {
+        "client_msg_id": "dcca3442-5cf8-4b89-b70a-2d35482366ec",
+        "type": "message",
+        "text": "<@UUJBMNRNF> Bingo. It’s a question of what will help the page rank the best both out of the gate and in the medium-term. I’m strongly leaning towards subfolder. Let me know if I can share any other info.",
+        "user": "U01KH3P18RZ",
+        "ts": "1624048642.116800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01KH3P18RZ",
+            "ts": "1624048653.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrnKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUJBMNRNF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Bingo. It’s a question of what will help the page rank the best both out of the gate and in the medium-term. I’m strongly leaning towards subfolder. Let me know if I can share any other info."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030114.110200",
+        "parent_user_id": "U01KH3P18RZ",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF",
+                    "U024K88ECFN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c204a844-5bd1-4574-9ecb-8e37311ebc8d",
+        "type": "message",
+        "text": "Patrick Stox, the technical lead from Ahrefs, examined this recently and his take on it was that it doesn’t matter. I’ve seen it go both ways. The primary indicator as to whether or not the subdomain performs worse comes down to internal linking.\n\nI think most folks just aren’t great at internal linking properly and so the subfolder route tends to work better because of how most websites and such are architected and how limited resources can be to stay on top of that sort of stuff.\n\nOf course, if you have plenty of resources, it’s a moot point (like these):\n\n• <http:\/\/blog.hubspot.com|blog.hubspot.com> \n• <http:\/\/blog.trello.com|blog.trello.com>\n• <http:\/\/blog.asana.com|blog.asana.com>",
+        "user": "U01P13NTGG6",
+        "ts": "1624049128.117100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W62J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Patrick Stox, the technical lead from Ahrefs, examined this recently and his take on it was that it doesn’t matter. I’ve seen it go both ways. The primary indicator as to whether or not the subdomain performs worse comes down to internal linking.\n\nI think most folks just aren’t great at internal linking properly and so the subfolder route tends to work better because of how most websites and such are architected and how limited resources can be to stay on top of that sort of stuff.\n\nOf course, if you have plenty of resources, it’s a moot point (like these):\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/blog.hubspot.com",
+                                        "text": "blog.hubspot.com"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/blog.trello.com",
+                                        "text": "blog.trello.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/blog.asana.com",
+                                        "text": "blog.asana.com"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030114.110200",
+        "parent_user_id": "U01KH3P18RZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUJBMNRNF",
+                    "U024D3CP77U"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f26a228-7a42-4ba8-a97f-b5103d1a4a10",
+        "type": "message",
+        "text": "What's the authority ranking on the main website vs the sub-domain?\n\nDepends on the goal of what else you want visitors to explore and know after that page. Do you want them on the template gallery site? or do you want them on the main website in a subfolder?\n\nas far as search engine purposes, they are both seen as distinct sites.\n\n<http:\/\/example.com\/specialpage|example.com\/specialpage>\n\n<http:\/\/templates.example.com\/specialpage|templates.example.com\/specialpage>",
+        "user": "UUJBMNRNF",
+        "ts": "1624049292.117300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUJBMNRNF",
+            "ts": "1624049391.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NfieN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's the authority ranking on the main website vs the sub-domain?\n\nDepends on the goal of what else you want visitors to explore and know after that page. Do you want them on the template gallery site? or do you want them on the main website in a subfolder?\n\nas far as search engine purposes, they are both seen as distinct sites.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/specialpage",
+                                "text": "example.com\/specialpage"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/templates.example.com\/specialpage",
+                                "text": "templates.example.com\/specialpage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030114.110200",
+        "parent_user_id": "U01KH3P18RZ"
+    }
+]

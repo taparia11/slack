@@ -1,0 +1,470 @@
+[
+    {
+        "client_msg_id": "e804c473-70b7-4a5c-91cc-d25445ada7dd",
+        "type": "message",
+        "text": "you mean not everyone has a specific email address just for great newsletters? I do!\nAlso, I'm already on the Foundation list. :smiley:",
+        "user": "UUJBMNRNF",
+        "ts": "1642028027.043900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0S3C9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you mean not everyone has a specific email address just for great newsletters? I do!\nAlso, I'm already on the Foundation list. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641924037.033900",
+        "parent_user_id": "U01EB7M4REJ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02546A8D2B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U02SU2BECCA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38db4814-07d5-439b-a222-af339cb38eb4",
+        "type": "message",
+        "text": "Hey everyone :dizzy:\n\nOne quick question. Do we necessarily follow up on our first email (cold email - outbound sales)? Or is it acceptable to send just one?\nI don't want to be flagged by all the people who don't want to be bothered by my email. There is a risk, right?\n\nThanks for responses in advance!",
+        "user": "U02D815TQ4T",
+        "ts": "1642038677.047300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a8bcca6d489d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-10\/2472462786997_a8bcca6d489d7c07c1ec_72.png",
+            "first_name": "Petar",
+            "real_name": "Petar Rejman",
+            "display_name": "Petar",
+            "team": "TJE58GTJL",
+            "name": "petar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SHF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOne quick question. Do we necessarily follow up on our first email (cold email - outbound sales)? Or is it acceptable to send just one?\nI don't want to be flagged by all the people who don't want to be bothered by my email. There is a risk, right?\n\nThanks for responses in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642038677.047300",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1642190028.007200",
+        "reply_users": [
+            "U02NJDGLMJ4",
+            "U02RPKXLL67",
+            "U02D815TQ4T",
+            "U02TMGYBTNY"
+        ],
+        "replies": [
+            {
+                "user": "U02NJDGLMJ4",
+                "ts": "1642045150.051700"
+            },
+            {
+                "user": "U02RPKXLL67",
+                "ts": "1642090083.053500"
+            },
+            {
+                "user": "U02D815TQ4T",
+                "ts": "1642090227.053800"
+            },
+            {
+                "user": "U02RPKXLL67",
+                "ts": "1642090570.054000"
+            },
+            {
+                "user": "U02D815TQ4T",
+                "ts": "1642090650.054200"
+            },
+            {
+                "user": "U02RPKXLL67",
+                "ts": "1642090717.054400"
+            },
+            {
+                "user": "U02RPKXLL67",
+                "ts": "1642090790.054900"
+            },
+            {
+                "user": "U02D815TQ4T",
+                "ts": "1642091158.055200"
+            },
+            {
+                "user": "U02D815TQ4T",
+                "ts": "1642091167.055400"
+            },
+            {
+                "user": "U02TMGYBTNY",
+                "ts": "1642190028.007200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6a2f19d3-74b9-4141-9688-a7d643b8108f",
+        "type": "message",
+        "text": "hi all,  what is the best practice for importing a large list into a new mailchimp account to avoid bounces\/blacklisting?\nmy client has quite a clean list and has never used a bulk email provider before, he's just been using outlook. if I import all their contacts is it good practice to send an initial welcome\/intro\/opt in email even if these people are regulars trading customers?\nI'm looking for the best chance of keeping the bounce rate low. i've had negative experiences i the past however it may have been due to dead email addresses. cheers :slightly_smiling_face:",
+        "user": "U02AR2XSN1M",
+        "ts": "1642044895.049300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4wHLv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi all,  what is the best practice for importing a large list into a new mailchimp account to avoid bounces\/blacklisting?\nmy client has quite a clean list and has never used a bulk email provider before, he's just been using outlook. if I import all their contacts is it good practice to send an initial welcome\/intro\/opt in email even if these people are regulars trading customers?\nI'm looking for the best chance of keeping the bounce rate low. i've had negative experiences i the past however it may have been due to dead email addresses. cheers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642044895.049300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1642657366.059600",
+        "reply_users": [
+            "U02M83NQ10U",
+            "U02AR2XSN1M"
+        ],
+        "replies": [
+            {
+                "user": "U02M83NQ10U",
+                "ts": "1642536781.026700"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1642657366.059600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U02M83NQ10U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82AF0DDE-6820-4080-9B19-8B1F2E6FADCF",
+        "type": "message",
+        "text": "Between emails, phone calls, LinkedIn, and mailers you can expect to create between 15-20 touch points in order to close a deal.",
+        "user": "U02NJDGLMJ4",
+        "ts": "1642045150.051700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d13fcb0bf314",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-18\/2746295148772_d13fcb0bf3148edbad8f_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew Peluso",
+            "display_name": "Andrew Peluso",
+            "team": "TJE58GTJL",
+            "name": "apeluso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "icr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Between emails, phone calls, LinkedIn, and mailers you can expect to create between 15-20 touch points in order to close a deal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642038677.047300",
+        "parent_user_id": "U02D815TQ4T"
+    },
+    {
+        "client_msg_id": "90f56282-baec-4e4a-b180-621df6f4cd3b",
+        "type": "message",
+        "text": "anyone interested in doing a weekly or monthly mastermind chat? some colleagues and i are thinking about starting a group for growth marketers at b2b SaaS companies to discuss channels, strategies, etc.",
+        "user": "U012R27LRJ8",
+        "ts": "1642047231.052600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc7e97cc49db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7e97cc49db3bc3a0bae60f1201822c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Al",
+            "real_name": "Al Chen",
+            "display_name": "Al Chen",
+            "team": "TJE58GTJL",
+            "name": "al",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZK0s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "anyone interested in doing a weekly or monthly mastermind chat? some colleagues and i are thinking about starting a group for growth marketers at b2b SaaS companies to discuss channels, strategies, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642047231.052600",
+        "reply_count": 19,
+        "reply_users_count": 15,
+        "latest_reply": "1643654748.071239",
+        "reply_users": [
+            "U016BDEQ40J",
+            "UJG24P8P6",
+            "U012R27LRJ8",
+            "USLACKBOT",
+            "U01L6NE17PA",
+            "U019P0ADPCH",
+            "U02U3RDQKHP",
+            "U02CTCZEL3E",
+            "U02RZQNGYDS",
+            "U016AG4A2G2",
+            "U02L06T4MM2",
+            "U0166H7KUAZ",
+            "U02TJFU0A3G",
+            "U02Q5J6H7NC",
+            "U030YK82C3C"
+        ],
+        "replies": [
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1642053587.052700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1642088268.053100"
+            },
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1642094444.055900"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1642094445.056100"
+            },
+            {
+                "user": "U01L6NE17PA",
+                "ts": "1642098360.056400"
+            },
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1642098566.056600"
+            },
+            {
+                "user": "U01L6NE17PA",
+                "ts": "1642098613.056800"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1642175282.001000"
+            },
+            {
+                "user": "U02U3RDQKHP",
+                "ts": "1642177822.002200"
+            },
+            {
+                "user": "U02CTCZEL3E",
+                "ts": "1642279454.020500"
+            },
+            {
+                "user": "U02RZQNGYDS",
+                "ts": "1642339077.020800"
+            },
+            {
+                "user": "U016AG4A2G2",
+                "ts": "1642536784.026900"
+            },
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1642548554.027400"
+            },
+            {
+                "user": "U02L06T4MM2",
+                "ts": "1642551441.027600"
+            },
+            {
+                "user": "U0166H7KUAZ",
+                "ts": "1642553539.027900"
+            },
+            {
+                "user": "U02TJFU0A3G",
+                "ts": "1642698118.062700"
+            },
+            {
+                "user": "U02Q5J6H7NC",
+                "ts": "1643387087.187969"
+            },
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1643389307.930959"
+            },
+            {
+                "user": "U030YK82C3C",
+                "ts": "1643654748.071239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02T4K4P9UP",
+                    "UNA88V285",
+                    "U019P0ADPCH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U02PM12M15K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa728d23-01d0-4e17-ad01-d1103469d990",
+        "type": "message",
+        "text": "I’d be willing to give it a try",
+        "user": "U016BDEQ40J",
+        "ts": "1642053587.052700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GzD+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d be willing to give it a try"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642047231.052600",
+        "parent_user_id": "U012R27LRJ8"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "9d94cd9c-561b-4ec0-94ce-c36fada4e35a",
+        "type": "message",
+        "text": "IP anonymization is another option but it doesn’t solve the whole problem just a part of it and if you want to track both you would need to create a separate GA property",
+        "user": "UJRJZ1FGR",
+        "ts": "1605464921.226300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "930cf6af2b51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-07\/1735885158417_930cf6af2b510c80aa7d_72.jpg",
+            "first_name": "Anna",
+            "real_name": "Anna Holopainen",
+            "display_name": "Anna",
+            "team": "TJE58GTJL",
+            "name": "annaholopainen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLqNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IP anonymization is another option but it doesn’t solve the whole problem just a part of it and if you want to track both you would need to create a separate GA property"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605197819.212500",
+        "parent_user_id": "UJFCMA7V3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJFCMA7V3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d24e3ba-9074-47e9-83fd-531909f1d7cb",
+        "type": "message",
+        "text": "It really depends why they need to be updated, but to do this quickly, I might rank them all using a combination of (a) effort to update, and (b) potential performance improvement, likely using search volume or something like that.\n\nThen I’d go with low effort, high impact – and then low effort, low impact – high effort, high impact – and maybe get rid of the high effort, low impact.",
+        "user": "U013WCZ5GSV",
+        "ts": "1605482581.226500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7ccd0d56b0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1361149389360_b7ccd0d56b0aa7e01022_72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Dunham",
+            "display_name": "Justin Dunham",
+            "team": "TJE58GTJL",
+            "name": "justin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rS5U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It really depends why they need to be updated, but to do this quickly, I might rank them all using a combination of (a) effort to update, and (b) potential performance improvement, likely using search volume or something like that.\n\nThen I’d go with low effort, high impact – and then low effort, low impact – high effort, high impact – and maybe get rid of the high effort, low impact."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604384393.047700",
+        "parent_user_id": "UJ94SJMG9"
+    },
+    {
+        "client_msg_id": "ae6143b9-834d-416a-ae04-b5afc5cd2667",
+        "type": "message",
+        "text": "Hey all!\nAnyone got any Black Friday deals on WordPress products? I'm collecting WordPress BFCM deals for a roundup on <http:\/\/ninjaforms.com|ninjaforms.com>. Feel free to DM me if you have one :slightly_smiling_face:",
+        "user": "UUVS5QTM3",
+        "ts": "1605510581.228200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g87a9bfecca7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/87a9bfecca7c069572d61814218cb6de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Fike",
+            "real_name": "Fike",
+            "display_name": "Fike",
+            "team": "TJE58GTJL",
+            "name": "fike.komala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UOzx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all!\nAnyone got any Black Friday deals on WordPress products? I'm collecting WordPress BFCM deals for a roundup on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ninjaforms.com",
+                                "text": "ninjaforms.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Feel free to DM me if you have one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

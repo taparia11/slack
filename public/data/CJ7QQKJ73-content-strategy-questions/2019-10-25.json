@@ -1,0 +1,385 @@
+[
+    {
+        "client_msg_id": "f340bb15-4ffa-4642-8338-02ffea94fa17",
+        "type": "message",
+        "text": "Hey everyone.\nI am using Heroku to host my rails app and I have created a custom domain for my site <http:\/\/www.worldpackers.com|www.worldpackers.com>\n\nI just did a search for \"worldpackers\" and I see that the herokuapp domain (<http:\/\/worldpackersplatform.herokuapp.com|worldpackersplatform.herokuapp.com>) is popping up.\n\nShould I just create another domain in webmaster tools and use robots.txt to remove the Heroku domain from search results?\n\nAlso does Google think that my heroku domain is duplicate content or a cloned site?\n\nthanks!",
+        "user": "UJFCMA7V3",
+        "ts": "1572002646.085600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1b787dc70913",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629653306006_1b787dc709138a1ded37_72.jpg",
+            "first_name": "Allan",
+            "real_name": "Allan Formigoni",
+            "display_name": "Allan Formigoni",
+            "team": "TJE58GTJL",
+            "name": "allan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572002646.085600",
+        "reply_count": 14,
+        "reply_users_count": 3,
+        "latest_reply": "1572288762.097700",
+        "reply_users": [
+            "UJDPMTREY",
+            "UJFCMA7V3",
+            "UJE5LARL0"
+        ],
+        "replies": [
+            {
+                "user": "UJDPMTREY",
+                "ts": "1572004435.089700"
+            },
+            {
+                "user": "UJFCMA7V3",
+                "ts": "1572007503.090000"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572010294.091000"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1572011019.091200"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572019874.091900"
+            },
+            {
+                "user": "UJFCMA7V3",
+                "ts": "1572027725.092500"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572027785.092900"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572027863.093100"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572028246.093300"
+            },
+            {
+                "user": "UJFCMA7V3",
+                "ts": "1572261241.093500"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572288696.097100"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572288717.097300"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572288741.097500"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1572288762.097700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "57D0086B-742B-4E8C-9174-AF1438733B56",
+        "type": "message",
+        "text": "Just put a noindex tag on that page (or all pages from the subdomain that have been indexed).\n\nOnce the pages have dropped from the index, then you can use robots.txt to block crawlers, if you want.\n\nBut search engines need to see noindex before they see nofollow directives (via robots.txt or meta robots tags) or they’ll never see the request to pull the page(s) from the index.",
+        "user": "UJDPMTREY",
+        "ts": "1572004435.089700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "9525ab89-8c07-4593-9c30-f4b0c59a8096",
+        "type": "message",
+        "text": "Thanks a lot <@UJDPMTREY>! Super helpful :slightly_smiling_face:\n\nwe have the same application (same servers and same codebase) under two different domains (<http:\/\/worldpackersplatform.herokuapp.com|worldpackersplatform.herokuapp.com> and <http:\/\/worldpackers.com|worldpackers.com>).\n\nIn your opinion, should we add a no-index to <http:\/\/worldpackersplatform.herokuapp.com|worldpackersplatform.herokuapp.com> OR add a canonical from <http:\/\/worldpackersplatform.herokuapp.com|worldpackersplatform.herokuapp.com> to <http:\/\/worldpackers.com|worldpackers.com> on every page?",
+        "user": "UJFCMA7V3",
+        "ts": "1572007503.090000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1b787dc70913",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629653306006_1b787dc709138a1ded37_72.jpg",
+            "first_name": "Allan",
+            "real_name": "Allan Formigoni",
+            "display_name": "Allan Formigoni",
+            "team": "TJE58GTJL",
+            "name": "allan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJFCMA7V3",
+            "ts": "1572008516.000000"
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "9BD37FB1-8E87-4F2D-888A-97CF78DF5E20",
+        "type": "message",
+        "text": "Won’t that noindex both?",
+        "user": "UJE5LARL0",
+        "ts": "1572010294.091000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "aab901e3-70bd-431d-867d-63e617c94344",
+        "type": "message",
+        "text": "<@UJFCMA7V3> canonical is only a suggestion, so it's a pretty weak directive.\n\nassuming that the subdomain version has no _real_ SEO value (i.e. no links, traffic, existing rankings, etc.), i would just no-index it. as <@UJE5LARL0> notes, make sure that the shared codebase doesn't put noindex tags on _both_ versions\n\nif the subdomain version _does_ have SEO value, i would set up page-level 301 redirects to the version on the main domain (which will lead Google to drop the redirected pages while also pushing any useful search signals to the preferred version)",
+        "user": "UJDPMTREY",
+        "ts": "1572011019.091200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJFCMA7V3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7aee6822-7657-4d4e-8b88-4cacbae861fc",
+        "type": "message",
+        "text": "is this no follow\/do-follow links? <@UJS103D7S>",
+        "user": "UJG24P8P6",
+        "ts": "1572019660.091700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571857906.057000",
+        "parent_user_id": "UJE5LARL0"
+    },
+    {
+        "client_msg_id": "467d006b-c45c-4c7f-bbd0-5fe01acd1ec3",
+        "type": "message",
+        "text": "If this is an app (and b\/c it's Heroku I'd assume so) you could actually figure out the hostname from the headers and put the `no-index` on only the `<http:\/\/herokuapp.com|herokuapp.com>` domain.",
+        "user": "UJE5LARL0",
+        "ts": "1572019874.091900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "8e6b95c1-a9a8-41c9-8e26-190bc24d0f42",
+        "type": "message",
+        "text": "Mixed bag: Anything linked to in the body is automatically no-follow, but the one site link they allow in the author bio appears to be do-follow.",
+        "user": "UJS103D7S",
+        "ts": "1572022620.092100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be0204d95db9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-21\/902951134050_be0204d95db90b66f738_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Palmer",
+            "display_name": "Josh Palmer",
+            "team": "TJE58GTJL",
+            "name": "josh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571857906.057000",
+        "parent_user_id": "UJE5LARL0"
+    },
+    {
+        "client_msg_id": "4b5977ee-77a1-4635-9af5-504336b0b363",
+        "type": "message",
+        "text": "fwiw - yeah confirmed same for out \"Tech Council\" articles",
+        "user": "UJE5LARL0",
+        "ts": "1572022820.092300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571857906.057000",
+        "parent_user_id": "UJE5LARL0"
+    },
+    {
+        "client_msg_id": "7a0758ef-25f1-4a6e-a730-d3caa1d891ce",
+        "type": "message",
+        "text": "Thanks <@UJE5LARL0>! Really appreciate your time in sharing those advice.\n\nI just found out that my heroku pages are linking to some pages of my main domain. Still trying to figure out why...\n\nBut, in that case, if I do put a no-index, in those heroku pages, I can assum that those linked-to pages of my main domain would loose relevance in Google?",
+        "user": "UJFCMA7V3",
+        "ts": "1572027725.092500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1b787dc70913",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629653306006_1b787dc709138a1ded37_72.jpg",
+            "first_name": "Allan",
+            "real_name": "Allan Formigoni",
+            "display_name": "Allan Formigoni",
+            "team": "TJE58GTJL",
+            "name": "allan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJFCMA7V3",
+            "ts": "1572027773.000000"
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "4a0fe4bc-9911-459f-9c3e-7be085a81961",
+        "type": "message",
+        "text": "Hey Allan - I feel like this is one of those situations where you're asking for specific things but what needs to happen is a larger slicing through the knot type of solution.",
+        "user": "UJE5LARL0",
+        "ts": "1572027785.092900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "e14ca92a-f408-4196-bbb9-64d5cd8da979",
+        "type": "message",
+        "text": "If this was me - I'd sort out at the app framework level that I wanted it to only serve at the canonical domain and then force that (dealing with the root issue) and then the no-index\/search console etc. is cleaning that up on the back end of things.",
+        "user": "UJE5LARL0",
+        "ts": "1572027863.093100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "a4c53e8f-5a3c-49be-983d-9eaf2b79a7e6",
+        "type": "message",
+        "text": "What web framework?",
+        "user": "UJE5LARL0",
+        "ts": "1572028246.093300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1572002646.085600",
+        "parent_user_id": "UJFCMA7V3"
+    }
+]

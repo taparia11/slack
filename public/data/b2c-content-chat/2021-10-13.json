@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1634139470.156400",
+        "user": "U020GK97R1T",
+        "text": "<@U020GK97R1T> has joined the channel",
+        "inviter": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "4f9fa69a-820a-40d3-ab01-dd01ada31ee1",
+        "type": "message",
+        "text": "Hey everyone.  I have no idea where to put this message so I’m putting it here.  I’m looking to hire a web copywriter ASAP for a website redesign project.  I’m in need of someone who can serve as our lead writer, but they’ll have a lot of assistance with internal subject matter experts, the product team, and the marketing team.  It’s for a really fast-growing software company in Boston backed by Summit Partners.  If you’re interested, please DM me!",
+        "user": "U02G086DAA0",
+        "ts": "1634169362.163700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "95f4767ddd9d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-29\/2570731316240_95f4767ddd9dd2048cf9_72.jpg",
+            "first_name": "Tim",
+            "real_name": "Tim Busa",
+            "display_name": "Tim Busa",
+            "team": "TJE58GTJL",
+            "name": "tim_busa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DIxm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone.  I have no idea where to put this message so I’m putting it here.  I’m looking to hire a web copywriter ASAP for a website redesign project.  I’m in need of someone who can serve as our lead writer, but they’ll have a lot of assistance with internal subject matter experts, the product team, and the marketing team.  It’s for a really fast-growing software company in Boston backed by Summit Partners.  If you’re interested, please DM me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634169362.163700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1634941581.003100",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02K5P97F2L"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634247385.167800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634247398.168000"
+            },
+            {
+                "user": "U02K5P97F2L",
+                "ts": "1634941581.003100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1634941581.003100",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02GMMQ281W",
+                    "U02F1GK6U6B",
+                    "UJG9WTEKG",
+                    "UL9V1R1D2"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

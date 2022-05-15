@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "e86ffa2e-7181-4a6f-8fc7-a2b24111981b",
+        "type": "message",
+        "text": "<@UJJMT9ZNJ> I'm interested :slightly_smiling_face: Will DM you",
+        "user": "U015XHF0RE0",
+        "ts": "1638874580.124300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b994352b8aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-22\/1197226784578_3b994352b8aac48ece1e_72.jpg",
+            "first_name": "",
+            "real_name": "Adelina",
+            "display_name": "Adelina",
+            "team": "TJE58GTJL",
+            "name": "karpenkova.adel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TNA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJJMT9ZNJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm interested "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Will DM you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638436318.113500",
+        "parent_user_id": "UJJMT9ZNJ"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1638887201.124600",
+        "thread_ts": "1638887201.124600",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1638888010.125500",
+        "reply_users": [
+            "UUXMCJQ15"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1638888010.125500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D1515635-F235-40EE-9E8B-4F1115F4B483",
+        "type": "message",
+        "text": "Do those sites know you're trading links on their site? Feels like a big risk of getting the post taken down :man-shrugging:",
+        "user": "UUXMCJQ15",
+        "ts": "1638888010.125500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DHxe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do those sites know you're trading links on their site? Feels like a big risk of getting the post taken down "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638887201.124600",
+        "parent_user_id": "USLACKBOT"
+    }
+]

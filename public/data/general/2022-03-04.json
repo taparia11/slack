@@ -1,0 +1,303 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1646384787.017149",
+        "thread_ts": "1646384787.017149",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1646821544.262019",
+        "reply_users": [
+            "U01AU94TABA",
+            "U01BCN0UCN4"
+        ],
+        "replies": [
+            {
+                "user": "U01AU94TABA",
+                "ts": "1646398683.230079"
+            },
+            {
+                "user": "U01BCN0UCN4",
+                "ts": "1646821544.262019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4a4dc352-c5d7-4fd5-abc4-cac5009b76a6",
+        "type": "message",
+        "text": "Hi <@UUH2ESL66>,\n\nI’m a huge fan of this Product-Led Onboarding Checklist I came across recently that might be of help to you:  <https:\/\/productled.com\/onboarding-checklist\/>\n\nI am the Content Lead for the marketing team at Content Beta - a SaaS-focused video production company. We host a lot of podcasts with thought-leaders and experts of the industry. You can also tune in to the podcasts for more insight into what the current trends are. *New Things in Customer Education Show:* <https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M&amp;list=PLRvVyxL4rqqsn-3QBIZO2MfuqRDwr5sKz>",
+        "user": "U0331KC4D0S",
+        "ts": "1646386844.888599",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "087679ccffc0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-14\/3229409890982_087679ccffc043c20b1c_72.jpg",
+            "first_name": "Khyati",
+            "real_name": "Khyati",
+            "display_name": "Khyati - Content Beta",
+            "team": "TJE58GTJL",
+            "name": "khyati",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/productled.com\/onboarding-checklist\/",
+                "service_icon": "https:\/\/productled.com\/wp-content\/uploads\/2019\/05\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/productled.com\/onboarding-checklist\/",
+                "fallback": "ProductLed: The Product-Led Onboarding™ Checklist",
+                "text": "Fine-tune your onboarding experience to turn more of your users into happy paying customers. Use our 21-point onboarding checklist to take stock of your current onboarding experience or run all your new designs past it before unleashing them on the world.",
+                "title": "The Product-Led Onboarding™ Checklist",
+                "title_link": "https:\/\/productled.com\/onboarding-checklist\/",
+                "service_name": "ProductLed"
+            },
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MhRiFoplG1M\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/MhRiFoplG1M?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M&amp;list=PLRvVyxL4rqqsn-3QBIZO2MfuqRDwr5sKz",
+                "fallback": "YouTube Video: How do you create content to educate your customers with Carly Kroll | Ep. 1",
+                "title": "How do you create content to educate your customers with Carly Kroll | Ep. 1",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M",
+                "author_name": "Content Beta",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCZ3ulQoUtK45_cMFVx3tHvQ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sif",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2ESL66"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\n\nI’m a huge fan of this Product-Led Onboarding Checklist I came across recently that might be of help to you:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/productled.com\/onboarding-checklist\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI am the Content Lead for the marketing team at Content Beta - a SaaS-focused video production company. We host a lot of podcasts with thought-leaders and experts of the industry. You can also tune in to the podcasts for more insight into what the current trends are. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "New Things in Customer Education Show: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M&list=PLRvVyxL4rqqsn-3QBIZO2MfuqRDwr5sKz"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645122057.004179",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34a32943-b1e9-4df5-b92c-dce42925d37e",
+        "type": "message",
+        "text": "Hi. If you're a freelancer, who do you pitch your services to in a marketing agency? Is it the CMO? The Account Manager?",
+        "user": "U02RRJ97TQ8",
+        "ts": "1646389080.898289",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5b717cdbc46e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-17\/2855838836835_5b717cdbc46e51752f35_72.png",
+            "first_name": "Aaryaman",
+            "real_name": "Aaryaman Aashind",
+            "display_name": "Aaryaman Aashind",
+            "team": "TJE58GTJL",
+            "name": "aaryaman.aashind",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FA2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi. If you're a freelancer, who do you pitch your services to in a marketing agency? Is it the CMO? The Account Manager?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71cd7918-2491-44a0-8743-297c7fa274f5",
+        "type": "message",
+        "text": "Hi <@U01BCN0UCN4> I shared some thoughts in the <#CJ7QQKJ73|-content-strategy-questions> channel",
+        "user": "U01AU94TABA",
+        "ts": "1646398683.230079",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6236aae5a4ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1368396724496_6236aae5a4ffcfa4bf4d_72.jpg",
+            "first_name": "Danielle",
+            "real_name": "Danielle Love",
+            "display_name": "Danielle Love",
+            "team": "TJE58GTJL",
+            "name": "danielle.love",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BCN0UCN4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I shared some thoughts in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CJ7QQKJ73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646384787.017149",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "ec967027-96e7-4097-8e15-3cec24254548",
+        "type": "message",
+        "text": "Thanks <@U02V46B3JRX> and <@U0331KC4D0S> :raised_hands:",
+        "user": "UUH2ESL66",
+        "ts": "1646413380.602559",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGElm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V46B3JRX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0331KC4D0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645122057.004179",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U0331KC4D0S",
+                    "U02V46B3JRX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

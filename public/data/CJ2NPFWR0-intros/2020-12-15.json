@@ -1,0 +1,827 @@
+[
+    {
+        "client_msg_id": "1f6c3863-386b-4d15-a8e5-1848fd17e0d6",
+        "type": "message",
+        "text": "Thanks Jimmy!",
+        "user": "U01GSR8FQSX",
+        "ts": "1608053656.181600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g3947e8d5489",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3947e8d54896829a7f5caec3990ddb92.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Karine Bengualid",
+            "display_name": "Karine Bengualid",
+            "team": "TJE58GTJL",
+            "name": "k",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Jimmy!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607974394.176600",
+        "parent_user_id": "U01GSR8FQSX"
+    },
+    {
+        "client_msg_id": "1bfd9561-dd1d-4878-97fe-ff4b6d90ac0f",
+        "type": "message",
+        "text": "Hi there! I'm Clayton, senior content strategist at <https:\/\/twofivesix.co\/|Twofivesix>, a consultancy focused on helping brands enter the world of games. Most of my prior experience is in journalism, but I'm loving finding the ways that discipline maps to this new one. (The media could _really_ benefit from some content strategy these days.) Very eager to learn and connect with folks here. Outside of work (and games), I'm an omnivorous music listener and movie watcher and a mediocre yogi, based in Columbus, OH.",
+        "user": "U01H4MBD82U",
+        "ts": "1608055451.182000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f56be50fabeb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-08\/1571572245249_f56be50fabebb9d1109c_72.jpg",
+            "first_name": "",
+            "real_name": "Clayton Purdom",
+            "display_name": "Clayton Purdom",
+            "team": "TJE58GTJL",
+            "name": "clayton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Twofivesix",
+                "title": "Home | Twofivesix",
+                "title_link": "https:\/\/twofivesix.co\/",
+                "text": "Twofivesix helps brands engage in the world of gaming.",
+                "fallback": "Twofivesix: Home | Twofivesix",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Andrew Lindstrom",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "0 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/twofivesix.co\/",
+                "service_icon": "https:\/\/twofivesix.co\/wp-content\/themes\/twofivesix-117\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/twofivesix.co\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0tzyH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi there! I'm Clayton, senior content strategist at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twofivesix.co\/",
+                                "text": "Twofivesix"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", a consultancy focused on helping brands enter the world of games. Most of my prior experience is in journalism, but I'm loving finding the ways that discipline maps to this new one. (The media could "
+                            },
+                            {
+                                "type": "text",
+                                "text": "really",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " benefit from some content strategy these days.) Very eager to learn and connect with folks here. Outside of work (and games), I'm an omnivorous music listener and movie watcher and a mediocre yogi, based in Columbus, OH."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055451.182000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1608075022.193900",
+        "reply_users": [
+            "U01CHG34668",
+            "U01H4MBD82U",
+            "U01EBT43ERH",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "U01CHG34668",
+                "ts": "1608055624.182500"
+            },
+            {
+                "user": "U01H4MBD82U",
+                "ts": "1608055995.182700"
+            },
+            {
+                "user": "U01CHG34668",
+                "ts": "1608056212.182900"
+            },
+            {
+                "user": "U01EBT43ERH",
+                "ts": "1608061638.184100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1608075022.193900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1608075022.193900",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01CHG34668",
+                    "UJG9WTEKG",
+                    "U01G5ED8K0V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U01AHL8AGBB",
+                    "U012UL77GUT",
+                    "U01DEA6F7CH",
+                    "U01BENRM555",
+                    "U01EBT43ERH",
+                    "U01FA24LWJZ",
+                    "U010UHR7PED",
+                    "U01GGQMG6HW",
+                    "U015B88C4CA",
+                    "U01EJ7VE9FD",
+                    "UJG9WTEKG",
+                    "U012YJ35BML",
+                    "U0192P2G8F5",
+                    "U01FUP6AMEZ",
+                    "U014UBPTJ0N",
+                    "UL4QTGBGT",
+                    "U01CGUT2HH6",
+                    "U015HDJKZM2",
+                    "U01HP40NNUF"
+                ],
+                "count": 19
+            }
+        ]
+    },
+    {
+        "client_msg_id": "309d7847-2cce-46bd-8f44-d34df96882b5",
+        "type": "message",
+        "text": "Glad to see another Ohioan here!",
+        "user": "U01CHG34668",
+        "ts": "1608055624.182500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fecda21f49a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-12\/1446963898544_fecda21f49a1ab94f9c0_72.jpg",
+            "first_name": "Victoria",
+            "real_name": "Victoria Hilbert",
+            "display_name": "Victoria Hilbert",
+            "team": "TJE58GTJL",
+            "name": "vhilbert22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XFg+c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glad to see another Ohioan here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055451.182000",
+        "parent_user_id": "U01H4MBD82U"
+    },
+    {
+        "client_msg_id": "933c83b3-d5c7-427f-ada2-340fb9416f61",
+        "type": "message",
+        "text": "<@U01CHG34668> where are you based?",
+        "user": "U01H4MBD82U",
+        "ts": "1608055995.182700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f56be50fabeb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-08\/1571572245249_f56be50fabebb9d1109c_72.jpg",
+            "first_name": "",
+            "real_name": "Clayton Purdom",
+            "display_name": "Clayton Purdom",
+            "team": "TJE58GTJL",
+            "name": "clayton",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kvr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01CHG34668"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where are you based?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055451.182000",
+        "parent_user_id": "U01H4MBD82U"
+    },
+    {
+        "client_msg_id": "cb3493b3-0b77-42b8-af74-de3e1b31ed2d",
+        "type": "message",
+        "text": "Cleveland :grinning:",
+        "user": "U01CHG34668",
+        "ts": "1608056212.182900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fecda21f49a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-12\/1446963898544_fecda21f49a1ab94f9c0_72.jpg",
+            "first_name": "Victoria",
+            "real_name": "Victoria Hilbert",
+            "display_name": "Victoria Hilbert",
+            "team": "TJE58GTJL",
+            "name": "vhilbert22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P19",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cleveland "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055451.182000",
+        "parent_user_id": "U01H4MBD82U",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01H4MBD82U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa6a6fe7-4815-416a-8491-7e0f6df9711c",
+        "type": "message",
+        "text": "I love your business name <@U01GSR8FQSX>!",
+        "user": "U01DEA6F7CH",
+        "ts": "1608058677.183300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "70a1b3d3ea49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-22\/1443614799301_70a1b3d3ea49adc43894_72.jpg",
+            "first_name": "Lee",
+            "real_name": "Lee Price",
+            "display_name": "Lee Price",
+            "team": "TJE58GTJL",
+            "name": "lee792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ha6I5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love your business name "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01GSR8FQSX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607974394.176600",
+        "parent_user_id": "U01GSR8FQSX"
+    },
+    {
+        "client_msg_id": "c7222da9-c4ca-4e87-a6ec-86aeee095e59",
+        "type": "message",
+        "text": "haha thanks so much <@U01DEA6F7CH> — It’s my homage to Sesame Street. See, I learned to speak English watching SS and at the end of every episode it’d be “this episode was brought to you by the letter L and P and the number 12” or whatever… now my biz is 100% English so I wanted to have fun with it. Also… I had puppets made for my biz. I am going all in on the theme LOL.",
+        "user": "U01GSR8FQSX",
+        "ts": "1608058761.183700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g3947e8d5489",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3947e8d54896829a7f5caec3990ddb92.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Karine Bengualid",
+            "display_name": "Karine Bengualid",
+            "team": "TJE58GTJL",
+            "name": "k",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha thanks so much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01DEA6F7CH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " — It’s my homage to Sesame Street. See, I learned to speak English watching SS and at the end of every episode it’d be “this episode was brought to you by the letter L and P and the number 12” or whatever… now my biz is 100% English so I wanted to have fun with it. Also… I had puppets made for my biz. I am going all in on the theme LOL."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607974394.176600",
+        "parent_user_id": "U01GSR8FQSX",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01DEA6F7CH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d87ba42-cccd-4411-9336-a14b415439d1",
+        "type": "message",
+        "text": "Great to see more of the intersection between branding and gaming. Welcome to the group, <@U01H4MBD82U>.",
+        "user": "U01EBT43ERH",
+        "ts": "1608061638.184100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c86ee164dab3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-22\/3419843323814_c86ee164dab3602cb658_72.jpg",
+            "first_name": "Mo",
+            "real_name": "Mo",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mib.shehu.subs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IaiyX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great to see more of the intersection between branding and gaming. Welcome to the group, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01H4MBD82U"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055451.182000",
+        "parent_user_id": "U01H4MBD82U",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01H4MBD82U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73438CBF-CD81-49D8-9439-8683DA0DBD1C",
+        "type": "message",
+        "text": "Hi Everyone- I’m Christie, a content marketer with experience specifically in social, digital, and influencer marketing with a passion for editorial strategy and planning. Former Social Content Strategy Manager at Allstate and am currently seeking new opportunities. I’m based in Glenview, IL (Chicago suburb), an avid runner, and mom to the sweetest 16 month old little girl. Thank you <@URB31QKM4> for inviting me to this group and <@UJG9WTEKG> for adding me. Very thankful to have found a group of my people :hugging_face:",
+        "user": "U01FA24LWJZ",
+        "ts": "1608063342.191400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "95147064a056",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-15\/1583596175268_95147064a05641f64f48_72.png",
+            "first_name": "Christie",
+            "real_name": "Christie Huber",
+            "display_name": "Christie",
+            "team": "TJE58GTJL",
+            "name": "christielphillips",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WUpF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone- I’m Christie, a content marketer with experience specifically in social, digital, and influencer marketing with a passion for editorial strategy and planning. Former Social Content Strategy Manager at Allstate and am currently seeking new opportunities. I’m based in Glenview, IL (Chicago suburb), an avid runner, and mom to the sweetest 16 month old little girl. Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URB31QKM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for inviting me to this group and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for adding me. Very thankful to have found a group of my people "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608063342.191400",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1608129327.197400",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U01FA24LWJZ",
+            "URB31QKM4"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1608074971.193300"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1608074985.193500"
+            },
+            {
+                "user": "U01FA24LWJZ",
+                "ts": "1608075210.194700"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1608129327.197400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1608129327.197400",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U012UL77GUT",
+                    "U017WRJTKF1",
+                    "U010UHR7PED",
+                    "U013P4Q9YTU",
+                    "U018BH9FT3L",
+                    "U01GGQMG6HW",
+                    "U01AHL8AGBB",
+                    "U015B88C4CA",
+                    "U019MUQ6QKV",
+                    "U01EJ7VE9FD",
+                    "UJG9WTEKG",
+                    "U012YJ35BML",
+                    "U01DEA6F7CH",
+                    "U0192P2G8F5",
+                    "U01FUP6AMEZ",
+                    "U014UBPTJ0N",
+                    "UL4QTGBGT",
+                    "URB31QKM4",
+                    "U01CGUT2HH6",
+                    "U015HDJKZM2",
+                    "U01G5ED8K0V",
+                    "U01HP40NNUF"
+                ],
+                "count": 22
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f04ffce4-bc9d-4c5a-868b-a2b196703e48",
+        "type": "message",
+        "text": "welcome aboard <@U01FA24LWJZ>! we have a few jobs hitting the job board tomorrow morning. keep an eye out",
+        "user": "UJG9WTEKG",
+        "ts": "1608074971.193300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vOdl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome aboard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01FA24LWJZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! we have a few jobs hitting the job board tomorrow morning. keep an eye out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608063342.191400",
+        "parent_user_id": "U01FA24LWJZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01FA24LWJZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "098e507c-fef0-434f-8659-06c298400a5a",
+        "type": "message",
+        "text": "also, hooray for running! :man-running::man-running::man-running:",
+        "user": "UJG9WTEKG",
+        "ts": "1608074985.193500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ef2+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, hooray for running! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-running"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-running"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-running"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608063342.191400",
+        "parent_user_id": "U01FA24LWJZ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01FA24LWJZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eed4089b-8484-4135-8bb3-64d2eca62dcc",
+        "type": "message",
+        "text": "mediocre yogis unite! welcome aboard <@U01H4MBD82U>",
+        "user": "UJG9WTEKG",
+        "ts": "1608075022.193900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GV\/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mediocre yogis unite! welcome aboard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01H4MBD82U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055451.182000",
+        "parent_user_id": "U01H4MBD82U"
+    },
+    {
+        "client_msg_id": "6989A321-6CE9-4AE2-817F-4AAEE978ED75",
+        "type": "message",
+        "text": "Awesome on both accounts! Thanks <@UJG9WTEKG> :raised_hands:",
+        "user": "U01FA24LWJZ",
+        "ts": "1608075210.194700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "95147064a056",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-15\/1583596175268_95147064a05641f64f48_72.png",
+            "first_name": "Christie",
+            "real_name": "Christie Huber",
+            "display_name": "Christie",
+            "team": "TJE58GTJL",
+            "name": "christielphillips",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=lvXB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome on both accounts! Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608063342.191400",
+        "parent_user_id": "U01FA24LWJZ"
+    }
+]

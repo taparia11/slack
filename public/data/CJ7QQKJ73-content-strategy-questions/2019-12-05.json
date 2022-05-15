@@ -1,0 +1,818 @@
+[
+    {
+        "type": "message",
+        "text": "Hi! I've got a strategic email marketing dilemma. I'm not an email specialist, I'm a content guy by pedigree, so I'm learning how to do all this for the first time.\n\nI'm refreshing a bunch of email tracks. They are old and very salesy (read: BOFU). But I have to work within the constraints of our automation software: *no segmentation, no logic, no a\/b testing*.\n\nI have to decide how to refresh a series of 23 emails sent out every 3-4 days over a period of 80 days. They all get sent to the same group of people, and the ultimate objective is to get them to start a free trial.\n\nI pulled the following performance metrics for the last 12 months of activity. I also read them all and tagged each one by funnel stage (TOFU = see, MOFU = think, BOFU = do) and what specific pain point (MMS = direct pitch of our software) it solves. *_I don't have data for conversions at an email by email level. Only in aggregate for the entire track for 12 months._\n\nNow I need to decide what email's I'm going to refresh. I want to have a sound strategy and clear set of assumptions, so that once I update the track, I can wait a few months and revisit the performance data and see what's working and what's not.\n\nAny guidance or direction on how you might approach this is greatly appreciated!",
+        "files": [
+            {
+                "id": "FRBC8L5RN",
+                "created": 1575560274,
+                "timestamp": 1575560274,
+                "name": "Screen Shot 2019-12-05 at 10.19.08 AM.png",
+                "title": "Screen Shot 2019-12-05 at 10.19.08 AM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UJHBBR59V",
+                "editable": false,
+                "size": 190756,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-FRBC8L5RN\/screen_shot_2019-12-05_at_10.19.08_am.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-FRBC8L5RN\/download\/screen_shot_2019-12-05_at_10.19.08_am.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 163,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 217,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 325,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 362,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 434,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FRBC8L5RN-4a15e591f5\/screen_shot_2019-12-05_at_10.19.08_am_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 463,
+                "image_exif_rotation": 1,
+                "original_w": 1427,
+                "original_h": 645,
+                "thumb_tiny": "AwAVADC0EQfwL+QpwVD\/AAL+VBoGPWgBwjT\/AJ5L\/wB8il8tP+eS\/kKVMjuCPpT6AImjTaf3aj8BR5aBwNi9PSnv900h\/wBYPpQBHSUvrSUAShcd6UUUDrQAP9000jMo5PSnP900h\/1g+lAH\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJHBBR59V\/FRBC8L5RN\/screen_shot_2019-12-05_at_10.19.08_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-FRBC8L5RN-ce999f4e73",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FQYJPADD0",
+                "created": 1575560274,
+                "timestamp": 1575560274,
+                "name": "Screen Shot 2019-12-05 at 10.11.25 AM.png",
+                "title": "Screen Shot 2019-12-05 at 10.11.25 AM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UJHBBR59V",
+                "editable": false,
+                "size": 35569,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-FQYJPADD0\/screen_shot_2019-12-05_at_10.11.25_am.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-FQYJPADD0\/download\/screen_shot_2019-12-05_at_10.11.25_am.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 23,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 31,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 47,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 52,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 63,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FQYJPADD0-6ecf7a9c9d\/screen_shot_2019-12-05_at_10.11.25_am_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 67,
+                "image_exif_rotation": 1,
+                "original_w": 1701,
+                "original_h": 111,
+                "thumb_tiny": "AwADADC4kMZHMa\/lT\/Ii\/wCeaflQn+NPoAjMEWD+7T8qasUZIGxfyqU\/dNMT7w\/z2oADDFuX92n5UhhiCZEaflUjfeWhvuD8KAP\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJHBBR59V\/FQYJPADD0\/screen_shot_2019-12-05_at_10.11.25_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-FQYJPADD0-5403c655f3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UJHBBR59V",
+        "ts": "1575560282.209000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6ptC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I've got a strategic email marketing dilemma. I'm not an email specialist, I'm a content guy by pedigree, so I'm learning how to do all this for the first time.\n\nI'm refreshing a bunch of email tracks. They are old and very salesy (read: BOFU). But I have to work within the constraints of our automation software: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "no segmentation, no logic, no a\/b testing",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nI have to decide how to refresh a series of 23 emails sent out every 3-4 days over a period of 80 days. They all get sent to the same group of people, and the ultimate objective is to get them to start a free trial.\n\nI pulled the following performance metrics for the last 12 months of activity. I also read them all and tagged each one by funnel stage (TOFU = see, MOFU = think, BOFU = do) and what specific pain point (MMS = direct pitch of our software) it solves. *"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I don't have data for conversions at an email by email level. Only in aggregate for the entire track for 12 months.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNow I need to decide what email's I'm going to refresh. I want to have a sound strategy and clear set of assumptions, so that once I update the track, I can wait a few months and revisit the performance data and see what's working and what's not.\n\nAny guidance or direction on how you might approach this is greatly appreciated!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "UJHBBR59V",
+            "ts": "1575564650.000000"
+        },
+        "client_msg_id": "f355d720-e77e-49cb-af77-d4546e6ee109",
+        "thread_ts": "1575560282.209000",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1575572216.212600",
+        "reply_users": [
+            "UJE5LQ2JC",
+            "UJDPMTREY",
+            "URADJK6A3",
+            "UJHBBR59V"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1575560633.209500"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1575561032.209700"
+            },
+            {
+                "user": "URADJK6A3",
+                "ts": "1575564048.210000"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1575564909.210400"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1575565061.210700"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1575565189.210900"
+            },
+            {
+                "user": "URADJK6A3",
+                "ts": "1575565595.211200"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1575572216.212600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8f749234-f9c8-4e52-8fb4-66978b294420",
+        "type": "message",
+        "text": "technically you _can_ a\/b test by refreshing and comparing to the old one. I would suggested working in order of send and just go 2-3 at a time",
+        "user": "UJE5LQ2JC",
+        "ts": "1575560633.209500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GPj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "technically you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "can",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " a\/b test by refreshing and comparing to the old one. I would suggested working in order of send and just go 2-3 at a time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575560282.209000",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "c5a02fe4-e041-4887-b4ed-3b8214a9331f",
+        "type": "message",
+        "text": "any chance you have conversion data for trial sign-ups who turned into paying customers? (and that you can work backward to see which emails appear most influential in their decision-making?)\n\nif you can't segment, you could identify your best-fit customer that way (i.e. the one who becomes a paying customer, not just a tire-kicker), then craft all your emails for that person.\n\n(that may require some buy-in from higher-ups who could see vanity-ish metrics like trial starts go down if you focus your campaigns on those who open their wallets.)\n\nif it's any consolation, optimizing for opens\/clicks (what most email software testing lets you do) isn't usually that valuable.",
+        "user": "UJDPMTREY",
+        "ts": "1575561032.209700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTsI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "any chance you have conversion data for trial sign-ups who turned into paying customers? (and that you can work backward to see which emails appear most influential in their decision-making?)\n\nif you can't segment, you could identify your best-fit customer that way (i.e. the one who becomes a paying customer, not just a tire-kicker), then craft all your emails for that person.\n\n(that may require some buy-in from higher-ups who could see vanity-ish metrics like trial starts go down if you focus your campaigns on those who open their wallets.)\n\nif it's any consolation, optimizing for opens\/clicks (what most email software testing lets you do) isn't usually that valuable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575560282.209000",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UJHBBR59V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "222cd3f6-a305-438d-9327-4e22cee94685",
+        "type": "message",
+        "text": "Former email marketer here with a thought on content. I would recommend giving users options that mirror what you would do if you _could_ segment. Not sure what makes sense for you of course, but for example, you link three guides and label each \"for beginners\" \"experts\" and so on. In that way, you are doing what you can to personalize content without the benefit of segmentation.",
+        "user": "URADJK6A3",
+        "ts": "1575564048.210000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f429e19212d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-05\/863404950503_f429e19212d878f02dd5_72.jpg",
+            "first_name": "",
+            "real_name": "Elizabeth McCumber",
+            "display_name": "Elizabeth McCumber",
+            "team": "TJE58GTJL",
+            "name": "elizabeth.mccumber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h+fu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Former email marketer here with a thought on content. I would recommend giving users options that mirror what you would do if you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "could",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " segment. Not sure what makes sense for you of course, but for example, you link three guides and label each \"for beginners\" \"experts\" and so on. In that way, you are doing what you can to personalize content without the benefit of segmentation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575560282.209000",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "brain",
+                "users": [
+                    "UJDPMTREY",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1fa6c437-cb2e-4a37-bb6b-d94516ae2e16",
+        "type": "message",
+        "text": "<@UJDPMTREY> I don't have data for conversions at an email by email level. Only in aggregate for the entire track for a 12 month period. :angry:\n\nThis is a pain, because If I refresh the content or focus of any email in the track, I risk breaking an email that's already converting. I'm stumped.",
+        "user": "UJHBBR59V",
+        "ts": "1575564909.210400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jlG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJDPMTREY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't have data for conversions at an email by email level. Only in aggregate for the entire track for a 12 month period. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "angry"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis is a pain, because If I refresh the content or focus of any email in the track, I risk breaking an email that's already converting. I'm stumped."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575560282.209000",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "9612e049-a514-40ed-957a-7e6fb109022e",
+        "type": "message",
+        "text": "<@UJE5LQ2JC> So you're saying rather than refreshing the whole track, refresh the subject lines of the first 3, push them live, then wait a few months to see if they improve performance, then do the next 3? That sounds like it will take a long time. Ideally I want to be off this automation software in 6 months.\n\nThe dilemma is how to fix something that is broken in ways I don't understand, without breaking it more, in the shortest period of time.",
+        "user": "UJHBBR59V",
+        "ts": "1575565061.210700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Ds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LQ2JC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " So you're saying rather than refreshing the whole track, refresh the subject lines of the first 3, push them live, then wait a few months to see if they improve performance, then do the next 3? That sounds like it will take a long time. Ideally I want to be off this automation software in 6 months.\n\nThe dilemma is how to fix something that is broken in ways I don't understand, without breaking it more, in the shortest period of time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575560282.209000",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "66617866-9a2d-4166-8bec-b074261eb5bd",
+        "type": "message",
+        "text": "<@URADJK6A3> Are you saying to craft each email so that it has something for people at every stage in the journey, and a 3 CTAs (1 TOFU, 1 MOFU, 1 BOFU)?\n\nThat sounds challenging!",
+        "user": "UJHBBR59V",
+        "ts": "1575565189.210900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5tSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URADJK6A3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Are you saying to craft each email so that it has something for people at every stage in the journey, and a 3 CTAs (1 TOFU, 1 MOFU, 1 BOFU)?\n\nThat sounds challenging!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575560282.209000",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "c7f48d0b-fa42-496f-acf1-98ab47c93d38",
+        "type": "message",
+        "text": "Noo that would be too much for anyone haha. I'm thinking more about how to get around the lack of segmentation. I don't know what key differences matter to you, but for example if you would have written a different message based on size of company bc size corresponds to common objections, I would try to offer ways to still hit those different needs. I would assume this would stay within one FU at a time. Looking again, I think I jumped to content as opposed to which messages to prioritize.",
+        "user": "URADJK6A3",
+        "ts": "1575565595.211200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f429e19212d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-05\/863404950503_f429e19212d878f02dd5_72.jpg",
+            "first_name": "",
+            "real_name": "Elizabeth McCumber",
+            "display_name": "Elizabeth McCumber",
+            "team": "TJE58GTJL",
+            "name": "elizabeth.mccumber",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MT56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Noo that would be too much for anyone haha. I'm thinking more about how to get around the lack of segmentation. I don't know what key differences matter to you, but for example if you would have written a different message based on size of company bc size corresponds to common objections, I would try to offer ways to still hit those different needs. I would assume this would stay within one FU at a time. Looking again, I think I jumped to content as opposed to which messages to prioritize."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575560282.209000",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJHBBR59V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b8a56e6-a194-4e9e-a8e6-cd91d9542ab9",
+        "type": "message",
+        "text": "Anyone able to help me fill in the blank here?\n\n\"I _really_ wish someone would create a course on content marketing that covered ______________.\"",
+        "user": "UJDPMTREY",
+        "ts": "1575571757.212200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myxr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone able to help me fill in the blank here?\n\n\"I _really_ wish someone would create a course on content marketing that covered ______________.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575571757.212200",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1575650637.216000",
+        "reply_users": [
+            "UJ7RT1J1X",
+            "UQMMNFRED",
+            "UJG24P8P6",
+            "UJDRK6E4C"
+        ],
+        "replies": [
+            {
+                "user": "UJ7RT1J1X",
+                "ts": "1575571841.212300"
+            },
+            {
+                "user": "UQMMNFRED",
+                "ts": "1575573366.212900"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1575598037.213400"
+            },
+            {
+                "user": "UJDRK6E4C",
+                "ts": "1575650637.216000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aa34d066-d504-487f-81be-018d332b6558",
+        "type": "message",
+        "text": "How a content team\/strategy needs to change as an organization scales",
+        "user": "UJ7RT1J1X",
+        "ts": "1575571841.212300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3344738d2bc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-17\/1076357263828_3344738d2bc26736e62e_72.jpg",
+            "first_name": "Benyamin",
+            "real_name": "Benyamin Elias",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benyamin.elias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cs=Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How a content team\/strategy needs to change as an organization scales"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575571757.212200",
+        "parent_user_id": "UJDPMTREY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJDPMTREY",
+                    "UJG24P8P6",
+                    "UR3A94N4R",
+                    "UJS7GK1TP"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "685f6187-dac6-4997-91e5-700ea58a5bdc",
+        "type": "message",
+        "text": "Ah yes, I see.\n\nWhere I'm at is deciding on a funnel stage sequence strategy. There's 23 email in total, so do I keep all 23? If I do, do I send 9 TOFU, 7 MOFU , 7 BOFU or do I send 7 sets of 1 TOFU, 1 MOFU, 1 BOFU, or... there's so many ways to do it",
+        "user": "UJHBBR59V",
+        "ts": "1575572216.212600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d67I0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah yes, I see.\n\nWhere I'm at is deciding on a funnel stage sequence strategy. There's 23 email in total, so do I keep all 23? If I do, do I send 9 TOFU, 7 MOFU , 7 BOFU or do I send 7 sets of 1 TOFU, 1 MOFU, 1 BOFU, or... there's so many ways to do it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575560282.209000",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "7cefe790-0ee5-4724-bdbb-7d803de894d3",
+        "type": "message",
+        "text": "How friction kills the buyer's journey (and reducing it can boost conversion)",
+        "user": "UQMMNFRED",
+        "ts": "1575573366.212900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9d511876ceb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-22\/847876123766_9d511876ceb10bf8addc_72.png",
+            "first_name": "",
+            "real_name": "Sheida",
+            "display_name": "Sheida",
+            "team": "TJE58GTJL",
+            "name": "sheidaazimii",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5hMg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How friction kills the buyer's journey (and reducing it can boost conversion)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575571757.212200",
+        "parent_user_id": "UJDPMTREY",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UJDPMTREY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8d31035-67be-4b1a-9385-ede966511d5b",
+        "type": "message",
+        "text": "Techincal SEO For Content Marketers.",
+        "user": "UJG24P8P6",
+        "ts": "1575598037.213400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vIk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Techincal SEO For Content Marketers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575571757.212200",
+        "parent_user_id": "UJDPMTREY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJDPMTREY",
+                    "UR3A94N4R",
+                    "UJDRK6E4C",
+                    "UQRC13JTY",
+                    "UJJFDTN8G",
+                    "UJS7GK1TP"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

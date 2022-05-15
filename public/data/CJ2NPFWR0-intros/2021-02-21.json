@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "22852d15-34d8-4af3-a03f-0b576f1bd880",
+        "type": "message",
+        "text": "Hey Tom, Grüsse aus der Schweiz :wave:",
+        "user": "U01CW2WDEEP",
+        "ts": "1613901349.012100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "65ad92ea230b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1424773407623_65ad92ea230b674b432b_72.png",
+            "first_name": "Yasemin",
+            "real_name": "Yasemin Salman",
+            "display_name": "Yasemin Salman",
+            "team": "TJE58GTJL",
+            "name": "yasemin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Tom, Grüsse aus der Schweiz "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613209094.275900",
+        "parent_user_id": "U01N0AYGBK4"
+    },
+    {
+        "client_msg_id": "02CE8B0E-4923-4037-B567-8ABFA3DB61A1",
+        "type": "message",
+        "text": "Welcome to the group <@U01PATSQL48>!",
+        "user": "U015B88C4CA",
+        "ts": "1613916201.013500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yo1d+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the group "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PATSQL48"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613891908.011800",
+        "parent_user_id": "U01PATSQL48",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01PATSQL48"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

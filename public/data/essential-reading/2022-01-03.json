@@ -1,0 +1,124 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1641228464.182900",
+        "thread_ts": "1641228464.182900",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1641275223.183400",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02RGPRFU7N"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1641235649.183100"
+            },
+            {
+                "user": "U02RGPRFU7N",
+                "ts": "1641275223.183400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1641275223.183400"
+    },
+    {
+        "client_msg_id": "5560a44e-774a-4f71-94b9-d7661927767d",
+        "type": "message",
+        "text": "<@U02RGPRFU7N> can you move this to <#C012AUSC85C|promotion>?",
+        "user": "UJG9WTEKG",
+        "ts": "1641235649.183100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2w\/t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02RGPRFU7N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641228464.182900",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "292eff4c-ba51-4164-8646-1fd9b1c2a8d9",
+        "type": "message",
+        "text": "Sure, thanks.",
+        "user": "U02RGPRFU7N",
+        "ts": "1641275223.183400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "93cff06e23b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-26\/2883394409170_93cff06e23b46b108ea6_72.png",
+            "first_name": "Abheek",
+            "real_name": "Abheek",
+            "display_name": "Abheek",
+            "team": "TJE58GTJL",
+            "name": "abheekkakkar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i0fC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641228464.182900",
+        "parent_user_id": "USLACKBOT"
+    }
+]

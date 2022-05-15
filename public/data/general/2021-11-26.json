@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "36b14b59-39dd-419c-8d96-995266168fc9",
+        "type": "message",
+        "text": "Thanks everyone!",
+        "user": "U02NFLN97M3",
+        "ts": "1637941535.249000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "abf077b14c6a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-24\/2767441112963_abf077b14c6a6a3bded0_72.jpg",
+            "first_name": "George",
+            "real_name": "George Chu",
+            "display_name": "George",
+            "team": "TJE58GTJL",
+            "name": "gchu647",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02NFLN97M3",
+            "ts": "1637941556.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QpBRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks everyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637850515.247500",
+        "parent_user_id": "U02NFLN97M3"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1637941536.249200",
+        "thread_ts": "1637850515.247500",
+        "parent_user_id": "U02NFLN97M3"
+    }
+]

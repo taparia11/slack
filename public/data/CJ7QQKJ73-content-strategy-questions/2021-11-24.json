@@ -1,0 +1,1363 @@
+[
+    {
+        "client_msg_id": "9272f311-12a1-4abe-94c5-a6a4bb0400f8",
+        "type": "message",
+        "text": "For SaaS that have a long history of publishing blog posts around new features and other product updates, what have you found works best to not have these posts become dead weight in terms of SEO (no traffic, no rankings)?\nNoindex after a while but keep online as a historical record? Delete and redirect to the actual feature page where possible?\nThanks!",
+        "user": "U02J7DM81AQ",
+        "ts": "1637748064.347600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb47e412d680",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b47e412d680490c17c4ca22271a9e55b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sofie",
+            "real_name": "Sofie Couwenbergh",
+            "display_name": "Sofie Couwenbergh",
+            "team": "TJE58GTJL",
+            "name": "sofie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=GW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For SaaS that have a long history of publishing blog posts around new features and other product updates, what have you found works best to not have these posts become dead weight in terms of SEO (no traffic, no rankings)?\nNoindex after a while but keep online as a historical record? Delete and redirect to the actual feature page where possible?\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637748064.347600",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1637847546.367900",
+        "reply_users": [
+            "UJJFDTN8G",
+            "UUJBM2PJ7",
+            "UUXMCJQ15",
+            "U01SFTTQ483",
+            "U02J7DM81AQ"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1637748551.347700"
+            },
+            {
+                "user": "UUJBM2PJ7",
+                "ts": "1637758934.347900"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1637766058.349500"
+            },
+            {
+                "user": "U01SFTTQ483",
+                "ts": "1637773176.350200"
+            },
+            {
+                "user": "U02J7DM81AQ",
+                "ts": "1637847267.367500"
+            },
+            {
+                "user": "U02J7DM81AQ",
+                "ts": "1637847485.367700"
+            },
+            {
+                "user": "U02J7DM81AQ",
+                "ts": "1637847546.367900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "678eb455-2d32-4ce1-9bbd-a7d9b216aec7",
+        "type": "message",
+        "text": "I had this problem a few years ago so decided to put the product updates on one long page with a contents section of each month.\n\nIt must have 10,000 words by now - instead of 25 x 300-word posts.\n\nIt's probably not _the best_ suggestion but it worked for us.",
+        "user": "UJJFDTN8G",
+        "ts": "1637748551.347700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ci0Na",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had this problem a few years ago so decided to put the product updates on one long page with a contents section of each month.\n\nIt must have 10,000 words by now - instead of 25 x 300-word posts.\n\nIt's probably not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "the best ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "suggestion but it worked for us."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637748064.347600",
+        "parent_user_id": "U02J7DM81AQ"
+    },
+    {
+        "client_msg_id": "ebbc3de4-7a3c-4d21-903f-7dfce83d55c8",
+        "type": "message",
+        "text": "They might be dead weight in terms of SEO but these types of posts can be your strongest BOFU pieces that drive trials (even long after feature launches). I would audit conversion carefully before you delete\/redirect; there might even be an opportunity to optimize &amp; re-promote them to new prospects (nobody actually cares about timing of feature releases, they care about them when they need them). If you do delete\/redirect I'd try to push to your Support FAQs \/ Product Pages section for highest relevance to the user. But yes, if they're completely dead, declutter!",
+        "user": "UUJBM2PJ7",
+        "ts": "1637758934.347900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f77cbe4c3060",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1270061579587_f77cbe4c3060d94c9e20_72.jpg",
+            "first_name": "Jane",
+            "real_name": "Jane Flanagan",
+            "display_name": "Jane Flanagan",
+            "team": "TJE58GTJL",
+            "name": "jane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=3cQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They might be dead weight in terms of SEO but these types of posts can be your strongest BOFU pieces that drive trials (even long after feature launches). I would audit conversion carefully before you delete\/redirect; there might even be an opportunity to optimize & re-promote them to new prospects (nobody actually cares about timing of feature releases, they care about them when they need them). If you do delete\/redirect I'd try to push to your Support FAQs \/ Product Pages section for highest relevance to the user. But yes, if they're completely dead, declutter!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637748064.347600",
+        "parent_user_id": "U02J7DM81AQ",
+        "reactions": [
+            {
+                "name": "brain",
+                "users": [
+                    "UUH2ESL66",
+                    "U01FXSKB4G7",
+                    "U02GSLH7FBM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UMQASRN1W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00900a06-53fb-4825-9ef1-93c874034a58",
+        "type": "message",
+        "text": "I've worked with companies that have TONS of these and it's brutal. There's always a stakeholder that wants to keep them so I love <@UJJFDTN8G>'s idea of merging them to a single page. That's also just a WAY more fun way to see the product history, too, if you're into that.",
+        "user": "UUXMCJQ15",
+        "ts": "1637766058.349500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've worked with companies that have TONS of these and it's brutal. There's always a stakeholder that wants to keep them so I love "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJJFDTN8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s idea of merging them to a single page. That's also just a WAY more fun way to see the product history, too, if you're into that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637748064.347600",
+        "parent_user_id": "U02J7DM81AQ"
+    },
+    {
+        "client_msg_id": "c4ed9b9f-f40e-40a6-bd62-e22a645ec4bb",
+        "type": "message",
+        "text": "an alternative is to move them to your Help Centre. So if you have <http:\/\/help.company.com|help.company.com> set up on something like Zendesk or intercom, you could put product updates there",
+        "user": "U01SFTTQ483",
+        "ts": "1637773176.350200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bffef5138cc6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-25\/1893741270550_bffef5138cc63fcea5b0_72.png",
+            "first_name": "Shawn",
+            "real_name": "Shawn Ragell",
+            "display_name": "Shawn Ragell",
+            "team": "TJE58GTJL",
+            "name": "shawn.ragell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01SFTTQ483",
+            "ts": "1637773184.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ASx3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "an alternative is to move them to your Help Centre. So if you have "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/help.company.com",
+                                "text": "help.company.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " set up on something like Zendesk or intercom, you could put product updates there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637748064.347600",
+        "parent_user_id": "U02J7DM81AQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U02J7DM81AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fdf7a49-a056-4490-b892-bb63c64184a7",
+        "type": "message",
+        "text": "Any recommendations on some solid demand gen agencies out there?",
+        "user": "U016V6EHYMA",
+        "ts": "1637773538.350800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6245e891df5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6245e891df5bbd8e1e60585f1498e9ed.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Tommy Walker",
+            "display_name": "Tommy Walker",
+            "team": "TJE58GTJL",
+            "name": "tommyisastrategist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ib4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any recommendations on some solid demand gen agencies out there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637773538.350800",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1637876871.383100",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02KHES8ACF",
+            "U016V6EHYMA"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1637775439.356300"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1637775446.356600"
+            },
+            {
+                "user": "U02KHES8ACF",
+                "ts": "1637775495.357900"
+            },
+            {
+                "user": "U016V6EHYMA",
+                "ts": "1637788320.362900"
+            },
+            {
+                "user": "U02KHES8ACF",
+                "ts": "1637876871.383100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1637876871.383100"
+    },
+    {
+        "client_msg_id": "b616de21-f682-4215-8e49-d592469767d9",
+        "type": "message",
+        "text": ":wave: Content marketers! I was wondering how you estimate uplift in things like traffic, leads and revenue when planning for increased content production in 2022?",
+        "user": "UUKNSLX9P",
+        "ts": "1637774304.351000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge4d7f5bd91d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4d7f5bd91da1df74fcdb33d42f21121.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Eilis",
+            "real_name": "Eilis McCann",
+            "display_name": "Eilis McCann",
+            "team": "TJE58GTJL",
+            "name": "e.mccann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Content marketers! I was wondering how you estimate uplift in things like traffic, leads and revenue when planning for increased content production in 2022?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637774304.351000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1637779050.360900",
+        "reply_users": [
+            "U01SFTTQ483"
+        ],
+        "replies": [
+            {
+                "user": "U01SFTTQ483",
+                "ts": "1637779050.360900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59076002-72AC-4C3C-A1F1-5146EA78E87D",
+        "type": "message",
+        "text": "42!",
+        "user": "UJG9WTEKG",
+        "ts": "1637775439.356300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n7=M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "42!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637773538.350800",
+        "parent_user_id": "U016V6EHYMA",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02KHES8ACF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24F8D41A-34F7-45B2-B560-F8F928711289",
+        "type": "message",
+        "text": "<@U02KHES8ACF> ",
+        "user": "UJG9WTEKG",
+        "ts": "1637775446.356600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "suX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02KHES8ACF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637773538.350800",
+        "parent_user_id": "U016V6EHYMA"
+    },
+    {
+        "client_msg_id": "A391884A-2220-4631-ACBF-8D4A8E80047F",
+        "type": "message",
+        "text": "Oh hey! <@U016V6EHYMA> we do demand generation and Marketing \/ Sales Ops for B2B SaaS companies like Guru \/ Profitwell \/ Cin7 etc . Happy to chat :) ",
+        "user": "U02KHES8ACF",
+        "ts": "1637775495.357900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g28fd0a2c78c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/28fd0a2c78c8249778d30c2ea84b4e18.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Kamil",
+            "real_name": "Kamil Rextin",
+            "display_name": "Kamil Rextin",
+            "team": "TJE58GTJL",
+            "name": "kamil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02KHES8ACF",
+            "ts": "1637775617.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Rm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh hey! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016V6EHYMA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we do demand generation and Marketing \/ Sales Ops for B2B SaaS companies like Guru \/ Profitwell \/ Cin7 etc . Happy to chat :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637773538.350800",
+        "parent_user_id": "U016V6EHYMA"
+    },
+    {
+        "client_msg_id": "c50f2763-697b-4da0-8e8f-682eba9f508f",
+        "type": "message",
+        "text": "Hey internet friends! I'd love anyone's advice on scaling up our SaaS blog with contributions from community contributors\/partners without messing too much with our SEO strategy or content quality.\n\n*Context:* at <https:\/\/www.butter.us\/|Butter> we already collaborate with facilitators on a <https:\/\/www.youtube.com\/c\/Butter_HQ\/videos|video workshop series>. We can definitely repurpose the videos into blogs, but we'd love to accept guest blogs too.\n\nThe problem I'm foreseeing is a bunch of competing\/overlapping topics (e.g. \"10 tips to facilitate better meetings\"). Or posts that are 800 words when they need to be 3000 words to compete.\n\nI'm thinking the best strategy will be to leverage the community for thought leadership-y\/social-friendly blogs and then use tidbits from those interviews\/articles to educate\/buff up our SEO posts.\n\nAny positive\/negative experiences with this? Recommended workflows? Thank you :pray:",
+        "user": "UUH2ESL66",
+        "ts": "1637775636.360000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUH2ESL66",
+            "ts": "1637775745.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WlS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey internet friends! I'd love anyone's advice on scaling up our SaaS blog with contributions from community contributors\/partners without messing too much with our SEO strategy or content quality.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Context:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.butter.us\/",
+                                "text": "Butter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we already collaborate with facilitators on a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/c\/Butter_HQ\/videos",
+                                "text": "video workshop series"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". We can definitely repurpose the videos into blogs, but we'd love to accept guest blogs too.\n\nThe problem I'm foreseeing is a bunch of competing\/overlapping topics (e.g. \"10 tips to facilitate better meetings\"). Or posts that are 800 words when they need to be 3000 words to compete.\n\nI'm thinking the best strategy will be to leverage the community for thought leadership-y\/social-friendly blogs and then use tidbits from those interviews\/articles to educate\/buff up our SEO posts.\n\nAny positive\/negative experiences with this? Recommended workflows? Thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637775636.360000",
+        "reply_count": 10,
+        "reply_users_count": 7,
+        "latest_reply": "1638323347.439000",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U02C6HZ184F",
+            "UUH2ESL66",
+            "U02JE3TBG14",
+            "U02LZ4X5J30",
+            "U02CUMQBP9R",
+            "U01LCCTLT8T"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1637776355.360400"
+            },
+            {
+                "user": "U02C6HZ184F",
+                "ts": "1637779491.361100"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1637782989.362700"
+            },
+            {
+                "user": "U02JE3TBG14",
+                "ts": "1637794027.365300"
+            },
+            {
+                "user": "U02LZ4X5J30",
+                "ts": "1637817363.365700"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1637866775.380900"
+            },
+            {
+                "user": "U02CUMQBP9R",
+                "ts": "1638183053.388600"
+            },
+            {
+                "user": "U01LCCTLT8T",
+                "ts": "1638293556.427900"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1638311139.435100"
+            },
+            {
+                "user": "U01LCCTLT8T",
+                "ts": "1638323347.439000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "33079d55-b90b-4a5c-a3e3-16ea43214228",
+        "type": "message",
+        "text": "I had a big plan for this when I started working with ActiveCampaign and the short answer is there's two ways:\n\n1. Hold high standards and become the go-to place in your vertical to write. \n2. Look at how Databox sources quotes for articles and also leverages them for sharing on social.\nPersonally, I'd go with the latter.",
+        "user": "UUXMCJQ15",
+        "ts": "1637776355.360400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z=qIo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had a big plan for this when I started working with ActiveCampaign and the short answer is there's two ways:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hold high standards and become the go-to place in your vertical to write. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Look at how Databox sources quotes for articles and also leverages them for sharing on social."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nPersonally, I'd go with the latter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637775636.360000",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "brain",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc57426c-2714-4074-b224-71f24955d7e7",
+        "type": "message",
+        "text": "Thanks Gary! I’ll take a look",
+        "user": "U02643EMUBD",
+        "ts": "1637777184.360700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "03118f83ffdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-30\/2459728295136_03118f83ffdc34c00422_72.jpg",
+            "first_name": "",
+            "real_name": "David Mantel",
+            "display_name": "David Mantel",
+            "team": "TJE58GTJL",
+            "name": "davidmantel11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZK\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Gary! I’ll take a look"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637597771.326200",
+        "parent_user_id": "U02643EMUBD"
+    },
+    {
+        "client_msg_id": "c768ec4c-d1de-4719-896c-f844506abf57",
+        "type": "message",
+        "text": "I'd use my current numbers and then use a multiplier based on the increase in content, but that's not guaranteed.",
+        "user": "U01SFTTQ483",
+        "ts": "1637779050.360900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bffef5138cc6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-25\/1893741270550_bffef5138cc63fcea5b0_72.png",
+            "first_name": "Shawn",
+            "real_name": "Shawn Ragell",
+            "display_name": "Shawn Ragell",
+            "team": "TJE58GTJL",
+            "name": "shawn.ragell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6pJX4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd use my current numbers and then use a multiplier based on the increase in content, but that's not guaranteed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637774304.351000",
+        "parent_user_id": "UUKNSLX9P",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUKNSLX9P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I've never tried it personally, but here's one idea I've seen others using\n\nDraft up a spreadsheet with a list of topics\/keywords on which you'd be glad to receive contributions\n\nWhen you have a prospective contributor, you could send the list and ask if any topics take their fancy + suit their expertise\n\nYou can also go a step further and provide them with a content brief if you have the bandwidth, to make sure it stays on track from an SEO perspective\n\nDefinitely keep the doors open for super high quality thought leadership contributions too, though!",
+        "files": [
+            {
+                "id": "F02NBRARLDC",
+                "created": 1637779458,
+                "timestamp": 1637779458,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02C6HZ184F",
+                "editable": false,
+                "size": 78296,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02NBRARLDC\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02NBRARLDC\/download\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02NBRARLDC-93fb3f20e2\/image_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02NBRARLDC-93fb3f20e2\/image_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02NBRARLDC-93fb3f20e2\/image_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 266,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02NBRARLDC-93fb3f20e2\/image_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 354,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02NBRARLDC-93fb3f20e2\/image_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "original_w": 507,
+                "original_h": 687,
+                "thumb_tiny": "AwAwACNTZA\/xkfRaBYKf+Wrf981dyvcU8FaLisUPsAH\/AC0P\/fNC2oAxvJ\/CrxK1Hkf5FAWKRswST5h\/Kk+xD\/no35VdJXP\/ANajK\/5FMLD8CnqAR\/8AXqISL2J\/KpBKmOufwpDHEDPSocCpDIvr+lRb19f0oQhcD0pMD0pN6+v6Ub19f0pgL0p4z65plOXPrUgKajqQ1Hg00Ah60lKQc9KMH0oA\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U02C6HZ184F\/F02NBRARLDC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F02NBRARLDC-1f87d1a720",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02C6HZ184F",
+        "display_as_bot": false,
+        "ts": "1637779491.361100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gk6kU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've never tried it personally, but here's one idea I've seen others using\n\nDraft up a spreadsheet with a list of topics\/keywords on which you'd be glad to receive contributions\n\nWhen you have a prospective contributor, you could send the list and ask if any topics take their fancy + suit their expertise\n\nYou can also go a step further and provide them with a content brief if you have the bandwidth, to make sure it stays on track from an SEO perspective\n\nDefinitely keep the doors open for super high quality thought leadership contributions too, though!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "889f8b77-5514-4bfb-9d2a-664bddb993f4",
+        "thread_ts": "1637775636.360000",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53021477-c7b2-45f1-8522-ab2789aedbeb",
+        "type": "message",
+        "text": "Thanks, <@UUXMCJQ15> and <@U02C6HZ184F> :pray:. Great food for thought. I'd love to hear others' perspectives too—especially if you've had success with guest contributors.",
+        "user": "UUH2ESL66",
+        "ts": "1637782989.362700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DfiD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02C6HZ184F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Great food for thought. I'd love to hear others' perspectives too—especially if you've had success with guest contributors."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637775636.360000",
+        "parent_user_id": "UUH2ESL66"
+    },
+    {
+        "client_msg_id": "e578b045-30c7-4656-b8e6-843d0784865a",
+        "type": "message",
+        "text": "Awesome! Shoot me an email <mailto:tommy@thecontentstudio.com|tommy@thecontentstudio.com> and we'll get something on for next week.",
+        "user": "U016V6EHYMA",
+        "ts": "1637788320.362900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6245e891df5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6245e891df5bbd8e1e60585f1498e9ed.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Tommy Walker",
+            "display_name": "Tommy Walker",
+            "team": "TJE58GTJL",
+            "name": "tommyisastrategist",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YuB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! Shoot me an email "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:tommy@thecontentstudio.com",
+                                "text": "tommy@thecontentstudio.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and we'll get something on for next week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637773538.350800",
+        "parent_user_id": "U016V6EHYMA"
+    },
+    {
+        "client_msg_id": "51f1e607-3bbb-4e4f-aae4-797d31030824",
+        "type": "message",
+        "text": "Hello everyone! I am currently working on a 3-year plan for my content department. I was wondering: *what do you all see as the biggest needle-movers for 2022?* \n\n• SEO - website overhaul, update CMS, optimize old pages, clean everything up... \n• Email list creation\/building  - focus on updating current emails and building out new email lists \n• Other \nFor some extra context, we are a team of 3 people so while we will be focusing on both of those things in some capacity, I also want to make sure we are putting our resources into something that will really catapult growth if we double down our efforts.\n\nThanks! :slightly_smiling_face:",
+        "user": "U02NBTWB1HU",
+        "ts": "1637790604.364900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a81e11f63902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-24\/2766676625731_a81e11f6390270fa86eb_72.jpg",
+            "first_name": "Marina",
+            "real_name": "Marina Khonaisser",
+            "display_name": "Marina Khonaisser",
+            "team": "TJE58GTJL",
+            "name": "marinakhonaisser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02NBTWB1HU",
+            "ts": "1637790863.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0aO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone! I am currently working on a 3-year plan for my content department. I was wondering: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "what do you all see as the biggest needle-movers for 2022? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SEO - website overhaul, update CMS, optimize old pages, clean everything up... "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Email list creation\/building  - focus on updating current emails and building out new email lists "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Other "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nFor some extra context, we are a team of 3 people so while we will be focusing on both of those things in some capacity, I also want to make sure we are putting our resources into something that will really catapult growth if we double down our efforts.\n\nThanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637790604.364900",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1639405033.034500",
+        "reply_users": [
+            "U02NJDGLMJ4",
+            "U02NBTWB1HU"
+        ],
+        "replies": [
+            {
+                "user": "U02NJDGLMJ4",
+                "ts": "1638902741.493800"
+            },
+            {
+                "user": "U02NBTWB1HU",
+                "ts": "1638978195.011700"
+            },
+            {
+                "user": "U02NJDGLMJ4",
+                "ts": "1639405033.034500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b08a28dc-8c80-43ec-b94d-e755766b7789",
+        "type": "message",
+        "text": "hey! we're working on a sort of 'agency' model with each writer more or less specializing in a specific business division, but sitting under a content team that caters to them all - in a 1000+ person company. the writers also know high level about all divisions, so if we need extra manpower on a specific division, they can handle it. it works really well for us - but it takes a good amount of collaboration with the division marketing owner and the ppl who sit inside the division. happy to discuss it more :slightly_smiling_face:",
+        "user": "U02JE3TBG14",
+        "ts": "1637793323.365100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0366fce1d403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-25\/2630960873447_0366fce1d403e5f300cb_72.jpg",
+            "first_name": "Jasmine",
+            "real_name": "Jasmine Cohen",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jasmine.cohen159",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdgc3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey! we're working on a sort of 'agency' model with each writer more or less specializing in a specific business division, but sitting under a content team that caters to them all - in a 1000+ person company. the writers also know high level about all divisions, so if we need extra manpower on a specific division, they can handle it. it works really well for us - but it takes a good amount of collaboration with the division marketing owner and the ppl who sit inside the division. happy to discuss it more "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637685023.337400",
+        "parent_user_id": "U016P78H9DH"
+    },
+    {
+        "client_msg_id": "3d87122f-9ac2-45d0-b93f-678e2742b7ad",
+        "type": "message",
+        "text": "Just to give another perspective - we've actually separated our blog from our contributor content, which sits on Medium. We find it's easier for contributors to submit their articles to Medium, and have actually built a pretty well known publication in the industry for it (<https:\/\/medium.com\/ironsource-levelup|called LevelUp>). We also have pretty high standards for the Medium, and aren't afraid to tell a contributor their article isn't up to par. But - we judge more about the quality\/depth of the subject matter than the actual writing, which we're happy to edit. And we also try to find \"serial contributors\". The good thing is, it doesn't mess with the SEO on our main site :slightly_smiling_face:",
+        "user": "U02JE3TBG14",
+        "ts": "1637794027.365300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0366fce1d403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-25\/2630960873447_0366fce1d403e5f300cb_72.jpg",
+            "first_name": "Jasmine",
+            "real_name": "Jasmine Cohen",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jasmine.cohen159",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just to give another perspective - we've actually separated our blog from our contributor content, which sits on Medium. We find it's easier for contributors to submit their articles to Medium, and have actually built a pretty well known publication in the industry for it ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/ironsource-levelup",
+                                "text": "called LevelUp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). We also have pretty high standards for the Medium, and aren't afraid to tell a contributor their article isn't up to par. But - we judge more about the quality\/depth of the subject matter than the actual writing, which we're happy to edit. And we also try to find \"serial contributors\". The good thing is, it doesn't mess with the SEO on our main site "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637775636.360000",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "UUH2ESL66",
+                    "U02CUMQBP9R",
+                    "U02GYR8TM96",
+                    "U02DUTWV7QU",
+                    "U0216EN5J80"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a86d8ca-e07a-41b5-8432-2fc6751b2759",
+        "type": "message",
+        "text": "Thanks for asking the question.. The suggestions were insightful",
+        "user": "U02LZ4X5J30",
+        "ts": "1637817363.365700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b47e43498418",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-14\/2736965281569_b47e43498418e2bae10e_72.png",
+            "first_name": "Nivedita",
+            "real_name": "Nivedita Panchal",
+            "display_name": "Nivedita Panchal",
+            "team": "TJE58GTJL",
+            "name": "nivedita.panchal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yhx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for asking the question.. The suggestions were insightful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637775636.360000",
+        "parent_user_id": "UUH2ESL66"
+    }
+]

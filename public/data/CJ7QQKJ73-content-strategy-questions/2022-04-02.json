@@ -1,0 +1,254 @@
+[
+    {
+        "client_msg_id": "B908705E-FB01-46C7-A8B1-31FD42D7065E",
+        "type": "message",
+        "text": "Would it be created as part of your job as in house SEO or something you do on the side?",
+        "user": "U020DJ63Y3F",
+        "ts": "1648918639.857669",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e99b05371894",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-18\/3264361295714_e99b0537189470358fd3_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa McEwen",
+            "display_name": "Melissa McEwen",
+            "team": "TJE58GTJL",
+            "name": "mgmcewen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72Zm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would it be created as part of your job as in house SEO or something you do on the side?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648835267.645999",
+        "parent_user_id": "U024BHRFEPQ"
+    },
+    {
+        "client_msg_id": "6ad07a9d-e859-4dd8-ba6f-f850a0ead353",
+        "type": "message",
+        "text": "Definitely yes to what <@U037NTZ7YCQ> and <@U01P13NTGG6> have said so far.\n\nIf your URL structure isn't consistent (or you want to look at blogs, resources, white papers, different subdomains, etc) then a Lookup Table will be your best friend as opposed to a lot of Case Statements with nexted Regex, etc or way too much work in Supermetrics).\n\nI wrote about a similar concept for Supermetrics and show that exact example in a GIF <https:\/\/supermetrics.com\/blog\/content-marketing-funnel-audit#:~:text=Thanks%20to%20Supermetrics,that%20looks%20like%3A|here>.",
+        "user": "U026LPS7TKL",
+        "ts": "1648923663.482319",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0e3cda1e1b75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-29\/2237506180929_0e3cda1e1b75a1e8ca7b_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Levander",
+            "display_name": "Ryan Levander",
+            "team": "TJE58GTJL",
+            "name": "ryan868",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U026LPS7TKL",
+            "ts": "1648923715.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/supermetrics.com\/blog\/content-marketing-funnel-audit#:~:text=Thanks%20to%20Supermetrics,that%20looks%20like%3A",
+                "ts": 1631083054,
+                "image_url": "https:\/\/prod-central-prod-sm-site-media.s3.eu-west-1.amazonaws.com\/sm\/public\/wp-content\/uploads\/2021\/09\/08061113\/Content-marketing-funnel-audit.png",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 17829,
+                "service_icon": "https:\/\/supermetrics.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/supermetrics.com\/blog\/content-marketing-funnel-audit#:~:text=Thanks%20to%20Supermetrics,that%20looks%20like%3A",
+                "fallback": "Supermetrics: How to perform the ultimate content marketing funnel audit",
+                "text": "A funnel depth audit helps you optimize the content on your website. Check out the step-by-step instructions on how to run an audit.",
+                "title": "How to perform the ultimate content marketing funnel audit",
+                "title_link": "https:\/\/supermetrics.com\/blog\/content-marketing-funnel-audit#:~:text=Thanks%20to%20Supermetrics,that%20looks%20like%3A",
+                "service_name": "Supermetrics",
+                "fields": [
+                    {
+                        "value": "supermetricsOperator",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "16 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "edkQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely yes to what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U037NTZ7YCQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01P13NTGG6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have said so far.\n\nIf your URL structure isn't consistent (or you want to look at blogs, resources, white papers, different subdomains, etc) then a Lookup Table will be your best friend as opposed to a lot of Case Statements with nexted Regex, etc or way too much work in Supermetrics).\n\nI wrote about a similar concept for Supermetrics and show that exact example in a GIF "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/supermetrics.com\/blog\/content-marketing-funnel-audit#:~:text=Thanks%20to%20Supermetrics,that%20looks%20like%3A",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648741677.619909",
+        "parent_user_id": "U037JU3APKK"
+    },
+    {
+        "client_msg_id": "227254FB-FF6F-418D-A5AB-A6014C714DD9",
+        "type": "message",
+        "text": "That is very valuable knowledge <@UUJBM2PJ7> , thank you. —- until cloning becomes mainstream <@U036K0R6TQS> ",
+        "user": "U0393Q94WP3",
+        "ts": "1648951925.444029",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a2cc0c807257",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-25\/3291144352070_a2cc0c80725795f0b1f5_72.jpg",
+            "first_name": "Carlos",
+            "real_name": "Carlos Cepeda",
+            "display_name": "Carlos Cepeda",
+            "team": "TJE58GTJL",
+            "name": "carloscepeda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zZn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is very valuable knowledge "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUJBM2PJ7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , thank you. —- until cloning becomes mainstream "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U036K0R6TQS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648495859.265659",
+        "parent_user_id": "U0393Q94WP3"
+    },
+    {
+        "client_msg_id": "FD6FCB5D-A9F2-4EB3-A752-B2656FA2F849",
+        "type": "message",
+        "text": "We had a massive site with shit architecture (everything was under \/blog\/) so we used a quick script to add the category to the meta keywords (might as well use it for something haha) so we could more easily do custom extracts and create a lookup table for that very reason. :rolling_on_the_floor_laughing:",
+        "user": "U01P13NTGG6",
+        "ts": "1648956153.853199",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01P13NTGG6",
+            "ts": "1648956459.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LxdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We had a massive site with shit architecture (everything was under \/blog\/) so we used a quick script to add the category to the meta keywords (might as well use it for something haha) so we could more easily do custom extracts and create a lookup table for that very reason. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648741677.619909",
+        "parent_user_id": "U037JU3APKK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U026LPS7TKL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

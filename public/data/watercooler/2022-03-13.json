@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647160304.633549",
+        "thread_ts": "1647160304.633549",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1647272700.413939",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1647272700.413939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1647272700.413939"
+    },
+    {
+        "client_msg_id": "81d3a261-ac95-4dcf-8a5d-4478ddc19269",
+        "type": "message",
+        "text": "I think you should download a security plugin. I use Sucuri and Wordfence (free versions) for my two WP websites. Don't use both on one website though. Use just one.",
+        "user": "U028D815JA0",
+        "ts": "1647186472.754709",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7e2cf488ec83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-09\/2701205349650_7e2cf488ec8355d9ecca_72.jpg",
+            "first_name": "althea",
+            "real_name": "althea storm",
+            "display_name": "althea storm",
+            "team": "TJE58GTJL",
+            "name": "altheanymphcstorm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5W7c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you should download a security plugin. I use Sucuri and Wordfence (free versions) for my two WP websites. Don't use both on one website though. Use just one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647081440.798179",
+        "parent_user_id": "U02JJ9R5TBN"
+    },
+    {
+        "client_msg_id": "0b76fba5-365c-455f-9682-e5691a9617ea",
+        "type": "message",
+        "text": "Thank you. I'll check it out",
+        "user": "U02JJ9R5TBN",
+        "ts": "1647210566.882319",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f8900ae8892c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-25\/3171705598433_f8900ae8892c6a205c1f_72.jpg",
+            "first_name": "Moyo",
+            "real_name": "Moyo Oluwatuyi",
+            "display_name": "Moyo",
+            "team": "TJE58GTJL",
+            "name": "moyoluwatuyi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XAb3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you. I'll check it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647081440.798179",
+        "parent_user_id": "U02JJ9R5TBN"
+    }
+]

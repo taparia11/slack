@@ -1,0 +1,510 @@
+[
+    {
+        "client_msg_id": "c6da8cea-0b9a-400f-b648-9ad27394c0e8",
+        "type": "message",
+        "text": "Q for people managing a blog: How do you track and monitor the performance of posts you publish and the keywords you intended and didn’t intend to rank for? Does ahrefs do this?",
+        "user": "UJHBBR59V",
+        "ts": "1557756525.074300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJHBBR59V",
+            "ts": "1557756552.000000"
+        },
+        "thread_ts": "1557756525.074300",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1557902304.092200",
+        "reply_users": [
+            "UJG4WTGKS",
+            "UJHBBR59V",
+            "UJDPMTREY",
+            "UJG24P8P6"
+        ],
+        "replies": [
+            {
+                "user": "UJG4WTGKS",
+                "ts": "1557757454.074600"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1557757729.074800"
+            },
+            {
+                "user": "UJG4WTGKS",
+                "ts": "1557757810.075000"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1557762970.075500"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1557766617.075700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1557863492.088300"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1557867389.088800"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1557867486.089000"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1557902304.092200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "abd419ad-c22a-40ca-87ec-d0a58f0aa535",
+        "type": "message",
+        "text": "It does, but I’d strongly recommend to make Search Console your go-to source for data",
+        "user": "UJG4WTGKS",
+        "ts": "1557757454.074600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g59d2a818266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a59d2a81826605914ba3f4b78c3fa6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Markov",
+            "display_name": "Ilia Markov",
+            "team": "TJE58GTJL",
+            "name": "hello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557756525.074300",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "6d37fa46-2364-479a-99f0-5d3444aec672",
+        "type": "message",
+        "text": "I don’t have a good way to do this yet, so I’ll need to learn from scratch. How did you learn to track keywords performance on Search Console? Id like something like a report that I can add new keywords to as new posts get published, with maybe a graph to visualize trends. Does it do all this?",
+        "user": "UJHBBR59V",
+        "ts": "1557757729.074800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557756525.074300",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "293bfc94-8ccd-4180-a525-ed24a3b5036d",
+        "type": "message",
+        "text": "Unfortunately, it doesn’t, but it gives you the most accurate data when it comes to ranking and what page(s) ranks for each (set of) keyword(s)",
+        "user": "UJG4WTGKS",
+        "ts": "1557757810.075000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g59d2a818266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a59d2a81826605914ba3f4b78c3fa6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Markov",
+            "display_name": "Ilia Markov",
+            "team": "TJE58GTJL",
+            "name": "hello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557756525.074300",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "f3d94401-10ff-4e0d-9c49-eb3308eaa329",
+        "type": "message",
+        "text": "This is a read you may find helpful: <https:\/\/pjrvs.com\/worth\/>\n\nAnd also these podcast episodes (disclaimer it's my podcast but, it's very much on the topic):\n<https:\/\/www.boscontent.com\/blog\/devin-bramhall-interview>\n<https:\/\/www.boscontent.com\/blog\/jay-acunzo-interview-break-the-wheel>",
+        "user": "UJHK5E5FG",
+        "ts": "1557757834.075200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6279fcf6c09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/796279fcf6c094fdac8157c7a2ca05cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Rogers",
+            "display_name": "Adam Rogers",
+            "team": "TJE58GTJL",
+            "name": "adamrogers.uk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Charge what you’re worth",
+                "title_link": "https:\/\/pjrvs.com\/worth\/",
+                "text": "Freelancers don’t make what they’re “worth”, they make what the market will bear based on the value they provide.",
+                "fallback": "Charge what you’re worth",
+                "thumb_url": "https:\/\/pjrvs.com\/wp-content\/uploads\/2015\/12\/PaulJarvis-about.jpg",
+                "from_url": "https:\/\/pjrvs.com\/worth\/",
+                "thumb_width": 1400,
+                "thumb_height": 934,
+                "service_icon": "https:\/\/pjrvs.com\/wp-content\/uploads\/2017\/01\/cropped-rat-180x180.png",
+                "service_name": "pjrvs.com",
+                "id": 1,
+                "original_url": "https:\/\/pjrvs.com\/worth\/"
+            },
+            {
+                "service_name": "Boston Content",
+                "title": "Devin Bramhall: Freelance Pricing Strategies and How to Be a Marketer in Demand",
+                "title_link": "https:\/\/www.boscontent.com\/blog\/devin-bramhall-interview",
+                "text": "How much does a freelance marketer charge? Devin Bramhall’s podcast interview show notes from the Boston Content Podcast, Freelance Pricing Strategies and How to Be a Marketer in Demand. Devin Bramhall is a content marketing consultant, writer and storyteller currently working as the Director of Mar",
+                "fallback": "Boston Content: Devin Bramhall: Freelance Pricing Strategies and How to Be a Marketer in Demand",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/5307de1fe4b032b4d4aeb5d3\/54e214a5e4b08bab4fbfb795\/5b9af7a41ae6cf0d5ab7af52\/1540498266050\/devin-bramhall-interview.jpeg?format=1500w",
+                "from_url": "https:\/\/www.boscontent.com\/blog\/devin-bramhall-interview",
+                "thumb_width": 1500,
+                "thumb_height": 1017,
+                "service_icon": "https:\/\/static1.squarespace.com\/static\/5307de1fe4b032b4d4aeb5d3\/t\/5307e090e4b041f3458e6ba6\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.boscontent.com\/blog\/devin-bramhall-interview"
+            },
+            {
+                "service_name": "Boston Content",
+                "title": "Jay Acunzo: How to Avoid Being a Commodity, Market like a Professional, and Win at Freelancing",
+                "title_link": "https:\/\/www.boscontent.com\/blog\/jay-acunzo-interview-break-the-wheel",
+                "text": "Adam Rogers interviews Jay Acunzo about his new book, Break the Wheel. They discuss freelance pricing and how to avoid being a commodity. Jay teaches his marketing tricks from his days at Hubspot and NextView Ventures.",
+                "fallback": "Boston Content: Jay Acunzo: How to Avoid Being a Commodity, Market like a Professional, and Win at Freelancing",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/5307de1fe4b032b4d4aeb5d3\/54e214a5e4b08bab4fbfb795\/5be0d09b6d2a73656e843528\/1541730043976\/jay-acunzo-interview-break-the-wheel.jpeg?format=1500w",
+                "from_url": "https:\/\/www.boscontent.com\/blog\/jay-acunzo-interview-break-the-wheel",
+                "thumb_width": 1500,
+                "thumb_height": 999,
+                "service_icon": "https:\/\/static1.squarespace.com\/static\/5307de1fe4b032b4d4aeb5d3\/t\/5307e090e4b041f3458e6ba6\/favicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/www.boscontent.com\/blog\/jay-acunzo-interview-break-the-wheel"
+            }
+        ],
+        "thread_ts": "1557530138.072400",
+        "parent_user_id": "UJ98DKGP3",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJ98DKGP3",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b931ba1e-c1ed-481b-a917-b00952dd6c46",
+        "type": "message",
+        "text": "Ahrefs tracks keywords passively (i.e. reports on ones it finds for all sites) or actively (reports on ones you add manually to their rank tracker).\n\ntheir tracking is reasonably accurate but pretty clumsy. it also doesn't update more than once or twice a week unless you want to pay a bunch of money.\n\nSTAT (now part of Moz) is so, so much better for rank tracking, but it's not cheap (minimum ~$750 monthly spend, last time i checked).\n\nthe best way i know of to measure performance at a topic\/keyword level is to (1) aggregate the search volume of relevant keywords, (2) then total the number of clicks you get for those keywords. (3) divide the latter by the former, and you get a share of voice.\n\nso, for example, if the keywords \"project management tools,\" \"project management software,\" etc., have a total search volume of 10,000\/month, and you earn 500 clicks, then you have 5% share of voice for that topic.",
+        "user": "UJDPMTREY",
+        "ts": "1557762970.075500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557756525.074300",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56700bd1-a3c0-4f23-ab38-1c4f9901fd1d",
+        "type": "message",
+        "text": "Thanks <@UJDPMTREY>!",
+        "user": "UJHBBR59V",
+        "ts": "1557766617.075700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557756525.074300",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJDPMTREY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70d8e721-e16b-42d3-a876-517c081a5c4c",
+        "type": "message",
+        "text": "Q for all my people in SaaS: I’ve heard second hand that most SaaS markets are winner-take-all (in other words: there will always be one super dominant product that takes &gt;75% of the market).\n1 - Do you agree?\n2 - Do you know of any resources that support this claim?",
+        "user": "UJE5LQ2JC",
+        "ts": "1557773523.077300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557773523.077300",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1557864106.088600",
+        "reply_users": [
+            "UJE5LARL0",
+            "UJG12DM1V",
+            "UJE5LQ2JC",
+            "UJG4WTGKS",
+            "UJ2NQTCBC",
+            "UJG24P8P6"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LARL0",
+                "ts": "1557774338.077400"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1557775968.077600"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1557776550.077800"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1557780623.078100"
+            },
+            {
+                "user": "UJG4WTGKS",
+                "ts": "1557818070.078900"
+            },
+            {
+                "user": "UJ2NQTCBC",
+                "ts": "1557850214.087300"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1557851264.087700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1557864106.088600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1e23ce8e-0665-4b5e-9304-2d444027ed4c",
+        "type": "message",
+        "text": "That seems off - the only market off the top of my head where I know of a dominance that severe is maybe AWS vs GDP + Azure (where AWS is still 90% of the market). Though that's more IAAS than SAAS",
+        "user": "UJE5LARL0",
+        "ts": "1557774338.077400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557773523.077300",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "49bb4837-19a0-49ad-9920-64bb37d7dcef",
+        "type": "message",
+        "text": "I think the pattern is true -- you think of companies like Slack, Adobe, Intercom, they're the obvious leaders in their space -- but 75% sounds very high. Salesforce is clearly the leader in CRM, but they're still probably &lt;50%",
+        "user": "UJG12DM1V",
+        "ts": "1557775968.077600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557773523.077300",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "9b6cefbc-cfb8-49c8-b9a8-f07f434bf3b2",
+        "type": "message",
+        "text": "<@UJG12DM1V> good examples, I found this chart from Forbes (2016) that had Salesforce at ~20% of marketshare <https:\/\/thumbor.forbes.com\/thumbor\/960x0\/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2016%2F05%2FCRM-Market-Share-2015.jpg>",
+        "user": "UJE5LARL0",
+        "ts": "1557776550.077800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "960x686px image",
+                "image_url": "https:\/\/thumbor.forbes.com\/thumbor\/960x0\/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2016%2F05%2FCRM-Market-Share-2015.jpg",
+                "image_width": 960,
+                "image_height": 686,
+                "image_bytes": 36058,
+                "from_url": "https:\/\/thumbor.forbes.com\/thumbor\/960x0\/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2016%2F05%2FCRM-Market-Share-2015.jpg",
+                "id": 1,
+                "original_url": "https:\/\/thumbor.forbes.com\/thumbor\/960x0\/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2016%2F05%2FCRM-Market-Share-2015.jpg"
+            }
+        ],
+        "thread_ts": "1557773523.077300",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "94039181-33e3-4a4e-9f91-8a019a382f20",
+        "type": "message",
+        "text": "oh wow, I would have guessed way higher",
+        "user": "UJE5LQ2JC",
+        "ts": "1557780623.078100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557773523.077300",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "4bca305b-c3d7-4864-9911-4a72799ec412",
+        "type": "message",
+        "text": "Has anyone worked with Just Reach Out on a backlinking strategy before?",
+        "user": "UJH5BJQG0",
+        "ts": "1557794583.078700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "01e403dbd6b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3148648187201_01e403dbd6b46f0a9972_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Croswell",
+            "display_name": "Lexi",
+            "team": "TJE58GTJL",
+            "name": "croswela",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557794583.078700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1557875938.089400",
+        "reply_users": [
+            "UJFFNJZCL",
+            "UJH5BJQG0"
+        ],
+        "replies": [
+            {
+                "user": "UJFFNJZCL",
+                "ts": "1557821349.079200"
+            },
+            {
+                "user": "UJH5BJQG0",
+                "ts": "1557875938.089400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UJFFNJZCL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

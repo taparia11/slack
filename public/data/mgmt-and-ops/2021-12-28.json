@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1640709849.195400",
+        "thread_ts": "1640709849.195400",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1640797608.197000",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1640797608.197000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1640797608.197000"
+    },
+    {
+        "client_msg_id": "2FE05F8C-024D-40AD-B082-26E35DF9D7C5",
+        "type": "message",
+        "text": "<@UJGHNJT7F> I'd honestly love to see it from an IC perspective, to understand where a content leader thinks I should be heading. Maybe we can discuss on our call next week!",
+        "user": "U01G4M62C5B",
+        "ts": "1640715973.196700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "62f420743ae0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-09\/2474913719235_62f420743ae00246b4ff_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Baum",
+            "display_name": "Ryan Baum",
+            "team": "TJE58GTJL",
+            "name": "ryan619",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dPJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJGHNJT7F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'd honestly love to see it from an IC perspective, to understand where a content leader thinks I should be heading. Maybe we can discuss on our call next week!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1640018999.183500",
+        "parent_user_id": "UJGHNJT7F",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "UJGHNJT7F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

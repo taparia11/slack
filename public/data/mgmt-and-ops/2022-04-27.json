@@ -1,0 +1,215 @@
+[
+    {
+        "client_msg_id": "e9cbc586-c06a-4269-b27c-84d6d3cee007",
+        "type": "message",
+        "text": "Hi! Does anyone have a good framework for creating content approvals in an org? I run a team of 6 on a marketing team of 40. We now need a clear way to say \"X person gets to give advice on the website\" and \"X person gets to decide this\" — something beyond a RAPID decision making framework.",
+        "user": "UPL0XUAG3",
+        "ts": "1651100731.527339",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "20a4e09d715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-18\/880989735575_20a4e09d715f9e754ca6_72.jpg",
+            "first_name": "Emily",
+            "real_name": "Emily Hackeling",
+            "display_name": "Emily Hackeling",
+            "team": "TJE58GTJL",
+            "name": "emily003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EiX40",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Does anyone have a good framework for creating content approvals in an org? I run a team of 6 on a marketing team of 40. We now need a clear way to say \"X person gets to give advice on the website\" and \"X person gets to decide this\" — something beyond a RAPID decision making framework."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651100731.527339",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1651491938.682459",
+        "reply_users": [
+            "UJG9WTEKG",
+            "UPL0XUAG3",
+            "U033EF07F1Q"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1651100933.377679"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1651100938.199989"
+            },
+            {
+                "user": "UPL0XUAG3",
+                "ts": "1651119525.887639"
+            },
+            {
+                "user": "U033EF07F1Q",
+                "ts": "1651491938.682459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1651491938.682459",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01AU94TABA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e7576b0-73ab-403d-9335-92adad3b1802",
+        "type": "message",
+        "text": "<https:\/\/superpath.co\/blog\/manage-content-requests-in-airtable>",
+        "user": "UJG9WTEKG",
+        "ts": "1651100933.377679",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/superpath.co\/blog\/manage-content-requests-in-airtable",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/609d9c530fe0402cfde14a9c\/60a6e5b3a7222352ac1626b3\/60ae9e772a55fb547c9838d2\/1625706204781\/neonbrand-LVwU0CJaKeI-unsplash.jpg?format=1500w",
+                "thumb_width": 1500,
+                "thumb_height": 1000,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/609d9c530fe0402cfde14a9c\/e34ef9bd-2724-4781-88fd-e8cba90125ef\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/superpath.co\/blog\/manage-content-requests-in-airtable",
+                "fallback": "Your Content Career Headquarters: How to Manage Company-Wide Content Requests in Airtable — Your Content Career Headquarters",
+                "text": "Like many teams, the Airtable content team handles requests from across the organization. ..",
+                "title": "How to Manage Company-Wide Content Requests in Airtable — Your Content Career Headquarters",
+                "title_link": "https:\/\/superpath.co\/blog\/manage-content-requests-in-airtable",
+                "service_name": "Your Content Career Headquarters"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pm\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/manage-content-requests-in-airtable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651100731.527339",
+        "parent_user_id": "UPL0XUAG3"
+    },
+    {
+        "client_msg_id": "814c5a38-a1ff-44be-93e4-85c28e293fb2",
+        "type": "message",
+        "text": "something like this might work",
+        "user": "UJG9WTEKG",
+        "ts": "1651100938.199989",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MiCo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "something like this might work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651100731.527339",
+        "parent_user_id": "UPL0XUAG3"
+    },
+    {
+        "client_msg_id": "e5e483cc-6bb9-4942-9eb0-ddd7221d2fc2",
+        "type": "message",
+        "text": "OOoooh thank you",
+        "user": "UPL0XUAG3",
+        "ts": "1651119525.887639",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "20a4e09d715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-18\/880989735575_20a4e09d715f9e754ca6_72.jpg",
+            "first_name": "Emily",
+            "real_name": "Emily Hackeling",
+            "display_name": "Emily Hackeling",
+            "team": "TJE58GTJL",
+            "name": "emily003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ptrq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OOoooh thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651100731.527339",
+        "parent_user_id": "UPL0XUAG3"
+    }
+]

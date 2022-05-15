@@ -1,0 +1,720 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Which episode would you listen to?",
+        "ts": "1635507228.052200",
+        "bot_id": "BULLDG98V",
+        "thread_ts": "1635507228.052200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1635933245.082500",
+        "reply_users": [
+            "U02GFCTS89J",
+            "U017WRJTKF1"
+        ],
+        "replies": [
+            {
+                "user": "U02GFCTS89J",
+                "ts": "1635846597.064000"
+            },
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1635877327.069200"
+            },
+            {
+                "user": "U02GFCTS89J",
+                "ts": "1635933245.082500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-40ab3e45-763b-41b0-b73a-459e9bdcfdf6-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Which episode would you listen to?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: Details & More",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":lock: Close Poll",
+                                "emoji": true
+                            },
+                            "value": "close_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":house: Go to Simple Poll Home",
+                                "emoji": true
+                            },
+                            "value": "go_to_app_home",
+                            "url": "slack:\/\/app?team=TJE58GTJL&id=A0HFW7MR6&tab=home"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":bar_chart: Create new Poll",
+                                "emoji": true
+                            },
+                            "value": "create_new_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-40ab3e45-763b-41b0-b73a-459e9bdcfdf6-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: First year of SEO. Where to begin, how to grow quickly    `15`\n<@U01HD8ACQHG>, <@U02CTCZEL3E>, <@U02JJ9R5TBN>, <@U01NW9AE6CV>, <@U01L6NE17PA>, <@U02333AMCUW>, <@U024K88MNMA>, <@U02CMV0AHAS>, <@U02L06T4MM2>, <@U02JHRE1YGZ>, <@U02EJU3TCUS>, <@U02BJD52A8H>, <@U02KR8EC0TY>, <@U02GD7MCUCB>, <@U027V14CNHF>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-40ab3e45-763b-41b0-b73a-459e9bdcfdf6-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Measuring content performance on paid social    `9`\n<@U012GHRAHDK>, <@UUJBMNRNF>, <@U02GJN3BYCB>, <@U02FCTRLF62>, <@UUKNRAD4Z>, <@UJE6FLEFJ>, <@U010GTFAFK9>, <@U02EJU3TCUS>, <@UUXMC3ZFH>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-40ab3e45-763b-41b0-b73a-459e9bdcfdf6-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Working with writers and hitting production goals    `4`\n<@U02681WABA7>, <@U013JCCN8JE>, <@U02GA7499BP>, <@U027V14CNHF>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-40ab3e45-763b-41b0-b73a-459e9bdcfdf6-vote-4",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: How to hire the best creatives    `3`\n<@U01DEA6F7CH>, <@U02KVGT4DPA>, <@UUXMC3ZFH>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-4",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-40ab3e45-763b-41b0-b73a-459e9bdcfdf6-vote-5",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":five: Differentiating content from the noise    `19`\n<@U02C37J4X5K>, <@U02CTCZEL3E>, <@U02333AMCUW>, <@U02GJN3BYCB>, <@U02HF5VEXU4>, <@U01DEA6F7CH>, <@U01FXSKB4G7>, <@U02F5CWRMDY>, <@UUXMCJQ15>, <@U02FCTRLF62>, <@U02JE3TBG14>, <@U02GA7499BP>, <@U01P833NGUT>, <@U02JP7GQ0KW>, <@U02L06T4MM2>, <@U02G3SKQ4F5>, <@U02EJU3TCUS>, <@U02AUQ0KMGC>, <@U0188DZQPB8>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-5",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":five:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-40ab3e45-763b-41b0-b73a-459e9bdcfdf6-vote-6",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":six: Creating focus and battling shiny object syndrome    `8`\n<@U0216ELKLQY>, <@U02F43CAK5X>, <@U017WRJTKF1>, <@U01P833NGUT>, <@U028J4F102E>, <@UJE6FLEFJ>, <@U010GTFAFK9>, <@U013JCCN8JE>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-6",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":six:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-40ab3e45-763b-41b0-b73a-459e9bdcfdf6-vote-7",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":seven: How to get exec buy-in, from the perspective of a VP\/CEO    `10`\n<@U02C37J4X5K>, <@U02DT0SNUKC>, <@UUXMCJQ15>, <@U02FCTRLF62>, <@U01CS0V4HFG>, <@U01R7R9RKKQ>, <@U02L06T4MM2>, <@U01SFTTQ483>, <@U010GTFAFK9>, <@U01UYA5NHD2>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-7",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":seven:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "9q=ad",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U02GFCTS89J> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "BULLDG98V",
+            "ts": "1638475532.000000"
+        }
+    },
+    {
+        "client_msg_id": "d4d9c640-91d5-4ab7-bb59-eea4bdfaf214",
+        "type": "message",
+        "text": "^ follow-up from yesterday, curious to hear your takes :slightly_smiling_face:\n\n&gt; I'm thinking about starting a podcast around the first year of content marketing. Feels like the first year is the toughest - prioritization, expectation setting, hiring, process, so many things to figure out. Would anyone be interested? What do you want to learn about?",
+        "user": "U02GFCTS89J",
+        "ts": "1635507296.053000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1911a59ab4a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2570431495553_1911a59ab4a804da14e5_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Schaaf",
+            "display_name": "Julian Schaaf",
+            "team": "TJE58GTJL",
+            "name": "julian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^ follow-up from yesterday, curious to hear your takes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm thinking about starting a podcast around the first year of content marketing. Feels like the first year is the toughest - prioritization, expectation setting, hiring, process, so many things to figure out. Would anyone be interested? What do you want to learn about?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635507296.053000",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1636902008.140200",
+        "reply_users": [
+            "U02DT0SNUKC",
+            "U02GFCTS89J",
+            "UUXMC3ZFH"
+        ],
+        "replies": [
+            {
+                "user": "U02DT0SNUKC",
+                "ts": "1636051327.095400"
+            },
+            {
+                "user": "U02GFCTS89J",
+                "ts": "1636094848.099400"
+            },
+            {
+                "user": "U02DT0SNUKC",
+                "ts": "1636616975.128600"
+            },
+            {
+                "user": "UUXMC3ZFH",
+                "ts": "1636902008.140200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U028J4F102E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "944b130f-19be-4959-b597-4da6e52b5490",
+        "type": "message",
+        "text": "thanks for the insight!!",
+        "user": "U02F43CAK5X",
+        "ts": "1635512788.053900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "96937be5af03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2500350284535_96937be5af03a50d7004_72.jpg",
+            "first_name": "Amanda",
+            "real_name": "Amanda Milligan",
+            "display_name": "Amanda Milligan",
+            "team": "TJE58GTJL",
+            "name": "amilligan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTSr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks for the insight!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635430309.044400",
+        "parent_user_id": "U02F43CAK5X",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6779e886-46e9-4049-a022-8e3c9b482811",
+        "type": "message",
+        "text": "feel free to DM me and we can set up a time",
+        "user": "U02JM1MSRA7",
+        "ts": "1635516956.054600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3e13e07f40f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-28\/2664498177428_3e13e07f40f551c68b49_72.png",
+            "first_name": "Christina",
+            "real_name": "Christina Pawlikowski",
+            "display_name": "Christina Pawlikowski",
+            "team": "TJE58GTJL",
+            "name": "christina404",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9NP7D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "feel free to DM me and we can set up a time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635443943.046600",
+        "parent_user_id": "U02HD0L8HAP"
+    },
+    {
+        "client_msg_id": "eabf5115-e0c9-41de-9bfe-eebbb4768e55",
+        "type": "message",
+        "text": "There are tons and tons of examples out there in HR tech and fintech. <https:\/\/www.workhuman.com\/> is for HR buyers. They have a very strong content brand (they renamed the whole company around their flagship event\/content site, Work Human. They are top-notch. <https:\/\/www.justsift.com\/> is a former client that targets multiple buyers -- interesting to see how they figure out ways to talk to multiple audiences (Sales, HR, Ops).",
+        "user": "U01DEA6F7CH",
+        "ts": "1635528006.056600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "70a1b3d3ea49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-22\/1443614799301_70a1b3d3ea49adc43894_72.jpg",
+            "first_name": "Lee",
+            "real_name": "Lee Price",
+            "display_name": "Lee Price",
+            "team": "TJE58GTJL",
+            "name": "lee792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Workhuman",
+                "title": "Creating a More Human Workplace | Workhuman",
+                "title_link": "https:\/\/www.workhuman.com\/",
+                "text": "Workhuman® has been pioneering the human workplace for over 20 years. Discover what we how we help businesses reduce employee turnover and increase satisfaction.",
+                "fallback": "Workhuman: Creating a More Human Workplace | Workhuman",
+                "image_url": "https:\/\/www.workhuman.com\/wp-content\/uploads\/2021\/10\/WH-FeaturedImage.png",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/www.workhuman.com\/",
+                "image_bytes": 370176,
+                "service_icon": "https:\/\/www.workhuman.com\/wp-content\/uploads\/2018\/03\/cropped-Globostar-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.workhuman.com\/"
+            },
+            {
+                "title": "Sift | Find, Discover, and Connect Your Organization’s People",
+                "title_link": "https:\/\/www.justsift.com\/",
+                "text": "Powerfully simple people search, dynamic org charts, and more. Equip your teams with the fastest tool to uncover and leverage talent in your organization.",
+                "fallback": "Sift | Find, Discover, and Connect Your Organization’s People",
+                "image_url": "https:\/\/sift-images.s3.amazonaws.com\/sift_openweb_preview.png",
+                "from_url": "https:\/\/www.justsift.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 472328,
+                "service_name": "justsift.com",
+                "id": 2,
+                "original_url": "https:\/\/www.justsift.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CK\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are tons and tons of examples out there in HR tech and fintech. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.workhuman.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is for HR buyers. They have a very strong content brand (they renamed the whole company around their flagship event\/content site, Work Human. They are top-notch. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.justsift.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a former client that targets multiple buyers -- interesting to see how they figure out ways to talk to multiple audiences (Sales, HR, Ops)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635321511.030400",
+        "parent_user_id": "U02ANC57AAY"
+    },
+    {
+        "client_msg_id": "5ba01884-1594-449b-96f0-ea2557249153",
+        "type": "message",
+        "text": "Greenhouse is one more in HR tech that really sets the standard for B2B content marketing. <https:\/\/www.greenhouse.io\/>",
+        "user": "U01DEA6F7CH",
+        "ts": "1635528075.056900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "70a1b3d3ea49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-22\/1443614799301_70a1b3d3ea49adc43894_72.jpg",
+            "first_name": "Lee",
+            "real_name": "Lee Price",
+            "display_name": "Lee Price",
+            "team": "TJE58GTJL",
+            "name": "lee792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Greenhouse",
+                "title": "Applicant tracking system &amp; recruiting software | Greenhouse",
+                "title_link": "https:\/\/www.greenhouse.io\/",
+                "text": "Greenhouse's applicant tracking system and recruiting software is designed to help make companies great at hiring and hire for what’s next.",
+                "fallback": "Greenhouse: Applicant tracking system &amp; recruiting software | Greenhouse",
+                "image_url": "https:\/\/sharp.services.greenhouse.io\/production\/Greenhouse-Homepage-OG.png?auto=format&fit=max&h=630&lossless=true&q=90&w=1200&s=8f7ab002d0225141f6a5299d688f6e52b77af46eaeb4801ff7df5fc7b416906f",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.greenhouse.io\/",
+                "image_bytes": 212832,
+                "service_icon": "https:\/\/www.greenhouse.io\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.greenhouse.io\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/vIs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Greenhouse is one more in HR tech that really sets the standard for B2B content marketing. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.greenhouse.io\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635321511.030400",
+        "parent_user_id": "U02ANC57AAY"
+    },
+    {
+        "client_msg_id": "35960879-c5bf-47e2-9667-d6d11fb7b08d",
+        "type": "message",
+        "text": "I love events that find some way to spark community and small-group discussions (breakout rooms). If I know I'm going to be able to talk to people in a 1:1 or small group and I'll get a meaningful conversation\/connection, I'm much more interested than if I'm just half listening to a day of keynotes. (Hi, I'm an extrovert... :slightly_smiling_face:",
+        "user": "U01DEA6F7CH",
+        "ts": "1635528209.057300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "70a1b3d3ea49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-22\/1443614799301_70a1b3d3ea49adc43894_72.jpg",
+            "first_name": "Lee",
+            "real_name": "Lee Price",
+            "display_name": "Lee Price",
+            "team": "TJE58GTJL",
+            "name": "lee792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hp7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love events that find some way to spark community and small-group discussions (breakout rooms). If I know I'm going to be able to talk to people in a 1:1 or small group and I'll get a meaningful conversation\/connection, I'm much more interested than if I'm just half listening to a day of keynotes. (Hi, I'm an extrovert... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635430309.044400",
+        "parent_user_id": "U02F43CAK5X",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01AU94TABA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b09c21d-1633-46fe-8cf0-b3aedaebe84b",
+        "type": "message",
+        "text": "Also, I think there's the potential to get creative and create some kind of connection to the physical world. Maybe a certain % of attendees get a care package in the mail (like a contest or giveaway), maybe there's some kind of physical item they're invited to \"bring\" with them so there's something tactile and physical...just spitballing.,",
+        "user": "U01DEA6F7CH",
+        "ts": "1635528280.057500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "70a1b3d3ea49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-22\/1443614799301_70a1b3d3ea49adc43894_72.jpg",
+            "first_name": "Lee",
+            "real_name": "Lee Price",
+            "display_name": "Lee Price",
+            "team": "TJE58GTJL",
+            "name": "lee792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGZcL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, I think there's the potential to get creative and create some kind of connection to the physical world. Maybe a certain % of attendees get a care package in the mail (like a contest or giveaway), maybe there's some kind of physical item they're invited to \"bring\" with them so there's something tactile and physical...just spitballing.,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635430309.044400",
+        "parent_user_id": "U02F43CAK5X",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55e2b35f-0120-4696-b062-7a5baa0189a1",
+        "type": "message",
+        "text": "Love these thoughts -- thanks, Lee!",
+        "user": "U02F43CAK5X",
+        "ts": "1635533122.057900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "96937be5af03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2500350284535_96937be5af03a50d7004_72.jpg",
+            "first_name": "Amanda",
+            "real_name": "Amanda Milligan",
+            "display_name": "Amanda Milligan",
+            "team": "TJE58GTJL",
+            "name": "amilligan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love these thoughts -- thanks, Lee!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635430309.044400",
+        "parent_user_id": "U02F43CAK5X",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01DEA6F7CH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

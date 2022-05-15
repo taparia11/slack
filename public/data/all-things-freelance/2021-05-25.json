@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "49de2159-7010-4756-8dbe-1ddb76e215e6",
+        "type": "message",
+        "text": "Proposify just launched a free version of its software. I've not personally used it, but based on what they do it has to be better than manually putting them together: <https:\/\/www.proposify.com\/pricing>",
+        "user": "U01AHL8AGBB",
+        "ts": "1621953709.046500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Proposify",
+                "title": "Proposify Pricing Plans",
+                "title_link": "https:\/\/www.proposify.com\/pricing",
+                "text": "Our pricing is simple and affordable with no hidden surprises or contracts.",
+                "fallback": "Proposify: Proposify Pricing Plans",
+                "image_url": "https:\/\/d1v7g7y4y70yfq.cloudfront.net\/14-Opengraph\/_1200x630_crop_center-center_82_none\/opengraph-proposify.png?mtime=20210224154849&focal=none&tmtime=20210511140434",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.proposify.com\/pricing",
+                "image_bytes": 202990,
+                "service_icon": "https:\/\/www.proposify.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.proposify.com\/pricing"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Proposify just launched a free version of its software. I've not personally used it, but based on what they do it has to be better than manually putting them together: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.proposify.com\/pricing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621876234.042300",
+        "parent_user_id": "U01FUP6AMEZ",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01FUP6AMEZ",
+                    "U016LHA1BHP",
+                    "U0232LQV0E8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c09f736b-ba00-40b5-b9aa-1468a34f114c",
+        "type": "message",
+        "text": "thanks <@U01P13NTGG6> and <@U01AHL8AGBB>! <@U01KH3P18RZ> right now they're just in Docs.",
+        "user": "U01FUP6AMEZ",
+        "ts": "1621955342.047000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "128762c3ea3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-01\/1527137254583_128762c3ea3f3d65d19b_72.jpg",
+            "first_name": "Joanna",
+            "real_name": "Joanna Rutter",
+            "display_name": "Joanna Rutter",
+            "team": "TJE58GTJL",
+            "name": "rutterjoanna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vuxuf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01P13NTGG6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KH3P18RZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " right now they're just in Docs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621876234.042300",
+        "parent_user_id": "U01FUP6AMEZ"
+    }
+]

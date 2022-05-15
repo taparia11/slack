@@ -1,0 +1,49 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1587916450.001300",
+        "user": "U012R27LRJ8",
+        "text": "<@U012R27LRJ8> has joined the channel"
+    },
+    {
+        "client_msg_id": "6d7fe32b-0aad-4e8c-9707-3474584d8b3f",
+        "type": "message",
+        "text": "UES for me as well!",
+        "user": "U012R27LRJ8",
+        "ts": "1587916473.001400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc7e97cc49db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7e97cc49db3bc3a0bae60f1201822c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Al",
+            "real_name": "Al Chen",
+            "display_name": "Al Chen",
+            "team": "TJE58GTJL",
+            "name": "al",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3BtA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UES for me as well!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587763398.001100",
+        "parent_user_id": "UKEB29JGH"
+    }
+]

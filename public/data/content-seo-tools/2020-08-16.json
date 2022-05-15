@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "58803c9e-d8a6-4704-b719-34e637e5dec1",
+        "type": "message",
+        "text": "Awesome, thanks <@U012YJ35BML>!",
+        "user": "U010EN555TN",
+        "ts": "1597595002.024200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge2c1c2575a8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e2c1c2575a8cfd85abedfeae665f5b8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Jacob McMillen",
+            "display_name": "Jacob McMillen",
+            "team": "TJE58GTJL",
+            "name": "jmcmillen89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y\/Dr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012YJ35BML"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597537928.018700",
+        "parent_user_id": "U010EN555TN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012YJ35BML"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

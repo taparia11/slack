@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "67f86d3a-ee6e-4df5-b60d-bf5c9df35c44",
+        "type": "message",
+        "text": "i’m just gonna drop this here…",
+        "user": "U016BDEQ40J",
+        "ts": "1626733698.227100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MsBOW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m just gonna drop this here…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01J3L8CJRL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5aeb712-ae38-424b-98a2-275dd955aa47",
+        "type": "message",
+        "text": "<https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6822948578374279168\/>",
+        "user": "U016BDEQ40J",
+        "ts": "1626733699.227300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "The Unicornian on LinkedIn: Man Declares Himself Thought Leader After LinkedIn Post Gets 12 Likes",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6822948578374279168\/",
+                "text": "Man Declares Himself Thought Leader After LinkedIn Post Gets 12 Likes <https:\/\/hubs.li\/H0Szkdr0>...",
+                "fallback": "The Unicornian on LinkedIn: Man Declares Himself Thought Leader After LinkedIn Post Gets 12 Likes",
+                "thumb_url": "https:\/\/assets.website-files.com\/602e125c3b059a5780a3ac9c\/60f5975de43cfd463ef1231b_Man%20Declares%20Himself%20Thought%20Leader%20After%20LinkedIn%20Post%20Gets%2012%20Likes.jpg",
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6822948578374279168\/",
+                "thumb_width": 1600,
+                "thumb_height": 836,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "service_name": "linkedin.com",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6822948578374279168\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6822948578374279168\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

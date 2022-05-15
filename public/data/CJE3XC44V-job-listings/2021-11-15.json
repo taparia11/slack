@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "fbdc3609-94ad-4c01-9743-7607e8eb585c",
+        "type": "message",
+        "text": "<@U02J57QTZ5Z> this channel is only a feed from the job board. if this is a freelance gig, feel free to post in <#C021RFDHEMD|all-things-freelance>",
+        "user": "UJG9WTEKG",
+        "ts": "1636999317.058500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02J57QTZ5Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this channel is only a feed from the job board. if this is a freelance gig, feel free to post in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C021RFDHEMD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636835163.058000",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5127346C-263D-451F-87F5-055010A5EE62",
+        "type": "message",
+        "text": "Sorry! Will do thanks! ",
+        "user": "U02J57QTZ5Z",
+        "ts": "1636999458.059000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "50fe74244096",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-18\/2629881168097_50fe7424409682b275cb_72.png",
+            "first_name": "Ana",
+            "real_name": "Ana Krsmanovic",
+            "display_name": "Ana Krsmanovic",
+            "team": "TJE58GTJL",
+            "name": "ana.krsmanovic.3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/EC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! Will do thanks! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636835163.058000",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": ":star: _new featured role_ :star:\n---\n*Socially Determined is hiring a Content Strategist (Washington, D.C.)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/204535-content-strategist>",
+        "ts": "1637020798.062800",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":sunglasses:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f60e.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02K5SJ26PL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

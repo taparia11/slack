@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "f9b579fd-1065-44dc-bebb-62356ddd6deb",
+        "type": "message",
+        "text": "Hi. A friend of mine suggested I check this out. I'm a content coordinator in the Boise ID area.",
+        "user": "U02DNB9BTDM",
+        "ts": "1631546046.434700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb7f260a3ac6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7f260a3ac609d45d08df0420f3a3d2a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Eric",
+            "real_name": "Eric Grant",
+            "display_name": "Eric Grant",
+            "team": "TJE58GTJL",
+            "name": "eric082",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi. A friend of mine suggested I check this out. I'm a content coordinator in the Boise ID area."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U01AHL8AGBB",
+                    "U028D815JA0",
+                    "U02E8ECM7AL",
+                    "U02E54C0P97",
+                    "U02AG6CGR3L"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a144e938-b906-4eb3-8a1c-7b42087c62cf",
+        "type": "message",
+        "text": "Thanks for the welcome, <@UJG9WTEKG>! :slightly_smiling_face:",
+        "user": "U02DJRFCL9Y",
+        "ts": "1631569094.435300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "97e200f32951",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-06\/2460890571058_97e200f3295190690e39_72.png",
+            "first_name": "Cheska",
+            "real_name": "Cheska Teresa",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "cheska.teresa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cyWhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the welcome, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631268822.393600",
+        "parent_user_id": "U02DJRFCL9Y"
+    }
+]

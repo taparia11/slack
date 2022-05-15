@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "553cf393-b594-4c90-a502-bdff1ef974b8",
+        "type": "message",
+        "text": "hi <@U01MM4F6HTP> just a heads up that we charge to post here. i'll remove this post but you can use this link to post: <https:\/\/superpath.co\/blog\/slack-jobs>",
+        "user": "UJG9WTEKG",
+        "ts": "1619022976.097400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01MM4F6HTP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just a heads up that we charge to post here. i'll remove this post but you can use this link to post: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/slack-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618986622.094900",
+        "parent_user_id": "U01MM4F6HTP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01MM4F6HTP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

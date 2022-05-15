@@ -1,0 +1,276 @@
+[
+    {
+        "client_msg_id": "fe89975b-0329-4753-971f-04ac884dfa7a",
+        "type": "message",
+        "text": "For starters, I'd ask \"Why a blog?\" instead of other content types.\n\nBlogs carry a lot of expectations: regular (weekly-ish) publishing; 1,000-2,000 words per post; text-heavy content; limited amounts of \"original\" information (i.e. research, interviews).\n\nMaybe a blog is the right choice. Maybe not. But starting there really limits your options. I might think first of the company's expertise---in it's narrowest form (i.e. What is the _one_ question you're best positioned to answer for your target audience)---then decide which content type(s) are best for sharing that expertise.",
+        "user": "UJDPMTREY",
+        "ts": "1559557854.030800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559318924.028500",
+        "parent_user_id": "UJG24P8P6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG24P8P6",
+                    "UJ7RT1J1X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad57470a-91bd-4cff-b309-5e987baad405",
+        "type": "message",
+        "text": "So, so many.\n\n- It's the last bastion of keyword data.\n- Essential for checking indexation\/sitemap issues.\n- Getting URLs indexed\/content updated more quickly.\n- Identifying issues with how pages are rendered in search.",
+        "user": "UJDPMTREY",
+        "ts": "1559557925.031000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559327561.030400",
+        "parent_user_id": "UJHF6E2PR"
+    },
+    {
+        "client_msg_id": "13ad360e-c934-4b49-a065-6eefcd5910d7",
+        "type": "message",
+        "text": "I experimented with no-indexing the help content. This hid it in Google but was still searchable-accessible thru our own help docs. From what I know a lot of the major help desk people (like Intercom) don't have this service",
+        "user": "UJG24P8P6",
+        "ts": "1559570304.031400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559248135.024200",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "fe5bfffa-4981-404e-85b2-18f8177102d2",
+        "type": "message",
+        "text": "oh interesting. It seems valuable to index it, another indicator to Google that you're an expert on the topic. So my head was heading in the direction of thinking about how to do internal linking in a way that is additive to the overall search strategy vs. cannibalizing search traffic",
+        "user": "UJG12DM1V",
+        "ts": "1559572605.031800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559248135.024200",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "c4b64b5a-0d4b-4c43-a8b5-21dba614d582",
+        "type": "message",
+        "text": "Swear by GSC.\n\nMy fave thing to do is to dig out non-branded keyword opportunities in the performance report. For example, finding out where you rank but get no clicks, or conversely, where you are getting clicks but not ranking very well. Always find some fun SEO projects in doing that.",
+        "user": "UJ36Q2ZRQ",
+        "ts": "1559577185.032100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb8e98952305",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65b8e98952305f0ae0f90c7439718680.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Kym",
+            "real_name": "Kym Ellis",
+            "display_name": "Kym",
+            "team": "TJE58GTJL",
+            "name": "kym",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559327561.030400",
+        "parent_user_id": "UJHF6E2PR"
+    },
+    {
+        "client_msg_id": "53c4efd7-024f-45b1-a1ca-8e0c2d05bc07",
+        "type": "message",
+        "text": "I also use Google Data Studio to build visual reports pulling in data from GSC. Useful if you have other people in the team\/company who want to see the data, but don’t necessarily want to dig into filters in GSC themselves.",
+        "user": "UJ36Q2ZRQ",
+        "ts": "1559577232.032300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb8e98952305",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65b8e98952305f0ae0f90c7439718680.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Kym",
+            "real_name": "Kym Ellis",
+            "display_name": "Kym",
+            "team": "TJE58GTJL",
+            "name": "kym",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559327561.030400",
+        "parent_user_id": "UJHF6E2PR"
+    },
+    {
+        "client_msg_id": "b226bbf1-ccc3-43fd-b7c0-889c40bb89fc",
+        "type": "message",
+        "text": "Thoughts on how the newly announced “Sign in with Apple” feature could\/will impact content marketing? <https:\/\/gizmodo.com\/sign-in-with-apple-promises-a-solution-to-google-and-1835208203>",
+        "user": "UJ5HZNSR0",
+        "ts": "1559587525.033300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3215275bc75d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-08\/618592541058_3215275bc75df6f24944_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Stolpe",
+            "display_name": "Matt Stolpe",
+            "team": "TJE58GTJL",
+            "name": "matthew.stolpe.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Gizmodo",
+                "title": "‘Sign In With Apple’ Promises a Solution to Google and Facebook's Sleazy Tracking Practices",
+                "title_link": "https:\/\/gizmodo.com\/sign-in-with-apple-promises-a-solution-to-google-and-1835208203",
+                "text": "Apple’s privacy push continued on Monday when the company announced “Sign in with Apple,” a login service meant to block all the tracking that comes with social logins like Facebook and Google’s login.",
+                "fallback": "Gizmodo: ‘Sign In With Apple’ Promises a Solution to Google and Facebook's Sleazy Tracking Practices",
+                "image_url": "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--YzvfNWLH--\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/upwrxonwauvwhl2zttrr.png",
+                "from_url": "https:\/\/gizmodo.com\/sign-in-with-apple-promises-a-solution-to-google-and-1835208203",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 656119,
+                "service_icon": "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--T1KfucIz--\/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200\/fdj3buryz5nuzyf2k620.png",
+                "id": 1,
+                "original_url": "https:\/\/gizmodo.com\/sign-in-with-apple-promises-a-solution-to-google-and-1835208203"
+            }
+        ],
+        "thread_ts": "1559587525.033300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1559723817.004200",
+        "reply_users": [
+            "UJG46SBV3",
+            "UJ5HZNSR0"
+        ],
+        "replies": [
+            {
+                "user": "UJG46SBV3",
+                "ts": "1559673583.002500"
+            },
+            {
+                "user": "UJ5HZNSR0",
+                "ts": "1559677258.003000"
+            },
+            {
+                "user": "UJG46SBV3",
+                "ts": "1559723817.004200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UJGFPCNDB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e78c54fc-16f0-4197-8d0c-130b97a3ccda",
+        "type": "message",
+        "text": "Another reason I was trying to de-indexj (beyond cannibalization) was we were appearing for keywords I didn't care about.",
+        "user": "UJG24P8P6",
+        "ts": "1559594081.033500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559248135.024200",
+        "parent_user_id": "UJG12DM1V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG12DM1V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e7d3115-a6ab-4367-91c2-f41f67049589",
+        "type": "message",
+        "text": "Thanks so much, <@UJDPMTREY> and <@UJ36Q2ZRQ>! I’m getting more comfortable digging in but it’s pretty new to my role in terms of identifying the right data points. Building out a Data Studio Dashboard is definitely something I want to create so I can keep a pulse on things.",
+        "user": "UJHF6E2PR",
+        "ts": "1559595802.033800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5ca79c99bdc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/616263381298_5ca79c99bdc284259731_72.jpg",
+            "first_name": "Alyssa",
+            "real_name": "Alyssa Powell",
+            "display_name": "Alyssa Powell",
+            "team": "TJE58GTJL",
+            "name": "alyssa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559327561.030400",
+        "parent_user_id": "UJHF6E2PR"
+    }
+]

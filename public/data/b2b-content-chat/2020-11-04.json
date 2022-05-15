@@ -1,0 +1,203 @@
+[
+    {
+        "client_msg_id": "fe6d9ce4-bb03-4c06-9d11-8aa1f9371c7c",
+        "type": "message",
+        "text": "@here does anyone have good examples of ebooks that you've loved?",
+        "user": "U010AKESAPL",
+        "ts": "1604518261.075400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g147df6ba4a3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/147df6ba4a3a298e85f19e6785bdfd82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "spencer grover",
+            "display_name": "spencer grover",
+            "team": "TJE58GTJL",
+            "name": "spencergrover.freelan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=GG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@here does anyone have good examples of ebooks that you've loved?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604518261.075400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1610131246.133100",
+        "reply_users": [
+            "U011UJX75PE",
+            "UJG9WTEKG",
+            "U010AKESAPL"
+        ],
+        "replies": [
+            {
+                "user": "U011UJX75PE",
+                "ts": "1604522345.075500"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1609371644.130800"
+            },
+            {
+                "user": "U010AKESAPL",
+                "ts": "1610131246.133100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1610131246.133100"
+    },
+    {
+        "client_msg_id": "cc5c0a4e-267c-4119-92ef-35a02f6f6e5b",
+        "type": "message",
+        "text": "good one here that <@UJE5LQ2JC> just posted <https:\/\/content-career-growth.slack.com\/archives\/C012AUSC85C\/p1604503101105200>",
+        "user": "U011UJX75PE",
+        "ts": "1604522345.075500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/content-career-growth.slack.com\/archives\/C012AUSC85C\/p1604503101105200",
+                "fallback": "[November 4th, 2020 7:18 AM] scblanda: We just released a fun thing: An “Ecosystem Guidebook” using partnership data to “map” the email service provider and mar tech integration network. If you work for a ESP, I’d love to hear what you think: <https:\/\/www.crossbeam.com\/ecosystem-guidebook-email-service-provider\/>",
+                "ts": "1604503101.105200",
+                "author_id": "UJE5LQ2JC",
+                "author_subname": "Sean Blanda",
+                "channel_id": "C012AUSC85C",
+                "channel_name": "promotion",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "We just released a fun thing: An “Ecosystem Guidebook” using partnership data to “map” the email service provider and mar tech integration network. If you work for a ESP, I’d love to hear what you think: <https:\/\/www.crossbeam.com\/ecosystem-guidebook-email-service-provider\/>",
+                "author_name": "Sean Blanda",
+                "author_link": "https:\/\/content-career-growth.slack.com\/team\/UJE5LQ2JC",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/content-career-growth.slack.com\/archives\/C012AUSC85C\/p1604503101105200",
+                "footer": "Thread in #promotion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good one here that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LQ2JC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just posted "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/content-career-growth.slack.com\/archives\/C012AUSC85C\/p1604503101105200"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604518261.075400",
+        "parent_user_id": "U010AKESAPL",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJE5LQ2JC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8cf07e84-6bb2-48ce-b6e6-65def29e7879",
+        "type": "message",
+        "text": "Hi B2Bers! Do you usually find that changing the structure\/template of a piece of B2B content without changing the message\/ideas can dramatically change it’s performance (SEO, conversion)?",
+        "user": "U017EE4FAQN",
+        "ts": "1604543583.076300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9de22e10fee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1408795861474_9de22e10fee629f5a440_72.png",
+            "first_name": "",
+            "real_name": "Steve Seg",
+            "display_name": "Steve Seg",
+            "team": "TJE58GTJL",
+            "name": "sevyatar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSw++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi B2Bers! Do you usually find that changing the structure\/template of a piece of B2B content without changing the message\/ideas can dramatically change it’s performance (SEO, conversion)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604543583.076300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1604585429.076400",
+        "reply_users": [
+            "UUXMCJQ15"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1604585429.076400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

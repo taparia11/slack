@@ -1,0 +1,393 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1648025853.826949",
+        "thread_ts": "1648025853.826949",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1648050561.047289",
+        "reply_users": [
+            "UJG9WTEKG",
+            "USLACKBOT"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1648050547.173929"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1648050561.047289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1648050561.047289"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "hold on there! we don't allow link swaps in this group and will delete any posts offering them. please take a look at our community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit?usp=sharing>",
+        "user": "USLACKBOT",
+        "ts": "1648025854.740709"
+    },
+    {
+        "client_msg_id": "9e2d691a-3c7c-4d8e-8ee8-d4be1ecff07b",
+        "type": "message",
+        "text": "<@U020LEU6T4G> pls read the community guidelines",
+        "user": "UJG9WTEKG",
+        "ts": "1648050547.173929",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OpxD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U020LEU6T4G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pls read the community guidelines"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648025853.826949",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "here are the community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "user": "USLACKBOT",
+        "ts": "1648050561.047289",
+        "thread_ts": "1648025853.826949",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "08cd809b-1920-4a20-b7ca-1387d839defe",
+        "type": "message",
+        "text": "\"Content Fighters\"",
+        "user": "UJE5LARL0",
+        "ts": "1648056585.679229",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UWPG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Content Fighters\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647978138.828539",
+        "parent_user_id": "UJE5LARL0"
+    },
+    {
+        "client_msg_id": "ce9e0e4e-1276-46d4-bcf6-ca021828aaca",
+        "type": "message",
+        "text": ":statue_of_liberty: *New York City Superpath Meetup* :cityscape:\n\nI'm working with <@UJG9WTEKG> on a potential Superpath meetup for the first week of May, with the possibility that Jimmy may be able to join in person! We're seeing this first meetup as something more social than educational — an opportunity to get to know other content folks in our city, build relationships, and put faces to the names you see in these threads.\n\nThe first thing we wanted to do was gauge interest and figure out if that timing would work. So please emoji react on the dates that could work for you (as many as you want), and we'll follow up with more details as we have them! :slightly_smiling_face:\n\n:one: After work on Monday, May 2 (Jimmy could possibly join)\n:two: After work on Tuesday, May 3 (Jimmy could possibly join)\n:three: After work on Thursday, May 5\n:four: After work on Friday, May 6\n\nLooking forward to hopefully meeting all of you, and feel free to DM me with any questions or ideas!",
+        "user": "U01G4M62C5B",
+        "ts": "1648058042.024279",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "62f420743ae0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-09\/2474913719235_62f420743ae00246b4ff_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Baum",
+            "display_name": "Ryan Baum",
+            "team": "TJE58GTJL",
+            "name": "ryan619",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "45OP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "statue_of_liberty",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " New York City Superpath Meetup ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cityscape",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI'm working with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on a potential Superpath meetup for the first week of May, with the possibility that Jimmy may be able to join in person! We're seeing this first meetup as something more social than educational — an opportunity to get to know other content folks in our city, build relationships, and put faces to the names you see in these threads.\n\nThe first thing we wanted to do was gauge interest and figure out if that timing would work. So please emoji react on the dates that could work for you (as many as you want), and we'll follow up with more details as we have them! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one"
+                            },
+                            {
+                                "type": "text",
+                                "text": " After work on Monday, May 2 (Jimmy could possibly join)\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two"
+                            },
+                            {
+                                "type": "text",
+                                "text": " After work on Tuesday, May 3 (Jimmy could possibly join)\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "three"
+                            },
+                            {
+                                "type": "text",
+                                "text": " After work on Thursday, May 5\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "four"
+                            },
+                            {
+                                "type": "text",
+                                "text": " After work on Friday, May 6\n\nLooking forward to hopefully meeting all of you, and feel free to DM me with any questions or ideas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648058042.024279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649785368.008309",
+        "reply_users": [
+            "U01G4M62C5B"
+        ],
+        "replies": [
+            {
+                "user": "U01G4M62C5B",
+                "ts": "1649785368.008309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1649785368.008309",
+        "reactions": [
+            {
+                "name": "three",
+                "users": [
+                    "U01G4M62C5B",
+                    "U031E6LGWNQ",
+                    "U02L9AAAT7V",
+                    "U028WNDJ6G0",
+                    "U031E6H3TPW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "four",
+                "users": [
+                    "U01G4M62C5B",
+                    "U038QE4A3SM",
+                    "U02L9AAAT7V",
+                    "U028WNDJ6G0"
+                ],
+                "count": 4
+            },
+            {
+                "name": "one",
+                "users": [
+                    "UJG9WTEKG",
+                    "U031E6LGWNQ",
+                    "U036XJTU8HX",
+                    "UV5V2P0VB",
+                    "U02L9AAAT7V",
+                    "U02QDLB9ASU",
+                    "U028WNDJ6G0",
+                    "U02NW9XT9C6",
+                    "U03769W156X",
+                    "U02JG3Q359Q",
+                    "U031E6H3TPW",
+                    "U01G4M62C5B"
+                ],
+                "count": 12
+            },
+            {
+                "name": "partyparrot",
+                "users": [
+                    "UJG9WTEKG",
+                    "U01AHL8AGBB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UJG9WTEKG",
+                    "U01AHL8AGBB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U031E6LGWNQ",
+                    "U036XJTU8HX",
+                    "UV5V2P0VB",
+                    "U02L9AAAT7V",
+                    "U039363H0TE",
+                    "U028WNDJ6G0",
+                    "U031E6H3TPW",
+                    "U01G4M62C5B"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "060f40c3-4af4-4407-9467-c00ce6186ef0",
+        "type": "message",
+        "text": "Hello everyone,\n\nI'm looking towards creating a new portfolio as a content marketer. I'd love to see any sample from any of you I could pattern the design structure and other info to include.\n\nIf you wouldn't mind sharing yours, please drop a comment so I'd reach you.\n\nThank you",
+        "user": "U02Q8U5T7TP",
+        "ts": "1648072930.994869",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6ac00fe7f7de",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3395185200147_6ac00fe7f7de679b0f41_72.jpg",
+            "first_name": "Johelski",
+            "real_name": "Johelski",
+            "display_name": "johelski",
+            "team": "TJE58GTJL",
+            "name": "ajayijohel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone,\n\nI'm looking towards creating a new portfolio as a content marketer. I'd love to see any sample from any of you I could pattern the design structure and other info to include.\n\nIf you wouldn't mind sharing yours, please drop a comment so I'd reach you.\n\nThank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648072930.994869",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1648597538.824269",
+        "reply_users": [
+            "U02V08HJB8D",
+            "U02Q8U5T7TP",
+            "U02QDLB9ASU"
+        ],
+        "replies": [
+            {
+                "user": "U02V08HJB8D",
+                "ts": "1648122125.138959"
+            },
+            {
+                "user": "U02Q8U5T7TP",
+                "ts": "1648122256.144179"
+            },
+            {
+                "user": "U02V08HJB8D",
+                "ts": "1648124248.945889"
+            },
+            {
+                "user": "U02QDLB9ASU",
+                "ts": "1648597538.824269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

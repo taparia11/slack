@@ -1,0 +1,713 @@
+[
+    {
+        "client_msg_id": "e6803617-4f34-4386-88c1-7b282e9e0ebc",
+        "type": "message",
+        "text": "I've been using Thrive to build pages...there's probably something lighter than that but I really like it",
+        "user": "U02AJEY8ACW",
+        "ts": "1629878580.147600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a3fa1c4342fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2393938925632_a3fa1c4342fb8d904897_72.jpg",
+            "first_name": "Maeva",
+            "real_name": "Maeva Cifuentes",
+            "display_name": "Maeva",
+            "team": "TJE58GTJL",
+            "name": "maeva",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p1qd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've been using Thrive to build pages...there's probably something lighter than that but I really like it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629746817.128900",
+        "parent_user_id": "U0166H7KUAZ",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U0166H7KUAZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a23634d-a4dc-40c1-b085-b20ddcd3bd54",
+        "type": "message",
+        "text": "We use ninja table plugin. Few glitches here and there but overall a good fit",
+        "user": "U02BZFLJHM4",
+        "ts": "1629890035.147800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g44110e33660",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/44110e3366051855bddccfd40bcc14b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Rahul",
+            "real_name": "Rahul Nayak",
+            "display_name": "Rahul Nayak",
+            "team": "TJE58GTJL",
+            "name": "rahulnayak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hlf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We use ninja table plugin. Few glitches here and there but overall a good fit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629746817.128900",
+        "parent_user_id": "U0166H7KUAZ"
+    },
+    {
+        "client_msg_id": "5cffba22-eb3e-421a-833e-914483ee586a",
+        "type": "message",
+        "text": "*Tool recommendation for monitoring your own website?* _(Considering ContentKing, but curious if anyone has alternative recommendations)._\n\nWe’ve got a pretty “move fast and break things” company culture, which most of the time is right for us.\n\nBUT every once in a while someone makes some update to a blog post or page that… well, let’s say when I eventually discover it I scream things at the screen in a way you can only do when you WFH :laughing:\n\nCommon issues: Changing page titles, adding promotional copy to a series of posts topically related to a specific topic (without keeping track of it or thinking to ever come back and clean it up again), uploading 3MB images that should be 150KB, etc etc.\n\nDoesn’t help that Ghost, the blogging platform we use doesn’t have a version history.\n\nBeen keeping track of things with a combination of spreadsheets, obsessive documentation, Ahrefs, ScreamingFrog, screenshots attached to Asana tasks, regularly scheduled deep dive sessions into GA+GSC, but it’s gotten to the point where this is no longer feasible. Any suggestions much appreciated :pray:",
+        "user": "U02AG6CGR3L",
+        "ts": "1629891652.158500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4be561b387bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2385295453174_4be561b387bc0f9ba3be_72.jpg",
+            "first_name": "Ramin",
+            "real_name": "Ramin Assemi",
+            "display_name": "Ramin",
+            "team": "TJE58GTJL",
+            "name": "ramin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+H9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tool recommendation for monitoring your own website? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(Considering ContentKing, but curious if anyone has alternative recommendations).",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe’ve got a pretty “move fast and break things” company culture, which most of the time is right for us.\n\nBUT every once in a while someone makes some update to a blog post or page that… well, let’s say when I eventually discover it I scream things at the screen in a way you can only do when you WFH "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCommon issues: Changing page titles, adding promotional copy to a series of posts topically related to a specific topic (without keeping track of it or thinking to ever come back and clean it up again), uploading 3MB images that should be 150KB, etc etc.\n\nDoesn’t help that Ghost, the blogging platform we use doesn’t have a version history.\n\nBeen keeping track of things with a combination of spreadsheets, obsessive documentation, Ahrefs, ScreamingFrog, screenshots attached to Asana tasks, regularly scheduled deep dive sessions into GA+GSC, but it’s gotten to the point where this is no longer feasible. Any suggestions much appreciated "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1629966967.000700",
+        "reply_users": [
+            "U01EJ7VE9FD",
+            "U02AG6CGR3L",
+            "U01P13NTGG6",
+            "U014PRHQUQ2",
+            "U021QMNMQ68"
+        ],
+        "replies": [
+            {
+                "user": "U01EJ7VE9FD",
+                "ts": "1629892240.158600"
+            },
+            {
+                "user": "U02AG6CGR3L",
+                "ts": "1629893060.158800"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1629893196.160500"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1629894231.160900"
+            },
+            {
+                "user": "U02AG6CGR3L",
+                "ts": "1629895464.161400"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1629895701.161600"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1629898207.161900"
+            },
+            {
+                "user": "U02AG6CGR3L",
+                "ts": "1629905088.162800"
+            },
+            {
+                "user": "U021QMNMQ68",
+                "ts": "1629954654.000200"
+            },
+            {
+                "user": "U02AG6CGR3L",
+                "ts": "1629966967.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6a2c1095-2ff0-4413-b8c2-b760aea90da6",
+        "type": "message",
+        "text": "i think tracking each and every change isn't scalable or a good use of your time. instead, could you use a combination of restricting access to only those who need it + making more clear the WHY behind things - like teaching how you decide on title tags. then give people the freedom to make mistakes and learn from them within those boundaries, without breaking the site",
+        "user": "U01EJ7VE9FD",
+        "ts": "1629892240.158600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AeTCS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think tracking each and every change isn't scalable or a good use of your time. instead, could you use a combination of restricting access to only those who need it + making more clear the WHY behind things - like teaching how you decide on title tags. then give people the freedom to make mistakes and learn from them within those boundaries, without breaking the site"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02AG6CGR3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d6f59db-636d-4dc1-af41-01d7e63a9da7",
+        "type": "message",
+        "text": "Agree, I’m definitely not tracking every change—nor do I have that desire :slightly_smiling_face:\n\nEveryone on the content team already has a good grip on the fundamentals, but it’s also people outside of content where it wouldn’t be reasonable for me to expect them to learn these things.\n\nRestricting access is also only possible to a limited extent—we’ve got a “move fast and break things” culture, which like everything has is up- and downsides. Overall it works well for us, but this is one downside I have to deal with :slightly_smiling_face:\n\nSo I’m looking for a way that doesn’t put an additional burden on the rest of the team, but also frees up more of my time and helps me catch major mishaps quicker.",
+        "user": "U02AG6CGR3L",
+        "ts": "1629893060.158800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4be561b387bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2385295453174_4be561b387bc0f9ba3be_72.jpg",
+            "first_name": "Ramin",
+            "real_name": "Ramin Assemi",
+            "display_name": "Ramin",
+            "team": "TJE58GTJL",
+            "name": "ramin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02AG6CGR3L",
+            "ts": "1629894852.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o=kt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agree, I’m definitely not tracking every change—nor do I have that desire "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEveryone on the content team already has a good grip on the fundamentals, but it’s also people outside of content where it wouldn’t be reasonable for me to expect them to learn these things.\n\nRestricting access is also only possible to a limited extent—we’ve got a “move fast and break things” culture, which like everything has is up- and downsides. Overall it works well for us, but this is one downside I have to deal with "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSo I’m looking for a way that doesn’t put an additional burden on the rest of the team, but also frees up more of my time and helps me catch major mishaps quicker."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L"
+    },
+    {
+        "client_msg_id": "A824AB22-D0DD-46E4-86E0-26C853FC3587",
+        "type": "message",
+        "text": "Yeah, I'd recommend ContentKing for this. Reduces the headache of having to manually keep up with every change.\n\n<@U014PRHQUQ2> can elaborate I'm sure. ",
+        "user": "U01P13NTGG6",
+        "ts": "1629893196.160500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k\/2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I'd recommend ContentKing for this. Reduces the headache of having to manually keep up with every change.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can elaborate I'm sure. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02AG6CGR3L",
+                    "U014PRHQUQ2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bc1deb2-9b46-4a66-bcf7-13710dfb90c5",
+        "type": "message",
+        "text": "Thanks for the vote of confidence <@U01P13NTGG6>! Hey <@U02AG6CGR3L> — I’m one of the co-founders of ContentKing. What you’re describing sounds like a perfect situation for ContentKing :raised_hands: . Do you already have a free trial account?",
+        "user": "U014PRHQUQ2",
+        "ts": "1629894231.160900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VIrX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the vote of confidence "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01P13NTGG6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AG6CGR3L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " — I’m one of the co-founders of ContentKing. What you’re describing sounds like a perfect situation for ContentKing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Do you already have a free trial account?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02AG6CGR3L",
+                    "U02BTBAEQR5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd893f5c-fe8b-46ff-81f0-16a6578108c5",
+        "type": "message",
+        "text": "<@U014PRHQUQ2> That’s great to hear. Haven’t signed up for a trial yet, been wanting to ask around a bit first :slightly_smiling_face: Can you think of any alternatives that might be worth considering for me as well?",
+        "user": "U02AG6CGR3L",
+        "ts": "1629895464.161400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4be561b387bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2385295453174_4be561b387bc0f9ba3be_72.jpg",
+            "first_name": "Ramin",
+            "real_name": "Ramin Assemi",
+            "display_name": "Ramin",
+            "team": "TJE58GTJL",
+            "name": "ramin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Us",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " That’s great to hear. Haven’t signed up for a trial yet, been wanting to ask around a bit first "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can you think of any alternatives that might be worth considering for me as well?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L"
+    },
+    {
+        "client_msg_id": "9568d3f8-eaa4-461a-b8c7-435e332b01ac",
+        "type": "message",
+        "text": "Honestly, no. ContentKing is the only platform that allows for monitoring your site for the situations you’re describing.\n\nRunning crawls with legacy crawlers like Screaming Frog, and trying to extract the same insights is a tedious and time consuming process. And you’ll only end up with a comparison of what happened between the two moments you crawled. You have no clue what happened in between. If you’re serious about SEO, that’s a no-go in my book.",
+        "user": "U014PRHQUQ2",
+        "ts": "1629895701.161600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jq5G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Honestly, no. ContentKing is the only platform that allows for monitoring your site for the situations you’re describing.\n\nRunning crawls with legacy crawlers like Screaming Frog, and trying to extract the same insights is a tedious and time consuming process. And you’ll only end up with a comparison of what happened between the two moments you crawled. You have no clue what happened in between. If you’re serious about SEO, that’s a no-go in my book."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U01P13NTGG6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02AG6CGR3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5573503b-fe8e-439f-b6ad-441bb8e0f7d8",
+        "type": "message",
+        "text": "Yeah, I’ll reiterate that I have yet to come across another platform that handles this the way ContentKing does. Moreover, the UX is great and they have an integration with DataStudio to make reporting on specifics to higher-up super easy as well.",
+        "user": "U01P13NTGG6",
+        "ts": "1629898207.161900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dwH9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I’ll reiterate that I have yet to come across another platform that handles this the way ContentKing does. Moreover, the UX is great and they have an integration with DataStudio to make reporting on specifics to higher-up super easy as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U014PRHQUQ2",
+                    "U02AG6CGR3L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "978BB311-2DF5-4C51-B617-3F5E8961B7AC",
+        "type": "message",
+        "text": "Awesome, will take it for a spin, thanks!",
+        "user": "U02AG6CGR3L",
+        "ts": "1629905088.162800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4be561b387bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2385295453174_4be561b387bc0f9ba3be_72.jpg",
+            "first_name": "Ramin",
+            "real_name": "Ramin Assemi",
+            "display_name": "Ramin",
+            "team": "TJE58GTJL",
+            "name": "ramin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/lxX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, will take it for a spin, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L"
+    },
+    {
+        "client_msg_id": "95fb1414-589a-4a60-9ef1-9725d10867c0",
+        "type": "message",
+        "text": "<@U02AG6CGR3L> ContentKing is the perfect solution. There is one more named Mazeless. However it is more specifically for site migration and its in beta version now.",
+        "user": "U021QMNMQ68",
+        "ts": "1629954654.000200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "53aeb75f7da2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2041301884215_53aeb75f7da217ae0b1e_72.png",
+            "first_name": "Shahid",
+            "real_name": "Shahid Abbasi",
+            "display_name": "Shahid Abbasi",
+            "team": "TJE58GTJL",
+            "name": "growwithmarketers",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021QMNMQ68",
+            "ts": "1629954674.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HQpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02AG6CGR3L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ContentKing is the perfect solution. There is one more named Mazeless. However it is more specifically for site migration and its in beta version now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02AG6CGR3L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

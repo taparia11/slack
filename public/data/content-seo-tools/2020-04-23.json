@@ -1,0 +1,346 @@
+[
+    {
+        "client_msg_id": "de8917c6-51f2-4d25-a810-1ff98e4774ad",
+        "type": "message",
+        "text": "Np! :slightly_smiling_face: Sorry it wasn’t better!",
+        "user": "U010JU2GTND",
+        "ts": "1587647335.040700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Np! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sorry it wasn’t better!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587594198.036000",
+        "parent_user_id": "U01121W33EJ"
+    },
+    {
+        "client_msg_id": "858eef90-3654-439f-b480-8cfd630f51c1",
+        "type": "message",
+        "text": "Anyone know if it's possible to achieve the hub\/spoke URL scheme in Webflow? e.g.\n<http:\/\/yourcompany.com\/blog\/primary-topic|yourcompany.com\/blog\/primary-topic>\n<http:\/\/yourcompany.com\/blog\/primary-topic\/subtopic-a|yourcompany.com\/blog\/primary-topic\/subtopic-a>\n<http:\/\/yourcompany.com\/blog\/primary-topic\/subtopic-b|yourcompany.com\/blog\/primary-topic\/subtopic-b>\n<http:\/\/yourcompany.com\/blog\/primary-topic\/subtopic-c|yourcompany.com\/blog\/primary-topic\/subtopic-c>\nI can't get it to do anything other than concatenate it to <http:\/\/yourcompany.com\/blog\/primary-topic-subtopic-a|yourcompany.com\/blog\/primary-topic-subtopic-a>",
+        "user": "UUKNM4VDX",
+        "ts": "1587649717.042700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g4e7bff06a6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e7bff06a6f3deb947dd96cf8fb65a60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Steve Klein",
+            "display_name": "Steve Klein",
+            "team": "TJE58GTJL",
+            "name": "stklein89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUKNM4VDX",
+            "ts": "1587649725.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAxT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone know if it's possible to achieve the hub\/spoke URL scheme in Webflow? e.g.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/yourcompany.com\/blog\/primary-topic",
+                                "text": "yourcompany.com\/blog\/primary-topic"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/yourcompany.com\/blog\/primary-topic\/subtopic-a",
+                                "text": "yourcompany.com\/blog\/primary-topic\/subtopic-a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/yourcompany.com\/blog\/primary-topic\/subtopic-b",
+                                "text": "yourcompany.com\/blog\/primary-topic\/subtopic-b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/yourcompany.com\/blog\/primary-topic\/subtopic-c",
+                                "text": "yourcompany.com\/blog\/primary-topic\/subtopic-c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI can't get it to do anything other than concatenate it to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/yourcompany.com\/blog\/primary-topic-subtopic-a",
+                                "text": "yourcompany.com\/blog\/primary-topic-subtopic-a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587649717.042700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1587649850.042900",
+        "reply_users": [
+            "UUKNM4VDX"
+        ],
+        "replies": [
+            {
+                "user": "UUKNM4VDX",
+                "ts": "1587649850.042900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b6242e35-9df1-4bd8-9050-3c13fb4f0371",
+        "type": "message",
+        "text": "it's easy to do this w\/ folders for static content but just clarifying i want to be able to do this w\/ CMS content",
+        "user": "UUKNM4VDX",
+        "ts": "1587649850.042900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g4e7bff06a6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e7bff06a6f3deb947dd96cf8fb65a60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Steve Klein",
+            "display_name": "Steve Klein",
+            "team": "TJE58GTJL",
+            "name": "stklein89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kF=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's easy to do this w\/ folders for static content but just clarifying i want to be able to do this w\/ CMS content"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587649717.042700",
+        "parent_user_id": "UUKNM4VDX"
+    },
+    {
+        "client_msg_id": "2e93a6dc-8a0c-44fa-81c3-aa89115fe2e3",
+        "type": "message",
+        "text": "So I just learned about Notion and think it's worth giving a look. It's hard to describe succinctly because it's a lot of things wrapped into one tool. You can use it to collaborate on drafts like Google Docs and other tools, project manage a content calendar like Trello and similar tools, manage brand assets... the list goes on.\n\nThey just raised a shitload of funding during COVID-19. So they're inevitably going to be in listicles by EOY.\n\n<https:\/\/www.notion.so\/>",
+        "user": "UUH2EB134",
+        "ts": "1587663164.046100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Notion",
+                "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+                "title_link": "https:\/\/www.notion.so\/",
+                "text": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+                "fallback": "Notion: Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+                "image_url": "https:\/\/www.notion.so\/images\/meta\/default.png",
+                "from_url": "https:\/\/www.notion.so\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 80585,
+                "service_icon": "https:\/\/www.notion.so\/images\/logo-ios.png",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qmE5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I just learned about Notion and think it's worth giving a look. It's hard to describe succinctly because it's a lot of things wrapped into one tool. You can use it to collaborate on drafts like Google Docs and other tools, project manage a content calendar like Trello and similar tools, manage brand assets... the list goes on.\n\nThey just raised a shitload of funding during COVID-19. So they're inevitably going to be in listicles by EOY.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587663164.046100",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1591128281.080500",
+        "reply_users": [
+            "UP6K3LYQ7",
+            "U012BUUPHFT",
+            "UUJBMNRNF",
+            "UUH2EB134"
+        ],
+        "replies": [
+            {
+                "user": "UP6K3LYQ7",
+                "ts": "1587710703.046600"
+            },
+            {
+                "user": "U012BUUPHFT",
+                "ts": "1587714265.046800"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1591127482.078100"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1591127975.080300"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1591128281.080500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UP6K3LYQ7",
+                    "UJG9WTEKG",
+                    "UUKNLUX5X"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UV5TB6FQW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UUVRNP1Q8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bc298fd-ead4-4350-b35b-2e4b8ec10247",
+        "type": "message",
+        "text": "I love Notion! My team uses it as a remote workspace. We create department boards, documents, our content calendar, almost everything goes in there…\nIt’s also good for asynchronous communication and can replace email on some small things like tagging people to review a doc, etc.",
+        "user": "UP6K3LYQ7",
+        "ts": "1587710703.046600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "85f51ba81afb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3059639223108_85f51ba81afbc58c16bc_72.jpg",
+            "first_name": "Elena",
+            "real_name": "Elena Luchita",
+            "display_name": "Elena Luchita",
+            "team": "TJE58GTJL",
+            "name": "elena.ly18",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love Notion! My team uses it as a remote workspace. We create department boards, documents, our content calendar, almost everything goes in there…\nIt’s also good for asynchronous communication and can replace email on some small things like tagging people to review a doc, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587663164.046100",
+        "parent_user_id": "UUH2EB134"
+    }
+]

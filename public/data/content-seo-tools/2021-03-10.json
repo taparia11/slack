@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "f9ff8019-3d2b-4016-a99a-b1508a933895",
+        "type": "message",
+        "text": "<@U01LLSRQ57A> i would second what <@U01AHL8AGBB> said. i found myself creating a lot of mini templates of page content and doing all kinds of weird stuff to work around the fact that i was using a page builder to create blog content.\n\nin hindsight I think i would have paid a WP developer to create a custom template based on the common UI elements that I wanted.\n\nas for finding talent, this was recommended highly by a couple friends that have sites with 100k \/ mo traffic - <https:\/\/codeable.io\/>",
+        "user": "U01LECPAECX",
+        "ts": "1615394966.051400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7940a7cd2009",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-08\/1734300328372_7940a7cd200964cb73a8_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Thomas",
+            "display_name": "Michael Thomas",
+            "team": "TJE58GTJL",
+            "name": "michael248",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhbKZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01LLSRQ57A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i would second what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said. i found myself creating a lot of mini templates of page content and doing all kinds of weird stuff to work around the fact that i was using a page builder to create blog content.\n\nin hindsight I think i would have paid a WP developer to create a custom template based on the common UI elements that I wanted.\n\nas for finding talent, this was recommended highly by a couple friends that have sites with 100k \/ mo traffic - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/codeable.io\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615307268.042100",
+        "parent_user_id": "U01LLSRQ57A",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01LLSRQ57A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "618C6938-EED8-4F73-89BD-685307BB0AC8",
+        "type": "message",
+        "text": "If there’s anyway to roll back and get your blog on a clean WP build I would try to do that. The problem with these types of static builds and templates are — what happens when you want to do something different like embed a contest, or live video, or a chat ... or something that’s yet to be invented? You find yourself needing additional templates, or you introduce new bugs that you have to go back to the developer to fix. If you’re in charge of the blog, you end up being “the no person” (we don’t have a template for that, we’d need to hire a developer etc) ... but if you have a flexible WP build you can be the yes person. Way more fun :)",
+        "user": "U01KYJVARBP",
+        "ts": "1615408957.058600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0df63b6ce11",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0df63b6ce116cb75be94604fe5929831.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Seth",
+            "real_name": "Seth Kolloen",
+            "display_name": "Seth Kolloen",
+            "team": "TJE58GTJL",
+            "name": "kolloen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oks",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If there’s anyway to roll back and get your blog on a clean WP build I would try to do that. The problem with these types of static builds and templates are — what happens when you want to do something different like embed a contest, or live video, or a chat ... or something that’s yet to be invented? You find yourself needing additional templates, or you introduce new bugs that you have to go back to the developer to fix. If you’re in charge of the blog, you end up being “the no person” (we don’t have a template for that, we’d need to hire a developer etc) ... but if you have a flexible WP build you can be the yes person. Way more fun :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615307268.042100",
+        "parent_user_id": "U01LLSRQ57A",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01LLSRQ57A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,169 @@
+[
+    {
+        "bot_id": "BLLCEVD9N",
+        "type": "message",
+        "text": "this is why we can't have nice things",
+        "user": "U026R1895QV",
+        "ts": "1635166897.037300",
+        "team": "TJE58GTJL",
+        "bot_profile": {
+            "id": "BLLCEVD9N",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1563567276,
+            "team_id": "TJE58GTJL"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "L7TEg",
+                "image_url": "https:\/\/media0.giphy.com\/media\/W3XkT05wzcX04\/giphy.gif?cid=6104955eeb9e65af2ecc1ab4ba85c863ce608fbbcf5208f1&rid=giphy.gif&ct=g",
+                "alt_text": "this is why we can't have nice things",
+                "title": {
+                    "type": "plain_text",
+                    "text": "this is why we can't have nice things",
+                    "emoji": true
+                },
+                "fallback": "500x250px image",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 428538,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "VxE",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635166897.037300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1635173840.039500",
+        "reply_users": [
+            "U026R1895QV"
+        ],
+        "replies": [
+            {
+                "user": "U026R1895QV",
+                "ts": "1635173840.039500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U012GHRAHDK",
+                    "U0216ELKLQY",
+                    "U0216EN5J80"
+                ],
+                "count": 3
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U01J3L8CJRL",
+                    "U02F1GK6U6B",
+                    "U02C37J4X5K",
+                    "U01KGTNFLVA",
+                    "U01L7S9CVNG",
+                    "U01P13NTGG6",
+                    "U02JN9XNKS9",
+                    "U0216EN5J80",
+                    "UUXPJ96EQ"
+                ],
+                "count": 9
+            },
+            {
+                "name": "laughing",
+                "users": [
+                    "U017FND659T",
+                    "U0216EN5J80"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e44e880-fe2f-4206-90bd-874d6d0d29a5",
+        "type": "message",
+        "text": "^ that was a response to the spamming that those who are coming in late may not have seen (I realize I look like a jerk just posting a lone gif in <#CJE58H0P2|watercooler>)",
+        "user": "U026R1895QV",
+        "ts": "1635173840.039500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U026R1895QV",
+            "ts": "1635173849.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UheOA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^ that was a response to the spamming that those who are coming in late may not have seen (I realize I look like a jerk just posting a lone gif in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CJE58H0P2"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635166897.037300",
+        "parent_user_id": "U026R1895QV",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U02FBJMJ47R",
+                    "U02JN9XNKS9",
+                    "U0216EN5J80"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

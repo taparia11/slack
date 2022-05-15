@@ -1,0 +1,584 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1643715231.002509",
+        "thread_ts": "1643715231.002509",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1643950738.422409",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02SZ1EE0BC"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1643730912.095759"
+            },
+            {
+                "user": "U02SZ1EE0BC",
+                "ts": "1643950738.422409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1643950738.422409"
+    },
+    {
+        "client_msg_id": "d3ea5ed1-c7f1-4e0f-95c4-a86bff96b2e0",
+        "type": "message",
+        "text": "<@U02JUM9D18R>",
+        "user": "U02HD0L8HAP",
+        "ts": "1643718638.275929",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "675c42a91f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-10\/2928364816754_675c42a91f6571f4ac6b_72.jpg",
+            "first_name": "Aanchal",
+            "real_name": "Aanchal Parmar",
+            "display_name": "Aanchal Parmar",
+            "team": "TJE58GTJL",
+            "name": "aanywrites",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kajq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02JUM9D18R"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643632211.910569",
+        "parent_user_id": "U031DQX4UJU"
+    },
+    {
+        "client_msg_id": "ef3682fb-39b6-401b-840b-b51e6d7073ea",
+        "type": "message",
+        "text": "<@U01T30ZCN82> can help you with animated videos, infographics, motion graphics, and illustrations.",
+        "user": "U02DQ4MB30E",
+        "ts": "1643728572.718479",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "da3df19ff250",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-09\/2467172480038_da3df19ff250056e1622_72.jpg",
+            "first_name": "Pasha",
+            "real_name": "Pasha",
+            "display_name": "Pasha",
+            "team": "TJE58GTJL",
+            "name": "pasha.abdulov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fuyLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01T30ZCN82"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can help you with animated videos, infographics, motion graphics, and illustrations."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643632211.910569",
+        "parent_user_id": "U031DQX4UJU"
+    },
+    {
+        "client_msg_id": "70c2de58-d60a-4e8a-ae8f-1ea59052846f",
+        "type": "message",
+        "text": "<@U02SZ1EE0BC> can you move this to <#C02RGHQ4HK7|hire-me>?",
+        "user": "UJG9WTEKG",
+        "ts": "1643730912.095759",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nw0O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02SZ1EE0BC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02RGHQ4HK7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643715231.002509",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "4b50b03f-2db2-4b39-8d03-8e4a62b7a748",
+        "type": "message",
+        "text": "Oh hey, and thanks, Pasha, Yes, I came from an animation studio and am just getting started setting up my own agency -- as someone on the written content side, I'm lucky to have fallen into such an incredible band of animators and artists. We're happy to do concepting, scripting, and storyboarding or just jump into recording\/animating using your style guide and script. If you're still in need I'm happy to send samples\/answer questions.",
+        "user": "U01T30ZCN82",
+        "ts": "1643738697.844329",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "21b5c9e10088",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-30\/2665466859317_21b5c9e1008896e945c1_72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Share",
+            "display_name": "Jessica Share",
+            "team": "TJE58GTJL",
+            "name": "jessicamikell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PWzV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh hey, and thanks, Pasha, Yes, I came from an animation studio and am just getting started setting up my own agency -- as someone on the written content side, I'm lucky to have fallen into such an incredible band of animators and artists. We're happy to do concepting, scripting, and storyboarding or just jump into recording\/animating using your style guide and script. If you're still in need I'm happy to send samples\/answer questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643632211.910569",
+        "parent_user_id": "U031DQX4UJU"
+    },
+    {
+        "client_msg_id": "fb0b11af-6aad-4a08-b8d1-b165e4b4cf9d",
+        "type": "message",
+        "text": "Hi everyone! I'm looking for freelance writers who have some experience in the *Not-for-Profit (charities, local community boards, museums, etc) and Higher Ed (university and college campus affairs)* sectors. I'm looking for fun, conversational voices for some thought leadership pieces - nothing too technical. Let me know if that's anyone you know. :)",
+        "user": "U030W3GU649",
+        "ts": "1643747218.760979",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3dba1507672c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3002922982823_3dba1507672c6f206730_72.jpg",
+            "first_name": "Mia",
+            "real_name": "Mia David",
+            "display_name": "Mia David",
+            "team": "TJE58GTJL",
+            "name": "mia448",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030W3GU649",
+            "ts": "1643747239.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kLhPd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! I'm looking for freelance writers who have some experience in the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Not-for-Profit (charities, local community boards, museums, etc) and Higher Ed (university and college campus affairs) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "sectors. I'm looking for fun, conversational voices for some thought leadership pieces - nothing too technical. Let me know if that's anyone you know. :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643747218.760979",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1644938782.922939",
+        "reply_users": [
+            "U02PA451C3B",
+            "U01R17T2KJ8",
+            "U020NR8J2SG",
+            "U02S478FWF2",
+            "U024A8928AW",
+            "U02UXMQBQ3C"
+        ],
+        "replies": [
+            {
+                "user": "U02PA451C3B",
+                "ts": "1643756208.165249"
+            },
+            {
+                "user": "U01R17T2KJ8",
+                "ts": "1643756213.444339"
+            },
+            {
+                "user": "U020NR8J2SG",
+                "ts": "1643768570.269679"
+            },
+            {
+                "user": "U02S478FWF2",
+                "ts": "1643801463.455159"
+            },
+            {
+                "user": "U024A8928AW",
+                "ts": "1643806319.909069"
+            },
+            {
+                "user": "U02UXMQBQ3C",
+                "ts": "1644938782.922939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01TB1SDD61",
+                    "U02ANC57AAY",
+                    "U02UXMQBQ3C"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U020NR8J2SG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9db1d41a-9454-4001-9ea3-bdc40c692290",
+        "type": "message",
+        "text": "Hello Nat. I sent you a DM. Thank you.",
+        "user": "U02PA451C3B",
+        "ts": "1643755825.698609",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b537e61283c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-29\/2764910798855_b537e61283c91a8b8471_72.jpg",
+            "first_name": "Keli",
+            "real_name": "Keli Oliseh",
+            "display_name": "Keli",
+            "team": "TJE58GTJL",
+            "name": "olisehkeli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M9U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Nat. I sent you a DM. Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643639627.580429",
+        "parent_user_id": "U023339GRF0"
+    },
+    {
+        "client_msg_id": "4cd75bc1-83e7-49fc-983c-458d0f84eefd",
+        "type": "message",
+        "text": "Hello Mia. I sent you a DM. Thank you.",
+        "user": "U02PA451C3B",
+        "ts": "1643756208.165249",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b537e61283c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-29\/2764910798855_b537e61283c91a8b8471_72.jpg",
+            "first_name": "Keli",
+            "real_name": "Keli Oliseh",
+            "display_name": "Keli",
+            "team": "TJE58GTJL",
+            "name": "olisehkeli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9y4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Mia. I sent you a DM. Thank you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643747218.760979",
+        "parent_user_id": "U030W3GU649"
+    },
+    {
+        "client_msg_id": "F33E7B24-6785-4C01-A59E-6B618AB0D650",
+        "type": "message",
+        "text": "Hi Mia! I’m a college instructor turned content strategist\/writer. I specialize in creating long-form content like learning modules, thought leadership pieces, and pitch decks. Happy to share work samples! Thanks. ",
+        "user": "U01R17T2KJ8",
+        "ts": "1643756213.444339",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c4f1b78a9b68",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-11\/1847652009746_c4f1b78a9b68c739d9e3_72.png",
+            "first_name": "Kelly",
+            "real_name": "Kelly",
+            "display_name": "Kelly",
+            "team": "TJE58GTJL",
+            "name": "kgracethomas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RwI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Mia! I’m a college instructor turned content strategist\/writer. I specialize in creating long-form content like learning modules, thought leadership pieces, and pitch decks. Happy to share work samples! Thanks. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643747218.760979",
+        "parent_user_id": "U030W3GU649"
+    },
+    {
+        "client_msg_id": "1c88df32-b4e8-4c6a-8006-0341d0445542",
+        "type": "message",
+        "text": "What are some common sales objections you get when selling your services, and what have you found to work to overcome them?",
+        "user": "U01RSA9E9D4",
+        "ts": "1643766830.571869",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfbc217f6e1b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbc217f6e1b233bf10c4247333c118e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Anfernee",
+            "real_name": "Anfernee Chansamooth",
+            "display_name": "Anf Chansamooth",
+            "team": "TJE58GTJL",
+            "name": "anf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RSA9E9D4",
+            "ts": "1643766855.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iKU1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are some common sales objections you get when selling your services, and what have you found to work to overcome them?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643766830.571869",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1643787321.026389",
+        "reply_users": [
+            "UJJFDTN8G"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1643787321.026389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a3e9720c-f994-4c1a-8903-9662447ebe97",
+        "type": "message",
+        "text": "Hi <@U030W3GU649>, I have experience in this way. Let me know how I might contact you.",
+        "user": "U020NR8J2SG",
+        "ts": "1643768570.269679",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fa01cd03e55d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-24\/2769373106900_fa01cd03e55d36359ba2_72.jpg",
+            "first_name": "",
+            "real_name": "Lauren Caggiano",
+            "display_name": "Lauren Caggiano",
+            "team": "TJE58GTJL",
+            "name": "lauren551",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wFD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030W3GU649"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I have experience in this way. Let me know how I might contact you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643747218.760979",
+        "parent_user_id": "U030W3GU649"
+    },
+    {
+        "client_msg_id": "68e76ad1-6ae4-486e-80f3-5d8407aca954",
+        "type": "message",
+        "text": "In enterprise software, it's always about security.\n\nWe have a security whitepaper which gets us in the door but then it's a dedicated salesperson\/technical person to jump through hoops.",
+        "user": "UJJFDTN8G",
+        "ts": "1643787321.026389",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wgSvA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In enterprise software, it's always about security.\n\nWe have a security whitepaper which gets us in the door but then it's a dedicated salesperson\/technical person to jump through hoops."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643766830.571869",
+        "parent_user_id": "U01RSA9E9D4"
+    }
+]

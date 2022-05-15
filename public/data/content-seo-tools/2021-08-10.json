@@ -1,0 +1,851 @@
+[
+    {
+        "client_msg_id": "f0a319ea-df4d-44d8-92bb-ec3f0afca338",
+        "type": "message",
+        "text": "We’re in the process of migrating to Ghost from WP — well, haven’t started migration yet, but on our way. In my case it’s b\/c our security team really prefers a static CMS and worry about WordPress from a security POV (it gets more technical than I understand but I trust them…) I’m a bit nervous about the transition, though — losing some of the functionality of WP, the flexibility, the plugins galore.",
+        "user": "U0293KR1KD2",
+        "ts": "1628612464.048500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e32dc7e5462",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2303948754755_5e32dc7e5462380d7979_72.jpg",
+            "first_name": "Irene",
+            "real_name": "Irene Keliher",
+            "display_name": "Irene Keliher",
+            "team": "TJE58GTJL",
+            "name": "irenek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IiWGX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We’re in the process of migrating to Ghost from WP — well, haven’t started migration yet, but on our way. In my case it’s b\/c our security team really prefers a static CMS and worry about WordPress from a security POV (it gets more technical than I understand but I trust them…) I’m a bit nervous about the transition, though — losing some of the functionality of WP, the flexibility, the plugins galore."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "d478fa5d-e974-4fc0-a171-e04402534993",
+        "type": "message",
+        "text": "Has anyone used Ghost for a multilingual site?",
+        "user": "U0293KR1KD2",
+        "ts": "1628612472.048700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e32dc7e5462",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2303948754755_5e32dc7e5462380d7979_72.jpg",
+            "first_name": "Irene",
+            "real_name": "Irene Keliher",
+            "display_name": "Irene Keliher",
+            "team": "TJE58GTJL",
+            "name": "irenek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P4Je",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone used Ghost for a multilingual site?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "3f12edb6-a9a6-4861-964a-06d2b0860603",
+        "type": "message",
+        "text": "<@U0293KR1KD2> - thanks for the insight! I’m worried about losing the WP functionality\/plugins as well, but my hope is that the ease of use that Ghost promotes is more beneficial to our content strategy.\n\nI feel that we’d be more inclined to update and create blog content in a CMS that is so simple and clutter-free that it allows us to just write! :slightly_smiling_face:",
+        "user": "U029M4L0996",
+        "ts": "1628612611.049200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gcd18397c9f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd18397c9f2e06f81d5f2f34158d6b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Yates",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "myates01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "45J2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0293KR1KD2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - thanks for the insight! I’m worried about losing the WP functionality\/plugins as well, but my hope is that the ease of use that Ghost promotes is more beneficial to our content strategy.\n\nI feel that we’d be more inclined to update and create blog content in a CMS that is so simple and clutter-free that it allows us to just write! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "373b9ebf-793b-42bf-89b8-fc8686cb6868",
+        "type": "message",
+        "text": "<@U029M4L0996> - I love that perspective! It’s helpful. I’m also hoping that page speed and user experience are improved. It’s also a chance to pivot to a clean, fresh design w\/o going through some kind of RFP for a WordPress agency.",
+        "user": "U0293KR1KD2",
+        "ts": "1628612700.049400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e32dc7e5462",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2303948754755_5e32dc7e5462380d7979_72.jpg",
+            "first_name": "Irene",
+            "real_name": "Irene Keliher",
+            "display_name": "Irene Keliher",
+            "team": "TJE58GTJL",
+            "name": "irenek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AEEg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U029M4L0996"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I love that perspective! It’s helpful. I’m also hoping that page speed and user experience are improved. It’s also a chance to pivot to a clean, fresh design w\/o going through some kind of RFP for a WordPress agency."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U029M4L0996"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e68af76b-1f4d-4faa-a357-93eb55013e35",
+        "type": "message",
+        "text": "<@UUKNSAKUH> - have you relied on Ghost support? Or do you have in-house devs you can work with? (If you want to add a table of contents, or what have you).",
+        "user": "U0293KR1KD2",
+        "ts": "1628612774.049600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e32dc7e5462",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2303948754755_5e32dc7e5462380d7979_72.jpg",
+            "first_name": "Irene",
+            "real_name": "Irene Keliher",
+            "display_name": "Irene Keliher",
+            "team": "TJE58GTJL",
+            "name": "irenek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXQb5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUKNSAKUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - have you relied on Ghost support? Or do you have in-house devs you can work with? (If you want to add a table of contents, or what have you)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "97174a59-0349-40ff-b8f9-be4169189222",
+        "type": "message",
+        "text": "Hey everyone!\n\nDoes anyone here use JIRA work management for content project management? We're moving off of Monday to JIRA and I'm trying to understand how other content teams use it",
+        "user": "U01KT0G9TFC",
+        "ts": "1628614658.050800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dfa8499c7315",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1678438766467_dfa8499c7315eb54475b_72.png",
+            "first_name": "Corinne",
+            "real_name": "Corinne Watson",
+            "display_name": "Corinne Watson",
+            "team": "TJE58GTJL",
+            "name": "corinnejwatson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone!\n\nDoes anyone here use JIRA work management for content project management? We're moving off of Monday to JIRA and I'm trying to understand how other content teams use it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628614658.050800",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1628658813.057700",
+        "reply_users": [
+            "UK3FP4VNZ",
+            "U022WPACV4L",
+            "U01KT0G9TFC",
+            "U0289MBA1SR",
+            "U022NPEBM18"
+        ],
+        "replies": [
+            {
+                "user": "UK3FP4VNZ",
+                "ts": "1628614794.050900"
+            },
+            {
+                "user": "U022WPACV4L",
+                "ts": "1628614838.051200"
+            },
+            {
+                "user": "U01KT0G9TFC",
+                "ts": "1628616395.051500"
+            },
+            {
+                "user": "U0289MBA1SR",
+                "ts": "1628628330.056500"
+            },
+            {
+                "user": "U022NPEBM18",
+                "ts": "1628658813.057700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bf258748-8f91-431f-b13a-e7c51c85cb10",
+        "type": "message",
+        "text": "Hey Corinne! I use JIRA with my team and I found it to be really easy to pick up and implement as a former Trello user. I would recommend creating a content board, and then you can customize your request intake fields with a \"content type\" single select. I then organize the board in swim lanes by content type, and add a column for each stage of production. Happy to show you some screenshots or answer any questions! feel free to DM :slightly_smiling_face:",
+        "user": "UK3FP4VNZ",
+        "ts": "1628614794.050900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d95bc2f16983",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-11\/1591729735856_d95bc2f169830c8ce953_72.jpg",
+            "first_name": "Michaela",
+            "real_name": "Michaela Mendes",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "michaelamendes616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ag0Xh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Corinne! I use JIRA with my team and I found it to be really easy to pick up and implement as a former Trello user. I would recommend creating a content board, and then you can customize your request intake fields with a \"content type\" single select. I then organize the board in swim lanes by content type, and add a column for each stage of production. Happy to show you some screenshots or answer any questions! feel free to DM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628614658.050800",
+        "parent_user_id": "U01KT0G9TFC",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01KT0G9TFC",
+                    "U020EL92NBZ",
+                    "U012GHRAHDK"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4e09a26-6a60-4d55-88c5-48659efe7186",
+        "type": "message",
+        "text": "I've used it before as well. It really reminds me a lot of Asana. It's quick and easy to learn",
+        "user": "U022WPACV4L",
+        "ts": "1628614838.051200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bc588db919e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2092645159746_bc588db919e300f6dc48_72.jpg",
+            "first_name": "Taran",
+            "real_name": "Taran Soodan",
+            "display_name": "Taran Soodan",
+            "team": "TJE58GTJL",
+            "name": "taran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7xk7M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've used it before as well. It really reminds me a lot of Asana. It's quick and easy to learn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628614658.050800",
+        "parent_user_id": "U01KT0G9TFC",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U027Y9T7GTC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da5c7872-f85d-408a-bb0b-dbb498b69afd",
+        "type": "message",
+        "text": "DMing you <@UK3FP4VNZ>! thank you :slightly_smiling_face:",
+        "user": "U01KT0G9TFC",
+        "ts": "1628616395.051500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dfa8499c7315",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1678438766467_dfa8499c7315eb54475b_72.png",
+            "first_name": "Corinne",
+            "real_name": "Corinne Watson",
+            "display_name": "Corinne Watson",
+            "team": "TJE58GTJL",
+            "name": "corinnejwatson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VXX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DMing you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UK3FP4VNZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628614658.050800",
+        "parent_user_id": "U01KT0G9TFC"
+    },
+    {
+        "client_msg_id": "5b20bc64-5101-4cb5-94d3-f616265b793e",
+        "type": "message",
+        "text": "Yeah it's in house devs, fans of the platform actually. So I got lucky here",
+        "user": "UUKNSAKUH",
+        "ts": "1628617165.051700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c1fd638514",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/975112902481_22c1fd63851461dc68d6_72.jpg",
+            "first_name": "Kal",
+            "real_name": "Kal Dimitrov",
+            "display_name": "Kal Dimitrov",
+            "team": "TJE58GTJL",
+            "name": "kaloyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "duQlM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah it's in house devs, fans of the platform actually. So I got lucky here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "E89E3F27-40E0-4376-8DEC-992B23ADED66",
+        "type": "message",
+        "text": "That’s awesome. I’m not likely to have the support internally. ",
+        "user": "U0293KR1KD2",
+        "ts": "1628618272.052700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e32dc7e5462",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2303948754755_5e32dc7e5462380d7979_72.jpg",
+            "first_name": "Irene",
+            "real_name": "Irene Keliher",
+            "display_name": "Irene Keliher",
+            "team": "TJE58GTJL",
+            "name": "irenek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s awesome. I’m not likely to have the support internally. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "7f59f0db-7225-4d8f-8bcb-bf379b1b0780",
+        "type": "message",
+        "text": "Same here <@U0293KR1KD2> - what’s your plan for support without an internal team?",
+        "user": "U029M4L0996",
+        "ts": "1628618302.052900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gcd18397c9f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd18397c9f2e06f81d5f2f34158d6b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Yates",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "myates01",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lr=S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same here "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0293KR1KD2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - what’s your plan for support without an internal team?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "874ADAC3-464E-4FFD-A26F-75BBF8277BD3",
+        "type": "message",
+        "text": "This is a major sticking point! I’m considering either a contractor on retainer (I do this now for WP) or pushing our marketing devs to include a support plan before we migrate. ",
+        "user": "U0293KR1KD2",
+        "ts": "1628618605.055300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e32dc7e5462",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2303948754755_5e32dc7e5462380d7979_72.jpg",
+            "first_name": "Irene",
+            "real_name": "Irene Keliher",
+            "display_name": "Irene Keliher",
+            "team": "TJE58GTJL",
+            "name": "irenek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sav",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a major sticking point! I’m considering either a contractor on retainer (I do this now for WP) or pushing our marketing devs to include a support plan before we migrate. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "CACB13D8-29D5-4FF7-9390-1F7595358369",
+        "type": "message",
+        "text": "I was literally just Googling “ghost cms developer” ",
+        "user": "U0293KR1KD2",
+        "ts": "1628618630.056300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e32dc7e5462",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2303948754755_5e32dc7e5462380d7979_72.jpg",
+            "first_name": "Irene",
+            "real_name": "Irene Keliher",
+            "display_name": "Irene Keliher",
+            "team": "TJE58GTJL",
+            "name": "irenek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYCYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was literally just Googling “ghost cms developer” "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628271704.030300",
+        "parent_user_id": "U029M4L0996"
+    },
+    {
+        "client_msg_id": "449cca58-31d5-4155-9b1b-90ceeaf01f3a",
+        "type": "message",
+        "text": "Hey Corinne! We use JIRA too. We've got quite a few content producers\/contributors here so it's a useful tool for assigning work.\n\nWe typically have a weekly content planning meeting where we all go through the JIRA board and update items.",
+        "user": "U0289MBA1SR",
+        "ts": "1628628330.056500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c9d6b33c1988",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-19\/2286995491683_c9d6b33c198872fa1ca0_72.jpg",
+            "first_name": "David",
+            "real_name": "David Renwick",
+            "display_name": "David Renwick",
+            "team": "TJE58GTJL",
+            "name": "david.renwick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kN8Rh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Corinne! We use JIRA too. We've got quite a few content producers\/contributors here so it's a useful tool for assigning work.\n\nWe typically have a weekly content planning meeting where we all go through the JIRA board and update items."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628614658.050800",
+        "parent_user_id": "U01KT0G9TFC"
+    },
+    {
+        "client_msg_id": "14936801-4f54-42d3-9742-fc98e141bb56",
+        "type": "message",
+        "text": "Does anyone know a good tool to create lookalike audiences for facebook ad campaign? Specifically - any ways to build audiences based on members of specific FB groups? Feels like this exists somewhere but I can't recall where I've seen it! Thanks in advance",
+        "user": "U029Q3SNGKG",
+        "ts": "1628642501.057500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e1f1b0752f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-02\/2360770823664_1e1f1b0752f85f9f34b7_72.jpg",
+            "first_name": "",
+            "real_name": "Jonathan Sukhia",
+            "display_name": "Jonathan Sukhia",
+            "team": "TJE58GTJL",
+            "name": "jon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U029Q3SNGKG",
+            "ts": "1628642523.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6GOXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know a good tool to create lookalike audiences for facebook ad campaign? Specifically - any ways to build audiences based on members of specific FB groups? Feels like this exists somewhere but I can't recall where I've seen it! Thanks in advance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628642501.057500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1628699037.066400",
+        "reply_users": [
+            "UPZ4VTLJE"
+        ],
+        "replies": [
+            {
+                "user": "UPZ4VTLJE",
+                "ts": "1628699037.066400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U022NPEBM18",
+                    "UJ725T44B",
+                    "U016LHA1BHP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e9037f1-81ad-4cfe-bd22-60b9ad8eb90c",
+        "type": "message",
+        "text": "Hi <@U01KT0G9TFC>, if you're looking for an alternative to manage content projects, you can consider <https:\/\/narrato.io|Narrato Workspace>. It was built for content teams to manage content projects and workflow.",
+        "user": "U022NPEBM18",
+        "ts": "1628658813.057700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g5853f346f4c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5853f346f4c719b06f4805a6be15beb4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Akshay Bhat",
+            "display_name": "Akshay Bhat",
+            "team": "TJE58GTJL",
+            "name": "akshay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Narrato WorkSpace - Content Workflow &amp; Management Software",
+                "title_link": "https:\/\/narrato.io\/",
+                "text": "Narrato Workspace is a content collaboration &amp; management platform that brings all your content processes and people at one place, and helps you automate content workflow.",
+                "fallback": "Narrato WorkSpace - Content Workflow &amp; Management Software",
+                "from_url": "https:\/\/narrato.io\/",
+                "service_icon": "https:\/\/narrato.io\/favicon.ico",
+                "service_name": "narrato.io",
+                "id": 1,
+                "original_url": "https:\/\/narrato.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RC8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KT0G9TFC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", if you're looking for an alternative to manage content projects, you can consider "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/narrato.io",
+                                "text": "Narrato Workspace"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It was built for content teams to manage content projects and workflow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628614658.050800",
+        "parent_user_id": "U01KT0G9TFC",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01RSA9E9D4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

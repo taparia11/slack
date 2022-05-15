@@ -1,0 +1,406 @@
+[
+    {
+        "client_msg_id": "20e36f77-1945-4701-b682-d29952b1378e",
+        "type": "message",
+        "text": "Hey all - I just updated our Yoast plugin in the process of updating it from free to premium… but now our entire website is down\n\n<http:\/\/soapboxhq.com|soapboxhq.com>\n\nAny thoughts\/\/ has anyone experienced this before?",
+        "user": "U010JU2GTND",
+        "ts": "1593531143.126700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0K0u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all - I just updated our Yoast plugin in the process of updating it from free to premium… but now our entire website is down\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/soapboxhq.com",
+                                "text": "soapboxhq.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAny thoughts\/\/ has anyone experienced this before?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1593900290.135200",
+        "reply_users": [
+            "UUJBMDVGB",
+            "U010JU2GTND",
+            "U014PRHQUQ2",
+            "UUJBMNRNF",
+            "U0107Q25BRT"
+        ],
+        "replies": [
+            {
+                "user": "UUJBMDVGB",
+                "ts": "1593532478.127600"
+            },
+            {
+                "user": "U010JU2GTND",
+                "ts": "1593532647.127800"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1593542546.128000"
+            },
+            {
+                "user": "U010JU2GTND",
+                "ts": "1593542629.128200"
+            },
+            {
+                "user": "U010JU2GTND",
+                "ts": "1593542642.128400"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1593543225.129200"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1593543282.130000"
+            },
+            {
+                "user": "U0107Q25BRT",
+                "ts": "1593900290.135200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6c782c30-4e54-40cf-b97c-9a5d4e54490a",
+        "type": "message",
+        "text": "I'm not that tech-y so don't know what that error message means exactly, but, have had similar issues on my affiliate site before (update a plugin --&gt; site goes down).\n\nI had to go into the website files through SFTP client (I used FileZilla) and delete the plugin that caused the problem directly there. If you have any recent backups, you could also restore from one of those.",
+        "user": "UUJBMDVGB",
+        "ts": "1593532478.127600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b6e24eb54b4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-15\/1588694389873_b6e24eb54b4b69597910_72.jpg",
+            "first_name": "Georges",
+            "real_name": "Georges Petrequin",
+            "display_name": "Georges",
+            "team": "TJE58GTJL",
+            "name": "georgespetrequin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkKMF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not that tech-y so don't know what that error message means exactly, but, have had similar issues on my affiliate site before (update a plugin --> site goes down).\n\nI had to go into the website files through SFTP client (I used FileZilla) and delete the plugin that caused the problem directly there. If you have any recent backups, you could also restore from one of those."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "parent_user_id": "U010JU2GTND"
+    },
+    {
+        "client_msg_id": "c4f883b0-ad81-49f0-a83e-c7bc91957fad",
+        "type": "message",
+        "text": "Yeah, seems like they just got the site back up, but hopefully it didn’t mess anythign up in the process :confused:",
+        "user": "U010JU2GTND",
+        "ts": "1593532647.127800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYmtK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, seems like they just got the site back up, but hopefully it didn’t mess anythign up in the process "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "parent_user_id": "U010JU2GTND"
+    },
+    {
+        "client_msg_id": "39902c40-1436-44fc-b668-f7962a586811",
+        "type": "message",
+        "text": "Always sucks when this happens. I’d highly recommend having a staging environment where you can test changes like these first to see if anything breaks.",
+        "user": "U014PRHQUQ2",
+        "ts": "1593542546.128000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BdS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Always sucks when this happens. I’d highly recommend having a staging environment where you can test changes like these first to see if anything breaks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "parent_user_id": "U010JU2GTND"
+    },
+    {
+        "client_msg_id": "2510e438-c568-418a-ad70-af8674dbf714",
+        "type": "message",
+        "text": "Yeah, we have one but it’s currently managed by the CEO (we’re a very small team) so thought it wouldn’t be a big deal to run on my own :sweat_smile: but, definitely noted for future",
+        "user": "U010JU2GTND",
+        "ts": "1593542629.128200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nv2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, we have one but it’s currently managed by the CEO (we’re a very small team) so thought it wouldn’t be a big deal to run on my own "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but, definitely noted for future"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "parent_user_id": "U010JU2GTND"
+    },
+    {
+        "client_msg_id": "a642fa8e-0468-4409-a038-90e745e5725a",
+        "type": "message",
+        "text": "Great suggestion though hahah, will definitely not bypass that check next time",
+        "user": "U010JU2GTND",
+        "ts": "1593542642.128400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0=w3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great suggestion though hahah, will definitely not bypass that check next time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "parent_user_id": "U010JU2GTND",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U014PRHQUQ2",
+                    "UJ2QESJ66"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "385B0105-9D3B-48BE-BF50-3C209EE75A28",
+        "type": "message",
+        "text": "Hiba, I’m right there with ya! \nI’ve got backups for a reason! :joy:",
+        "user": "UUJBMNRNF",
+        "ts": "1593543225.129200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5YZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hiba, I’m right there with ya! \nI’ve got backups for a reason! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "parent_user_id": "U010JU2GTND"
+    },
+    {
+        "client_msg_id": "7A18BF68-4926-4B75-9319-16F023829636",
+        "type": "message",
+        "text": "I do some testing on a dev environment but sometimes I just roll with it!\n\nGranted, I don't have millions of pageviews each month...haha",
+        "user": "UUJBMNRNF",
+        "ts": "1593543282.130000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUJBMNRNF",
+            "ts": "1593544073.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do some testing on a dev environment but sometimes I just roll with it!\n\nGranted, I don't have millions of pageviews each month...haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "parent_user_id": "U010JU2GTND"
+    }
+]

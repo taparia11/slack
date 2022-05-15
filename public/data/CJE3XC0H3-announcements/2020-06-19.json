@@ -1,0 +1,419 @@
+[
+    {
+        "client_msg_id": "b93f2442-27e8-4492-b8fb-4acb79dce614",
+        "type": "message",
+        "text": "hello there <!here> - i added a <#C016ENU9KNU|reading-list> channel where we can share articles\/videos\/podcasts that we’re consuming. i come across so much great stuff over the course of a week (and i’m sure everyone else does too), now we have a place to share it!\n*what other channels (if any) should we add?*",
+        "user": "UJG9WTEKG",
+        "ts": "1592580098.395000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IB0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello there "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - i added a "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C016ENU9KNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel where we can share articles\/videos\/podcasts that we’re consuming. i come across so much great stuff over the course of a week (and i’m sure everyone else does too), now we have a place to share it!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "what other channels (if any) should we add?",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592580098.395000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1592594957.401600",
+        "reply_users": [
+            "UJS103D7S",
+            "U011UJX75PE",
+            "U015JA18S11",
+            "UUJBMNRNF"
+        ],
+        "replies": [
+            {
+                "user": "UJS103D7S",
+                "ts": "1592580552.396000"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1592580810.396300"
+            },
+            {
+                "user": "U015JA18S11",
+                "ts": "1592592794.400400"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1592593045.400600"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1592594957.401600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1592597295.088792",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U015HDJKZM2",
+                    "UUH28KQPL",
+                    "U013P4Q9YTU",
+                    "U0136JJHUSK",
+                    "U0153M0K2N7",
+                    "UR1QZ74V6",
+                    "U010CH02CMP",
+                    "U011UJX75PE",
+                    "UJS103D7S",
+                    "UJDRK6E4C",
+                    "U012YJ35BML",
+                    "U010XAE2D3K",
+                    "U011ZPZTL56",
+                    "U0159SLMLTF",
+                    "U0159EE99HB",
+                    "U015JA18S11",
+                    "UJG24P8P6",
+                    "U015WN80X97",
+                    "U013L0U4YSU",
+                    "UUVC67604",
+                    "UJJELJPNH",
+                    "U015DN66NQ1",
+                    "U0154G52ZJS",
+                    "U0105JEFJ1F"
+                ],
+                "count": 24
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U012UL77GUT",
+                    "U0136JJHUSK",
+                    "U012GHRAHDK",
+                    "UUH2EB134",
+                    "UJS7GK1TP",
+                    "U013WR69RDE"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c783bf1e-acc1-4327-b421-5e1adb657cd8",
+        "type": "message",
+        "text": "If there's interest, I think a #candid-feedback or #fresh-eyes thread would be cool. With so many on small teams or teams of one, it'd be cool to connect people looking for editorial feedback and those who have time to share it. Especially as there's a range of experience here, and a desire from so many to develop professionally.",
+        "user": "UJS103D7S",
+        "ts": "1592580552.396000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be0204d95db9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-21\/902951134050_be0204d95db90b66f738_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Palmer",
+            "display_name": "Josh Palmer",
+            "team": "TJE58GTJL",
+            "name": "josh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If there's interest, I think a #candid-feedback or #fresh-eyes thread would be cool. With so many on small teams or teams of one, it'd be cool to connect people looking for editorial feedback and those who have time to share it. Especially as there's a range of experience here, and a desire from so many to develop professionally."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592580098.395000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U011UJX75PE",
+                    "U012YJ35BML",
+                    "U010JU2GTND",
+                    "U0161DEFV8R",
+                    "U015JA18S11",
+                    "UJS7GK1TP",
+                    "U015B888266",
+                    "U015HDJ8V9A",
+                    "URL9Z88MR",
+                    "UJJELJPNH"
+                ],
+                "count": 10
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2575b16-906a-4ce9-9f49-745933e355b3",
+        "type": "message",
+        "text": "cool idea <@UJS103D7S>",
+        "user": "U011UJX75PE",
+        "ts": "1592580810.396300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool idea "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJS103D7S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592580098.395000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "A830AF1D-8494-4716-8A14-A0C24ACB17D2",
+        "type": "message",
+        "text": "Bit new here so not sure if this already exists but a channel to share examples of great content\/copy\/ads\/etc we’ve come across would be cool. Sort of like a shared swipe file",
+        "user": "U015JA18S11",
+        "ts": "1592592794.400400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ee737b1948af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-19\/1218389098000_ee737b1948af83f5b402_72.jpg",
+            "first_name": "Adil",
+            "real_name": "Adil Hussain",
+            "display_name": "Adil",
+            "team": "TJE58GTJL",
+            "name": "contact",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OKEa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bit new here so not sure if this already exists but a channel to share examples of great content\/copy\/ads\/etc we’ve come across would be cool. Sort of like a shared swipe file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592580098.395000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U011UJX75PE",
+                    "UJ2N9A3GT",
+                    "UJS7GK1TP",
+                    "U015B888266",
+                    "U015HDJ8V9A",
+                    "UJ2QESJ66"
+                ],
+                "count": 6
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UUJBMNRNF",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c575515-2927-451a-920c-ce103ed67088",
+        "type": "message",
+        "text": "nice <@U015JA18S11>",
+        "user": "U011UJX75PE",
+        "ts": "1592593045.400600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Vbsa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U015JA18S11"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592580098.395000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "6abac0d5-9f9e-4e8e-9c3e-83d2ce0f5e2f",
+        "type": "message",
+        "text": "Great idea, <@UJG9WTEKG>! Just joined the channel.\n\nIt's not like I don't already have enough in my 'Want to Read' list. haha!!",
+        "user": "UUJBMNRNF",
+        "ts": "1592594957.401600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "byCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great idea, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Just joined the channel.\n\nIt's not like I don't already have enough in my 'Want to Read' list. haha!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592580098.395000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "stuck_out_tongue",
+                "users": [
+                    "U011UJX75PE",
+                    "U0153M0K2N7",
+                    "UJG9WTEKG",
+                    "UJS7GK1TP",
+                    "U015B888266",
+                    "UJJELJPNH"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

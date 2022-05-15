@@ -1,0 +1,588 @@
+[
+    {
+        "client_msg_id": "51008c5a-3daa-4dc6-bda8-e9b4cecd5a1a",
+        "type": "message",
+        "text": "<@U02AG6CGR3L> and <@U022WPACV4L> moving away from Ghost because I'm shifting our blog to be more of a publication (multiple community authors with guest bylines) and we're creating a resources gateway (both of which take some hacking to get Ghost to behave in the way we want (e.g. setting up each guest author as a contributor and then suspending their account).",
+        "user": "U02625MJG3W",
+        "ts": "1629387083.102800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eb63dbb8c37a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-23\/2197164176230_eb63dbb8c37a7c141608_72.png",
+            "first_name": "Allie",
+            "real_name": "Allie Dyer Bluemel",
+            "display_name": "Allie",
+            "team": "TJE58GTJL",
+            "name": "allie202",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nFi=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02AG6CGR3L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WPACV4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " moving away from Ghost because I'm shifting our blog to be more of a publication (multiple community authors with guest bylines) and we're creating a resources gateway (both of which take some hacking to get Ghost to behave in the way we want (e.g. setting up each guest author as a contributor and then suspending their account)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U02AG6CGR3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4fbd701-09ed-46dd-8b74-59211d1fd58c",
+        "type": "message",
+        "text": "<@U01AHL8AGBB> the main things I'm looking for are:\n• Solid code block styling \n• Easily set up table of contents for the top of each post \n• Scalable guest author set ups (think 10-12 guest authors) \n• Can be used to feed into a <https:\/\/slack.com\/resources|Slack-esque resources> gateway \n-1 for webflow, personally, is the whole key-access issue (one person at a time) since we're posting multiple times a week and we're also redoing other parts of the site.",
+        "user": "U02625MJG3W",
+        "ts": "1629387198.103000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eb63dbb8c37a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-23\/2197164176230_eb63dbb8c37a7c141608_72.png",
+            "first_name": "Allie",
+            "real_name": "Allie Dyer Bluemel",
+            "display_name": "Allie",
+            "team": "TJE58GTJL",
+            "name": "allie202",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Slack",
+                "title": "Resources Library",
+                "title_link": "https:\/\/slack.com\/resources",
+                "text": "Visit our resource library for the latest e-books, trainings, setup guides, and more. Discover how Slack works to suit your specific role and organization.",
+                "fallback": "Slack: Resources Library",
+                "image_url": "https:\/\/d34u8crftukxnk.cloudfront.net\/slackpress\/prod\/sites\/6\/unfurl-slack-resources-en@2x.jpg",
+                "from_url": "https:\/\/slack.com\/resources",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 751870,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "id": 1,
+                "original_url": "https:\/\/slack.com\/resources"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the main things I'm looking for are:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Solid code block styling "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Easily set up table of contents for the top of each post "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Scalable guest author set ups (think 10-12 guest authors) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can be used to feed into a "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/slack.com\/resources",
+                                        "text": "Slack-esque resources"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " gateway "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n-1 for webflow, personally, is the whole key-access issue (one person at a time) since we're posting multiple times a week and we're also redoing other parts of the site."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W"
+    },
+    {
+        "client_msg_id": "56dac57d-63a4-4e7f-8af0-ef44363bcf7b",
+        "type": "message",
+        "text": "<@UJG24P8P6> I haven't played around with Prismic too much. What do you like about it? Is your whole site on Prismic or just the blog?",
+        "user": "U02625MJG3W",
+        "ts": "1629387225.103300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eb63dbb8c37a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-23\/2197164176230_eb63dbb8c37a7c141608_72.png",
+            "first_name": "Allie",
+            "real_name": "Allie Dyer Bluemel",
+            "display_name": "Allie",
+            "team": "TJE58GTJL",
+            "name": "allie202",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02625MJG3W",
+            "ts": "1629387267.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cCo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG24P8P6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I haven't played around with Prismic too much. What do you like about it? Is your whole site on Prismic or just the blog?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W"
+    },
+    {
+        "client_msg_id": "ad095792-269f-4e68-8026-22fe4bf71031",
+        "type": "message",
+        "text": "<@U02625MJG3W> Our whole marketing site is on it. It's easier than WP for formatting, etc. I'm not sure how you plan to use guest authors, but somebody in house still uploads everything. I'd also say you need a developer to help you out to get going. There aren't plug-ins like WP\/Ghost",
+        "user": "UJG24P8P6",
+        "ts": "1629387529.103700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "41TV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02625MJG3W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Our whole marketing site is on it. It's easier than WP for formatting, etc. I'm not sure how you plan to use guest authors, but somebody in house still uploads everything. I'd also say you need a developer to help you out to get going. There aren't plug-ins like WP\/Ghost"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02625MJG3W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c44a65d8-4e22-4f40-9778-8a6f388decc8",
+        "type": "message",
+        "text": "<@U02625MJG3W> Gotcha.\n\nMoving to a headless CMS is a good direction for your use case IMO, and Contentful does appear to be a leader in that space.\n\nI'm not sure if they can also handle the custom web build end as well. It may very well end up being that all content processing lives with the headless CMS, then you find a web design solution apart from it (which is generally the whole idea of the \"headless\" part, I realize). You may need to custom build the TOC thing, but once it's done once, it's done 'forever.'",
+        "user": "U01AHL8AGBB",
+        "ts": "1629387604.104200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VN0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02625MJG3W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Gotcha.\n\nMoving to a headless CMS is a good direction for your use case IMO, and Contentful does appear to be a leader in that space.\n\nI'm not sure if they can also handle the custom web build end as well. It may very well end up being that all content processing lives with the headless CMS, then you find a web design solution apart from it (which is generally the whole idea of the \"headless\" part, I realize). You may need to custom build the TOC thing, but once it's done once, it's done 'forever.'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W"
+    },
+    {
+        "client_msg_id": "de00dc0a-9ac8-4110-b99f-8928e06ecbcc",
+        "type": "message",
+        "text": "<@U011QQDDSJV> good point. Most of my stuff is evergreen, lists or thought leadership. Lists brief don't take me as long. Evergreen takes longer to make sure I include the relevant q's",
+        "user": "UJG24P8P6",
+        "ts": "1629387683.104400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011QQDDSJV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good point. Most of my stuff is evergreen, lists or thought leadership. Lists brief don't take me as long. Evergreen takes longer to make sure I include the relevant q's"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629227429.089900",
+        "parent_user_id": "UJG24P8P6",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U011QQDDSJV",
+                    "URLKJLWKS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8eda3d19-13d2-42f2-8195-cb2935dede17",
+        "type": "message",
+        "text": "<@UJG24P8P6> that sounds like an interesting solution. I may play around with it vs Contentful to see what the lifts for each look like (since we'd be tying it into our main site on Webflow). The whole two-platform set up is keeping this interesting hah",
+        "user": "U02625MJG3W",
+        "ts": "1629387817.104700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eb63dbb8c37a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-23\/2197164176230_eb63dbb8c37a7c141608_72.png",
+            "first_name": "Allie",
+            "real_name": "Allie Dyer Bluemel",
+            "display_name": "Allie",
+            "team": "TJE58GTJL",
+            "name": "allie202",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OZHc1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG24P8P6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that sounds like an interesting solution. I may play around with it vs Contentful to see what the lifts for each look like (since we'd be tying it into our main site on Webflow). The whole two-platform set up is keeping this interesting hah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e143cbab-e755-4afb-9e2e-4b3ca60b162a",
+        "type": "message",
+        "text": "<@U01AHL8AGBB> thanks for the insight there :slightly_smiling_face: agree that the headless CMS\/contentful solution seems to be leading. We could use our existing Webflow site as the \"head' in this instance, which may actually be the easiest solution. Just gonna require me to dust off some dev skills :joy:",
+        "user": "U02625MJG3W",
+        "ts": "1629387870.105100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eb63dbb8c37a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-23\/2197164176230_eb63dbb8c37a7c141608_72.png",
+            "first_name": "Allie",
+            "real_name": "Allie Dyer Bluemel",
+            "display_name": "Allie",
+            "team": "TJE58GTJL",
+            "name": "allie202",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02625MJG3W",
+            "ts": "1629387876.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+I8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for the insight there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " agree that the headless CMS\/contentful solution seems to be leading. We could use our existing Webflow site as the \"head' in this instance, which may actually be the easiest solution. Just gonna require me to dust off some dev skills "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W"
+    },
+    {
+        "client_msg_id": "867e758b-3711-4af2-be53-dc392549e925",
+        "type": "message",
+        "text": "I used Webflow for a hot minute on a blog and it was awful, so I feel your pain there (It was about a year ago, maybe it's better). I don't have experience with Contentful",
+        "user": "UJG24P8P6",
+        "ts": "1629387896.105500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I used Webflow for a hot minute on a blog and it was awful, so I feel your pain there (It was about a year ago, maybe it's better). I don't have experience with Contentful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629219177.088900",
+        "parent_user_id": "U02625MJG3W"
+    },
+    {
+        "client_msg_id": "de07609e-3dfa-4e2c-8c3b-0f180ea37c68",
+        "type": "message",
+        "text": "Most of my research is done during the outline stage and I spend a lot of time looking for \"what's missing\" during that time (comparing my outline with other results online etc). Plus, I'm typically writing longer pieces. It usually takes a full afternoon.",
+        "user": "U028XDRBC3U",
+        "ts": "1629392706.106400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "134f353b3c11",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-22\/2300674519413_134f353b3c11d2455cfd_72.png",
+            "first_name": "",
+            "real_name": "Carla Andre-Brown",
+            "display_name": "Carla Andre-Brown",
+            "team": "TJE58GTJL",
+            "name": "carlaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZEV4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Most of my research is done during the outline stage and I spend a lot of time looking for \"what's missing\" during that time (comparing my outline with other results online etc). Plus, I'm typically writing longer pieces. It usually takes a full afternoon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629227429.089900",
+        "parent_user_id": "UJG24P8P6",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U011QQDDSJV",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "b1793916-627d-4bc3-bf76-5ff6124ac36a",
+        "type": "message",
+        "text": "this looks awesome",
+        "user": "UJG9WTEKG",
+        "ts": "1604337213.209000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m+kAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this looks awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604089723.205000",
+        "parent_user_id": "UJG12DM1V",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJG12DM1V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "220C2487-D15C-46A6-869D-2250BFA2CF54",
+        "type": "message",
+        "text": "Saw this on LinkedIn: <https:\/\/www.nerdwallet.com\/careers\/job\/2128065|https:\/\/www.nerdwallet.com\/careers\/job\/2128065>",
+        "user": "U0192P2G8F5",
+        "ts": "1604361020.210300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f2e0b48d2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1293898117559_26f2e0b48d2a48775c08_72.jpg",
+            "first_name": "Misty",
+            "real_name": "Misty Harper",
+            "display_name": "Misty Harper",
+            "team": "TJE58GTJL",
+            "name": "mharpersem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Data Writer",
+                "title_link": "https:\/\/www.nerdwallet.com\/careers\/job\/2128065",
+                "text": "Millions of people turn to the Nerds to find the best credit cards, up their credit score, land the perfect mortgage and so much more. Make all the right money moves with Nerdwallet.",
+                "fallback": "Data Writer",
+                "image_url": "http:\/\/www.nerdwallet.com\/cdn\/img\/share\/homepage_share_image.png",
+                "from_url": "https:\/\/www.nerdwallet.com\/careers\/job\/2128065",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 15847,
+                "service_icon": "https:\/\/www.nerdwallet.com\/favicon.ico",
+                "service_name": "nerdwallet.com",
+                "id": 1,
+                "original_url": "https:\/\/www.nerdwallet.com\/careers\/job\/2128065"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Saw this on LinkedIn: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nerdwallet.com\/careers\/job\/2128065",
+                                "text": "https:\/\/www.nerdwallet.com\/careers\/job\/2128065"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "UJG9WTEKG",
+                    "U011QQDDSJV"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

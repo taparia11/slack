@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "908bccb0-bb4d-4acb-aae7-80b041be7d1c",
+        "type": "message",
+        "text": "hi <@U01LX9A986L> - looks like a great gig. do you want to post here: <https:\/\/superpath.co\/blog\/slack-jobs>",
+        "user": "UJG9WTEKG",
+        "ts": "1618257471.148600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rl6D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01LX9A986L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - looks like a great gig. do you want to post here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/slack-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617977273.140100",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

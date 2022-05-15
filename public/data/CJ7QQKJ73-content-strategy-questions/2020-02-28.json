@@ -1,0 +1,1315 @@
+[
+    {
+        "client_msg_id": "aba1f7a7-15b5-47bf-9c75-2fd858f1372d",
+        "type": "message",
+        "text": "I'm writing an article :slightly_smiling_face: What are the best marketing blogs around?",
+        "user": "UJS7GK1TP",
+        "ts": "1582879150.031100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab9ba13964bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-03\/646679825121_ab9ba13964bb9b12d7df_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla Tan",
+            "display_name": "Priscilla Tan",
+            "team": "TJE58GTJL",
+            "name": "priscilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm writing an article "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What are the best marketing blogs around?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582879150.031100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1582904195.033800",
+        "reply_users": [
+            "UJJFDTN8G",
+            "US296GWUX"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1582887758.031900"
+            },
+            {
+                "user": "US296GWUX",
+                "ts": "1582904195.033800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "47d6a5b0-21a3-4ed7-99db-2aba8f06fe81",
+        "type": "message",
+        "text": "<@UN3EHV8RK> shared this in the tools channel a while back, but you might find it useful - this is a manual reporting template I set-up and use for a good few customers:\n\n<https:\/\/content-career-growth.slack.com\/archives\/CN9UCQ92A\/p1578667690001500>",
+        "user": "UJ3K7N8GJ",
+        "ts": "1582883870.031200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e354841b2058",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629246990838_e354841b20589b6851e1_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Law",
+            "display_name": "Ryan Law",
+            "team": "TJE58GTJL",
+            "name": "ryan096",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/content-career-growth.slack.com\/archives\/CN9UCQ92A\/p1578667690001500",
+                "fallback": "[January 10th, 2020 6:48 AM] ryan096: a little while back I was chatting to <@UJ99RGF7T> about getting useful performance insights from blogs with a tonnnnn of articles - basically how to overcome spreadsheet blindness and quickly identify meaningful trends and outliers\n\nI shared a little spreadsheet hack I use all the time - using conditional formatting on month-on-month growth rates. Green represents positive improvements and gray negative changes. The stronger the color, the bigger the change.\n\nnothing crazy, but I find this SO useful for being to scan performance data for 100\/200\/300+ articles and quickly see what's taking off and what's dying. it's great for getting to the \"insight\" part of performance reporting a little quicker\n\nI threw together an example spreadsheet if anyone wants to see the formulae and formatting rules: <https:\/\/docs.google.com\/spreadsheets\/d\/1_UVZrhNoKnfXnyRCW8BocCyHZrkCola0KfTjq_yhRZg\/edit?usp=sharing>\n\ndoes anyone else have any reporting or spreadsheet tips they fancy sharing? :nerd_face:",
+                "ts": "1578667690.001500",
+                "author_id": "UJ3K7N8GJ",
+                "author_subname": "Ryan Law",
+                "channel_id": "CN9UCQ92A",
+                "channel_name": "tools",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "a little while back I was chatting to <@UJ99RGF7T> about getting useful performance insights from blogs with a tonnnnn of articles - basically how to overcome spreadsheet blindness and quickly identify meaningful trends and outliers\n\nI shared a little spreadsheet hack I use all the time - using conditional formatting on month-on-month growth rates. Green represents positive improvements and gray negative changes. The stronger the color, the bigger the change.\n\nnothing crazy, but I find this SO useful for being to scan performance data for 100\/200\/300+ articles and quickly see what's taking off and what's dying. it's great for getting to the \"insight\" part of performance reporting a little quicker\n\nI threw together an example spreadsheet if anyone wants to see the formulae and formatting rules: <https:\/\/docs.google.com\/spreadsheets\/d\/1_UVZrhNoKnfXnyRCW8BocCyHZrkCola0KfTjq_yhRZg\/edit?usp=sharing>\n\ndoes anyone else have any reporting or spreadsheet tips they fancy sharing? :nerd_face:",
+                "author_name": "Ryan Law",
+                "author_link": "https:\/\/content-career-growth.slack.com\/team\/UJ3K7N8GJ",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629246990838_e354841b20589b6851e1_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FS4JH1M34",
+                        "created": 1578667684,
+                        "timestamp": 1578667684,
+                        "name": "Image 2020-01-10 at 2.40.49 PM.png",
+                        "title": "Image 2020-01-10 at 2.40.49 PM.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "UJ3K7N8GJ",
+                        "editable": false,
+                        "size": 105614,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-FS4JH1M34\/image_2020-01-10_at_2.40.49_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-FS4JH1M34\/download\/image_2020-01-10_at_2.40.49_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 191,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 255,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 383,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 425,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 510,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FS4JH1M34-c1d98e77ef\/image_2020-01-10_at_2.40.49_pm_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 544,
+                        "image_exif_rotation": 1,
+                        "original_w": 1356,
+                        "original_h": 721,
+                        "thumb_tiny": "AwAZADDQwd3U0vPPP6UDrR3oATDf3v0pTkd\/0pabIAy4OfwNABz13fpRznr+lG0bQOeKUnBFAB3o70p6Ug60ALmkbJ4U806k\/ioAY24gBSMjrTupGD09KUdTQvegR\/\/Z",
+                        "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJ3K7N8GJ\/FS4JH1M34\/image_2020-01-10_at_2.40.49_pm.png",
+                        "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-FS4JH1M34-1514fe7f80",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "shares": {
+                            "public": {
+                                "CN9UCQ92A": [
+                                    {
+                                        "reply_users": [
+                                            "UJ4A0H534",
+                                            "UJ3K7N8GJ",
+                                            "UUH28N3U2",
+                                            "UN29JC48H"
+                                        ],
+                                        "reply_users_count": 4,
+                                        "reply_count": 5,
+                                        "ts": "1578667690.001500",
+                                        "latest_reply": "1589386591.065200",
+                                        "channel_name": "content-seo-tools",
+                                        "team_id": "TJE58GTJL",
+                                        "share_user_id": "UJ3K7N8GJ"
+                                    }
+                                ]
+                            }
+                        },
+                        "channels": [
+                            "CN9UCQ92A"
+                        ],
+                        "groups": [],
+                        "ims": [],
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/content-career-growth.slack.com\/archives\/CN9UCQ92A\/p1578667690001500",
+                "footer": "Thread in #tools"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5f7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UN3EHV8RK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shared this in the tools channel a while back, but you might find it useful - this is a manual reporting template I set-up and use for a good few customers:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/content-career-growth.slack.com\/archives\/CN9UCQ92A\/p1578667690001500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "type": "message",
+        "text": "Thanks for all the advice on this, this is how the graphic from <@UJS103D7S> turned out. Main navigation hub ‘content hub’, three pillars of car ownership, then smaller brand hubs.",
+        "files": [
+            {
+                "id": "FUMQZCVU0",
+                "created": 1582887517,
+                "timestamp": 1582887517,
+                "name": "umbrella-structure.png",
+                "title": "umbrella-structure.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPM5604VC",
+                "editable": false,
+                "size": 128501,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-FUMQZCVU0\/umbrella-structure.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-FUMQZCVU0\/download\/umbrella-structure.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 255,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 339,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 509,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 566,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 679,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-FUMQZCVU0-dcd00b798e\/umbrella-structure_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 724,
+                "image_exif_rotation": 1,
+                "original_w": 1756,
+                "original_h": 1242,
+                "thumb_tiny": "AwAhADDRdtvZj9Bmm+b\/ALL\/APfNP70UAM83\/Zf\/AL5pVfcejD6jFKf88UD\/ADxQAuaBS0negANIBn\/61L3pCM9RQAvJ6j9aOcYx+tJ2xigcdKAF5HY\/nR3FIBjoKXvQAtFFFABRRRQAUUUUAf\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UPM5604VC\/FUMQZCVU0\/umbrella-structure.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-FUMQZCVU0-1ad5003d0c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UPM5604VC",
+        "display_as_bot": false,
+        "ts": "1582887522.031500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for all the advice on this, this is how the graphic from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJS103D7S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " turned out. Main navigation hub ‘content hub’, three pillars of car ownership, then smaller brand hubs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "235c1f74-2776-4ee9-9685-b5c607fccfed",
+        "thread_ts": "1580401064.024700",
+        "parent_user_id": "UPM5604VC"
+    },
+    {
+        "client_msg_id": "b290484a-e598-4d50-9402-56435715f858",
+        "type": "message",
+        "text": "<http:\/\/ek-byford.com\/saas-content-marketing\/>",
+        "user": "UJJFDTN8G",
+        "ts": "1582887758.031900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Emily Byford",
+                "title": "The State of SaaS Content Marketing 2019 - Emily Byford",
+                "title_link": "http:\/\/ek-byford.com\/saas-content-marketing\/",
+                "text": "Does content marketing work in SaaS? I've analysed 500 of the world's biggest SaaS companies, to uncover their content marketing strategies.",
+                "fallback": "Emily Byford: The State of SaaS Content Marketing 2019 - Emily Byford",
+                "image_url": "http:\/\/ek-byford.com\/wp-content\/uploads\/2019\/04\/saas-content-marketing.jpg",
+                "image_width": 800,
+                "image_height": 250,
+                "ts": 1556481574,
+                "from_url": "http:\/\/ek-byford.com\/saas-content-marketing\/",
+                "image_bytes": 108807,
+                "service_icon": "http:\/\/ek-byford.com\/wp-content\/uploads\/2019\/08\/cropped-Coral-favicon-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/ek-byford.com\/saas-content-marketing\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nVGai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ek-byford.com\/saas-content-marketing\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582879150.031100",
+        "parent_user_id": "UJS7GK1TP",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "UJS7GK1TP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56b69798-1164-46b0-926f-2f9ec292fb71",
+        "type": "message",
+        "text": "Looks great!",
+        "user": "UJS103D7S",
+        "ts": "1582896370.032200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be0204d95db9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-21\/902951134050_be0204d95db90b66f738_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Palmer",
+            "display_name": "Josh Palmer",
+            "team": "TJE58GTJL",
+            "name": "josh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580401064.024700",
+        "parent_user_id": "UPM5604VC"
+    },
+    {
+        "client_msg_id": "f764d374-89ce-42c4-adaa-5b92cb0ce3f8",
+        "type": "message",
+        "text": "<@UJ3K7N8GJ> just what the doctor ordered. thank you!",
+        "user": "UN3EHV8RK",
+        "ts": "1582899310.032400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab4371126c14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/891384144997_ab4371126c14a2928222_72.png",
+            "first_name": "Helene",
+            "real_name": "Helene Fleischer",
+            "display_name": "Helene Fleischer",
+            "team": "TJE58GTJL",
+            "name": "fleischerhg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vg0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ3K7N8GJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just what the doctor ordered. thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "client_msg_id": "9e80fc9a-bd72-4e12-9e26-e26b57ab80a1",
+        "type": "message",
+        "text": "Here's a fun one for Friday. Anyone have any good instrumental playlists on Spotify they recommend? I have listened to Deep Focus and Productive Morning to the point I know every song on them.",
+        "user": "UJHK5E5FG",
+        "ts": "1582903468.033700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6279fcf6c09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/796279fcf6c094fdac8157c7a2ca05cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Rogers",
+            "display_name": "Adam Rogers",
+            "team": "TJE58GTJL",
+            "name": "adamrogers.uk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8tGdn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a fun one for Friday. Anyone have any good instrumental playlists on Spotify they recommend? I have listened to Deep Focus and Productive Morning to the point I know every song on them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "reply_count": 14,
+        "reply_users_count": 9,
+        "latest_reply": "1584541145.214400",
+        "reply_users": [
+            "UN3EHV8RK",
+            "US3NM8ZHT",
+            "ULKUFTFPW",
+            "UJH9D80S0",
+            "UJG9WTEKG",
+            "UQRC13JTY",
+            "UJ2MPBP7V",
+            "UUKNHRX41",
+            "UJHK5E5FG"
+        ],
+        "replies": [
+            {
+                "user": "UN3EHV8RK",
+                "ts": "1582904746.034200"
+            },
+            {
+                "user": "US3NM8ZHT",
+                "ts": "1582906544.034400"
+            },
+            {
+                "user": "US3NM8ZHT",
+                "ts": "1582906551.034600"
+            },
+            {
+                "user": "US3NM8ZHT",
+                "ts": "1582906642.034800"
+            },
+            {
+                "user": "US3NM8ZHT",
+                "ts": "1582906643.035000"
+            },
+            {
+                "user": "US3NM8ZHT",
+                "ts": "1582906692.035300"
+            },
+            {
+                "user": "ULKUFTFPW",
+                "ts": "1582907462.035700"
+            },
+            {
+                "user": "UJH9D80S0",
+                "ts": "1582908530.036000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1582910096.036200"
+            },
+            {
+                "user": "UQRC13JTY",
+                "ts": "1582918355.040100"
+            },
+            {
+                "user": "UJ2MPBP7V",
+                "ts": "1583172009.048100"
+            },
+            {
+                "user": "UJ2MPBP7V",
+                "ts": "1583172049.048400"
+            },
+            {
+                "user": "UUKNHRX41",
+                "ts": "1583342308.089900"
+            },
+            {
+                "user": "UJHK5E5FG",
+                "ts": "1584541145.214400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1584541145.214400"
+    },
+    {
+        "client_msg_id": "0e39d62c-8b67-40ed-816d-6efd93828cee",
+        "type": "message",
+        "text": "Shameless plug, but I have a ton of stuff on copywriting and CRO: <http:\/\/www.danieldoan.net\/resources>",
+        "user": "US296GWUX",
+        "ts": "1582904195.033800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0ff3691685cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/889006405428_0ff3691685cc8a493556_72.png",
+            "first_name": "Daniel",
+            "real_name": "Daniel Doan",
+            "display_name": "Daniel Doan",
+            "team": "TJE58GTJL",
+            "name": "daniel740",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US296GWUX",
+            "ts": "1582904200.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKhl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shameless plug, but I have a ton of stuff on copywriting and CRO: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.danieldoan.net\/resources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582879150.031100",
+        "parent_user_id": "UJS7GK1TP",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "UJS7GK1TP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59625d60-8fe4-4608-a90f-cb591406ebb9",
+        "type": "message",
+        "text": "okay, don't make fun of me. this is kinda woo-woo. but i'm really into binaural beats for focus. <https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX7EF8wVxBVhG?si=eyP4UKQoRKO4fO36zWYUVA>",
+        "user": "UN3EHV8RK",
+        "ts": "1582904746.034200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab4371126c14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/891384144997_ab4371126c14a2928222_72.png",
+            "first_name": "Helene",
+            "real_name": "Helene Fleischer",
+            "display_name": "Helene Fleischer",
+            "team": "TJE58GTJL",
+            "name": "fleischerhg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ykvU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay, don't make fun of me. this is kinda woo-woo. but i'm really into binaural beats for focus. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/37i9dQZF1DX7EF8wVxBVhG?si=eyP4UKQoRKO4fO36zWYUVA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    },
+    {
+        "client_msg_id": "6af6495e-2132-4b13-a2fa-91c81abf9cc7",
+        "type": "message",
+        "text": "I recommend Explosions in the Sky",
+        "user": "US3NM8ZHT",
+        "ts": "1582906544.034400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e6c1b6a54d23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887767390496_e6c1b6a54d23a403306e_72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Bryant",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "sbryant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AQr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I recommend Explosions in the Sky"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG",
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "UL4TUV38B",
+                    "UQRC13JTY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a881445e-3c61-4dae-83aa-6352b15b3013",
+        "type": "message",
+        "text": "also a big fan of Bach's Musical Offering",
+        "user": "US3NM8ZHT",
+        "ts": "1582906551.034600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e6c1b6a54d23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887767390496_e6c1b6a54d23a403306e_72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Bryant",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "sbryant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1wo7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also a big fan of Bach's Musical Offering"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    },
+    {
+        "client_msg_id": "955e2ae0-85a0-4ced-9c78-9b9063f42dfc",
+        "type": "message",
+        "text": "youtube is also useful here, especially if you like long playlists and mixes",
+        "user": "US3NM8ZHT",
+        "ts": "1582906642.034800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e6c1b6a54d23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887767390496_e6c1b6a54d23a403306e_72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Bryant",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "sbryant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "youtube is also useful here, especially if you like long playlists and mixes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    },
+    {
+        "client_msg_id": "ac4ec964-c8f9-435a-8171-82418fef1572",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=3GALJl6Y16w>",
+        "user": "US3NM8ZHT",
+        "ts": "1582906643.035000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e6c1b6a54d23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887767390496_e6c1b6a54d23a403306e_72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Bryant",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "sbryant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Air Full Concert - Live at the Niedemeyer Space for ARTE Concert (Binaural Show)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=3GALJl6Y16w",
+                "author_name": "airofficial",
+                "author_link": "https:\/\/www.youtube.com\/user\/airofficial",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3GALJl6Y16w\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Air Full Concert - Live at the Niedemeyer Space for ARTE Concert (Binaural Show)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3GALJl6Y16w?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=3GALJl6Y16w",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=3GALJl6Y16w"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NxU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=3GALJl6Y16w"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    },
+    {
+        "client_msg_id": "248943d4-351a-4c8a-996e-926ba3a22da1",
+        "type": "message",
+        "text": "and on soundcloud...if you like the clubby stuff: <https:\/\/soundcloud.com\/rainbowdiscoclub\/weatherall-mix-beat-ink-rainbow-disco-club>",
+        "user": "US3NM8ZHT",
+        "ts": "1582906692.035300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e6c1b6a54d23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887767390496_e6c1b6a54d23a403306e_72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Bryant",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "sbryant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "https:\/\/soundcloud.com",
+                "title": "Weatherall Mix - Rainbow Disco Club by Rainbow Disco Club",
+                "title_link": "https:\/\/soundcloud.com\/rainbowdiscoclub\/weatherall-mix-beat-ink-rainbow-disco-club",
+                "author_name": "Rainbow Disco Club",
+                "author_link": "https:\/\/soundcloud.com\/rainbowdiscoclub",
+                "thumb_url": "https:\/\/i1.sndcdn.com\/artworks-000154568501-p47vfe-t500x500.jpg",
+                "text": "Weatherall mix – Rainbow Disco Club\n\n01 Walk With Me – The Visitor\n02 Hard To Earn – DJ Kaos\n03 MDMF – The Revenge\n04 Fox – Rhythm Odyssey & Dr Dunks\n05 Synths Of Jupiter – Echo Echo\n06 Maribol Noir - Midlake\n07 Klub Psycho - Mondowski\n08 Shiva – Guti & Fosky\n09 Manilla Gold - Anzano",
+                "fallback": "SoundCloud Audio: Weatherall Mix - Rainbow Disco Club by Rainbow Disco Club",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F255529006&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/rainbowdiscoclub\/weatherall-mix-beat-ink-rainbow-disco-club",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/soundcloud.com\/rainbowdiscoclub\/weatherall-mix-beat-ink-rainbow-disco-club"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and on soundcloud...if you like the clubby stuff: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/soundcloud.com\/rainbowdiscoclub\/weatherall-mix-beat-ink-rainbow-disco-club"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    },
+    {
+        "client_msg_id": "58b27968-99c8-46b2-a1ae-4a0d5624ebc3",
+        "type": "message",
+        "text": "My favorite deep focus activity is actually to pull up a 10 hr YouTube video of ocean sounds  in the background.",
+        "user": "ULKUFTFPW",
+        "ts": "1582907462.035700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05a6aa1af83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1851102748596_05a6aa1af83c15a830e7_72.jpg",
+            "first_name": "David",
+            "real_name": "David C Hoos",
+            "display_name": "David Hoos",
+            "team": "TJE58GTJL",
+            "name": "david.c.hoos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XcJ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My favorite deep focus activity is actually to pull up a 10 hr YouTube video of ocean sounds  in the background."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    },
+    {
+        "client_msg_id": "ce84a1a9-8292-4fb3-9393-64028fbe06f8",
+        "type": "message",
+        "text": "Definitely leans into the ambient side of things, but this playlist is great\/updated often: <https:\/\/open.spotify.com\/playlist\/40cwXRImcYfwTkOhVND8wI>",
+        "user": "UJH9D80S0",
+        "ts": "1582908530.036000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b29cc5a439df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-08\/629322782404_b29cc5a439df4355ff15_72.png",
+            "first_name": "Sam",
+            "real_name": "Sam Hollis",
+            "display_name": "Sam Hollis",
+            "team": "TJE58GTJL",
+            "name": "samt.hollis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1KE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely leans into the ambient side of things, but this playlist is great\/updated often: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/40cwXRImcYfwTkOhVND8wI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    },
+    {
+        "client_msg_id": "90b34972-a437-47a8-b401-80aae9867e20",
+        "type": "message",
+        "text": "i dig “acoustic concentration” <https:\/\/open.spotify.com\/playlist\/0fvC96uKuzSTMPDPJ6cj6Z?si=dohO5OdCTLGz6GaPAhnDFw>",
+        "user": "UJG9WTEKG",
+        "ts": "1582910096.036200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kX4IC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i dig “acoustic concentration” "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/0fvC96uKuzSTMPDPJ6cj6Z?si=dohO5OdCTLGz6GaPAhnDFw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    },
+    {
+        "client_msg_id": "aec9b8f3-d4d3-4464-9c4e-f59f5a829029",
+        "type": "message",
+        "text": "Hey folks! Have you seen a good example of a fun way to announce a job opening? My agency is going to announce a pretty big opening for a content strategist next week, and I'd like to create something interesting that attracts a lot of organic attention",
+        "user": "US3NM8ZHT",
+        "ts": "1582910642.038300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e6c1b6a54d23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887767390496_e6c1b6a54d23a403306e_72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Bryant",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "sbryant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/rm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks! Have you seen a good example of a fun way to announce a job opening? My agency is going to announce a pretty big opening for a content strategist next week, and I'd like to create something interesting that attracts a lot of organic attention"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582910642.038300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1583137849.043000",
+        "reply_users": [
+            "US3NM8ZHT",
+            "UJJFDTN8G"
+        ],
+        "replies": [
+            {
+                "user": "US3NM8ZHT",
+                "ts": "1582910668.038400"
+            },
+            {
+                "user": "US3NM8ZHT",
+                "ts": "1582910695.038600"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1583137849.043000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4c2c5d9c-541d-4ed3-adc7-3c67193e1924",
+        "type": "message",
+        "text": "Like, part of me wants to create a fun Proust Questionnaire instead of asking for resumes",
+        "user": "US3NM8ZHT",
+        "ts": "1582910668.038400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e6c1b6a54d23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887767390496_e6c1b6a54d23a403306e_72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Bryant",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "sbryant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPPP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like, part of me wants to create a fun Proust Questionnaire instead of asking for resumes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582910642.038300",
+        "parent_user_id": "US3NM8ZHT"
+    },
+    {
+        "client_msg_id": "61f660dc-c855-4921-9888-9a75632e9090",
+        "type": "message",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Proust_Questionnaire>",
+        "user": "US3NM8ZHT",
+        "ts": "1582910695.038600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e6c1b6a54d23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887767390496_e6c1b6a54d23a403306e_72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Bryant",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "sbryant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Proust Questionnaire",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Proust_Questionnaire",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Proust_Questionnaire",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "The Proust Questionnaire is a set of questions answered by the French writer Marcel Proust, and often used by modern interviewers.Proust answered the questionnaire in a confession album--a form of parlor game popular among Victorians. The album belonged to his friend Antoinette, daughter of future French President Félix Faure, titled \"An Album to Record Thoughts, Feelings, etc.\"\nThe album was found in 1924 by Faure's son, and published in the French literary journal Les Cahiers du Mois. It was auctioned on May 27, 2003 for the sum of €102,000 ($113,609.46USD).Other historical figures who have answered confession albums are Oscar Wilde, Karl Marx, Arthur Conan Doyle, Stéphane Mallarmé, and Paul Cézanne.The French talk show host Bernard Pivot, used a similar questionnaire at the end of every episode of his show Apostrophes. Inspired by Bernard Pivot, James Lipton,  the host of the TV program Inside the Actors Studio, uses a similar questionnaire.  Lipton has often incorrectly characterized the questionnaire itself as an invention of Pivot.\nA similar questionnaire is regularly seen on the back page of Vanity Fair magazine, answered by various celebrities. In October 2009, Vanity Fair launched an interactive version of the questionnaire, that compares individual answers to those of various luminaries.Another version of the questionnaire, as answered by various Canadian authors, is a regular feature on the radio program The Next Chapter.",
+                "fallback": "wikipedia: Proust Questionnaire",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Proust_Questionnaire"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nd4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Proust_Questionnaire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582910642.038300",
+        "parent_user_id": "US3NM8ZHT"
+    },
+    {
+        "client_msg_id": "5B16C98B-0235-4C9F-91F2-BDB911D0FDC3",
+        "type": "message",
+        "text": "Hi everyone! Is anyone in this group located in Mexico City, or know any good content writers or marketers located there? ",
+        "user": "UK3FP4VNZ",
+        "ts": "1582917345.039900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d95bc2f16983",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-11\/1591729735856_d95bc2f169830c8ce953_72.jpg",
+            "first_name": "Michaela",
+            "real_name": "Michaela Mendes",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "michaelamendes616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=P=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! Is anyone in this group located in Mexico City, or know any good content writers or marketers located there? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582917345.039900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1583170151.046800",
+        "reply_users": [
+            "UN3EHV8RK",
+            "UK3FP4VNZ"
+        ],
+        "replies": [
+            {
+                "user": "UN3EHV8RK",
+                "ts": "1582992458.040600"
+            },
+            {
+                "user": "UK3FP4VNZ",
+                "ts": "1583170151.046800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aa661917-15ef-44e1-9f00-1d4032910f42",
+        "type": "message",
+        "text": "I like music from Tycho, Com Truise and Boards of Canada for writing\/deep focus",
+        "user": "UQRC13JTY",
+        "ts": "1582918355.040100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6d74dbc5b3a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d74dbc5b3af5d7ffb422279495b2663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Sara",
+            "real_name": "Sara Campbell",
+            "display_name": "Sara Campbell",
+            "team": "TJE58GTJL",
+            "name": "sara.campbell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Mtgt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like music from Tycho, Com Truise and Boards of Canada for writing\/deep focus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582903468.033700",
+        "parent_user_id": "UJHK5E5FG"
+    }
+]

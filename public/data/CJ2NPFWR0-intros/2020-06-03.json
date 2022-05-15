@@ -1,0 +1,484 @@
+[
+    {
+        "client_msg_id": "9a6177eb-267d-4892-9ae5-e8eed96f99d1",
+        "type": "message",
+        "text": "welcome <@U014PRHQUQ2>!",
+        "user": "U011UJX75PE",
+        "ts": "1591179011.397700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uNIYi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591164324.397600",
+        "parent_user_id": "U014PRHQUQ2",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U014PRHQUQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d97c7c85-d9e5-498e-b56f-b8d6aaf0961d",
+        "type": "message",
+        "text": "would love to hear why you shifted your focus from SEO to content marketing",
+        "user": "U011UJX75PE",
+        "ts": "1591186021.398200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ua6W=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would love to hear why you shifted your focus from SEO to content marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591164324.397600",
+        "parent_user_id": "U014PRHQUQ2"
+    },
+    {
+        "client_msg_id": "05c183f9-a184-4049-83e6-fbe8a8c00a0a",
+        "type": "message",
+        "text": "Hey Alexa! So good to see you here.\n\nI have been a fan of the marketing series at Intercom Insider blog where you have all these cool graphics as featured images. :heart_eyes:\n\nOh btw, we're Intercom customers too at <http:\/\/Automate.io|Automate.io>",
+        "user": "UJJELJPNH",
+        "ts": "1591186946.398700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d7c0796969e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2512204757622_d7c0796969e7e10042d0_72.png",
+            "first_name": "Archita",
+            "real_name": "Archita Sharma",
+            "display_name": "Archita Sharma",
+            "team": "TJE58GTJL",
+            "name": "mearchita",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k9=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Alexa! So good to see you here.\n\nI have been a fan of the marketing series at Intercom Insider blog where you have all these cool graphics as featured images. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nOh btw, we're Intercom customers too at "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Automate.io",
+                                "style": {
+                                    "unlink": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590700139.370600",
+        "parent_user_id": "U0146DAB5QE",
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U011UJX75PE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9afed97-5023-4d34-b3bc-527778cdc322",
+        "type": "message",
+        "text": "I’d say my focus is 50-50 SEO and CM now <@U011UJX75PE>. The reason is simple, it’s what the company (ContentKing) needed most. We’re a SEO platform so we needed content about SEO topics.",
+        "user": "U014PRHQUQ2",
+        "ts": "1591188905.399100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "USm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d say my focus is 50-50 SEO and CM now "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011UJX75PE"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". The reason is simple, it’s what the company (ContentKing) needed most. We’re a SEO platform so we needed content about SEO topics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591164324.397600",
+        "parent_user_id": "U014PRHQUQ2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U011UJX75PE",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3fc4285-a4fd-4937-9c61-243724f0c049",
+        "type": "message",
+        "text": "Hey! that's amazing! and thank you :relaxed:",
+        "user": "U0146DAB5QE",
+        "ts": "1591197541.400000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "93f4822935c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-28\/1137014064423_93f4822935c87aa06270_72.jpg",
+            "first_name": "",
+            "real_name": "Alexa Collins",
+            "display_name": "Alexa Collins",
+            "team": "TJE58GTJL",
+            "name": "alexa.m.collins",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AIEvQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! that's amazing! and thank you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590700139.370600",
+        "parent_user_id": "U0146DAB5QE",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "UJJELJPNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32e9c575-d95a-42c3-8366-11db64c845d4",
+        "type": "message",
+        "text": "welcome aboard <@U014PRHQUQ2>!",
+        "user": "UJG9WTEKG",
+        "ts": "1591198102.400300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VbYr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome aboard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591164324.397600",
+        "parent_user_id": "U014PRHQUQ2"
+    },
+    {
+        "client_msg_id": "39476992-9c18-4ec9-b95a-a86a0d32d1b1",
+        "type": "message",
+        "text": "Hey <@UJG9WTEKG> good to see you!",
+        "user": "U014PRHQUQ2",
+        "ts": "1591198614.400600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mk+QJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good to see you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591164324.397600",
+        "parent_user_id": "U014PRHQUQ2",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bd8ab9d-3345-4167-bb39-2b34c5bdf02f",
+        "type": "message",
+        "text": "Hey, <@U014PRHQUQ2> :blush: looks like we’re in couple of the same communities!",
+        "user": "UQ3Q7SQ6A",
+        "ts": "1591210400.401300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g7a7d41ebd52",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a7d41ebd52e2e602504a5796f3e37ee.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Michal",
+            "real_name": "Michal Leszczynski",
+            "display_name": "Michal Leszczynski",
+            "team": "TJE58GTJL",
+            "name": "mr.leszczynski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wy2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looks like we’re in couple of the same communities!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591164324.397600",
+        "parent_user_id": "U014PRHQUQ2",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U014PRHQUQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75e24023-6ac9-467c-b31a-040f719c9303",
+        "type": "message",
+        "text": "Hey Michal!",
+        "user": "U014PRHQUQ2",
+        "ts": "1591210447.401600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Michal!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591164324.397600",
+        "parent_user_id": "U014PRHQUQ2"
+    }
+]

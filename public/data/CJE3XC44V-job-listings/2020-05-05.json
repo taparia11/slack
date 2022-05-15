@@ -1,0 +1,735 @@
+[
+    {
+        "client_msg_id": "3a1cb24b-19e9-4ce7-abd9-6a568136337e",
+        "type": "message",
+        "text": "Hey <@U012XHVS9DZ>, yes, do DM me! Would love to chat.",
+        "user": "UJN4HF2SJ",
+        "ts": "1588671137.138600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b14c1f5e5403",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/774448430192_b14c1f5e5403ed6ec14c_72.jpg",
+            "first_name": "Julia",
+            "real_name": "Julia Melymbrose",
+            "display_name": "Julia",
+            "team": "TJE58GTJL",
+            "name": "juliamelymbrose",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJN4HF2SJ",
+            "ts": "1588671165.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012XHVS9DZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", yes, do DM me! Would love to chat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588350219.123900",
+        "parent_user_id": "UJN4HF2SJ"
+    },
+    {
+        "client_msg_id": "b46750b7-4b02-4e77-ac76-746894a38161",
+        "type": "message",
+        "text": "I want to call out this double standard of remote job listings that go something like:\n\n\"This is a _100% remote position_ for candidates located _*anywhere on US EST*_.\"\n\nExcuse me, _what_?\n\nI don't think it's a _*100% remote position*_ if you're looking to hire someone from your backyard.\n\nMaybe it's _20% remote_, maybe it's _50%_ but it's definitely not _100%._\n\nWhy not just say they are looking for someone in the Raleigh area and mention \"remote\" somewhere in the copy?\n\nBetter yet, why not say this is a _*semi-remote\/quasi-remote role*_ because you want the person from around the block?\n\nWhy confuse the algorithms and waste your and other people's time?\n\nI'm based out of India and neither I or any of my North American clients ever have had any hiccups working together despite the time zone difference.\n\nWe have all the tools we need, the basic ground rules laid out, and we respect async collaboration\/communication.\n\nI mean, isn't that the whole point for hiring remotely?\n\nSo why limit your hiring potential when there's a sea of candidates who are equally (if not more) qualified?\n\nAm I the only one who feels this is hypocritical?",
+        "user": "US3TA64RE",
+        "ts": "1588687517.145100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g15f75b417c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a065b8b17e9b77ea4040a2a64e1ac5f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Manish",
+            "real_name": "Manish Nepal",
+            "display_name": "Manish Nepal",
+            "team": "TJE58GTJL",
+            "name": "manish.nepal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want to call out this double standard of remote job listings that go something like:\n\n\"This is a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "100% remote position",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for candidates located "
+                            },
+                            {
+                                "type": "text",
+                                "text": "anywhere on US EST",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\"\n\nExcuse me, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "what",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\nI don't think it's a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "100% remote position",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you're looking to hire someone from your backyard.\n\nMaybe it's "
+                            },
+                            {
+                                "type": "text",
+                                "text": "20% remote",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", maybe it's "
+                            },
+                            {
+                                "type": "text",
+                                "text": "50%",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " but it's definitely not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "100%.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWhy not just say they are looking for someone in the Raleigh area and mention \"remote\" somewhere in the copy?\n\nBetter yet, why not say this is a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "semi-remote\/quasi-remote role ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "because you want the person from around the block?\n\nWhy confuse the algorithms and waste your and other people's time?\n\nI'm based out of India and neither I or any of my North American clients ever have had any hiccups working together despite the time zone difference.\n\nWe have all the tools we need, the basic ground rules laid out, and we respect async collaboration\/communication.\n\nI mean, isn't that the whole point for hiring remotely?\n\nSo why limit your hiring potential when there's a sea of candidates who are equally (if not more) qualified?\n\nAm I the only one who feels this is hypocritical?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "reply_count": 20,
+        "reply_users_count": 12,
+        "latest_reply": "1589650723.200200",
+        "reply_users": [
+            "US22VH405",
+            "US3TA64RE",
+            "UJG12DM1V",
+            "UL9SA4C3T",
+            "UV1T488RJ",
+            "UJJFDTN8G",
+            "UJ36Q2ZRQ",
+            "UUXMCJQ15",
+            "U012XHVS9DZ",
+            "U0142JDLZG8",
+            "U011LHKBKRA",
+            "UJ4QFBMU2"
+        ],
+        "replies": [
+            {
+                "user": "US22VH405",
+                "ts": "1588687602.145300"
+            },
+            {
+                "user": "US3TA64RE",
+                "ts": "1588687969.145800"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1588689152.146300"
+            },
+            {
+                "user": "US3TA64RE",
+                "ts": "1588690073.146600"
+            },
+            {
+                "user": "UL9SA4C3T",
+                "ts": "1588692540.147600"
+            },
+            {
+                "user": "US3TA64RE",
+                "ts": "1588692933.147800"
+            },
+            {
+                "user": "UV1T488RJ",
+                "ts": "1588700491.148500"
+            },
+            {
+                "user": "US3TA64RE",
+                "ts": "1588701393.148900"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1588750324.150600"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1588750433.150800"
+            },
+            {
+                "user": "UJ36Q2ZRQ",
+                "ts": "1588751369.151000"
+            },
+            {
+                "user": "UJ36Q2ZRQ",
+                "ts": "1588751413.151200"
+            },
+            {
+                "user": "UJ36Q2ZRQ",
+                "ts": "1588751758.151500"
+            },
+            {
+                "user": "US3TA64RE",
+                "ts": "1588753075.151800"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1588784300.153100"
+            },
+            {
+                "user": "U012XHVS9DZ",
+                "ts": "1588794282.153500"
+            },
+            {
+                "user": "U0142JDLZG8",
+                "ts": "1589299064.179700"
+            },
+            {
+                "user": "U011LHKBKRA",
+                "ts": "1589461155.194900"
+            },
+            {
+                "user": "UJ36Q2ZRQ",
+                "ts": "1589628042.199600"
+            },
+            {
+                "user": "UJ4QFBMU2",
+                "ts": "1589650723.200200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UUVC5QGA0",
+                    "U010UHR7PED",
+                    "U012UL77GUT",
+                    "UJEUM7NQ4",
+                    "URL9Z88MR",
+                    "UUKNRAD4Z",
+                    "UP6K3LYQ7",
+                    "U0109RH7U00",
+                    "UJS7GK1TP",
+                    "U011Q6ZP6KU",
+                    "UJ4QFBMU2"
+                ],
+                "count": 11
+            },
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "U012XHVS9DZ",
+                    "UUY24HLUW",
+                    "UP6K3LYQ7",
+                    "UQTQJ5QCF",
+                    "UJ4QFBMU2",
+                    "UUVS5QTM3"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01bfcec1-b9a0-480a-a9c6-fcd3cdd7c2af",
+        "type": "message",
+        "text": "I feel your sentiment but I don't think the word remote means \"anywhere in the world\". And I think teams that are required to work together on tasks do need to be in the same timezone. If content or strategy is 100% outsourced to an agency, then timezones don't matter. But they do for teammates.\n\n100% remote means you never have to come into the office at all.",
+        "user": "US22VH405",
+        "ts": "1588687602.145300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fc2350e82f15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/893352660166_fc2350e82f1578d3c35a_72.jpg",
+            "first_name": "Divij",
+            "real_name": "Divij Sood",
+            "display_name": "Divij Sood",
+            "team": "TJE58GTJL",
+            "name": "divij_sood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US22VH405",
+            "ts": "1588687892.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5aY2x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel your sentiment but I don't think the word remote means \"anywhere in the world\". And I think teams that are required to work together on tasks do need to be in the same timezone. If content or strategy is 100% outsourced to an agency, then timezones don't matter. But they do for teammates.\n\n100% remote means you never have to come into the office at all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "parent_user_id": "US3TA64RE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US3TA64RE",
+                    "UMFSZ8JHL",
+                    "U013L0U4YSU",
+                    "UN3EHV8RK",
+                    "UJN4HF2SJ",
+                    "UUKNSLX9P",
+                    "UUH2ESL66",
+                    "U0107Q25BRT",
+                    "UQX6BM4GJ",
+                    "UR3A94N4R"
+                ],
+                "count": 10
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "UJ4QFBMU2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33d6188e-fb86-419e-a910-0647e6f57838",
+        "type": "message",
+        "text": "I guess you have a point. Maybe I'm wrong, but 100% remote sounds like a location-independent (also async) job.\n\nAgree with you on the outsourcing bit. The job listings in question don't go in detail to elaborate this. That leaves a lot of room for guesswork.",
+        "user": "US3TA64RE",
+        "ts": "1588687969.145800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g15f75b417c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a065b8b17e9b77ea4040a2a64e1ac5f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Manish",
+            "real_name": "Manish Nepal",
+            "display_name": "Manish Nepal",
+            "team": "TJE58GTJL",
+            "name": "manish.nepal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US3TA64RE",
+            "ts": "1588688050.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "llKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess you have a point. Maybe I'm wrong, but 100% remote sounds like a location-independent (also async) job.\n\nAgree with you on the outsourcing bit. The job listings in question don't go in detail to elaborate this. That leaves a lot of room for guesswork."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "parent_user_id": "US3TA64RE"
+    },
+    {
+        "client_msg_id": "6655d11b-f1b7-48f7-925e-ea16d62a76f0",
+        "type": "message",
+        "text": "hmm...not sure I quite agree either. To me, 100% remote means what Divij said, that you don't need to come into the office.\n\nAs a hiring manager for remote roles based in the US, this has nothing to do with a preference for US workers, it's just  that we don't have the HR resources to support a global employee base. Tax implications &amp; benefits take significant HR resources to do well, and I think we'll have that resourcing in the future, but today, we're a 25 person team.",
+        "user": "UJG12DM1V",
+        "ts": "1588689152.146300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm...not sure I quite agree either. To me, 100% remote means what Divij said, that you don't need to come into the office.\n\nAs a hiring manager for remote roles based in the US, this has nothing to do with a preference for US workers, it's just  that we don't have the HR resources to support a global employee base. Tax implications & benefits take significant HR resources to do well, and I think we'll have that resourcing in the future, but today, we're a 25 person team."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "parent_user_id": "US3TA64RE"
+    },
+    {
+        "client_msg_id": "251da851-7d69-4d94-90b2-c50d47a8c94b",
+        "type": "message",
+        "text": "Make sense, <@UJG12DM1V>. My understanding is based on assumptions+my experience.\n\nSo it's good to hear that there's more to this than meets the eye.",
+        "user": "US3TA64RE",
+        "ts": "1588690073.146600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g15f75b417c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a065b8b17e9b77ea4040a2a64e1ac5f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Manish",
+            "real_name": "Manish Nepal",
+            "display_name": "Manish Nepal",
+            "team": "TJE58GTJL",
+            "name": "manish.nepal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QnVIA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make sense, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". My understanding is based on assumptions+my experience.\n\nSo it's good to hear that there's more to this than meets the eye."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "parent_user_id": "US3TA64RE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UN3RHBFBK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B53D3957-52A0-4E84-89D2-515B57C2C59A",
+        "type": "message",
+        "text": "Just reach out to the recruiter to convey your feedback. Your fellow humans want to see you successful :blush:",
+        "user": "UL9SA4C3T",
+        "ts": "1588692540.147600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4365ff0f7a40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-18\/879874350469_4365ff0f7a40c9bd9bf4_72.jpg",
+            "first_name": "Ritika",
+            "real_name": "Ritika Puri",
+            "display_name": "Ritika",
+            "team": "TJE58GTJL",
+            "name": "ritika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9N6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just reach out to the recruiter to convey your feedback. Your fellow humans want to see you successful "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "parent_user_id": "US3TA64RE"
+    },
+    {
+        "client_msg_id": "092bc26e-ea69-4be2-be54-a4dc92f4198c",
+        "type": "message",
+        "text": "I have done so on multiple occasions. Thanks for the tip, fellow human. :blush:",
+        "user": "US3TA64RE",
+        "ts": "1588692933.147800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g15f75b417c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a065b8b17e9b77ea4040a2a64e1ac5f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Manish",
+            "real_name": "Manish Nepal",
+            "display_name": "Manish Nepal",
+            "team": "TJE58GTJL",
+            "name": "manish.nepal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h8Au",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have done so on multiple occasions. Thanks for the tip, fellow human. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "parent_user_id": "US3TA64RE"
+    },
+    {
+        "client_msg_id": "622d1bd8-9e28-433a-8924-c5d35f4f0d93",
+        "type": "message",
+        "text": "yeah. theres something odd about putting 100% and then following it with restrictions. just remove the %!",
+        "user": "UV1T488RJ",
+        "ts": "1588700491.148500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2e355b017b74",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/981982120785_2e355b017b744a7e3ee3_72.jpg",
+            "first_name": "",
+            "real_name": "Susan Lyon",
+            "display_name": "Susan Lyon",
+            "team": "TJE58GTJL",
+            "name": "susanelizabethlyon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "69f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah. theres something odd about putting 100% and then following it with restrictions. just remove the %!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "parent_user_id": "US3TA64RE",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "US3TA64RE",
+                    "UUKNSLX9P",
+                    "URL9Z88MR"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99a03bb6-1ab5-4e14-9966-708215073696",
+        "type": "message",
+        "text": "Yes, thank you! It's like remote job but **Conditions Apply*. Ironically, I gave you a :100: for your reply.",
+        "user": "US3TA64RE",
+        "ts": "1588701393.148900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g15f75b417c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a065b8b17e9b77ea4040a2a64e1ac5f8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Manish",
+            "real_name": "Manish Nepal",
+            "display_name": "Manish Nepal",
+            "team": "TJE58GTJL",
+            "name": "manish.nepal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wlQPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, thank you! It's like remote job but *"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Conditions Apply",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Ironically, I gave you a "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for your reply."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588687517.145100",
+        "parent_user_id": "US3TA64RE",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV1T488RJ",
+                    "UUH2ESL66",
+                    "URL9Z88MR"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

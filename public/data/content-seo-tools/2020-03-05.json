@@ -1,0 +1,581 @@
+[
+    {
+        "client_msg_id": "e22c59d1-60ce-4e5b-8ae5-1098f6721e26",
+        "type": "message",
+        "text": "Interesting! Thats what we were thinking of doing but our product team is currently sending that data (with Segment) to Amplitude. We had to disconnect segment from our website though because we had too much traffic and limited only to our product",
+        "user": "UUH28N3U2",
+        "ts": "1583407366.041900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61d6db43de32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/982178159968_61d6db43de32e89377d8_72.jpg",
+            "first_name": "Carla",
+            "real_name": "Carla Chicharro",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "c.chich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qP+Y+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting! Thats what we were thinking of doing but our product team is currently sending that data (with Segment) to Amplitude. We had to disconnect segment from our website though because we had too much traffic and limited only to our product"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583368085.041500",
+        "parent_user_id": "UUJBNHZQB"
+    },
+    {
+        "client_msg_id": "3253B54B-6CF6-4F14-A435-53A767DAAAAF",
+        "type": "message",
+        "text": "Aah got it. Quick question: does amplitude charge based on events or user profiles? \n\nI ask because Mixpanel charges based on monthly tracked profiles and a profile doesn’t get created until there’s a property for it, like email. This allows us to send GA data to Mixpanel because GA data is anonymous till a user signs up. ",
+        "user": "UUJBNHZQB",
+        "ts": "1583416251.046700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g9b2f69f22af",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9b2f69f22af0136c5d2120b8f637266e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Vikash Koushik",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "vikashkoushik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SwGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aah got it. Quick question: does amplitude charge based on events or user profiles? \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I ask because Mixpanel charges based on monthly tracked profiles and a profile doesn’t get created until there’s a property for it, like email. This allows us to send GA data to Mixpanel because GA data is anonymous till a user signs up. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583368085.041500",
+        "parent_user_id": "UUJBNHZQB"
+    },
+    {
+        "client_msg_id": "2c47562a-9c0a-469e-bd7b-9fec596f4038",
+        "type": "message",
+        "text": "Hey all! Does anyone here use Uberflip for their resource center and\/or private marketing streams? We’re working through some integrations with hubspot and GA and I’d love to pick your brain, if so! Thanks :slightly_smiling_face:",
+        "user": "UUJBP911R",
+        "ts": "1583420955.047900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1bb4ee7c82d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/983404476800_1bb4ee7c82d40a2d3a2f_72.jpg",
+            "first_name": "",
+            "real_name": "Shelby Blitz",
+            "display_name": "Shelby Blitz",
+            "team": "TJE58GTJL",
+            "name": "shelby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all! Does anyone here use Uberflip for their resource center and\/or private marketing streams? We’re working through some integrations with hubspot and GA and I’d love to pick your brain, if so! Thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583420955.047900",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1583684218.058200",
+        "reply_users": [
+            "UUXMLB9C7",
+            "UUJBP911R"
+        ],
+        "replies": [
+            {
+                "user": "UUXMLB9C7",
+                "ts": "1583425687.048200"
+            },
+            {
+                "user": "UUXMLB9C7",
+                "ts": "1583425712.048400"
+            },
+            {
+                "user": "UUJBP911R",
+                "ts": "1583435113.050400"
+            },
+            {
+                "user": "UUXMLB9C7",
+                "ts": "1583437202.050600"
+            },
+            {
+                "user": "UUXMLB9C7",
+                "ts": "1583437375.050800"
+            },
+            {
+                "user": "UUJBP911R",
+                "ts": "1583437673.053300"
+            },
+            {
+                "user": "UUXMLB9C7",
+                "ts": "1583438144.053600"
+            },
+            {
+                "user": "UUJBP911R",
+                "ts": "1583651232.057900"
+            },
+            {
+                "user": "UUXMLB9C7",
+                "ts": "1583684218.058200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "97971968-8fc9-487c-9146-79d4561a7446",
+        "type": "message",
+        "text": "I was an Uberflip customer in my past life, and my agency is now an Uberflip partner. Would love to be able to help! What kind of challenges are you running into?",
+        "user": "UUXMLB9C7",
+        "ts": "1583425687.048200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g02f20444695",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02f2044469539d245fe4baf1ade7fe1e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jon",
+            "real_name": "Jon Kane",
+            "display_name": "Jon Kane",
+            "team": "TJE58GTJL",
+            "name": "jon.kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1LfY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was an Uberflip customer in my past life, and my agency is now an Uberflip partner. Would love to be able to help! What kind of challenges are you running into?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583420955.047900",
+        "parent_user_id": "UUJBP911R"
+    },
+    {
+        "client_msg_id": "3060d7fe-afaf-4368-b338-9f0ab8f461d8",
+        "type": "message",
+        "text": "(To be clear, this is NOT a sales pitch, just want to be helpful)",
+        "user": "UUXMLB9C7",
+        "ts": "1583425712.048400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g02f20444695",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02f2044469539d245fe4baf1ade7fe1e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jon",
+            "real_name": "Jon Kane",
+            "display_name": "Jon Kane",
+            "team": "TJE58GTJL",
+            "name": "jon.kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FfZZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(To be clear, this is NOT a sales pitch, just want to be helpful)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583420955.047900",
+        "parent_user_id": "UUJBP911R"
+    },
+    {
+        "client_msg_id": "FF4C916C-5904-46B1-9380-ACFE3F590B4E",
+        "type": "message",
+        "text": "Thanks, Jon! A couple of semi vague questions from our marketing automation lead: \n\n- Set up tracking for platforms like LinkedIn, Facebook, and Google through Uberflip forms. \n- Working with Hubspot and Uberflip: do you know how to make sure that contacts that fill out a Hubspot form on Uberflip merge with an existing contact in Hubspot (if the contact already exists)?",
+        "user": "UUJBP911R",
+        "ts": "1583435113.050400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1bb4ee7c82d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/983404476800_1bb4ee7c82d40a2d3a2f_72.jpg",
+            "first_name": "",
+            "real_name": "Shelby Blitz",
+            "display_name": "Shelby Blitz",
+            "team": "TJE58GTJL",
+            "name": "shelby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWG=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Jon! A couple of semi vague questions from our marketing automation lead: \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Set up tracking for platforms like LinkedIn, Facebook, and Google through Uberflip forms. \n- Working with Hubspot and Uberflip: do you know how to make sure that contacts that fill out a Hubspot form on Uberflip merge with an existing contact in Hubspot (if the contact already exists)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583420955.047900",
+        "parent_user_id": "UUJBP911R"
+    },
+    {
+        "client_msg_id": "3c6213ea-020c-4441-8960-1f94308fcdfd",
+        "type": "message",
+        "text": "When you say tracking for platforms like linkedin, facebook, etc, do you mean setting the lead source to those sources when someone converts on an uberflip form?",
+        "user": "UUXMLB9C7",
+        "ts": "1583437202.050600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g02f20444695",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02f2044469539d245fe4baf1ade7fe1e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jon",
+            "real_name": "Jon Kane",
+            "display_name": "Jon Kane",
+            "team": "TJE58GTJL",
+            "name": "jon.kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SCb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When you say tracking for platforms like linkedin, facebook, etc, do you mean setting the lead source to those sources when someone converts on an uberflip form?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583420955.047900",
+        "parent_user_id": "UUJBP911R"
+    },
+    {
+        "client_msg_id": "6102749a-877b-49f8-83d4-2a405c79c33c",
+        "type": "message",
+        "text": "and the updating of existing contacts should be a standard setting in hubspot - you don’t wanna create a bunch of duplicates if records already exist",
+        "user": "UUXMLB9C7",
+        "ts": "1583437375.050800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g02f20444695",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02f2044469539d245fe4baf1ade7fe1e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jon",
+            "real_name": "Jon Kane",
+            "display_name": "Jon Kane",
+            "team": "TJE58GTJL",
+            "name": "jon.kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and the updating of existing contacts should be a standard setting in hubspot - you don’t wanna create a bunch of duplicates if records already exist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583420955.047900",
+        "parent_user_id": "UUJBP911R"
+    },
+    {
+        "client_msg_id": "626E713B-2F0F-4230-AA6B-7E3CF74DFFDC",
+        "type": "message",
+        "text": "Thanks! Yeah, I’m just the messanger here...trying to sort things out. Re: hubspot, totally. I assumed it was a hubspot setting not something in uberflip. Thanks for confirming. About tracking...yes, sort of...he wants to be able to ad a tracking pixel. ",
+        "user": "UUJBP911R",
+        "ts": "1583437673.053300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1bb4ee7c82d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/983404476800_1bb4ee7c82d40a2d3a2f_72.jpg",
+            "first_name": "",
+            "real_name": "Shelby Blitz",
+            "display_name": "Shelby Blitz",
+            "team": "TJE58GTJL",
+            "name": "shelby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xWnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! Yeah, I’m just the messanger here...trying to sort things out. Re: hubspot, totally. I assumed it was a hubspot setting not something in uberflip. Thanks for confirming. About tracking...yes, sort of...he wants to be able to ad a tracking pixel. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583420955.047900",
+        "parent_user_id": "UUJBP911R"
+    },
+    {
+        "client_msg_id": "db24b6bb-34dd-423e-b6d5-eaeb5f40affb",
+        "type": "message",
+        "text": "With google analytics specifically, you can fire a google analytics event upon submission of an uberflip CTA. When it comes to the integration of hubspot and uberflip forms, this is a pretty good primer: <https:\/\/help.uberflip.com\/hc\/en-us\/articles\/360020989871#how-form-ctas-work>",
+        "user": "UUXMLB9C7",
+        "ts": "1583438144.053600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g02f20444695",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/02f2044469539d245fe4baf1ade7fe1e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Jon",
+            "real_name": "Jon Kane",
+            "display_name": "Jon Kane",
+            "team": "TJE58GTJL",
+            "name": "jon.kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Uberflip Help",
+                "title": "Set Up a Form CTA",
+                "title_link": "https:\/\/help.uberflip.com\/hc\/en-us\/articles\/360020989871#how-form-ctas-work",
+                "text": "Learn how to create, configure, and place Form CTAs in your Hub.   Before You Begin To work with CTAs, you need to be a member of the Account Admin, Content Manager, or Demand Generation Groups. ...",
+                "fallback": "Uberflip Help: Set Up a Form CTA",
+                "image_url": "https:\/\/theme.zdassets.com\/theme_assets\/2238007\/6786c7715486f8db8462e1dc9c3055e942219c5c.png",
+                "from_url": "https:\/\/help.uberflip.com\/hc\/en-us\/articles\/360020989871#how-form-ctas-work",
+                "image_width": 391,
+                "image_height": 60,
+                "image_bytes": 3821,
+                "service_icon": "http:\/\/theme.zdassets.com\/theme_assets\/2238007\/872c8161d75377afd58d5c0c787300a3051ad213.png",
+                "id": 1,
+                "original_url": "https:\/\/help.uberflip.com\/hc\/en-us\/articles\/360020989871#how-form-ctas-work"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "With google analytics specifically, you can fire a google analytics event upon submission of an uberflip CTA. When it comes to the integration of hubspot and uberflip forms, this is a pretty good primer: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/help.uberflip.com\/hc\/en-us\/articles\/360020989871#how-form-ctas-work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583420955.047900",
+        "parent_user_id": "UUJBP911R"
+    },
+    {
+        "client_msg_id": "a222751a-3eb4-42e2-82ab-d0876cef2ae1",
+        "type": "message",
+        "text": "To save you the hassle of trying out SEO tools and selecting the top tool for your online marketing processes, I have compiled an ultimate SEO tools list. <https:\/\/www.cloudways.com\/blog\/seo-tools\/>",
+        "user": "UUVRYMCRK",
+        "ts": "1583467661.054300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aeec273996fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/985081589600_aeec273996fbabcad873_72.jpg",
+            "first_name": "Jamil",
+            "real_name": "Jamil Ali",
+            "display_name": "Jamil Ali",
+            "team": "TJE58GTJL",
+            "name": "jamil.ali",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Official Cloudways Blog",
+                "title": "100+ SEO Tools List To Optimize And Grow Your Business Websites in 2020",
+                "title_link": "https:\/\/www.cloudways.com\/blog\/seo-tools\/",
+                "text": "Building a website is the easy part - getting it ranked in search engine results is the real challenge. For those who don’t know, Search Engine Optimizatio",
+                "fallback": "The Official Cloudways Blog: 100+ SEO Tools List To Optimize And Grow Your Business Websites in 2020",
+                "image_url": "https:\/\/www.cloudways.com\/blog\/wp-content\/uploads\/Thumb-118.jpg",
+                "ts": 1581084530,
+                "from_url": "https:\/\/www.cloudways.com\/blog\/seo-tools\/",
+                "image_width": 352,
+                "image_height": 185,
+                "image_bytes": 31559,
+                "service_icon": "https:\/\/www.cloudways.com\/blog\/wp-content\/themes\/cloudways\/favico.png",
+                "id": 1,
+                "original_url": "https:\/\/www.cloudways.com\/blog\/seo-tools\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3j1B6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To save you the hassle of trying out SEO tools and selecting the top tool for your online marketing processes, I have compiled an ultimate SEO tools list. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cloudways.com\/blog\/seo-tools\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583467661.054300",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1584176487.063900",
+        "reply_users": [
+            "UUX13DVK6",
+            "UUVRYMCRK"
+        ],
+        "replies": [
+            {
+                "user": "UUX13DVK6",
+                "ts": "1583508811.054600"
+            },
+            {
+                "user": "UUX13DVK6",
+                "ts": "1583508863.054900"
+            },
+            {
+                "user": "UUX13DVK6",
+                "ts": "1583508952.055100"
+            },
+            {
+                "user": "UUVRYMCRK",
+                "ts": "1583553230.057500"
+            },
+            {
+                "user": "UUX13DVK6",
+                "ts": "1583760967.058500"
+            },
+            {
+                "user": "UUVRYMCRK",
+                "ts": "1584176487.063900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

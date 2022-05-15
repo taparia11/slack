@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "88c07096-d197-4b4a-bb17-9d06d10389d3",
+        "type": "message",
+        "text": "ahahah <@UUXPJ96EQ> this is hilarious",
+        "user": "U017WRJTKF1",
+        "ts": "1597400572.005700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v3pHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahahah "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXPJ96EQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is hilarious"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597329169.003500",
+        "parent_user_id": "UUJBMNRNF"
+    },
+    {
+        "client_msg_id": "3fa2de94-4b4b-406b-82ea-6476bc451da3",
+        "type": "message",
+        "text": "I just binged it! Really liked it…hope there will be more episodes!",
+        "user": "U017Y8SEE0H",
+        "ts": "1597419366.006100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c876a4c41936",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-14\/1324990399968_c876a4c41936383d9377_72.png",
+            "first_name": "Lydia",
+            "real_name": "Lydia",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "lydiakooistra12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "364",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just binged it! Really liked it…hope there will be more episodes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597329169.003500",
+        "parent_user_id": "UUJBMNRNF",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF",
+                    "UUXPJ96EQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

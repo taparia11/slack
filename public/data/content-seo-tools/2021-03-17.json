@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "b3553001-050a-4c79-b230-94d9c334e474",
+        "type": "message",
+        "text": "We started using <http:\/\/reply.io|reply.io> and enjoying it!",
+        "user": "UUVC9HJTE",
+        "ts": "1616002520.008900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "243e712f81bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/969140406898_243e712f81bc05c4c428_72.jpg",
+            "first_name": "Nina",
+            "real_name": "Nina P",
+            "display_name": "Nina P",
+            "team": "TJE58GTJL",
+            "name": "nina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B5G=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We started using "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/reply.io",
+                                "text": "reply.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and enjoying it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615891529.003400",
+        "parent_user_id": "U01KEK5L39P"
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "client_msg_id": "11c656e3-81c9-412c-adae-0cddc41dd89b",
+        "type": "message",
+        "text": "Anyone have tips or methods for building a multi-channel content calendar _within *Asana*_?\n\nThought I'd ask before I dive into figuring it out as I go! Basically, my team's content is currently organized into individual boards\/projects (i.e. one for email, one for social media, one for blogs) and I need to improve communication and collaboration between both my team and other internal teams like Customer Service and Creative, who always seem to be left in the dark about what we are up to until the content is actually assigned or published (not great, I know, trying to fix this). This calendar will also help with overall strategy and planning, as a quick and easy place to reference what we \/ The Brand will be talking about on any given week. We are not so great at transparency right now and slacking on using Asana, our main project management tool, so this will also be an effort to get us all posting and communicating in the same space.",
+        "user": "U021Z1Z85GT",
+        "ts": "1647279127.247269",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "464f7c4f7436",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-20\/2084025117077_464f7c4f7436c8e9cf2b_72.jpg",
+            "first_name": "Sam",
+            "real_name": "Sam Spaulding",
+            "display_name": "Sam Spaulding",
+            "team": "TJE58GTJL",
+            "name": "sam989",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone have tips or methods for building a multi-channel content calendar "
+                            },
+                            {
+                                "type": "text",
+                                "text": "within ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Asana",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?\n\nThought I'd ask before I dive into figuring it out as I go! Basically, my team's content is currently organized into individual boards\/projects (i.e. one for email, one for social media, one for blogs) and I need to improve communication and collaboration between both my team and other internal teams like Customer Service and Creative, who always seem to be left in the dark about what we are up to until the content is actually assigned or published (not great, I know, trying to fix this). This calendar will also help with overall strategy and planning, as a quick and easy place to reference what we \/ The Brand will be talking about on any given week. We are not so great at transparency right now and slacking on using Asana, our main project management tool, so this will also be an effort to get us all posting and communicating in the same space."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647279127.247269",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1647640510.054469",
+        "reply_users": [
+            "U02GA73RSHK",
+            "U030VMS2T4M",
+            "U032Q49RSQY",
+            "U02EL2NBYGL"
+        ],
+        "replies": [
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1647281232.799999"
+            },
+            {
+                "user": "U030VMS2T4M",
+                "ts": "1647293145.060379"
+            },
+            {
+                "user": "U032Q49RSQY",
+                "ts": "1647401311.326949"
+            },
+            {
+                "user": "U02EL2NBYGL",
+                "ts": "1647640510.054469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1ff453b7-9e49-42dc-9d0a-6a02dcc92fe1",
+        "type": "message",
+        "text": "Hey <@U021Z1Z85GT> - We have been using Asana for several years for PM stuff, but have found it difficult to use for multi-channel calendar management - especially for folks that are not involved in the day to day. Perhaps other folks have made it work but we struggled.\n\nBut, with that said - within Asana I would start with a board view and create sections for each of your channels (blogs, social, email, etc). Then use the due date to assign the dates you want the activities to show in the calendar. For the folks that are not executing, they will probably get more benefit using the calendar view since it is more visual. You'll probably need the paid version to allow for color coding tasks and creating custom fields (subject lines, audience, etc)\n\nOther options - we actually built a tool to solve this problem because there were not a lot of tools that we found were easy to use and adopt (it's called <http:\/\/Promoprep.com|PromoPrep>). It's more focused on the calendar view and less about task management, so it can be easier to adopt and use with less initial setup.\n\nAnother option is <http:\/\/coschedule.com|CoSchedule> - it's more complex, but it has hooks into social channels and blog platforms (it's a bit more focused on execution, but has a lot of planning functions too). Sorry to not answer this question directly and introduce different tools - but if you're already struggling to adopt Asana, it might be an easier route to take.",
+        "user": "U02GA73RSHK",
+        "ts": "1647281232.799999",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gf272e31d4b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f272e31d4b1988945d4630cf3b47f9b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Lamar",
+            "display_name": "Steve Lamar",
+            "team": "TJE58GTJL",
+            "name": "steve694",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O=Yw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021Z1Z85GT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - We have been using Asana for several years for PM stuff, but have found it difficult to use for multi-channel calendar management - especially for folks that are not involved in the day to day. Perhaps other folks have made it work but we struggled.\n\nBut, with that said - within Asana I would start with a board view and create sections for each of your channels (blogs, social, email, etc). Then use the due date to assign the dates you want the activities to show in the calendar. For the folks that are not executing, they will probably get more benefit using the calendar view since it is more visual. You'll probably need the paid version to allow for color coding tasks and creating custom fields (subject lines, audience, etc)\n\nOther options - we actually built a tool to solve this problem because there were not a lot of tools that we found were easy to use and adopt (it's called "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Promoprep.com",
+                                "text": "PromoPrep"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). It's more focused on the calendar view and less about task management, so it can be easier to adopt and use with less initial setup.\n\nAnother option is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/coschedule.com",
+                                "text": "CoSchedule"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - it's more complex, but it has hooks into social channels and blog platforms (it's a bit more focused on execution, but has a lot of planning functions too). Sorry to not answer this question directly and introduce different tools - but if you're already struggling to adopt Asana, it might be an easier route to take."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647279127.247269",
+        "parent_user_id": "U021Z1Z85GT",
+        "reactions": [
+            {
+                "name": "gratitude-thank-you",
+                "users": [
+                    "U021Z1Z85GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b601e881-adc6-4e98-92f8-7d9c102f4b28",
+        "type": "message",
+        "text": "Yeah, had the same issue (and I haven’t found a tool that enables proper communication between calendars).\n\nThe only band-aid I thought of recently is adding all the relevant projects under every ticket (so it shows in all calendars). It’s kind of ‘meh’, though :disappointed:",
+        "user": "U030VMS2T4M",
+        "ts": "1647293145.060379",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b8710fac0ced",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3067397940000_b8710fac0ced6004491a_72.jpg",
+            "first_name": "Octavia",
+            "real_name": "Octavia Drexler",
+            "display_name": "Octavia Drexler",
+            "team": "TJE58GTJL",
+            "name": "octavia.drexler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yUMP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, had the same issue (and I haven’t found a tool that enables proper communication between calendars).\n\nThe only band-aid I thought of recently is adding all the relevant projects under every ticket (so it shows in all calendars). It’s kind of ‘meh’, though "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647279127.247269",
+        "parent_user_id": "U021Z1Z85GT",
+        "reactions": [
+            {
+                "name": "grimacing",
+                "users": [
+                    "U02GA73RSHK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

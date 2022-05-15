@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "9ffd2ae7-58d0-4e6a-bfa2-aa8f47d149c2",
+        "type": "message",
+        "text": "'Nay others hanging out here?",
+        "user": "UUVC0K5BN",
+        "ts": "1583409831.000400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c5b1a9711d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972349874145_5c5b1a9711d0aba2549a_72.jpg",
+            "first_name": "dave",
+            "real_name": "dave barton",
+            "display_name": "dave barton",
+            "team": "TJE58GTJL",
+            "name": "dave",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hsp=F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "'Nay others hanging out here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583409831.000400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1583412610.000500",
+        "reply_users": [
+            "UJJFDTN8G"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1583412610.000500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fa465a7b-3b19-43d8-8163-2a2df7c37ab0",
+        "type": "message",
+        "text": "I'm still alive :wave:",
+        "user": "UJJFDTN8G",
+        "ts": "1583412610.000500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kOe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm still alive "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583409831.000400",
+        "parent_user_id": "UUVC0K5BN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUVC0K5BN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

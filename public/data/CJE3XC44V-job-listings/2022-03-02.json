@@ -1,0 +1,176 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1646235359.834199",
+        "thread_ts": "1646235359.834199",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1646236132.359379",
+        "reply_users": [
+            "U02CT7VCMKM",
+            "U034Q9PAU90"
+        ],
+        "replies": [
+            {
+                "user": "U02CT7VCMKM",
+                "ts": "1646235961.562649"
+            },
+            {
+                "user": "U034Q9PAU90",
+                "ts": "1646236108.703709"
+            },
+            {
+                "user": "U02CT7VCMKM",
+                "ts": "1646236132.359379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "22ffbbe0-7f8f-4e86-ae30-7f70012cd499",
+        "type": "message",
+        "text": "Hey <@U034Q9PAU90>! This is primarily a channel for the automated job listings from Superpath.\n\nIf you’d like to have your job positions listed in this channel, you can submit them here: <https:\/\/jobs.superpath.co\/>",
+        "user": "U02CT7VCMKM",
+        "ts": "1646235961.562649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "THJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U034Q9PAU90"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! This is primarily a channel for the automated job listings from Superpath.\n\nIf you’d like to have your job positions listed in this channel, you can submit them here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.superpath.co\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646235359.834199",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a069827b-4cd7-408f-9063-63e82db3574f",
+        "type": "message",
+        "text": "Apologies! Will delete immediately!",
+        "user": "U034Q9PAU90",
+        "ts": "1646236108.703709",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0d8d8f72a478",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-25\/3145844917799_0d8d8f72a4787e44926d_72.jpg",
+            "first_name": "Stef",
+            "real_name": "Stef Curcio",
+            "display_name": "Stef Curcio",
+            "team": "TJE58GTJL",
+            "name": "curciostef",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apologies! Will delete immediately!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646235359.834199",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "95e40063-284e-47a3-9439-fc657da94f92",
+        "type": "message",
+        "text": "No worries; thank you!",
+        "user": "U02CT7VCMKM",
+        "ts": "1646236132.359379",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nx\/Jj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries; thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646235359.834199",
+        "parent_user_id": "USLACKBOT"
+    }
+]

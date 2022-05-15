@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "ff00a9f9-ddb9-4343-8f11-e174a3399cfa",
+        "type": "message",
+        "text": "Hey <@U022P46SRDX>, what's the url of your website?",
+        "user": "U021TAHP6TB",
+        "ts": "1623128889.059500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g282e41117ee",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/282e41117eea26a162917755cabc65f2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Vikas",
+            "real_name": "Vikas Kalwani",
+            "display_name": "Vikas Kalwani",
+            "team": "TJE58GTJL",
+            "name": "myself",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ibKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022P46SRDX"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", what's the url of your website?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622022198.021300",
+        "parent_user_id": "U0223N2BPML"
+    }
+]

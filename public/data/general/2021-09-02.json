@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "17e11140-6c64-4bb8-86a8-e7882b7ae9ca",
+        "type": "message",
+        "text": "i have not heard of this, my understanding was that if you have DMARC and everything else set up properly then it would prevent that kind of spoofing <https:\/\/wpmailsmtp.com\/how-to-create-dmarc-record\/>",
+        "user": "U01EJ7VE9FD",
+        "ts": "1630583128.078700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WP Mail SMTP",
+                "title": "How to Add a DMARC Record to Your DNS Zone [+ EXAMPLE]",
+                "title_link": "https:\/\/wpmailsmtp.com\/how-to-create-dmarc-record\/",
+                "text": "Do you need to add a DMARC record to your DNS? Copy and paste our DMARC example in seconds: no DMARC generator required!",
+                "fallback": "WP Mail SMTP: How to Add a DMARC Record to Your DNS Zone [+ EXAMPLE]",
+                "image_url": "https:\/\/wpmailsmtp.com\/wp-content\/uploads\/2021\/03\/how-to-create-a-dmarc-record-to-protect-your-domain_l.png",
+                "image_width": 476,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Claire Broadley",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "11 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1613394047,
+                "from_url": "https:\/\/wpmailsmtp.com\/how-to-create-dmarc-record\/",
+                "image_bytes": 55056,
+                "service_icon": "https:\/\/wpmailsmtp.com\/wp-content\/uploads\/2019\/05\/cropped-favicon-smtp-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/wpmailsmtp.com\/how-to-create-dmarc-record\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kSBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i have not heard of this, my understanding was that if you have DMARC and everything else set up properly then it would prevent that kind of spoofing "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wpmailsmtp.com\/how-to-create-dmarc-record\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630537451.076900",
+        "parent_user_id": "U029A3K5ZKK"
+    },
+    {
+        "client_msg_id": "2c4f77bd-c4f1-4fd2-a5fc-9485b94919a3",
+        "type": "message",
+        "text": "hey there, I used to work at Mailgun. A domain can be added to only one account so this isn’t technically possible. Would recommend submitting a Mailgun support ticket to get an official answer though",
+        "user": "U01S7MZE3GV",
+        "ts": "1630593409.079400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d439a5607132",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-24\/1918807187616_d439a5607132e509f4cf_72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Lafferty",
+            "display_name": "Nick Lafferty",
+            "team": "TJE58GTJL",
+            "name": "nick.lafferty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5TK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey there, I used to work at Mailgun. A domain can be added to only one account so this isn’t technically possible. Would recommend submitting a Mailgun support ticket to get an official answer though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630537451.076900",
+        "parent_user_id": "U029A3K5ZKK"
+    }
+]

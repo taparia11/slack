@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "98952f3b-e3f8-441e-b751-1ed36f660f16",
+        "type": "message",
+        "text": "Hey there <@UUY24HLUW>! Many thanks for your kind words. :grinning:",
+        "user": "U011UQ77S66",
+        "ts": "1587133192.073100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "18900a383e1f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-14\/1062831695202_18900a383e1f892f6c03_72.png",
+            "first_name": "Arielle",
+            "real_name": "Arielle Michelle Strakhov",
+            "display_name": "Arielle M. Strakhov",
+            "team": "TJE58GTJL",
+            "name": "ariellestrakhov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EYX+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey there "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUY24HLUW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Many thanks for your kind words. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586914608.062100",
+        "parent_user_id": "U011UQ77S66",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "UUY24HLUW",
+                    "UL1D307FB"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

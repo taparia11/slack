@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "1c9df273-e53c-4355-ba93-67c978aec3f6",
+        "type": "message",
+        "text": "This is really insightful. Thanks for sharing.",
+        "user": "U0178128EV6",
+        "ts": "1602055399.022400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "171aabd683a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-27\/1332467053604_171aabd683a6f33c5e28_72.png",
+            "first_name": "Shiv",
+            "real_name": "Shiv Sharma",
+            "display_name": "Shiv",
+            "team": "TJE58GTJL",
+            "name": "shiv14star",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is really insightful. Thanks for sharing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601930632.021300",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "eade8d33-b0e7-4ef2-916e-57c6999bdba9",
+        "type": "message",
+        "text": "For those of you working with e-commerce clients. Interesting thread here about how Google decides to rank “how to buy [product]” content vs “buying [product]” content.\n\n<https:\/\/twitter.com\/dan_shure\/status\/1313873251752390656>",
+        "user": "U011QQDDSJV",
+        "ts": "1602096432.024200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/dan_shure|@dan_shure>: eCommerce ppl don't overlook \"how to buy [product]\" pages. Had a client create one w\/the intent of filling the site w\/hybrid product\/guide content to support their category page, but instead, it ended up ranking FOR the purchase intent search \"buy [product]\" (33,100 searches\/mth)",
+                "ts": 1602086768,
+                "author_name": "Dan Shure",
+                "author_link": "https:\/\/twitter.com\/dan_shure\/status\/1313873251752390656",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/684412024034603008\/18WpxQd__normal.jpg",
+                "author_subname": "@dan_shure",
+                "text": "eCommerce ppl don't overlook \"how to buy [product]\" pages. Had a client create one w\/the intent of filling the site w\/hybrid product\/guide content to support their category page, but instead, it ended up ranking FOR the purchase intent search \"buy [product]\" (33,100 searches\/mth)",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/dan_shure\/status\/1313873251752390656",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/dan_shure\/status\/1313873251752390656",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For those of you working with e-commerce clients. Interesting thread here about how Google decides to rank “how to buy [product]” content vs “buying [product]” content.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/dan_shure\/status\/1313873251752390656"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65606178-24ff-4a94-8f30-f5b4a2963140",
+        "type": "message",
+        "text": ":thumbsup:",
+        "user": "U011UJX75PE",
+        "ts": "1602096503.024400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601930632.021300",
+        "parent_user_id": "U011UJX75PE"
+    }
+]

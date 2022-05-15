@@ -1,0 +1,1033 @@
+[
+    {
+        "client_msg_id": "8DDFF99B-99E0-460F-8DCA-B7E88F96B482",
+        "type": "message",
+        "text": "Hello, techie\/google\/seo question. I have a lot of pages getting a lot of organic traffic that are missing in my google search console performance search results reports (this is after a website redesign). \n\nI think (not entirely sure)I’ve narrowed down the problem to the redirect chains. I’ve heard that long redirect chains can cause indexing problems in GSC. \n\nThese pages have 2 redirects but they are pretty long URLs.\n\nAny advice\/thoughts on this? TIA",
+        "user": "U012YJ35BML",
+        "ts": "1613409892.488700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKcQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, techie\/google\/seo question. I have a lot of pages getting a lot of organic traffic that are missing in my google search console performance search results reports (this is after a website redesign). \n\nI think (not entirely sure)I’ve narrowed down the problem to the redirect chains. I’ve heard that long redirect chains can cause indexing problems in GSC. \n\nThese pages have 2 redirects but they are pretty long URLs.\n\nAny advice\/thoughts on this? TIA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1613415772.492400",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U01MV98FQAY",
+            "U012YJ35BML"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1613410755.488800"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1613410782.489000"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1613410786.489200"
+            },
+            {
+                "user": "U01MV98FQAY",
+                "ts": "1613412477.489600"
+            },
+            {
+                "user": "U012YJ35BML",
+                "ts": "1613415265.490400"
+            },
+            {
+                "user": "U012YJ35BML",
+                "ts": "1613415336.491500"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1613415743.491800"
+            },
+            {
+                "user": "U012YJ35BML",
+                "ts": "1613415772.492400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2a3bf4ee-7ee4-428e-b80d-bf0b1dd60e4e",
+        "type": "message",
+        "text": "That shouldn’t affect the new pages showing up. GSC will track traffic to the old page and the new page separately.",
+        "user": "UUXMCJQ15",
+        "ts": "1613410755.488800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V5hac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That shouldn’t affect the new pages showing up. GSC will track traffic to the old page and the new page separately."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "parent_user_id": "U012YJ35BML"
+    },
+    {
+        "client_msg_id": "40969b61-25f4-4baa-ac6e-8fedcbb046da",
+        "type": "message",
+        "text": "If you go to submit the new page along the top bar, does it say that it’s indexed by Google or not yet?",
+        "user": "UUXMCJQ15",
+        "ts": "1613410782.489000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you go to submit the new page along the top bar, does it say that it’s indexed by Google or not yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "parent_user_id": "U012YJ35BML"
+    },
+    {
+        "client_msg_id": "a13cc3d4-4fd6-4978-bd8c-f5056f43c4aa",
+        "type": "message",
+        "text": "Also, do you have sitemaps set up?",
+        "user": "UUXMCJQ15",
+        "ts": "1613410786.489200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SL5u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, do you have sitemaps set up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "parent_user_id": "U012YJ35BML",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01MV98FQAY",
+                    "U012YJ35BML"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E19314F6-A71E-41C2-809C-E3171501927D",
+        "type": "message",
+        "text": "Have you cleared your site cache? ",
+        "user": "U01MV98FQAY",
+        "ts": "1613412477.489600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g85f4862899d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/85f4862899d8f187def5082489c70db5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Casey",
+            "real_name": "Casey Stanton",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "casey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you cleared your site cache? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "parent_user_id": "U012YJ35BML"
+    },
+    {
+        "client_msg_id": "B96B2714-33D3-402E-8E6D-839A4C46C0F1",
+        "type": "message",
+        "text": "Ohh. It says the page that I tested isn’t in the property. ",
+        "user": "U012YJ35BML",
+        "ts": "1613415265.490400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fhm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ohh. It says the page that I tested isn’t in the property. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "parent_user_id": "U012YJ35BML"
+    },
+    {
+        "client_msg_id": "65E795FA-E8C6-4429-81A3-B0C34E1E747B",
+        "type": "message",
+        "text": "I didn’t realize we would have to create a property when we went changed from <http:\/\/domain.com|domain.com> to <http:\/\/www.domain.com|www.domain.com>",
+        "user": "U012YJ35BML",
+        "ts": "1613415336.491500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d4L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn’t realize we would have to create a property when we went changed from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/domain.com",
+                                "text": "domain.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.domain.com",
+                                "text": "www.domain.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "parent_user_id": "U012YJ35BML"
+    },
+    {
+        "client_msg_id": "3de1a973-5c46-4819-80c9-03cde3200401",
+        "type": "message",
+        "text": "Yes! That was my next question :slightly_smiling_face:",
+        "user": "UUXMCJQ15",
+        "ts": "1613415743.491800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ErNt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! That was my next question "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "parent_user_id": "U012YJ35BML",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012YJ35BML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F857C5BD-A544-462D-8CCD-DE15026DE21C",
+        "type": "message",
+        "text": "Thanks for your help everyone :pray:",
+        "user": "U012YJ35BML",
+        "ts": "1613415772.492400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for your help everyone "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613409892.488700",
+        "parent_user_id": "U012YJ35BML"
+    },
+    {
+        "client_msg_id": "189F84E5-9C14-43F7-BAA4-BDFD007F8072",
+        "type": "message",
+        "text": "Hey y’all :wave::skin-tone-3: \n\nMy role is shifting from Content Strategist for blog\/SEO to Senior Creative Producer focusing on multimedia content strategy &amp; production (video\/audio series, TV commercials, online courses, etc).\n\nI’m superrrr pumped, but would love to follow and read about people already in similar positions who are doing cool things. Any suggestions? Drop ‘em in a thread :pray::skin-tone-3: :arrow_heading_down:",
+        "user": "U016Z38U5QF",
+        "ts": "1613424319.497500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a07d40af547c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2963924011571_a07d40af547c3d6ee69a_72.png",
+            "first_name": "Krista",
+            "real_name": "Krista Doyle",
+            "display_name": "Krista Doyle",
+            "team": "TJE58GTJL",
+            "name": "kristadoyle5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "La=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey y’all "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMy role is shifting from Content Strategist for blog\/SEO to Senior Creative Producer focusing on multimedia content strategy & production (video\/audio series, TV commercials, online courses, etc).\n\nI’m superrrr pumped, but would love to follow and read about people already in similar positions who are doing cool things. Any suggestions? Drop ‘em in a thread "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_heading_down"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613424319.497500",
+        "reply_count": 10,
+        "reply_users_count": 6,
+        "latest_reply": "1613582921.036200",
+        "reply_users": [
+            "U01JGE01ZA8",
+            "U015B88C4CA",
+            "U016Z38U5QF",
+            "U0109FC8H7Y",
+            "U01JRC8JPTJ",
+            "UVCDN5SQZ"
+        ],
+        "replies": [
+            {
+                "user": "U01JGE01ZA8",
+                "ts": "1613426602.497800"
+            },
+            {
+                "user": "U015B88C4CA",
+                "ts": "1613433627.000600"
+            },
+            {
+                "user": "U015B88C4CA",
+                "ts": "1613433676.001700"
+            },
+            {
+                "user": "U016Z38U5QF",
+                "ts": "1613433892.004700"
+            },
+            {
+                "user": "U0109FC8H7Y",
+                "ts": "1613435260.005000"
+            },
+            {
+                "user": "U01JRC8JPTJ",
+                "ts": "1613439023.005500"
+            },
+            {
+                "user": "U016Z38U5QF",
+                "ts": "1613439541.006000"
+            },
+            {
+                "user": "UVCDN5SQZ",
+                "ts": "1613487212.011300"
+            },
+            {
+                "user": "U016Z38U5QF",
+                "ts": "1613488409.014200"
+            },
+            {
+                "user": "U015B88C4CA",
+                "ts": "1613582921.036200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UJG9WTEKG",
+                    "U015B88C4CA",
+                    "U01KGTNFLVA",
+                    "U012GHRAHDK",
+                    "U012YJ35BML",
+                    "URLKJLWKS",
+                    "U01GC0BGTNX"
+                ],
+                "count": 7
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UJG9WTEKG",
+                    "U01JGE01ZA8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b25c27e6-f8c5-41ec-b490-bdd479bf89da",
+        "type": "message",
+        "text": "Hey Krista! I was scrolling through LI today and this post from a connection hit my feed. Check out what SearchSpring is up to. You might find some inspiration based on role type. <https:\/\/www.linkedin.com\/posts\/joannmmartin_i-love-this-hubspot-acquisition-of-the-hustle-activity-6763169672511717376-t0l0\/>",
+        "user": "U01JGE01ZA8",
+        "ts": "1613426602.497800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "acf1b4cdc9e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1646506836784_acf1b4cdc9e95e535926_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett McGrath",
+            "display_name": "Brett McGrath",
+            "team": "TJE58GTJL",
+            "name": "brett.mcgrath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "JoAnn Martin on LinkedIn: I love this HubSpot acquisition of The Hustle.  As marketers, our  | 12 comments",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/joannmmartin_i-love-this-hubspot-acquisition-of-the-hustle-activity-6763169672511717376-t0l0\/",
+                "text": "I love this HubSpot acquisition of The Hustle. As marketers, our biggest competition is Netflix. And if your audience isn&amp;#39;t willing to sacrifice time ... 12 comments on LinkedIn",
+                "fallback": "JoAnn Martin on LinkedIn: I love this HubSpot acquisition of The Hustle.  As marketers, our  | 12 comments",
+                "thumb_url": "https:\/\/static-exp1.licdn.com\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "from_url": "https:\/\/www.linkedin.com\/posts\/joannmmartin_i-love-this-hubspot-acquisition-of-the-hustle-activity-6763169672511717376-t0l0\/",
+                "thumb_width": 1400,
+                "thumb_height": 800,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "service_name": "linkedin.com",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/joannmmartin_i-love-this-hubspot-acquisition-of-the-hustle-activity-6763169672511717376-t0l0\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=5Zc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Krista! I was scrolling through LI today and this post from a connection hit my feed. Check out what SearchSpring is up to. You might find some inspiration based on role type. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/joannmmartin_i-love-this-hubspot-acquisition-of-the-hustle-activity-6763169672511717376-t0l0\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613424319.497500",
+        "parent_user_id": "U016Z38U5QF"
+    },
+    {
+        "client_msg_id": "3d594004-281b-459e-a600-cd1f764c721b",
+        "type": "message",
+        "text": "Hey Michael, addressing bullet 3 here.\n\nI like to find side hustles when I recruit...especially for content roles.\n\nTypically, the side hustle lines up with the candidates passion and it gives you the opportunity to review a body of work from the creator when they are in \"all-in\" mode. Their professional work product (output, comms, strategy, etc) obviously is important, but I like to spend a large portion of the time understanding side hustle process.\n\nUnderstanding the side hustle can also give you ideas on their potential outside the scope of the role.",
+        "user": "U01JGE01ZA8",
+        "ts": "1613427361.498200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "acf1b4cdc9e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-08\/1646506836784_acf1b4cdc9e95e535926_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett McGrath",
+            "display_name": "Brett McGrath",
+            "team": "TJE58GTJL",
+            "name": "brett.mcgrath",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C456r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Michael, addressing bullet 3 here.\n\nI like to find side hustles when I recruit...especially for content roles.\n\nTypically, the side hustle lines up with the candidates passion and it gives you the opportunity to review a body of work from the creator when they are in \"all-in\" mode. Their professional work product (output, comms, strategy, etc) obviously is important, but I like to spend a large portion of the time understanding side hustle process.\n\nUnderstanding the side hustle can also give you ideas on their potential outside the scope of the role."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613150989.463600",
+        "parent_user_id": "U01LECPAECX"
+    },
+    {
+        "client_msg_id": "3BDE4CE5-F08A-48A7-9FCC-6D603C0AEC08",
+        "type": "message",
+        "text": "Jay Acunzo has a great newsletter around creative work in general, as well as a podcast for podcasters. It’s on my top 3 newsletters that I actually read every week and get inspired by: <https:\/\/jayacunzo.com\/newsletter|https:\/\/jayacunzo.com\/newsletter>",
+        "user": "U015B88C4CA",
+        "ts": "1613433627.000600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0niNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jay Acunzo has a great newsletter around creative work in general, as well as a podcast for podcasters. It’s on my top 3 newsletters that I actually read every week and get inspired by: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jayacunzo.com\/newsletter",
+                                "text": "https:\/\/jayacunzo.com\/newsletter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613424319.497500",
+        "parent_user_id": "U016Z38U5QF"
+    },
+    {
+        "client_msg_id": "0DDFED92-1C68-48DC-A847-B80FD8AF72F8",
+        "type": "message",
+        "text": "Also - please make sure to share the work that you produce! Congrats on your new role - it sounds very exciting. ",
+        "user": "U015B88C4CA",
+        "ts": "1613433676.001700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6BQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also - please make sure to share the work that you produce! Congrats on your new role - it sounds very exciting. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613424319.497500",
+        "parent_user_id": "U016Z38U5QF",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U016Z38U5QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F08709F5-3E80-4289-B0FF-A348EF90BB1D",
+        "type": "message",
+        "text": "Thanks <@U01JGE01ZA8>! I actually saw that post, too. Such a small world on LI :joy: It’s so good and I will be stalking JoAnn for sure.\n\n<@U015B88C4CA> I’ll definitely check out Jay’s podcast. I’ve been meaning to listen to it, so good to know it’s worth it! And thank you — I’m really excited about the jump :slightly_smiling_face:",
+        "user": "U016Z38U5QF",
+        "ts": "1613433892.004700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a07d40af547c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2963924011571_a07d40af547c3d6ee69a_72.png",
+            "first_name": "Krista",
+            "real_name": "Krista Doyle",
+            "display_name": "Krista Doyle",
+            "team": "TJE58GTJL",
+            "name": "kristadoyle5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lQPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JGE01ZA8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I actually saw that post, too. Such a small world on LI "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It’s so good and I will be stalking JoAnn for sure.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U015B88C4CA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ll definitely check out Jay’s podcast. I’ve been meaning to listen to it, so good to know it’s worth it! And thank you — I’m really excited about the jump "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613424319.497500",
+        "parent_user_id": "U016Z38U5QF"
+    },
+    {
+        "client_msg_id": "7920964e-efc2-4c5f-a30f-27811b7b04ce",
+        "type": "message",
+        "text": "Hey <@U016Z38U5QF> — I make a ton of videos for startups and coincidentally my firm did some work with Outdoorsy a few years ago on the PR side. I published a blog recently with some of my best practices when it comes to video marketing and would be happy to chat with you sometime if you’d like to connect! <https:\/\/vsc.co\/video-marketing-for-startups\/>",
+        "user": "U0109FC8H7Y",
+        "ts": "1613435260.005000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be85d10e5bf3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1185499540836_be85d10e5bf36beaefba_72.png",
+            "first_name": "Doug",
+            "real_name": "Doug Patterson",
+            "display_name": "Doug Patterson",
+            "team": "TJE58GTJL",
+            "name": "dougp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0109FC8H7Y",
+            "ts": "1613435286.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rN25d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016Z38U5QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " — I make a ton of videos for startups and coincidentally my firm did some work with Outdoorsy a few years ago on the PR side. I published a blog recently with some of my best practices when it comes to video marketing and would be happy to chat with you sometime if you’d like to connect! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vsc.co\/video-marketing-for-startups\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613424319.497500",
+        "parent_user_id": "U016Z38U5QF",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U016Z38U5QF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7438e180-5716-4910-ac89-3ce2521dbe59",
+        "type": "message",
+        "text": "Hey <@U016Z38U5QF>! Congrats on the shift :tada: !\n\nI’m curious to learn more about your role changes. Would it be OK to DM you?",
+        "user": "U01JRC8JPTJ",
+        "ts": "1613439023.005500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "18f76283a351",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3149009818599_18f76283a35162e3675b_72.jpg",
+            "first_name": "Jessica",
+            "real_name": "Jessica Lau",
+            "display_name": "Jessica Lau",
+            "team": "TJE58GTJL",
+            "name": "jessica.lau21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016Z38U5QF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Congrats on the shift "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n\nI’m curious to learn more about your role changes. Would it be OK to DM you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613424319.497500",
+        "parent_user_id": "U016Z38U5QF"
+    },
+    {
+        "client_msg_id": "2A189A4E-F764-4829-9A72-B30EFD0B38E5",
+        "type": "message",
+        "text": "Sure thing <@U01JRC8JPTJ> ",
+        "user": "U016Z38U5QF",
+        "ts": "1613439541.006000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a07d40af547c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2963924011571_a07d40af547c3d6ee69a_72.png",
+            "first_name": "Krista",
+            "real_name": "Krista Doyle",
+            "display_name": "Krista Doyle",
+            "team": "TJE58GTJL",
+            "name": "kristadoyle5",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OBaJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure thing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JRC8JPTJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613424319.497500",
+        "parent_user_id": "U016Z38U5QF",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U01JRC8JPTJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "efc2df14-f79e-480b-bdba-604daa22a350",
+        "type": "message",
+        "text": "Hey everyone!\n\nWe just launched SharedInbox on ProductHunt.\n\nIt's a slack app that lets you send emails via Slack!\n\n<https:\/\/www.producthunt.com\/posts\/sharedinbox>\n\nFeedback and Upvotes will be appreciated! :slightly_smiling_face:",
+        "user": "U016XPHGE1W",
+        "ts": "1629451348.068000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc5477a7bf63",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c5477a7bf63a6fd7c9477ad20629929b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "Sushant Shekhar",
+            "display_name": "Sushant Shekhar",
+            "team": "TJE58GTJL",
+            "name": "sushantshekhar20",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Product Hunt",
+                "title": "SharedInbox - Send or receive emails from Slack | Product Hunt",
+                "title_link": "https:\/\/www.producthunt.com\/posts\/sharedinbox",
+                "text": "Shared Inbox for your Teams within Slack - Connect your existing team email (like help@, info@, sales@) to Slack, collaborate over external emails effortlessly!",
+                "fallback": "Product Hunt: SharedInbox - Send or receive emails from Slack | Product Hunt",
+                "image_url": "https:\/\/ph-files.imgix.net\/0b454381-b362-485e-86c4-232bfc94cb1e.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+                "from_url": "https:\/\/www.producthunt.com\/posts\/sharedinbox",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 118052,
+                "service_icon": "https:\/\/ph-static.imgix.net\/ph-ios-icon.png?auto=format&amp;auto=compress",
+                "id": 1,
+                "original_url": "https:\/\/www.producthunt.com\/posts\/sharedinbox"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n=S4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone!\n\nWe just launched SharedInbox on ProductHunt.\n\nIt's a slack app that lets you send emails via Slack!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.producthunt.com\/posts\/sharedinbox"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFeedback and Upvotes will be appreciated! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U02BJD52A8H",
+                    "U010JU2GTND"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

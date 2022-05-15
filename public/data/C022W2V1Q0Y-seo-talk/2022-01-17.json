@@ -1,0 +1,304 @@
+[
+    {
+        "client_msg_id": "68f6dbe7-912c-49d4-8b6b-f4278332e972",
+        "type": "message",
+        "text": "I tried to avoid the phrase, but I'd say it would depend on the content on the page and what the page and the schema's functionality is",
+        "user": "U02SW3L1G5B",
+        "ts": "1642434127.046600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "562ca19260ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-06\/2940803313920_562ca19260ea7ad033ca_72.jpg",
+            "first_name": "Natalie",
+            "real_name": "Natalie Arney",
+            "display_name": "Natalie Arney",
+            "team": "TJE58GTJL",
+            "name": "natalie052",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02SW3L1G5B",
+            "ts": "1642434142.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "08oh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I tried to avoid the phrase, but I'd say it would depend on the content on the page and what the page and the schema's functionality is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642269507.016000",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "5ad55945-ec0b-422c-b6e0-394870bfdd94",
+        "type": "message",
+        "text": "<@U02SW3L1G5B> would love some examples if it's not too much of a lift :heart_eyes:",
+        "user": "U019P0ADPCH",
+        "ts": "1642438674.046900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GUSd3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02SW3L1G5B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would love some examples if it's not too much of a lift "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642269507.016000",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "c6578fa7-507e-4dc0-b600-f8bbd7ddf88e",
+        "type": "message",
+        "text": "I'm not sure I have any good ones to share - am currently auditing a site with some bad schema, but that's not a good example :smile:",
+        "user": "U02SW3L1G5B",
+        "ts": "1642438798.047100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "562ca19260ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-06\/2940803313920_562ca19260ea7ad033ca_72.jpg",
+            "first_name": "Natalie",
+            "real_name": "Natalie Arney",
+            "display_name": "Natalie Arney",
+            "team": "TJE58GTJL",
+            "name": "natalie052",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y6bJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure I have any good ones to share - am currently auditing a site with some bad schema, but that's not a good example "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642269507.016000",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "10e343f9-34f7-4ec1-9e98-785a7aa32798",
+        "type": "message",
+        "text": "I'd recommend analyzing what top ranking pages are doing for their own schema markups. All you have to do is search the query\/category\/topic in question, then see what shows in the top positions. Then drop that URL in this handy free tool: <https:\/\/validator.schema.org\/>",
+        "user": "U02H8J1671P",
+        "ts": "1642459232.047500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bf983e1b1c18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2577380898884_bf983e1b1c18c830f243_72.png",
+            "first_name": "Jonathan",
+            "real_name": "Jonathan Barragan",
+            "display_name": "Jonny Barragan",
+            "team": "TJE58GTJL",
+            "name": "jdbarragan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pke",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd recommend analyzing what top ranking pages are doing for their own schema markups. All you have to do is search the query\/category\/topic in question, then see what shows in the top positions. Then drop that URL in this handy free tool: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/validator.schema.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642269507.016000",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U019P0ADPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cb2744c-3732-4f41-8e2c-0d99c5c8e264",
+        "type": "message",
+        "text": "I only say DYOR because depending on the page, topic, type of content mix, competitive landscape, technical feasibility, etc. -- you'll find different results. Best of luck <@U019P0ADPCH>!",
+        "user": "U02H8J1671P",
+        "ts": "1642459358.047700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bf983e1b1c18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2577380898884_bf983e1b1c18c830f243_72.png",
+            "first_name": "Jonathan",
+            "real_name": "Jonathan Barragan",
+            "display_name": "Jonny Barragan",
+            "team": "TJE58GTJL",
+            "name": "jdbarragan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yIho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I only say DYOR because depending on the page, topic, type of content mix, competitive landscape, technical feasibility, etc. -- you'll find different results. Best of luck "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U019P0ADPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642269507.016000",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U019P0ADPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea3a0bd6-09fc-4fb6-8253-c19569cebf4e",
+        "type": "message",
+        "text": "Hey Fam. What's the recommendation for on-page optimizations for titles, descriptions, content, etc. when a company name is legit the exact category too?\n\nEx.\nPage Title: Shop Fish Tanks by <http:\/\/Fishtanks.com|Fishtanks.com>.\nDescription: Shop large fish Aquariums, Tanks, &amp; Bowls from <http:\/\/fishtanks.com|fishtanks.com> available in different colors, size and from multi-brands.\n\nI understand there are several other aspects of a website that help search engines and users to understand the site's served purpose\/content. It's a large site in a competitive industry, they're in a constant war for top category query positions.\n\nMaybe it's something to A\/B test against, but I am curious to hear thoughts on what's worked best for those in similar situations.\nThanks,\nJ\nP.S. I know it sounds insignificant, but we're talking about one position difference equating to $$$ direct impact to their bottom-line on any given day.",
+        "user": "U02H8J1671P",
+        "ts": "1642464193.048800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bf983e1b1c18",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2577380898884_bf983e1b1c18c830f243_72.png",
+            "first_name": "Jonathan",
+            "real_name": "Jonathan Barragan",
+            "display_name": "Jonny Barragan",
+            "team": "TJE58GTJL",
+            "name": "jdbarragan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Fam. What's the recommendation for on-page optimizations for titles, descriptions, content, etc. when a company name is legit the exact category too?\n\nEx.\nPage Title: Shop Fish Tanks by "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Fishtanks.com",
+                                "text": "Fishtanks.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\nDescription: Shop large fish Aquariums, Tanks, & Bowls from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/fishtanks.com",
+                                "text": "fishtanks.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " available in different colors, size and from multi-brands.\n\nI understand there are several other aspects of a website that help search engines and users to understand the site's served purpose\/content. It's a large site in a competitive industry, they're in a constant war for top category query positions.\n\nMaybe it's something to A\/B test against, but I am curious to hear thoughts on what's worked best for those in similar situations.\nThanks,\nJ\nP.S. I know it sounds insignificant, but we're talking about one position difference equating to $$$ direct impact to their bottom-line on any given day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

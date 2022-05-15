@@ -1,0 +1,549 @@
+[
+    {
+        "client_msg_id": "c43e9cca-e91c-4b11-b5f2-94668f2ca686",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U02A9EZU141",
+        "ts": "1629197230.208200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f76ca8f6de40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-05\/2362054093537_f76ca8f6de401e2f681b_72.png",
+            "first_name": "Hayley",
+            "real_name": "Hayley Garner",
+            "display_name": "Hayley Garner",
+            "team": "TJE58GTJL",
+            "name": "hayley.garner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5F3Kx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629098305.205500",
+        "parent_user_id": "U02A9EZU141"
+    },
+    {
+        "client_msg_id": "15acb3a8-f976-45b2-8b15-7d2df782daa7",
+        "type": "message",
+        "text": ":wave:  Hola! Quick Q for podcasters in the crew, does anyone have recommendations for free transcription tools?",
+        "user": "UMX8MPHA6",
+        "ts": "1629233260.210700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a26de188dd86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2086330845429_a26de188dd86514ca04b_72.png",
+            "first_name": "Carmen",
+            "real_name": "Carmen Choi",
+            "display_name": "Carmen",
+            "team": "TJE58GTJL",
+            "name": "carmenchoi.km",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d1IC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Hola! Quick Q for podcasters in the crew, does anyone have recommendations for free transcription tools?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629233260.210700",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1629302399.219000",
+        "reply_users": [
+            "UJ7RT1J1X",
+            "UMX8MPHA6",
+            "U017XD7H4P7",
+            "URAV154AV"
+        ],
+        "replies": [
+            {
+                "user": "UJ7RT1J1X",
+                "ts": "1629233569.213700"
+            },
+            {
+                "user": "UMX8MPHA6",
+                "ts": "1629233644.214100"
+            },
+            {
+                "user": "U017XD7H4P7",
+                "ts": "1629238342.214700"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1629295348.216500"
+            },
+            {
+                "user": "UMX8MPHA6",
+                "ts": "1629302399.219000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7000ced2-67ba-41e1-9452-2b3d2bf0acb1",
+        "type": "message",
+        "text": "Not a podcaster - but I love <https:\/\/www.descript.com\/|Descript> for any sort of transcription. Has much more capabilities than just that but it's very effective for transcription alone. <@UMX8MPHA6>",
+        "user": "U02AW1ZR5AB",
+        "ts": "1629233503.211900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d11b40fd5a9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2378424308566_d11b40fd5a9e110decc2_72.jpg",
+            "first_name": "Ben",
+            "real_name": "Ben Nebesky",
+            "display_name": "Ben Nebesky",
+            "team": "TJE58GTJL",
+            "name": "ben239",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Descript | All-in-one audio\/video editing, as easy as a doc.",
+                "title_link": "https:\/\/www.descript.com\/",
+                "text": "Record, transcribe, edit, mix, collaborate, and master your audio and video with Descript. Download for free →.",
+                "fallback": "Descript | All-in-one audio\/video editing, as easy as a doc.",
+                "image_url": "https:\/\/assets-global.website-files.com\/5d761d627a6dfa6a5b28ab12\/611ae20e6437e9af44306b9c_Descript_Podcast_App_Features.png",
+                "from_url": "https:\/\/www.descript.com\/",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 770584,
+                "service_name": "descript.com",
+                "id": 1,
+                "original_url": "https:\/\/www.descript.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hv71F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not a podcaster - but I love "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.descript.com\/",
+                                "text": "Descript"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for any sort of transcription. Has much more capabilities than just that but it's very effective for transcription alone. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMX8MPHA6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629233503.211900",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1642520536.094700",
+        "reply_users": [
+            "UMX8MPHA6",
+            "U01P13NTGG6",
+            "U02AG6CGR3L",
+            "U0231C2LYNM",
+            "U024K88ECFN",
+            "U01HEQWRG0G"
+        ],
+        "replies": [
+            {
+                "user": "UMX8MPHA6",
+                "ts": "1629233573.213900"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1629260442.215700"
+            },
+            {
+                "user": "U02AG6CGR3L",
+                "ts": "1629266398.215900"
+            },
+            {
+                "user": "U0231C2LYNM",
+                "ts": "1629277684.216100"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1629295934.216800"
+            },
+            {
+                "user": "U01HEQWRG0G",
+                "ts": "1642520536.094700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ABE3DECA-C1C1-43F9-97BC-E9934A5692F0",
+        "type": "message",
+        "text": "<http:\/\/Otter.ai|Otter.ai> was decent (for being free) last time I used it. There’s a paid tier that’s more accurate. The free ones have a limit and needed a smidge of help but were pretty good",
+        "user": "UJ7RT1J1X",
+        "ts": "1629233569.213700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3344738d2bc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-17\/1076357263828_3344738d2bc26736e62e_72.jpg",
+            "first_name": "Benyamin",
+            "real_name": "Benyamin Elias",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benyamin.elias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wY6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Otter.ai was decent (for being free) last time I used it. There’s a paid tier that’s more accurate. The free ones have a limit and needed a smidge of help but were pretty good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629233260.210700",
+        "parent_user_id": "UMX8MPHA6",
+        "reactions": [
+            {
+                "name": "otter",
+                "users": [
+                    "UMX8MPHA6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3856e25-6316-47a0-b459-126666cdb0df",
+        "type": "message",
+        "text": "ouu thanks will check it out <@U02AW1ZR5AB>!",
+        "user": "UMX8MPHA6",
+        "ts": "1629233573.213900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a26de188dd86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2086330845429_a26de188dd86514ca04b_72.png",
+            "first_name": "Carmen",
+            "real_name": "Carmen Choi",
+            "display_name": "Carmen",
+            "team": "TJE58GTJL",
+            "name": "carmenchoi.km",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ouu thanks will check it out "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AW1ZR5AB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629233503.211900",
+        "parent_user_id": "U02AW1ZR5AB"
+    },
+    {
+        "client_msg_id": "5658991f-a4cb-4317-8a5a-5cd6a01eff11",
+        "type": "message",
+        "text": "I'm cool with giving the transcript a _smidge_ of help! Thanks <@UJ7RT1J1X> :raised_hands:",
+        "user": "UMX8MPHA6",
+        "ts": "1629233644.214100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a26de188dd86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2086330845429_a26de188dd86514ca04b_72.png",
+            "first_name": "Carmen",
+            "real_name": "Carmen Choi",
+            "display_name": "Carmen",
+            "team": "TJE58GTJL",
+            "name": "carmenchoi.km",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaOp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm cool with giving the transcript a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "smidge",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " of help! Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ7RT1J1X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629233260.210700",
+        "parent_user_id": "UMX8MPHA6"
+    },
+    {
+        "client_msg_id": "240903bf-67f6-48f1-91fa-42522b80daf2",
+        "type": "message",
+        "text": "+1 on Otter -- I've been party to its use for podcast transcriptions and client calls, and it gets you an impressive amount of the way there.",
+        "user": "U017XD7H4P7",
+        "ts": "1629238342.214700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ab77023918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1256516765207_f9ab77023918e4c2b919_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Dietrich",
+            "display_name": "Erik Dietrich",
+            "team": "TJE58GTJL",
+            "name": "erik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cOAs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 on Otter -- I've been party to its use for podcast transcriptions and client calls, and it gets you an impressive amount of the way there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629233260.210700",
+        "parent_user_id": "UMX8MPHA6"
+    },
+    {
+        "client_msg_id": "4125f99b-c2c4-4abc-a1a3-e4c139a275cf",
+        "type": "message",
+        "text": "i like doing the same along with magazine-like columns, like industry news with curated commentary, q&amp;as, etc",
+        "user": "UJE6FLEFJ",
+        "ts": "1629240034.214900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc6ef52e2245",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c6ef52e2245358c2ae0b9a02308b7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Brittany Berger",
+            "display_name": "Brittany Berger",
+            "team": "TJE58GTJL",
+            "name": "brittany",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GPQqz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i like doing the same along with magazine-like columns, like industry news with curated commentary, q&as, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628764317.187900",
+        "parent_user_id": "U020PD12B0B"
+    },
+    {
+        "client_msg_id": "66AF4202-631D-4E93-8D95-A8AA5749516F",
+        "type": "message",
+        "text": "I love Descript. :fire:",
+        "user": "U01P13NTGG6",
+        "ts": "1629260442.215700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=pK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love Descript. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629233503.211900",
+        "parent_user_id": "U02AW1ZR5AB"
+    },
+    {
+        "client_msg_id": "8c259d48-063e-43f7-ba2a-b46778661794",
+        "type": "message",
+        "text": "+1 Descript is magic, especially if you’ve ever done some basic spoken word audio or video editing with other tools in the past.",
+        "user": "U02AG6CGR3L",
+        "ts": "1629266398.215900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4be561b387bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2385295453174_4be561b387bc0f9ba3be_72.jpg",
+            "first_name": "Ramin",
+            "real_name": "Ramin Assemi",
+            "display_name": "Ramin",
+            "team": "TJE58GTJL",
+            "name": "ramin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5r8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 Descript is magic, especially if you’ve ever done some basic spoken word audio or video editing with other tools in the past."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629233503.211900",
+        "parent_user_id": "U02AW1ZR5AB"
+    }
+]

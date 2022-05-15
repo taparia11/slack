@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "a342fdb7-761f-400c-a2c0-ecfb2f93a6cd",
+        "type": "message",
+        "text": "I'll check him out! <@U031B8HB5FB>",
+        "user": "U030SBZHFFE",
+        "ts": "1645776781.123949",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f2f4c821eab0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-29\/3020358938694_f2f4c821eab0a7aeaca0_72.jpg",
+            "first_name": "Hashem",
+            "real_name": "Hashem ElAssad",
+            "display_name": "Hashem ElAssad (Feel free to DM)",
+            "team": "TJE58GTJL",
+            "name": "hashem.elassad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kHi+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll check him out! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U031B8HB5FB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645650319.126049",
+        "parent_user_id": "U030SBZHFFE"
+    },
+    {
+        "client_msg_id": "7c1234db-2bb9-4a82-80ea-a727e70e7a2b",
+        "type": "message",
+        "text": "haha great question",
+        "user": "UJG24P8P6",
+        "ts": "1645806916.849059",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j11Ap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha great question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645650319.126049",
+        "parent_user_id": "U030SBZHFFE",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U030SBZHFFE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

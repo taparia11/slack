@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Peachtree Versatile Assistants (for Revmade) is hiring a Managing Editor (Remote, Washington, DC )* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/215033-managing-editor>",
+        "ts": "1639405618.109000",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01TB1SDD61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97fae87c-ddb1-4ecb-9170-e924287a073e",
+        "type": "message",
+        "text": "<@U02NJDKHRMW> hello!\n\nJust as an FYI this channel is primarily for the automated job board posts; I’d recommend using <https:\/\/superpath.co\/jobs> to post your job(s) there and then the bot will auto-post them here!",
+        "user": "U02CT7VCMKM",
+        "ts": "1639408481.109100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eTk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02NJDKHRMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hello!\n\nJust as an FYI this channel is primarily for the automated job board posts; I’d recommend using "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/jobs"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to post your job(s) there and then the bot will auto-post them here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639372173.108800",
+        "parent_user_id": "USLACKBOT"
+    }
+]

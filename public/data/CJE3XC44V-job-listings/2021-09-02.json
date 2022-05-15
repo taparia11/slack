@@ -1,0 +1,121 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1630569798.040100",
+        "thread_ts": "1630569798.040100",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1630600928.043100",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1630600928.043100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630600928.043100"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1630569799.040200",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PXN2LGAK",
+                    "U015B888266",
+                    "U019P0ADPCH",
+                    "UJ2MPBP7V",
+                    "U01SS08T006",
+                    "U02B60S6FBM",
+                    "U021TAHP6TB"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa34f99a-1f95-4c50-a3cf-df1fb739528d",
+        "type": "message",
+        "text": "hi <@U02D79T6L81> - this channel is a feed from the job board. i'll remove but will DM you to get it posted",
+        "user": "UJG9WTEKG",
+        "ts": "1630600928.043100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DOlC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02D79T6L81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - this channel is a feed from the job board. i'll remove but will DM you to get it posted"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630569798.040100",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Shopify is hiring a Senior Content Marketing Manager, Product* :rocket:\n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/164788-senior-content-marketing-manager-product>\n",
+        "ts": "1630608174.045700",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Monte Carlo is hiring a Head of Product Marketing* :rocket:\n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/164801-head-of-product-marketing>\n",
+        "ts": "1630617890.046000",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR"
+    }
+]

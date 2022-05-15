@@ -1,0 +1,3475 @@
+[
+    {
+        "client_msg_id": "a0bd90a4-db68-4da7-b9b2-57ee6494cc5a",
+        "type": "message",
+        "text": "<!here> hey folks! welcome to our june AMA. really happy to have <@U0258L29GM9>, cofounder of <https:\/\/gathercontent.com\/|GatherContent>, here to chat about workflow, content ops, efficiency, templates and more. if you want to see GatherContent in action, check out these quick tutorials we made together. and if you want to try it out yourself, use the code `superpath` to get a $299 credit. :smiley::partying_face:\n• <https:\/\/superpath.co\/blog\/you-need-content-ops|You Need Content Ops Whether You Realize It or Not>\n• <https:\/\/superpath.co\/blog\/reusable-content-templates|How to Create Reusable Content Templates in GatherContent>\n• <https:\/\/superpath.co\/blog\/how-to-assign-roles-permissions-in-gathercontent|How to Assign Roles &amp; Permissions in GatherContent>\n• <https:\/\/superpath.co\/blog\/provide-visibility-into-your-content-workflow|How to Provide Visibility Into Your Content Marketing Workflow>\n• <https:\/\/superpath.co\/blog\/document-your-content-creation-process|Why You Should Document Every Step of Your Content Creation Process>\n• <https:\/\/superpath.co\/blog\/reusable-content-blocks-in-gathercontent|How to Make Reusable Content Blocks in GatherContent>\nfeel free to drop questions for <@U0258L29GM9> in the channel and he can answer in the threads. i have a few that i collected ahead of time, plus several of my own. let's do this!",
+        "user": "UJG9WTEKG",
+        "ts": "1624467605.281100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "so=3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey folks! welcome to our june AMA. really happy to have "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", cofounder of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gathercontent.com\/",
+                                "text": "GatherContent"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", here to chat about workflow, content ops, efficiency, templates and more. if you want to see GatherContent in action, check out these quick tutorials we made together. and if you want to try it out yourself, use the code "
+                            },
+                            {
+                                "type": "text",
+                                "text": "superpath",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to get a $299 credit. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/blog\/you-need-content-ops",
+                                        "text": "You Need Content Ops Whether You Realize It or Not"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/blog\/reusable-content-templates",
+                                        "text": "How to Create Reusable Content Templates in GatherContent"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/blog\/how-to-assign-roles-permissions-in-gathercontent",
+                                        "text": "How to Assign Roles & Permissions in GatherContent"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/blog\/provide-visibility-into-your-content-workflow",
+                                        "text": "How to Provide Visibility Into Your Content Marketing Workflow"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/blog\/document-your-content-creation-process",
+                                        "text": "Why You Should Document Every Step of Your Content Creation Process"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/blog\/reusable-content-blocks-in-gathercontent",
+                                        "text": "How to Make Reusable Content Blocks in GatherContent"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "feel free to drop questions for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the channel and he can answer in the threads. i have a few that i collected ahead of time, plus several of my own. let's do this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U021REPB11B",
+                    "U022JPBMGKS",
+                    "U02250HMD8C",
+                    "U0258L29GM9"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f07f3c6-9ab7-44ea-9d40-7b15b0d045e4",
+        "type": "message",
+        "text": "Hi everyone! Really excited to be here :tada: :slightly_smiling_face:",
+        "user": "U0258L29GM9",
+        "ts": "1624467632.281800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1uD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! Really excited to be here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UJG9WTEKG",
+                    "U01PLSB4EKD",
+                    "U01LS5NHXBK",
+                    "U011QQDDSJV",
+                    "U025VTE3JTF",
+                    "U014PRHQUQ2",
+                    "U0208DGLY87"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U021REPB11B",
+                    "U01LS5NHXBK",
+                    "U014PRHQUQ2",
+                    "URLKJLWKS"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f52e79a5-c29a-487b-9d88-4bc2420d83e0",
+        "type": "message",
+        "text": "let's start with some basics. <@U0258L29GM9> can you define \"content ops\" for us?",
+        "user": "UJG9WTEKG",
+        "ts": "1624467671.282700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+IgdM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let's start with some basics. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you define \"content ops\" for us?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2656cb97-23cb-4cc1-aaa5-0ec434fc967d",
+        "type": "message",
+        "text": "oooh….",
+        "user": "U0258L29GM9",
+        "ts": "1624467683.282900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hxb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oooh…."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9478ade-c5af-42ca-8598-c445aab6fdd1",
+        "type": "message",
+        "text": "good one to start with :slightly_smiling_face:",
+        "user": "U0258L29GM9",
+        "ts": "1624467690.283200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ggz5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good one to start with "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e26cb1bc-a84f-4cf3-94b2-f075586af9ea",
+        "type": "message",
+        "text": "ContentOps, to me, is the combination of people, processes, and technologies that are used to produce, approve, publish, and optimize content.",
+        "user": "U0258L29GM9",
+        "ts": "1624467753.284600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xAdK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ContentOps, to me, is the combination of people, processes, and technologies that are used to produce, approve, publish, and optimize content."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021REPB11B",
+                    "U01LS5NHXBK",
+                    "U0247VA1K28",
+                    "U016P3UCK55",
+                    "U025VTE3JTF",
+                    "UJG9WTEKG"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01PLSB4EKD",
+                    "UJG9WTEKG",
+                    "U025R8X7F0C"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U01AU94TABA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7b23c2e-6659-4ff0-a316-776ee20bef67",
+        "type": "message",
+        "text": "It is present in most organizations, in some form - but some more effective than others :slightly_smiling_face:",
+        "user": "U0258L29GM9",
+        "ts": "1624467772.285300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZ+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is present in most organizations, in some form - but some more effective than others "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "504bc0f7-cd89-4864-812a-6833a4de386f",
+        "type": "message",
+        "text": "Follow up question: In your experience, what is the single most important component of content ops. If there's one thing that  you need to get in place to set yourself up for efficient content ops, what would it be?",
+        "user": "U022JPBMGKS",
+        "ts": "1624467812.286500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "49e5fe474849",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-15\/2496819759203_49e5fe4748497bda6438_72.jpg",
+            "first_name": "Andrea",
+            "real_name": "Andrea Wimmer",
+            "display_name": "Andrea Wimmer",
+            "team": "TJE58GTJL",
+            "name": "andrea352",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W9Ni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Follow up question: In your experience, what is the single most important component of content ops. If there's one thing that  you need to get in place to set yourself up for efficient content ops, what would it be?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467812.286500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1624468147.293100",
+        "reply_users": [
+            "U0258L29GM9",
+            "U022JPBMGKS"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624467915.288200"
+            },
+            {
+                "user": "U022JPBMGKS",
+                "ts": "1624468147.293100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "67522c6d-1590-4ec9-8e30-3a1789c1f55c",
+        "type": "message",
+        "text": "good follow-up… I would say the most important component is *people*. Always people. Without people onboard, it can impossible to move forward and improve the way we operate - regardless of how good the intended processes or technologies are. People people people.",
+        "user": "U0258L29GM9",
+        "ts": "1624467915.288200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oiFH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good follow-up… I would say the most important component is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "people",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Always people. Without people onboard, it can impossible to move forward and improve the way we operate - regardless of how good the intended processes or technologies are. People people people."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467812.286500",
+        "parent_user_id": "U022JPBMGKS",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U022JPBMGKS",
+                    "U025VTE3JTF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U021J2S4DPX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U01AU94TABA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0408aee8-fb76-43d3-9eb3-75446a30d0b2",
+        "type": "message",
+        "text": "<@UUH2EB134> can't be here but sent me a few questions head of time. including this one, which i think is very interesting: _\"Kurt Vonnegut famously showed that <https:\/\/bigthink.com\/culture-religion\/vonnegut-shapes|stories have shapes>. Based on everything you've seen at GatherContent, are there common \"shapes\" to content production workflows?\"_",
+        "user": "UJG9WTEKG",
+        "ts": "1624467923.288600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Big Think",
+                "title": "Kurt Vonnegut on 8 'shapes' of stories",
+                "title_link": "https:\/\/bigthink.com\/culture-religion\/vonnegut-shapes",
+                "text": "The American author said he attempted to bring scientific thinking to literary criticism, but received \"very little gratitude for this.\"",
+                "fallback": "Big Think: Kurt Vonnegut on 8 'shapes' of stories",
+                "image_url": "https:\/\/assets.rebelmouse.io\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjIxMzMzOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY1MjY1MDcyMH0.VtdMGXcoh-wyUz3JVaDn1c6zkfO90Hf1xxiBze-wKXA\/img.jpg?width=1200&coordinates=0%2C265%2C0%2C265&height=600",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1577471701,
+                "from_url": "https:\/\/bigthink.com\/culture-religion\/vonnegut-shapes",
+                "image_bytes": 111080,
+                "service_icon": "https:\/\/assets.rebelmouse.io\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc3Nzg2OS8yMDAweC5wbmciLCJleHBpcmVzX2F0IjoxNjM2MzE3MDI3fQ.NfA8SnVWt_f-MZFbJ9H_FFQDk7eHOG5HUy-2BrbxGrs\/img.png?width=192&amp;height=192",
+                "id": 1,
+                "original_url": "https:\/\/bigthink.com\/culture-religion\/vonnegut-shapes"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "okd\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can't be here but sent me a few questions head of time. including this one, which i think is very interesting: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Kurt Vonnegut famously showed that ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bigthink.com\/culture-religion\/vonnegut-shapes",
+                                "text": "stories have shapes",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Based on everything you've seen at GatherContent, are there common \"shapes\" to content production workflows?\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467923.288600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624474955.313900",
+        "reply_users": [
+            "U0258L29GM9",
+            "U01AHL8AGBB",
+            "UUH2EB134"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468080.291800"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1624471852.310700"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1624474955.313900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624474955.313900"
+    },
+    {
+        "client_msg_id": "c4f4f68d-c25b-4d43-ad31-bde82e4e1beb",
+        "type": "message",
+        "text": "<@U0258L29GM9> Post-production, how can you use content ops to optimize content measurement?",
+        "user": "UUKNSNJBT",
+        "ts": "1624467952.289300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05f04dfe94a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-23\/2203773449154_05f04dfe94a6f7b2a56f_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany F",
+            "display_name": "Brittany F",
+            "team": "TJE58GTJL",
+            "name": "bafleit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUKNSNJBT",
+            "ts": "1624467975.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cnk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Post-production, how can you use content ops to optimize content measurement?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467952.289300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624468285.293600",
+        "reply_users": [
+            "U0258L29GM9"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468285.293600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0d75f611-9344-46b6-8f57-2a1b5561bca5",
+        "type": "message",
+        "text": "in our chat last week <@U0258L29GM9>, you showed me a visual representation of every step in a real content production process. are you able to share that image here?",
+        "user": "UJG9WTEKG",
+        "ts": "1624468011.291000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BF3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in our chat last week "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you showed me a visual representation of every step in a real content production process. are you able to share that image here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "reply_count": 12,
+        "reply_users_count": 3,
+        "latest_reply": "1624468628.298700",
+        "reply_users": [
+            "U0258L29GM9",
+            "UJG9WTEKG",
+            "U021REPB11B"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468340.294200"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468393.294600"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468420.295000"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468467.295600"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468499.296400"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468521.296700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1624468547.297000"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468550.297200"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468562.297400"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468570.297600"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468590.298100"
+            },
+            {
+                "user": "U021REPB11B",
+                "ts": "1624468628.298700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624468628.298700"
+    },
+    {
+        "client_msg_id": "dec9b228-27b4-4760-8f88-2530f3f57605",
+        "type": "message",
+        "text": "Do you have any advice for hiring\/onboarding\/training a bunch of writers all at once, while maintaining brand standards for your content? Besides just close editing.",
+        "user": "UVCDN5SQZ",
+        "ts": "1624468057.291600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "46f501e256d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3053376698566_46f501e256d6e8bdab86_72.png",
+            "first_name": "Deedi",
+            "real_name": "Deedi Brown",
+            "display_name": "Deedi",
+            "team": "TJE58GTJL",
+            "name": "dcboland1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSKq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have any advice for hiring\/onboarding\/training a bunch of writers all at once, while maintaining brand standards for your content? Besides just close editing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468057.291600",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1624469159.302200",
+        "reply_users": [
+            "U0258L29GM9",
+            "UVCDN5SQZ",
+            "U021REPB11B"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468670.299800"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468761.300500"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624468860.300900"
+            },
+            {
+                "user": "UVCDN5SQZ",
+                "ts": "1624469045.301500"
+            },
+            {
+                "user": "U021REPB11B",
+                "ts": "1624469149.302000"
+            },
+            {
+                "user": "U021REPB11B",
+                "ts": "1624469159.302200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U022JPBMGKS",
+                    "U01PLSB4EKD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3931981e-546d-4527-83a7-a1e9657c0be2",
+        "type": "message",
+        "text": "really interesting - I’ve never heard of this - I will definitely be looking into this afterwards. I’m not sure I know exactly the idea, but I would say the most common shape for workflows is siloed and linear - which is often the biggest challenge, and prevents us creating consistent multi-channel content.",
+        "user": "U0258L29GM9",
+        "ts": "1624468080.291800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uvg4J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "really interesting - I’ve never heard of this - I will definitely be looking into this afterwards. I’m not sure I know exactly the idea, but I would say the most common shape for workflows is siloed and linear - which is often the biggest challenge, and prevents us creating consistent multi-channel content."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467923.288600",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U021J2S4DPX",
+                    "U01AU94TABA",
+                    "U01PLSB4EKD",
+                    "UJG9WTEKG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U021REPB11B",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc5d72b5-9141-4f4e-8e48-a97e5e710373",
+        "type": "message",
+        "text": "over in <#CJ7QQKJ73|-content-strategy-questions>, <@U012BUUPHFT> asked a question that i think <@U0258L29GM9> might be able to shed some light on: <https:\/\/content-career-growth.slack.com\/archives\/CJ7QQKJ73\/p1622550057149700>",
+        "user": "UJG9WTEKG",
+        "ts": "1624468116.292600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/content-career-growth.slack.com\/archives\/CJ7QQKJ73\/p1622550057149700",
+                "fallback": "[June 1st, 2021 5:20 AM] eduardo: Hi everyone! Does anyone have any advice on how to implement a content approval workflow? We’re a small team (everyone does a little bit of everything), so the four eyes principle has typically been enough. However, we’re starting to publish more content and it’s getting difficult to keep content consistent in quality, voice, and information. Even though I’m the senior content marketer in the team, I hesitate to take the role of being the one who green-lights any content that gets published (from landing pages to blog posts), but I feel it might be the only way to ensure quality content going forward since not everyone in the team is a strong writer.",
+                "ts": "1622550057.149700",
+                "author_id": "U012BUUPHFT",
+                "author_subname": "Eduardo",
+                "channel_id": "CJ7QQKJ73",
+                "channel_name": "-content-strategy-questions",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Hi everyone! Does anyone have any advice on how to implement a content approval workflow? We’re a small team (everyone does a little bit of everything), so the four eyes principle has typically been enough. However, we’re starting to publish more content and it’s getting difficult to keep content consistent in quality, voice, and information. Even though I’m the senior content marketer in the team, I hesitate to take the role of being the one who green-lights any content that gets published (from landing pages to blog posts), but I feel it might be the only way to ensure quality content going forward since not everyone in the team is a strong writer.",
+                "author_name": "Eduardo",
+                "author_link": "https:\/\/content-career-growth.slack.com\/team\/U012BUUPHFT",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-05-13\/1107341759415_41e7aeda600509ad0eff_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/content-career-growth.slack.com\/archives\/CJ7QQKJ73\/p1622550057149700",
+                "footer": "Thread in #-content-strategy-questions"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V=URE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "over in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CJ7QQKJ73"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012BUUPHFT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " asked a question that i think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " might be able to shed some light on: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/content-career-growth.slack.com\/archives\/CJ7QQKJ73\/p1622550057149700"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468116.292600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624469031.301300",
+        "reply_users": [
+            "U0258L29GM9"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624469031.301300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624469031.301300",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U011QQDDSJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a1b4ffd-dd1a-4009-aff5-437285a0beb1",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U022JPBMGKS",
+        "ts": "1624468147.293100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "49e5fe474849",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-15\/2496819759203_49e5fe4748497bda6438_72.jpg",
+            "first_name": "Andrea",
+            "real_name": "Andrea Wimmer",
+            "display_name": "Andrea Wimmer",
+            "team": "TJE58GTJL",
+            "name": "andrea352",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A\/3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467812.286500",
+        "parent_user_id": "U022JPBMGKS"
+    },
+    {
+        "client_msg_id": "46a788d7-929d-4bbe-b20b-561ebaaf74d1",
+        "type": "message",
+        "text": "really great question. The first thing that comes to mind is _governance_ and having well defined governance policies for content. I think a more common focus would be looking at things like the distribution and engagement metrics around content, and using that insight to optimize (so iterating on content based on what we learn when we ‘ship it’), but really I find that most organizations can benefit more from simply looking after existing content and making sure it is simply on-brand and up to date and accurate (and can do this with simple things like defined owners, and review cycles \/ SLAs)",
+        "user": "U0258L29GM9",
+        "ts": "1624468285.293600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rH0zW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "really great question. The first thing that comes to mind is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "governance",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and having well defined governance policies for content. I think a more common focus would be looking at things like the distribution and engagement metrics around content, and using that insight to optimize (so iterating on content based on what we learn when we ‘ship it’), but really I find that most organizations can benefit more from simply looking after existing content and making sure it is simply on-brand and up to date and accurate (and can do this with simple things like defined owners, and review cycles \/ SLAs)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467952.289300",
+        "parent_user_id": "UUKNSNJBT",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U01PLSB4EKD",
+                    "UUKNSNJBT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf33afcf-1b5a-42dc-818b-9b1ea651c5dd",
+        "type": "message",
+        "text": "yeah for sure, just getting it now",
+        "user": "U0258L29GM9",
+        "ts": "1624468340.294200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKh\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah for sure, just getting it now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025JMY563H",
+                "created": 1624468389,
+                "timestamp": 1624468389,
+                "name": "Image 2021-06-23 at 7.12.58 pm.png",
+                "title": "Image 2021-06-23 at 7.12.58 pm.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0258L29GM9",
+                "editable": false,
+                "size": 218001,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025JMY563H\/image_2021-06-23_at_7.12.58_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025JMY563H\/download\/image_2021-06-23_at_7.12.58_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 182,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 242,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 363,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 404,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 484,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025JMY563H-4f589195fa\/image_2021-06-23_at_7.12.58_pm_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 517,
+                "original_w": 2462,
+                "original_h": 1242,
+                "thumb_tiny": "AwAYADDQQ5X15pDwAM9\/WnU1tuec\/lQCDndnJxj8KBn5OvvQMrgHHpxTqAGgH5evWlGcfj3paKACkIBpaKAE6nnjB\/OloHeigAooooA\/\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U0258L29GM9\/F025JMY563H\/image_2021-06-23_at_7.12.58_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F025JMY563H-d9d951b625",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0258L29GM9",
+        "display_as_bot": false,
+        "ts": "1624468393.294600",
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0265KVQQQ4",
+                "created": 1624468416,
+                "timestamp": 1624468416,
+                "name": "Image 2021-06-23 at 7.13.29 pm.png",
+                "title": "Image 2021-06-23 at 7.13.29 pm.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0258L29GM9",
+                "editable": false,
+                "size": 175126,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0265KVQQQ4\/image_2021-06-23_at_7.13.29_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0265KVQQQ4\/download\/image_2021-06-23_at_7.13.29_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 153,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 204,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 306,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 340,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 408,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0265KVQQQ4-15651bfaf2\/image_2021-06-23_at_7.13.29_pm_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 435,
+                "original_w": 2566,
+                "original_h": 1090,
+                "thumb_tiny": "AwAUADC8WbzQuBj680SMyAFQPxpC374L82cenFLM21Rnceewo1HdDiSFJGM4pI2LJk4\/ClY4Qnnp+NNiO5ARkfWjUV0COxdlIGB6Gn1GjZkYfNx6ilaMs4YOQB2oV+oN9h9FFFABRRRQAUUUUAf\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U0258L29GM9\/F0265KVQQQ4\/image_2021-06-23_at_7.13.29_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F0265KVQQQ4-882a01ca20",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0258L29GM9",
+        "display_as_bot": false,
+        "ts": "1624468420.295000",
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "07d79cb7-be48-4c5b-a323-69cd1716ecd1",
+        "type": "message",
+        "text": "this shows a slightly messy process for creating an email. A SINGLE EMAIL.",
+        "user": "U0258L29GM9",
+        "ts": "1624468467.295600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eHE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this shows a slightly messy process for creating an email. A SINGLE EMAIL."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "a13fc7d3-b507-4b06-b775-ac0ef0b40c8a",
+        "type": "message",
+        "text": "hey <@U0258L29GM9>! at animalz, we built our own in house content ops product on top of airtable.\n\ncan you talk about using a saas like gathercontent vs no code like airtable vs full blown custom solution?",
+        "user": "U011UJX75PE",
+        "ts": "1624468495.296300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGvi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! at animalz, we built our own in house content ops product on top of airtable.\n\ncan you talk about using a saas like gathercontent vs no code like airtable vs full blown custom solution?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468495.296300",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1624474612.311600",
+        "reply_users": [
+            "U0258L29GM9",
+            "UUVC9HJTE",
+            "U011UJX75PE"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624469802.303200"
+            },
+            {
+                "user": "UUVC9HJTE",
+                "ts": "1624470270.304100"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624471056.306200"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1624474608.311400"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1624474612.311600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "UJG9WTEKG",
+                    "U0258L29GM9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U021REPB11B",
+                    "U011QQDDSJV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d36ed2d-b1c4-4c68-8e1d-f0880c026c46",
+        "type": "message",
+        "text": "it uses a process I often use in workshops, to explore content operations workflows",
+        "user": "U0258L29GM9",
+        "ts": "1624468499.296400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVs4X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it uses a process I often use in workshops, to explore content operations workflows"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "49d32bdf-240a-4636-b9d6-c9693bddf041",
+        "type": "message",
+        "text": "I essentially map out the 3 components of any contentops workflow:",
+        "user": "U0258L29GM9",
+        "ts": "1624468521.296700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eg3hX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I essentially map out the 3 components of any contentops workflow:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "7ac6e5f3-1beb-47a2-9205-2bfae01b0a63",
+        "type": "message",
+        "text": "it looks crazy but when i read the steps, i get it",
+        "user": "UJG9WTEKG",
+        "ts": "1624468547.297000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZMwu\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it looks crazy but when i read the steps, i get it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025ZL46THR",
+                "created": 1624468547,
+                "timestamp": 1624468547,
+                "name": "Image 2021-06-23 at 7.15.40 pm.png",
+                "title": "Image 2021-06-23 at 7.15.40 pm.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0258L29GM9",
+                "editable": false,
+                "size": 80213,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025ZL46THR\/image_2021-06-23_at_7.15.40_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025ZL46THR\/download\/image_2021-06-23_at_7.15.40_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 187,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 249,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 373,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 415,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 498,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZL46THR-a7968f663a\/image_2021-06-23_at_7.15.40_pm_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 531,
+                "thumb_1024_h": 1024,
+                "original_w": 646,
+                "original_h": 1246,
+                "thumb_tiny": "AwAwABjQfOw4644qp\/pP+3mrlV9j+b0Oc9aTdi4snXO0Z645paKKZAHocVDtfPQ1McAEnoKr\/ak3fdO31pOHMHNYsDpRQMEAjvRTACMgg9DVb7PHvx5nH93PNTyAtGwXqRVLY3Tac\/SqTM5u3QvgYAA7UU2MERqG6gU6pLP\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U0258L29GM9\/F025ZL46THR\/image_2021-06-23_at_7.15.40_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F025ZL46THR-aca4cd9aab",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0258L29GM9",
+        "display_as_bot": false,
+        "ts": "1624468550.297200",
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "898c2b19-acf1-48ba-a5af-2d3e9b63b739",
+        "type": "message",
+        "text": "then annotate content types and channels",
+        "user": "U0258L29GM9",
+        "ts": "1624468562.297400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/fBC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "then annotate content types and channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "0012ef7c-20fb-4f74-a94f-f848230f3791",
+        "type": "message",
+        "text": "it can be quite… illuminating!",
+        "user": "U0258L29GM9",
+        "ts": "1624468570.297600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mllS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it can be quite… illuminating!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "ec7b0c28-36e8-4c6c-b1f4-b54fcc6b564f",
+        "type": "message",
+        "text": "especially when you start mapping out entire eco-systems for multi-channel marketing",
+        "user": "U0258L29GM9",
+        "ts": "1624468590.298100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3oA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "especially when you start mapping out entire eco-systems for multi-channel marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "412f1133-d2cf-4407-a173-9908f250b99e",
+        "type": "message",
+        "text": "Here is a great article I noticed on why #contentops <https:\/\/gathercontent.com\/blog\/what-is-contentops>",
+        "user": "U021REPB11B",
+        "ts": "1624468628.298700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3539ef901fda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2062603915538_3539ef901fda6cf4f922_72.jpg",
+            "first_name": "",
+            "real_name": "Ryanne Perry",
+            "display_name": "Ryanne Perry",
+            "team": "TJE58GTJL",
+            "name": "rperry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GatherContent",
+                "title": "Content Operations - What is it and why should you invest in it? - @GatherContent",
+                "title_link": "https:\/\/gathercontent.com\/blog\/what-is-contentops",
+                "text": "An introduction to Content Operations and how you create and maintain effective content on a daily basis. Includes definitions and principles.",
+                "fallback": "GatherContent: Content Operations - What is it and why should you invest in it? - @GatherContent",
+                "image_url": "https:\/\/assets-global.website-files.com\/5c88fc88555981dc7f314a41\/5f6462df7d3c794e6635b16d_what%20is%20contentops.jpg",
+                "ts": 1619593200,
+                "from_url": "https:\/\/gathercontent.com\/blog\/what-is-contentops",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 54265,
+                "id": 1,
+                "original_url": "https:\/\/gathercontent.com\/blog\/what-is-contentops"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "95fiL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a great article I noticed on why #contentops "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gathercontent.com\/blog\/what-is-contentops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468011.291000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "16430871-c3cd-4a66-8369-7320d30ba7a1",
+        "type": "message",
+        "text": "this is a great book on this subject: <https:\/\/www.amazon.com\/Why-need-content-team-build\/dp\/1720128448>",
+        "user": "U0258L29GM9",
+        "ts": "1624468670.299800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KcvQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is a great book on this subject: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Why-need-content-team-build\/dp\/1720128448"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468057.291600",
+        "parent_user_id": "UVCDN5SQZ",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "UVCDN5SQZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1e4b3e6-e226-4104-861e-1374f79899d9",
+        "type": "message",
+        "text": "Hi <@U0258L29GM9> - thanks for the AMA! How can a team successfully outsource Content Management\/Content Marketing when the goal is to raise technical brand awareness? In what circumstances can this work? In what circumstances will this not work? What are the conditions necessary to make this successful?",
+        "user": "U01LLSRQ57A",
+        "ts": "1624468676.300200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8c94185462c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1676815123701_8c94185462c6da317cbb_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Mark",
+            "display_name": "Rebecca Mark",
+            "team": "TJE58GTJL",
+            "name": "rebeccamark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ymR1D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - thanks for the AMA! How can a team successfully outsource Content Management\/Content Marketing when the goal is to raise technical brand awareness? In what circumstances can this work? In what circumstances will this not work? What are the conditions necessary to make this successful?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468676.300200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624470161.303700",
+        "reply_users": [
+            "U0258L29GM9"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624470161.303700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJFELMVU1",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U021REPB11B",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "writing_hand",
+                "users": [
+                    "U021J2S4DPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c2354da-ebaf-40ae-80f9-29933d23719c",
+        "type": "message",
+        "text": "I was actually speaking to Rachel yesterday (humble name drop :slightly_smiling_face: ) - and she mentioned a few techniques around creating internal training plans for onboarding large volume of  writers and content designers - so I would definitely look into some of the stuff she is sharing on this topic",
+        "user": "U0258L29GM9",
+        "ts": "1624468761.300500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was actually speaking to Rachel yesterday (humble name drop "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) - and she mentioned a few techniques around creating internal training plans for onboarding large volume of  writers and content designers - so I would definitely look into some of the stuff she is sharing on this topic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468057.291600",
+        "parent_user_id": "UVCDN5SQZ"
+    },
+    {
+        "client_msg_id": "c4f18845-7c08-4a7d-bf6a-f55399c87fed",
+        "type": "message",
+        "text": "something I find has been really effective in my experience is creating a solid operational foundation for team members to join - so for example having clear templates for content types, and guidelines for those, linked to style guides, and things like personas and content briefs. This can be super helpful here. Our templating features in GatherContent can also support this well :wink:",
+        "user": "U0258L29GM9",
+        "ts": "1624468860.300900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sa1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "something I find has been really effective in my experience is creating a solid operational foundation for team members to join - so for example having clear templates for content types, and guidelines for those, linked to style guides, and things like personas and content briefs. This can be super helpful here. Our templating features in GatherContent can also support this well "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468057.291600",
+        "parent_user_id": "UVCDN5SQZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U023V1GS08N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbfd1ebf-8f0b-4ebb-a73a-aa390a6e8fd3",
+        "type": "message",
+        "text": "two big steps here I would suggest would be:\n\n1. mapping out your workflow, and making sure everyone is on the same page (you could use the process I mentioned above in the answer to Jimmy’s question)\n2. getting technology to help you. The two things I would be looking for, even in a small team, would be a simple status feature, so content can have a status, and then also audit trails (more for larger teams, but it can be nice to know who approved what, and when). ",
+        "user": "U0258L29GM9",
+        "ts": "1624469031.301300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0258L29GM9",
+            "ts": "1624469201.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bDW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "two big steps here I would suggest would be:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mapping out your workflow, and making sure everyone is on the same page (you could use the process I mentioned above in the answer to Jimmy’s question)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "getting technology to help you. The two things I would be looking for, even in a small team, would be a simple status feature, so content can have a status, and then also audit trails (more for larger teams, but it can be nice to know who approved what, and when). "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468116.292600",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "6f9c227b-3903-4d40-83c9-b3021d2320ef",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "UVCDN5SQZ",
+        "ts": "1624469045.301500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "46f501e256d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3053376698566_46f501e256d6e8bdab86_72.png",
+            "first_name": "Deedi",
+            "real_name": "Deedi Brown",
+            "display_name": "Deedi",
+            "team": "TJE58GTJL",
+            "name": "dcboland1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "afr18",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468057.291600",
+        "parent_user_id": "UVCDN5SQZ"
+    },
+    {
+        "client_msg_id": "af08888e-cd18-40c5-bf69-94a0e699eb6d",
+        "type": "message",
+        "text": "<@UVCDN5SQZ> this might also be helpful to you",
+        "user": "U021REPB11B",
+        "ts": "1624469149.302000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3539ef901fda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-13\/2062603915538_3539ef901fda6cf4f922_72.jpg",
+            "first_name": "",
+            "real_name": "Ryanne Perry",
+            "display_name": "Ryanne Perry",
+            "team": "TJE58GTJL",
+            "name": "rperry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4luB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UVCDN5SQZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this might also be helpful to you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468057.291600",
+        "parent_user_id": "UVCDN5SQZ"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F025ZMCF1SP",
+                "created": 1624469157,
+                "timestamp": 1624469157,
+                "name": "image (1).png",
+                "title": "image (1).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021REPB11B",
+                "editable": false,
+                "size": 108042,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025ZMCF1SP\/image__1_.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025ZMCF1SP\/download\/image__1_.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 294,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 392,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 587,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 653,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 783,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025ZMCF1SP-9f6b2e4beb\/image__1__1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 835,
+                "original_w": 1086,
+                "original_h": 886,
+                "thumb_tiny": "AwAnADB+lwJ5AlK5ck8ntV5kVvvKD9RUNgNtlEPbNTN0oAhktoduRAjH0AxUYsYHGWgKH2arO36flS4I6H9KYFT+zLf\/AG\/zqO40+CO3d13ZUZHNX8H1\/SobsYtJf900gJLddtvGvoo\/lT26UiMGRWTlSOKXNADBx6U\/PvRmjNABUN5\/x6S\/7pqbNQ3n\/HpL\/umgDMttQa3hEYQNg9Sal\/tZv+eS\/nWdRQBpLq3PzQj8GqZNTgb7wZfqM1j0d6ANi6v\/ACWXYgdWGc5xVWXUmliZDGBuGM5qK8+7D\/uf1qtQB\/\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U021REPB11B\/F025ZMCF1SP\/image__1_.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F025ZMCF1SP-4c2b4b23f3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U021REPB11B",
+        "display_as_bot": false,
+        "ts": "1624469159.302200",
+        "thread_ts": "1624468057.291600",
+        "parent_user_id": "UVCDN5SQZ"
+    },
+    {
+        "client_msg_id": "16a04843-8b4c-459c-90c0-a06296834712",
+        "type": "message",
+        "text": "another good one from <@UUH2EB134>: _\"Do you have advice for content marketing teams that want to switch from internally-sourced and produced content to either a contributor-submitted or UGC-driven model?\"_",
+        "user": "UJG9WTEKG",
+        "ts": "1624469565.302800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGhac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "another good one from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Do you have advice for content marketing teams that want to switch from internally-sourced and produced content to either a contributor-submitted or UGC-driven model?\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624469565.302800",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1624474998.314300",
+        "reply_users": [
+            "U0258L29GM9",
+            "UJG9WTEKG",
+            "UUH2EB134"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624470484.304500"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624470616.305100"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624470707.305600"
+            },
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624470734.305800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1624470899.306000"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1624474998.314300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624474998.314300",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021REPB11B",
+                    "UUVC0LK2Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc9f930c-aac7-47e4-a386-8e6407c24e04",
+        "type": "message",
+        "text": "great question - I love Airtable, and am a big believer in the right tool for the right job, and more specifically, the right tool for the right team.\n\nFull blown custom is an easier one, since I would say that is more suited to teams that are really really enterprise, and are dealing with very specific compliance processes, and\/or huge volumes of content for multiple channels, in multiple languages. That’s really the only place I would say full-custom makes sense.\n\nNo-code VS GatherContent, I think would come down to templating, roles and permissions, and access.\n\nSince GatherContent is built specifically to handle content ops, we have a lot of quite specific features such as templating and reusable components, guidelines around content, customizable approval processes, and shareable links - we also have a lot of integrations which come out of the box, and would not be possible with a no-code solution.\n\nEssentially depth on those things, but it would be hard to say without seeing the solution you have on top of Airtable (which I would love to see :slightly_smiling_face: )",
+        "user": "U0258L29GM9",
+        "ts": "1624469802.303200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0258L29GM9",
+            "ts": "1624469869.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjDx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great question - I love Airtable, and am a big believer in the right tool for the right job, and more specifically, the right tool for the right team.\n\nFull blown custom is an easier one, since I would say that is more suited to teams that are really really enterprise, and are dealing with very specific compliance processes, and\/or huge volumes of content for multiple channels, in multiple languages. That’s really the only place I would say full-custom makes sense.\n\nNo-code VS GatherContent, I think would come down to templating, roles and permissions, and access.\n\nSince GatherContent is built specifically to handle content ops, we have a lot of quite specific features such as templating and reusable components, guidelines around content, customizable approval processes, and shareable links - we also have a lot of integrations which come out of the box, and would not be possible with a no-code solution.\n\nEssentially depth on those things, but it would be hard to say without seeing the solution you have on top of Airtable (which I would love to see "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468495.296300",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "9b98cec7-d7a5-486d-8b12-4fe186c88e3b",
+        "type": "message",
+        "text": "this is a really challenging problem, so I would say that the reality is that it’s very risky, and simply can go very wrong!\n\nI’ve seen a lot companies try and fail, and have to move on from working with external partners.\n\nBut, more positively…\n\nI would say that starting with some clear principles, for example “we will never sacrifice brand value”, and making sure they stay as an absolute requirement when you are reviewing potential options is a great start. And then over-investing time in the hiring process, and having a clear probation test run is a great plan, too.\n\nThere are great people out there, you just need to find them, and never let your values slip.\n\nHope this helps :slightly_smiling_face:",
+        "user": "U0258L29GM9",
+        "ts": "1624470161.303700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "byA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is a really challenging problem, so I would say that the reality is that it’s very risky, and simply can go very wrong!\n\nI’ve seen a lot companies try and fail, and have to move on from working with external partners.\n\nBut, more positively…\n\nI would say that starting with some clear principles, for example “we will never sacrifice brand value”, and making sure they stay as an absolute requirement when you are reviewing potential options is a great start. And then over-investing time in the hiring process, and having a clear probation test run is a great plan, too.\n\nThere are great people out there, you just need to find them, and never let your values slip.\n\nHope this helps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468676.300200",
+        "parent_user_id": "U01LLSRQ57A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U021J2S4DPX",
+                    "URLKJLWKS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01LLSRQ57A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70dfd80f-9433-478f-bf92-606cdbcebfb2",
+        "type": "message",
+        "text": "Follow-up question(s): What’s your advice for companies starting content from scratch? Is GatherContent a good option (vs. no-code) or is it too advanced in those early stages? Is there a “right time” to adopt something like GatherContent?",
+        "user": "UUVC9HJTE",
+        "ts": "1624470270.304100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "243e712f81bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/969140406898_243e712f81bc05c4c428_72.jpg",
+            "first_name": "Nina",
+            "real_name": "Nina P",
+            "display_name": "Nina P",
+            "team": "TJE58GTJL",
+            "name": "nina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUVC9HJTE",
+            "ts": "1624470282.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xx0+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Follow-up question(s): What’s your advice for companies starting content from scratch? Is GatherContent a good option (vs. no-code) or is it too advanced in those early stages? Is there a “right time” to adopt something like GatherContent?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468495.296300",
+        "parent_user_id": "U011UJX75PE",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U021REPB11B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1ad7207-816d-423b-b368-8600e3666141",
+        "type": "message",
+        "text": "this is something we’ve worked on a lot at GatherContent actually. We moved from an internally-sourced model, to a hybrid, where we produce a lot of content with external writers.\n\nAs seems to be the theme, I think the best starting point is templates. I.e. having well defined templates for content types, and requirements for each field within them. Not from a technical point of view, but from an authoring point of view. What are your standards? What does this ALWAYS need to include? How should it be written?\n\nWhen you move from internally-sourced, to hybrid, or contributor based, I find it can be a great excuse to operatonalize a lot of stuff you’re probably already doing.",
+        "user": "U0258L29GM9",
+        "ts": "1624470484.304500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0258L29GM9",
+            "ts": "1624470512.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lLkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is something we’ve worked on a lot at GatherContent actually. We moved from an internally-sourced model, to a hybrid, where we produce a lot of content with external writers.\n\nAs seems to be the theme, I think the best starting point is templates. I.e. having well defined templates for content types, and requirements for each field within them. Not from a technical point of view, but from an authoring point of view. What are your standards? What does this ALWAYS need to include? How should it be written?\n\nWhen you move from internally-sourced, to hybrid, or contributor based, I find it can be a great excuse to operatonalize a lot of stuff you’re probably already doing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624469565.302800",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "e69794f9-b8fd-4c2f-a30d-21b6816856aa",
+        "type": "message",
+        "text": "one from yours truly: how do you balance efficiency with creativity? is there such a thing as too much process?",
+        "user": "UJG9WTEKG",
+        "ts": "1624470571.305000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "one from yours truly: how do you balance efficiency with creativity? is there such a thing as too much process?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624470571.305000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624471482.308200",
+        "reply_users": [
+            "U0258L29GM9"
+        ],
+        "replies": [
+            {
+                "user": "U0258L29GM9",
+                "ts": "1624471482.308200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624471482.308200",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U021REPB11B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U0258L29GM9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5180f92-a027-4071-906d-3070050e09c5",
+        "type": "message",
+        "text": "<https:\/\/share.getcloudapp.com\/WnuxkPWJ>",
+        "user": "U0258L29GM9",
+        "ts": "1624470616.305100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Created with CloudApp",
+                "service_url": "https:\/\/www.getcloudapp.com?utm_source=slack_unfurl&utm_medium=slack",
+                "title": "Screen Recording 2021-06-23 at 07.49 pm",
+                "title_link": "https:\/\/share.getcloudapp.com\/WnuxkPWJ",
+                "fallback": "Created with CloudApp Photo: Screen Recording 2021-06-23 at 07.49 pm",
+                "image_url": "https:\/\/p-76FWwk4.t1.n0.cdn.getcloudapp.com\/items\/WnuxkPWJ\/4a47e25f-f422-42df-9d1d-7bdb8c32262e.gif",
+                "image_width": 1428,
+                "image_height": 732,
+                "from_url": "https:\/\/share.getcloudapp.com\/WnuxkPWJ",
+                "image_bytes": 3209128,
+                "id": 1,
+                "original_url": "https:\/\/share.getcloudapp.com\/WnuxkPWJ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SJp2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/share.getcloudapp.com\/WnuxkPWJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624469565.302800",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "f958b9fe-d70c-47ea-ae71-77e90473b95e",
+        "type": "message",
+        "text": ":point_up: this is specific to GatherContent, but is a nice example of how I recently translated an editorial workflow and set of rules from a magazine’s article contribution process, and translated it into a nicely structured template.",
+        "user": "U0258L29GM9",
+        "ts": "1624470707.305600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/4I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is specific to GatherContent, but is a nice example of how I recently translated an editorial workflow and set of rules from a magazine’s article contribution process, and translated it into a nicely structured template."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624469565.302800",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "0687637f-b76d-4a60-b71c-8d06253178d6",
+        "type": "message",
+        "text": "(it made it so much faster as a contributor, too!)",
+        "user": "U0258L29GM9",
+        "ts": "1624470734.305800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(it made it so much faster as a contributor, too!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624469565.302800",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "f7208c00-7f77-46ee-a5ed-bb9a9ee3f36a",
+        "type": "message",
+        "text": "nice! very cool",
+        "user": "UJG9WTEKG",
+        "ts": "1624470899.306000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGHd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice! very cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624469565.302800",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "eb5c0a61-3486-4b94-a414-306907b4e936",
+        "type": "message",
+        "text": "I would probably say, as you may predict, that GatherContent is potentially the best place for someone starting out, since it has lots of examples inside, and so can be used a great initial foundation for a few simple workflows, and then you can scale from there.\n\nWhile on the other hand, no-code doesn’t mean no-work - it can involve a huge amount of set-up and configuration.\n\nSo I would say at least that it’s maybe less effort to test out an out-the-box and dedicated solution like GatherContent, and then see how you get on from there.",
+        "user": "U0258L29GM9",
+        "ts": "1624471056.306200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would probably say, as you may predict, that GatherContent is potentially the best place for someone starting out, since it has lots of examples inside, and so can be used a great initial foundation for a few simple workflows, and then you can scale from there.\n\nWhile on the other hand, no-code doesn’t mean no-work - it can involve a huge amount of set-up and configuration.\n\nSo I would say at least that it’s maybe less effort to test out an out-the-box and dedicated solution like GatherContent, and then see how you get on from there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468495.296300",
+        "parent_user_id": "U011UJX75PE",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U021J2S4DPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c8b788c-605c-4b1e-a90e-9dda64da0d78",
+        "type": "message",
+        "text": "<@U0258L29GM9> just want to say THANK YOU on behalf of the entire community. we really appreciate your time and your wisdom. glad to have you as part of this group :smiley:\n-\nand just a reminder for folks that you can get a $299 credit on GatherContent. use the code `superpath` at checkout. thanks all for coming, hope you enjoyed it!!",
+        "user": "UJG9WTEKG",
+        "ts": "1624471166.307800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q2p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0258L29GM9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just want to say THANK YOU on behalf of the entire community. we really appreciate your time and your wisdom. glad to have you as part of this group "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-\nand just a reminder for folks that you can get a $299 credit on GatherContent. use the code "
+                            },
+                            {
+                                "type": "text",
+                                "text": "superpath",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " at checkout. thanks all for coming, hope you enjoyed it!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U021REPB11B",
+                    "U0258L29GM9",
+                    "U025VTE3JTF",
+                    "U022NPE6USW",
+                    "U022JPBMGKS",
+                    "U0216EN5J80",
+                    "URLKJLWKS"
+                ],
+                "count": 7
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U021J2S4DPX",
+                    "U0258L29GM9",
+                    "U022JPBMGKS",
+                    "U0216EN5J80"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "688d0be6-8be4-46e8-8f00-47f0d11938a4",
+        "type": "message",
+        "text": "great question - I’ve definitely seen people go in two directions.\n\nEither being too focussed on creativity, and forgetting about actually having an impact.\n\nBut on the other side, I think you get people being too focussed on efficiency, and just “going very fast in the wrong direction”.\n\nI think either way you need great process, and some of the brands that seem from a distance to have amazing creative content, actually generate this from incredibly sophisticated processes, which are focussed on efficiency.\n\nA really interesting one that I think could be a big discussion in itself!",
+        "user": "U0258L29GM9",
+        "ts": "1624471482.308200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RiZl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great question - I’ve definitely seen people go in two directions.\n\nEither being too focussed on creativity, and forgetting about actually having an impact.\n\nBut on the other side, I think you get people being too focussed on efficiency, and just “going very fast in the wrong direction”.\n\nI think either way you need great process, and some of the brands that seem from a distance to have amazing creative content, actually generate this from incredibly sophisticated processes, which are focussed on efficiency.\n\nA really interesting one that I think could be a big discussion in itself!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624470571.305000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U021J2S4DPX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7df2c82b-9fd6-40e1-9f80-9b194d881956",
+        "type": "message",
+        "text": "thanks so much for having me <@UJG9WTEKG> - and thanks everyone for such amazing questions! I’m definitely leaving with a lot to think about! Cheers everybody :heart:",
+        "user": "U0258L29GM9",
+        "ts": "1624471585.309900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "08a299e5217e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-17\/2187769934180_08a299e5217e76df16df_72.png",
+            "first_name": "",
+            "real_name": "Angus Edwardson",
+            "display_name": "Angus Edwardson",
+            "team": "TJE58GTJL",
+            "name": "angus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/qh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks so much for having me "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - and thanks everyone for such amazing questions! I’m definitely leaving with a lot to think about! Cheers everybody "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02250HMD8C",
+                    "UJG9WTEKG",
+                    "U025VTE3JTF",
+                    "U022JPBMGKS",
+                    "U0216EN5J80"
+                ],
+                "count": 5
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "UJG9WTEKG",
+                    "U024K88ECFN",
+                    "U021J2S4DPX",
+                    "U022JPBMGKS",
+                    "U0216EN5J80"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa20de29-a37c-43ca-92a5-68be79d6f0bf",
+        "type": "message",
+        "text": "Inverted pyramid is a good one to consider—a known approach in journalism which the contentOps world would do well to emulate:\n\n• information is highly direct and specific at the top\n• and gets less focused and more nuanced\/tangential as the piece goes on\nThis protects against \"burying the lede\" and also make sure that skimmers or people doing rapid research get what they need ASAP (and the details etc are there deeper down if they want to peruse).\n\nThe social media world has in some ways thrown this (and Reader expectations) into hyperdrive, where if you don't make your point known in the time it takes to scroll past, you get scrolled past.\n\nClickbait titles are probably represent the overcorrection for this kind of shape. :slightly_smiling_face:",
+        "user": "U01AHL8AGBB",
+        "ts": "1624471852.310700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Inverted pyramid is a good one to consider—a known approach in journalism which the contentOps world would do well to emulate:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "information is highly direct and specific at the top"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "and gets less focused and more nuanced\/tangential as the piece goes on"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThis protects against \"burying the lede\" and also make sure that skimmers or people doing rapid research get what they need ASAP (and the details etc are there deeper down if they want to peruse).\n\nThe social media world has in some ways thrown this (and Reader expectations) into hyperdrive, where if you don't make your point known in the time it takes to scroll past, you get scrolled past.\n\nClickbait titles are probably represent the overcorrection for this kind of shape. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467923.288600",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "URLKJLWKS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e93a1d43-ef0f-421b-8fc6-88c16d65fbba",
+        "type": "message",
+        "text": "cc <@UT9JX4C5C>",
+        "user": "U011UJX75PE",
+        "ts": "1624474608.311400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jtl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT9JX4C5C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468495.296300",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "2f046772-fc7e-4556-96d4-7022824108ef",
+        "type": "message",
+        "text": "thanks angus!",
+        "user": "U011UJX75PE",
+        "ts": "1624474612.311600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i48U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks angus!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624468495.296300",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "1CBA9DC3-91D6-4A0C-8238-4CD228008F69",
+        "type": "message",
+        "text": "Thanks Jimmy! And thanks Angus. The silo challenge hits very close to home. As you think more about my question, don’t hesitate to reach out to chat more. I’d be interested in helping. ",
+        "user": "UUH2EB134",
+        "ts": "1624474955.313900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PsZgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Jimmy! And thanks Angus. The silo challenge hits very close to home. As you think more about my question, don’t hesitate to reach out to chat more. I’d be interested in helping. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624467923.288600",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "8FEEE88A-3A9F-4EF1-80FD-2C327DF070E4",
+        "type": "message",
+        "text": ":exploding_head:",
+        "user": "UUH2EB134",
+        "ts": "1624474998.314300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nv4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624469565.302800",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

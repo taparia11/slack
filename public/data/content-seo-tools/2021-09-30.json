@@ -1,0 +1,618 @@
+[
+    {
+        "client_msg_id": "2b5804bf-3d80-4548-bb9c-27c3c408ea84",
+        "type": "message",
+        "text": "Hey folks, I'd like to track every content article on our magazine in a Google Excel Sheet and get data from Google Analytics, Google Search Console and Ahrefs. Why? To have everything in one place and also to see opportunities for SEO optimizations quicker, etc.\n\n• Did someone already build up something like that in a Google Sheet?\n• And would you be open to share it here or with me (DM)?\n• Or do even such templates exist and you can share the link here?\nReally looking forward for any inspiration :heart:",
+        "user": "U01CW2WDEEP",
+        "ts": "1633026085.239000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "65ad92ea230b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1424773407623_65ad92ea230b674b432b_72.png",
+            "first_name": "Yasemin",
+            "real_name": "Yasemin Salman",
+            "display_name": "Yasemin Salman",
+            "team": "TJE58GTJL",
+            "name": "yasemin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01CW2WDEEP",
+            "ts": "1636573573.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DHZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks, I'd like to track every content article on our magazine in a Google Excel Sheet and get data from Google Analytics, Google Search Console and Ahrefs. Why? To have everything in one place and also to see opportunities for SEO optimizations quicker, etc.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Did someone already build up something like that in a Google Sheet?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "And would you be open to share it here or with me (DM)?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Or do even such templates exist and you can share the link here?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nReally looking forward for any inspiration "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633026085.239000",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1633347054.273300",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U01CW2WDEEP",
+            "U01P13NTGG6",
+            "UUXPJ96EQ"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1633028330.239100"
+            },
+            {
+                "user": "U01CW2WDEEP",
+                "ts": "1633029479.243300"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1633057220.256600"
+            },
+            {
+                "user": "UUXPJ96EQ",
+                "ts": "1633077705.258600"
+            },
+            {
+                "user": "UUXPJ96EQ",
+                "ts": "1633077776.258800"
+            },
+            {
+                "user": "U01CW2WDEEP",
+                "ts": "1633347054.273300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02J7DM81AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0178be66-0dd2-48f7-b943-4f3021a90e31",
+        "type": "message",
+        "text": "You're looking to get data from those 3 sources in one place for a set of blog posts? Should be pretty easy to set up in a G sheet with Supermetrics or in Data Studio. If you need the API, better to use Semrush than Ahrefs",
+        "user": "UUXMCJQ15",
+        "ts": "1633028330.239100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/+unm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're looking to get data from those 3 sources in one place for a set of blog posts? Should be pretty easy to set up in a G sheet with Supermetrics or in Data Studio. If you need the API, better to use Semrush than Ahrefs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633026085.239000",
+        "parent_user_id": "U01CW2WDEEP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01TM66SD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68bf75d1-88cf-4236-8c95-b645a3d185f6",
+        "type": "message",
+        "text": "I've already set up a dashboard in G sheet with sources of GA and Data Studio to measure the overall Magazine health but did not break it down to the content pieces yet the measure the SEO development.\n\n<@UUXPJ96EQ> I've watched your reports from the \"Show and Tell\" video in Superpath Pro. I can remember, that you've had a lot of different G Sheets with quite a few numbers you measured SEO health, growth etc. I'm very interested to know how you work today and which of those G sheets you still work with. :slightly_smiling_face:",
+        "user": "U01CW2WDEEP",
+        "ts": "1633029479.243300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "65ad92ea230b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1424773407623_65ad92ea230b674b432b_72.png",
+            "first_name": "Yasemin",
+            "real_name": "Yasemin Salman",
+            "display_name": "Yasemin Salman",
+            "team": "TJE58GTJL",
+            "name": "yasemin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cRa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've already set up a dashboard in G sheet with sources of GA and Data Studio to measure the overall Magazine health but did not break it down to the content pieces yet the measure the SEO development.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXPJ96EQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've watched your reports from the \"Show and Tell\" video in Superpath Pro. I can remember, that you've had a lot of different G Sheets with quite a few numbers you measured SEO health, growth etc. I'm very interested to know how you work today and which of those G sheets you still work with. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633026085.239000",
+        "parent_user_id": "U01CW2WDEEP",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02GUH8DP4N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aadf128f-b912-4ef4-89a8-9556a08a6f59",
+        "type": "message",
+        "text": "On content refreshes - is volume (e.g. refresh 40 pages per month every month ) ever better than a more intentional approach? (I unfortunately missed <@UUXMCJQ15>’s webinar earlier this week... in case that's not obvious from the question. :grimacing:",
+        "user": "U022JPBMGKS",
+        "ts": "1633036585.246000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "49e5fe474849",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-15\/2496819759203_49e5fe4748497bda6438_72.jpg",
+            "first_name": "Andrea",
+            "real_name": "Andrea Wimmer",
+            "display_name": "Andrea Wimmer",
+            "team": "TJE58GTJL",
+            "name": "andrea352",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022JPBMGKS",
+            "ts": "1633036641.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zGjov",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On content refreshes - is volume (e.g. refresh 40 pages per month every month ) ever better than a more intentional approach? (I unfortunately missed "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s webinar earlier this week... in case that's not obvious from the question. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633036585.246000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1633060036.256900",
+        "reply_users": [
+            "U01J85VRKF1",
+            "UUXMCJQ15",
+            "U022JPBMGKS",
+            "UUJBMNRNF"
+        ],
+        "replies": [
+            {
+                "user": "U01J85VRKF1",
+                "ts": "1633036926.251300"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1633037174.251500"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1633037219.251700"
+            },
+            {
+                "user": "U022JPBMGKS",
+                "ts": "1633037615.251900"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1633060036.256900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "889B2C54-42E0-4066-803A-A1F4B5E2239E",
+        "type": "message",
+        "text": "I don’t think that would be a great long-term strategy. Maybe for a short quarterly goal of refreshing a backlog of content over that time. If you wanted to refresh 40 pieces in an in-depth fashion, that might be challenging to do, so you’d probably have to put some parameters around what a content refresh means in that scenario. I would think if you want to make refreshing old content a part of a long-term strategy you would focus on quality over quantity.",
+        "user": "U01J85VRKF1",
+        "ts": "1633036926.251300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6014791c8384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-11\/2168802380004_6014791c8384d642d727_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda Cross",
+            "display_name": "Amanda Cross",
+            "team": "TJE58GTJL",
+            "name": "amanda867",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7fU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t think that would be a great long-term strategy. Maybe for a short quarterly goal of refreshing a backlog of content over that time. If you wanted to refresh 40 pieces in an in-depth fashion, that might be challenging to do, so you’d probably have to put some parameters around what a content refresh means in that scenario. I would think if you want to make refreshing old content a part of a long-term strategy you would focus on quality over quantity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633036585.246000",
+        "parent_user_id": "U022JPBMGKS"
+    },
+    {
+        "client_msg_id": "242caf37-6a7b-410b-a8d5-0f0a51dea978",
+        "type": "message",
+        "text": "<@U022JPBMGKS> Replay going out tomorrow if you signed up :slightly_smiling_face:",
+        "user": "UUXMCJQ15",
+        "ts": "1633037174.251500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmJm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022JPBMGKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Replay going out tomorrow if you signed up "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633036585.246000",
+        "parent_user_id": "U022JPBMGKS",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9407bbf2-5203-41d0-a479-4d221d6e83d8",
+        "type": "message",
+        "text": "For refreshes, I'd focus on doing it 1-2 times per year and focusing on pages that drive revenue that we want to increase rank for, and also for pages we see having declining search traffic.",
+        "user": "UUXMCJQ15",
+        "ts": "1633037219.251700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5FZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For refreshes, I'd focus on doing it 1-2 times per year and focusing on pages that drive revenue that we want to increase rank for, and also for pages we see having declining search traffic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633036585.246000",
+        "parent_user_id": "U022JPBMGKS"
+    },
+    {
+        "client_msg_id": "df7db6a7-1b8f-4ca1-9bae-e59f1896982d",
+        "type": "message",
+        "text": "Thanks <@UUXMCJQ15>. I didn't actually KNOW about it till I popped on here about 20 minutes ago to ask about content refreshes, so, sadly, I'm not signed up.\n\n<@U01J85VRKF1> thanks for your thoughts. I feel very much the same, but needed a gut check before going into a meeting tomorrow and explaining that we'll definitely not be taking the kitchen sink approach for this task...",
+        "user": "U022JPBMGKS",
+        "ts": "1633037615.251900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "49e5fe474849",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-15\/2496819759203_49e5fe4748497bda6438_72.jpg",
+            "first_name": "Andrea",
+            "real_name": "Andrea Wimmer",
+            "display_name": "Andrea Wimmer",
+            "team": "TJE58GTJL",
+            "name": "andrea352",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i4l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I didn't actually KNOW about it till I popped on here about 20 minutes ago to ask about content refreshes, so, sadly, I'm not signed up.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01J85VRKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for your thoughts. I feel very much the same, but needed a gut check before going into a meeting tomorrow and explaining that we'll definitely not be taking the kitchen sink approach for this task..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633036585.246000",
+        "parent_user_id": "U022JPBMGKS"
+    },
+    {
+        "client_msg_id": "022251EA-FFB8-4178-AED8-90BC85416D7B",
+        "type": "message",
+        "text": "I could set you up something pretty quick in Retool. You'll just have to keep your Ahrefs data source up to date in Sheets if you don’t use their API. Same can be set up in sheets with some queries and such. SuperMetrics can streamline the process but I’m pretty sure there’s a more affordable option out there. Otherwise, again, you’d just need to keep your Ahrefs data updated manually. ",
+        "user": "U01P13NTGG6",
+        "ts": "1633057220.256600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could set you up something pretty quick in Retool. You'll just have to keep your Ahrefs data source up to date in Sheets if you don’t use their API. Same can be set up in sheets with some queries and such. SuperMetrics can streamline the process but I’m pretty sure there’s a more affordable option out there. Otherwise, again, you’d just need to keep your Ahrefs data updated manually. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633026085.239000",
+        "parent_user_id": "U01CW2WDEEP"
+    },
+    {
+        "client_msg_id": "7ec14ad1-5114-4e2b-94f4-cdf3664be2f5",
+        "type": "message",
+        "text": "<@UUXMCJQ15> - waiting...:smile:",
+        "user": "UUJBMNRNF",
+        "ts": "1633060036.256900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - waiting..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633036585.246000",
+        "parent_user_id": "U022JPBMGKS"
+    }
+]

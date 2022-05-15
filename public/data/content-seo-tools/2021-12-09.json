@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "362782BF-5E19-44FC-A167-4EE63845DC92",
+        "type": "message",
+        "text": "<@U02LY7JLK1S> can you move this <#C021RFDHEMD|all-things-freelance> ?",
+        "user": "UJG9WTEKG",
+        "ts": "1639057661.286000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mEe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02LY7JLK1S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C021RFDHEMD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639026264.285200",
+        "parent_user_id": "U02LY7JLK1S"
+    },
+    {
+        "client_msg_id": "478185c3-0ae4-421e-abef-d75c893b0652",
+        "type": "message",
+        "text": "Great insight, thanks <@UUKNRAD4Z>!",
+        "user": "U01LCCTLT8T",
+        "ts": "1639067533.286300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ebd76b4601b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1853673206387_ebd76b4601b30469c085_72.jpg",
+            "first_name": "",
+            "real_name": "Matilda Schieren",
+            "display_name": "Matilda Schieren",
+            "team": "TJE58GTJL",
+            "name": "mswartz913",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7UTZ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great insight, thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUKNRAD4Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638552648.265500",
+        "parent_user_id": "U01LCCTLT8T"
+    }
+]

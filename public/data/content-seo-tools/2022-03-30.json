@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "31b61894-a858-46ee-b378-5f447b44796a",
+        "type": "message",
+        "text": "If you write in Markdown but also use Google Docs for editing, I tested out Google Docs’ new Markdown formatting today and … you’re likely still best not enabling the new Markdown features, as it basically turns your Markdown formatting into directly into Rich text: <https:\/\/reproof.app\/blog\/google-docs-markdown>",
+        "user": "U0337RNB86A",
+        "ts": "1648647308.905309",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g5db5c6cc0b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5db5c6cc0b1f678ee250b421e3d11c5f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Guay",
+            "display_name": "Matthew Guay",
+            "team": "TJE58GTJL",
+            "name": "maguay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0337RNB86A",
+            "ts": "1648647344.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/reproof.app\/blog\/google-docs-markdown",
+                "thumb_url": "https:\/\/reproof.app\/media\/pages\/blog\/google-docs-markdown\/db4c002db8-1648645601\/dfdocs.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/reproof.app\/reproof.png",
+                "id": 1,
+                "original_url": "https:\/\/reproof.app\/blog\/google-docs-markdown",
+                "fallback": "reproof: Google Docs still doesn’t fully support Markdown",
+                "text": "Markdown as shortcuts, not Markdown as formatting",
+                "title": "Google Docs still doesn’t fully support Markdown",
+                "title_link": "https:\/\/reproof.app\/blog\/google-docs-markdown",
+                "service_name": "reproof"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pALY\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you write in Markdown but also use Google Docs for editing, I tested out Google Docs’ new Markdown formatting today and … you’re likely still best not enabling the new Markdown features, as it basically turns your Markdown formatting into directly into Rich text: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/reproof.app\/blog\/google-docs-markdown"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UUJBMNRNF",
+                    "U02BTBBH887",
+                    "U01P13NTGG6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "thankyou",
+                "users": [
+                    "U02BTBBH887"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90b9d200-eeda-496f-9237-e5283d67ff6e",
+        "type": "message",
+        "text": "Airtable! You can create public views so your client sees just what they need (with password protection\/domain restriction available if you’re on a more expensive plan, I believe)",
+        "user": "UJFELMVU1",
+        "ts": "1648656837.768319",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f99c9b96a13d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-27\/3177379518961_f99c9b96a13d5b027747_72.jpg",
+            "first_name": "Eliza",
+            "real_name": "Eliza Wright",
+            "display_name": "Eliza Wright",
+            "team": "TJE58GTJL",
+            "name": "eliza1wright",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nK4T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Airtable! You can create public views so your client sees just what they need (with password protection\/domain restriction available if you’re on a more expensive plan, I believe)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648174794.637909",
+        "parent_user_id": "U030U5Y08TW"
+    }
+]

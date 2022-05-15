@@ -1,0 +1,229 @@
+[
+    {
+        "client_msg_id": "222a8e71-7aaf-4844-8259-b009b6fe7dba",
+        "type": "message",
+        "text": "<!here> Roku's ad business is hiring a full time Growth Content Marketer. Please email me at <mailto:drobbins@roku.com|drobbins@roku.com> if you're interested! Here's the job description: <https:\/\/www.roku.com\/jobs\/position\/2189702\/growth-content-marketer?dept=Marketing>",
+        "user": "U01487BE5K7",
+        "ts": "1590506785.220300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "67b7c981ffd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-26\/1146004234178_67b7c981ffd721a97193_72.jpg",
+            "first_name": "Dan",
+            "real_name": "Dan Robbins",
+            "display_name": "Dan Robbins",
+            "team": "TJE58GTJL",
+            "name": "drobbins",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Roku's ad business is hiring a full time Growth Content Marketer. Please email me at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:drobbins@roku.com",
+                                "text": "drobbins@roku.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you're interested! Here's the job description: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.roku.com\/jobs\/position\/2189702\/growth-content-marketer?dept=Marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590506785.220300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1590513535.221000",
+        "reply_users": [
+            "UJG12DM1V",
+            "U01487BE5K7"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1590506827.220400"
+            },
+            {
+                "user": "U01487BE5K7",
+                "ts": "1590513511.220800"
+            },
+            {
+                "user": "U01487BE5K7",
+                "ts": "1590513535.221000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "115f988e-a70c-460a-94dd-da145a98228d",
+        "type": "message",
+        "text": "Hey Dan, please avoid using @ mentions, they create a lot of noise in a Slack channel :pray:",
+        "user": "UJG12DM1V",
+        "ts": "1590506827.220400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fsdi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Dan, please avoid using @ mentions, they create a lot of noise in a Slack channel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590506785.220300",
+        "parent_user_id": "U01487BE5K7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULJBEFSJJ",
+                    "U011QQDDSJV",
+                    "UKEB29JGH"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3629107b-58bc-4c3c-b120-402c14a9132c",
+        "type": "message",
+        "text": "<@UJG12DM1V> thanks for the heads up! noted going forward",
+        "user": "U01487BE5K7",
+        "ts": "1590513511.220800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "67b7c981ffd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-26\/1146004234178_67b7c981ffd721a97193_72.jpg",
+            "first_name": "Dan",
+            "real_name": "Dan Robbins",
+            "display_name": "Dan Robbins",
+            "team": "TJE58GTJL",
+            "name": "drobbins",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for the heads up! noted going forward"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590506785.220300",
+        "parent_user_id": "U01487BE5K7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG12DM1V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "265e570d-f751-400e-85ed-592e56059e04",
+        "type": "message",
+        "text": "Also, following a few questions, we are open to NY, Boston, Chicago, LA and San Jose for locations",
+        "user": "U01487BE5K7",
+        "ts": "1590513535.221000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "67b7c981ffd7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-26\/1146004234178_67b7c981ffd721a97193_72.jpg",
+            "first_name": "Dan",
+            "real_name": "Dan Robbins",
+            "display_name": "Dan Robbins",
+            "team": "TJE58GTJL",
+            "name": "drobbins",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rxa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, following a few questions, we are open to NY, Boston, Chicago, LA and San Jose for locations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590506785.220300",
+        "parent_user_id": "U01487BE5K7"
+    }
+]

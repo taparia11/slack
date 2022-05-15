@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "a94c9fdb-c930-4f1b-a81f-5535d02f25c1",
+        "type": "message",
+        "text": "Anyone have any good MOOCs or other kinds of guides on writing for web?",
+        "user": "U0113AV4895",
+        "ts": "1650654032.431139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "abf6dd3a714a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1107778466019_abf6dd3a714ac6e86603_72.jpg",
+            "first_name": "Jessie",
+            "real_name": "Jessie Wood",
+            "display_name": "Jessie",
+            "team": "TJE58GTJL",
+            "name": "jessiewould",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ssOL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone have any good MOOCs or other kinds of guides on writing for web?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650654032.431139",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1651249012.107339",
+        "reply_users": [
+            "U012GHRAHDK",
+            "U03C0JYM4LV"
+        ],
+        "replies": [
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1650681507.652669"
+            },
+            {
+                "user": "U03C0JYM4LV",
+                "ts": "1651249012.107339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e5df3061-5aef-41ae-a0c6-2551e7f40cbd",
+        "type": "message",
+        "text": "This one's great: <https:\/\/www.julian.com\/guide\/write\/intro|https:\/\/www.julian.com\/guide\/write\/intro>",
+        "user": "U012GHRAHDK",
+        "ts": "1650681507.652669",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.julian.com\/guide\/write\/intro",
+                "image_url": "https:\/\/uploads-ssl.webflow.com\/54a5a40be53a05f34703dd18\/5d3612c1918b28e348b1b374_writing%20opengraph.jpg",
+                "image_width": 458,
+                "image_height": 250,
+                "image_bytes": 162815,
+                "id": 1,
+                "original_url": "https:\/\/www.julian.com\/guide\/write\/intro",
+                "fallback": "The Writing Well Handbook",
+                "text": "Learn how to write well. Topics include figuring out what to write about, how to write an introduction, the writing process, writing style, and copyediting.",
+                "title": "The Writing Well Handbook",
+                "title_link": "https:\/\/www.julian.com\/guide\/write\/intro",
+                "service_name": "julian.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1BiP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This one's great: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.julian.com\/guide\/write\/intro",
+                                "text": "https:\/\/www.julian.com\/guide\/write\/intro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650654032.431139",
+        "parent_user_id": "U0113AV4895",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02KR8D3EMC",
+                    "U03C8PWL6PQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

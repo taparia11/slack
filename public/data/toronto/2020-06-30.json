@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593554512.000200",
+        "user": "U016BDEQ40J",
+        "text": "<@U016BDEQ40J> has joined the channel"
+    },
+    {
+        "client_msg_id": "73ccf85b-04a8-4554-b98f-4ae84637583a",
+        "type": "message",
+        "text": "hi everyone, nice to meet you! I'm out in Mississauga so technically not Toronto but hey same general area :smile: I'm a freelance writer focusing on content for B2B and SaaS",
+        "user": "U016BDEQ40J",
+        "ts": "1593554650.001000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2h+\/h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi everyone, nice to meet you! I'm out in Mississauga so technically not Toronto but hey same general area "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm a freelance writer focusing on content for B2B and SaaS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

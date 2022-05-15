@@ -1,0 +1,917 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1648032659.746129",
+        "thread_ts": "1648032659.746129",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1648051811.865949",
+        "reply_users": [
+            "U02F1GK6U6B",
+            "UJG9WTEKG",
+            "U02TK8ZEA4B"
+        ],
+        "replies": [
+            {
+                "user": "U02F1GK6U6B",
+                "ts": "1648033692.343019"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1648050375.517529"
+            },
+            {
+                "user": "U02TK8ZEA4B",
+                "ts": "1648051811.865949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1648051811.865949"
+    },
+    {
+        "client_msg_id": "4271e168-8e3f-4a86-9553-d6973b3e003a",
+        "type": "message",
+        "text": "Hi Chuks, you should move this to the Collab channel. This channel is for freelance related things like jobs and stuff",
+        "user": "U02F1GK6U6B",
+        "ts": "1648033692.343019",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b77d6f7d6c82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/3004677185921_b77d6f7d6c82fd929faa_72.jpg",
+            "first_name": "Nneka",
+            "real_name": "Nneka Otika",
+            "display_name": "Nneka Otika",
+            "team": "TJE58GTJL",
+            "name": "nnekaotika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Chuks, you should move this to the Collab channel. This channel is for freelance related things like jobs and stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648032659.746129",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "205C6B15-41A1-4CC8-941E-E0CDF23B9CAB",
+        "type": "message",
+        "text": "(This position has been filled! Thank you so much for all the applications!) Hello everyone! I'm taking over the content department at my new job and looking for some trustworthy freelancers that I can rely on for ongoing projects. There will be times that I may need a subject expert, but for this project, I'm looking for some generalist writers who can write about all sorts of B2B topics from roofing to window cleaning and even online piano lessons! So if you are flexible with the topics and want to build a steady flow of content to add to your freelance portfolio- please shoot me an email at <mailto:spilledcoffeecontent@gmail.com|spilledcoffeecontent@gmail.com> with some samples and your current rate! I'm also a freelancer myself and I've learned some of my content ways from the best (<@U011QQDDSJV>) so I'm hoping to build out a great team with excellent writers!",
+        "user": "U02CVNB3X1T",
+        "ts": "1648042614.355009",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a98cd79fc67b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-28\/2891088304196_a98cd79fc67b29986082_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Simpson",
+            "display_name": "Julie Simpson",
+            "team": "TJE58GTJL",
+            "name": "jujuklu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02CVNB3X1T",
+            "ts": "1648223423.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/lFV9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(This position has been filled! Thank you so much for all the applications!) Hello everyone! I'm taking over the content department at my new job and looking for some trustworthy freelancers that I can rely on for ongoing projects. There will be times that I may need a subject expert, but for this project, I'm looking for some generalist writers who can write about all sorts of B2B topics from roofing to window cleaning and even online piano lessons! So if you are flexible with the topics and want to build a steady flow of content to add to your freelance portfolio- please shoot me an email at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:spilledcoffeecontent@gmail.com",
+                                "text": "spilledcoffeecontent@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with some samples and your current rate! I'm also a freelancer myself and I've learned some of my content ways from the best ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011QQDDSJV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") so I'm hoping to build out a great team with excellent writers!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648042614.355009",
+        "reply_count": 9,
+        "reply_users_count": 9,
+        "latest_reply": "1648223545.359669",
+        "reply_users": [
+            "U023G1P70KE",
+            "U02S478FWF2",
+            "U011QQDDSJV",
+            "U030KPBB2P6",
+            "U0320CENNGK",
+            "U02AR2XSN1M",
+            "U0340N9HSLT",
+            "U02RW8SM9QU",
+            "U02CVNB3X1T"
+        ],
+        "replies": [
+            {
+                "user": "U023G1P70KE",
+                "ts": "1648052751.565949"
+            },
+            {
+                "user": "U02S478FWF2",
+                "ts": "1648055456.525199"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1648058041.261019"
+            },
+            {
+                "user": "U030KPBB2P6",
+                "ts": "1648062640.639419"
+            },
+            {
+                "user": "U0320CENNGK",
+                "ts": "1648063291.036349"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1648077906.469619"
+            },
+            {
+                "user": "U0340N9HSLT",
+                "ts": "1648153575.190859"
+            },
+            {
+                "user": "U02RW8SM9QU",
+                "ts": "1648179777.234299"
+            },
+            {
+                "user": "U02CVNB3X1T",
+                "ts": "1648223545.359669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a0c1da8b-c548-40dd-b172-5e41a6242d89",
+        "type": "message",
+        "text": "Hey Whitney, I have some experience in the area. If you're still looking for someone, feel free to message me!",
+        "user": "U01PLSB4EKD",
+        "ts": "1648046417.954849",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "97cfc59a6e63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-22\/1992392805602_97cfc59a6e63704db412_72.jpg",
+            "first_name": "Meryl",
+            "real_name": "Meryl D'Sa-Wilson",
+            "display_name": "Meryl DW",
+            "team": "TJE58GTJL",
+            "name": "meryldsawrites",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8in",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Whitney, I have some experience in the area. If you're still looking for someone, feel free to message me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647462539.176139",
+        "parent_user_id": "UN227ML2H"
+    },
+    {
+        "client_msg_id": "172cae04-aa9d-44ae-a61f-55bc97c9dae1",
+        "type": "message",
+        "text": "yep agreed <@U02TK8ZEA4B>. i'll remove from this channel",
+        "user": "UJG9WTEKG",
+        "ts": "1648050375.517529",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mi4C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep agreed "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TK8ZEA4B"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". i'll remove from this channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648032659.746129",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "7546a959-dc25-439a-b4ec-d84126e950a0",
+        "type": "message",
+        "text": "Hi all! I am looking to hire a seasoned Content Marketing Manager for a 6 month contract to take lead on our content strategy, editorial, and content marketing efforts. We're looking for someone who has at least 8 years of content marketing and writing experience, preferably in the B2B technology\/fintech\/finance space (blockchain and crypto experience is a plus). If you have experience owning and driving content strategy, taking a full-funnel approach to content marketing, can write hard-hitting copy and help lead, manage and mentor a team, I would love to hear from you! Please email your resume and writing samples to <mailto:kbrowning@ripple.com|kbrowning@ripple.com> with \"Sr. Content Marketing Manager - Contract\" in the subject line. This is an awesome opportunity to work for one of the leading blockchain and crypto companies in the industry, with an amazing culture and a super smart, talented group of people. Thanks so much!",
+        "user": "U038DA137EV",
+        "ts": "1648050786.737499",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bf13bc2fb5c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3296513810160_bf13bc2fb5c8eea6ce84_72.jpg",
+            "first_name": "Kelly",
+            "real_name": "Kelly Browning",
+            "display_name": "kellyb",
+            "team": "TJE58GTJL",
+            "name": "kbrowning",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0365T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! I am looking to hire a seasoned Content Marketing Manager for a 6 month contract to take lead on our content strategy, editorial, and content marketing efforts. We're looking for someone who has at least 8 years of content marketing and writing experience, preferably in the B2B technology\/fintech\/finance space (blockchain and crypto experience is a plus). If you have experience owning and driving content strategy, taking a full-funnel approach to content marketing, can write hard-hitting copy and help lead, manage and mentor a team, I would love to hear from you! Please email your resume and writing samples to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kbrowning@ripple.com",
+                                "text": "kbrowning@ripple.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with \"Sr. Content Marketing Manager - Contract\" in the subject line. This is an awesome opportunity to work for one of the leading blockchain and crypto companies in the industry, with an amazing culture and a super smart, talented group of people. Thanks so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648050786.737499",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1648179849.634159",
+        "reply_users": [
+            "U02CVNB3X1T",
+            "U038DA137EV",
+            "U032FH3TB0C",
+            "U02RW8SM9QU"
+        ],
+        "replies": [
+            {
+                "user": "U02CVNB3X1T",
+                "ts": "1648055119.854659"
+            },
+            {
+                "user": "U038DA137EV",
+                "ts": "1648062631.006639"
+            },
+            {
+                "user": "U032FH3TB0C",
+                "ts": "1648114219.952359"
+            },
+            {
+                "user": "U02RW8SM9QU",
+                "ts": "1648179849.634159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U038YTV37K4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51d7bfa4-405a-46f9-825b-d631e6209a8c",
+        "type": "message",
+        "text": "<@UJG9WTEKG> noted",
+        "user": "U02TK8ZEA4B",
+        "ts": "1648051811.865949",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4fe204704dcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-18\/3286478690368_4fe204704dcb34113fef_72.png",
+            "first_name": "Chuks",
+            "real_name": "Chuks Chukwuemeka",
+            "display_name": "Chuks",
+            "team": "TJE58GTJL",
+            "name": "chukwuemekachukwudi72",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IF\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " noted"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648032659.746129",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "2a15c015-a179-4705-a37e-f4dc0c6d9d1b",
+        "type": "message",
+        "text": "Messaging you!",
+        "user": "U023G1P70KE",
+        "ts": "1648052751.565949",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b252d763715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-27\/2105155640806_b252d763715fd9976bdc_72.jpg",
+            "first_name": "Emily",
+            "real_name": "Emily Warren",
+            "display_name": "Emily Warren",
+            "team": "TJE58GTJL",
+            "name": "emilyhonora",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n6OXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Messaging you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648042614.355009",
+        "parent_user_id": "U02CVNB3X1T"
+    },
+    {
+        "client_msg_id": "1142d619-9e98-4553-ac64-a75500c6e762",
+        "type": "message",
+        "text": "<@U038DA137EV> I love this so much! If only! I'll just give my XRP an extra hug today!",
+        "user": "U02CVNB3X1T",
+        "ts": "1648055119.854659",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a98cd79fc67b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-28\/2891088304196_a98cd79fc67b29986082_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Simpson",
+            "display_name": "Julie Simpson",
+            "team": "TJE58GTJL",
+            "name": "jujuklu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02CVNB3X1T",
+            "ts": "1648055183.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+R5T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U038DA137EV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I love this so much! If only! I'll just give my XRP an extra hug today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648050786.737499",
+        "parent_user_id": "U038DA137EV",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U038DA137EV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2A1048A9-E38D-40C8-8EA2-97F60538F0EB",
+        "type": "message",
+        "text": "Hello <@U02CVNB3X1T>. Email sent from <mailto:writing@notjustava.tech|writing@notjustava.tech>. This sounds like a great opportunity for me! Hope to hear from you soon.",
+        "user": "U02S478FWF2",
+        "ts": "1648055456.525199",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "287d4b9ed1f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2888299387728_287d4b9ed1f9cafd4926_72.png",
+            "first_name": "Antonella",
+            "real_name": "Antonella Fleitas",
+            "display_name": "Antonella Fleitas",
+            "team": "TJE58GTJL",
+            "name": "writing",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5qo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02CVNB3X1T"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Email sent from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:writing@notjustava.tech",
+                                "text": "writing@notjustava.tech"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". This sounds like a great opportunity for me! Hope to hear from you soon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648042614.355009",
+        "parent_user_id": "U02CVNB3X1T"
+    },
+    {
+        "client_msg_id": "696f2301-988f-4f67-9ac3-358d599a4ab8",
+        "type": "message",
+        "text": "Daw shucks. You’ll do great. There’s no cookie cutter method — just gotta start somewhere and iterate as you go. Godspeed!",
+        "user": "U011QQDDSJV",
+        "ts": "1648058041.261019",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YNt9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Daw shucks. You’ll do great. There’s no cookie cutter method — just gotta start somewhere and iterate as you go. Godspeed!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648042614.355009",
+        "parent_user_id": "U02CVNB3X1T"
+    },
+    {
+        "client_msg_id": "980350e8-e01a-4272-8b9f-a0d08b01c655",
+        "type": "message",
+        "text": "<@U02CVNB3X1T> let me know if you know of anyone who might be interested, referrals are very much appreciated!",
+        "user": "U038DA137EV",
+        "ts": "1648062631.006639",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bf13bc2fb5c8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-21\/3296513810160_bf13bc2fb5c8eea6ce84_72.jpg",
+            "first_name": "Kelly",
+            "real_name": "Kelly Browning",
+            "display_name": "kellyb",
+            "team": "TJE58GTJL",
+            "name": "kbrowning",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CVNB3X1T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let me know if you know of anyone who might be interested, referrals are very much appreciated!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648050786.737499",
+        "parent_user_id": "U038DA137EV"
+    },
+    {
+        "client_msg_id": "a4ffb3ad-b781-42a9-8884-be1b5a9680b7",
+        "type": "message",
+        "text": "I also sent you an email!",
+        "user": "U030KPBB2P6",
+        "ts": "1648062640.639419",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gabdabd65ef6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/abdabd65ef6cc1f6ee2100a790b5b1da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Julianne",
+            "real_name": "Julianne",
+            "display_name": "Julianne",
+            "team": "TJE58GTJL",
+            "name": "julianneaguilar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4eNp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also sent you an email!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648042614.355009",
+        "parent_user_id": "U02CVNB3X1T"
+    },
+    {
+        "client_msg_id": "895e7778-4283-418c-a1dd-e57c4b0d8371",
+        "type": "message",
+        "text": "Amazing! Thanks for sharing--email coming your way. :slightly_smiling_face:",
+        "user": "U0320CENNGK",
+        "ts": "1648063291.036349",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5bece02b7e44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3085044228433_5bece02b7e44f02efd5e_72.jpg",
+            "first_name": "Odelia",
+            "real_name": "Odelia",
+            "display_name": "Odelia",
+            "team": "TJE58GTJL",
+            "name": "girlsetfree",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+R+H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing! Thanks for sharing--email coming your way. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648042614.355009",
+        "parent_user_id": "U02CVNB3X1T"
+    },
+    {
+        "client_msg_id": "af613878-2d9a-461d-b2eb-426fc9b94bab",
+        "type": "message",
+        "text": "Hey, yes try <http:\/\/firstbase.io|firstbase.io>",
+        "user": "U02NADUBXSR",
+        "ts": "1648063709.611089",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6cf7bd227206",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-30\/2892635989605_6cf7bd227206c2c5ca5c_72.jpg",
+            "first_name": "Nonopa",
+            "real_name": "Nonopa Vanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "nonopa28",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "paAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, yes try "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/firstbase.io",
+                                "text": "firstbase.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647496384.960159",
+        "parent_user_id": "U035PRLG18B"
+    },
+    {
+        "client_msg_id": "8f20e86f-cb39-4716-b37b-1ee4a52a7761",
+        "type": "message",
+        "text": "Oh awesome Julie, window cleaning and roofing is totally my jam :sweat_smile: I'll email you",
+        "user": "U02AR2XSN1M",
+        "ts": "1648077906.469619",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSdJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh awesome Julie, window cleaning and roofing is totally my jam "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'll email you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648042614.355009",
+        "parent_user_id": "U02CVNB3X1T",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02CVNB3X1T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ABCF7C01-C939-4619-9DBE-5EF8D6C72B08",
+        "type": "message",
+        "text": "<@U02J57QTZ5Z>, thanks for sharing. I messaged you!",
+        "user": "U018YBP6T8V",
+        "ts": "1648082475.818139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g76e66172553",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/76e6617255326381458873015c484d76.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Mary Tindall",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mary599",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "30NR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02J57QTZ5Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", thanks for sharing. I messaged you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647632187.445559",
+        "parent_user_id": "U02J57QTZ5Z"
+    },
+    {
+        "client_msg_id": "2C452177-9D0F-4006-B1CF-E7B58AF0381D",
+        "type": "message",
+        "text": "Hi! I’ve written full website copy for two separate therapists in the last year. I’d love to chat about this opportunity.",
+        "user": "U018YBP6T8V",
+        "ts": "1648082668.186999",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g76e66172553",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/76e6617255326381458873015c484d76.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Mary Tindall",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mary599",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! I’ve written full website copy for two separate therapists in the last year. I’d love to chat about this opportunity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647462539.176139",
+        "parent_user_id": "UN227ML2H"
+    }
+]

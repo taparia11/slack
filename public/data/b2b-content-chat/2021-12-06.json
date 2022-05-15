@@ -1,0 +1,329 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1638804530.268700",
+        "thread_ts": "1638804530.268700",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1638864869.276300",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02NNBMKWTZ"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1638818304.269200"
+            },
+            {
+                "user": "U02NNBMKWTZ",
+                "ts": "1638864869.276300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1638864869.276300"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1638804531.268800",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02N3TMJQ2U",
+                    "U02NXETNKUJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b099078-23df-4ae3-9999-f491a09866cb",
+        "type": "message",
+        "text": "<@U02NNBMKWTZ> can you move this to <#C012AUSC85C|promotion>?",
+        "user": "UJG9WTEKG",
+        "ts": "1638818304.269200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SvzX8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02NNBMKWTZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638804530.268700",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "193d9d61-49ac-463b-9a52-2095c18c87af",
+        "type": "message",
+        "text": "I have! What are you looking to know?",
+        "user": "U027ESP05FX",
+        "ts": "1638819388.271600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "783af8eb898d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-08\/2262138930900_783af8eb898d076d03cb_72.jpg",
+            "first_name": "",
+            "real_name": "Marissa Bialick",
+            "display_name": "Marissa Bialick",
+            "team": "TJE58GTJL",
+            "name": "mbialick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U027ESP05FX",
+            "ts": "1638819403.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3zG3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have! What are you looking to know?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638580411.267500",
+        "parent_user_id": "U02DWSEDP4K"
+    },
+    {
+        "client_msg_id": "3d53ff68-ec6c-4481-8c11-c6a3d1d28409",
+        "type": "message",
+        "text": "<@U02Q5J6H7NC> a good thread for you to check out!",
+        "user": "U02JJ9Q11LL",
+        "ts": "1638820747.271900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g43a8208a17d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43a8208a17d8c1a3840a6b73f08448ab.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "HC",
+            "real_name": "HC",
+            "display_name": "HC",
+            "team": "TJE58GTJL",
+            "name": "helencoupe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wDhb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02Q5J6H7NC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a good thread for you to check out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637320685.180500",
+        "parent_user_id": "U02ANC57AAY",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02Q5J6H7NC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41ffd048-a12e-4b68-bd95-10993fb84027",
+        "type": "message",
+        "text": "Anyone know any great examples of expert contributor programmes for B2B blogs? Basically, blogs that have figured out a repeatable process for soliciting and editing content from subject matter experts in their community or customer base.",
+        "user": "UUKNRAD4Z",
+        "ts": "1638838091.275200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a1b61d04207",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/972261198097_7a1b61d0420706ec2439_72.jpg",
+            "first_name": "MattM",
+            "real_name": "MattM",
+            "display_name": "MattM",
+            "team": "TJE58GTJL",
+            "name": "mcgma709",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cd5Sf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone know any great examples of expert contributor programmes for B2B blogs? Basically, blogs that have figured out a repeatable process for soliciting and editing content from subject matter experts in their community or customer base."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638838091.275200",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1638988236.316800",
+        "reply_users": [
+            "U016BDEQ40J",
+            "U027RNU0A69",
+            "U02PM12M15K",
+            "U02BTBBH887",
+            "UUKNRAD4Z",
+            "U029CTQ5X6Y"
+        ],
+        "replies": [
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1638838600.276000"
+            },
+            {
+                "user": "U027RNU0A69",
+                "ts": "1638883263.284200"
+            },
+            {
+                "user": "U02PM12M15K",
+                "ts": "1638886873.292900"
+            },
+            {
+                "user": "U02BTBBH887",
+                "ts": "1638897824.301300"
+            },
+            {
+                "user": "UUKNRAD4Z",
+                "ts": "1638902119.303900"
+            },
+            {
+                "user": "U029CTQ5X6Y",
+                "ts": "1638978494.313600"
+            },
+            {
+                "user": "UUKNRAD4Z",
+                "ts": "1638988236.316800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "545fad01-ef66-459a-9731-dabfcfd8d7b0",
+        "type": "message",
+        "text": "marketingprofs has been accepting submissions for years. i would say they’ve got their procedures sorted out",
+        "user": "U016BDEQ40J",
+        "ts": "1638838600.276000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "marketingprofs has been accepting submissions for years. i would say they’ve got their procedures sorted out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638838091.275200",
+        "parent_user_id": "UUKNRAD4Z",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUKNRAD4Z"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "client_msg_id": "e2baad78-b5b0-4a05-ab86-fa901446c489",
+        "type": "message",
+        "text": "Hi all - anyone know why I'd be getting strong referral traffic from facebook when I don't have a FB presence at all? Analytics is showing half my social traffic coming from there to my website, but I don't have a FB page and don't mention anything about my business on my personal profile :thinking_face:",
+        "user": "U02AR2XSN1M",
+        "ts": "1635114014.050100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uLnI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all - anyone know why I'd be getting strong referral traffic from facebook when I don't have a FB presence at all? Analytics is showing half my social traffic coming from there to my website, but I don't have a FB page and don't mention anything about my business on my personal profile "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635114014.050100",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1635210087.052700",
+        "reply_users": [
+            "U02C37J4X5K",
+            "U02AR2XSN1M",
+            "U029CTQ5X6Y",
+            "U01KH3P18RZ"
+        ],
+        "replies": [
+            {
+                "user": "U02C37J4X5K",
+                "ts": "1635128697.050200"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1635138084.050400"
+            },
+            {
+                "user": "U029CTQ5X6Y",
+                "ts": "1635158318.051400"
+            },
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1635208106.052300"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1635208325.052500"
+            },
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1635210087.052700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "745320b5-fb1e-4a8e-9b85-862ecbf6d9cf",
+        "type": "message",
+        "text": "Could it be an external party linking to your website from Facebook? Maybe one of those directory pages listing top service providers etc. (one of my clients had a similar problem and they found that there was an API directory page which listed a profile of this client with a link back) If I'm not wrong it doesn't have to be from your profile - if it comes from Facebook, the source will get tracked as Facebook.",
+        "user": "U02C37J4X5K",
+        "ts": "1635128697.050200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2a0e0926cbe6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-20\/2521416259889_2a0e0926cbe6892f403b_72.jpg",
+            "first_name": "Suraj",
+            "real_name": "Suraj Karakulath",
+            "display_name": "Suraj Karakulath",
+            "team": "TJE58GTJL",
+            "name": "karakulath.suraj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could it be an external party linking to your website from Facebook? Maybe one of those directory pages listing top service providers etc. (one of my clients had a similar problem and they found that there was an API directory page which listed a profile of this client with a link back) If I'm not wrong it doesn't have to be from your profile - if it comes from Facebook, the source will get tracked as Facebook."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635114014.050100",
+        "parent_user_id": "U02AR2XSN1M",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUY2AL9PG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b96de7b7-cbf2-4d2d-a3de-234c1f785da6",
+        "type": "message",
+        "text": "Thanks Suraj I'll check that out :slightly_smiling_face:",
+        "user": "U02AR2XSN1M",
+        "ts": "1635138084.050400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5n4b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Suraj I'll check that out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635114014.050100",
+        "parent_user_id": "U02AR2XSN1M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02C37J4X5K",
+                    "UUY2AL9PG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

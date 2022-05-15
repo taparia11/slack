@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "fa4d5e54-c1ef-4510-8ed8-108b2a0c9f16",
+        "type": "message",
+        "text": "Hey <@UNGMG4005>! Is this every Friday? Or did I miss it already?",
+        "user": "U01QL98TMLM",
+        "ts": "1620927805.040900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35cd816c05e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-04\/2041557458481_35cd816c05e95c9dc136_72.jpg",
+            "first_name": "",
+            "real_name": "Angela Ferrante",
+            "display_name": "Angela Ferrante",
+            "team": "TJE58GTJL",
+            "name": "angela",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UNGMG4005"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Is this every Friday? Or did I miss it already?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619803061.032200",
+        "parent_user_id": "UNGMG4005"
+    },
+    {
+        "client_msg_id": "68bb37e0-a2b6-4998-ac17-9e909b1bcd9f",
+        "type": "message",
+        "text": "<@U01QL98TMLM> we haven't done it every week. But I'd like to do it monthly, at least. Sounds like there's enough interest to keep it going at that frequency, if not more often.",
+        "user": "UNGMG4005",
+        "ts": "1620932977.041200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "314714115aef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-20\/881855828276_314714115aefdf03320c_72.jpg",
+            "first_name": "Alfredo",
+            "real_name": "Alfredo Deambrosi",
+            "display_name": "Alfredo Deambrosi",
+            "team": "TJE58GTJL",
+            "name": "alfredo.deambrosi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WpOLz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01QL98TMLM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we haven't done it every week. But I'd like to do it monthly, at least. Sounds like there's enough interest to keep it going at that frequency, if not more often."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619803061.032200",
+        "parent_user_id": "UNGMG4005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01QL98TMLM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

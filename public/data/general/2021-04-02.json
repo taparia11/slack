@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "ed0e6105-bc00-4059-9a2a-ec06c72acca2",
+        "type": "message",
+        "text": "how'd your first session go <@U01PAU5QV32>?",
+        "user": "U011UJX75PE",
+        "ts": "1617368004.125400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zoY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how'd your first session go "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PAU5QV32"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617196830.116400",
+        "parent_user_id": "U01CGUT2HH6"
+    }
+]

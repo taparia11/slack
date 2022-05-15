@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "36c3bf6f-a029-4b53-bd2e-ec782f1f6f09",
+        "type": "message",
+        "text": "This is actually quite good!\n\nI am sad that you only got 3 likes on your post (one of which is mine).",
+        "user": "U02GLJM8MST",
+        "ts": "1635095598.033100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbb2e32aabd3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb2e32aabd3787f0def01233ddfb6434.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Iliya",
+            "real_name": "Iliya Valchanov",
+            "display_name": "Iliya Valchanov",
+            "team": "TJE58GTJL",
+            "name": "iliya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3rh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is actually quite good!\n\nI am sad that you only got 3 likes on your post (one of which is mine)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634922047.030300",
+        "parent_user_id": "UUJBMNRNF"
+    },
+    {
+        "client_msg_id": "F25DA012-727C-439F-A788-758839E24607",
+        "type": "message",
+        "text": "Thank you, <@U02GLJM8MST>! Appreciate you \"liking\" it. All good! Sometimes stuff's a hit, sometimes it's not. Just gotta keep trying!:smile:",
+        "user": "UUJBMNRNF",
+        "ts": "1635132869.035300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iscp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GLJM8MST"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Appreciate you \"liking\" it. All good! Sometimes stuff's a hit, sometimes it's not. Just gotta keep trying!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634922047.030300",
+        "parent_user_id": "UUJBMNRNF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02GLJM8MST"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

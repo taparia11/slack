@@ -1,0 +1,219 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1600240871.019500",
+        "thread_ts": "1600240871.019500",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1600649619.066200",
+        "reply_users": [
+            "U019P0ADPCH",
+            "U017XD7H4P7",
+            "UJG9WTEKG",
+            "U018A6AEMPF",
+            "U017PJ06RAA",
+            "U016CGRMRAR"
+        ],
+        "replies": [
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1600245849.019800"
+            },
+            {
+                "user": "U017XD7H4P7",
+                "ts": "1600290176.020400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1600296273.020600"
+            },
+            {
+                "user": "U018A6AEMPF",
+                "ts": "1600297064.020800"
+            },
+            {
+                "user": "U017PJ06RAA",
+                "ts": "1600448563.012300"
+            },
+            {
+                "user": "U016CGRMRAR",
+                "ts": "1600649619.066200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1600649619.066200"
+    },
+    {
+        "client_msg_id": "f6a3ec24-1c7a-49d1-b4e2-405db0b7f8a2",
+        "type": "message",
+        "text": "I am mostly looking for tips on holding presentations like for events, webinars, or general team meetings.",
+        "user": "U019P0ADPCH",
+        "ts": "1600245849.019800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Coek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am mostly looking for tips on holding presentations like for events, webinars, or general team meetings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600240871.019500",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "e299c37a-8439-4e44-933f-b8ae0bcd24b3",
+        "type": "message",
+        "text": "<@U019P0ADPCH> I'd be happy to help.  I'm CEO of a company that has been remote-only from its founding, 3 and a half years ago.  Aside from 1-2 staff all hands per year onsite, all meetings and presentations are remote ones.",
+        "user": "U017XD7H4P7",
+        "ts": "1600290176.020400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ab77023918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1256516765207_f9ab77023918e4c2b919_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Dietrich",
+            "display_name": "Erik Dietrich",
+            "team": "TJE58GTJL",
+            "name": "erik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U019P0ADPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'd be happy to help.  I'm CEO of a company that has been remote-only from its founding, 3 and a half years ago.  Aside from 1-2 staff all hands per year onsite, all meetings and presentations are remote ones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600240871.019500",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "69787363-9ea9-4c70-9507-e98895beee45",
+        "type": "message",
+        "text": "happy to chip too <@U019P0ADPCH>",
+        "user": "UJG9WTEKG",
+        "ts": "1600296273.020600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wu1ww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "happy to chip too "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U019P0ADPCH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600240871.019500",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "1af48fa6-87f1-4c63-a08c-bab70e878bcc",
+        "type": "message",
+        "text": "also happy to contribute",
+        "user": "U018A6AEMPF",
+        "ts": "1600297064.020800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g519e263a343",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/519e263a3438833c8c1e11c6077ce315.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Divya Raghavan",
+            "display_name": "Divya Raghavan",
+            "team": "TJE58GTJL",
+            "name": "divyaraghavan89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ag=wC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also happy to contribute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600240871.019500",
+        "parent_user_id": "U019P0ADPCH"
+    }
+]

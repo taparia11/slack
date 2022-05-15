@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "aa826be4-02e5-4dbc-a793-f4bea353d077",
+        "type": "message",
+        "text": "Your cat is a gardener :joy::joy:. Spider plants are safe for cats and acts just like catnip. Your cat may enjoy nibbling on spider plants or cat grass if you want to get them to leave your other plants alone",
+        "user": "U02F1GK6U6B",
+        "ts": "1648978018.732609",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b77d6f7d6c82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/3004677185921_b77d6f7d6c82fd929faa_72.jpg",
+            "first_name": "Nneka",
+            "real_name": "Nneka Otika",
+            "display_name": "Nneka Otika",
+            "team": "TJE58GTJL",
+            "name": "nnekaotika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TKy9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your cat is a gardener "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Spider plants are safe for cats and acts just like catnip. Your cat may enjoy nibbling on spider plants or cat grass if you want to get them to leave your other plants alone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648963038.406809",
+        "parent_user_id": "U02AR2XSN1M"
+    },
+    {
+        "client_msg_id": "d2d1284f-16ee-425f-853d-7d1806dfa121",
+        "type": "message",
+        "text": "Thanks <@U02F1GK6U6B> - you're right, I probably need a cat grass farm in my office lol",
+        "user": "U02AR2XSN1M",
+        "ts": "1649045631.848309",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=d9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02F1GK6U6B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - you're right, I probably need a cat grass farm in my office lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648963038.406809",
+        "parent_user_id": "U02AR2XSN1M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02F1GK6U6B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

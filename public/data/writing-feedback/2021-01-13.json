@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "03025cef-14eb-4f29-82d3-95e28de55d30",
+        "type": "message",
+        "text": "Sure, wouldn't mind. DM me",
+        "user": "U01B8FNUWRK",
+        "ts": "1610526651.140400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a3ab825f6110",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-24\/1386090918259_a3ab825f611075cc2d61_72.jpg",
+            "first_name": "Shadrack",
+            "real_name": "Shadrack",
+            "display_name": "Shadrack",
+            "team": "TJE58GTJL",
+            "name": "shadrack552",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bl2+=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, wouldn't mind. DM me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610512576.140000",
+        "parent_user_id": "U01E92Z2MGE"
+    },
+    {
+        "client_msg_id": "d2dc5041-2d8f-48f4-9b64-41c477117b8c",
+        "type": "message",
+        "text": "Awesome! Thanks, guys :slightly_smiling_face:",
+        "user": "U01E92Z2MGE",
+        "ts": "1610563043.141300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "52f59d4795bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-10\/1492176963811_52f59d4795bbf318a282_72.jpg",
+            "first_name": "",
+            "real_name": "Corinne Keer",
+            "display_name": "Corinne Keer",
+            "team": "TJE58GTJL",
+            "name": "corinnekeer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! Thanks, guys "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610512576.140000",
+        "parent_user_id": "U01E92Z2MGE"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1610563044.141500",
+        "thread_ts": "1610512576.140000",
+        "parent_user_id": "U01E92Z2MGE",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01JGE053M2",
+                    "U01E92Z2MGE",
+                    "UJG46SBV3",
+                    "U01N8GJCC4E",
+                    "UUKNU2GHX"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

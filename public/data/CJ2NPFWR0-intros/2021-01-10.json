@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "B6DCE681-1EE8-4B46-9B85-2C22BF8DF6E7",
+        "type": "message",
+        "text": ":raised_hands::skin-tone-2::raised_hands::skin-tone-2:",
+        "user": "U01JRKC55MW",
+        "ts": "1610304446.349100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "872e7d82d022",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-06\/1608467054070_872e7d82d0229fd587c2_72.png",
+            "first_name": "Rapha",
+            "real_name": "Rapha Allstadt",
+            "display_name": "Raphael Allstadt",
+            "team": "TJE58GTJL",
+            "name": "raphael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oi8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609925081.286500",
+        "parent_user_id": "U01JRKC55MW"
+    },
+    {
+        "client_msg_id": "dc5b3222-328a-4e44-a0c0-80e9b95ca6fe",
+        "type": "message",
+        "text": "Hey <@U01J8CFTV51>! I _love_ Kristin Hannah’s writing. Did you ever read “The Great Alone”?",
+        "user": "U01JRC8JPTJ",
+        "ts": "1610330818.349500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "18f76283a351",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-26\/3149009818599_18f76283a35162e3675b_72.jpg",
+            "first_name": "Jessica",
+            "real_name": "Jessica Lau",
+            "display_name": "Jessica Lau",
+            "team": "TJE58GTJL",
+            "name": "jessica.lau21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hTBI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01J8CFTV51"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "love",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Kristin Hannah’s writing. Did you ever read “The Great Alone”?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610134117.340900",
+        "parent_user_id": "U01J8CFTV51"
+    }
+]

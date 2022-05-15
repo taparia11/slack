@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "2319615c-0552-4078-823a-c207fb263fda",
+        "type": "message",
+        "text": "hello! at code climate, we're launching an open source project. if anyone can lend me their eyeballs for 3 minutes to read a 400 word announcement, it would go a long way! everyone internally has looked at this thing 1000 times :slightly_smiling_face:",
+        "user": "UKQLFSX7H",
+        "ts": "1583272739.002500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g1f448cca221",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c51f448cca22125c1e201faac1f7db4d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "sasha",
+            "real_name": "sasha rezvina",
+            "display_name": "sasha rezvina",
+            "team": "TJE58GTJL",
+            "name": "arezvina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKQLFSX7H",
+            "ts": "1583272828.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EtHSp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello! at code climate, we're launching an open source project. if anyone can lend me their eyeballs for 3 minutes to read a 400 word announcement, it would go a long way! everyone internally has looked at this thing 1000 times "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583272739.002500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1584371953.031300",
+        "reply_users": [
+            "UJG12DM1V",
+            "UV1T488RJ",
+            "UKQLFSX7H"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1583284535.004300"
+            },
+            {
+                "user": "UV1T488RJ",
+                "ts": "1584143501.030800"
+            },
+            {
+                "user": "UKQLFSX7H",
+                "ts": "1584371953.031300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "257e548d-e22f-4a18-ac0f-b8fdce7f2e5c",
+        "type": "message",
+        "text": "i didn't want to post it here because i don't want the draft to live in slack public archives forever, but  i'll DM the draft to anyone that can help!",
+        "user": "UKQLFSX7H",
+        "ts": "1583272788.003600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g1f448cca221",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c51f448cca22125c1e201faac1f7db4d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "sasha",
+            "real_name": "sasha rezvina",
+            "display_name": "sasha rezvina",
+            "team": "TJE58GTJL",
+            "name": "arezvina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKQLFSX7H",
+            "ts": "1583272850.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rbop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i didn't want to post it here because i don't want the draft to live in slack public archives forever, but  i'll DM the draft to anyone that can help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C24C8298-4AAA-41CA-BC79-B0554D92FDBB",
+        "type": "message",
+        "text": "Happy to take a look!",
+        "user": "UJG12DM1V",
+        "ts": "1583284535.004300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583272739.002500",
+        "parent_user_id": "UKQLFSX7H"
+    }
+]

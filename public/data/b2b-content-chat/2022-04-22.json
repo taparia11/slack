@@ -1,0 +1,580 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1650619191.133989",
+        "thread_ts": "1650619191.133989",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1650648530.756249",
+        "reply_users": [
+            "U037JU3APKK",
+            "U015XHF0RE0",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "U037JU3APKK",
+                "ts": "1650641659.849119"
+            },
+            {
+                "user": "U015XHF0RE0",
+                "ts": "1650642223.258849"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1650646587.515609"
+            },
+            {
+                "user": "U015XHF0RE0",
+                "ts": "1650646695.100349"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1650647497.197209"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1650648530.756249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650648530.756249",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039WN888AH",
+                    "U02F1GK6U6B",
+                    "U037JU3APKK"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b16fff1-cc80-4689-a2d6-cade5ba9daf3",
+        "type": "message",
+        "text": "As we move forward, there will be no B2B or B2C, just H2H... Human to Human marketing.. because at the end of the day, there are real human beings making these purchasing decisions.",
+        "user": "U036DJD9BKJ",
+        "ts": "1650637338.385519",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "db261a07a2f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3201201763859_db261a07a2f0a66ad567_72.jpg",
+            "first_name": "Naveen",
+            "real_name": "Naveen Nair",
+            "display_name": "Naveen Nair",
+            "team": "TJE58GTJL",
+            "name": "naveen.nair",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5MZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As we move forward, there will be no B2B or B2C, just H2H... Human to Human marketing.. because at the end of the day, there are real human beings making these purchasing decisions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649696827.903339",
+        "parent_user_id": "U039785G5TQ"
+    },
+    {
+        "client_msg_id": "02d84f0f-2214-4797-80fa-0a71f7b352e9",
+        "type": "message",
+        "text": "Thanks for tagging me, <@U02Q5J6H7NC>. My process is pretty similar to <@U03BGN7NVT9>’s. I record and then put it into a transcription service (we use Otter) to get more easily process notes + capture quotes verbatim.\n\nI always come in having done research on the topic, though, and I sometimes offer a preliminary outline with some possible points to hit for them to review.\n\nIf I trust them enough to write something themselves, I will create a focus sheet that describes the content, our goal, and those possible points to hit. It usually needs a fair amount of editing and I will ask for clarification if needed.",
+        "user": "U0302RBS7E3",
+        "ts": "1650638841.762929",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "073a4bd9449d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-27\/3041544999120_073a4bd9449d6b2ba1a0_72.jpg",
+            "first_name": "Phoebe",
+            "real_name": "Phoebe Noce",
+            "display_name": "Phoebe Noce",
+            "team": "TJE58GTJL",
+            "name": "phoebenoce",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0302RBS7E3",
+            "ts": "1650638952.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k3PoF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for tagging me, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02Q5J6H7NC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". My process is pretty similar to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03BGN7NVT9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s. I record and then put it into a transcription service (we use Otter) to get more easily process notes + capture quotes verbatim.\n\nI always come in having done research on the topic, though, and I sometimes offer a preliminary outline with some possible points to hit for them to review.\n\nIf I trust them enough to write something themselves, I will create a focus sheet that describes the content, our goal, and those possible points to hit. It usually needs a fair amount of editing and I will ask for clarification if needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650397102.216849",
+        "parent_user_id": "U030U5Y08TW"
+    },
+    {
+        "client_msg_id": "7c3e1b97-23a4-46db-8393-7c3a2aa60daf",
+        "type": "message",
+        "text": "Voted! When do you need more detailed answers by?",
+        "user": "U037JU3APKK",
+        "ts": "1650641659.849119",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2e052c54f6f6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-15\/3247168337796_2e052c54f6f67635fee8_72.png",
+            "first_name": "Miljo",
+            "real_name": "Miljo Dragutinovic",
+            "display_name": "Miljo Dragutinovic",
+            "team": "TJE58GTJL",
+            "name": "milo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kcn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voted! When do you need more detailed answers by?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650619191.133989",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "D64DE1CB-B905-4D1E-ABD2-FDD1BCD32A8C",
+        "type": "message",
+        "text": "Woo thank you!! By the end of the next week is fine!",
+        "user": "U015XHF0RE0",
+        "ts": "1650642223.258849",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b994352b8aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-22\/1197226784578_3b994352b8aac48ece1e_72.jpg",
+            "first_name": "",
+            "real_name": "Adelina",
+            "display_name": "Adelina",
+            "team": "TJE58GTJL",
+            "name": "karpenkova.adel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JyNY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woo thank you!! By the end of the next week is fine!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650619191.133989",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "8129a037-5ff3-4840-997a-f7e45e85e23a",
+        "type": "message",
+        "text": "<#C021RFDHEMD|all-things-freelance> :raised_hands:",
+        "user": "UJG9WTEKG",
+        "ts": "1650646564.094129",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aiU2V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C021RFDHEMD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650554946.215429",
+        "parent_user_id": "U03BZLG6M8C"
+    },
+    {
+        "client_msg_id": "b33d6189-b663-42e5-bc5f-5fb575135874",
+        "type": "message",
+        "text": "<@U015XHF0RE0> do you mind moving this over to <#CKRJX5U5A|collab>?",
+        "user": "UJG9WTEKG",
+        "ts": "1650646587.515609",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U015XHF0RE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you mind moving this over to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKRJX5U5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650619191.133989",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5060C52C-B58C-425C-81AA-5A3DEB7895BF",
+        "type": "message",
+        "text": "<@UJG9WTEKG> sure, should I delete it here and send it over in the collab chat again? (or is there a smarter way to do so)",
+        "user": "U015XHF0RE0",
+        "ts": "1650646695.100349",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b994352b8aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-22\/1197226784578_3b994352b8aac48ece1e_72.jpg",
+            "first_name": "",
+            "real_name": "Adelina",
+            "display_name": "Adelina",
+            "team": "TJE58GTJL",
+            "name": "karpenkova.adel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b9XBK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sure, should I delete it here and send it over in the collab chat again? (or is there a smarter way to do so)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650619191.133989",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "9a32b54b-c272-4c48-b55b-bfae88d7dbd8",
+        "type": "message",
+        "text": "<@U015XHF0RE0> yea best to delete here and repost",
+        "user": "UJG9WTEKG",
+        "ts": "1650647497.197209",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OAL4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U015XHF0RE0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yea best to delete here and repost"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650619191.133989",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "984f2157-5b89-4100-9802-33bcd684366a",
+        "type": "message",
+        "text": "thanks!",
+        "user": "UJG9WTEKG",
+        "ts": "1650648530.756249",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650619191.133989",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "61A45612-545B-4732-B3F0-39D76D0B04A5",
+        "type": "message",
+        "text": "I think I can help! I'm the founder Podsicle Media, a full service B2B podcasting agency. Let's connect :slightly_smiling_face:",
+        "user": "U03BQLV44Q6",
+        "ts": "1650652665.534979",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "267939f9058f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-18\/3418440075169_267939f9058fe7369dc9_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Tabb",
+            "display_name": "Ryan Tabb",
+            "team": "TJE58GTJL",
+            "name": "rytabb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s1c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I can help! I'm the founder Podsicle Media, a full service B2B podcasting agency. Let's connect "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650605427.300119",
+        "parent_user_id": "U027BUUGUSW"
+    },
+    {
+        "client_msg_id": "4a04f977-77e6-426f-9495-d58d1131ab14",
+        "type": "message",
+        "text": "<http:\/\/sweetfishmedia.com|sweetfishmedia.com>\n\n<http:\/\/motionagency.io|motionagency.io>\n\nThose are my go-to. I know the teams there and highly recommend them.",
+        "user": "UUXMCJQ15",
+        "ts": "1650653016.303849",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXMCJQ15",
+            "ts": "1650653048.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1XE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sweetfishmedia.com",
+                                "text": "sweetfishmedia.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/motionagency.io",
+                                "text": "motionagency.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThose are my go-to. I know the teams there and highly recommend them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650605427.300119",
+        "parent_user_id": "U027BUUGUSW",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U01P13NTGG6",
+                    "U034WF55SDT"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "client_msg_id": "3be157f8-0de3-4e42-9b0f-256e252611b8",
+        "type": "message",
+        "text": "Hi there,\n\nI lead Marketing ops for an early-stage VC fund. We are looking to redo our website and are currently evaluating CMS alternatives to Wordpress like Craft \/ Webflow\n\nWe'd like the website to do a lot of heavy-lifting on the content &amp; editorial side of things\n\n1\/ Firstly - wanted to therefore understand if it is a good idea to build the website using Craft \/ Webflow \/ Ghost (over Wordpress)",
+        "user": "U024E9WNQMA",
+        "ts": "1625121217.346700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cbc2a3cfcda7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-07\/2131733489399_cbc2a3cfcda7d1a945ce_72.jpg",
+            "first_name": "Vinay",
+            "real_name": "Vinay Rao",
+            "display_name": "Vinay Rao",
+            "team": "TJE58GTJL",
+            "name": "vinay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi there,\n\nI lead Marketing ops for an early-stage VC fund. We are looking to redo our website and are currently evaluating CMS alternatives to Wordpress like Craft \/ Webflow\n\nWe'd like the website to do a lot of heavy-lifting on the content & editorial side of things\n\n1\/ Firstly - wanted to therefore understand if it is a good idea to build the website using Craft \/ Webflow \/ Ghost (over Wordpress)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625121217.346700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1625150192.348300",
+        "reply_users": [
+            "U021QMNMQ68",
+            "U01AHL8AGBB"
+        ],
+        "replies": [
+            {
+                "user": "U021QMNMQ68",
+                "ts": "1625121972.347800"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1625150192.348300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "918dccf9-4c5b-4f0d-84c7-7f2cbc891d0e",
+        "type": "message",
+        "text": "2\/ Secondly - wanted to know what are the advantages &amp; disadv of building it on Notion (since a lot of the websites today are being built on Notion)",
+        "user": "U024E9WNQMA",
+        "ts": "1625121267.347700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cbc2a3cfcda7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-07\/2131733489399_cbc2a3cfcda7d1a945ce_72.jpg",
+            "first_name": "Vinay",
+            "real_name": "Vinay Rao",
+            "display_name": "Vinay Rao",
+            "team": "TJE58GTJL",
+            "name": "vinay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "brsMc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2\/ Secondly - wanted to know what are the advantages & disadv of building it on Notion (since a lot of the websites today are being built on Notion)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625121267.347700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1625154957.350900",
+        "reply_users": [
+            "U021QMNMQ68",
+            "U01AHL8AGBB",
+            "U024E9WNQMA"
+        ],
+        "replies": [
+            {
+                "user": "U021QMNMQ68",
+                "ts": "1625122029.348000"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1625150383.348500"
+            },
+            {
+                "user": "U024E9WNQMA",
+                "ts": "1625151159.348800"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1625154957.350900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "723f8204-a74c-4366-ba96-f4ad0dd70428",
+        "type": "message",
+        "text": "Hi Vinay -\n\nIt depends on the complexity of your website's information architecture.\n\nThe best replacement for B2B sites built in WordPress would be Webflow or Contentful.\n\nFor B2C or ecommerce, it would be Shopify.",
+        "user": "U021QMNMQ68",
+        "ts": "1625121972.347800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "53aeb75f7da2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2041301884215_53aeb75f7da217ae0b1e_72.png",
+            "first_name": "Shahid",
+            "real_name": "Shahid Abbasi",
+            "display_name": "Shahid Abbasi",
+            "team": "TJE58GTJL",
+            "name": "growwithmarketers",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iC2xo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Vinay -\n\nIt depends on the complexity of your website's information architecture.\n\nThe best replacement for B2B sites built in WordPress would be Webflow or Contentful.\n\nFor B2C or ecommerce, it would be Shopify."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625121217.346700",
+        "parent_user_id": "U024E9WNQMA"
+    },
+    {
+        "client_msg_id": "c8d11e30-7a6d-404f-8183-1a4255c6b236",
+        "type": "message",
+        "text": "Notion is best for the initial stage Startups or designers.",
+        "user": "U021QMNMQ68",
+        "ts": "1625122029.348000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "53aeb75f7da2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2041301884215_53aeb75f7da217ae0b1e_72.png",
+            "first_name": "Shahid",
+            "real_name": "Shahid Abbasi",
+            "display_name": "Shahid Abbasi",
+            "team": "TJE58GTJL",
+            "name": "growwithmarketers",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021QMNMQ68",
+            "ts": "1625122050.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ehw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Notion is best for the initial stage Startups or designers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625121267.347700",
+        "parent_user_id": "U024E9WNQMA"
+    }
+]

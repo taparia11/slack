@@ -1,0 +1,1608 @@
+[
+    {
+        "client_msg_id": "69579fbe-33f1-425f-ad54-b0a6f07eea54",
+        "type": "message",
+        "text": ":exclamation: Help :exclamation: I've broken a high-traffic blog post <https:\/\/dispatch.m.io\/microsoft-teams-integrations\/>\n\nThe copy doesn't appear in the post at all. This has happened once before and it was down to including a hyperlink in the first word of a paragraph (Yay, WordPress!)\n\nI've just removed the hyperlinks at the front of sentences to try and remedy this but still no luck.\n\nAnybody had this happen before?",
+        "user": "UJJFDTN8G",
+        "ts": "1632315991.169400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "exclamation"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've broken a high-traffic blog post "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dispatch.m.io\/microsoft-teams-integrations\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe copy doesn't appear in the post at all. This has happened once before and it was down to including a hyperlink in the first word of a paragraph (Yay, WordPress!)\n\nI've just removed the hyperlinks at the front of sentences to try and remedy this but still no luck.\n\nAnybody had this happen before?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "reply_count": 13,
+        "reply_users_count": 4,
+        "latest_reply": "1632405266.183700",
+        "reply_users": [
+            "U026R1895QV",
+            "UJJFDTN8G",
+            "UUXMCJQ15",
+            "UUJBMNRNF"
+        ],
+        "replies": [
+            {
+                "user": "U026R1895QV",
+                "ts": "1632316776.169600"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1632316813.169800"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1632317982.170100"
+            },
+            {
+                "user": "U026R1895QV",
+                "ts": "1632317998.170300"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1632318052.170600"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1632318068.170800"
+            },
+            {
+                "user": "U026R1895QV",
+                "ts": "1632318073.171000"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1632319110.173100"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1632319114.173300"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1632339366.176000"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1632339499.176300"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1632379611.178800"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1632405266.183700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "dizzy_face",
+                "users": [
+                    "U026R1895QV",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd0a06df-0c0e-4dfa-bbbb-935fdcf90eb5",
+        "type": "message",
+        "text": "Can you revert to an older version?",
+        "user": "U026R1895QV",
+        "ts": "1632316776.169600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BREP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you revert to an older version?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "cdc55bf7-04a4-48fb-8a47-f0953a9b1832",
+        "type": "message",
+        "text": "I can - but I will need to add the new copy back into the post at some point",
+        "user": "UJJFDTN8G",
+        "ts": "1632316813.169800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lm+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can - but I will need to add the new copy back into the post at some point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "a50fee1a-3df7-48d0-9dd8-bbe81953288c",
+        "type": "message",
+        "text": "Wow, that sounds like a messy WP install. I've never heard of that happening before.",
+        "user": "UUXMCJQ15",
+        "ts": "1632317982.170100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "owk=i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, that sounds like a messy WP install. I've never heard of that happening before."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U026R1895QV",
+                    "U01KH3P18RZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e24cbcf-5c6c-4600-bc97-583e5ed02bb4",
+        "type": "message",
+        "text": "I’d revert to the version where the text shows up and troubleshoot from there. I’ve never heard of a link at the beginning of a post causing issues. Do you have an internal dev who can help you problem-solve it?",
+        "user": "U026R1895QV",
+        "ts": "1632317998.170300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d revert to the version where the text shows up and troubleshoot from there. I’ve never heard of a link at the beginning of a post causing issues. Do you have an internal dev who can help you problem-solve it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "3140fce9-2e38-4523-a347-3c02ec27ae53",
+        "type": "message",
+        "text": "Looks like there's lots of plugins at play (looking at the page source). I'd also consider shutting them off one by one and seeing if it pops back.",
+        "user": "UUXMCJQ15",
+        "ts": "1632318052.170600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=jHUQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like there's lots of plugins at play (looking at the page source). I'd also consider shutting them off one by one and seeing if it pops back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "52bc5085-9875-4aae-a0e7-ea0d689a291d",
+        "type": "message",
+        "text": "Also, I'm not a technical SEO and I don't play one on the internet so take that for what it is :wink:",
+        "user": "UUXMCJQ15",
+        "ts": "1632318068.170800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wXzqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, I'm not a technical SEO and I don't play one on the internet so take that for what it is "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "707a77e6-fb91-434c-97b2-1d20655ecdea",
+        "type": "message",
+        "text": ":point_up: also a good idea",
+        "user": "U026R1895QV",
+        "ts": "1632318073.171000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zT2O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " also a good idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "3df92933-08f7-4ae2-9011-c27bdcdc1ff4",
+        "type": "message",
+        "text": "Thanks! I think i hit a crawl budget issue",
+        "user": "UJG24P8P6",
+        "ts": "1632318777.171200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMXDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! I think i hit a crawl budget issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632241599.166600",
+        "parent_user_id": "U022WPACV4L"
+    },
+    {
+        "client_msg_id": "041243df-cf01-4d9d-ab21-d1fd6f77ed1b",
+        "type": "message",
+        "text": ":sob:",
+        "user": "U026R1895QV",
+        "ts": "1632318799.171400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8vB7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632241599.166600",
+        "parent_user_id": "U022WPACV4L"
+    },
+    {
+        "client_msg_id": "ecde9d5a-2725-4205-b697-2f1887afdb9a",
+        "type": "message",
+        "text": "Getting the Discovered - Currently Not Indexed message in GSC. I think it's crawl budget. Any suggestions?",
+        "user": "UJG24P8P6",
+        "ts": "1632318929.172400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG24P8P6",
+            "ts": "1632318950.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zex4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Getting the Discovered - Currently Not Indexed message in GSC. I think it's crawl budget. Any suggestions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "reply_count": 17,
+        "reply_users_count": 6,
+        "latest_reply": "1632409313.187100",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U02681WABA7",
+            "UJG24P8P6",
+            "U01KH3P18RZ",
+            "U013WCZ5GSV",
+            "U012GHRAHDK"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1632319014.172600"
+            },
+            {
+                "user": "U02681WABA7",
+                "ts": "1632319106.172900"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1632319316.173500"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1632319335.173700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1632319538.173900"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1632319578.174100"
+            },
+            {
+                "user": "U02681WABA7",
+                "ts": "1632319604.174300"
+            },
+            {
+                "user": "U02681WABA7",
+                "ts": "1632319670.174500"
+            },
+            {
+                "user": "U02681WABA7",
+                "ts": "1632319760.174700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1632321190.174900"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1632321298.175100"
+            },
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1632329772.175400"
+            },
+            {
+                "user": "U013WCZ5GSV",
+                "ts": "1632371998.178400"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1632404824.179200"
+            },
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1632408639.185800"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1632409154.186800"
+            },
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1632409313.187100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01KGTNFLVA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f88a6a1b-21be-4e69-ad68-6cf496801be5",
+        "type": "message",
+        "text": "Hit us with some screenshots of what you're seeing. What do you see when you click through there?",
+        "user": "UUXMCJQ15",
+        "ts": "1632319014.172600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXMCJQ15",
+            "ts": "1632319030.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hit us with some screenshots of what you're seeing. What do you see when you click through there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "3e6a3e06-85b2-4573-b590-0a8ca90d156c",
+        "type": "message",
+        "text": "Messed around with your robots.txt \/ meta robots tags recently?",
+        "user": "U02681WABA7",
+        "ts": "1632319106.172900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e00edcfaaddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-29\/2531730201543_e00edcfaaddd70703667_72.jpg",
+            "first_name": "Jonas",
+            "real_name": "Jonas van de Poel",
+            "display_name": "Jonas van de Poel",
+            "team": "TJE58GTJL",
+            "name": "jonas792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Messed around with your robots.txt \/ meta robots tags recently?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "e0312f72-9096-42a2-9234-56c9b62d151e",
+        "type": "message",
+        "text": "can't imagine it's a plugin as nothing was added or updated - and nothing is on for that specific blog post",
+        "user": "UJJFDTN8G",
+        "ts": "1632319110.173100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0tY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can't imagine it's a plugin as nothing was added or updated - and nothing is on for that specific blog post"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "fee98b1d-ab2c-4b76-9ddd-dbd4587fd1ce",
+        "type": "message",
+        "text": "All i changed was the copy",
+        "user": "UJJFDTN8G",
+        "ts": "1632319114.173300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nBbfT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All i changed was the copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "type": "message",
+        "text": "Screenshot <@UUXMCJQ15>",
+        "files": [
+            {
+                "id": "F02F9NDUWCS",
+                "created": 1632319309,
+                "timestamp": 1632319309,
+                "name": "planners-discovered.png",
+                "title": "planners-discovered.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UJG24P8P6",
+                "editable": false,
+                "size": 99226,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02F9NDUWCS\/planners-discovered.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02F9NDUWCS\/download\/planners-discovered.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02F9NDUWCS-937fad1726\/planners-discovered_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1684,
+                "original_h": 948,
+                "thumb_tiny": "AwAbADC9sB5Cj\/vkU4IvdVP4U5fuj6UEZI5IxQA3Yn9xfypdi\/3F\/KjB9aUZoATYv9xfypNif3F\/Kn0UAIOABRRQaACmknPf8BTh0pDQAmW7Zp31pB1paAP\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJG24P8P6\/F02F9NDUWCS\/planners-discovered.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F02F9NDUWCS-27b0c15af8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UJG24P8P6",
+        "display_as_bot": false,
+        "ts": "1632319316.173500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ki3=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Screenshot "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b5c9e076-4042-4a5c-98d2-ee639bec6e47",
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "d0cee07a-b6eb-42e8-8169-b6af173f2e34",
+        "type": "message",
+        "text": "<@U02681WABA7> I don't think so but i'll check",
+        "user": "UJG24P8P6",
+        "ts": "1632319335.173700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02681WABA7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't think so but i'll check"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "e28c80a6-7c35-4080-8c15-db7e65ba6528",
+        "type": "message",
+        "text": "dev said we haven't touched in in 6 months (not sure that's good either ha)",
+        "user": "UJG24P8P6",
+        "ts": "1632319538.173900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N0gWZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dev said we haven't touched in in 6 months (not sure that's good either ha)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "3a0c434c-d3bf-411d-ab77-dca4cdc3896a",
+        "type": "message",
+        "text": "What's this written in? I thought the code was empty because the entire body of this page is one single line of code.",
+        "user": "UUXMCJQ15",
+        "ts": "1632319578.174100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VDfT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's this written in? I thought the code was empty because the entire body of this page is one single line of code."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "d080e729-5e7b-4223-8ed1-c192e99aef27",
+        "type": "message",
+        "text": "Robots.txt looks fine and the page is included in the sitemap.xml. Meta tags on page look fine as well.",
+        "user": "U02681WABA7",
+        "ts": "1632319604.174300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e00edcfaaddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-29\/2531730201543_e00edcfaaddd70703667_72.jpg",
+            "first_name": "Jonas",
+            "real_name": "Jonas van de Poel",
+            "display_name": "Jonas van de Poel",
+            "team": "TJE58GTJL",
+            "name": "jonas792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WPxd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Robots.txt looks fine and the page is included in the sitemap.xml. Meta tags on page look fine as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "49279952-0af8-49cb-add2-038b8ee898a9",
+        "type": "message",
+        "text": "Looks like a Prismic CMS page, correct?",
+        "user": "U02681WABA7",
+        "ts": "1632319670.174500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e00edcfaaddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-29\/2531730201543_e00edcfaaddd70703667_72.jpg",
+            "first_name": "Jonas",
+            "real_name": "Jonas van de Poel",
+            "display_name": "Jonas van de Poel",
+            "team": "TJE58GTJL",
+            "name": "jonas792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like a Prismic CMS page, correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "327ea175-e379-41c6-9530-5eff4d464e03",
+        "type": "message",
+        "text": "Any issues when you request indexing manually in GSC. <@UJG24P8P6>?",
+        "user": "U02681WABA7",
+        "ts": "1632319760.174700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e00edcfaaddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-29\/2531730201543_e00edcfaaddd70703667_72.jpg",
+            "first_name": "Jonas",
+            "real_name": "Jonas van de Poel",
+            "display_name": "Jonas van de Poel",
+            "team": "TJE58GTJL",
+            "name": "jonas792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/mZ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any issues when you request indexing manually in GSC. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG24P8P6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "6a14c46e-264d-4093-bec4-fabecae99081",
+        "type": "message",
+        "text": "It is Prismic. That is the response from the manual request <@U02681WABA7>",
+        "user": "UJG24P8P6",
+        "ts": "1632321190.174900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is Prismic. That is the response from the manual request "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02681WABA7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "194ea81e-1cca-4325-9a58-c403e817514c",
+        "type": "message",
+        "text": "I've hit this with a few other new posts I've recently posted which makes me think it's crawl budget. But I don't know a lot about this\n\nAlso upping my internal links to this page &amp; others",
+        "user": "UJG24P8P6",
+        "ts": "1632321298.175100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ES6aX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've hit this with a few other new posts I've recently posted which makes me think it's crawl budget. But I don't know a lot about this\n\nAlso upping my internal links to this page & others"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "edee24c5-751e-440c-8100-465f1eb0b67c",
+        "type": "message",
+        "text": "Might be crawl budget, might be internal links\n\nSometimes, I see this when Google has discovered the content, but has decided it isn’t relevant enough to index.\n\nI’m assuming you’re targeting the keyword `best paper planners` . If so, check out the content ranking in the top ~20 for that keyword. See if this content looks better than what’s already out there.",
+        "user": "U01KH3P18RZ",
+        "ts": "1632329772.175400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01KH3P18RZ",
+            "ts": "1632329828.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQnsA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Might be crawl budget, might be internal links\n\nSometimes, I see this when Google has discovered the content, but has decided it isn’t relevant enough to index.\n\nI’m assuming you’re targeting the keyword "
+                            },
+                            {
+                                "type": "text",
+                                "text": "best paper planners",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " . If so, check out the content ranking in the top ~20 for that keyword. See if this content looks better than what’s already out there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Wondering if it has something to do with the 'Enable Jquery migrate helper' plugin?\n\nLooks like this might be a continual issue as the reason the plugin is used to help maintain older code:\n<https:\/\/wordpress.org\/plugins\/enable-jquery-migrate-helper\/>",
+        "files": [
+            {
+                "id": "F02FBC5HG6N",
+                "created": 1632339200,
+                "timestamp": 1632339200,
+                "name": "2021-09-22_14h33_15.png",
+                "title": "2021-09-22_14h33_15.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UUJBMNRNF",
+                "editable": false,
+                "size": 672567,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02FBC5HG6N\/2021-09-22_14h33_15.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02FBC5HG6N\/download\/2021-09-22_14h33_15.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 357,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 476,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 715,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 794,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 953,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FBC5HG6N-98285bfcfc\/2021-09-22_14h33_15_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1016,
+                "original_w": 1897,
+                "original_h": 1883,
+                "thumb_tiny": "AwAvADC6YlyxDMCe9J5J\/wCesn6VJz6mjJ9TTuKwxIRGWbczEjHNPpe3XP1pn50ikP8AwpPWkwKUCgBfypefam5Ge\/5Uv4GgQvbtUf50\/t\/jTPzoGhfzpR1pPzpR1oAGJB\/hphkPH3akYE9P50xY2AAznHqaZIqsTnOKT86SJCrtkkj3OakwKTGtBv50o607AqGSbZLs25z3zTSuDZ\/\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UUJBMNRNF\/F02FBC5HG6N\/2021-09-22_14h33_15.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F02FBC5HG6N-fc20235802",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UUJBMNRNF",
+        "display_as_bot": false,
+        "ts": "1632339366.176000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZ2Bv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wondering if it has something to do with the 'Enable Jquery migrate helper' plugin?\n\nLooks like this might be a continual issue as the reason the plugin is used to help maintain older code:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/plugins\/enable-jquery-migrate-helper\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bb373a61-c7d4-4c0b-8c69-c4129df82db6",
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G",
+        "attachments": [
+            {
+                "service_name": "WordPress.org",
+                "title": "Enable jQuery Migrate Helper",
+                "title_link": "https:\/\/wordpress.org\/plugins\/enable-jquery-migrate-helper\/",
+                "text": "Get information about calls to deprecated jQuery features in plugins or themes.",
+                "fallback": "WordPress.org: Enable jQuery Migrate Helper",
+                "from_url": "https:\/\/wordpress.org\/plugins\/enable-jquery-migrate-helper\/",
+                "service_icon": "http:\/\/s.w.org\/favicon.ico?2",
+                "id": 1,
+                "original_url": "https:\/\/wordpress.org\/plugins\/enable-jquery-migrate-helper\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "718d486b-3570-40ce-9884-edb0841e26cc",
+        "type": "message",
+        "text": "But I'm not a jquery expert...",
+        "user": "UUJBMNRNF",
+        "ts": "1632339499.176300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUJBMNRNF",
+            "ts": "1632339507.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+mD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But I'm not a jquery expert..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "type": "message",
+        "text": "<@UJG24P8P6>, if I am reading your `sitemap.xml` correctly, we're telling Google we've updated every page, every day (see `lastmod`). Worth revisiting so that newer content is prioritized for addition to the index?",
+        "files": [
+            {
+                "id": "F02FCKR64BC",
+                "created": 1632371994,
+                "timestamp": 1632371994,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U013WCZ5GSV",
+                "editable": false,
+                "size": 63762,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02FCKR64BC\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02FCKR64BC\/download\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 11,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 15,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 23,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 25,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 30,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02FCKR64BC-428688024c\/image_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 32,
+                "original_w": 2298,
+                "original_h": 72,
+                "thumb_tiny": "AwABADC63emx96c3emx96Oox9FFFMANAoNApCP\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U013WCZ5GSV\/F02FCKR64BC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F02FCKR64BC-a2edb68470",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U013WCZ5GSV",
+        "display_as_bot": false,
+        "ts": "1632371998.178400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wn4G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG24P8P6"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", if I am reading your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sitemap.xml",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " correctly, we're telling Google we've updated every page, every day (see "
+                            },
+                            {
+                                "type": "text",
+                                "text": "lastmod",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Worth revisiting so that newer content is prioritized for addition to the index?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U013WCZ5GSV",
+            "ts": "1632372023.000000"
+        },
+        "client_msg_id": "37ce0250-903d-41e3-bef0-e8d6c7c49062",
+        "thread_ts": "1632318929.172400",
+        "parent_user_id": "UJG24P8P6",
+        "reactions": [
+            {
+                "name": "brain",
+                "users": [
+                    "U02681WABA7",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ed8d804-a6cd-4944-88ae-9e712c837ee7",
+        "type": "message",
+        "text": "If it was this plugin (or any plugin), it wouldn't have only just happened right? I added 9 sections of copy and images. I think I've narrowed it down to 2 sections of copy\/images - when I delete them both, the article is fine. When I delete only one of them, the article doesn't load anything.",
+        "user": "UJJFDTN8G",
+        "ts": "1632379611.178800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PY\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it was this plugin (or any plugin), it wouldn't have only just happened right? I added 9 sections of copy and images. I think I've narrowed it down to 2 sections of copy\/images - when I delete them both, the article is fine. When I delete only one of them, the article doesn't load anything."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632315991.169400",
+        "parent_user_id": "UJJFDTN8G"
+    }
+]

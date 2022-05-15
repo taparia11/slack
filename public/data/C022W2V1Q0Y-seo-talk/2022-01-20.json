@@ -1,0 +1,557 @@
+[
+    {
+        "client_msg_id": "fe9b55c1-a596-4c2f-b204-5e7794e56da2",
+        "type": "message",
+        "text": "I have similar questions. Is this a blog post? If so, I’m curious how you’re able to know the impact this is playing? In my experience it’s not very easy to track if someone purchased because of a blog post, so I’d love to know how you’re doing that!",
+        "user": "U02TNFS7479",
+        "ts": "1642666074.070100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f698e7f65d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2968553744214_f698e7f65d9e34f468e5_72.jpg",
+            "first_name": "Anne-Marie",
+            "real_name": "Anne-Marie Hofmann",
+            "display_name": "Anne-Marie",
+            "team": "TJE58GTJL",
+            "name": "annemarie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have similar questions. Is this a blog post? If so, I’m curious how you’re able to know the impact this is playing? In my experience it’s not very easy to track if someone purchased because of a blog post, so I’d love to know how you’re doing that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642638367.068500",
+        "parent_user_id": "U01P13NTGG6"
+    },
+    {
+        "client_msg_id": "9954C8A9-4877-4952-9D23-83400D90E945",
+        "type": "message",
+        "text": "It was a “how to” article. Focusing on a pain point\/desire the searcher has.\n\nThe revenue number comes from the fact that each customer is worth $15K. \n\nLeads from the post went from an avg of 4\/month to 42 in December alone with 6 closed\/won (15%).\n\nYou can gauge the impact of a blog post with multitouch attribution. Current stack for this uses Bizible → Salesforce. We aggregate the data into our data warehouse (BigQuery).\n\nIf you don’t have multitouch attribution, you can use first touch attribution in GA’s model comparison tool with a 90 day look back window. \n\nThough, I’d recommend being realistic about things. What you're looking for is what key points in the process led to a high intent lead that you then convert into revenue within normal sales cycle lengths.\n\nWe also add a free text form field that asks how people heard about the brand to get a better reality of what’s going on when cross-device tracking comes into play. ",
+        "user": "U01P13NTGG6",
+        "ts": "1642677300.080300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vhNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was a “how to” article. Focusing on a pain point\/desire the searcher has.\n\nThe revenue number comes from the fact that each customer is worth $15K. \n\nLeads from the post went from an avg of 4\/month to 42 in December alone with 6 closed\/won (15%).\n\nYou can gauge the impact of a blog post with multitouch attribution. Current stack for this uses Bizible → Salesforce. We aggregate the data into our data warehouse (BigQuery).\n\nIf you don’t have multitouch attribution, you can use first touch attribution in GA’s model comparison tool with a 90 day look back window. \n\nThough, I’d recommend being realistic about things. What you're looking for is what key points in the process led to a high intent lead that you then convert into revenue within normal sales cycle lengths.\n\nWe also add a free text form field that asks how people heard about the brand to get a better reality of what’s going on when cross-device tracking comes into play. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642638367.068500",
+        "parent_user_id": "U01P13NTGG6"
+    },
+    {
+        "client_msg_id": "D373AF1B-3DFB-4D80-84DC-9DAC6236844C",
+        "type": "message",
+        "text": "Two major factors that matter here are knowing exactly which pages to optimize to create the lift you need for high intent leads and the fact that a jump from ranks 7-10 to ranks 1-3 create a significant increase in traffic (orders of magnitude higher).\n\nWe developed an algorithm internally that shows us exactly which pages need to be focused on so we can priory high impact\/low effort—the idea being to remove guesswork from planning content refreshes and new content production (e.g. we published a new article on a project in December for a “best x for y” topic with 42K search volume\/m and we're able to rank in the top 10 within 72 hours…because our algorithm basically tells us, “If you create this page next, you’ll rank very quickly.” ",
+        "user": "U01P13NTGG6",
+        "ts": "1642677725.087600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J5i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Two major factors that matter here are knowing exactly which pages to optimize to create the lift you need for high intent leads and the fact that a jump from ranks 7-10 to ranks 1-3 create a significant increase in traffic (orders of magnitude higher).\n\nWe developed an algorithm internally that shows us exactly which pages need to be focused on so we can priory high impact\/low effort—the idea being to remove guesswork from planning content refreshes and new content production (e.g. we published a new article on a project in December for a “best x for y” topic with 42K search volume\/m and we're able to rank in the top 10 within 72 hours…because our algorithm basically tells us, “If you create this page next, you’ll rank very quickly.” "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642638367.068500",
+        "parent_user_id": "U01P13NTGG6"
+    },
+    {
+        "client_msg_id": "387C9C99-9C18-4722-97D5-12551F29C736",
+        "type": "message",
+        "text": "Thank you for such a thorough explanation! Sounds like you all have built an amazing optimization machine. That's fabulous. Congrats!",
+        "user": "U02TNFS7479",
+        "ts": "1642679427.088500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f698e7f65d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2968553744214_f698e7f65d9e34f468e5_72.jpg",
+            "first_name": "Anne-Marie",
+            "real_name": "Anne-Marie Hofmann",
+            "display_name": "Anne-Marie",
+            "team": "TJE58GTJL",
+            "name": "annemarie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02TNFS7479",
+            "ts": "1642679484.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YmLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for such a thorough explanation! Sounds like you all have built an amazing optimization machine. That's fabulous. Congrats!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642638367.068500",
+        "parent_user_id": "U01P13NTGG6"
+    },
+    {
+        "client_msg_id": "73A62497-27D5-4985-9DFA-2AEFC39449A5",
+        "type": "message",
+        "text": "Sure thing. I’ll also note this is for a company with a sales-led motion, not product-led.\n\nI can put together some detailed content on how all this works for different types of business models (and various tech stacks) if you think it’d be helpful.",
+        "user": "U01P13NTGG6",
+        "ts": "1642680678.092200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CP76J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure thing. I’ll also note this is for a company with a sales-led motion, not product-led.\n\nI can put together some detailed content on how all this works for different types of business models (and various tech stacks) if you think it’d be helpful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642638367.068500",
+        "parent_user_id": "U01P13NTGG6"
+    },
+    {
+        "client_msg_id": "2A38E653-C940-4082-8F00-67F35F045549",
+        "type": "message",
+        "text": "Cool and congrats :champagne:. What type of optimizations have you done? Was it mainly content updates or other stuff like internal linking? What was the most important factor that you believe it contributed to the higher rankings in this case?",
+        "user": "U016NBFS16Y",
+        "ts": "1642709379.100300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dc55ef79eca3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-10\/2813445724023_dc55ef79eca31bc399fa_72.jpg",
+            "first_name": "Lucian",
+            "real_name": "Lucian Florian",
+            "display_name": "Lucian Florian",
+            "team": "TJE58GTJL",
+            "name": "contact348",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N515",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool and congrats "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "champagne"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". What type of optimizations have you done? Was it mainly content updates or other stuff like internal linking? What was the most important factor that you believe it contributed to the higher rankings in this case?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642638367.068500",
+        "parent_user_id": "U01P13NTGG6"
+    },
+    {
+        "client_msg_id": "CAA68577-2FD3-4B4A-80E7-B3D962343353",
+        "type": "message",
+        "text": "Is anyone else getting 20 results on the first page of Google  on desktop? Or am I part of a test?",
+        "user": "U02A8UR3Z60",
+        "ts": "1642717340.100500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fSxo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone else getting 20 results on the first page of Google  on desktop? Or am I part of a test?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642717340.100500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1642719482.100900",
+        "reply_users": [
+            "U024K88ECFN",
+            "U02NJDGLMJ4"
+        ],
+        "replies": [
+            {
+                "user": "U024K88ECFN",
+                "ts": "1642718420.100600"
+            },
+            {
+                "user": "U02NJDGLMJ4",
+                "ts": "1642719482.100900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "75d556ec-7c1c-411e-bba8-4b8810b51fb7",
+        "type": "message",
+        "text": "I noticed that yesterday! It only happened with one result though.",
+        "user": "U024K88ECFN",
+        "ts": "1642718420.100600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UZR6+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I noticed that yesterday! It only happened with one result though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642717340.100500",
+        "parent_user_id": "U02A8UR3Z60"
+    },
+    {
+        "client_msg_id": "e0fae789-a249-43d2-90b7-b6d057e48b66",
+        "type": "message",
+        "text": "It's a test at this point on desktop, but infinite scroll on mobile came out last year.",
+        "user": "U02NJDGLMJ4",
+        "ts": "1642719482.100900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d13fcb0bf314",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-18\/2746295148772_d13fcb0bf3148edbad8f_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew Peluso",
+            "display_name": "Andrew Peluso",
+            "team": "TJE58GTJL",
+            "name": "apeluso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a test at this point on desktop, but infinite scroll on mobile came out last year."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642717340.100500",
+        "parent_user_id": "U02A8UR3Z60"
+    },
+    {
+        "client_msg_id": "a83cdf4a-6d45-4e44-af86-91a807f7bb9b",
+        "type": "message",
+        "text": "Fun thread: What is the most random\/strangest keyword you've come across in your research? My favorite so far is *dog wine*, which gets 2.5K searches\/month (according to Ahrefs). Discovering this led me down the rabbit hole that is the booming pet winery business. :joy:",
+        "user": "U024K88ECFN",
+        "ts": "1642720963.102100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8Y4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fun thread: What is the most random\/strangest keyword you've come across in your research? My favorite so far is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "dog wine",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", which gets 2.5K searches\/month (according to Ahrefs). Discovering this led me down the rabbit hole that is the booming pet winery business. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642720963.102100",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1643997576.103669",
+        "reply_users": [
+            "U02UXNLQKPD",
+            "U02VAB2TQ2D",
+            "U024K88ECFN",
+            "U02PSQ1PMUN"
+        ],
+        "replies": [
+            {
+                "user": "U02UXNLQKPD",
+                "ts": "1642730423.102800"
+            },
+            {
+                "user": "U02VAB2TQ2D",
+                "ts": "1642785343.128200"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1642786790.132200"
+            },
+            {
+                "user": "U02VAB2TQ2D",
+                "ts": "1642786856.132400"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1642792168.132700"
+            },
+            {
+                "user": "U02PSQ1PMUN",
+                "ts": "1643994482.587099"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1643997576.103669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U02NJDGLMJ4",
+                    "U02UNK26NGM",
+                    "U030191F29E",
+                    "U02UHL1BUKB",
+                    "U02UNK5748M",
+                    "U02S9H1PBHV",
+                    "U02UXMQBQ3C",
+                    "U02F1GK6U6B",
+                    "UJG24P8P6",
+                    "U02H3K9BEMA",
+                    "URL9Z88MR",
+                    "U02GYR8TM96",
+                    "U02PSQ1PMUN"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca602cf3-762c-4251-bf47-b3adeb1db63f",
+        "type": "message",
+        "text": "Haha I have heard of the dog wine! I actually came across a keyword earlier and was like 'what the heck' but I can't find it\/remember it now lol.",
+        "user": "U02UXNLQKPD",
+        "ts": "1642730423.102800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "07cd91c4c86d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2969485887111_07cd91c4c86d776f69a0_72.jpg",
+            "first_name": "Karli",
+            "real_name": "Karli Jaenike",
+            "display_name": "Karli Jaenike",
+            "team": "TJE58GTJL",
+            "name": "karli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ddeh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha I have heard of the dog wine! I actually came across a keyword earlier and was like 'what the heck' but I can't find it\/remember it now lol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642720963.102100",
+        "parent_user_id": "U024K88ECFN",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

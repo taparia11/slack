@@ -1,0 +1,577 @@
+[
+    {
+        "client_msg_id": "34a4a40a-76a6-4314-a1bb-b242ea5d8ead",
+        "type": "message",
+        "text": "Hi <@UJHT5CHUY> I got on here to ask a similar question and found this thread. We haven't landed on a tool yet (I'm new to the company) but I'm leaning towards Monday or Asana. The people I work with use GitHub\/ZenHub and they love it bc they're in it all day. I'm curious, are you moving away from GH entirely or keeping that while adding the to-dos in Asana?  Right now I'm using Google Sheets &gt;&gt; GitHub but it's clunky",
+        "user": "U02CE98M0TE",
+        "ts": "1636387174.144400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8eaced574be0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-25\/2418952737651_8eaced574be0788e7314_72.jpg",
+            "first_name": "Kate",
+            "real_name": "Kate Brack",
+            "display_name": "Kate Brack",
+            "team": "TJE58GTJL",
+            "name": "kate506",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+TvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJHT5CHUY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I got on here to ask a similar question and found this thread. We haven't landed on a tool yet (I'm new to the company) but I'm leaning towards Monday or Asana. The people I work with use GitHub\/ZenHub and they love it bc they're in it all day. I'm curious, are you moving away from GH entirely or keeping that while adding the to-dos in Asana?  Right now I'm using Google Sheets >> GitHub but it's clunky"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635179099.046400",
+        "parent_user_id": "UJHT5CHUY"
+    },
+    {
+        "client_msg_id": "769d9281-cd02-4681-8c97-bc23be86df71",
+        "type": "message",
+        "text": "Does anyone here know how to track app downloads via Google Analytics? Do I need to involve the developer and go via Firebase or is there an easier way with GA4 and\/or Google Tag Manager?",
+        "user": "U01MW6DPU72",
+        "ts": "1636393552.145600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2ab21f412c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2ab21f412c3215ee2b3c2994772c589e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Araminta",
+            "real_name": "Araminta Robertson",
+            "display_name": "Araminta Robertson",
+            "team": "TJE58GTJL",
+            "name": "robertsona98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bJpT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone here know how to track app downloads via Google Analytics? Do I need to involve the developer and go via Firebase or is there an easier way with GA4 and\/or Google Tag Manager?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636393552.145600",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1636477740.172900",
+        "reply_users": [
+            "UJJFDTN8G",
+            "U01MW6DPU72",
+            "UUJBMNRNF"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1636394683.145700"
+            },
+            {
+                "user": "U01MW6DPU72",
+                "ts": "1636394734.145900"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1636398548.147600"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1636410715.148300"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1636443907.151800"
+            },
+            {
+                "user": "U01MW6DPU72",
+                "ts": "1636455798.152000"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1636477740.172900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a85111a7-64c3-4042-94de-841cd3762069",
+        "type": "message",
+        "text": "Probably not the right way, but I have an event configured per button or link that goes to the app download URL.\n\nSo I have:\n• blog to app download\n• blog to home page\n• blog to pricing page\n• blog to external URL\nas my events in the Mio GA.",
+        "user": "UJJFDTN8G",
+        "ts": "1636394683.145700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Db8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably not the right way, but I have an event configured per button or link that goes to the app download URL.\n\nSo I have:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "blog to app download"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "blog to home page"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "blog to pricing page"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "blog to external URL"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as my events in the Mio GA."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636393552.145600",
+        "parent_user_id": "U01MW6DPU72",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56ef2068-4444-4790-bc19-b8098fa82dfa",
+        "type": "message",
+        "text": "So you're tracking clicks then?",
+        "user": "U01MW6DPU72",
+        "ts": "1636394734.145900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2ab21f412c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2ab21f412c3215ee2b3c2994772c589e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Araminta",
+            "real_name": "Araminta Robertson",
+            "display_name": "Araminta Robertson",
+            "team": "TJE58GTJL",
+            "name": "robertsona98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b11g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So you're tracking clicks then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636393552.145600",
+        "parent_user_id": "U01MW6DPU72"
+    },
+    {
+        "client_msg_id": "17d1031a-451e-4564-98c7-0b4fac864156",
+        "type": "message",
+        "text": "Another vote for Asana.",
+        "user": "U02J7DM81AQ",
+        "ts": "1636397077.146100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb47e412d680",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b47e412d680490c17c4ca22271a9e55b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sofie",
+            "real_name": "Sofie Couwenbergh",
+            "display_name": "Sofie Couwenbergh",
+            "team": "TJE58GTJL",
+            "name": "sofie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "65zda",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another vote for Asana."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635872212.108700",
+        "parent_user_id": "U02875QT4BC"
+    },
+    {
+        "client_msg_id": "0d1ec9ee-cc8f-4be2-adda-524730e14cdf",
+        "type": "message",
+        "text": "Gmelius has this: <https:\/\/gmelius.com\/insights\/digital-collaboration>",
+        "user": "U02J7DM81AQ",
+        "ts": "1636397141.146300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb47e412d680",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b47e412d680490c17c4ca22271a9e55b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sofie",
+            "real_name": "Sofie Couwenbergh",
+            "display_name": "Sofie Couwenbergh",
+            "team": "TJE58GTJL",
+            "name": "sofie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gmelius.com\/insights\/digital-collaboration",
+                "title": "The State of Digital Collaboration in 2021 | Gmelius",
+                "title_link": "https:\/\/gmelius.com\/insights\/digital-collaboration",
+                "text": "We surveyed knowledge workers across our community to understand the state of Digital Collaboration in 2021. Discover our findings, together with an actionable guide to help you own the Future of Work.",
+                "image_url": "https:\/\/cloud.gmelius.com\/public\/site\/thumbnails\/the-state-of-digital-collaboration-2021.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 41529,
+                "fallback": "The State of Digital Collaboration in 2021 | Gmelius",
+                "service_name": "gmelius.com",
+                "id": 1,
+                "original_url": "https:\/\/gmelius.com\/insights\/digital-collaboration"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bLRHB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gmelius has this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gmelius.com\/insights\/digital-collaboration"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635941392.119900",
+        "parent_user_id": "U02CY29UKK9"
+    },
+    {
+        "client_msg_id": "C0009079-40B3-4E31-B8F6-6E858A07C812",
+        "type": "message",
+        "text": "I track the “install intents” which are clicks yes. Then our app tracks how many of those completed the install process vs abandoned intent.",
+        "user": "UJJFDTN8G",
+        "ts": "1636398548.147600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I track the “install intents” which are clicks yes. Then our app tracks how many of those completed the install process vs abandoned intent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636393552.145600",
+        "parent_user_id": "U01MW6DPU72"
+    },
+    {
+        "client_msg_id": "d63faa0f-0c76-4bbc-8346-fec1c8c7a046",
+        "type": "message",
+        "text": "<@UJJFDTN8G> - have you written about this anywhere? would love to see what you track and how.",
+        "user": "UUJBMNRNF",
+        "ts": "1636410715.148300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3qsE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJJFDTN8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - have you written about this anywhere? would love to see what you track and how."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636393552.145600",
+        "parent_user_id": "U01MW6DPU72"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1636415933.148500",
+        "user": "UJG9WTEKG",
+        "text": "set the channel topic: :chart_with_upwards_trend: Sponsored by 42\/Agency → <https:\/\/www.fourtytwo.agency> Welcome to <#CJ7QQKJ73|-content-strategy-questions>! Ask questions in the main channel and use comment threads to offer answers.",
+        "topic": ":chart_with_upwards_trend: Sponsored by 42\/Agency → <https:\/\/www.fourtytwo.agency> Welcome to <#CJ7QQKJ73|-content-strategy-questions>! Ask questions in the main channel and use comment threads to offer answers.",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02DH3CF30R",
+                    "U02KHES8ACF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02KHES8ACF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b81eaff6-384d-448b-9f37-e310097a17bb",
+        "type": "message",
+        "text": "<@UUVRX9C13> we are in the (long and ongoing) process of moving from MQL\/SQL to PQL because we are making our SaaS product more self serve, so happy to help!",
+        "user": "U02GKTN1NDC",
+        "ts": "1636430627.151600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cca41336255d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2586380459574_cca41336255d5ddee32e_72.jpg",
+            "first_name": "Axel",
+            "real_name": "Axel Sukianto",
+            "display_name": "Axel Sukianto",
+            "team": "TJE58GTJL",
+            "name": "axel.sukianto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ee2h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUVRX9C13"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are in the (long and ongoing) process of moving from MQL\/SQL to PQL because we are making our SaaS product more self serve, so happy to help!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635772756.096900",
+        "parent_user_id": "UUVRX9C13"
+    },
+    {
+        "client_msg_id": "9c27419f-b76f-4b31-a1eb-d724fae76c37",
+        "type": "message",
+        "text": "No I haven't actually. Feels like I could but it would become outdated as people move onto GA4. Also, I'm sure there's a better way to do this :slightly_smiling_face:",
+        "user": "UJJFDTN8G",
+        "ts": "1636443907.151800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tAPWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No I haven't actually. Feels like I could but it would become outdated as people move onto GA4. Also, I'm sure there's a better way to do this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636393552.145600",
+        "parent_user_id": "U01MW6DPU72",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

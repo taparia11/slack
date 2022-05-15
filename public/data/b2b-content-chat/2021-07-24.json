@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "0437cef7-7a42-4907-97a9-9e6a461e6022",
+        "type": "message",
+        "text": "<@U01RSA9E9D4> That's the approach I believe in as well, but it's completely unrelated to the byline matter I've brought up, isn't it?",
+        "user": "U01616TECAJ",
+        "ts": "1627128891.228900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "63574785681e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-11\/2145732234679_63574785681eb223532e_72.jpg",
+            "first_name": "Isabela",
+            "real_name": "Isabela Alzuguir-Woidtke",
+            "display_name": "Isabela Alzuguir-Woidtke (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "isabela.alzuguir",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RSA9E9D4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " That's the approach I believe in as well, but it's completely unrelated to the byline matter I've brought up, isn't it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626878725.213900",
+        "parent_user_id": "U01616TECAJ"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1627150921.231800"
+    },
+    {
+        "client_msg_id": "67047d48-55cf-479a-bfd3-57e4224d82d1",
+        "type": "message",
+        "text": "Based on your comment \"better results\" = more leads <@U01616TECAJ>. So you're wondering if the byline affects conversion. Why not set up an experiment to test your hypothesis?\n\nSame article, two versions - one with an expert's name, one without. Drive traffic to both and see which performs better for conversion.\n\nI think what affects conversion more is the offer - is it compelling enough?",
+        "user": "U01RSA9E9D4",
+        "ts": "1627154003.232200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfbc217f6e1b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbc217f6e1b233bf10c4247333c118e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Anfernee",
+            "real_name": "Anfernee Chansamooth",
+            "display_name": "Anf Chansamooth",
+            "team": "TJE58GTJL",
+            "name": "anf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RSA9E9D4",
+            "ts": "1627154400.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NpN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Based on your comment \"better results\" = more leads "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01616TECAJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". So you're wondering if the byline affects conversion. Why not set up an experiment to test your hypothesis?\n\nSame article, two versions - one with an expert's name, one without. Drive traffic to both and see which performs better for conversion.\n\nI think what affects conversion more is the offer - is it compelling enough?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626878725.213900",
+        "parent_user_id": "U01616TECAJ"
+    }
+]

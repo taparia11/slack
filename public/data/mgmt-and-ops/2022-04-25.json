@@ -1,0 +1,429 @@
+[
+    {
+        "client_msg_id": "348b2a63-3ced-4f17-8442-ab0c8afbd311",
+        "type": "message",
+        "text": "Man are they just ignoring all the work content is doing throughout the rest of the funnel and supporting the other channels?",
+        "user": "U0113AV4895",
+        "ts": "1650907019.339799",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "abf6dd3a714a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1107778466019_abf6dd3a714ac6e86603_72.jpg",
+            "first_name": "Jessie",
+            "real_name": "Jessie Wood",
+            "display_name": "Jessie",
+            "team": "TJE58GTJL",
+            "name": "jessiewould",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8tf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Man are they just ignoring all the work content is doing throughout the rest of the funnel and supporting the other channels?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650484136.819489",
+        "parent_user_id": "U03AGR5C9EZ",
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "U03AGR5C9EZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7dbeba1f-fd3f-4167-9d7f-39220b126590",
+        "type": "message",
+        "text": "We have B2B clients who have goals like this.\n\nOne client has been trying to map its Salesforce sales data to specific keywords and user-journeys in Google Analytics. So they can see which pieces of content led to a conversion (signing up for a demo of software). I think they’re using a last-touch attribution model. That’s the closest thing to BOFU --&gt; Revenue, to them.\n\nBut, like. That doesn’t necessarily mean the customer will sign up and become an ARR-generating customer.\n\nAnyway, sounds like huge expectations. Good luck.",
+        "user": "U011QQDDSJV",
+        "ts": "1650918408.852469",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3n4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have B2B clients who have goals like this.\n\nOne client has been trying to map its Salesforce sales data to specific keywords and user-journeys in Google Analytics. So they can see which pieces of content led to a conversion (signing up for a demo of software). I think they’re using a last-touch attribution model. That’s the closest thing to BOFU --> Revenue, to them.\n\nBut, like. That doesn’t necessarily mean the customer will sign up and become an ARR-generating customer.\n\nAnyway, sounds like huge expectations. Good luck."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650484136.819489",
+        "parent_user_id": "U03AGR5C9EZ",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U03AGR5C9EZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4ada95e-9d4f-421d-8ea1-1f3f0f8ad6ef",
+        "type": "message",
+        "text": "<@U01CSL4BBKQ> might have insight, we’ve chatted about “lead forensics” as a solution for identifying where $-generating leads come from.",
+        "user": "U011QQDDSJV",
+        "ts": "1650918510.030549",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DW2rB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01CSL4BBKQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " might have insight, we’ve chatted about “lead forensics” as a solution for identifying where $-generating leads come from."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650484136.819489",
+        "parent_user_id": "U03AGR5C9EZ"
+    },
+    {
+        "client_msg_id": "2b9a9d11-3a2e-46ad-8f15-ac35b0140df8",
+        "type": "message",
+        "text": "You'd be surprised how many B2B companies still use a last touch attribution model, especially if they're low ACV.",
+        "user": "URAV154AV",
+        "ts": "1650918752.919249",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You'd be surprised how many B2B companies still use a last touch attribution model, especially if they're low ACV."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650484136.819489",
+        "parent_user_id": "U03AGR5C9EZ",
+        "reactions": [
+            {
+                "name": "clown_face",
+                "users": [
+                    "U011QQDDSJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36e48776-cea5-4400-a1c1-af5272eb8cde",
+        "type": "message",
+        "text": "One of my direct reports wants to improve her UX knowledge and skills, so she can make actionable recommendations to clients when they’re building new websites\/page templates.\n\nShe’s currently a content strategist, strong in editing for SEO and building content briefs.\n\nWhat are some resources I can share with her? (Courses, articles, great people to follow or be a mentor, etc.) — I am not a UX\/UI person",
+        "user": "U011QQDDSJV",
+        "ts": "1650931418.926599",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fgP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of my direct reports wants to improve her UX knowledge and skills, so she can make actionable recommendations to clients when they’re building new websites\/page templates.\n\nShe’s currently a content strategist, strong in editing for SEO and building content briefs.\n\nWhat are some resources I can share with her? (Courses, articles, great people to follow or be a mentor, etc.) — I am not a UX\/UI person"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650931418.926599",
+        "reply_count": 8,
+        "reply_users_count": 7,
+        "latest_reply": "1651014729.933259",
+        "reply_users": [
+            "UUJBMNRNF",
+            "U016BDEQ40J",
+            "UP6K3LYQ7",
+            "U0162CX5SH1",
+            "U011QQDDSJV",
+            "U0211K6LSM9",
+            "U01KGTNFLVA"
+        ],
+        "replies": [
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1650931497.044719"
+            },
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1650932077.248439"
+            },
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1650932077.818559"
+            },
+            {
+                "user": "UP6K3LYQ7",
+                "ts": "1650967467.187159"
+            },
+            {
+                "user": "U0162CX5SH1",
+                "ts": "1650974283.649999"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1650989242.427359"
+            },
+            {
+                "user": "U0211K6LSM9",
+                "ts": "1650992597.056429"
+            },
+            {
+                "user": "U01KGTNFLVA",
+                "ts": "1651014729.933259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "65b4e8c2-ac28-4e72-b92c-6e434a87ea6a",
+        "type": "message",
+        "text": "Definitely check out Content + UX. They have multiple resources and an active community.\n\n<https:\/\/contentandux.org\/>",
+        "user": "UUJBMNRNF",
+        "ts": "1650931497.044719",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "POn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely check out Content + UX. They have multiple resources and an active community.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/contentandux.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650931418.926599",
+        "parent_user_id": "U011QQDDSJV",
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "U011QQDDSJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eefba5a2-2d32-4fc6-8e4f-614d08e85a64",
+        "type": "message",
+        "text": "i shared this in another thread i think but the Appcues blog has some pretty good resources",
+        "user": "U016BDEQ40J",
+        "ts": "1650932077.248439",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c37NW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i shared this in another thread i think but the Appcues blog has some pretty good resources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650931418.926599",
+        "parent_user_id": "U011QQDDSJV"
+    },
+    {
+        "client_msg_id": "b2483252-2ab5-4496-90da-a7b9dcab5bd9",
+        "type": "message",
+        "text": "<https:\/\/www.appcues.com\/>",
+        "user": "U016BDEQ40J",
+        "ts": "1650932077.818559",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.appcues.com\/",
+                "image_url": "https:\/\/assets-global.website-files.com\/5c7d318eeaea1d6e1198d906\/621d0b07e131cd678438950b_APPCUES-OG-2022.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 170396,
+                "id": 1,
+                "original_url": "https:\/\/www.appcues.com\/",
+                "fallback": "Appcues | Growth starts with engaged users",
+                "text": "Appcues is the most flexible way to build personalized product experiences. From user onboarding through adoption and retention. Get started for free.",
+                "title": "Appcues | Growth starts with engaged users",
+                "title_link": "https:\/\/www.appcues.com\/",
+                "service_name": "appcues.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0NuS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.appcues.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650931418.926599",
+        "parent_user_id": "U011QQDDSJV"
+    }
+]

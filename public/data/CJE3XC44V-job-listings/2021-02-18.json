@@ -1,0 +1,168 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1613656003.169700",
+        "thread_ts": "1613656003.169700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1613666021.174300",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1613666021.174300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1613666021.174300"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1613658407.169900",
+        "user": "U019E2RJD9Q",
+        "text": "set the channel description: HELLO THERE! To post a job, please start here: <https:\/\/superpath.co\/blog\/slack-jobs> It costs $49\/listing to post in this channel. All listings will be posted by our job bot and other posts will be removed (very politely). Thank you!",
+        "purpose": "HELLO THERE! To post a job, please start here: <https:\/\/superpath.co\/blog\/slack-jobs> It costs $49\/listing to post in this channel. All listings will be posted by our job bot and other posts will be removed (very politely). Thank you!"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*360Learning is hiring a Senior Copywriter* :rocket:\n\n*This is a full-time role.*\n\n*What's the deal?* \n\nAs our first Senior Copywriter in the US, you will be a part of the global Demand Generation team, whose mission is to generate leads and move them down the funnel, to SQL and deal. You'll be building campaigns that tell our brand story with the goal of generating interest,  pipe, and accelerating the sales cycle. \n\nWe're looking for someone with:\n- Extensive copywriting experience with strong focus on direct-response \/ conversion copy\n- A knack for combining the art of copywriting with the science of A\/B testing and continuous optimization\n\nWithin 3 months, you will:\n    - Write compelling copy for all our US ad campaigns and email marketing assets, website and more. \n    - Run experiments with our US Paid Marketing Manager and US Head of Demand Generation to improve existing marketing touch points.\n    - Find ways to reduce our cost\/SQL and optimize the user experience.\n    - Partner with our Brand designer to revamp our Strategic Narrative campaign, an extensive set of dozens of display ads that tell the 360Learning brand story.\n    - Create engaging visuals suited for all platforms (LinkedIn, Facebook and more), aiming for that sweet spot where copy &amp; design tell the story together.\n\nThe position can be located anywhere in the US on the East coast but ideally in NYC. We're 100% remote right now but have offices in NYC, London, and Paris (HQ).\n\n\n*To apply, send an email to:* `<mailto:joei.chan@360learning.com|joei.chan@360learning.com>`",
+        "ts": "1613661990.171500",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":space_invader:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f47e.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UUXPJ96EQ",
+                    "U01A3TF6X6C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B37C7C25-35F9-4CAF-8222-DD5EB200A128",
+        "type": "message",
+        "text": "hi Shankar - we recently started charging a small fee for this channel. I’ll remove this post but if you can use this link if you’d like to post: <https:\/\/superpath.co\/blog\/slack-jobs|https:\/\/superpath.co\/blog\/slack-jobs>",
+        "user": "UJG9WTEKG",
+        "ts": "1613665980.173900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AlJK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi Shankar - we recently started charging a small fee for this channel. I’ll remove this post but if you can use this link if you’d like to post: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/slack-jobs",
+                                "text": "https:\/\/superpath.co\/blog\/slack-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613633357.166800",
+        "parent_user_id": "U015M064Q67"
+    },
+    {
+        "client_msg_id": "D1644BA7-840C-45DB-930C-54325344EAFF",
+        "type": "message",
+        "text": "Hi Emily - we recently started charging a small fee for this channel. I’ll remove this post but if you can use this link if you’d like to post: <https:\/\/superpath.co\/blog\/slack-jobs|https:\/\/superpath.co\/blog\/slack-jobs>",
+        "user": "UJG9WTEKG",
+        "ts": "1613666021.174300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LxuyU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Emily - we recently started charging a small fee for this channel. I’ll remove this post but if you can use this link if you’d like to post: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/slack-jobs",
+                                "text": "https:\/\/superpath.co\/blog\/slack-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613656003.169700",
+        "parent_user_id": "U0126UH1A5T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Bananatag is hiring a Content Coordinator* :rocket:\n\n*This is a full-time role.*\n\n*What's the deal?* \n\nIf you love coordinating and working with people and but also enjoy the technical side of content production, this might just be the perfect role for you. You'll primarily be managing and coordinating content projects, with a focus on communicating priorities across the team, webinar management, editing, back-end uploading, blog maintenance, and supplemental writing when necessary. \n\n\n*Learn more and apply here:* <https:\/\/apply.workable.com\/bananatag\/j\/4F6E1BD615\/>\n\n<@UJ420S7MG>",
+        "ts": "1613680868.174700",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":space_invader:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f47e.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJG9WTEKG",
+                    "UV5V2P0VB"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

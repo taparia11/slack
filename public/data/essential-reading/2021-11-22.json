@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1637573505.080200",
+        "thread_ts": "1637573505.080200",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1637695362.088500",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02ME7MGZ2P"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1637695287.088200"
+            },
+            {
+                "user": "U02ME7MGZ2P",
+                "ts": "1637695362.088500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1637695362.088500"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "here are the community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "user": "USLACKBOT",
+        "ts": "1637573505.080400"
+    },
+    {
+        "client_msg_id": "23b766a5-752a-49ce-9c6d-03897916c936",
+        "type": "message",
+        "text": "Thanks! Buying it now!",
+        "user": "U02M83NQ10U",
+        "ts": "1637611728.082000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "87c168f85c64",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-12\/2720180260115_87c168f85c64b058a6b7_72.jpg",
+            "first_name": "Linsey",
+            "real_name": "Linsey Knerl",
+            "display_name": "Linsey Knerl",
+            "team": "TJE58GTJL",
+            "name": "linsey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f5nx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! Buying it now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637198828.061700",
+        "parent_user_id": "U02L06T4MM2"
+    }
+]

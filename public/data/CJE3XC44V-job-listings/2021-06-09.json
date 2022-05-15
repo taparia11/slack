@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "c2ef0f2d-900a-4f96-b4c5-2d967bc65af3",
+        "type": "message",
+        "text": "hi <@U01R5K3795W> mind moving this to <#C021RFDHEMD|all-things-freelance>? this channel is a feed of stuff from the job board",
+        "user": "UJG9WTEKG",
+        "ts": "1623252319.052600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01R5K3795W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mind moving this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C021RFDHEMD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? this channel is a feed of stuff from the job board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623200706.051800",
+        "parent_user_id": "U01R5K3795W"
+    },
+    {
+        "client_msg_id": "7698701f-74db-4f3a-a185-d20e4e7081f2",
+        "type": "message",
+        "text": "Ooops sorry about that! I will do that right away!",
+        "user": "U01R5K3795W",
+        "ts": "1623267777.053200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e29a2ac8fcb8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-07\/1844463403121_e29a2ac8fcb8d72a8c29_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Paulyn",
+            "display_name": "michael paulyn",
+            "team": "TJE58GTJL",
+            "name": "mpaulyn_",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ooops sorry about that! I will do that right away!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623200706.051800",
+        "parent_user_id": "U01R5K3795W"
+    }
+]

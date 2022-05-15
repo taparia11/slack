@@ -1,0 +1,115 @@
+[
+    {
+        "client_msg_id": "7e7e4895-ad59-4287-8fca-2c6ca3c39d29",
+        "type": "message",
+        "text": "maybe <https:\/\/sendoso.com\/>? I don’t know a ton about their product yet. sounds up their alley, but may be too extensive of an option.",
+        "user": "UUKNLUX5X",
+        "ts": "1585835415.010700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8306936f7204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/994014446278_8306936f720476f732a7_72.jpg",
+            "first_name": "Arina",
+            "real_name": "Arina Kharlamova",
+            "display_name": "arina",
+            "team": "TJE58GTJL",
+            "name": "arina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUKNLUX5X",
+            "ts": "1585835468.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Sendoso",
+                "title": "Sendoso: The Leading Sending Platform",
+                "title_link": "https:\/\/sendoso.com\/",
+                "text": "Sendoso, the leading Sending Platform, helps companies stand out by giving them new ways to engage with customers throughout the buyer’s journey.",
+                "fallback": "Sendoso: Sendoso: The Leading Sending Platform",
+                "from_url": "https:\/\/sendoso.com\/",
+                "service_icon": "https:\/\/4e3zq01yrvwh1ftbzt1gq83v-wpengine.netdna-ssl.com\/wp-content\/uploads\/cropped-favicon-2b867bd3f62bfc2745dfef93f2c73553112092e7a767bbf9d7dd5623ce53c083-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/sendoso.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WDJK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sendoso.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? I don’t know a ton about their product yet. sounds up their alley, but may be too extensive of an option."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585682668.009600",
+        "parent_user_id": "U0109NWK58A"
+    },
+    {
+        "client_msg_id": "ed9a03ec-1062-4084-bce8-d0c5594e72ad",
+        "type": "message",
+        "text": "Thanks <@UUKNLUX5X>, I’ll take a look. That may be a decent longer-term solution when we can get back to sending more than just the workbook.",
+        "user": "U0109NWK58A",
+        "ts": "1585836178.011100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d222a5a91274",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-24\/1025305376582_d222a5a912743346de3d_72.png",
+            "first_name": "Michelle",
+            "real_name": "Michelle Brammer",
+            "display_name": "Michelle Brammer",
+            "team": "TJE58GTJL",
+            "name": "mbrammer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=WS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUKNLUX5X"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I’ll take a look. That may be a decent longer-term solution when we can get back to sending more than just the workbook."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585682668.009600",
+        "parent_user_id": "U0109NWK58A"
+    }
+]

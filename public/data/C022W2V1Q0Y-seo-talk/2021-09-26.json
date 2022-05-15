@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "5acf4439-329e-457e-a20e-5c5cd88f1c54",
+        "type": "message",
+        "text": "Great podcast Brendan! You tell it like it is!",
+        "user": "U02E02NL6GM",
+        "ts": "1632683646.198300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "49e8fb205307",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-10\/2464545921207_49e8fb2053078b4c4aa2_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Lai",
+            "display_name": "Victor Lai",
+            "team": "TJE58GTJL",
+            "name": "victor760",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1z+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great podcast Brendan! You tell it like it is!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632417077.189900",
+        "parent_user_id": "U022P46SRDX"
+    },
+    {
+        "client_msg_id": "7B3EEBAA-1C4A-43FF-992B-577FFD20241C",
+        "type": "message",
+        "text": "Wow, thanks so much <@U02E02NL6GM> !",
+        "user": "UUXMCJQ15",
+        "ts": "1632697970.198900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tmF6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, thanks so much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02E02NL6GM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632417077.189900",
+        "parent_user_id": "U022P46SRDX"
+    }
+]

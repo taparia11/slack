@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1608294615.108800",
+        "thread_ts": "1608294615.108800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1608306265.109100",
+        "reply_users": [
+            "ULJBEFSJJ"
+        ],
+        "replies": [
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1608306265.109100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "56b46cad-56fd-4c71-ada6-0e97d5747f31",
+        "type": "message",
+        "text": "I've run lots of instagram giveaways... not sure if that counts? :joy:",
+        "user": "ULJBEFSJJ",
+        "ts": "1608306265.109100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6Uhu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've run lots of instagram giveaways... not sure if that counts? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608294615.108800",
+        "parent_user_id": "UJJFDTN8G"
+    }
+]

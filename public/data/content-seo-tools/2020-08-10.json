@@ -1,0 +1,256 @@
+[
+    {
+        "client_msg_id": "6983b251-a7fe-42f3-9684-943efbe0ab56",
+        "type": "message",
+        "text": "I was just looking for something like this. What's the free plan like? I can't find that info on the site.",
+        "user": "U013E6Y46BZ",
+        "ts": "1597047351.177200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "023af37d44c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-22\/1255927213843_023af37d44c63535a992_72.jpg",
+            "first_name": "Jakub",
+            "real_name": "Jakub Grajcar",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "zefir009",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1pmT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was just looking for something like this. What's the free plan like? I can't find that info on the site."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596907459.176100",
+        "parent_user_id": "U013YD0RFGX"
+    },
+    {
+        "client_msg_id": "243a939f-d968-4dd2-9deb-96bede8c67fc",
+        "type": "message",
+        "text": "<@U016ZUJNNRY> wow, Descript looks like some next-level stuff. I wonder how well that \"editing text to edit audio\" works in practice, especially when people talk over each other, for example.",
+        "user": "U013E6Y46BZ",
+        "ts": "1597047637.177400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "023af37d44c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-22\/1255927213843_023af37d44c63535a992_72.jpg",
+            "first_name": "Jakub",
+            "real_name": "Jakub Grajcar",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "zefir009",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5DRpr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016ZUJNNRY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " wow, Descript looks like some next-level stuff. I wonder how well that \"editing text to edit audio\" works in practice, especially when people talk over each other, for example."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596907459.176100",
+        "parent_user_id": "U013YD0RFGX"
+    },
+    {
+        "client_msg_id": "5c096070-c971-4f6b-b30c-02f76dd38f31",
+        "type": "message",
+        "text": "FYI: <http:\/\/sonix.ai|sonix.ai> and trint are also similar tools that I've used - <http:\/\/sonix.ai|sonix.ai> has quite a good pay-per-use pricing mode (as opposed to subscription)",
+        "user": "U010A68610A",
+        "ts": "1597054721.177700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f864c5ab49eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1024604334565_f864c5ab49ebfb09356f_72.jpg",
+            "first_name": "Merlin",
+            "real_name": "Merlin Carter",
+            "display_name": "Merlin Carter",
+            "team": "TJE58GTJL",
+            "name": "merlin.carter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XYYu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sonix.ai",
+                                "text": "sonix.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and trint are also similar tools that I've used - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sonix.ai",
+                                "text": "sonix.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has quite a good pay-per-use pricing mode (as opposed to subscription)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596907459.176100",
+        "parent_user_id": "U013YD0RFGX"
+    },
+    {
+        "client_msg_id": "44a6bc34-6eaf-4730-9fa0-991f52b14d0a",
+        "type": "message",
+        "text": "(But nowadays I just use the Google Speech API directly)",
+        "user": "U010A68610A",
+        "ts": "1597054751.177900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f864c5ab49eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1024604334565_f864c5ab49ebfb09356f_72.jpg",
+            "first_name": "Merlin",
+            "real_name": "Merlin Carter",
+            "display_name": "Merlin Carter",
+            "team": "TJE58GTJL",
+            "name": "merlin.carter",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xv+K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(But nowadays I just use the Google Speech API directly)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596907459.176100",
+        "parent_user_id": "U013YD0RFGX",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U013E6Y46BZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe3f4bb7-703b-4cde-abf7-6a9de37f2c20",
+        "type": "message",
+        "text": "If you’re not associated with them <@U012PE83DFB>, why do you go through so much trouble posting this same message on a bunch of Slack workspaces and Facebook groups? :eyes:",
+        "user": "U014PRHQUQ2",
+        "ts": "1597056351.178200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/vag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you’re not associated with them "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012PE83DFB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", why do you go through so much trouble posting this same message on a bunch of Slack workspaces and Facebook groups? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596992975.177000",
+        "parent_user_id": "U012PE83DFB",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJ3K7N8GJ",
+                    "U016HJRC77E",
+                    "URA4VBQ2X"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

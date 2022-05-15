@@ -1,0 +1,399 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647962606.256229",
+        "thread_ts": "1647962606.256229",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1647962806.833239",
+        "reply_users": [
+            "U02CT7VCMKM"
+        ],
+        "replies": [
+            {
+                "user": "U02CT7VCMKM",
+                "ts": "1647962806.833239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647962720.433039",
+        "thread_ts": "1647962720.433039",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1648050046.594809",
+        "reply_users": [
+            "U02CT7VCMKM",
+            "U030RSE4L0J",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "U02CT7VCMKM",
+                "ts": "1647962819.955959"
+            },
+            {
+                "user": "U030RSE4L0J",
+                "ts": "1647962908.000579"
+            },
+            {
+                "user": "U030RSE4L0J",
+                "ts": "1647963014.978649"
+            },
+            {
+                "user": "U02CT7VCMKM",
+                "ts": "1647963090.101019"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1648050046.594809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1648050046.594809"
+    },
+    {
+        "client_msg_id": "1f991b15-e784-4839-bcba-e16dc3bd2d56",
+        "type": "message",
+        "text": "Hey <@U030RSE4L0J>! :wave:\n\nThis channel is primarily for the automated job listings from the Superpath job site. If you’d like to post a job here, please remove these posts and submit your job listing here: <https:\/\/superpath.co\/jobs>",
+        "user": "U02CT7VCMKM",
+        "ts": "1647962806.833239",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5bG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U030RSE4L0J"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis channel is primarily for the automated job listings from the Superpath job site. If you’d like to post a job here, please remove these posts and submit your job listing here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647962606.256229",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "31770030-3fc6-46f2-888a-50fd38426856",
+        "type": "message",
+        "text": "Hey <@U037SBG1W3B>! :wave:\n\nThis channel is primarily for the automated job listings from the Superpath job site. If you’d like to post a job here, please remove these posts and submit your job listing here: <https:\/\/superpath.co\/jobs>",
+        "user": "U02CT7VCMKM",
+        "ts": "1647962819.955959",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZ30d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U037SBG1W3B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis channel is primarily for the automated job listings from the Superpath job site. If you’d like to post a job here, please remove these posts and submit your job listing here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647962720.433039",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5ef220b6-1726-4ca8-b16a-e0f053017804",
+        "type": "message",
+        "text": "ah thank you!",
+        "user": "U030RSE4L0J",
+        "ts": "1647962908.000579",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a8c49d433fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3023016104837_7a8c49d433fe161a08e7_72.png",
+            "first_name": "Shannon",
+            "real_name": "Shannon Curran",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "shannon.sweeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/HXm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647962720.433039",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "bd23e4c6-c939-4aa8-87e1-a37f6a217d7b",
+        "type": "message",
+        "text": "do you have to have a paid membership to post?",
+        "user": "U030RSE4L0J",
+        "ts": "1647963014.978649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a8c49d433fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3023016104837_7a8c49d433fe161a08e7_72.png",
+            "first_name": "Shannon",
+            "real_name": "Shannon Curran",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "shannon.sweeny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPal\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you have to have a paid membership to post?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647962720.433039",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "a7fd8b73-812c-4f26-b3ac-c4b20d334521",
+        "type": "message",
+        "text": "If you’ll note in the link (<https:\/\/jobs.superpath.co\/post>) posting a job listing does have a cost associated with it.",
+        "user": "U02CT7VCMKM",
+        "ts": "1647963090.101019",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rtz7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you’ll note in the link ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jobs.superpath.co\/post"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") posting a job listing does have a cost associated with it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647962720.433039",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Shorthand is hiring a Senior Editor ()* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/278594-senior-editor>",
+        "ts": "1647997249.455529",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "thread_ts": "1647997249.455529",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1647997320.179539",
+        "reply_users": [
+            "UUKNRAD4Z"
+        ],
+        "replies": [
+            {
+                "user": "UUKNRAD4Z",
+                "ts": "1647997320.179539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0ca3b554-1f04-444a-8887-53358c7480af",
+        "type": "message",
+        "text": "Fully remote :rocket:",
+        "user": "UUKNRAD4Z",
+        "ts": "1647997320.179539",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a1b61d04207",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/972261198097_7a1b61d0420706ec2439_72.jpg",
+            "first_name": "MattM",
+            "real_name": "MattM",
+            "display_name": "MattM",
+            "team": "TJE58GTJL",
+            "name": "mcgma709",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XO\/s7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fully remote "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647997249.455529",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UJG9WTEKG",
+                    "U02F1GK6U6B",
+                    "U02D1E37FL5",
+                    "U033EFUUC1H"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1601654587.000200",
+        "user": "U01BENRM555",
+        "text": "<@U01BENRM555> has joined the channel"
+    },
+    {
+        "client_msg_id": "47d6041b-4d32-4b87-8aed-449c408b84d3",
+        "type": "message",
+        "text": "Hey Torontonians!",
+        "user": "U01BENRM555",
+        "ts": "1601654626.000400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "92b2415c02c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1400426291877_92b2415c02c41b4b1d45_72.jpg",
+            "first_name": "Ronita",
+            "real_name": "Ronita Mohan",
+            "display_name": "Ronita Mohan (E\/Er\/Eir)",
+            "team": "TJE58GTJL",
+            "name": "ronita",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzaT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Torontonians!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UUJBM2PJ7",
+                    "U019MUQNH5H",
+                    "UUQ0C0ZUH",
+                    "UJHBBR59V",
+                    "UUKNSLX9P"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

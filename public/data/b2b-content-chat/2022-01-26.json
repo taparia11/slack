@@ -1,0 +1,383 @@
+[
+    {
+        "client_msg_id": "d3014d90-efa2-4ae1-bcc7-66e3b0d512e6",
+        "type": "message",
+        "text": "That’s great to hear <@UUXMCJQ15>! I’d love to ungate everything but as a startup, gated content is a great way to build your email list (so long as you’re providing relevant value and a good experience as you say).",
+        "user": "U02ANC57AAY",
+        "ts": "1643193968.113900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "45b108914224",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-09\/2359758724082_45b108914224a53b7683_72.jpg",
+            "first_name": "Steph",
+            "real_name": "Steph Smith",
+            "display_name": "Steph Smith",
+            "team": "TJE58GTJL",
+            "name": "steph",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JA0Fb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s great to hear "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I’d love to ungate everything but as a startup, gated content is a great way to build your email list (so long as you’re providing relevant value and a good experience as you say)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643137931.107600",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "2118bb89-b611-4f08-9170-838d1a422d81",
+        "type": "message",
+        "text": "If you’re talking about software engineers, Twitter and Reddit and organic content rather than ads are a better bet. In terms of paid promotion, the only thing that has worked for me in the past are ads in Cooper Press newsletters. Let me know if you need more help, happy to have a chat.",
+        "user": "UJG1M1N20",
+        "ts": "1643208871.114500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be4c37faf4c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-25\/2988731443831_be4c37faf4c1d2c0608a_72.jpg",
+            "first_name": "Dunja",
+            "real_name": "Dunja Radulov",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "dunja.radulov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cewR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you’re talking about software engineers, Twitter and Reddit and organic content rather than ads are a better bet. In terms of paid promotion, the only thing that has worked for me in the past are ads in Cooper Press newsletters. Let me know if you need more help, happy to have a chat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643128735.106800",
+        "parent_user_id": "U030485H3MY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U030YK82C3C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad3fe2ac-0cf5-4297-8e94-5980b919f525",
+        "type": "message",
+        "text": "thanks, really appreciate it!",
+        "user": "U030485H3MY",
+        "ts": "1643211976.114900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0005dc53b0e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-25\/3019292615057_0005dc53b0e374dd4944_72.jpg",
+            "first_name": "Daniel",
+            "real_name": "Daniel Zeiter",
+            "display_name": "Daniel Zeiter",
+            "team": "TJE58GTJL",
+            "name": "info780",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U030485H3MY",
+            "ts": "1643211994.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Cr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks, really appreciate it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643128735.106800",
+        "parent_user_id": "U030485H3MY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJG1M1N20"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1643211976.115100",
+        "thread_ts": "1643128735.106800",
+        "parent_user_id": "U030485H3MY"
+    },
+    {
+        "client_msg_id": "dfda1a3e-d090-4181-83bc-eea30a93433c",
+        "type": "message",
+        "text": "Hi everyone, I'm looking to work with experienced B2B content writers on freelance basis for a bulk writing project. Anyone here who is interested please DM!",
+        "user": "U027BUUGUSW",
+        "ts": "1643260267.116600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "274ddbbcd8e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-17\/2878181231072_274ddbbcd8e305755b86_72.jpg",
+            "first_name": "Natasha",
+            "real_name": "Natasha Puri",
+            "display_name": "Natasha Puri",
+            "team": "TJE58GTJL",
+            "name": "natasha.puri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, I'm looking to work with experienced B2B content writers on freelance basis for a bulk writing project. Anyone here who is interested please DM!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643260267.116600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1644280428.855029",
+        "reply_users": [
+            "U01NUND5BC5",
+            "U0301QW3FR7",
+            "U02RW8SM9QU"
+        ],
+        "replies": [
+            {
+                "user": "U01NUND5BC5",
+                "ts": "1643362299.023399"
+            },
+            {
+                "user": "U0301QW3FR7",
+                "ts": "1643408841.216149"
+            },
+            {
+                "user": "U02RW8SM9QU",
+                "ts": "1644280428.855029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02GMMQ281W",
+                    "UN227ML2H",
+                    "U030AQ2HNA2"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U029WCJDVU0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9b78c89-1c1c-4865-ab07-735c606d8b6d",
+        "type": "message",
+        "text": "Hi folks - i seem to have a lot to post on superpath today! What is the best way to attribute success to a podcast where it isn't directly affecting business (at least not yet). How does one quantify brand awareness as a result?",
+        "user": "U027BUUGUSW",
+        "ts": "1643261509.117800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "274ddbbcd8e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-17\/2878181231072_274ddbbcd8e305755b86_72.jpg",
+            "first_name": "Natasha",
+            "real_name": "Natasha Puri",
+            "display_name": "Natasha Puri",
+            "team": "TJE58GTJL",
+            "name": "natasha.puri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3=bU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi folks - i seem to have a lot to post on superpath today! What is the best way to attribute success to a podcast where it isn't directly affecting business (at least not yet). How does one quantify brand awareness as a result?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643261509.117800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1643294232.118700",
+        "reply_users": [
+            "U02K5SJ26PL",
+            "U01P13NTGG6"
+        ],
+        "replies": [
+            {
+                "user": "U02K5SJ26PL",
+                "ts": "1643264892.117900"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1643294232.118700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "da753443-4f4e-4610-8a5d-e3d3f419cf11",
+        "type": "message",
+        "text": "A few ideas:\n\n1. use podcast subscribers as a proxy for brand loyalty and content quality. in this case, track pure numbers of subscribers as your KPI\n2. Host the podcast on a webpage that offers a relevant downloadable offering i.e. a checklist related to the podcast or a cheat sheet of key podcast takeaways. you can then track conversions and emails captured as leads that you can nurture. here's a formula that I'd recommend: A) Host a new podcast episode on a blog page. B) Get a transcript of the podcast and use that as the main body of the blog. this allows you to offer content (seo-friendly too!) without having to write any net new content. include links to other web pages, which can be another KPI - how much traffic does the podcast page drive to a product page, for example C) identify the 10 top takeaways from the podcast (or 5 or 20!) and put them into a pdf with nice design and gate it. now you can track leads against it. Voila!",
+        "user": "U02K5SJ26PL",
+        "ts": "1643264892.117900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f54c356a824d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-27\/2680073159376_f54c356a824d4ecafeb5_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Lowe",
+            "display_name": "Michael Lowe",
+            "team": "TJE58GTJL",
+            "name": "mlowe08",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ofFV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A few ideas:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "use podcast subscribers as a proxy for brand loyalty and content quality. in this case, track pure numbers of subscribers as your KPI"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Host the podcast on a webpage that offers a relevant downloadable offering i.e. a checklist related to the podcast or a cheat sheet of key podcast takeaways. you can then track conversions and emails captured as leads that you can nurture. here's a formula that I'd recommend: A) Host a new podcast episode on a blog page. B) Get a transcript of the podcast and use that as the main body of the blog. this allows you to offer content (seo-friendly too!) without having to write any net new content. include links to other web pages, which can be another KPI - how much traffic does the podcast page drive to a product page, for example C) identify the 10 top takeaways from the podcast (or 5 or 20!) and put them into a pdf with nice design and gate it. now you can track leads against it. Voila!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643261509.117800",
+        "parent_user_id": "U027BUUGUSW",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U027RNU0A69",
+                    "U021TAHP6TB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U027BUUGUSW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

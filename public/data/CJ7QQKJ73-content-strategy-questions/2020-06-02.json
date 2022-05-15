@@ -1,0 +1,305 @@
+[
+    {
+        "client_msg_id": "119E10D9-7ECF-47D6-BE97-FB46EBEB55F8",
+        "type": "message",
+        "text": "Cool! \n\nYah I’ve usually been stopping at about 2000 or so but maybe that’s too low? \n\nWe typically get about 6-7000 traffic site wide per week ",
+        "user": "U010JU2GTND",
+        "ts": "1591102405.173400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z8W4J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool! \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Yah I’ve usually been stopping at about 2000 or so but maybe that’s too low? \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "We typically get about 6-7000 traffic site wide per week "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591048573.165500",
+        "parent_user_id": "U010JU2GTND"
+    },
+    {
+        "client_msg_id": "fb3a6cec-d1a7-4a1c-b331-220f8ccab890",
+        "type": "message",
+        "text": "i’ve used 30 days, generally. sometimes I’ve trusted the Google default of 90 when traffic is an issue. with my own leadership, and potentially others’, that long time frame can be okay when you can say consumer preferences are backed by a statistically significant sample or that it’s proven by a Google tool. that does carry weight.",
+        "user": "U010GTFAFK9",
+        "ts": "1591102555.173600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e80799226a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-24\/1024840627014_6e80799226a9146de9aa_72.png",
+            "first_name": "David",
+            "real_name": "David Fitzpatrick",
+            "display_name": "David Fitzpatrick",
+            "team": "TJE58GTJL",
+            "name": "david.fitzpatrick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h4mH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’ve used 30 days, generally. sometimes I’ve trusted the Google default of 90 when traffic is an issue. with my own leadership, and potentially others’, that long time frame can be okay when you can say consumer preferences are backed by a statistically significant sample or that it’s proven by a Google tool. that does carry weight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591048573.165500",
+        "parent_user_id": "U010JU2GTND"
+    },
+    {
+        "client_msg_id": "20761DC0-BFB9-4A30-8D1C-66B8FF14B899",
+        "type": "message",
+        "text": "Multiple variables at play here:\n\n• Sample size (i.e. number of visits, conversions) should be calculated in advance; plenty of calculators out there; our CRO team built one: <https:\/\/cxl.com\/ab-test-calculator\/|https:\/\/cxl.com\/ab-test-calculator\/>\n• You want to test for a full business cycle and try to balance out any bias from the day of week; two weeks is a common baseline\n—but that’s a baseline for reaching minimum sample size _and_ duration to ward off sample pollution.\n• Common mistake is to peek at results and simply stop the test when it hits statistical significance\n—a big no-no in the testing world.\n\nSome more basics covered here: <https:\/\/cxl.com\/blog\/stopping-ab-tests-how-many-conversions-do-i-need\/|https:\/\/cxl.com\/blog\/stopping-ab-tests-how-many-conversions-do-i-need\/>",
+        "user": "UJDPMTREY",
+        "ts": "1591103622.178600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1591120993.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DPvH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Multiple variables at play here:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sample size (i.e. number of visits, conversions) should be calculated in advance; plenty of calculators out there; our CRO team built one: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/cxl.com\/ab-test-calculator\/",
+                                        "text": "https:\/\/cxl.com\/ab-test-calculator\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You want to test for a full business cycle and try to balance out any bias from the day of week; two weeks is a common baseline"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "—but that’s a baseline for reaching minimum sample size "
+                            },
+                            {
+                                "type": "text",
+                                "text": "and",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " duration to ward off sample pollution.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Common mistake is to peek at results and simply stop the test when it hits statistical significance"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "—a big no-no in the testing world.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Some more basics covered here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cxl.com\/blog\/stopping-ab-tests-how-many-conversions-do-i-need\/",
+                                "text": "https:\/\/cxl.com\/blog\/stopping-ab-tests-how-many-conversions-do-i-need\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591048573.165500",
+        "parent_user_id": "U010JU2GTND",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UUVC0EX8C",
+                    "U010JU2GTND",
+                    "UJG24P8P6"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6de10429-39e9-4efb-b20c-a2463251c4e8",
+        "type": "message",
+        "text": "Thanks so much <@U010GTFAFK9> and <@UJDPMTREY>! This is super helpful. :slightly_smiling_face:\n\nWe work on weekly cycles in the business, so I usually do 2 week tests for anything like homepage language, whereas other areas of the website I run month-long tests. But this is a good way to get my own baseline thanks!!!",
+        "user": "U010JU2GTND",
+        "ts": "1591107036.179100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sLvz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks so much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010GTFAFK9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJDPMTREY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! This is super helpful. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe work on weekly cycles in the business, so I usually do 2 week tests for anything like homepage language, whereas other areas of the website I run month-long tests. But this is a good way to get my own baseline thanks!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591048573.165500",
+        "parent_user_id": "U010JU2GTND"
+    }
+]

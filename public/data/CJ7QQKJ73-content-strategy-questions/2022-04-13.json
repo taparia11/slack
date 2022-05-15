@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "aaca2f27-22b6-4826-a676-22efa64d326c",
+        "type": "message",
+        "text": "Well for example in our marketing team we are trying to asses most sources of our marketing driven leads. And i think we are mostly succesful, combination of analytics and other conversion tool. And you can argue that well not all of the conversions is going to be atributed to content, but i think its still okay. And if you are using atleast some type of tracking and also position based conversion, than you are far more better than someone who is not using it.",
+        "user": "UR3A94N4R",
+        "ts": "1649849637.778009",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "154828f27ec5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-05\/860852569348_154828f27ec52abe859e_72.jpg",
+            "first_name": "Milan",
+            "real_name": "Milan Novotný",
+            "display_name": "Milan Novotný",
+            "team": "TJE58GTJL",
+            "name": "novotnymilanzv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WWzz+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well for example in our marketing team we are trying to asses most sources of our marketing driven leads. And i think we are mostly succesful, combination of analytics and other conversion tool. And you can argue that well not all of the conversions is going to be atributed to content, but i think its still okay. And if you are using atleast some type of tracking and also position based conversion, than you are far more better than someone who is not using it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649752977.734379",
+        "parent_user_id": "U03431W7MD2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030VMS2T4M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd0e2e7f-b573-47bd-b9b7-b66636a776bc",
+        "type": "message",
+        "text": "Traffic estimates + traffic growth rates:\n• I found very little useful data on this. I'm sure someone has written the case study on how long it takes successful articles to go from publishing to ranking at certain spots, but I didn't find it. I had my own experiences at a couple stops to go off from memory, but unfortunately no access to hard data anymore. My model: Virtually no organic traffic for three months, with months 4-12 increasing until reaching traffic maturity, for lack of a better term.\n• What was traffic maturity? I took estimated traffic for target keywords from Ahrefs, then used average \"mature\" traffic for an article to be 25% of that estimate. I had to go off memory, but I found at g2 we were in the 18-25% range for that mature traffic in the aggregate. Some articles go well beyond those estimates, some never get traffic. Also this assumes you're pretty darn successful at getting articles into the top 5 of SERPs.\n• Conversions we used our historical data, which wasn't great because it was much different types of pages, as well as any case studies we could find on what was possible for signups. I used 1\/3\/5% as conservative bad\/medium\/good signup rates. I found case studies suggesting 7-10% signup rates were possible for a freemium SaaS product. Some articles will also convert at a much higher rate than others given their intent, and over time you can improve the rates with a lot of experimentation. But for a brand new content engine, I projected low-end conversions given our data, while probably estimating bullishly on the traffic",
+        "user": "U02SMBRHL6A",
+        "ts": "1649876631.156739",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c2d06a19ca6a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-05\/2899370088055_c2d06a19ca6ae5265699_72.jpg",
+            "first_name": "Jakub",
+            "real_name": "Jakub Rudnik",
+            "display_name": "Jakub Rudnik",
+            "team": "TJE58GTJL",
+            "name": "jakub",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Traffic estimates + traffic growth rates:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I found very little useful data on this. I'm sure someone has written the case study on how long it takes successful articles to go from publishing to ranking at certain spots, but I didn't find it. I had my own experiences at a couple stops to go off from memory, but unfortunately no access to hard data anymore. My model: Virtually no organic traffic for three months, with months 4-12 increasing until reaching traffic maturity, for lack of a better term."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What was traffic maturity? I took estimated traffic for target keywords from Ahrefs, then used average \"mature\" traffic for an article to be 25% of that estimate. I had to go off memory, but I found at g2 we were in the 18-25% range for that mature traffic in the aggregate. Some articles go well beyond those estimates, some never get traffic. Also this assumes you're pretty darn successful at getting articles into the top 5 of SERPs."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Conversions we used our historical data, which wasn't great because it was much different types of pages, as well as any case studies we could find on what was possible for signups. I used 1\/3\/5% as conservative bad\/medium\/good signup rates. I found case studies suggesting 7-10% signup rates were possible for a freemium SaaS product. Some articles will also convert at a much higher rate than others given their intent, and over time you can improve the rates with a lot of experimentation. But for a brand new content engine, I projected low-end conversions given our data, while probably estimating bullishly on the traffic"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649708073.218399",
+        "parent_user_id": "U030VMS2T4M"
+    },
+    {
+        "client_msg_id": "4149421e-b6fd-42b5-b81a-78843afd20a9",
+        "type": "message",
+        "text": "Bit late, but the Foundation Inc. ones by <@U02546A8D2B>' team are really good.",
+        "user": "U01QF8VQFSR",
+        "ts": "1649880530.467629",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b0f16e92d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-05\/1927894267811_3b0f16e92d265019d31d_72.jpg",
+            "first_name": "",
+            "real_name": "Jelle Schut",
+            "display_name": "Jelle Schut",
+            "team": "TJE58GTJL",
+            "name": "jelle.schut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wLpT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bit late, but the Foundation Inc. ones by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02546A8D2B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "' team are really good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649359632.540129",
+        "parent_user_id": "U01MM4EAC69"
+    }
+]

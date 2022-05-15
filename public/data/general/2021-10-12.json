@@ -1,0 +1,359 @@
+[
+    {
+        "client_msg_id": "85376ad3-1516-449d-b4dd-2ba898859d2e",
+        "type": "message",
+        "text": "Thanks, Jessie",
+        "user": "U029WCJ7U48",
+        "ts": "1634028854.189900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab32363a35a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2337550505024_ab32363a35a88c1f0310_72.jpg",
+            "first_name": "",
+            "real_name": "Eugenia Bardukova",
+            "display_name": "Eugenia Bardukova",
+            "team": "TJE58GTJL",
+            "name": "e-bardukova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Jessie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633966209.168100",
+        "parent_user_id": "U029WCJ7U48"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1634051832.191100",
+        "thread_ts": "1634051832.191100",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1634059335.191200",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634059335.191200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1634059335.191200"
+    },
+    {
+        "client_msg_id": "b79d8480-f184-4e86-a338-f05a3da780f4",
+        "type": "message",
+        "text": "hi <@U02EBPEMNUW> can you please move this to <#CK1HFB8SD|writing-feedback>?",
+        "user": "UJG9WTEKG",
+        "ts": "1634059335.191200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02EBPEMNUW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you please move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CK1HFB8SD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634051832.191100",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "8c689f55-836e-4321-88c8-510b06e8b21b",
+        "type": "message",
+        "text": "<@U026R1895QV> I'm just catching up on all the great info you shared and had a follow-up question here. What's your take on the accuracy of reports from staffing agencies? I've heard that those numbers are inflated since recruiters will push for the highest salary possible to beef up their commission. I've seen Robert Half's guide and it looked like they use independent sources, but would love to hear what you think.\n\nThanks for all the fantastic insights! I just started having the salary raise convo with my manager last week, so this is certainly timely :100:",
+        "user": "U028781SL6P",
+        "ts": "1634065929.192000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g41ac1ffd120",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ac1ffd1207aded3151077fb8f4f11e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Zachary",
+            "real_name": "Zachary Totah",
+            "display_name": "Zachary Totah",
+            "team": "TJE58GTJL",
+            "name": "zachary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Wccd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U026R1895QV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm just catching up on all the great info you shared and had a follow-up question here. What's your take on the accuracy of reports from staffing agencies? I've heard that those numbers are inflated since recruiters will push for the highest salary possible to beef up their commission. I've seen Robert Half's guide and it looked like they use independent sources, but would love to hear what you think.\n\nThanks for all the fantastic insights! I just started having the salary raise convo with my manager last week, so this is certainly timely "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633540070.101700",
+        "parent_user_id": "U01PMKURH4Y",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U026R1895QV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73C31CC0-930C-4B46-9AAA-691F8B752F2E",
+        "type": "message",
+        "text": "Why not use <https:\/\/www.getblend.com\/|https:\/\/www.getblend.com\/> <@U029WCJ7U48> ",
+        "user": "U02GJN3BYCB",
+        "ts": "1634066613.192400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a2eee0119df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-04\/2562944972291_7a2eee0119df3cd0c7a1_72.jpg",
+            "first_name": "Roy",
+            "real_name": "Roy Naar",
+            "display_name": "Roy Naar",
+            "team": "TJE58GTJL",
+            "name": "roy290",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Localization Services by BLEND",
+                "title": "BLEND - AI Powered End-to-End Localization Services",
+                "title_link": "https:\/\/www.getblend.com\/",
+                "text": "Brought by the makers of One Hour Translation, BLEND is helping global brands weave into new local markets.",
+                "fallback": "Localization Services by BLEND: BLEND - AI Powered End-to-End Localization Services",
+                "image_url": "https:\/\/www.getblend.com\/wp-content\/uploads\/2021\/02\/comp-edited.gif",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.getblend.com\/",
+                "image_bytes": 73348,
+                "service_icon": "https:\/\/www.getblend.com\/wp-content\/themes\/blend\/assets\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.getblend.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1Bt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why not use "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.getblend.com\/",
+                                "text": "https:\/\/www.getblend.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U029WCJ7U48"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633966209.168100",
+        "parent_user_id": "U029WCJ7U48",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U029WCJ7U48"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12803685-86c3-4e5b-a8d3-0e191307188a",
+        "type": "message",
+        "text": "Sure, I would definitely diversify your sources but also ask your friends what they make :eyes: . Sources like Glassdoor will tell you what companies are paying, but not the market rate if you went in at that role now. So getting as much data as possible is key, IMO, and amalgamating it all into a range that fits best for the work you feel like you’re putting in BUT ALSO how much you WANT to get paid.\n\nGood luck on the money conversations. Happy to help how I can.",
+        "user": "U026R1895QV",
+        "ts": "1634066924.192800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bt3U7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure, I would definitely diversify your sources but also ask your friends what they make "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Sources like Glassdoor will tell you what companies are paying, but not the market rate if you went in at that role now. So getting as much data as possible is key, IMO, and amalgamating it all into a range that fits best for the work you feel like you’re putting in BUT ALSO how much you WANT to get paid.\n\nGood luck on the money conversations. Happy to help how I can."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633540070.101700",
+        "parent_user_id": "U01PMKURH4Y"
+    },
+    {
+        "client_msg_id": "278606ED-C121-4CB1-BDAE-1C1777786688",
+        "type": "message",
+        "text": "Great, thank you <@U02GJN3BYCB> ",
+        "user": "U029WCJ7U48",
+        "ts": "1634071799.194000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab32363a35a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2337550505024_ab32363a35a88c1f0310_72.jpg",
+            "first_name": "",
+            "real_name": "Eugenia Bardukova",
+            "display_name": "Eugenia Bardukova",
+            "team": "TJE58GTJL",
+            "name": "e-bardukova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EaIq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great, thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GJN3BYCB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633966209.168100",
+        "parent_user_id": "U029WCJ7U48"
+    }
+]

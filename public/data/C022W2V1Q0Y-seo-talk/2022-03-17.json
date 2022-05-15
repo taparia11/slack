@@ -1,0 +1,923 @@
+[
+    {
+        "client_msg_id": "a903a665-00bc-4414-83cb-6fe8bdd2b3c0",
+        "type": "message",
+        "text": "Hey everyone! Looking for some advice - we're changing the format of our blog to include categories so visitors can easily access the content they're looking for.\n\nDo you think it can heavily impact SEO (in a negative way) to do these two things:\n\n1. Change the theme of your blog (same CMS, from what I see the code doesn't change too much)\n2. Change the URL structure - currently using \/article-name, it would change to \/category\/article-name \nThanks for any help! :pray:",
+        "user": "U032K3E2402",
+        "ts": "1647527973.332489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8bdb712e501e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-11\/3084202546710_8bdb712e501e47991992_72.jpg",
+            "first_name": "Briana",
+            "real_name": "Briana Dilworth",
+            "display_name": "Briana Dilworth",
+            "team": "TJE58GTJL",
+            "name": "briana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4zfrb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! Looking for some advice - we're changing the format of our blog to include categories so visitors can easily access the content they're looking for.\n\nDo you think it can heavily impact SEO (in a negative way) to do these two things:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change the theme of your blog (same CMS, from what I see the code doesn't change too much)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Change the URL structure - currently using \/article-name, it would change to \/category\/article-name "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThanks for any help! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "reply_count": 12,
+        "reply_users_count": 6,
+        "latest_reply": "1647870673.201359",
+        "reply_users": [
+            "UJE5LARL0",
+            "U032K3E2402",
+            "UUXMCJQ15",
+            "U0359RCHAGY",
+            "U01P13NTGG6",
+            "U02PUQ6CQRX"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LARL0",
+                "ts": "1647528063.550649"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1647528144.519919"
+            },
+            {
+                "user": "U032K3E2402",
+                "ts": "1647528711.289399"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1647528746.910669"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1647528796.451569"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1647531131.678789"
+            },
+            {
+                "user": "U032K3E2402",
+                "ts": "1647531704.995489"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1647531893.618499"
+            },
+            {
+                "user": "U0359RCHAGY",
+                "ts": "1647548949.529019"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1647565800.032139"
+            },
+            {
+                "user": "U0359RCHAGY",
+                "ts": "1647624913.480979"
+            },
+            {
+                "user": "U02PUQ6CQRX",
+                "ts": "1647870673.201359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2388196b-bb19-4c2f-a397-9706fbf01180",
+        "type": "message",
+        "text": "Behaviorally we've historically seen very little actual human traffic to categories pages - to my mind they're much more of a signal to Google for interlinking purposes.",
+        "user": "UJE5LARL0",
+        "ts": "1647528063.550649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZYr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Behaviorally we've historically seen very little actual human traffic to categories pages - to my mind they're much more of a signal to Google for interlinking purposes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJG24P8P6",
+                    "U02SHF57GQN",
+                    "URL9Z88MR",
+                    "U02GBBRSX2Q"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "556084aa-12a1-45d9-8f53-cef4d6e0db0d",
+        "type": "message",
+        "text": "I'd be hesitant to change your URL and site structure just to put them in as there's decent risk to changing the URL of every page on your site and redirecting them to the new URLs. You would definitely see an immediate dip in traffic + ranks and (hopefully then a recovery).",
+        "user": "UJE5LARL0",
+        "ts": "1647528144.519919",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd be hesitant to change your URL and site structure just to put them in as there's decent risk to changing the URL of every page on your site and redirecting them to the new URLs. You would definitely see an immediate dip in traffic + ranks and (hopefully then a recovery)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U024K88ECFN",
+                    "U02KFSN2QDR",
+                    "U020DJ63Y3F",
+                    "U02PUQ6CQRX",
+                    "URL9Z88MR"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a13acef0-8cee-40d3-8699-b234a10ed708",
+        "type": "message",
+        "text": "Thanks <@UJE5LARL0>! I agree, I am very hesitant to change the URL structure. Unfortunately I haven't found a better way to organize the blog, still trying to figure something out that won't damage anything long-term.",
+        "user": "U032K3E2402",
+        "ts": "1647528711.289399",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8bdb712e501e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-11\/3084202546710_8bdb712e501e47991992_72.jpg",
+            "first_name": "Briana",
+            "real_name": "Briana Dilworth",
+            "display_name": "Briana Dilworth",
+            "team": "TJE58GTJL",
+            "name": "briana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5euW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LARL0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I agree, I am very hesitant to change the URL structure. Unfortunately I haven't found a better way to organize the blog, still trying to figure something out that won't damage anything long-term."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402"
+    },
+    {
+        "client_msg_id": "95766490-7e76-4f74-b653-b71152644d7d",
+        "type": "message",
+        "text": "There's no reason you can't just do `\/category`and put all the links to the articles in that category under it.",
+        "user": "UJE5LARL0",
+        "ts": "1647528746.910669",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ief",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's no reason you can't just do "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/category",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "and put all the links to the articles in that category under it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402"
+    },
+    {
+        "client_msg_id": "5610f853-3ca6-46f2-a2c6-d15ae0039c18",
+        "type": "message",
+        "text": "That would only be new URLs, no changes to the existing ones and you could interlink them",
+        "user": "UJE5LARL0",
+        "ts": "1647528796.451569",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qreb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would only be new URLs, no changes to the existing ones and you could interlink them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402"
+    },
+    {
+        "client_msg_id": "0a7b6fbf-ca85-4e11-83a4-372b6745e958",
+        "type": "message",
+        "text": "how would adding the categories to the URL help the site visitors?\n\nUnless it's for tracking, I probably wouldn't.\n\nJust add breadcrumbs and category landing pages\/widgets to help guide people",
+        "user": "UUXMCJQ15",
+        "ts": "1647531131.678789",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EPL+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how would adding the categories to the URL help the site visitors?\n\nUnless it's for tracking, I probably wouldn't.\n\nJust add breadcrumbs and category landing pages\/widgets to help guide people"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U024K88ECFN",
+                    "U02GLJM8MST"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e27d86e9-648e-485b-91f9-d6addc6ed77f",
+        "type": "message",
+        "text": "<@UUXMCJQ15> our CMS changes the URL automatically :upside_down_face: I'm very new to blog structure so not sure if there is a way to override it. I'll contact their support to see :crossed_fingers:",
+        "user": "U032K3E2402",
+        "ts": "1647531704.995489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8bdb712e501e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-11\/3084202546710_8bdb712e501e47991992_72.jpg",
+            "first_name": "Briana",
+            "real_name": "Briana Dilworth",
+            "display_name": "Briana Dilworth",
+            "team": "TJE58GTJL",
+            "name": "briana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IKIj1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": " our CMS changes the URL automatically "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm very new to blog structure so not sure if there is a way to override it. I'll contact their support to see "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402"
+    },
+    {
+        "client_msg_id": "178b1645-52db-4ddf-9182-04759281edec",
+        "type": "message",
+        "text": "Oh yeah, that's super annoying. In WordPress, it's a button click to change URL structure. :confused:",
+        "user": "UUXMCJQ15",
+        "ts": "1647531893.618499",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YzjLd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh yeah, that's super annoying. In WordPress, it's a button click to change URL structure. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402"
+    },
+    {
+        "client_msg_id": "a3e3214a-c311-4978-9181-2085b639b721",
+        "type": "message",
+        "text": "Others have already said this, but I’ll just agree with them: it’s probably best not to mess with the URL structure. If you do that and you don’t do it correctly with 401 redirects (which can be tough depending on your understanding of redirects and the platform you use for your website), you’ll be at a big risk of losing any backlinks your blogs have already received.",
+        "user": "U0359RCHAGY",
+        "ts": "1647548949.529019",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7dd2989bd4d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-24\/3141563210823_b7dd2989bd4d9bfa430d_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Reynolds",
+            "display_name": "Joel Reynolds",
+            "team": "TJE58GTJL",
+            "name": "joel824",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9bw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Others have already said this, but I’ll just agree with them: it’s probably best not to mess with the URL structure. If you do that and you don’t do it correctly with 401 redirects (which can be tough depending on your understanding of redirects and the platform you use for your website), you’ll be at a big risk of losing any backlinks your blogs have already received."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U032K3E2402"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02SHF57GQN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa41b2e8-adbc-4cf5-a1a4-785ad549cac0",
+        "type": "message",
+        "text": "Hi all - does anyone know if using the (R) or (C) symbols immediately after a keyword has an effect on SEO?\n\nA client's highest ranking article is around the difference between Colorbond and Zincalume steel. He's just asked me to update it with the trademarked terms COLORBOND® and ZINCALUME®\n\nI'll keep an eye on it anyway but does google 'see' that trademark symbol or is it totally interchangeable with the plain non-trademarked keyword?",
+        "user": "U02AR2XSN1M",
+        "ts": "1647564914.095399",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all - does anyone know if using the (R) or (C) symbols immediately after a keyword has an effect on SEO?\n\nA client's highest ranking article is around the difference between Colorbond and Zincalume steel. He's just asked me to update it with the trademarked terms COLORBOND® and ZINCALUME®\n\nI'll keep an eye on it anyway but does google 'see' that trademark symbol or is it totally interchangeable with the plain non-trademarked keyword?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647564914.095399",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1647565704.162089",
+        "reply_users": [
+            "UJE5LARL0",
+            "U02AR2XSN1M",
+            "U01P13NTGG6"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LARL0",
+                "ts": "1647564971.626729"
+            },
+            {
+                "user": "U02AR2XSN1M",
+                "ts": "1647565035.161829"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1647565704.162089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "DEE59913-4620-43C3-8C72-03788DC43FA9",
+        "type": "message",
+        "text": "I've got to think that they're not a factor ",
+        "user": "UJE5LARL0",
+        "ts": "1647564971.626729",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've got to think that they're not a factor "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647564914.095399",
+        "parent_user_id": "U02AR2XSN1M"
+    },
+    {
+        "client_msg_id": "6a3c3a73-6071-431a-afbb-4afc7b5be7d1",
+        "type": "message",
+        "text": "Yeah that's my guess too Michael but didn't know if I was just making an assumption",
+        "user": "U02AR2XSN1M",
+        "ts": "1647565035.161829",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b0fa34c3f8f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-16\/2368450553975_b0fa34c3f8f5e02f6b43_72.jpg",
+            "first_name": "Leonie",
+            "real_name": "Leonie Waldron",
+            "display_name": "Leonie Waldron",
+            "team": "TJE58GTJL",
+            "name": "leonie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o=2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that's my guess too Michael but didn't know if I was just making an assumption"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647564914.095399",
+        "parent_user_id": "U02AR2XSN1M"
+    },
+    {
+        "client_msg_id": "F7201114-423F-40AB-ABD6-FDD94C9FE6BE",
+        "type": "message",
+        "text": "We haven't seen this impact things across the sites we work on. ",
+        "user": "U01P13NTGG6",
+        "ts": "1647565704.162089",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gO4dQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We haven't seen this impact things across the sites we work on. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647564914.095399",
+        "parent_user_id": "U02AR2XSN1M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02AR2XSN1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6289F31A-4754-4692-A0BE-105247F8966C",
+        "type": "message",
+        "text": "^ Joel meant 301 Redirects btw. Don’t want anyone accidentally trying to add 400 series codes when they really want 300 series haha.",
+        "user": "U01P13NTGG6",
+        "ts": "1647565800.032139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nur1c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^ Joel meant 301 Redirects btw. Don’t want anyone accidentally trying to add 400 series codes when they really want 300 series haha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647527973.332489",
+        "parent_user_id": "U032K3E2402",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U032K3E2402",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22C14E7C-873C-400F-A2AF-609BE1468E95",
+        "type": "message",
+        "text": "Would anyone know any good free seo\/website health checker type websites to use? Been asked to review a website and have googled a few but would like a fairly reliable or trusted site to use to share a report. ",
+        "user": "U031YR78494",
+        "ts": "1647575008.143699",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "464d381cfbf7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3059180198919_464d381cfbf73a4ea00a_72.jpg",
+            "first_name": "Tiffany",
+            "real_name": "Tiffany Goehring",
+            "display_name": "Tiffany Goehring",
+            "team": "TJE58GTJL",
+            "name": "tiffanygoehring2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fiQ1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would anyone know any good free seo\/website health checker type websites to use? Been asked to review a website and have googled a few but would like a fairly reliable or trusted site to use to share a report. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647575008.143699",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1647789066.835399",
+        "reply_users": [
+            "U02R3S1RBUL",
+            "U031YR78494",
+            "U01NM31CTFU",
+            "U0371R7SK4Y"
+        ],
+        "replies": [
+            {
+                "user": "U02R3S1RBUL",
+                "ts": "1647609856.994459"
+            },
+            {
+                "user": "U031YR78494",
+                "ts": "1647609894.994309"
+            },
+            {
+                "user": "U031YR78494",
+                "ts": "1647611766.217899"
+            },
+            {
+                "user": "U031YR78494",
+                "ts": "1647612018.108309"
+            },
+            {
+                "user": "U02R3S1RBUL",
+                "ts": "1647612062.485089"
+            },
+            {
+                "user": "U02R3S1RBUL",
+                "ts": "1647612121.034749"
+            },
+            {
+                "user": "U01NM31CTFU",
+                "ts": "1647653634.515259"
+            },
+            {
+                "user": "U031YR78494",
+                "ts": "1647653694.844899"
+            },
+            {
+                "user": "U0371R7SK4Y",
+                "ts": "1647789066.835399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

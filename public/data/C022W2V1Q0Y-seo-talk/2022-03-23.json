@@ -1,0 +1,1218 @@
+[
+    {
+        "client_msg_id": "b6f27f0f-dc87-4a0e-81b4-feffee06c626",
+        "type": "message",
+        "text": "Whether you should build a topic cluster or not heavily depends on the *depth of the topic* that you want to get visibility for.\n\nFor example, if you wanted to get visibility for something like 'product launch', it would make sense to build a page that works as a hub...\n\n<http:\/\/example.com\/product-launch|example.com\/product-launch>\n\n... and place every sub-topic under the hub page as follows...\n\n- <http:\/\/example.com\/product-launch\/strategy|example.com\/product-launch\/strategy>\n- <http:\/\/example.com\/product-launch\/checklist|example.com\/product-launch\/checklist>\n- <http:\/\/example.com\/product-launch\/presentation|example.com\/product-launch\/presentation>\n- <http:\/\/example.com\/product-launch\/timeline|example.com\/product-launch\/timeline>\n- <http:\/\/example.com\/product-launch\/metrics|example.com\/product-launch\/metrics>\n- ...\n\nOn the other hand, if the topic doesn't have as many sub-topics, you could satisfy search intent and manage to get visibility—assuming that you've managed to build topical authority for the target term—with one page, let's call it a pillar page.\n\nSo, it's case-specific, but it always depends on how many sub-topics are included in a topic.",
+        "user": "U037Q0P51E3",
+        "ts": "1648030957.295039",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5ec7110cd230",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-22\/3279031335492_5ec7110cd230479f0ce7_72.jpg",
+            "first_name": "Georgios",
+            "real_name": "Georgios Chasiotis",
+            "display_name": "Georgios Chasiotis",
+            "team": "TJE58GTJL",
+            "name": "georgios.chasiotis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zpC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whether you should build a topic cluster or not heavily depends on the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "depth of the topic",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that you want to get visibility for.\n\nFor example, if you wanted to get visibility for something like 'product launch', it would make sense to build a page that works as a hub...\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/product-launch",
+                                "text": "example.com\/product-launch"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n... and place every sub-topic under the hub page as follows...\n\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/product-launch\/strategy",
+                                "text": "example.com\/product-launch\/strategy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/product-launch\/checklist",
+                                "text": "example.com\/product-launch\/checklist"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/product-launch\/presentation",
+                                "text": "example.com\/product-launch\/presentation"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/product-launch\/timeline",
+                                "text": "example.com\/product-launch\/timeline"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/product-launch\/metrics",
+                                "text": "example.com\/product-launch\/metrics"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- ...\n\nOn the other hand, if the topic doesn't have as many sub-topics, you could satisfy search intent and manage to get visibility—assuming that you've managed to build topical authority for the target term—with one page, let's call it a pillar page.\n\nSo, it's case-specific, but it always depends on how many sub-topics are included in a topic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647974841.527469",
+        "parent_user_id": "U034DAJUU0Z",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032V06GP38",
+                    "U034DAKF3FB"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U0371R7SK4Y",
+                    "U034DAKF3FB",
+                    "U02SHF57GQN"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a00e9933-8c5b-4365-bf5b-0f9f4ae52e27",
+        "type": "message",
+        "text": "That makes sense, thanks <@U037Q0P51E3>!",
+        "user": "U034DAJUU0Z",
+        "ts": "1648036608.975479",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "946e67d51d20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3136774449859_946e67d51d2055a5ca44_72.png",
+            "first_name": "Paul",
+            "real_name": "Paul Woodland",
+            "display_name": "Paul",
+            "team": "TJE58GTJL",
+            "name": "writer303",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Flfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That makes sense, thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U037Q0P51E3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647974841.527469",
+        "parent_user_id": "U034DAJUU0Z"
+    },
+    {
+        "client_msg_id": "9247ae10-32b8-4e7c-a68b-2de690ed21be",
+        "type": "message",
+        "text": "A Saas platform wants that currently targets US wants to expand in UK &amp; other markets. What are a list of ways to do international SEO &amp; rank in these regions?\nI was first inclined towards having a subfolder for the region eg: <http:\/\/abc.com\/uk\/|abc.com\/uk\/> &amp; adding hreflangs but I don't see competitor sites following this. What are a few ways to localise the website for a region?",
+        "user": "U034DAKF3FB",
+        "ts": "1648038827.316579",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "15167ec051f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3165594249920_15167ec051f48b6ec63d_72.jpg",
+            "first_name": "Mohd",
+            "real_name": "Mohd Aatif M",
+            "display_name": "Aatif",
+            "team": "TJE58GTJL",
+            "name": "md.aatif97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/EQDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A Saas platform wants that currently targets US wants to expand in UK & other markets. What are a list of ways to do international SEO & rank in these regions?\nI was first inclined towards having a subfolder for the region eg: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/abc.com\/uk\/",
+                                "text": "abc.com\/uk\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & adding hreflangs but I don't see competitor sites following this. What are a few ways to localise the website for a region?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "reply_count": 17,
+        "reply_users_count": 2,
+        "latest_reply": "1648134692.229509",
+        "reply_users": [
+            "UJE5LARL0",
+            "U034DAKF3FB"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648039022.524939"
+            },
+            {
+                "user": "U034DAKF3FB",
+                "ts": "1648039082.443939"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648039679.963389"
+            },
+            {
+                "user": "U034DAKF3FB",
+                "ts": "1648039710.776039"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648039796.799349"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648039806.704009"
+            },
+            {
+                "user": "U034DAKF3FB",
+                "ts": "1648040258.356319"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648040315.874969"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648040342.504169"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648040364.228139"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648040631.808129"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648040644.988929"
+            },
+            {
+                "user": "U034DAKF3FB",
+                "ts": "1648048087.962259"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648055377.102979"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648055430.420039"
+            },
+            {
+                "user": "U034DAKF3FB",
+                "ts": "1648105623.115689"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1648134692.229509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "83377938-996a-4b26-81e9-fb4cea17f87a",
+        "type": "message",
+        "text": "Is the content actually UK specific?",
+        "user": "UJE5LARL0",
+        "ts": "1648039022.524939",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the content actually UK specific?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "884dc8c9-b225-4aa8-9713-edfb9b4d8b9a",
+        "type": "message",
+        "text": "<@UJE5LARL0> We do intend to make it UK specific, the english used might change subtly",
+        "user": "U034DAKF3FB",
+        "ts": "1648039082.443939",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "15167ec051f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3165594249920_15167ec051f48b6ec63d_72.jpg",
+            "first_name": "Mohd",
+            "real_name": "Mohd Aatif M",
+            "display_name": "Aatif",
+            "team": "TJE58GTJL",
+            "name": "md.aatif97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8b1h4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LARL0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We do intend to make it UK specific, the english used might change subtly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "f3be1c3c-727d-4431-abc1-d0ea27033e4e",
+        "type": "message",
+        "text": "I was thinking more like either local seo or brand\/regulation specific to the UK",
+        "user": "UJE5LARL0",
+        "ts": "1648039679.963389",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wDn7j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was thinking more like either local seo or brand\/regulation specific to the UK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "10a89e9c-c86c-4bf8-ba3f-3f2285264bc8",
+        "type": "message",
+        "text": "More on Brand\/regulation specific to the UK",
+        "user": "U034DAKF3FB",
+        "ts": "1648039710.776039",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "15167ec051f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3165594249920_15167ec051f48b6ec63d_72.jpg",
+            "first_name": "Mohd",
+            "real_name": "Mohd Aatif M",
+            "display_name": "Aatif",
+            "team": "TJE58GTJL",
+            "name": "md.aatif97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQy0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More on Brand\/regulation specific to the UK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "35e4ae87-ca09-45e4-8271-d375d20d9772",
+        "type": "message",
+        "text": "Like what is that?",
+        "user": "UJE5LARL0",
+        "ts": "1648039796.799349",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7i4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like what is that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "9cf2690d-be03-4d6e-b73d-313e4504eb53",
+        "type": "message",
+        "text": "Or that's what you are trying to do?",
+        "user": "UJE5LARL0",
+        "ts": "1648039806.704009",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Orurl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or that's what you are trying to do?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "083a37f6-0019-4404-b766-86380ffe3202",
+        "type": "message",
+        "text": "I have a set of English version URLs that rank well for US, I would like to also rank for UK.  Let's take 2 scenarios\n\na) I want the same URL to also rank for UK, what can I do from an SEO pov?\nb) I have several alternate URLs targeting users with the same language(english) but different locales. How do I signal this to Google\n\nWhat are the levers I have at my disposal?",
+        "user": "U034DAKF3FB",
+        "ts": "1648040258.356319",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "15167ec051f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3165594249920_15167ec051f48b6ec63d_72.jpg",
+            "first_name": "Mohd",
+            "real_name": "Mohd Aatif M",
+            "display_name": "Aatif",
+            "team": "TJE58GTJL",
+            "name": "md.aatif97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "73PU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have a set of English version URLs that rank well for US, I would like to also rank for UK.  Let's take 2 scenarios\n\na) I want the same URL to also rank for UK, what can I do from an SEO pov?\nb) I have several alternate URLs targeting users with the same language(english) but different locales. How do I signal this to Google\n\nWhat are the levers I have at my disposal?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "05cf060a-e029-47c2-a738-a3a6e5537c36",
+        "type": "message",
+        "text": "In general you're probably better working to raise the overall performance of those urls + the site than working on this unless there are significant local ranking factors",
+        "user": "UJE5LARL0",
+        "ts": "1648040315.874969",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cmKj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In general you're probably better working to raise the overall performance of those urls + the site than working on this unless there are significant local ranking factors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "6b8dd1c5-4f52-4a30-979b-d5b57ecc798b",
+        "type": "message",
+        "text": "note: this is specifically for english speaking countries",
+        "user": "UJE5LARL0",
+        "ts": "1648040342.504169",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "note: this is specifically for english speaking countries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "dc8fdbcf-28fa-4b47-9649-57e88a3af78f",
+        "type": "message",
+        "text": "`&lt;html lang=\"en\"&gt;`",
+        "user": "UJE5LARL0",
+        "ts": "1648040364.228139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sy9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<html lang=\"en\">",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "8cca0d54-c1de-46cb-a6c1-6f42256909c7",
+        "type": "message",
+        "text": "You can try to split it with `en-us` and `en-gb` but again not really worth it",
+        "user": "UJE5LARL0",
+        "ts": "1648040631.808129",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l\/CNd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can try to split it with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "en-us",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "en-gb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " but again not really worth it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "099e0ce6-7974-4570-b34e-d4a1bbc3c201",
+        "type": "message",
+        "text": "If it's beyond english then yes.",
+        "user": "UJE5LARL0",
+        "ts": "1648040644.988929",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XC=y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it's beyond english then yes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "01658cfd-dd7d-498e-991f-de63e4fb4c77",
+        "type": "message",
+        "text": "Hey everyone, do you know how to check if search volume for certain keyword changed significantly for last couple of days?",
+        "user": "U035B8X591C",
+        "ts": "1648043066.061959",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "01b773d8a4ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-18\/3257030610021_01b773d8a4adebf1ad8d_72.jpg",
+            "first_name": "Adrian",
+            "real_name": "Adrian Parafianowicz",
+            "display_name": "Adrian Parafianowicz",
+            "team": "TJE58GTJL",
+            "name": "adrian.parafianowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U035B8X591C",
+            "ts": "1648043080.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6tH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, do you know how to check if search volume for certain keyword changed significantly for last couple of days?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648043066.061959",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1648197825.059949",
+        "reply_users": [
+            "UUKNSAKUH",
+            "UUXMCJQ15",
+            "U02C6HZ184F",
+            "U02TK8ZEA4B"
+        ],
+        "replies": [
+            {
+                "user": "UUKNSAKUH",
+                "ts": "1648043158.550169"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1648043959.611029"
+            },
+            {
+                "user": "U02C6HZ184F",
+                "ts": "1648049441.534139"
+            },
+            {
+                "user": "U02TK8ZEA4B",
+                "ts": "1648197825.059949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1648043066.854529"
+    },
+    {
+        "client_msg_id": "ffb8d6ab-eb42-484d-836f-90abcfcbe290",
+        "type": "message",
+        "text": "that sounds like a pretty volatile keyword, and i don't think the current tools on the market support daily volume changes. I'd look at google trends data to understand how the search behavior changes",
+        "user": "UUKNSAKUH",
+        "ts": "1648043158.550169",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c1fd638514",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/975112902481_22c1fd63851461dc68d6_72.jpg",
+            "first_name": "Kal",
+            "real_name": "Kal Dimitrov",
+            "display_name": "Kal Dimitrov",
+            "team": "TJE58GTJL",
+            "name": "kaloyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZBs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that sounds like a pretty volatile keyword, and i don't think the current tools on the market support daily volume changes. I'd look at google trends data to understand how the search behavior changes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648043066.061959",
+        "parent_user_id": "U035B8X591C",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U035B8X591C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF",
+                    "U02SHF57GQN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9420a10-781e-46b2-aef5-db2180d6ba65",
+        "type": "message",
+        "text": "Google trends is going to be your best bet",
+        "user": "UUXMCJQ15",
+        "ts": "1648043959.611029",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pL5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google trends is going to be your best bet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648043066.061959",
+        "parent_user_id": "U035B8X591C",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF",
+                    "U02LR6JUZN3",
+                    "U034DAKF3FB",
+                    "U02SHF57GQN",
+                    "U024K88ECFN"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e50f0b5-034c-4177-8acb-0f02e52d8bf1",
+        "type": "message",
+        "text": "&gt; You can try to split it with `en-us` and `en-gb` but again not really worth it\nWhy do you say this Michael, have you tested this earlier &amp; seen no positive impact?",
+        "user": "U034DAKF3FB",
+        "ts": "1648048087.962259",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "15167ec051f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3165594249920_15167ec051f48b6ec63d_72.jpg",
+            "first_name": "Mohd",
+            "real_name": "Mohd Aatif M",
+            "display_name": "Aatif",
+            "team": "TJE58GTJL",
+            "name": "md.aatif97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+nfyQ",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can try to split it with "
+                            },
+                            {
+                                "type": "text",
+                                "text": "en-us",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "en-gb",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " but again not really worth it"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nWhy do you say this Michael, have you tested this earlier & seen no positive impact?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "7c9c061d-dda7-45a1-b092-618b873ce02a",
+        "type": "message",
+        "text": "If you rank at all for the keyword you might see fluctuations in your Search Console impressions too <@U035B8X591C>. But otherwise Kal &amp; Brendan are right -- keyword research tools wouldn't detect the change so quickly.\n\nFor what it's worth, in my experience, the keyword research tools picking up trends the fastest are Similarweb &amp; KWFinder.",
+        "user": "U02C6HZ184F",
+        "ts": "1648049441.534139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb508a097d88",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b508a097d886e4064a5b67525af2041b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Prior",
+            "display_name": "Ryan Prior",
+            "team": "TJE58GTJL",
+            "name": "ryanpriormarketing",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qAs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you rank at all for the keyword you might see fluctuations in your Search Console impressions too "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U035B8X591C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". But otherwise Kal & Brendan are right -- keyword research tools wouldn't detect the change so quickly.\n\nFor what it's worth, in my experience, the keyword research tools picking up trends the fastest are Similarweb & KWFinder."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648043066.061959",
+        "parent_user_id": "U035B8X591C",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U034DAKF3FB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ebbe00d-1b7e-4739-b416-f06fe7e372f4",
+        "type": "message",
+        "text": "Yes, no impact, but also I've seen instances of sites really messing themselves up by specifying language codes that shouldn't have been in place.",
+        "user": "UJE5LARL0",
+        "ts": "1648055377.102979",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/oY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, no impact, but also I've seen instances of sites really messing themselves up by specifying language codes that shouldn't have been in place."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    },
+    {
+        "client_msg_id": "6dca0c95-7deb-46bc-a156-b8adf96c313d",
+        "type": "message",
+        "text": "This is why I was asking kind of what the content actually _is_ - as it makes a big difference.",
+        "user": "UJE5LARL0",
+        "ts": "1648055430.420039",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is why I was asking kind of what the content actually "
+                            },
+                            {
+                                "type": "text",
+                                "text": "is",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - as it makes a big difference."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648038827.316579",
+        "parent_user_id": "U034DAKF3FB"
+    }
+]

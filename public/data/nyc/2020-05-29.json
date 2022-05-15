@@ -1,0 +1,344 @@
+[
+    {
+        "client_msg_id": "a66fa20c-3b36-4a0c-9f10-74caccb2ceca",
+        "type": "message",
+        "text": ":wave:",
+        "user": "U011UJX75PE",
+        "ts": "1590751391.000300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wIZL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c43f8dc-851f-4c00-8a75-e67f12a3d86d",
+        "type": "message",
+        "text": "<@U012R27LRJ8> how goes it at coda?",
+        "user": "U011UJX75PE",
+        "ts": "1590751418.000700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOaNh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012R27LRJ8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how goes it at coda?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590751418.000700",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1590785575.001800",
+        "reply_users": [
+            "U012R27LRJ8",
+            "U011UJX75PE"
+        ],
+        "replies": [
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1590763682.000800"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1590777602.001000"
+            },
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1590778253.001400"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1590782861.001600"
+            },
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1590785575.001800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1590785575.001800"
+    },
+    {
+        "client_msg_id": "e2443ddb-2f0c-40c0-9200-7f299c8364ea",
+        "type": "message",
+        "text": "Hey Walter, it’s going well? Have you tried Coda out?",
+        "user": "U012R27LRJ8",
+        "ts": "1590763682.000800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc7e97cc49db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7e97cc49db3bc3a0bae60f1201822c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Al",
+            "real_name": "Al Chen",
+            "display_name": "Al Chen",
+            "team": "TJE58GTJL",
+            "name": "al",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sd+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Walter, it’s going well? Have you tried Coda out?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590751418.000700",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "d8adcbd3-9b22-4c6f-9ef4-6a82ae62333b",
+        "type": "message",
+        "text": "yeah definitely! <@UJG9WTEKG> and i tried it out recently. we switched from notion to coda, but then went back to notion. i wouldn't be surprised if we switched to coda again down the line :stuck_out_tongue:",
+        "user": "U011UJX75PE",
+        "ts": "1590777602.001000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "142XY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah definitely! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and i tried it out recently. we switched from notion to coda, but then went back to notion. i wouldn't be surprised if we switched to coda again down the line "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590751418.000700",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1590777607.001300",
+        "user": "UJG9WTEKG",
+        "text": "<@UJG9WTEKG> has joined the channel",
+        "inviter": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "60cc1c81-7d99-4263-8f03-5f1c35e42e08",
+        "type": "message",
+        "text": "Gotcha, would love to hear what you thought about as you guys switched from tool to tool :slightly_smiling_face:",
+        "user": "U012R27LRJ8",
+        "ts": "1590778253.001400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc7e97cc49db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7e97cc49db3bc3a0bae60f1201822c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Al",
+            "real_name": "Al Chen",
+            "display_name": "Al Chen",
+            "team": "TJE58GTJL",
+            "name": "al",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lV9J6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gotcha, would love to hear what you thought about as you guys switched from tool to tool "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590751418.000700",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "cfb966cd-2ea4-4862-87e1-3000fb0445ae",
+        "type": "message",
+        "text": "<@U012R27LRJ8> what's your email? i'll shoot you a note to chat sometime",
+        "user": "U011UJX75PE",
+        "ts": "1590782861.001600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cdhV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012R27LRJ8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what's your email? i'll shoot you a note to chat sometime"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590751418.000700",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "996a6658-42e0-4502-9e7f-c3f5164df94f",
+        "type": "message",
+        "text": "<mailto:al@coda.io|al@coda.io>",
+        "user": "U012R27LRJ8",
+        "ts": "1590785575.001800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc7e97cc49db",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7e97cc49db3bc3a0bae60f1201822c7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Al",
+            "real_name": "Al Chen",
+            "display_name": "Al Chen",
+            "team": "TJE58GTJL",
+            "name": "al",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r7H+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:al@coda.io",
+                                "text": "al@coda.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590751418.000700",
+        "parent_user_id": "U011UJX75PE"
+    }
+]

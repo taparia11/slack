@@ -1,0 +1,249 @@
+[
+    {
+        "client_msg_id": "4a6891be-a9c8-45af-ae34-95dd8b5302b4",
+        "type": "message",
+        "text": "Got a great addition to the list :eyes: — <http:\/\/contentkingapp.com|contentkingapp.com>",
+        "user": "U014PRHQUQ2",
+        "ts": "1633259715.268700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got a great addition to the list "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " — "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/contentkingapp.com",
+                                "text": "contentkingapp.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633094334.261100",
+        "parent_user_id": "U02D1E37FL5",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01P13NTGG6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8AA43148-DDDE-46AC-B8E5-EAC6110B8B88",
+        "type": "message",
+        "text": "So far the only technical fixes we’ve seen make a big impact (outside of resolving 404s for good pages) we're things related to:\n\n• Robots directives being updated so they wouldn't block Google from important sections\n• Hreflang fixes on international sites\n• Making the DOM include the content we want Google to see (more of a dev fix though) ",
+        "user": "U01P13NTGG6",
+        "ts": "1633300205.272300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bCW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So far the only technical fixes we’ve seen make a big impact (outside of resolving 404s for good pages) we're things related to:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Robots directives being updated so they wouldn't block Google from important sections"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hreflang fixes on international sites"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Making the DOM include the content we want Google to see (more of a dev fix though) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633071946.258500",
+        "parent_user_id": "U01DBK8S96V"
+    },
+    {
+        "client_msg_id": "b5b1662e-79b0-42b0-a136-888acf9bac8f",
+        "type": "message",
+        "text": "<@U01P13NTGG6> thank you!",
+        "user": "U01DBK8S96V",
+        "ts": "1633317830.272500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g427f0eded63",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/427f0eded633698b146357488c7c0696.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Ivana",
+            "real_name": "Ivana Ivanovic",
+            "display_name": "Ivana Ivanovic",
+            "team": "TJE58GTJL",
+            "name": "ivanasays",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01P13NTGG6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633071946.258500",
+        "parent_user_id": "U01DBK8S96V"
+    },
+    {
+        "type": "message",
+        "text": "Fam, what's your go-to source for content-related news? not just SEO. Trying to see if I'm missing something. :pray:",
+        "user": "U019P0ADPCH",
+        "ts": "1633327203.272700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bkN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fam, what's your go-to source for content-related news? not just SEO. Trying to see if I'm missing something. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633327203.272700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1633369245.298000",
+        "reply_users": [
+            "UUXMCJQ15",
+            "UPZ4VTLJE"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1633351594.288100"
+            },
+            {
+                "user": "UPZ4VTLJE",
+                "ts": "1633369245.298000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

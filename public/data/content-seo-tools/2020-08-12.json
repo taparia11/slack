@@ -1,0 +1,853 @@
+[
+    {
+        "client_msg_id": "02f26ee4-2bc8-4c97-97e2-e77d44c0d4a6",
+        "type": "message",
+        "text": "Wow, Descript really seems interesting. Thanks for the suggestion.",
+        "user": "U0178128EV6",
+        "ts": "1597239965.003800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "171aabd683a6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-27\/1332467053604_171aabd683a6f33c5e28_72.png",
+            "first_name": "Shiv",
+            "real_name": "Shiv Sharma",
+            "display_name": "Shiv",
+            "team": "TJE58GTJL",
+            "name": "shiv14star",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8CA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, Descript really seems interesting. Thanks for the suggestion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596907459.176100",
+        "parent_user_id": "U013YD0RFGX"
+    },
+    {
+        "client_msg_id": "48b42a6b-f22f-4e4e-9acf-e48dbfe45fd6",
+        "type": "message",
+        "text": "Has anyone here tried Clay? Super interesting tool for sales &amp; marketing outreach (it's basically spreadsheets that automatically populate through APIs and search) and they're sort of in beta-ish still. <https:\/\/clay.run>",
+        "user": "UJ57DB9BM",
+        "ts": "1597253491.005500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5879d1254678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-20\/1015010058132_5879d1254678f05899b0_72.jpg",
+            "first_name": "Emma",
+            "real_name": "Emma Siemasko",
+            "display_name": "Emma Siemasko",
+            "team": "TJE58GTJL",
+            "name": "emma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Clay",
+                "title": "Clay - Workflows, Simple DB, and Serverless code to build tools and powerful automation for your team",
+                "title_link": "https:\/\/clay.run\/",
+                "text": "Quickly connect apps and custom code to create automated workflows and build tools for your team",
+                "fallback": "Clay: Clay - Workflows, Simple DB, and Serverless code to build tools and powerful automation for your team",
+                "from_url": "https:\/\/clay.run\/",
+                "service_icon": "https:\/\/clay.run\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/clay.run"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone here tried Clay? Super interesting tool for sales & marketing outreach (it's basically spreadsheets that automatically populate through APIs and search) and they're sort of in beta-ish still. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/clay.run"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "reply_count": 16,
+        "reply_users_count": 4,
+        "latest_reply": "1597255588.009200",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U011UJX75PE",
+            "UJ57DB9BM",
+            "UT9JX4C5C"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1597253518.005700"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597253518.005900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1597253523.006100"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597253534.006300"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597253542.006500"
+            },
+            {
+                "user": "UJ57DB9BM",
+                "ts": "1597253708.006700"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597253760.006900"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597253778.007100"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597253786.007300"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597253807.007500"
+            },
+            {
+                "user": "UJ57DB9BM",
+                "ts": "1597255177.007900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1597255228.008100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1597255238.008300"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597255323.008500"
+            },
+            {
+                "user": "U011UJX75PE",
+                "ts": "1597255332.009000"
+            },
+            {
+                "user": "UT9JX4C5C",
+                "ts": "1597255588.009200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1597255588.009200"
+    },
+    {
+        "client_msg_id": "4a4372de-e23f-4bf6-b7dd-b4e42eb1d5f7",
+        "type": "message",
+        "text": "ooooooohhhh!",
+        "user": "UJG9WTEKG",
+        "ts": "1597253518.005700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXtU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ooooooohhhh!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "40ea98cc-a5f9-4a78-8088-6f96fac9dbab",
+        "type": "message",
+        "text": "looks very cool, would like to try it out",
+        "user": "U011UJX75PE",
+        "ts": "1597253518.005900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "apl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks very cool, would like to try it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "d9c8e1d7-9795-4365-8423-aa501d16c1e7",
+        "type": "message",
+        "text": "haven’t tried looks really cool",
+        "user": "UJG9WTEKG",
+        "ts": "1597253523.006100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvI2H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haven’t tried looks really cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "a478cfd3-1cdf-4eac-a8bf-d8f5f363e950",
+        "type": "message",
+        "text": "very ambitious!",
+        "user": "U011UJX75PE",
+        "ts": "1597253534.006300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZVvKo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "very ambitious!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "b829c92f-50a3-4b7e-8e3f-6fcfe228ffb7",
+        "type": "message",
+        "text": "we use like 3 separate tools to do what they wanna do with 1",
+        "user": "U011UJX75PE",
+        "ts": "1597253542.006500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JVY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we use like 3 separate tools to do what they wanna do with 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "f2b5843f-bf4a-40b6-9dd2-8aef5225222c",
+        "type": "message",
+        "text": "I know. They are new and still refining their messaging. I know the peeps. But it struck me as such an amazing tool for creating outreach lists!",
+        "user": "UJ57DB9BM",
+        "ts": "1597253708.006700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5879d1254678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-20\/1015010058132_5879d1254678f05899b0_72.jpg",
+            "first_name": "Emma",
+            "real_name": "Emma Siemasko",
+            "display_name": "Emma Siemasko",
+            "team": "TJE58GTJL",
+            "name": "emma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDee",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know. They are new and still refining their messaging. I know the peeps. But it struck me as such an amazing tool for creating outreach lists!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "76df5815-4a73-41b1-9bd8-2a504c0e28e2",
+        "type": "message",
+        "text": "yeah looks amazing",
+        "user": "U011UJX75PE",
+        "ts": "1597253760.006900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i32",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah looks amazing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "0bf432af-a05e-4fc9-833a-f92420de3cb5",
+        "type": "message",
+        "text": "the problem is having to rip out zapier + airtable",
+        "user": "U011UJX75PE",
+        "ts": "1597253778.007100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "54w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the problem is having to rip out zapier + airtable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "1626cf34-895a-42a5-a0bb-621d5dd73452",
+        "type": "message",
+        "text": "we're in pretty deep with those tools",
+        "user": "U011UJX75PE",
+        "ts": "1597253786.007300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aofsF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we're in pretty deep with those tools"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "a04fc5a7-9ce6-4a1f-9663-797e69058118",
+        "type": "message",
+        "text": "definitely could see starting fresh with clay though",
+        "user": "U011UJX75PE",
+        "ts": "1597253807.007500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NV9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "definitely could see starting fresh with clay though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "33c65f60-8dc2-4add-aba8-8f20db6a7e1d",
+        "type": "message",
+        "text": "yeah, i agree. what are you doing with zapier and airtable if you don't mind sharing?",
+        "user": "UJ57DB9BM",
+        "ts": "1597255177.007900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5879d1254678",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-20\/1015010058132_5879d1254678f05899b0_72.jpg",
+            "first_name": "Emma",
+            "real_name": "Emma Siemasko",
+            "display_name": "Emma Siemasko",
+            "team": "TJE58GTJL",
+            "name": "emma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EhAnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah, i agree. what are you doing with zapier and airtable if you don't mind sharing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "ff631a76-145d-4226-a890-1ec2980ca68e",
+        "type": "message",
+        "text": "how much time do you have <@UJ57DB9BM>?",
+        "user": "UJG9WTEKG",
+        "ts": "1597255228.008100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p=dn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how much time do you have "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ57DB9BM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd3eb54b-0cf5-452f-bd17-88242a682e15",
+        "type": "message",
+        "text": ":laughing:",
+        "user": "UJG9WTEKG",
+        "ts": "1597255238.008300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "b14c71ee-05b6-4407-bb59-a961241116d6",
+        "type": "message",
+        "text": "<@UJ57DB9BM> definitely talk with <@UT9JX4C5C>",
+        "user": "U011UJX75PE",
+        "ts": "1597255323.008500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aPy0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ57DB9BM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " definitely talk with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT9JX4C5C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1597255326.008800",
+        "user": "UT9JX4C5C",
+        "text": "<@UT9JX4C5C> has joined the channel",
+        "inviter": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "5ab7e13d-2233-4bf7-bde8-7fdafde313cd",
+        "type": "message",
+        "text": "he's the person to talk with about this",
+        "user": "U011UJX75PE",
+        "ts": "1597255332.009000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y5uT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "he's the person to talk with about this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    },
+    {
+        "client_msg_id": "10be0051-45ea-4679-8dcf-267470374d79",
+        "type": "message",
+        "text": "<@UJ57DB9BM> happy to chat through how we use zapier and airtable at Animalz. Will dm you.",
+        "user": "UT9JX4C5C",
+        "ts": "1597255588.009200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb6498cf412b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6498cf412b7dabfa11926f2dfb77126.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Tate",
+            "display_name": "Andrew Tate",
+            "team": "TJE58GTJL",
+            "name": "andrew236",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ57DB9BM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " happy to chat through how we use zapier and airtable at Animalz. Will dm you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597253491.005500",
+        "parent_user_id": "UJ57DB9BM"
+    }
+]

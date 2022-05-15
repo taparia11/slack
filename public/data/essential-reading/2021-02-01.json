@@ -1,0 +1,236 @@
+[
+    {
+        "client_msg_id": "cdb6f1c3-7e8f-471a-90a5-673511e1e8b4",
+        "type": "message",
+        "text": "interesting <https:\/\/venturebeat.com\/2021\/02\/01\/cloud-do-better-zaraz-promises-40-faster-websites-with-a-single-line-of-code\/> <@UJG9WTEKG> <@UT9JX4C5C>",
+        "user": "U011UJX75PE",
+        "ts": "1612204858.019300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "VentureBeat",
+                "title": "Cloud do better: Zaraz promises 40% faster websites with a single line of code",
+                "title_link": "https:\/\/venturebeat.com\/2021\/02\/01\/cloud-do-better-zaraz-promises-40-faster-websites-with-a-single-line-of-code\/",
+                "text": "Zaraz emerged from stealth today with a mission to expedite page load times using the cloud and a single line of code.",
+                "fallback": "VentureBeat: Cloud do better: Zaraz promises 40% faster websites with a single line of code",
+                "image_url": "https:\/\/venturebeat.com\/wp-content\/uploads\/2021\/01\/feat2.png?w=1200&strip=all",
+                "image_width": 503,
+                "image_height": 250,
+                "ts": 1612168223,
+                "from_url": "https:\/\/venturebeat.com\/2021\/02\/01\/cloud-do-better-zaraz-promises-40-faster-websites-with-a-single-line-of-code\/",
+                "image_bytes": 147431,
+                "service_icon": "https:\/\/venturebeat.com\/wp-content\/themes\/vb-news\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/venturebeat.com\/2021\/02\/01\/cloud-do-better-zaraz-promises-40-faster-websites-with-a-single-line-of-code\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QO3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "interesting "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/venturebeat.com\/2021\/02\/01\/cloud-do-better-zaraz-promises-40-faster-websites-with-a-single-line-of-code\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT9JX4C5C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJHT5CHUY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a357a21-17ca-42c4-bbef-a866b7ea787e",
+        "type": "message",
+        "text": "cc <@UJHT5CHUY>",
+        "user": "U011UJX75PE",
+        "ts": "1612204862.019600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "So0z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJHT5CHUY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1612204865.019800",
+        "user": "UJHT5CHUY",
+        "text": "<@UJHT5CHUY> has joined the channel",
+        "inviter": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "e63408a9-74ad-4a4f-aace-8d1a34650222",
+        "type": "message",
+        "text": "wow, interesting \"server-side API connections as a service\" concept behind this\n\nhonestly haven't seen anything else launch with this concept, how cool! like a _better_ google tag manager, done for you.\n\nwonder if there's any fallback to default to original client-side connections if Zaraz has outage\/goes down, though? :thinking_face:",
+        "user": "UJHT5CHUY",
+        "ts": "1612208701.021400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9b31c258d041",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1883903218582_9b31c258d041f6de2b99_72.jpg",
+            "first_name": "Scott",
+            "real_name": "Scott Mathson",
+            "display_name": "scottmathson",
+            "team": "TJE58GTJL",
+            "name": "yo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3OqX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wow, interesting \"server-side API connections as a service\" concept behind this\n\nhonestly haven't seen anything else launch with this concept, how cool! like a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "better",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " google tag manager, done for you.\n\nwonder if there's any fallback to default to original client-side connections if Zaraz has outage\/goes down, though? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "809e4dd8-99eb-4777-b59c-a30b14593386",
+        "type": "message",
+        "text": "good acquisition play with this tool, too <https:\/\/zaraz.com\/analyze\/>",
+        "user": "UJHT5CHUY",
+        "ts": "1612208767.021900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9b31c258d041",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1883903218582_9b31c258d041f6de2b99_72.jpg",
+            "first_name": "Scott",
+            "real_name": "Scott Mathson",
+            "display_name": "scottmathson",
+            "team": "TJE58GTJL",
+            "name": "yo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJHT5CHUY",
+            "ts": "1612208770.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BcOY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good acquisition play with this tool, too "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zaraz.com\/analyze\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

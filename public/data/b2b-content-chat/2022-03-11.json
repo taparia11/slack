@@ -1,0 +1,1937 @@
+[
+    {
+        "client_msg_id": "67E539E1-7B03-4CEA-98C2-B76E4E16F615",
+        "type": "message",
+        "text": "Thank you so much Cassandra! This was incredibly helpful ",
+        "user": "U033PA64ZCM",
+        "ts": "1646990849.172289",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6514f54edadb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3125694402117_6514f54edadb90eb95d7_72.png",
+            "first_name": "Elisa",
+            "real_name": "Elisa W",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "elisawittg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6wP7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much Cassandra! This was incredibly helpful "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646921553.781789",
+        "parent_user_id": "U033PA64ZCM"
+    },
+    {
+        "client_msg_id": "6844fbe6-dca6-486b-b114-653d815f6bfd",
+        "type": "message",
+        "text": "Hi everyone, I’m writing and article and curious to see what you think…\n\nWhen creating forms (demo, free trial, or any type of sign up form) do you feel like having _more_ fields is better than _fewer_ fields? Have you seen one or the other convert better?\n\nThanks!",
+        "user": "U02QWSD3BSM",
+        "ts": "1646991593.941859",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "324c6d0b067a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-13\/2858834074192_324c6d0b067a7ae7d44f_72.png",
+            "first_name": "Carlos",
+            "real_name": "Carlos",
+            "display_name": "Carlos",
+            "team": "TJE58GTJL",
+            "name": "carlos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vMn3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, I’m writing and article and curious to see what you think…\n\nWhen creating forms (demo, free trial, or any type of sign up form) do you feel like having "
+                            },
+                            {
+                                "type": "text",
+                                "text": "more",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " fields is better than "
+                            },
+                            {
+                                "type": "text",
+                                "text": "fewer",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " fields? Have you seen one or the other convert better?\n\nThanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646991593.941859",
+        "reply_count": 10,
+        "reply_users_count": 8,
+        "latest_reply": "1647472744.967219",
+        "reply_users": [
+            "U036K0S6AQJ",
+            "URAV154AV",
+            "U0359RCHAGY",
+            "UUH2ESL66",
+            "U017WRJTKF1",
+            "U033KHGTDHC",
+            "U02QWSD3BSM",
+            "U0340MZ0NQ2"
+        ],
+        "replies": [
+            {
+                "user": "U036K0S6AQJ",
+                "ts": "1646992852.683249"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1647004577.376099"
+            },
+            {
+                "user": "U0359RCHAGY",
+                "ts": "1647011886.614419"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1647019811.480069"
+            },
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1647021069.216639"
+            },
+            {
+                "user": "U033KHGTDHC",
+                "ts": "1647032583.018969"
+            },
+            {
+                "user": "U02QWSD3BSM",
+                "ts": "1647253599.767339"
+            },
+            {
+                "user": "U02QWSD3BSM",
+                "ts": "1647271842.252769"
+            },
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1647281528.917499"
+            },
+            {
+                "user": "U0340MZ0NQ2",
+                "ts": "1647472744.967219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4144532c-b374-424d-b989-13bcdbe0a56d",
+        "type": "message",
+        "text": "Hey <@U02QWSD3BSM>, there's pros and cons to both. More fields obviously qualifies the prospect more, and gives you more data to understand your customers (if they sign up), but it may lower your conversion rate. If sign ups are my main KPI, then I keep forms punchy with just 2-3 fields. Less friction points for the prospect\/reader to actually convert. It also depends on the environment and what the form is trying to achieve. For example, if it's a product sign up form that appears on a blog article, best to keep it short, whereas someone who is requesting a demo is a hotter lead and might be willing to fill in more fields. Interested to hear what others think.",
+        "user": "U036K0S6AQJ",
+        "ts": "1646992852.683249",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae1c89740f73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3238181402369_ae1c89740f73728518be_72.jpg",
+            "first_name": "Cary",
+            "real_name": "Cary Hastings",
+            "display_name": "Cary Hastings",
+            "team": "TJE58GTJL",
+            "name": "hastings.cary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YpCw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02QWSD3BSM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", there's pros and cons to both. More fields obviously qualifies the prospect more, and gives you more data to understand your customers (if they sign up), but it may lower your conversion rate. If sign ups are my main KPI, then I keep forms punchy with just 2-3 fields. Less friction points for the prospect\/reader to actually convert. It also depends on the environment and what the form is trying to achieve. For example, if it's a product sign up form that appears on a blog article, best to keep it short, whereas someone who is requesting a demo is a hotter lead and might be willing to fill in more fields. Interested to hear what others think."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646991593.941859",
+        "parent_user_id": "U02QWSD3BSM",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02QWSD3BSM",
+                    "U02F1GK6U6B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1135E275-82DD-4DE8-B6A8-66AD04BED493",
+        "type": "message",
+        "text": "Hi everyone, \n\nFor an article:\n\nLooking to chat with folks that have hired for ABM roles or are working in ABM teams. Your insights will be featured with a link to your LinkedIn profile and company site. \n",
+        "user": "U02A2P1TQE6",
+        "ts": "1646994545.401149",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fe882b8e69b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-11\/2831156303956_fe882b8e69b3d67bc745_72.png",
+            "first_name": "Sneh",
+            "real_name": "Sneh Ratna Choudhary",
+            "display_name": "Sneh",
+            "team": "TJE58GTJL",
+            "name": "snehratnachoudhary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8fc3s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "For an article:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Looking to chat with folks that have hired for ABM roles or are working in ABM teams. Your insights will be featured with a link to your LinkedIn profile and company site. \n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646994545.401149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1647190602.966649",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U02A2P1TQE6"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1647021816.694209"
+            },
+            {
+                "user": "U02A2P1TQE6",
+                "ts": "1647190602.966649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "62f0d868-6c60-4491-b7b2-c44e7b026ee8",
+        "type": "message",
+        "text": "You're welcome! Good luck. Sounds like a great opportunity to demonstrate leadership and set up an important new process at your company.",
+        "user": "URAV154AV",
+        "ts": "1647004480.094439",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're welcome! Good luck. Sounds like a great opportunity to demonstrate leadership and set up an important new process at your company."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646921553.781789",
+        "parent_user_id": "U033PA64ZCM"
+    },
+    {
+        "client_msg_id": "3a52b83a-0fd4-4078-9286-1ecc8ab82b78",
+        "type": "message",
+        "text": "More fields, fewer conversions. Especially if it's anything that's not autopopulated by the browser. There are better ways to get information than making the prospect fill out tons of fields.",
+        "user": "URAV154AV",
+        "ts": "1647004577.376099",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bWqs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More fields, fewer conversions. Especially if it's anything that's not autopopulated by the browser. There are better ways to get information than making the prospect fill out tons of fields."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646991593.941859",
+        "parent_user_id": "U02QWSD3BSM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02QWSD3BSM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "point_up",
+                "users": [
+                    "U027Y9T7GTC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce7574a2-63f0-44ea-bf55-d2edbea5376a",
+        "type": "message",
+        "text": "Is anyone else the *solo marketer at a B2B SaaS company*? I’d love to connect and hear your experiences, explore what your day-to-day looks like, work out challenges together etc. :slightly_smiling_face: I’m technically the ‘inbound marketer’ but as the only person in the marketing team, I still end up doing other bits and bobs too haha.",
+        "user": "U02ANC57AAY",
+        "ts": "1647007124.792489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "45b108914224",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-09\/2359758724082_45b108914224a53b7683_72.jpg",
+            "first_name": "Steph",
+            "real_name": "Steph Smith",
+            "display_name": "Steph Smith",
+            "team": "TJE58GTJL",
+            "name": "steph",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is anyone else the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "solo marketer at a B2B SaaS company",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "? I’d love to connect and hear your experiences, explore what your day-to-day looks like, work out challenges together etc. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m technically the ‘inbound marketer’ but as the only person in the marketing team, I still end up doing other bits and bobs too haha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647007124.792489",
+        "reply_count": 14,
+        "reply_users_count": 11,
+        "latest_reply": "1649955186.390589",
+        "reply_users": [
+            "U012GHRAHDK",
+            "U02ANC57AAY",
+            "U031E6LGWNQ",
+            "U02HG9U4JQG",
+            "U02GA7499BP",
+            "UUXMCJQ15",
+            "U02V46B3JRX",
+            "U030TFJS6QJ",
+            "U018LDG60DQ",
+            "U033E81LTB3",
+            "U031DQX4UJU"
+        ],
+        "replies": [
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1647007181.445629"
+            },
+            {
+                "user": "U02ANC57AAY",
+                "ts": "1647007271.914889"
+            },
+            {
+                "user": "U031E6LGWNQ",
+                "ts": "1647009066.328579"
+            },
+            {
+                "user": "U02HG9U4JQG",
+                "ts": "1647014596.159259"
+            },
+            {
+                "user": "U02GA7499BP",
+                "ts": "1647020963.821549"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1647021687.851639"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1647021703.608509"
+            },
+            {
+                "user": "U02ANC57AAY",
+                "ts": "1647245372.178719"
+            },
+            {
+                "user": "U02V46B3JRX",
+                "ts": "1647250795.250649"
+            },
+            {
+                "user": "U030TFJS6QJ",
+                "ts": "1647268057.154569"
+            },
+            {
+                "user": "U018LDG60DQ",
+                "ts": "1648040548.593729"
+            },
+            {
+                "user": "U033E81LTB3",
+                "ts": "1648062039.023209"
+            },
+            {
+                "user": "U031DQX4UJU",
+                "ts": "1649700296.375059"
+            },
+            {
+                "user": "U018LDG60DQ",
+                "ts": "1649955186.390589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "714605ad-a44a-4085-b933-ecbcd8c34677",
+        "type": "message",
+        "text": "I am! Let’s chat.",
+        "user": "U012GHRAHDK",
+        "ts": "1647007181.445629",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GwFZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am! Let’s chat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647007124.792489",
+        "parent_user_id": "U02ANC57AAY"
+    },
+    {
+        "client_msg_id": "5300a7eb-1138-4df4-b186-93dcd8efd14c",
+        "type": "message",
+        "text": "Great stuff <@U012GHRAHDK>! I’ll give it some time and then start a chat or group with us all or something :thumbsup:",
+        "user": "U02ANC57AAY",
+        "ts": "1647007271.914889",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "45b108914224",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-09\/2359758724082_45b108914224a53b7683_72.jpg",
+            "first_name": "Steph",
+            "real_name": "Steph Smith",
+            "display_name": "Steph Smith",
+            "team": "TJE58GTJL",
+            "name": "steph",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TSi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great stuff "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012GHRAHDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I’ll give it some time and then start a chat or group with us all or something "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647007124.792489",
+        "parent_user_id": "U02ANC57AAY",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U012GHRAHDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "635b4347-e7e5-4df7-9a9d-16b2136065fe",
+        "type": "message",
+        "text": "Me! Not technically SaaS but B2G enterprise (biz to gov, we sell to tax authorities). It's fun but lonely, I would love to chat with others in the same boat :slightly_smiling_face:",
+        "user": "U031E6LGWNQ",
+        "ts": "1647009066.328579",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g7393fe85e1a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7393fe85e1a5c369c51fb4e53aa4a9b7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Dana",
+            "real_name": "Dana Cass",
+            "display_name": "Dana Cass",
+            "team": "TJE58GTJL",
+            "name": "cass.dana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OkDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me! Not technically SaaS but B2G enterprise (biz to gov, we sell to tax authorities). It's fun but lonely, I would love to chat with others in the same boat "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647007124.792489",
+        "parent_user_id": "U02ANC57AAY"
+    },
+    {
+        "client_msg_id": "852f419c-a8cb-4ed1-81ec-2f260d50d79d",
+        "type": "message",
+        "text": "I would agree. We’ve historically had our clients trim down their forms and conversions always increase compared to longer forms.",
+        "user": "U0359RCHAGY",
+        "ts": "1647011886.614419",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7dd2989bd4d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-24\/3141563210823_b7dd2989bd4d9bfa430d_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Reynolds",
+            "display_name": "Joel Reynolds",
+            "team": "TJE58GTJL",
+            "name": "joel824",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XC4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would agree. We’ve historically had our clients trim down their forms and conversions always increase compared to longer forms."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646991593.941859",
+        "parent_user_id": "U02QWSD3BSM",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02QWSD3BSM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "166aefd3-b163-4287-8c3f-5f900e56b57d",
+        "type": "message",
+        "text": "Likewise! Would be good to hear\/read about others' experiences!",
+        "user": "U02HG9U4JQG",
+        "ts": "1647014596.159259",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "de85cbd5409b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572117757491_de85cbd5409ba2c4ab46_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam",
+            "display_name": "Adam",
+            "team": "TJE58GTJL",
+            "name": "adam.yates",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cKjS9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Likewise! Would be good to hear\/read about others' experiences!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647007124.792489",
+        "parent_user_id": "U02ANC57AAY"
+    },
+    {
+        "client_msg_id": "5ed44bfd-546c-405a-8da9-9c2afc23fb1e",
+        "type": "message",
+        "text": "Agreed on more fields, fewer conversions as the default.\n\nHowever, it’s almost more of a sales question, though, imo.\n\nFor example, I worked at a website agency, and we had so many inquiries that we were wasting a ton of time qualifying them all, so we added a few more questions (size of your team, budget). This reduced the volume of submissions, but it helped pre-qualify the leads a little more.",
+        "user": "UUH2ESL66",
+        "ts": "1647019811.480069",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TaUz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed on more fields, fewer conversions as the default.\n\nHowever, it’s almost more of a sales question, though, imo.\n\nFor example, I worked at a website agency, and we had so many inquiries that we were wasting a ton of time qualifying them all, so we added a few more questions (size of your team, budget). This reduced the volume of submissions, but it helped pre-qualify the leads a little more."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646991593.941859",
+        "parent_user_id": "U02QWSD3BSM",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02QWSD3BSM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3E77E0B4-945B-42AA-BBD6-ED94BD0D77CB",
+        "type": "message",
+        "text": "<@U02T2QQN32M> how about we measure “sparking joy”? Love this thread!",
+        "user": "U02CM6ZUB5G",
+        "ts": "1647020691.197819",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d24126241995",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-27\/2441865583457_d24126241995c98c9ac6_72.jpg",
+            "first_name": "Becca",
+            "real_name": "Becca Thies",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "becca.j.thies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fwb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02T2QQN32M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how about we measure “sparking joy”? Love this thread!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646823638.538439",
+        "parent_user_id": "U017WRJTKF1",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U017WRJTKF1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85c53935-5c5f-419f-a6d9-7aa7c9e6971c",
+        "type": "message",
+        "text": "To all of you who’ve answered so far, thank you! It’s been fun to read each person’s take :slightly_smiling_face:",
+        "user": "U017WRJTKF1",
+        "ts": "1647020784.701789",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fs8u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To all of you who’ve answered so far, thank you! It’s been fun to read each person’s take "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646823638.538439",
+        "parent_user_id": "U017WRJTKF1"
+    },
+    {
+        "client_msg_id": "149a59d6-a722-4771-b3c5-1effaf5a89e7",
+        "type": "message",
+        "text": ":woman-raising-hand: well technically, I'm the \"Head of Growth\" but I've touched all parts of our marketing efforts and I'd love to chat and hear\/read from others too!",
+        "user": "U02GA7499BP",
+        "ts": "1647020963.821549",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d10a09e8a644",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-04\/2585044728944_d10a09e8a644355c3233_72.jpg",
+            "first_name": "Therese",
+            "real_name": "Therese Chua",
+            "display_name": "Therese Chua",
+            "team": "TJE58GTJL",
+            "name": "therese",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "woman-raising-hand"
+                            },
+                            {
+                                "type": "text",
+                                "text": " well technically, I'm the \"Head of Growth\" but I've touched all parts of our marketing efforts and I'd love to chat and hear\/read from others too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647007124.792489",
+        "parent_user_id": "U02ANC57AAY"
+    },
+    {
+        "client_msg_id": "9236d752-9f3d-4a7b-80e3-c6e1c0eb09d1",
+        "type": "message",
+        "text": "Much like <@U036K0S6AQJ>, I think I’ll give the standard marketer answer of “*it depends* on what you want to use the data for”.\n\nIn some cases [like <@UUH2ESL66> just said] we have added friction _on purpose_ to disqualify the wrong fit right at the start of a product sign-up process; in others, fewer fields → higher conversions.",
+        "user": "U017WRJTKF1",
+        "ts": "1647021069.216639",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017WRJTKF1",
+            "ts": "1647021088.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUhm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Much like "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U036K0S6AQJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I think I’ll give the standard marketer answer of “"
+                            },
+                            {
+                                "type": "text",
+                                "text": "it depends",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " on what you want to use the data for”.\n\nIn some cases [like "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2ESL66"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just said] we have added friction "
+                            },
+                            {
+                                "type": "text",
+                                "text": "on purpose",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to disqualify the wrong fit right at the start of a product sign-up process; in others, fewer fields → higher conversions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646991593.941859",
+        "parent_user_id": "U02QWSD3BSM",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UUH2ESL66",
+                    "U02QWSD3BSM",
+                    "U02LR6JUZN3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02QWSD3BSM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02QWSD3BSM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C0437CC0-7D1E-4F40-B709-8134655B5DBA",
+        "type": "message",
+        "text": "Our #1 metric at the moment is “usefulness” - and  that's usefulness to others, not ourselves of course!",
+        "user": "U02CM6ZUB5G",
+        "ts": "1647021115.780369",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d24126241995",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-27\/2441865583457_d24126241995c98c9ac6_72.jpg",
+            "first_name": "Becca",
+            "real_name": "Becca Thies",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "becca.j.thies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6VC6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our #1 metric at the moment is “usefulness” - and  that's usefulness to others, not ourselves of course!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646823638.538439",
+        "parent_user_id": "U017WRJTKF1"
+    },
+    {
+        "type": "message",
+        "text": "I'm not currently, but I've been there. What helped was 2 things:\n\nFirst, use the Eisenhower box to prioritize what matters.",
+        "files": [
+            {
+                "id": "F0369TE2DPZ",
+                "created": 1647021664,
+                "timestamp": 1647021664,
+                "name": "eisenhower-box.jpeg",
+                "title": "eisenhower-box.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UUXMCJQ15",
+                "editable": false,
+                "size": 208071,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0369TE2DPZ\/eisenhower-box.jpeg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0369TE2DPZ\/download\/eisenhower-box.jpeg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0369TE2DPZ-2b6b343ad6\/eisenhower-box_64.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0369TE2DPZ-2b6b343ad6\/eisenhower-box_80.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0369TE2DPZ-2b6b343ad6\/eisenhower-box_360.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 291,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0369TE2DPZ-2b6b343ad6\/eisenhower-box_480.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 388,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0369TE2DPZ-2b6b343ad6\/eisenhower-box_160.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0369TE2DPZ-2b6b343ad6\/eisenhower-box_720.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 582,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0369TE2DPZ-2b6b343ad6\/eisenhower-box_800.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 646,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0369TE2DPZ-2b6b343ad6\/eisenhower-box_960.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 776,
+                "original_w": 990,
+                "original_h": 800,
+                "thumb_tiny": "AwAmADDTpGBP3Tj8KWmscUAJhv74\/KjDf3x+VRF+c8Uu\/wBcUriuSqD3YH8KdUUTZYjtUtMYU16dTHHSgCGkIBpu1\/Q0FW9D+VQXyImgxuIHpU1QQAhjnPSp6pEtWYnakI9CaWimITB\/vGjB\/vGlooAQD1Jpe1FFAH\/\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UUXMCJQ15\/F0369TE2DPZ\/eisenhower-box.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F0369TE2DPZ-3b37a12392",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UUXMCJQ15",
+        "display_as_bot": false,
+        "ts": "1647021687.851639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CmiA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not currently, but I've been there. What helped was 2 things:\n\nFirst, use the Eisenhower box to prioritize what matters."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "57bc1418-e422-4007-b1c6-be6197f90a30",
+        "thread_ts": "1647007124.792489",
+        "parent_user_id": "U02ANC57AAY"
+    },
+    {
+        "client_msg_id": "ee1645b6-948a-42bf-91bc-2c3a9ed82adb",
+        "type": "message",
+        "text": "But the roadblock to that is that EVERYTHING feels both urgent and important, right?\n\nSecond, the only way to truly decide what to focus on is to *find things that do more than one thing.*\n\nIf an activity only does one thing for your company, slot it lower on the priorities and \"important\" tasks are ones that help multiple people\/customers\/campaigns at once.",
+        "user": "UUXMCJQ15",
+        "ts": "1647021703.608509",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXMCJQ15",
+            "ts": "1647021787.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HpJ38",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But the roadblock to that is that EVERYTHING feels both urgent and important, right?\n\nSecond, the only way to truly decide what to focus on is to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "find things that do more than one thing.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf an activity only does one thing for your company, slot it lower on the priorities and \"important\" tasks are ones that help multiple people\/customers\/campaigns at once."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647007124.792489",
+        "parent_user_id": "U02ANC57AAY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U032V06GP38",
+                    "U02ANC57AAY",
+                    "U02LR6JUZN3",
+                    "U02GA7499BP",
+                    "U032AARDN2H"
+                ],
+                "count": 5
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U02GA73RSHK",
+                    "U02ANC57AAY",
+                    "U02GA7499BP",
+                    "U032AARDN2H"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c4af98a-9ced-43dc-9df4-4fa1480eeab7",
+        "type": "message",
+        "text": "Send Hannah Mans a DM on LinkedIn. She's the best out there at this stuff.",
+        "user": "UUXMCJQ15",
+        "ts": "1647021816.694209",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXMCJQ15",
+            "ts": "1647021824.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Send Hannah Mans a DM on LinkedIn. She's the best out there at this stuff."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646994545.401149",
+        "parent_user_id": "U02A2P1TQE6",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02A2P1TQE6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e017aa89-8521-4463-875d-e9a2411cf5d6",
+        "type": "message",
+        "text": "We anchor hard into time spent using a custom engaged time metric. We also look at engaged time by 15 second time bands to understand drop-off. We compare this time against editorial metadata to understand if certain formats, categories, topics, personas, etc. lead to people spending more time with our stories. There is a pretty interesting correlation between time spent and engaging deeper. And it's a story that rings pretty true across clients. I do think that the qualitative measures several people mention above are pretty important too. No one metric can tell you a full story - it's about the tapestry of collective signals (at least that's what I think).  The notion of internal metrics is really interesting. These are softer signals, but answering questions like \"was this harder than it needed to be, did we get energy from putting these into the world, could the process have been simpler\" are publishing production discussions that people often neglect.",
+        "user": "U01T8TVMUSD",
+        "ts": "1647022911.656989",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b09e875e787",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-27\/2103555721350_7b09e875e7877fb99c8f_72.jpg",
+            "first_name": "",
+            "real_name": "Will Sullivan",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "will131",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBxfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We anchor hard into time spent using a custom engaged time metric. We also look at engaged time by 15 second time bands to understand drop-off. We compare this time against editorial metadata to understand if certain formats, categories, topics, personas, etc. lead to people spending more time with our stories. There is a pretty interesting correlation between time spent and engaging deeper. And it's a story that rings pretty true across clients. I do think that the qualitative measures several people mention above are pretty important too. No one metric can tell you a full story - it's about the tapestry of collective signals (at least that's what I think).  The notion of internal metrics is really interesting. These are softer signals, but answering questions like \"was this harder than it needed to be, did we get energy from putting these into the world, could the process have been simpler\" are publishing production discussions that people often neglect."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646823638.538439",
+        "parent_user_id": "U017WRJTKF1",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U031B8HB5FB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f3eeac1-b4a4-4319-9c3c-23b4a380f6cb",
+        "type": "message",
+        "text": "$",
+        "user": "UUH2EB134",
+        "ts": "1647024205.174409",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wbdn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "$"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646823638.538439",
+        "parent_user_id": "U017WRJTKF1"
+    },
+    {
+        "client_msg_id": "b62792be-b63c-4bcc-847c-d4c51938d625",
+        "type": "message",
+        "text": "I'm going to go with \"it depends\" too. Depends on traffic temperature. Depends on what they're getting. Depends on what each of the questions are.\nWe have seen longer forms convert much better than shorter forms....the big caveat though is that we use multi step forms, aka <https:\/\/klientboost.com\/cro\/breadcrumb-technique\/|the breadcrumb technique> and save the most threatening questions for last",
+        "user": "U033KHGTDHC",
+        "ts": "1647032583.018969",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab67238f0100",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-18\/3129146182787_ab67238f010013bd91cd_72.jpg",
+            "first_name": "Lauren",
+            "real_name": "Lauren Breen",
+            "display_name": "Lauren Breen",
+            "team": "TJE58GTJL",
+            "name": "lbreen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVazp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to go with \"it depends\" too. Depends on traffic temperature. Depends on what they're getting. Depends on what each of the questions are.\nWe have seen longer forms convert much better than shorter forms....the big caveat though is that we use multi step forms, aka "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/klientboost.com\/cro\/breadcrumb-technique\/",
+                                "text": "the breadcrumb technique"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and save the most threatening questions for last"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646991593.941859",
+        "parent_user_id": "U02QWSD3BSM",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V46B3JRX",
+                    "U02QWSD3BSM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38b675f4-7d8c-490b-b897-889c5f6c60d2",
+        "type": "message",
+        "text": "Hi everyone! I'm wondering if anyone has any good resources for creating effective interview questions for copywriters?",
+        "user": "U02UATYAC4X",
+        "ts": "1647033087.150629",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "18454f9ed206",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2977649295778_18454f9ed206aa8e86ae_72.jpg",
+            "first_name": "Annette",
+            "real_name": "Annette Cardwell",
+            "display_name": "Annette Cardwell",
+            "team": "TJE58GTJL",
+            "name": "annette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! I'm wondering if anyone has any good resources for creating effective interview questions for copywriters?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647033087.150629",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1647197270.568529",
+        "reply_users": [
+            "UUH2EB134",
+            "U0211K6LSM9",
+            "URAV154AV",
+            "U02UATYAC4X",
+            "U027RNU0A69"
+        ],
+        "replies": [
+            {
+                "user": "UUH2EB134",
+                "ts": "1647034142.546269"
+            },
+            {
+                "user": "U0211K6LSM9",
+                "ts": "1647034398.752229"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1647035061.342309"
+            },
+            {
+                "user": "U02UATYAC4X",
+                "ts": "1647052104.385109"
+            },
+            {
+                "user": "U027RNU0A69",
+                "ts": "1647181404.936749"
+            },
+            {
+                "user": "U027RNU0A69",
+                "ts": "1647181493.619599"
+            },
+            {
+                "user": "U02UATYAC4X",
+                "ts": "1647197270.568529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "82fe14db-7817-4453-b8d5-8b6210819b8a",
+        "type": "message",
+        "text": "I wanna know what you learn",
+        "user": "UUH2EB134",
+        "ts": "1647034142.546269",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+v8M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wanna know what you learn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647033087.150629",
+        "parent_user_id": "U02UATYAC4X"
+    },
+    {
+        "client_msg_id": "4913654b-b3fb-444a-b061-d8513730f6c1",
+        "type": "message",
+        "text": "I don’t know of any resources, but I can share my experience! When I was managing a team that included writers, I always got a lot of good insight by asking for how they liked to receive feedback and specific examples of times they received feedback and it was difficult to hear. It gives you some idea of how the editing process will go, and their overall appetite for feedback and improving their skills (as opposed to thinking they know it all and will be impossible to coach). Just one aspect of the job that doesn’t get addressed by portfolios and samples, but is super important for in-house writers.",
+        "user": "U0211K6LSM9",
+        "ts": "1647034398.752229",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "17a67a2d4c3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-11\/2047708214598_17a67a2d4c3f41527a1b_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara Gates",
+            "display_name": "Sara Gates",
+            "team": "TJE58GTJL",
+            "name": "sara858",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mFoc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t know of any resources, but I can share my experience! When I was managing a team that included writers, I always got a lot of good insight by asking for how they liked to receive feedback and specific examples of times they received feedback and it was difficult to hear. It gives you some idea of how the editing process will go, and their overall appetite for feedback and improving their skills (as opposed to thinking they know it all and will be impossible to coach). Just one aspect of the job that doesn’t get addressed by portfolios and samples, but is super important for in-house writers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647033087.150629",
+        "parent_user_id": "U02UATYAC4X",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02UATYAC4X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f369ddd6-6a7d-4b21-b3fa-de801641a570",
+        "type": "message",
+        "text": "Feedback is a big one for me as a hiring manager, too. I typically want to see a balance between holding their ground when it’s really important to them, and knowing when to pick their battles.\n\nI also like to explore their experience with and\/or perspective on:\n• Taking complex information and turning it into words non-technical people can understand\n• Connecting with people’s emotions, even in B2B - we’re still marketing to humans and there is an emotional component that is often overlooked\n• Dealing with competing deadlines - often copywriters get thrown into a lot of projects that people want done “as soon as possible”. But everything can’t be done ASAP. So how do they deal with that so they don’t burn out, miss deadlines, etc.?",
+        "user": "URAV154AV",
+        "ts": "1647035061.342309",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xoq7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Feedback is a big one for me as a hiring manager, too. I typically want to see a balance between holding their ground when it’s really important to them, and knowing when to pick their battles.\n\nI also like to explore their experience with and\/or perspective on:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Taking complex information and turning it into words non-technical people can understand"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Connecting with people’s emotions, even in B2B - we’re still marketing to humans and there is an emotional component that is often overlooked"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dealing with competing deadlines - often copywriters get thrown into a lot of projects that people want done “as soon as possible”. But everything can’t be done ASAP. So how do they deal with that so they don’t burn out, miss deadlines, etc.?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647033087.150629",
+        "parent_user_id": "U02UATYAC4X",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02UATYAC4X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abbf2ae8-e740-4421-8b1c-5c68fb542982",
+        "type": "message",
+        "text": "Has anyone here used the product demo builder from Navattic? <https:\/\/www.navattic.com\/> If so I’d be curious to hear thoughts on its usability and pricing.",
+        "user": "U0211K6LSM9",
+        "ts": "1647039879.506069",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "17a67a2d4c3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-11\/2047708214598_17a67a2d4c3f41527a1b_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara Gates",
+            "display_name": "Sara Gates",
+            "team": "TJE58GTJL",
+            "name": "sara858",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.navattic.com\/",
+                "service_icon": "https:\/\/www.navattic.com\/icons\/icon-48x48.png?v=4db70424ea375f1fc7cafc92d14eac98",
+                "id": 1,
+                "original_url": "https:\/\/www.navattic.com\/",
+                "fallback": "Navattic: Create Interactive Product Demos",
+                "text": "Navattic's demo creation software helps teams instantly create interactive demos that convert.",
+                "title": "Create Interactive Product Demos",
+                "title_link": "https:\/\/www.navattic.com\/",
+                "service_name": "Navattic"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yjweQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone here used the product demo builder from Navattic? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.navattic.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If so I’d be curious to hear thoughts on its usability and pricing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647039879.506069",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1648229882.927849",
+        "reply_users": [
+            "U0211K6LSM9",
+            "U019E2RJD9Q",
+            "UUXMCJQ15",
+            "U02D77QUE8H"
+        ],
+        "replies": [
+            {
+                "user": "U0211K6LSM9",
+                "ts": "1647039906.040269"
+            },
+            {
+                "user": "U019E2RJD9Q",
+                "ts": "1647051960.192999"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1647139433.622529"
+            },
+            {
+                "user": "U02D77QUE8H",
+                "ts": "1648229882.927849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d6513efa-4f86-4ddd-a68c-d895e10a76cf",
+        "type": "message",
+        "text": "Or any similar tools that help facilitate product-led growth",
+        "user": "U0211K6LSM9",
+        "ts": "1647039906.040269",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "17a67a2d4c3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-11\/2047708214598_17a67a2d4c3f41527a1b_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara Gates",
+            "display_name": "Sara Gates",
+            "team": "TJE58GTJL",
+            "name": "sara858",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jCPlE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or any similar tools that help facilitate product-led growth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647039879.506069",
+        "parent_user_id": "U0211K6LSM9"
+    },
+    {
+        "client_msg_id": "231c6457-d407-4352-a77a-f3bb5fb447a5",
+        "type": "message",
+        "text": "Looks really awesome until I noticed they don't list pricing and want to do a demo...\n\n<https:\/\/www.arcade.software\/> seems fairly similar but still in waitlist mode it appears.",
+        "user": "U019E2RJD9Q",
+        "ts": "1647051960.192999",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bcebee72c9b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1513766373124_bcebee72c9b4c4fba078_72.jpg",
+            "first_name": "Kane",
+            "real_name": "Kane Jamison",
+            "display_name": "Kane Jamison",
+            "team": "TJE58GTJL",
+            "name": "kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.arcade.software\/",
+                "image_url": "https:\/\/assets.website-files.com\/61d72a2cda50bc679e28766b\/61db8676e675d6849cb05bc8_Group%20296.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 141839,
+                "id": 1,
+                "original_url": "https:\/\/www.arcade.software\/",
+                "fallback": "Arcade | Create Interactive Product Demos",
+                "text": "Arcades are super easy to create. Build interactive product tours to embed within websites, blogs, and social media.",
+                "title": "Arcade | Create Interactive Product Demos",
+                "title_link": "https:\/\/www.arcade.software\/",
+                "service_name": "arcade.software"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XmG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks really awesome until I noticed they don't list pricing and want to do a demo...\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.arcade.software\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " seems fairly similar but still in waitlist mode it appears."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647039879.506069",
+        "parent_user_id": "U0211K6LSM9"
+    },
+    {
+        "client_msg_id": "07bafe62-c991-4d16-812b-49700cf9716f",
+        "type": "message",
+        "text": "Thanks so much for sharing!",
+        "user": "U02UATYAC4X",
+        "ts": "1647052104.385109",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "18454f9ed206",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-19\/2977649295778_18454f9ed206aa8e86ae_72.jpg",
+            "first_name": "Annette",
+            "real_name": "Annette Cardwell",
+            "display_name": "Annette Cardwell",
+            "team": "TJE58GTJL",
+            "name": "annette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hSp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks so much for sharing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647033087.150629",
+        "parent_user_id": "U02UATYAC4X"
+    }
+]

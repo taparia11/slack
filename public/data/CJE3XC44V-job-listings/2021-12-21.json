@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": ":star: _new featured role_ :star:\n---\n*Appcues is hiring a Content Marketing Manager (Remote)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/218016-content-marketing-manager>",
+        "ts": "1640101310.127300",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":sunglasses:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f60e.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "client_msg_id": "b6e7e828-8c78-43a5-9c87-c115cbf6c5eb",
+        "type": "message",
+        "text": "<@U02DWSGCQBC> can you post this in <#C02RGHQ4HK7|hire-me>?",
+        "user": "UJG9WTEKG",
+        "ts": "1640119912.127400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vCV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DWSGCQBC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you post this in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02RGHQ4HK7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1640065894.127200",
+        "parent_user_id": "USLACKBOT"
+    }
+]

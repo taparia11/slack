@@ -1,0 +1,172 @@
+[
+    {
+        "client_msg_id": "4a0dc2f9-b737-4609-9d6a-bbaa9b8d9789",
+        "type": "message",
+        "text": "some really good examples here → <https:\/\/twitter.com\/timsoulo\/status\/1466694664124207106>",
+        "user": "UJG9WTEKG",
+        "ts": "1638547091.113600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/timsoulo\/status\/1466694664124207106",
+                "fallback": "<https:\/\/twitter.com\/timsoulo|@timsoulo>: What are some examples of well-executed \"content hubs?\"",
+                "ts": 1638522232,
+                "text": "What are some examples of well-executed \"content hubs?\"",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com",
+                "author_name": "Tim Soulo",
+                "author_link": "https:\/\/twitter.com\/timsoulo\/status\/1466694664124207106",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1328579748533035008\/9RxriGru_normal.jpg",
+                "author_subname": "@timsoulo",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/timsoulo\/status\/1466694664124207106",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Oo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "some really good examples here → "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/timsoulo\/status\/1466694664124207106"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUH2EB134",
+                    "UUH2ESL66",
+                    "U020HS8D4TX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f4859b8-4e49-4b3a-bf79-52f6572c3e43",
+        "type": "message",
+        "text": "from <@U02F43CAK5X>, this is great → <https:\/\/moz.com\/blog\/how-to-make-newsworthy-content-part-2>",
+        "user": "UJG9WTEKG",
+        "ts": "1638562374.120700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/moz.com\/blog\/how-to-make-newsworthy-content-part-2",
+                "service_name": "Moz",
+                "title": "How to Make Newsworthy Content: Part 2",
+                "title_link": "https:\/\/moz.com\/blog\/how-to-make-newsworthy-content-part-2",
+                "text": "Content marketing expert Amanda Milligan is back with three more ways to make your content more newsworthy.",
+                "image_url": "https:\/\/moz.com\/images\/cms\/IMG_20211029_163810.jpg?w=1200&h=630&q=82&auto=format&fit=crop&fp-x=0.5&fp-y=0.5&dm=1636672758&s=6218ff728587d53e04b47d7bb2b2d0ff",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 73070,
+                "fallback": "Moz: How to Make Newsworthy Content: Part 2",
+                "service_icon": "https:\/\/moz.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/moz.com\/blog\/how-to-make-newsworthy-content-part-2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GiIPM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02F43CAK5X"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", this is great → "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/moz.com\/blog\/how-to-make-newsworthy-content-part-2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U02F43CAK5X",
+                    "U012GHRAHDK",
+                    "U02F1GK6U6B",
+                    "U02CRMLF161"
+                ],
+                "count": 4
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U02ME33ACS3",
+                    "U02GYR8TM96",
+                    "U02PUFN6P89",
+                    "URLKJLWKS",
+                    "U02CRMLF161",
+                    "U02REEWJPKL"
+                ],
+                "count": 6
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02NDD2TDBM",
+                    "U02CRMLF161"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

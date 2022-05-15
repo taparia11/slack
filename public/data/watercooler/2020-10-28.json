@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "D9EDBC22-D5DF-4537-847F-58C82EEC2E66",
+        "type": "message",
+        "text": "It is now!",
+        "user": "UJJFDTN8G",
+        "ts": "1603868764.103100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaVry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603703463.098600",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "98159f22-d6b3-4cf5-9193-788d04507579",
+        "type": "message",
+        "text": "<https:\/\/dominickent.medium.com\/songs-for-writers-community-favourites-ish-2ba726fec84c>",
+        "user": "UJJFDTN8G",
+        "ts": "1603874478.103400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Songs for Writers: Community Favourites (ish)",
+                "title_link": "https:\/\/dominickent.medium.com\/songs-for-writers-community-favourites-ish-2ba726fec84c",
+                "text": "One morning, Oxford Comma by Vampire Weekend appeared on my Spotify Time Capsule. The Songs for Writers playlist was born and I asked my…",
+                "fallback": "Medium: Songs for Writers: Community Favourites (ish)",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "2 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1603874467,
+                "from_url": "https:\/\/dominickent.medium.com\/songs-for-writers-community-favourites-ish-2ba726fec84c",
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/dominickent.medium.com\/songs-for-writers-community-favourites-ish-2ba726fec84c"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gCwQd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dominickent.medium.com\/songs-for-writers-community-favourites-ish-2ba726fec84c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603703463.098600",
+        "parent_user_id": "UJJFDTN8G",
+        "reactions": [
+            {
+                "name": "headphones",
+                "users": [
+                    "UMX8MPHA6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

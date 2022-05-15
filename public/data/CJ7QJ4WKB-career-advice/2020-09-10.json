@@ -1,0 +1,973 @@
+[
+    {
+        "client_msg_id": "c58877a9-b1e9-4677-9e98-4bd645fef135",
+        "type": "message",
+        "text": "<@UJ2N9A3GT> i feel that pain!",
+        "user": "U019NVAFFJQ",
+        "ts": "1599725465.047900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9d6a3ea56279",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-11\/1740665709906_9d6a3ea5627911e5fa0e_72.png",
+            "first_name": "Luke",
+            "real_name": "Luke Feeney",
+            "display_name": "Luke Feeney",
+            "team": "TJE58GTJL",
+            "name": "luke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBS=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ2N9A3GT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i feel that pain!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599090739.016500",
+        "parent_user_id": "UJ2N9A3GT"
+    },
+    {
+        "client_msg_id": "b057889f-7de3-4e44-8b42-c80daa78cf38",
+        "type": "message",
+        "text": "Timely thread for me! Currently doing this for two of my clients. Agree with the above about the complexity of marketing to developers. There's a podcast that interviews developers and asks them what kind of content and approach do they find helpful and meaningful. Heres the podcast. <https:\/\/blog.contentlab.io\/developer-friendly-content\/|https:\/\/blog.contentlab.io\/developer-friendly-content\/>",
+        "user": "UL1D307FB",
+        "ts": "1599741010.048400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc19ae0f7406",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/83c19ae0f7406b4c71ab0ed3a7dac4b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "Adrienne Barnes",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "anb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UL1D307FB",
+            "ts": "1599741094.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7nQX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Timely thread for me! Currently doing this for two of my clients. Agree with the above about the complexity of marketing to developers. There's a podcast that interviews developers and asks them what kind of content and approach do they find helpful and meaningful. Heres the podcast. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.contentlab.io\/developer-friendly-content\/",
+                                "text": "https:\/\/blog.contentlab.io\/developer-friendly-content\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599090739.016500",
+        "parent_user_id": "UJ2N9A3GT",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U019NVAFFJQ",
+                    "U015B888266"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DF9522D8-4B61-4E48-8B18-E2614C9402B5",
+        "type": "message",
+        "text": "This is super interesting <@UL1D307FB>!",
+        "user": "UJ2N9A3GT",
+        "ts": "1599745675.049100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f423630ff063",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-03\/619878402753_f423630ff0633ae9253d_72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Moore",
+            "display_name": "Nick Moore",
+            "team": "TJE58GTJL",
+            "name": "nickm.yyz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+un",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is super interesting "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UL1D307FB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599090739.016500",
+        "parent_user_id": "UJ2N9A3GT"
+    },
+    {
+        "client_msg_id": "3a37e3e9-5dff-4a03-94ea-d10c1ec7bd23",
+        "type": "message",
+        "text": "<@UQP1Z078S> There are quite a few 30-60-90 day templates on Almanac (where I work), but unfortunately none explicitly for content marketers <https:\/\/almanac.io\/home?q=30+60+90&amp;r=almanac_core>",
+        "user": "U01121W33EJ",
+        "ts": "1599753141.050000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb1338990521",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b1338990521f5b3151d5ef1a51627e91.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Alan Cassinelli",
+            "display_name": "Alan Cassinelli",
+            "team": "TJE58GTJL",
+            "name": "alan.cassinelli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Almanac",
+                "title": "Almanac | Open Source Documents to Copy &amp; Customize",
+                "title_link": "https:\/\/almanac.io\/home?q=30+60+90&r=almanac_core",
+                "text": "A cloud-based platform for professionals to create, collaborate and share open-source work documents, templates, and checklists.",
+                "fallback": "Almanac: Almanac | Open Source Documents to Copy &amp; Customize",
+                "thumb_url": "https:\/\/res.cloudinary.com\/almanac\/image\/upload\/v1574446625\/public\/preview.png",
+                "from_url": "https:\/\/almanac.io\/home?q=30+60+90&r=almanac_core",
+                "thumb_width": 1514,
+                "thumb_height": 1008,
+                "service_icon": "https:\/\/almanac-react-assets.s3-us-west-1.amazonaws.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/almanac.io\/home?q=30+60+90&amp;r=almanac_core"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ahE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQP1Z078S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " There are quite a few 30-60-90 day templates on Almanac (where I work), but unfortunately none explicitly for content marketers "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/almanac.io\/home?q=30+60+90&r=almanac_core"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599493984.040400",
+        "parent_user_id": "UQP1Z078S",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01A4DV8W0J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "star",
+                "users": [
+                    "U01A4DV8W0J",
+                    "UUH28N3U2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "164c03bf-48a6-43f3-b8f6-39480baa6099",
+        "type": "message",
+        "text": "<@UL4QTGBGT> Hi Kendall, I hope you don't mind me responding to this thread over a month late but I'm trying to cross over from journalism into content marketing now. Are you open to answering some questions about how you came to content marketing via DM?",
+        "user": "U010RNHUQV7",
+        "ts": "1599767849.050400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24f9f619828",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1035742492277_b24f9f619828a538ddd5_72.jpg",
+            "first_name": "",
+            "real_name": "Jessica Wei",
+            "display_name": "Jessica Wei",
+            "team": "TJE58GTJL",
+            "name": "jw",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h++O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UL4QTGBGT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Kendall, I hope you don't mind me responding to this thread over a month late but I'm trying to cross over from journalism into content marketing now. Are you open to answering some questions about how you came to content marketing via DM?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596126277.362500",
+        "parent_user_id": "UUE7J6UDN"
+    },
+    {
+        "client_msg_id": "a64f95db-5e05-4128-a52c-ee3f0bc0dca9",
+        "type": "message",
+        "text": "<@U010RNHUQV7> I'd be happy to chat. Feel free to DM me.",
+        "user": "UL4QTGBGT",
+        "ts": "1599767941.050600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6f62716a422c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-03\/934749731200_6f62716a422ce18f7aa0_72.jpg",
+            "first_name": "Kendall",
+            "real_name": "Kendall Walters",
+            "display_name": "Kendall Walters",
+            "team": "TJE58GTJL",
+            "name": "kendallmlwalters",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bujU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010RNHUQV7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'd be happy to chat. Feel free to DM me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596126277.362500",
+        "parent_user_id": "UUE7J6UDN"
+    },
+    {
+        "client_msg_id": "e2a2b904-bfd4-4b93-bf5d-4272429973f3",
+        "type": "message",
+        "text": "OKR question.\n\nWhat OKRs would you use for one of your direct reports, particularly regarding time management targets?\n\nBit of background: I’m building and managing the content side of an SEO agency. I have 1 direct report, someone who’s been with the company 3 years more than me. She’s experienced in other disciplines of SEO but is learning the nuances of content\/editorial. She often takes longer to, say, write and research a content brief than it would take me.\n\nI’ve been super accommodating \/ patient with her, but she routinely exceeds time scoped for most tasks, and _my_ boss is noticing. So, I want to update her OKRs so that they’re clear, attainable, and get work done.\n\nI tend to be someone who only needs an assignment and a deadline to get something done, rather than estimating chunks of hours associated with a bigger task. It’s my struggle as a manager to enforce hour targets. That won’t work, as we’re a small company that’s growing quickly and I need to make sure we’re not swamped. I feel like the swamped one trying to help my assistant content person succeed. TIA for any feedback.",
+        "user": "U011QQDDSJV",
+        "ts": "1599776739.057900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U011QQDDSJV",
+            "ts": "1599776953.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+eqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OKR question.\n\nWhat OKRs would you use for one of your direct reports, particularly regarding time management targets?\n\nBit of background: I’m building and managing the content side of an SEO agency. I have 1 direct report, someone who’s been with the company 3 years more than me. She’s experienced in other disciplines of SEO but is learning the nuances of content\/editorial. She often takes longer to, say, write and research a content brief than it would take me.\n\nI’ve been super accommodating \/ patient with her, but she routinely exceeds time scoped for most tasks, and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "my",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " boss is noticing. So, I want to update her OKRs so that they’re clear, attainable, and get work done.\n\nI tend to be someone who only needs an assignment and a deadline to get something done, rather than estimating chunks of hours associated with a bigger task. It’s my struggle as a manager to enforce hour targets. That won’t work, as we’re a small company that’s growing quickly and I need to make sure we’re not swamped. I feel like the swamped one trying to help my assistant content person succeed. TIA for any feedback."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "reply_count": 15,
+        "reply_users_count": 7,
+        "latest_reply": "1599861980.073400",
+        "reply_users": [
+            "U016Q3T877S",
+            "URB31QKM4",
+            "U011QQDDSJV",
+            "U016AG4A2G2",
+            "UJG12DM1V",
+            "UUXMCJQ15",
+            "UKEB29JGH"
+        ],
+        "replies": [
+            {
+                "user": "U016Q3T877S",
+                "ts": "1599778072.058100"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1599778186.058300"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1599778524.058600"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1599778692.059000"
+            },
+            {
+                "user": "U016AG4A2G2",
+                "ts": "1599779089.059200"
+            },
+            {
+                "user": "U016Q3T877S",
+                "ts": "1599779248.059400"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1599779466.059600"
+            },
+            {
+                "user": "U016AG4A2G2",
+                "ts": "1599780135.059800"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1599781711.060200"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1599782944.060400"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1599826725.060700"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1599834591.066400"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1599834677.066800"
+            },
+            {
+                "user": "UKEB29JGH",
+                "ts": "1599861608.073100"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1599861980.073400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UQ3Q7SQ6A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "848960e1-b90a-4bdb-8231-976583cca858",
+        "type": "message",
+        "text": "Nik, before re-setting OKR's, have you sat down with her to communicate the concern?",
+        "user": "U016Q3T877S",
+        "ts": "1599778072.058100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d5269f0e0f10",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-25\/1229969750768_d5269f0e0f10973b520c_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Barrett",
+            "display_name": "Andrew Barrett",
+            "team": "TJE58GTJL",
+            "name": "andrewbarrett254",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nh=bV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nik, before re-setting OKR's, have you sat down with her to communicate the concern?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U011QQDDSJV",
+                    "U019CR384QP",
+                    "UKEB29JGH",
+                    "U013L0U4YSU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "254f2ed6-95c1-40ee-b528-1902b2b3c60b",
+        "type": "message",
+        "text": "<@U011QQDDSJV> Is she aware that the time it takes to complete these projects is a problem and have you had clear conversations about expectations\/discussed that this is an issue? (<@U016Q3T877S> and I overlapped so essentially, +1!)\n\nIf not: A good starting point for me when someone is having a time management\/productivity issue is to point out the issue I’m observing, share the impact and ask them what’s happening. A curious approach can help uncover what you as her manager can actually help solve for. I’ve then had success with coaching on any skill\/process issues and asking direct reports to timebox their work (e.g. “we can only spend three hours on this type of task. let’s break it into three sub-tasks, then work on it in 60-minute pieces. get as far as you can in that amount of time, send it to me, and then we can walk through how it went and any issues you ran into together.“)\n\nThat conversation could be a helpful starting point, before you bring anything into the OKR framework.",
+        "user": "URB31QKM4",
+        "ts": "1599778186.058300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "099d380d742a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-04\/936714280756_099d380d742afea0dc9f_72.png",
+            "first_name": "Alicia",
+            "real_name": "Alicia Johnston",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "aliciabjohnston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WbD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U011QQDDSJV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Is she aware that the time it takes to complete these projects is a problem and have you had clear conversations about expectations\/discussed that this is an issue? ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016Q3T877S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and I overlapped so essentially, +1!)\n\nIf not: A good starting point for me when someone is having a time management\/productivity issue is to point out the issue I’m observing, share the impact and ask them what’s happening. A curious approach can help uncover what you as her manager can actually help solve for. I’ve then had success with coaching on any skill\/process issues and asking direct reports to timebox their work (e.g. “we can only spend three hours on this type of task. let’s break it into three sub-tasks, then work on it in 60-minute pieces. get as far as you can in that amount of time, send it to me, and then we can walk through how it went and any issues you ran into together.“)\n\nThat conversation could be a helpful starting point, before you bring anything into the OKR framework."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV",
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U016Q3T877S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U011QQDDSJV",
+                    "UKEB29JGH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e0eba0d-f2d2-4f52-8bd9-42cae7cf45e1",
+        "type": "message",
+        "text": "Yep, we’ve talked several times in 1-on-1s about this. This particular employee has a “bad relationship with accountability” according to another manager who’s experienced similar time-scoping struggles with this employee. So it’s not a brand new issue. It’s just new to me, and I can only give her so much leeway.\n\n&gt;  let’s break it into three sub-tasks\nThis is something we’re definitely doing (glad to see this suggestion, it validates that I have a good idea, ha). We use Clickup for our project mgmt, and giving her clear time estimates for certain subtasks will help her be more accountable, I predict, and give us more visibility into where her hours ago.",
+        "user": "U011QQDDSJV",
+        "ts": "1599778524.058600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=iz7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep, we’ve talked several times in 1-on-1s about this. This particular employee has a “bad relationship with accountability” according to another manager who’s experienced similar time-scoping struggles with this employee. So it’s not a brand new issue. It’s just new to me, and I can only give her so much leeway.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " let’s break it into three sub-tasks"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is something we’re definitely doing (glad to see this suggestion, it validates that I have a good idea, ha). We use Clickup for our project mgmt, and giving her clear time estimates for certain subtasks will help her be more accountable, I predict, and give us more visibility into where her hours ago."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV"
+    },
+    {
+        "client_msg_id": "01c04c53-17b1-4cc4-abb8-09b61f52c03a",
+        "type": "message",
+        "text": "Anyway, going back to the OKR proposal. Would you frame this as something like:\n\nGoal: Complete tasks and subtasks within scoped time\nKR: Ensure you’re regularly tracking\/monitoring time for any given task\nKR: Provide updates (to me) as subtasks are completed\nKR: (other KR I can’t think of?)",
+        "user": "U011QQDDSJV",
+        "ts": "1599778692.059000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=xS0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyway, going back to the OKR proposal. Would you frame this as something like:\n\nGoal: Complete tasks and subtasks within scoped time\nKR: Ensure you’re regularly tracking\/monitoring time for any given task\nKR: Provide updates (to me) as subtasks are completed\nKR: (other KR I can’t think of?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV"
+    },
+    {
+        "client_msg_id": "ca3e6353-a720-4060-b540-6e50515d8b03",
+        "type": "message",
+        "text": "Is it possible this is related to lack of confidence\/pursuit of perfection? Not to say it’s any less harmful to getting $hit done, just that it’s a different issue. Based on the “poor relationship with accountability” I’m assuming not, but just thought I’d throw that out!",
+        "user": "U016AG4A2G2",
+        "ts": "1599779089.059200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "11a48b9b2620",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-22\/1403402335920_11a48b9b26202d48f6a5_72.png",
+            "first_name": "Victoria",
+            "real_name": "Victoria Fryer",
+            "display_name": "Victoria Fryer",
+            "team": "TJE58GTJL",
+            "name": "vcfryer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=l2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it possible this is related to lack of confidence\/pursuit of perfection? Not to say it’s any less harmful to getting $hit done, just that it’s a different issue. Based on the “poor relationship with accountability” I’m assuming not, but just thought I’d throw that out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV"
+    },
+    {
+        "client_msg_id": "3385e440-03b8-45df-bea7-11df8785469a",
+        "type": "message",
+        "text": "Where are people at with using OKR's as aspirational, rather than actual targets?",
+        "user": "U016Q3T877S",
+        "ts": "1599779248.059400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d5269f0e0f10",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-25\/1229969750768_d5269f0e0f10973b520c_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Barrett",
+            "display_name": "Andrew Barrett",
+            "team": "TJE58GTJL",
+            "name": "andrewbarrett254",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9O0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where are people at with using OKR's as aspirational, rather than actual targets?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV"
+    },
+    {
+        "client_msg_id": "31fa8ddf-099a-4fab-a560-04076230a877",
+        "type": "message",
+        "text": "&gt; related to lack of confidence\/pursuit of perfection\nI think this is a factor, yes. I often tell her, “sometimes ‘done’ is the best feature” (something I read elsewhere). I’m new (1 year) to managing folks directly like this.\n\nNot sure how to make heads or tails of this in terms of OKRs.",
+        "user": "U011QQDDSJV",
+        "ts": "1599779466.059600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "related to lack of confidence\/pursuit of perfection"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this is a factor, yes. I often tell her, “sometimes ‘done’ is the best feature” (something I read elsewhere). I’m new (1 year) to managing folks directly like this.\n\nNot sure how to make heads or tails of this in terms of OKRs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "URB31QKM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc8e666c-e275-4354-aef4-f1d17928e942",
+        "type": "message",
+        "text": "yeah that’s something i have no idea how to fix, i struggle with it myself! it’s why I always say EOD instead of COB :slightly_smiling_face:",
+        "user": "U016AG4A2G2",
+        "ts": "1599780135.059800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "11a48b9b2620",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-22\/1403402335920_11a48b9b26202d48f6a5_72.png",
+            "first_name": "Victoria",
+            "real_name": "Victoria Fryer",
+            "display_name": "Victoria Fryer",
+            "team": "TJE58GTJL",
+            "name": "vcfryer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah that’s something i have no idea how to fix, i struggle with it myself! it’s why I always say EOD instead of COB "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV",
+        "reactions": [
+            {
+                "name": "pushpin",
+                "users": [
+                    "U011QQDDSJV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e31f4acc-c71c-4d20-8bf2-91446240a092",
+        "type": "message",
+        "text": "I have definitely had the procrastination-as-a-function-of-perfectionism issue rear up before! I have made it really clear that the deadline is X, so you need to send me what you have by X; I’d prefer you send me an 80% complete piece and tell me what else you wanted to do with it, than send me nothing. (This was with someone who had very high work quality when done, but was missing deadlines.) That mindset shift helped a lot but the “bad relationship with accountability” piece…that is a doozy. Honestly, having clear expectation convos--based on your OKR framework once you have that!--will be helpful in case this is an ongoing issue and you need to coach this person out. Sorry I can’t help more on the OKR side; I’m familiar but have never used them myself.",
+        "user": "URB31QKM4",
+        "ts": "1599781711.060200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "099d380d742a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-04\/936714280756_099d380d742afea0dc9f_72.png",
+            "first_name": "Alicia",
+            "real_name": "Alicia Johnston",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "aliciabjohnston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have definitely had the procrastination-as-a-function-of-perfectionism issue rear up before! I have made it really clear that the deadline is X, so you need to send me what you have by X; I’d prefer you send me an 80% complete piece and tell me what else you wanted to do with it, than send me nothing. (This was with someone who had very high work quality when done, but was missing deadlines.) That mindset shift helped a lot but the “bad relationship with accountability” piece…that is a doozy. Honestly, having clear expectation convos--based on your OKR framework once you have that!--will be helpful in case this is an ongoing issue and you need to coach this person out. Sorry I can’t help more on the OKR side; I’m familiar but have never used them myself."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV"
+    },
+    {
+        "client_msg_id": "4dfbbf89-53c8-4d14-819d-f0a6dc5e6675",
+        "type": "message",
+        "text": "<@URB31QKM4>\n&gt; procrastination-as-a-function-of-perfectionism\nYou know exactly what I’m talking about. I’ve told her that I’m OK with imperfection—I have to sacrifice some expectations so we can keep the bigger project moving. I’m a faster fixer-editor than she is at simply producing flawless work. Learning experience for both us as we find the right balance. Appreciate your input here!",
+        "user": "U011QQDDSJV",
+        "ts": "1599782944.060400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f290c29155",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-08\/1046081228023_26f290c2915541368412_72.png",
+            "first_name": "Nikolas",
+            "real_name": "Nikolas Wright",
+            "display_name": "Nik",
+            "team": "TJE58GTJL",
+            "name": "wright.nikolas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tbl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URB31QKM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "procrastination-as-a-function-of-perfectionism"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nYou know exactly what I’m talking about. I’ve told her that I’m OK with imperfection—I have to sacrifice some expectations so we can keep the bigger project moving. I’m a faster fixer-editor than she is at simply producing flawless work. Learning experience for both us as we find the right balance. Appreciate your input here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599776739.057900",
+        "parent_user_id": "U011QQDDSJV"
+    }
+]

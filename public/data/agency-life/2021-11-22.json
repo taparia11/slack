@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1637616670.109000",
+        "thread_ts": "1637616670.109000",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1637695037.115600",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1637695037.115600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1637695037.115600"
+    },
+    {
+        "client_msg_id": "6681f22c-e448-4166-91dc-43b5bc66e2ce",
+        "type": "message",
+        "text": "As a writer myself, I have it in my contracts that rights of the work are transferred to the client but that I retain the right to share the works as part of my portfolio across my channels.\n\nSome clients (agencies and others) want me to ghostwrite and then that's something we'll discuss, but it's not my default way of working.",
+        "user": "U02J7DM81AQ",
+        "ts": "1637616966.109200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb47e412d680",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b47e412d680490c17c4ca22271a9e55b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sofie",
+            "real_name": "Sofie Couwenbergh",
+            "display_name": "Sofie Couwenbergh",
+            "team": "TJE58GTJL",
+            "name": "sofie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZ5Kb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a writer myself, I have it in my contracts that rights of the work are transferred to the client but that I retain the right to share the works as part of my portfolio across my channels.\n\nSome clients (agencies and others) want me to ghostwrite and then that's something we'll discuss, but it's not my default way of working."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636625997.088500",
+        "parent_user_id": "U02AJEY8ACW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01HEQWRG0G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

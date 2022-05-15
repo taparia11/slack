@@ -1,0 +1,128 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Rainforest QA is hiring a Senior Content Marketing Manager ()* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/295192-senior-content-marketing-manager>",
+        "ts": "1648823583.833629",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1648831907.889919",
+        "thread_ts": "1648831907.889919",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1648832091.279059",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U0340N9HSLT"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1648832016.014489"
+            },
+            {
+                "user": "U0340N9HSLT",
+                "ts": "1648832091.279059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1648832091.279059"
+    },
+    {
+        "client_msg_id": "85eb94c0-ee60-4fa0-bff1-4345efaa2a7d",
+        "type": "message",
+        "text": "<@U0340N9HSLT> this channel is just a feed from the job board",
+        "user": "UJG9WTEKG",
+        "ts": "1648832016.014489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kdung",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0340N9HSLT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this channel is just a feed from the job board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648831907.889919",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "056750a5-78aa-4333-873d-1637523298fa",
+        "type": "message",
+        "text": "Ack. Sorry. Where would be a better place to post?",
+        "user": "U0340N9HSLT",
+        "ts": "1648832091.279059",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "95406d6531e5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3130198661222_95406d6531e5b0cb389c_72.jpg",
+            "first_name": "Jaci",
+            "real_name": "Jaci Smith",
+            "display_name": "Jaci Smith",
+            "team": "TJE58GTJL",
+            "name": "jaci.smith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IcBoK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ack. Sorry. Where would be a better place to post?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648831907.889919",
+        "parent_user_id": "USLACKBOT"
+    }
+]

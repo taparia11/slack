@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "3dfafc6a-2e44-4ae4-bae0-85833b483f8e",
+        "type": "message",
+        "text": "We just launched a new feature at Mio :rocket:\n\nAs Slack users, you can now send a DM to Microsoft Teams users (w\/o leaving Slack!)\n\nHappy to give anybody a run through if you ever find yourself switching between apps.\n\n<https:\/\/twitter.com\/mio\/status\/1373990899227754499?s=20>",
+        "user": "UJJFDTN8G",
+        "ts": "1616421508.019500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mio|@mio>: :rocket::rocket:We've got big news!\n\nYou can now send a direct message from Microsoft Teams to Slack!\n\nThat's right; we're extending our cross-platform messaging solution to include direct messaging as well.  \n\nRead our full update: <https:\/\/buff.ly\/3lCpAKO>",
+                "ts": 1616419932,
+                "author_name": "Mio",
+                "author_link": "https:\/\/twitter.com\/mio\/status\/1373990899227754499",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1057259678533439489\/TctGGBw0_normal.jpg",
+                "author_subname": "@mio",
+                "text": ":rocket::rocket:We've got big news!\n\nYou can now send a direct message from Microsoft Teams to Slack!\n\nThat's right; we're extending our cross-platform messaging solution to include direct messaging as well.  \n\nRead our full update: <https:\/\/buff.ly\/3lCpAKO>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mio\/status\/1373990899227754499?s=20",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mio\/status\/1373990899227754499?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rMHc7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We just launched a new feature at Mio "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAs Slack users, you can now send a DM to Microsoft Teams users (w\/o leaving Slack!)\n\nHappy to give anybody a run through if you ever find yourself switching between apps.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/mio\/status\/1373990899227754499?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

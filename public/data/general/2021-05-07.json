@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "ed361136-8d3a-4a16-b9ca-54fd269e90a1",
+        "type": "message",
+        "text": "Thanks <@UJG9WTEKG> I'm new to Slack, and it's a marvelous beast to ride ... kinda like those mechanical bulls in bars :slightly_smiling_face:",
+        "user": "U021R75LUF2",
+        "ts": "1620377629.371400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a28256ad65f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-06\/2037123351763_3a28256ad65fa0ace3eb_72.jpg",
+            "first_name": "William",
+            "real_name": "William Short",
+            "display_name": "Bill",
+            "team": "TJE58GTJL",
+            "name": "englishapostles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm new to Slack, and it's a marvelous beast to ride ... kinda like those mechanical bulls in bars "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620298232.369200",
+        "parent_user_id": "U021R75LUF2"
+    }
+]

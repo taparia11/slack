@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "af72cbac-0c2f-4514-aa67-3a8e02e8cc6c",
+        "type": "message",
+        "text": "<@U0107Q25BRT> That all makes sense! Thanks again.",
+        "user": "U01BQ274GN7",
+        "ts": "1606583677.272400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g64353aff284",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/64353aff2845a77b82a2ea74507ede91.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Ilhan",
+            "real_name": "Ilhan Kudeki",
+            "display_name": "Ilhan",
+            "team": "TJE58GTJL",
+            "name": "kudeki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0107Q25BRT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " That all makes sense! Thanks again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606341196.263500",
+        "parent_user_id": "U01BQ274GN7"
+    },
+    {
+        "client_msg_id": "6331115b-7972-4b4e-aff9-d5514df00f03",
+        "type": "message",
+        "text": "<@U01BQ274GN7> no problem! Feel free to ping me if you have any other questions.",
+        "user": "U0107Q25BRT",
+        "ts": "1606584947.272600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7f4131e47586",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-16\/3246028628310_7f4131e47586ddac13f6_72.jpg",
+            "first_name": "Charles",
+            "real_name": "Charles Costa",
+            "display_name": "Charles Costa",
+            "team": "TJE58GTJL",
+            "name": "charles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z8x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BQ274GN7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no problem! Feel free to ping me if you have any other questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606341196.263500",
+        "parent_user_id": "U01BQ274GN7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01BQ274GN7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01BQ274GN7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

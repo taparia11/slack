@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "49bec705-a67c-47c4-9e2f-176489510c32",
+        "type": "message",
+        "text": "The reason is mostly because the on-demand webinars are ungated, so there’s no barrier to popping in, watching a few minutes, and popping out. Though, our next step will probably be to score on-demand viewers based on percentage of the video they watched. (Our lead scoring model is very new, so we’re building in maturity as we go!)",
+        "user": "U022PRZDB6W",
+        "ts": "1623684799.124100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "913ce77c2994",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2104509954721_913ce77c2994e10945c7_72.jpg",
+            "first_name": "",
+            "real_name": "Hannah Alvarez",
+            "display_name": "Hannah Alvarez",
+            "team": "TJE58GTJL",
+            "name": "hannah.alvarez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+8Tp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The reason is mostly because the on-demand webinars are ungated, so there’s no barrier to popping in, watching a few minutes, and popping out. Though, our next step will probably be to score on-demand viewers based on percentage of the video they watched. (Our lead scoring model is very new, so we’re building in maturity as we go!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623266654.104300",
+        "parent_user_id": "U01QHPBLGUF",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "UV5V2P0VB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c52b85ab-e11d-4d07-940e-315650239736",
+        "type": "message",
+        "text": "That's brilliant. Thanks for sharing, <@U022PRZDB6W>.",
+        "user": "UV5V2P0VB",
+        "ts": "1623685845.124400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SJLbv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's brilliant. Thanks for sharing, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022PRZDB6W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623266654.104300",
+        "parent_user_id": "U01QHPBLGUF",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U022PRZDB6W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

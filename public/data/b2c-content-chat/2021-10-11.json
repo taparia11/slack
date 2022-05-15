@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "40f479d3-2c04-4644-a496-8f29bdc6a83d",
+        "type": "message",
+        "text": "the guys at Lemonpie and Hatch (same people, different service) are top notch",
+        "user": "U02GFCTS89J",
+        "ts": "1634020867.154800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1911a59ab4a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2570431495553_1911a59ab4a804da14e5_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Schaaf",
+            "display_name": "Julian Schaaf",
+            "team": "TJE58GTJL",
+            "name": "julian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the guys at Lemonpie and Hatch (same people, different service) are top notch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633705701.147700",
+        "parent_user_id": "U01FCD7V8TV"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1634020870.155000",
+        "thread_ts": "1633705701.147700",
+        "parent_user_id": "U01FCD7V8TV"
+    }
+]

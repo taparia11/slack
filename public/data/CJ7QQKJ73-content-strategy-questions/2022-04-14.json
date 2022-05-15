@@ -1,0 +1,329 @@
+[
+    {
+        "client_msg_id": "16b12740-58d7-4367-9b1f-c6ff10109c2b",
+        "type": "message",
+        "text": "hey everyone!\n\nim in my new role as a content strategist and ive been asked to create a report &amp; score card to quaterly measure my content (and i have no clue where to even start :disappointed:) would love some tips and guidance!\n\nthanks!!! :slightly_smiling_face:",
+        "user": "U03BXRFJ0SV",
+        "ts": "1649970243.562369",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "734e73fa7dbc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-14\/3379871794119_734e73fa7dbca853a7b6_72.jpg",
+            "first_name": "Maria",
+            "real_name": "Maria Andreina Tirado",
+            "display_name": "Maria Andreina Tirado",
+            "team": "TJE58GTJL",
+            "name": "maria.andreinatiradof",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/=I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey everyone!\n\nim in my new role as a content strategist and ive been asked to create a report & score card to quaterly measure my content (and i have no clue where to even start "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") would love some tips and guidance!\n\nthanks!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649970243.562369",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1650663446.354189",
+        "reply_users": [
+            "U02AZ2G564W",
+            "U01P13NTGG6",
+            "U02ME70EHBL",
+            "UJG9WTEKG",
+            "U02BCP9CTSR"
+        ],
+        "replies": [
+            {
+                "user": "U02AZ2G564W",
+                "ts": "1649970813.633919"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1649990485.144999"
+            },
+            {
+                "user": "U02ME70EHBL",
+                "ts": "1650042414.540349"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1650042772.546489"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1650296470.433079"
+            },
+            {
+                "user": "U02BCP9CTSR",
+                "ts": "1650663446.354189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650663446.354189"
+    },
+    {
+        "client_msg_id": "5c1180a7-2edc-4cd2-840d-bfec3a8bd580",
+        "type": "message",
+        "text": "Hey <@U03BXRFJ0SV> :wave:\n\nHere're some key data points to track for every article:\n\n• No. of ranking keywords\n• No. of backlinks\n• Page on time\n• Traffic\nYou can also measure SOV to get a bigger picture of overall content performance. It'll be even better if you take up a content audit project. That'll help you to:\n\n• Find topics to refresh\/rewrite\n• Identify new product categories\/keyword clusters to work on\n• Prune content (if needed)\nHope this helps :slightly_smiling_face:",
+        "user": "U02AZ2G564W",
+        "ts": "1649970813.633919",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "33a99c66d31a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3418361332896_33a99c66d31ae22d6455_72.jpg",
+            "first_name": "Sudipto",
+            "real_name": "Sudipto Paul",
+            "display_name": "Sudipto Paul",
+            "team": "TJE58GTJL",
+            "name": "sudiptopaul93",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02AZ2G564W",
+            "ts": "1649971285.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/xJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03BXRFJ0SV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHere're some key data points to track for every article:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "No. of ranking keywords"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "No. of backlinks"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Page on time"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Traffic"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nYou can also measure SOV to get a bigger picture of overall content performance. It'll be even better if you take up a content audit project. That'll help you to:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Find topics to refresh\/rewrite"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Identify new product categories\/keyword clusters to work on"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prune content (if needed)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHope this helps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649970243.562369",
+        "parent_user_id": "U03BXRFJ0SV",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U032V06GP38"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03BXRFJ0SV",
+                    "U02CUM38FUK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "935ca30c-4181-4df6-909f-f516b71c9d02",
+        "type": "message",
+        "text": "I’d ask your leadership what metrics they want. If I reported on those metrics ↑ to executives they’d fire me. Ours want to know about revenue and leads generated. Some execs may want stuff like keywords and time on page but I’d ask them just to be sure.",
+        "user": "U01P13NTGG6",
+        "ts": "1649990485.144999",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01P13NTGG6",
+            "ts": "1650042802.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I6=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d ask your leadership what metrics they want. If I reported on those metrics ↑ to executives they’d fire me. Ours want to know about revenue and leads generated. Some execs may want stuff like keywords and time on page but I’d ask them just to be sure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649970243.562369",
+        "parent_user_id": "U03BXRFJ0SV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02Q5J6H7NC",
+                    "U012GHRAHDK",
+                    "U02AZ2G564W",
+                    "U02F1GK6U6B",
+                    "U02ME70EHBL",
+                    "U01MW6DPU72",
+                    "U03CG48GTCH"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

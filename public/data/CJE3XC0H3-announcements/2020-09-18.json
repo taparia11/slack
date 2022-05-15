@@ -1,0 +1,169 @@
+[
+    {
+        "client_msg_id": "b3dfd609-2e33-42d6-8c04-f5227ec95e2f",
+        "type": "message",
+        "text": "<@UV9DR14ES> it’ll all be in slack and i’ll package into a blog post too",
+        "user": "UJG9WTEKG",
+        "ts": "1600448065.003100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mn89W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV9DR14ES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it’ll all be in slack and i’ll package into a blog post too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600359773.155900",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "e7aa455f-0d4e-4e29-8045-eafa52cfd7f6",
+        "type": "message",
+        "text": "<!channel> <@URB31QKM4>’s AMA is happening in 5 min over in <#C014P2BJLER|general>. see you there!",
+        "user": "UJG9WTEKG",
+        "ts": "1600448097.003800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URB31QKM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s AMA is happening in 5 min over in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C014P2BJLER"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". see you there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rocket",
+                "users": [
+                    "U011UJX75PE",
+                    "UUVC0EX8C",
+                    "UV5H19LNT",
+                    "U010JU2GTND",
+                    "UJ2QESJ66",
+                    "U017WRJTKF1"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed0b0dc4-2c30-468d-8b18-774c693704d7",
+        "type": "message",
+        "text": "You know you’re a content marketer when you say “and I’ll package it into a blog post too.”",
+        "user": "U015HDJKZM2",
+        "ts": "1600449030.004500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aed54987a896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-12\/1180335660085_aed54987a896e3bce76d_72.jpg",
+            "first_name": "Jeff",
+            "real_name": "Jeff Green",
+            "display_name": "Jeff",
+            "team": "TJE58GTJL",
+            "name": "jeffreyalangreen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYljp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You know you’re a content marketer when you say “and I’ll package it into a blog post too.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600359773.155900",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UJG9WTEKG",
+                    "UJ2N9A3GT",
+                    "UUVS5QTM3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "d27cb4d4-6bb8-4368-bca4-3d378690471a",
+        "type": "message",
+        "text": "<@UJ7R3QGSV> has shared some great stuff on this topic: <https:\/\/kierantie.com\/articles>",
+        "user": "UJ3K7N8GJ",
+        "ts": "1582546068.000100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e354841b2058",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629246990838_e354841b20589b6851e1_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Law",
+            "display_name": "Ryan Law",
+            "team": "TJE58GTJL",
+            "name": "ryan096",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Articles on freelancing, creativity, and writing from Kieran Tie",
+                "title_link": "https:\/\/kierantie.com\/articles",
+                "text": "Every week, I highlight new ideas, stories, and links from around the web on freelancing, writing, marketing, creativity, life lessons, and the future of work. There's no freebies, giveaways, or gimmicks - just my best writing, once a week.",
+                "fallback": "Articles on freelancing, creativity, and writing from Kieran Tie",
+                "thumb_url": "https:\/\/uploads-ssl.webflow.com\/5d83ff51894d706caddf1137\/5d8e41d69fdd33043b986f1a_articles-from-kieran-tie.png",
+                "from_url": "https:\/\/kierantie.com\/articles",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_name": "kierantie.com",
+                "id": 1,
+                "original_url": "https:\/\/kierantie.com\/articles"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1OP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ7R3QGSV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has shared some great stuff on this topic: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kierantie.com\/articles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582204416.007200",
+        "parent_user_id": "URB31QKM4",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URB31QKM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1582546073.000500",
+        "user": "UJ7R3QGSV",
+        "text": "<@UJ7R3QGSV> has joined the channel",
+        "inviter": "UJ3K7N8GJ"
+    }
+]

@@ -1,0 +1,241 @@
+[
+    {
+        "client_msg_id": "86063a5d-a15e-43a0-bc1b-e28609e9858d",
+        "type": "message",
+        "text": "I'm making a company survey to gauge people's comfort levels for an in-person gathering of our small team sometime this winter. It's anonymous, so far I've got 3 questions: vaccination status, which options would make you comfortable inside (i.e., everyone is fully vaxxed, fully vaxxed + masks, just masks, no masks, etc), which options would make you comfortable outside. Does anyone have ideas for additional questions?",
+        "user": "U0113AV4895",
+        "ts": "1637331058.062100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "abf6dd3a714a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1107778466019_abf6dd3a714ac6e86603_72.jpg",
+            "first_name": "Jessie",
+            "real_name": "Jessie Wood",
+            "display_name": "Jessie",
+            "team": "TJE58GTJL",
+            "name": "jessiewould",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2cMH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm making a company survey to gauge people's comfort levels for an in-person gathering of our small team sometime this winter. It's anonymous, so far I've got 3 questions: vaccination status, which options would make you comfortable inside (i.e., everyone is fully vaxxed, fully vaxxed + masks, just masks, no masks, etc), which options would make you comfortable outside. Does anyone have ideas for additional questions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637331058.062100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1637432033.062900",
+        "reply_users": [
+            "U02ME33ACS3",
+            "U0113AV4895",
+            "U017WRJTKF1"
+        ],
+        "replies": [
+            {
+                "user": "U02ME33ACS3",
+                "ts": "1637332012.062200"
+            },
+            {
+                "user": "U0113AV4895",
+                "ts": "1637333587.062400"
+            },
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1637432033.062900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b76ed17a-ba2f-40cc-92c4-0727392ee8b2",
+        "type": "message",
+        "text": "Here are some of the questions we used earlier this year:\n• How likely are you to attend an in-person event?\n• What venue would you be comfortable with?\n    ◦ Outdoor\n    ◦ Large indoor venue with social distancing marking\n    ◦ No preference\n    ◦ Other\n• What is your biggest concern about attending an in-person event?",
+        "user": "U02ME33ACS3",
+        "ts": "1637332012.062200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00da87c2b625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-18\/2755545054161_00da87c2b625390394da_72.jpg",
+            "first_name": "Veronica",
+            "real_name": "Veronica Magan",
+            "display_name": "Veronica Magan",
+            "team": "TJE58GTJL",
+            "name": "veronica.magan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are some of the questions we used earlier this year:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How likely are you to attend an in-person event?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What venue would you be comfortable with?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Outdoor"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Large indoor venue with social distancing marking"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "No preference"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Other"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What is your biggest concern about attending an in-person event?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637331058.062100",
+        "parent_user_id": "U0113AV4895"
+    },
+    {
+        "client_msg_id": "96cacd9f-29ed-4bcf-8732-8f08c2b140bf",
+        "type": "message",
+        "text": "thanks!",
+        "user": "U0113AV4895",
+        "ts": "1637333587.062400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "abf6dd3a714a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1107778466019_abf6dd3a714ac6e86603_72.jpg",
+            "first_name": "Jessie",
+            "real_name": "Jessie Wood",
+            "display_name": "Jessie",
+            "team": "TJE58GTJL",
+            "name": "jessiewould",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IU4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637331058.062100",
+        "parent_user_id": "U0113AV4895",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02ME33ACS3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

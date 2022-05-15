@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "37c483f5-0ae8-4710-84d1-be3b065a976b",
+        "type": "message",
+        "text": "Here's a Google Sheet I use for clients to distribute their blog posts. The frequency and first publish date gets filled in, then the subsequent dates auto populate.\n<https:\/\/docs.google.com\/spreadsheets\/d\/1Ff8pk_B9yBWocwe5WCd_s0IdY4P02drJMw9I_URXw8c\/copy>",
+        "user": "U01U4QYEXBJ",
+        "ts": "1630171470.010700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "663eb11e79f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-25\/2556102616672_663eb11e79f303963afd_72.jpg",
+            "first_name": "Barb",
+            "real_name": "Barb Davids",
+            "display_name": "Barb Davids",
+            "team": "TJE58GTJL",
+            "name": "barb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fgTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a Google Sheet I use for clients to distribute their blog posts. The frequency and first publish date gets filled in, then the subsequent dates auto populate.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1Ff8pk_B9yBWocwe5WCd_s0IdY4P02drJMw9I_URXw8c\/copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629733310.232100",
+        "parent_user_id": "U01J3L8CJRL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01J3L8CJRL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5c94ff4-2994-4821-bac8-ad9e35981900",
+        "type": "message",
+        "text": "<@U021QMNMQ68> looking for only google sheet templates. No blog links.",
+        "user": "U01J3L8CJRL",
+        "ts": "1630216703.010900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12550f10b66e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-14\/2588602098551_12550f10b66e24ed3adb_72.png",
+            "first_name": "Saurabh",
+            "real_name": "Saurabh",
+            "display_name": "Saurabh",
+            "team": "TJE58GTJL",
+            "name": "saurabh.content.saas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Tf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021QMNMQ68"
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking for only google sheet templates. No blog links."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629733310.232100",
+        "parent_user_id": "U01J3L8CJRL"
+    }
+]

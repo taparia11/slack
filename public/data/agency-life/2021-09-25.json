@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "d523df7a-b5cd-4d64-beb0-f42147cb24b1",
+        "type": "message",
+        "text": "Thanks <@U02AJEY8ACW> and <@U02CZJT4FDG>!",
+        "user": "U01U4QYEXBJ",
+        "ts": "1632609870.166600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "663eb11e79f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-25\/2556102616672_663eb11e79f303963afd_72.jpg",
+            "first_name": "Barb",
+            "real_name": "Barb Davids",
+            "display_name": "Barb Davids",
+            "team": "TJE58GTJL",
+            "name": "barb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ztY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AJEY8ACW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02CZJT4FDG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632168878.131700",
+        "parent_user_id": "U01U4QYEXBJ"
+    }
+]

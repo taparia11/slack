@@ -1,0 +1,388 @@
+[
+    {
+        "client_msg_id": "67fdc0f7-1dcb-43be-8c0c-a9bcb04ffdcc",
+        "type": "message",
+        "text": "Hey <@UUH2ESL66> thanks for the feedback! We're hiring a frontend designer, and a design agency will do the whole setup for us. So we should be able to add custom title tag and meta fields easily, but very weird Webflow doesn't already do this.",
+        "user": "U032D7Y0658",
+        "ts": "1644571554.218529",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0bcf480280f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-10\/3084541355059_0bcf480280f2b3f1e621_72.png",
+            "first_name": "Hanne",
+            "real_name": "Hanne Deceuninck",
+            "display_name": "Hanne",
+            "team": "TJE58GTJL",
+            "name": "hanne.deceuninck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2JZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2ESL66"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for the feedback! We're hiring a frontend designer, and a design agency will do the whole setup for us. So we should be able to add custom title tag and meta fields easily, but very weird Webflow doesn't already do this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Oh, just realized this was more about processes and workflows. We manage all of that in Guru. It’s absolutely phenomenal.\n\nWe tried Notion, but ran into issues keeping things up to date, getting people to remember it exists\/getting people to use it (e.g. gotta go open Notion, find what you're looking for, resize things if you need it side by side, etc.), realizing things are even there (especially when a new piece of documentation gets created\/updated).\n\nGuru solved all of that:\n\n*Less Context Switching*\n———\n:partyparrot: The killer feature is their Chrome extension that you can open up with a keyboard shortcut (or clicking the button in the extension area). It slides in from the side of Chrome where you can search and find the info you're looking for.\n\n*Easy to Keep Updated*\n———\nYou can set periods for each card that indicate how often it should be reviewed and verified to be up to date. People can also flag a card as being out of date if there’s an issue. They can add comments, etc. to help whoever’s responsible keep things updated. If you don't mind letting anyone\/everyone update things, it has logs at the card level you can review to see who\/what changed.\n\n\n*Keeping People Up to Date*\n———\nYou can send out alerts for people when something changes that you want them to be aware of. Along with logs of who’s viewed the changes.\n\n*Knowledge Triggers*\n———\nThis is really cool but niche. You can create these knowledge triggers that will look for a specific element on a page that causes a little nudge to trigger to let you know there’s a relevant knowledge card you might want to view. We use these for very specific things we’ve seen get continually messed up, new things we roll out we want folks to get more familiar with, and for new hires who are onboarding and training.\n\n*Related Cards*\n———\nGuru will automatically recommend related cards at the bottom of cards once it begins to notice a pattern. It bases that on prior user behavior (e.g. other cards people who view this card tend to view next\/prior and such).\n\n*Works Great with Freelancers\/Customers*\n———\nYou can make the cards publicly accessible as read only. Great for customers who don’t have the Chrome extension but need support. Even better for freelancers who download the Chrome extension and get the additional benefits from reducing context switching (oh, and you can have unlimited read-only users for free—great if you work with a lot of freelancers).\n\nYou can embed cards in Notion, on the web, or wherever else as well. It works with Slack to quickly find info using \/ commands. You can create cards from within Slack too. \n\nThere’s a lot more. Hopefully this is enough. \n\nFYI: I don’t work with Guru or have any affiliation with them. This is just what my customer feedback looks like when a product solves a major headache for me haha.",
+        "files": [
+            {
+                "id": "F033DPA473J",
+                "created": 1644584049,
+                "timestamp": 1644584049,
+                "name": "File from iOS.gif",
+                "title": "File from iOS",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U01P13NTGG6",
+                "editable": false,
+                "size": 1680243,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F033DPA473J\/file_from_ios.gif?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F033DPA473J\/download\/file_from_ios.gif?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 218,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 290,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 435,
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_360.gif?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_480.gif?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "original_w": 720,
+                "original_h": 435,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_deanimate.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F033DPA473J-d44f678ead\/file_from_ios_deanimate_gif.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_tiny": "AwAdADDQAyOlLgelKvSggkcHBoAML7UbRRilxQAm0elIV+lOooAQdKCQBk8ChelKaAQmeev4UuaKKACiiqH29s\/cHXHWgD\/\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01P13NTGG6\/F033DPA473J\/file_from_ios.gif",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F033DPA473J-941e1dd2eb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01P13NTGG6",
+        "display_as_bot": false,
+        "ts": "1644584064.101049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vc+h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, just realized this was more about processes and workflows. We manage all of that in Guru. It’s absolutely phenomenal.\n\nWe tried Notion, but ran into issues keeping things up to date, getting people to remember it exists\/getting people to use it (e.g. gotta go open Notion, find what you're looking for, resize things if you need it side by side, etc.), realizing things are even there (especially when a new piece of documentation gets created\/updated).\n\nGuru solved all of that:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Less Context Switching\n",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "———"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partyparrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The killer feature is their Chrome extension that you can open up with a keyboard shortcut (or clicking the button in the extension area). It slides in from the side of Chrome where you can search and find the info you're looking for.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Easy to Keep Updated",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n———\nYou can set periods for each card that indicate how often it should be reviewed and verified to be up to date. People can also flag a card as being out of date if there’s an issue. They can add comments, etc. to help whoever’s responsible keep things updated. If you don't mind letting anyone\/everyone update things, it has logs at the card level you can review to see who\/what changed.\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Keeping People Up to Date\n",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "———\nYou can send out alerts for people when something changes that you want them to be aware of. Along with logs of who’s viewed the changes.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Knowledge Triggers",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n———\nThis is really cool but niche. You can create these knowledge triggers that will look for a specific element on a page that causes a little nudge to trigger to let you know there’s a relevant knowledge card you might want to view. We use these for very specific things we’ve seen get continually messed up, new things we roll out we want folks to get more familiar with, and for new hires who are onboarding and training.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Related Cards\n",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "———\nGuru will automatically recommend related cards at the bottom of cards once it begins to notice a pattern. It bases that on prior user behavior (e.g. other cards people who view this card tend to view next\/prior and such).\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Works Great with Freelancers\/Customers\n",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "———\nYou can make the cards publicly accessible as read only. Great for customers who don’t have the Chrome extension but need support. Even better for freelancers who download the Chrome extension and get the additional benefits from reducing context switching (oh, and you can have unlimited read-only users for free—great if you work with a lot of freelancers).\n\nYou can embed cards in Notion, on the web, or wherever else as well. It works with Slack to quickly find info using \/ commands. You can create cards from within Slack too. \n\nThere’s a lot more. Hopefully this is enough. \n\nFYI: I don’t work with Guru or have any affiliation with them. This is just what my customer feedback looks like when a product solves a major headache for me haha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "250CED59-F66F-4C07-B094-FD3EF6B27B1A",
+        "thread_ts": "1644471803.132329",
+        "parent_user_id": "UUH2C52DQ",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b499d488-1bc1-41d3-aeb9-6d7546236018",
+        "type": "message",
+        "text": "never heard of Publer, and that's why i love this group",
+        "user": "U01FUP6AMEZ",
+        "ts": "1644596654.975469",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "128762c3ea3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-01\/1527137254583_128762c3ea3f3d65d19b_72.jpg",
+            "first_name": "Joanna",
+            "real_name": "Joanna Rutter",
+            "display_name": "Joanna Rutter",
+            "team": "TJE58GTJL",
+            "name": "rutterjoanna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PJK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "never heard of Publer, and that's why i love this group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644516498.337669",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUH2ESL66",
+                    "U032J4EUCHF",
+                    "U02841E4KKP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U01L7S9CVNG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d0bb0cd-a071-47db-ba39-e2d368f4d373",
+        "type": "message",
+        "text": "Webflow definitely has its limitations, and when you find them, you'll see open feature requests for years :slightly_smiling_face: The CMS is really awesome (hello easy programmatic SEO) and the sites are generally fast compared to most WP sites. Although I'd argue it's easy to optimize WP just as much with CDN\/caching if you don't use a lot of plugins\n\nForms suck the most IMO from recent memory.",
+        "user": "U03190LG82H",
+        "ts": "1644606564.529179",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "87e64495c4de",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3061040939442_87e64495c4de812d4593_72.png",
+            "first_name": "Sean",
+            "real_name": "Sean Drumm",
+            "display_name": "Sean Drumm",
+            "team": "TJE58GTJL",
+            "name": "sean528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03190LG82H",
+            "ts": "1644606583.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Webflow definitely has its limitations, and when you find them, you'll see open feature requests for years "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The CMS is really awesome (hello easy programmatic SEO) and the sites are generally fast compared to most WP sites. Although I'd argue it's easy to optimize WP just as much with CDN\/caching if you don't use a lot of plugins\n\nForms suck the most IMO from recent memory."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032D7Y0658"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1295934d-b866-4059-996b-96685c9fc475",
+        "type": "message",
+        "text": "Thanks a lot <@U03190LG82H>",
+        "user": "U032D7Y0658",
+        "ts": "1644614723.552849",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0bcf480280f2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-10\/3084541355059_0bcf480280f2b3f1e621_72.png",
+            "first_name": "Hanne",
+            "real_name": "Hanne Deceuninck",
+            "display_name": "Hanne",
+            "team": "TJE58GTJL",
+            "name": "hanne.deceuninck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sU=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks a lot "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03190LG82H"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644481818.566969",
+        "parent_user_id": "U032D7Y0658"
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "40ed7eee-b658-4c7b-9c68-6fc7db31b609",
+        "type": "message",
+        "text": "content gaps",
+        "user": "U01FMKNL22G",
+        "ts": "1650388913.672019",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g77f3b282544",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/77f3b282544f5c9c1f5f0a04eaa69038.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Zoe Weisner",
+            "display_name": "Zoe Weisner",
+            "team": "TJE58GTJL",
+            "name": "zoeweisner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y2kSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "content gaps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630908002.106100",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "8beb6fa5-08bf-4e4c-a337-81218fe9fee0",
+        "type": "message",
+        "text": "<@U018LDG60DQ> here you go <https:\/\/community.jasper.ai\/recipes\/ebde722b-2468-45b6-9f3f-cb7c4aecd1b1>.\n\nLet me know if you have any questions.",
+        "user": "U01RSA9E9D4",
+        "ts": "1650435414.080229",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfbc217f6e1b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbc217f6e1b233bf10c4247333c118e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Anfernee",
+            "real_name": "Anfernee Chansamooth",
+            "display_name": "Anf Chansamooth",
+            "team": "TJE58GTJL",
+            "name": "anf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RSA9E9D4",
+            "ts": "1650435441.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/community.jasper.ai\/recipes\/ebde722b-2468-45b6-9f3f-cb7c4aecd1b1",
+                "service_icon": "https:\/\/community.jasper.ai\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/community.jasper.ai\/recipes\/ebde722b-2468-45b6-9f3f-cb7c4aecd1b1",
+                "fallback": "Jasper AI Copywriting Assistant: SEO Optimized Article using Surfer SEO + Jarvis - Jasper",
+                "text": "Want to write articles that Rank in Google? Use this recipe to create an SEO-optimized article using Surfer SEO + Jarvis. Created by Anfernee Chansamooth (view more Jarvis tutorials &amp; resources at <http:\/\/www.simplecreativemarketing.com\/jarvis-resources|www.simplecreativemarketing.com\/jarvis-resources>)",
+                "title": "SEO Optimized Article using Surfer SEO + Jarvis - Jasper",
+                "title_link": "https:\/\/community.jasper.ai\/recipes\/ebde722b-2468-45b6-9f3f-cb7c4aecd1b1",
+                "service_name": "Jasper AI Copywriting Assistant"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U018LDG60DQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here you go "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/community.jasper.ai\/recipes\/ebde722b-2468-45b6-9f3f-cb7c4aecd1b1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nLet me know if you have any questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636552063.157700",
+        "parent_user_id": "U018LDG60DQ",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U018LDG60DQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

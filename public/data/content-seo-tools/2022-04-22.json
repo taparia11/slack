@@ -1,0 +1,456 @@
+[
+    {
+        "client_msg_id": "1daee81d-4317-4865-9f8a-369bb42af879",
+        "type": "message",
+        "text": "Got a pretty specific question and have been tearing my hair out over this! :exploding_head:\n\nDoes anyone use Zapier to zap their WordPress posts to medium? If so, *how do you get the featured image to copy across*?",
+        "user": "U02HG9U4JQG",
+        "ts": "1650615580.061659",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "de85cbd5409b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572117757491_de85cbd5409ba2c4ab46_72.png",
+            "first_name": "Adam",
+            "real_name": "Adam",
+            "display_name": "Adam",
+            "team": "TJE58GTJL",
+            "name": "adam.yates",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got a pretty specific question and have been tearing my hair out over this! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDoes anyone use Zapier to zap their WordPress posts to medium? If so, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "how do you get the featured image to copy across",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615580.061659",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1650985017.806069",
+        "reply_users": [
+            "U02GLJM8MST",
+            "U0359RCHAGY",
+            "U02HG9U4JQG"
+        ],
+        "replies": [
+            {
+                "user": "U02GLJM8MST",
+                "ts": "1650621124.726679"
+            },
+            {
+                "user": "U0359RCHAGY",
+                "ts": "1650983215.583839"
+            },
+            {
+                "user": "U02HG9U4JQG",
+                "ts": "1650985017.806069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "12f20aef-25d3-4c18-88e8-bdd73ca5526d",
+        "type": "message",
+        "text": "We used to have automations for this but at the end of the day APIs changed and we had a number of issues.\n\nRight now it seems that the best way for us to do this is through the native import a story feature on Medium: <https:\/\/help.medium.com\/hc\/en-us\/articles\/214550207-Importing-a-post-to-Medium#:~:text=On%20your%20homepage%2C%20click%20on,Click%20See%20your%20story>.",
+        "user": "U02GLJM8MST",
+        "ts": "1650621124.726679",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbb2e32aabd3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb2e32aabd3787f0def01233ddfb6434.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Iliya",
+            "real_name": "Iliya Valchanov",
+            "display_name": "Iliya Valchanov",
+            "team": "TJE58GTJL",
+            "name": "iliya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yo9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We used to have automations for this but at the end of the day APIs changed and we had a number of issues.\n\nRight now it seems that the best way for us to do this is through the native import a story feature on Medium: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/help.medium.com\/hc\/en-us\/articles\/214550207-Importing-a-post-to-Medium#:~:text=On%20your%20homepage%2C%20click%20on,Click%20See%20your%20story"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650615580.061659",
+        "parent_user_id": "U02HG9U4JQG",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02HG9U4JQG",
+                    "U034H601T7X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B023BC3A2UV",
+        "type": "message",
+        "text": "_[sponsored]_ shoutout to Terkel (:wave: <@U033MEHFJ2J>) for supporting this community! Terkel is a HARO alternative that spares writers from fielding pitches, selecting insights, and notifying panelists of publication. Just ask a question, and receive a ready-to-be-published article featuring diverse insights from vetted experts. learn more :point_right: <https:\/\/terkel.io\/publishing>",
+        "user": "UJG9WTEKG",
+        "ts": "1650639600.655529",
+        "team": "TJE58GTJL",
+        "bot_profile": {
+            "id": "B023BC3A2UV",
+            "app_id": "AL3SX1B6J",
+            "name": "Send It Later",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_72.png"
+            },
+            "deleted": false,
+            "updated": 1622231340,
+            "team_id": "TJE58GTJL"
+        },
+        "edited": {
+            "user": "B023BC3A2UV",
+            "ts": "1650639604.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/terkel.io\/publishing",
+                "service_icon": "https:\/\/terkel.io\/assets\/images\/terkel.png",
+                "id": 1,
+                "original_url": "https:\/\/terkel.io\/publishing",
+                "fallback": "Terkel: Decentralized Q&amp;A Site Connecting Brands With Insights",
+                "text": "Terkel is a knowledge platform that connects brands with expert insights. Answer questions, and get featured in articles.",
+                "title": "Terkel: Decentralized Q&amp;A Site Connecting Brands With Insights",
+                "title_link": "https:\/\/terkel.io\/publishing",
+                "service_name": "terkel.io"
+            }
+        ],
+        "thread_ts": "1650639600.655529",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1651100647.300779",
+        "reply_users": [
+            "U03CFDGBMR8",
+            "U036CBD312S"
+        ],
+        "replies": [
+            {
+                "user": "U03CFDGBMR8",
+                "ts": "1650936967.318089"
+            },
+            {
+                "user": "U036CBD312S",
+                "ts": "1651100647.300779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1651100647.300779"
+    },
+    {
+        "client_msg_id": "15997773-2a21-484f-8aa4-8389ed10c665",
+        "type": "message",
+        "text": "Hi <@U01J3P3EVDL>,\nIris, Cleanfeed, Spreaker, SquadCast, ‍Soundtrap, Audacity, Cast, Alitu and Ringr are some of the most popular podcast editing and recording platforms that I know of.\n\nAnchor and Buzzsprout are most popular hosting platforms for podcasts.\n\nIn fact, I started using <http:\/\/Veed.io|Veed.io> to repurpose long podcasts into short interesting bitesize clips to engage more potential leads through your website, social media, newsletter, landing pages and YouTube channel.\n\nHere are some examples for inspiration: <https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6904665736787185664>\n<https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M&amp;list=PLRvVyxL4rqqsn-3QBIZO2MfuqRDwr5sKz>",
+        "user": "U0331KC4D0S",
+        "ts": "1650641577.382509",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "087679ccffc0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-14\/3229409890982_087679ccffc043c20b1c_72.jpg",
+            "first_name": "Khyati",
+            "real_name": "Khyati",
+            "display_name": "Khyati - Content Beta",
+            "team": "TJE58GTJL",
+            "name": "khyati",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6904665736787185664",
+                "thumb_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C5605AQE3hWU4jqYJfQ\/videocover-high\/0\/1646200586800?e=2147483647&v=beta&t=pCPfL6lCXK9FcPxnjrywpRps0nVhub_XoXUSVdi2-t8",
+                "thumb_width": 720,
+                "thumb_height": 720,
+                "image_url": "https:\/\/media-exp1.licdn.com\/dms\/image\/C5605AQE3hWU4jqYJfQ\/videocover-high\/0\/1646200586800?e=2147483647&v=beta&t=pCPfL6lCXK9FcPxnjrywpRps0nVhub_XoXUSVdi2-t8",
+                "image_width": 720,
+                "image_height": 720,
+                "image_bytes": 30310,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6904665736787185664",
+                "fallback": "Content Beta on LinkedIn: what is the hardest part of creating product videos for your SaaS",
+                "text": "An effective product video should be short, informative, and engaging and should highlight the benefits of your product in a way that your potential customers...",
+                "title": "Content Beta on LinkedIn: what is the hardest part of creating product videos for your SaaS",
+                "title_link": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6904665736787185664",
+                "service_name": "linkedin.com"
+            },
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MhRiFoplG1M\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/MhRiFoplG1M?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M&amp;list=PLRvVyxL4rqqsn-3QBIZO2MfuqRDwr5sKz",
+                "fallback": "YouTube Video: How do you create content to educate your customers with Carly Kroll | Ep. 1",
+                "title": "How do you create content to educate your customers with Carly Kroll | Ep. 1",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M",
+                "author_name": "Content Beta",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCZ3ulQoUtK45_cMFVx3tHvQ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H78E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01J3P3EVDL"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nIris, Cleanfeed, Spreaker, SquadCast, ‍Soundtrap, Audacity, Cast, Alitu and Ringr are some of the most popular podcast editing and recording platforms that I know of.\n\nAnchor and Buzzsprout are most popular hosting platforms for podcasts.\n\nIn fact, I started using "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Veed.io",
+                                "text": "Veed.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to repurpose long podcasts into short interesting bitesize clips to engage more potential leads through your website, social media, newsletter, landing pages and YouTube channel.\n\nHere are some examples for inspiration: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/feed\/update\/urn:li:activity:6904665736787185664"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=MhRiFoplG1M&list=PLRvVyxL4rqqsn-3QBIZO2MfuqRDwr5sKz"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649950935.335579",
+        "parent_user_id": "U01J3P3EVDL"
+    },
+    {
+        "client_msg_id": "c8329ead-74d7-47c2-8c59-b7aa841caacd",
+        "type": "message",
+        "text": "Anyone know a tool that is \"Figma\" for Videos Editing and Productions?\n\nReal time collaboration, with commenting and versioning",
+        "user": "U020GDDKLEA",
+        "ts": "1650659017.681109",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bdc3bf0ed5eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-18\/2604031997127_bdc3bf0ed5eb42d2f2d5_72.png",
+            "first_name": "Gary-Yau",
+            "real_name": "Gary-Yau Chan",
+            "display_name": "Gary-Yau Chan",
+            "team": "TJE58GTJL",
+            "name": "chany2.rpi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tiCp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone know a tool that is \"Figma\" for Videos Editing and Productions?\n\nReal time collaboration, with commenting and versioning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650659017.681109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650660259.231939",
+        "reply_users": [
+            "U01P13NTGG6",
+            "U020GDDKLEA"
+        ],
+        "replies": [
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1650659358.218529"
+            },
+            {
+                "user": "U020GDDKLEA",
+                "ts": "1650660259.231939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "EBCFB3BD-4280-4E2B-9905-688D29FC6F2D",
+        "type": "message",
+        "text": "I think Descript does. ",
+        "user": "U01P13NTGG6",
+        "ts": "1650659358.218529",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Wjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think Descript does. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650659017.681109",
+        "parent_user_id": "U020GDDKLEA"
+    },
+    {
+        "client_msg_id": "fd73962b-2b79-4c60-a37e-6730b05d5a9c",
+        "type": "message",
+        "text": "ah thanks\n\n\ngood suggestion",
+        "user": "U020GDDKLEA",
+        "ts": "1650660259.231939",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bdc3bf0ed5eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-18\/2604031997127_bdc3bf0ed5eb42d2f2d5_72.png",
+            "first_name": "Gary-Yau",
+            "real_name": "Gary-Yau Chan",
+            "display_name": "Gary-Yau Chan",
+            "team": "TJE58GTJL",
+            "name": "chany2.rpi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xx1C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah thanks\n\n\ngood suggestion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650659017.681109",
+        "parent_user_id": "U020GDDKLEA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01P13NTGG6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

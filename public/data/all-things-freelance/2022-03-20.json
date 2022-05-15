@@ -1,0 +1,178 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647817059.652409",
+        "thread_ts": "1647817059.652409",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1647978124.030709",
+        "reply_users": [
+            "U037DNSPAHY",
+            "U02GMMQ281W",
+            "U02S2UZU3D3"
+        ],
+        "replies": [
+            {
+                "user": "U037DNSPAHY",
+                "ts": "1647820345.627899"
+            },
+            {
+                "user": "U02GMMQ281W",
+                "ts": "1647825216.252939"
+            },
+            {
+                "user": "U02GMMQ281W",
+                "ts": "1647827434.283419"
+            },
+            {
+                "user": "U02S2UZU3D3",
+                "ts": "1647978124.030709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8508bfad-b008-48c0-a0ed-e4196a887ed3",
+        "type": "message",
+        "text": "Do you have business insurance? I've never tried to make a claim via my home\/renters insurance, but it's worth contacting your insurance company. And file a police report, I guess.",
+        "user": "U037DNSPAHY",
+        "ts": "1647820345.627899",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "581398af89f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-17\/3280397838352_581398af89f03fd67065_72.jpg",
+            "first_name": "Lia",
+            "real_name": "Lia Vidot",
+            "display_name": "Lia",
+            "team": "TJE58GTJL",
+            "name": "lia104",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have business insurance? I've never tried to make a claim via my home\/renters insurance, but it's worth contacting your insurance company. And file a police report, I guess."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647817059.652409",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0e82d195-b1fa-4235-bd8a-0b60aa0333c2",
+        "type": "message",
+        "text": "File a police report. Change every single password you had tied to it.",
+        "user": "U02GMMQ281W",
+        "ts": "1647825216.252939",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1131d2dfd73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2589760574406_e1131d2dfd73f2e7db3e_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda S.",
+            "display_name": "Amanda",
+            "team": "TJE58GTJL",
+            "name": "theglamtechie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ug+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "File a police report. Change every single password you had tied to it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647817059.652409",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "36ef70ed-5347-4fe8-ade2-8869764dbe15",
+        "type": "message",
+        "text": "<https:\/\/www.pcworld.com\/article\/394850\/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html#:~:text=What%20to%20do%20when%20your%20laptop%20gets%20stolen,what%20happened.%20...%203%20Protect%20your%20personal%20information|https:\/\/www.pcworld.com\/article\/394850\/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html#:~:text=What%20to%[…]sonal%20information>",
+        "user": "U02GMMQ281W",
+        "ts": "1647827434.283419",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1131d2dfd73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2589760574406_e1131d2dfd73f2e7db3e_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda S.",
+            "display_name": "Amanda",
+            "team": "TJE58GTJL",
+            "name": "theglamtechie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.pcworld.com\/article\/394850\/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html#:~:text=What%20to%20do%20when%20your%20laptop%20gets%20stolen,what%20happened.%20...%203%20Protect%20your%20personal%20information",
+                "image_url": "https:\/\/www.pcworld.com\/wp-content\/uploads\/2021\/09\/abstract_streamline_laptop_by_philipp-katzenberger-iijruoerocq-unsplash-100834469-orig.jpg?quality=50&strip=all&w=1024",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 25882,
+                "service_icon": "https:\/\/www.pcworld.com\/wp-content\/uploads\/2021\/09\/cropped-cropped-PCWorld-Site-Icon.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/www.pcworld.com\/article\/394850\/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html#:~:text=What%20to%20do%20when%20your%20laptop%20gets%20stolen,what%20happened.%20...%203%20Protect%20your%20personal%20information",
+                "fallback": "PCWorld: What to do when your laptop is stolen | PCWorld",
+                "text": "If your laptop is stolen, you'll need to act fast to keep your personal data secure—and actions you take before the hijacking can be crucial. Here's what to do.",
+                "title": "What to do when your laptop is stolen | PCWorld",
+                "title_link": "https:\/\/www.pcworld.com\/article\/394850\/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html#:~:text=What%20to%20do%20when%20your%20laptop%20gets%20stolen,what%20happened.%20...%203%20Protect%20your%20personal%20information",
+                "service_name": "PCWorld"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pCa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pcworld.com\/article\/394850\/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html#:~:text=What%20to%20do%20when%20your%20laptop%20gets%20stolen,what%20happened.%20...%203%20Protect%20your%20personal%20information",
+                                "text": "https:\/\/www.pcworld.com\/article\/394850\/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html#:~:text=What%20to%[…]sonal%20information"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647817059.652409",
+        "parent_user_id": "USLACKBOT"
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1616757741.041100",
+        "thread_ts": "1616757741.041100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1616779533.042000",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1616779533.042000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1616779533.042000"
+    },
+    {
+        "client_msg_id": "a55d461f-5351-4c6e-8ac1-528c103fc08d",
+        "type": "message",
+        "text": "<@U01BQ1CUYS1> just heads up we started charging for this channel recently. since you're a Pro member you can post for free. will send you a dm with the form",
+        "user": "UJG9WTEKG",
+        "ts": "1616779533.042000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BQ1CUYS1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just heads up we started charging for this channel recently. since you're a Pro member you can post for free. will send you a dm with the form"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616757741.041100",
+        "parent_user_id": "U01BQ1CUYS1",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01BQ1CUYS1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*SimpleTexting is hiring a Copywriter* :rocket:\n\n*This is a full-time role.*\n\n*What's the deal?* \n\nSimpleTexting is an online platform that makes it easy for businesses to text their customers. Our company is profitable, growing, and 100% remote. We're searching for a writer to join our small but mighty marking team. You’ll be asked to wordsmith blog posts, landing pages, help center articles, and more. \n\nThe ideal candidate has at least two years of experience writing for another B2B SaaS company. A portfolio with long and short-form content is a must.\n\nP.S. We offer excellent healthcare coverage for U.S. folks plus flexible PTO with a 10-day minimum!\n\n\n*Learn more and apply here:* <https:\/\/simpletexting.com\/job\/copywriter\/>\n\n<@U01SKGL00JE>",
+        "ts": "1616784162.043200",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "attachments": [
+            {
+                "service_name": "SMS Marketing &amp; Text Marketing Services – Try It For Free",
+                "title": "Copywriter Job Opening at SimpleTexting",
+                "title_link": "https:\/\/simpletexting.com\/job\/copywriter\/",
+                "text": "SimpleTexting is the leading platform for SMS marketing and business texting. We're seeking a copywriter to write case studies, landing pages, and more.",
+                "fallback": "SMS Marketing &amp; Text Marketing Services – Try It For Free: Copywriter Job Opening at SimpleTexting",
+                "thumb_url": "https:\/\/simpletexting.com\/wp-content\/uploads\/2021\/03\/SimpleTexting-Careers.png",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "3 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/simpletexting.com\/job\/copywriter\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/simpletexting.com\/wp-content\/themes\/simpletexting-theme\/assets\/favicon\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/simpletexting.com\/job\/copywriter\/"
+            }
+        ],
+        "edited": {
+            "user": "B0199MPQELR",
+            "ts": "1616784165.000000"
+        },
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U01SKGL00JE",
+                    "U01K26PH1L3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Obviously AI is hiring a Content Marketing Manager* :rocket:\n\n*This is a full-time role.*\n\n*What's the deal?* \n\nObviously AI is a no-code AI based in San Francisco and we’re looking for a Content Marketing Manager to tell the world our story. \n\nOur no-code AI is built on the belief that giving non-technical business users access to machine learning so they can rapidly run predictions on their historical data — with just a few clicks — will be revolutionary. \n\nIf this excites you, then we can't wait to learn more about you!\n\n*Learn more and apply here:* <https:\/\/bit.ly\/3fvYeoX>\n\n<@UUH2EB134>",
+        "ts": "1616822387.044200",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "attachments": [
+            {
+                "service_name": "AngelList",
+                "title": "Content Marketing Manager at Obviously AI • San Francisco • Remote (Work from Home)",
+                "title_link": "https:\/\/bit.ly\/3fvYeoX",
+                "text": "Obviously AI is hiring a Content Marketing Manager in San Francisco. We believe that making machine learning accessible... Apply now on AngelList.",
+                "fallback": "AngelList: Content Marketing Manager at Obviously AI • San Francisco • Remote (Work from Home)",
+                "thumb_url": "https:\/\/photos.angel.co\/startups\/i\/6322093-b7456e87d31c02b6137fd0e1d2b94be0-thumb_jpg.jpg?buster=1537238646",
+                "from_url": "https:\/\/bit.ly\/3fvYeoX",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1,
+                "original_url": "https:\/\/bit.ly\/3fvYeoX"
+            }
+        ],
+        "edited": {
+            "user": "B0199MPQELR",
+            "ts": "1616822390.000000"
+        }
+    }
+]

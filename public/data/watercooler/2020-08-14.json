@@ -1,0 +1,493 @@
+[
+    {
+        "client_msg_id": "91c6a519-c32d-4d63-8d9b-0087eedc6175",
+        "type": "message",
+        "text": ":thumbsup:",
+        "user": "UUKNM4VDX",
+        "ts": "1597409498.426600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g4e7bff06a6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e7bff06a6f3deb947dd96cf8fb65a60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Steve Klein",
+            "display_name": "Steve Klein",
+            "team": "TJE58GTJL",
+            "name": "stklein89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "76pzj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597240572.419200",
+        "parent_user_id": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "8c4e8e6c-a3d9-47a7-b349-2fcfb1ea3b95",
+        "type": "message",
+        "text": "this slack\/forum hybrid looks really cool: <https:\/\/playgroup.community\/>",
+        "user": "UJG9WTEKG",
+        "ts": "1597422727.427600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1597422731.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Playgroup",
+                "title": "Build an engaging community :sparkles:Playgroup",
+                "title_link": "https:\/\/playgroup.community\/",
+                "text": "A modern forum solution, built to help you start and encourage your tribe's discussions.",
+                "fallback": "Playgroup: Build an engaging community ✨Playgroup",
+                "thumb_url": "https:\/\/playgroup.community\/social.jpg",
+                "from_url": "https:\/\/playgroup.community\/",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/playgroup.community\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/playgroup.community\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DuA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this slack\/forum hybrid looks really cool: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/playgroup.community\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597422727.427600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1597669073.437000",
+        "reply_users": [
+            "UUKNLHZ4H"
+        ],
+        "replies": [
+            {
+                "user": "UUKNLHZ4H",
+                "ts": "1597669073.437000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1597669073.437000",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U015HDJ8V9A",
+                    "U012GHRAHDK",
+                    "U012YJ35BML"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "UJE5LQ2JC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6471e19-bab7-4184-ac1f-ee8e5f3a4358",
+        "type": "message",
+        "text": "if we weren’t already so committed to slack i’d say we should try this",
+        "user": "UJG9WTEKG",
+        "ts": "1597422785.428100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hBRv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if we weren’t already so committed to slack i’d say we should try this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd43b1b9-6321-4c9a-bad5-38f801d48f34",
+        "type": "message",
+        "text": "Totally unrelated to writing and content strategy but...I'm looking for some fun new artwork. I'm creating a gallery in a small space, and I'm looking for prints and pieces that'll make people cock their heads and think. The way Nathan Pyle's drawings make me pause and laugh: <https:\/\/nathanwpyle.threadless.com\/designs\/rude-2\/home\/fine-art-print>\n\nY'all have any recs or fav artists in this vein?",
+        "user": "UL4TUV38B",
+        "ts": "1597429829.430500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c1fcc8eb5742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-16\/1360677760262_c1fcc8eb5742ad012747_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Bosco",
+            "display_name": "Laura Bosco",
+            "team": "TJE58GTJL",
+            "name": "laura.e.hash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Nathan W Pyle",
+                "title": "Rude!",
+                "title_link": "https:\/\/nathanwpyle.threadless.com\/designs\/rude-2\/home\/fine-art-print",
+                "text": "Check out the design, Rude!, on nathanwpyle – available on a range of custom products",
+                "fallback": "Nathan W Pyle: Rude!",
+                "image_url": "https:\/\/cdn-images.threadless.com\/~\/Fw6F.jpg",
+                "from_url": "https:\/\/nathanwpyle.threadless.com\/designs\/rude-2\/home\/fine-art-print",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 30117,
+                "service_icon": "https:\/\/nathanwpyle.threadless.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nathanwpyle.threadless.com\/designs\/rude-2\/home\/fine-art-print"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5i6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Totally unrelated to writing and content strategy but...I'm looking for some fun new artwork. I'm creating a gallery in a small space, and I'm looking for prints and pieces that'll make people cock their heads and think. The way Nathan Pyle's drawings make me pause and laugh: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nathanwpyle.threadless.com\/designs\/rude-2\/home\/fine-art-print"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nY'all have any recs or fav artists in this vein?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597429829.430500",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1600353776.051100",
+        "reply_users": [
+            "UUJBM2PJ7",
+            "UL4TUV38B",
+            "U0162CX5SH1"
+        ],
+        "replies": [
+            {
+                "user": "UUJBM2PJ7",
+                "ts": "1597430381.430700"
+            },
+            {
+                "user": "UL4TUV38B",
+                "ts": "1597430586.430900"
+            },
+            {
+                "user": "U0162CX5SH1",
+                "ts": "1600353396.050700"
+            },
+            {
+                "user": "UL4TUV38B",
+                "ts": "1600353731.050900"
+            },
+            {
+                "user": "U0162CX5SH1",
+                "ts": "1600353776.051100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7548357a-86f6-4e84-8702-cb855b0bc6e3",
+        "type": "message",
+        "text": "I really love Jennifer Ament <https:\/\/www.jenniferament.com\/prints>",
+        "user": "UUJBM2PJ7",
+        "ts": "1597430381.430700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f77cbe4c3060",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1270061579587_f77cbe4c3060d94c9e20_72.jpg",
+            "first_name": "Jane",
+            "real_name": "Jane Flanagan",
+            "display_name": "Jane Flanagan",
+            "team": "TJE58GTJL",
+            "name": "jane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xrHHw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really love Jennifer Ament "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jenniferament.com\/prints"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597429829.430500",
+        "parent_user_id": "UL4TUV38B"
+    },
+    {
+        "client_msg_id": "eac0bc7f-efa3-4a27-97f5-f8bcccc4de69",
+        "type": "message",
+        "text": "ooo, those are so cool <@UUJBM2PJ7> :heart_eyes:",
+        "user": "UL4TUV38B",
+        "ts": "1597430586.430900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c1fcc8eb5742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-16\/1360677760262_c1fcc8eb5742ad012747_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Bosco",
+            "display_name": "Laura Bosco",
+            "team": "TJE58GTJL",
+            "name": "laura.e.hash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=e5R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ooo, those are so cool "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUJBM2PJ7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597429829.430500",
+        "parent_user_id": "UL4TUV38B"
+    },
+    {
+        "client_msg_id": "3dd1cd1a-b3d0-40e2-8ea4-afc0403f44da",
+        "type": "message",
+        "text": "Not sure where to put this, so random seems like a good place for it as any.  I'm a panelist on a podcast for freelancers, and we're looking for guests to talk about some specific topics.  Two of those topics seem like the folks in this Slack would be in a great position to offer expert advice:\n• \"How to start freelance writing (potentially with no experience)?\"\n• \"Where to find freelance blogging gigs?\"\nSo, if your experience would be valuable for listeners wondering about either of these related-but-slightly-different topics, and you'd be interested in being a guest, please DM me.  We don't have a specific date in mind; just trying to line up potential guests for the next season we're doing.",
+        "user": "U017XD7H4P7",
+        "ts": "1597440507.435500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ab77023918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1256516765207_f9ab77023918e4c2b919_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Dietrich",
+            "display_name": "Erik Dietrich",
+            "team": "TJE58GTJL",
+            "name": "erik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AhQ4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure where to put this, so random seems like a good place for it as any.  I'm a panelist on a podcast for freelancers, and we're looking for guests to talk about some specific topics.  Two of those topics seem like the folks in this Slack would be in a great position to offer expert advice:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"How to start freelance writing (potentially with no experience)?\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"Where to find freelance blogging gigs?\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, if your experience would be valuable for listeners wondering about either of these related-but-slightly-different topics, and you'd be interested in being a guest, please DM me.  We don't have a specific date in mind; just trying to line up potential guests for the next season we're doing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U012GHRAHDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d20d6428-a9ca-460e-a2c1-7e5c093603a0",
+        "type": "message",
+        "text": "This is so cool! Just ordered mine, can't wait to see how it turns out :grinning:",
+        "user": "UJS7GK1TP",
+        "ts": "1597464068.435800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab9ba13964bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-03\/646679825121_ab9ba13964bb9b12d7df_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla Tan",
+            "display_name": "Priscilla Tan",
+            "team": "TJE58GTJL",
+            "name": "priscilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KMq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is so cool! Just ordered mine, can't wait to see how it turns out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597351188.424600",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

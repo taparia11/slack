@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "011a0622-68da-4fb9-9724-34d99f488da2",
+        "type": "message",
+        "text": "<mailto:stefanie.hauck@gmail.com|stefanie.hauck@gmail.com>",
+        "user": "U0340MZ0NQ2",
+        "ts": "1646520659.750529",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "77530544df84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-05\/3182790720503_77530544df845e6e39ea_72.jpg",
+            "first_name": "Stefanie",
+            "real_name": "Stefanie Vogley-Hauck",
+            "display_name": "Stefanie Vogley-Hauck",
+            "team": "TJE58GTJL",
+            "name": "stefanie.hauck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YBoC1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:stefanie.hauck@gmail.com",
+                                "text": "stefanie.hauck@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645127111.135029",
+        "parent_user_id": "U030Q3TEVHR"
+    },
+    {
+        "client_msg_id": "e6611990-f22f-49b0-9fb7-e39a41f7c658",
+        "type": "message",
+        "text": "incoming!",
+        "user": "U030Q3TEVHR",
+        "ts": "1646522107.994719",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "884bd7510e1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3047930175952_884bd7510e1dfca5dc2a_72.jpg",
+            "first_name": "Philippe",
+            "real_name": "Philippe Noël",
+            "display_name": "Philippe Noël",
+            "team": "TJE58GTJL",
+            "name": "phil106",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ci7=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "incoming!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645127111.135029",
+        "parent_user_id": "U030Q3TEVHR"
+    }
+]

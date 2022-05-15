@@ -1,0 +1,224 @@
+[
+    {
+        "type": "message",
+        "text": "Maybe you can *salvage your existing site*? (I'm assuming it's the one you list publicly on your LinkedIn). If you've rebuilt it in the last month and I'm looking at the finished product, Kudos! :raised_hands:\n\n1. You can filter bots from GA to view more accurate data, however it does look like you don't have any organic traffic according to Ahrefs - <https:\/\/support.google.com\/analytics\/answer\/1010249?hl=en&amp;ref_topic=6014102|View Settings>.\n2. Your backlinks are on the uptrend! it makes sense to try to preserve them. If you start a new site, it isn't impossible to 301 redirect your backlinks, but can be a bit of a hassle.\n3. Your robots.txt is not disallowing bots. I'd update it to disallow all, but allow google and Ahrefs, and any others you need. \nAfter <https:\/\/www.hostinger.com\/tutorials\/wordpress-robots-txt|updating your robots.txt in WordPress>, you should see GA traffic --&gt; 0 immediately, even without editing your view settings to filter. _If you're on UA, you should have a Master, Raw, and Test view (master = filtered, raw= no filters). If you're on GA4 only, you'll need to apply the bot filtering property-wide._\n\nLooking at your content, you are missing meta descriptions on some blog posts (according to Ahrefs), and your target kws are way too TOFU imo. For your backlink profile and knowledge domain, you'll need to target Ahrefs KD&lt;10 to start out. Content length is good :raised_hands: , and the stats are great link magnets- probably explains the jump up in backlinks you've got so far.\n\nAs for building a lead gen site, I see no reason to jump ship from WP. Although there are alternatives out there, (Ghost, Webflow) I see no major problems with your setup from a SEO perspective.",
+        "files": [
+            {
+                "id": "F02DQCA9LVD",
+                "created": 1631429867,
+                "timestamp": 1631429867,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0287DCG133",
+                "editable": false,
+                "size": 21169,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02DQCA9LVD\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F02DQCA9LVD\/download\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 43,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 58,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 87,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 96,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 115,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F02DQCA9LVD-a215a2ddb1\/image_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 123,
+                "original_w": 1064,
+                "original_h": 128,
+                "thumb_tiny": "AwAFADDSx7mjHuaWigBvY80uOKKUUAGKMc0UUAf\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U0287DCG133\/F02DQCA9LVD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F02DQCA9LVD-01ad616d71",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0287DCG133",
+        "display_as_bot": false,
+        "ts": "1631432039.059800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Z42e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe you can "
+                            },
+                            {
+                                "type": "text",
+                                "text": "salvage your existing site",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "? (I'm assuming it's the one you list publicly on your LinkedIn). If you've rebuilt it in the last month and I'm looking at the finished product, Kudos! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You can filter bots from GA to view more accurate data, however it does look like you don't have any organic traffic according to Ahrefs - "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/support.google.com\/analytics\/answer\/1010249?hl=en&ref_topic=6014102",
+                                        "text": "View Settings"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Your backlinks are on the uptrend! it makes sense to try to preserve them. If you start a new site, it isn't impossible to 301 redirect your backlinks, but can be a bit of a hassle."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Your robots.txt is not disallowing bots. I'd update it to disallow all, but allow google and Ahrefs, and any others you need. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAfter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hostinger.com\/tutorials\/wordpress-robots-txt",
+                                "text": "updating your robots.txt in WordPress",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you should see GA traffic --> 0 immediately, even without editing your view settings to filter. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you're on UA, you should have a Master, Raw, and Test view (master = filtered, raw= no filters). If you're on GA4 only, you'll need to apply the bot filtering property-wide.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLooking at your content, you are missing meta descriptions on some blog posts (according to Ahrefs), and your target kws are way too TOFU imo. For your backlink profile and knowledge domain, you'll need to target Ahrefs KD<10 to start out. Content length is good "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , and the stats are great link magnets- probably explains the jump up in backlinks you've got so far.\n\nAs for building a lead gen site, I see no reason to jump ship from WP. Although there are alternatives out there, (Ghost, Webflow) I see no major problems with your setup from a SEO perspective."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628522445.160100",
+        "parent_user_id": "U019F15SA7Q",
+        "attachments": [
+            {
+                "title": "Edit view settings - Analytics Help",
+                "title_link": "https:\/\/support.google.com\/analytics\/answer\/1010249?hl=en&ref_topic=6014102",
+                "text": "Update view name, time zone, Site Search parameters, and other settings.After you create a view, you can edit its settings. Note that there are more view settings for web properties than there are for",
+                "fallback": "Edit view settings - Analytics Help",
+                "from_url": "https:\/\/support.google.com\/analytics\/answer\/1010249?hl=en&ref_topic=6014102",
+                "service_icon": "https:\/\/support.google.com\/favicon.ico",
+                "service_name": "support.google.com",
+                "id": 1,
+                "original_url": "https:\/\/support.google.com\/analytics\/answer\/1010249?hl=en&amp;ref_topic=6014102"
+            },
+            {
+                "service_name": "Hostinger Tutorials",
+                "title": "The Complete Guide to WordPress robots.txt (And How to Use it for SEO)",
+                "title_link": "https:\/\/www.hostinger.com\/tutorials\/wordpress-robots-txt",
+                "text": "Having a well-structured WordPress robots.txt file can improve your SEO. Follow this guide and learn how to use robots.txt in WordPress to ensure that your site and its most important pages are easy to crawl for search engine bots.",
+                "fallback": "Hostinger Tutorials: The Complete Guide to WordPress robots.txt (And How to Use it for SEO)",
+                "image_url": "https:\/\/www.hostinger.com\/tutorials\/wp-content\/themes\/tutorialsthemeuplift\/public\/images\/no_image.jpg",
+                "image_width": 572,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Will Morris",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "11 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1527508270,
+                "from_url": "https:\/\/www.hostinger.com\/tutorials\/wordpress-robots-txt",
+                "image_bytes": 26769,
+                "service_icon": "https:\/\/www.hostinger.com\/tutorials\/wp-content\/uploads\/sites\/2\/2017\/04\/cropped-hostinger-fav-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/www.hostinger.com\/tutorials\/wordpress-robots-txt"
+            }
+        ]
+    }
+]

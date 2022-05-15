@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "17072053-876c-402f-b8de-d758f6584c17",
+        "type": "message",
+        "text": "being a cmo is a hard job <https:\/\/www.thinkwithgoogle.com\/feature\/cmo-insights> h\/t <@UJ3K7N8GJ>",
+        "user": "U011UJX75PE",
+        "ts": "1593087958.017700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Think with Google",
+                "title": "Industry insights on the CMO role - Think with Google",
+                "title_link": "https:\/\/www.thinkwithgoogle.com\/feature\/cmo-insights",
+                "text": "Fortune 1000 board members discussed the CMO role anonymously. They gave us over 100,000 words with insights. We distilled them into one paragraph.",
+                "fallback": "Think with Google: Industry insights on the CMO role - Think with Google",
+                "image_url": "https:\/\/storage.googleapis.com\/gweb-dat-mountain-top-prod.appspot.com\/share.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.thinkwithgoogle.com\/feature\/cmo-insights",
+                "image_bytes": 294061,
+                "service_icon": "https:\/\/www.thinkwithgoogle.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.thinkwithgoogle.com\/feature\/cmo-insights"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "shxo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "being a cmo is a hard job "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thinkwithgoogle.com\/feature\/cmo-insights"
+                            },
+                            {
+                                "type": "text",
+                                "text": " h\/t "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ3K7N8GJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UV5V2P0VB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593087960.018000",
+        "user": "UJ3K7N8GJ",
+        "text": "<@UJ3K7N8GJ> has joined the channel",
+        "inviter": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "dabbadf2-eef9-4152-b195-4ab002b416ef",
+        "type": "message",
+        "text": "thanks for sharing <@UUH2EB134>!",
+        "user": "U011UJX75PE",
+        "ts": "1593087975.018100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks for sharing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592627568.012400",
+        "parent_user_id": "UUH2EB134"
+    }
+]

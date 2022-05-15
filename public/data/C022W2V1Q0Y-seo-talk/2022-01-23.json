@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "c6526c86-23df-4a13-87be-fc1b203db457",
+        "type": "message",
+        "text": "I think you published this in several channels, right? I believe best practice would be for you to only publish it on one channel, where the topic fits.",
+        "user": "U02TYAMTVK8",
+        "ts": "1643008590.134400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "da5cbf65d83a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-14\/2954131484933_da5cbf65d83af5d7994f_72.jpg",
+            "first_name": "Monica",
+            "real_name": "Monica Nastase",
+            "display_name": "Monica Nastase",
+            "team": "TJE58GTJL",
+            "name": "monicanastase1982",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fd\/f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you published this in several channels, right? I believe best practice would be for you to only publish it on one channel, where the topic fits."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642847418.133800",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "41fb037c-d1ab-4bb0-bc42-af561a7cd8d9",
+        "type": "message",
+        "text": "And the right and ONLY channel for this is <#CKRJX5U5A|guest-posts>. I suggest you remove the rest.\n\nCC: <@UJG9WTEKG>",
+        "user": "U012GHRAHDK",
+        "ts": "1643008880.134700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And the right and ONLY channel for this is "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKRJX5U5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I suggest you remove the rest.\n\nCC: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642847418.133800",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0d313003-7d6e-4b08-a30e-08388480df2d",
+        "type": "message",
+        "text": "I think we'd all rather the guest post channel is just for guest posts too :wink:",
+        "user": "UJJFDTN8G",
+        "ts": "1643010284.134900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we'd all rather the guest post channel is just for guest posts too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642847418.133800",
+        "parent_user_id": "USLACKBOT"
+    }
+]

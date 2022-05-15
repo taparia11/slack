@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "4983d08e-8896-4b79-a18d-a032f809b42c",
+        "type": "message",
+        "text": "<https:\/\/www.freecodecamp.org\/news\/how-i-automatically-created-a-twitter-list-of-freecodecampers-in-5-minutes-425f0b922118\/>",
+        "user": "UUVRYMCRK",
+        "ts": "1595249243.151500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aeec273996fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/985081589600_aeec273996fbabcad873_72.jpg",
+            "first_name": "Jamil",
+            "real_name": "Jamil Ali",
+            "display_name": "Jamil Ali",
+            "team": "TJE58GTJL",
+            "name": "jamil.ali",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "freeCodeCamp.org",
+                "title": "How I automatically created a Twitter List of FreeCodeCampers in 5 minutes",
+                "title_link": "https:\/\/www.freecodecamp.org\/news\/how-i-automatically-created-a-twitter-list-of-freecodecampers-in-5-minutes-425f0b922118\/",
+                "text": "by Monica Powell How I automatically created a Twitter List of FreeCodeCampers in 5 minutes Using Twython Twitter API wrapper to add users to a Twitter List We are going to create a Python script that will automatically search Twitter for individuals who use the #freeCodeCamp hashtag and add them to a Twitter list of “FreeCodeCampers”. Twitter lists [<https:\/\/help.twitter.com\/en\/using-twitter\/twitter-lists>] are a way to curate a group of individuals on Twitter and collect all of their tweets i",
+                "fallback": "freeCodeCamp.org: How I automatically created a Twitter List of FreeCodeCampers in 5 minutes",
+                "image_url": "https:\/\/cdn-media-1.freecodecamp.org\/images\/1*mUQDjnECZGSncv_imkD3yA.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "<http:\/\/freeCodeCamp.org|freeCodeCamp.org>",
+                        "short": true
+                    },
+                    {
+                        "title": "Filed under",
+                        "value": "Twitter, Python, Freecodecamp, Coding, Programming",
+                        "short": true
+                    }
+                ],
+                "ts": 1516231225,
+                "from_url": "https:\/\/www.freecodecamp.org\/news\/how-i-automatically-created-a-twitter-list-of-freecodecampers-in-5-minutes-425f0b922118\/",
+                "image_bytes": 61389,
+                "service_icon": "https:\/\/www.freecodecamp.org\/news\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.freecodecamp.org\/news\/how-i-automatically-created-a-twitter-list-of-freecodecampers-in-5-minutes-425f0b922118\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gIT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.freecodecamp.org\/news\/how-i-automatically-created-a-twitter-list-of-freecodecampers-in-5-minutes-425f0b922118\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594124348.136700",
+        "parent_user_id": "U0125MKEXFS"
+    }
+]

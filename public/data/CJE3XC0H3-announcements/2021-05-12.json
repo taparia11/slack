@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "9af8fb22-1733-4f84-940a-47cf9141e664",
+        "type": "message",
+        "text": "<@U01PQFQBGHJ> will you be sending out recording? i can't attend but would love to watch later!",
+        "user": "UJJPC6Z0W",
+        "ts": "1620847129.270700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2f1867fcedad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-07\/630835532166_2f1867fcedad97f78c06_72.jpg",
+            "first_name": "Devin",
+            "real_name": "Devin Bramhall",
+            "display_name": "Devin Bramhall",
+            "team": "TJE58GTJL",
+            "name": "devin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01PQFQBGHJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will you be sending out recording? i can't attend but would love to watch later!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620746228.267900",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "b165854f-cdf8-40e0-bbce-0023ef5b1067",
+        "type": "message",
+        "text": "<@UJJPC6Z0W> Yes! We'll send out the recording to everybody who RSVPs to the event :muscle:",
+        "user": "U01PQFQBGHJ",
+        "ts": "1620852131.271000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c69bcfddf9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-26\/1800445940594_5c69bcfddf9f8cc23bf5_72.jpg",
+            "first_name": "Bernard",
+            "real_name": "Bernard Huang",
+            "display_name": "Bernard Huang",
+            "team": "TJE58GTJL",
+            "name": "bernard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "deZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJJPC6Z0W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes! We'll send out the recording to everybody who RSVPs to the event "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620746228.267900",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01R7R9RKKQ",
+                    "U01PQFQBGHJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

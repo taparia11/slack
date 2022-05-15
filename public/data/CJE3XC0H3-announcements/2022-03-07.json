@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "20535c1b-99ea-449d-a05f-8ff6456e0714",
+        "type": "message",
+        "text": "Hey <@UJG9WTEKG> re a searchable database... have you thought about using Zapier and Airtable?\n\nYou can set up a simple zap that means that every time you emoji react a Slack message with a particular emoji (whatever emoji you choose), it will save that message in an Airtable table.\n\nYou could have that table set up so you capture say... message copy, the author name, the date, and a URL to the original message.\n\nWould create a neat library you can keep adding to over time by simply emoji-reacting to Slack messages",
+        "user": "U027Z9VD16V",
+        "ts": "1646651128.390529",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d01efa03a9ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-12\/2287636657248_d01efa03a9ff5c369410_72.jpg",
+            "first_name": "Shanice",
+            "real_name": "Shanice Stewart-Jones",
+            "display_name": "Shanice SJ",
+            "team": "TJE58GTJL",
+            "name": "shanice",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U027Z9VD16V",
+            "ts": "1646651264.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tMBev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " re a searchable database... have you thought about using Zapier and Airtable?\n\nYou can set up a simple zap that means that every time you emoji react a Slack message with a particular emoji (whatever emoji you choose), it will save that message in an Airtable table.\n\nYou could have that table set up so you capture say... message copy, the author name, the date, and a URL to the original message.\n\nWould create a neat library you can keep adding to over time by simply emoji-reacting to Slack messages"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646152687.463339",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "d82f9c0a-a4c1-434a-bc3d-3492bb602e56",
+        "type": "message",
+        "text": "This is the zap you'd need - <https:\/\/zapier.com\/shared\/df45568394d5b3da1929d907b170e5c5a0671ac8>",
+        "user": "U027Z9VD16V",
+        "ts": "1646651436.884909",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d01efa03a9ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-12\/2287636657248_d01efa03a9ff5c369410_72.jpg",
+            "first_name": "Shanice",
+            "real_name": "Shanice Stewart-Jones",
+            "display_name": "Shanice SJ",
+            "team": "TJE58GTJL",
+            "name": "shanice",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/zapier.com\/shared\/df45568394d5b3da1929d907b170e5c5a0671ac8",
+                "image_url": "https:\/\/zimg.zapier.com\/df45568394d5b3da1929d907b170e5c5a0671ac8.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 66489,
+                "id": 1,
+                "original_url": "https:\/\/zapier.com\/shared\/df45568394d5b3da1929d907b170e5c5a0671ac8",
+                "fallback": "Zapier: Slack → Airtable",
+                "text": "Anytime a new reaction added is created in Slack, create record in Airtable.",
+                "title": "Slack → Airtable",
+                "title_link": "https:\/\/zapier.com\/shared\/df45568394d5b3da1929d907b170e5c5a0671ac8",
+                "service_name": "Zapier",
+                "fields": [
+                    {
+                        "value": "Slack + Airtable",
+                        "title": "Integrates",
+                        "short": true
+                    },
+                    {
+                        "value": "Shanice Stewart-Jones",
+                        "title": "Created By",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the zap you'd need - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/shared\/df45568394d5b3da1929d907b170e5c5a0671ac8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646152687.463339",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "ed8c9dc9-ec6b-4cab-8368-8b71690b8169",
+        "type": "message",
+        "text": "<@U027Z9VD16V> this is exactly what i'm to do. just need to make sure it saves comments from threads.",
+        "user": "UJG9WTEKG",
+        "ts": "1646673271.400069",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fNAyR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U027Z9VD16V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is exactly what i'm to do. just need to make sure it saves comments from threads."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646152687.463339",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U027Z9VD16V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

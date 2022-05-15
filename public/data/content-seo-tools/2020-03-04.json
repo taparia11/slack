@@ -1,0 +1,1192 @@
+[
+    {
+        "client_msg_id": "0732e4fc-cea5-4835-974e-26b2553dc6a5",
+        "type": "message",
+        "text": "As data analysis is SO huge in any form of marketing, I was wondering if you could share the best tools you've used to track performance. \n\nI'm currently struggling to combine data from Hubspot (the only place where marketing gets to access our DB data) and Google analytics in one single software. So any ideas\/tools are welcomed! Thanks :the_horns:",
+        "user": "UUH28N3U2",
+        "ts": "1583343909.027000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61d6db43de32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/982178159968_61d6db43de32e89377d8_72.jpg",
+            "first_name": "Carla",
+            "real_name": "Carla Chicharro",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "c.chich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As data analysis is SO huge in any form of marketing, I was wondering if you could share the best tools you've used to track performance. \n\nI'm currently struggling to combine data from Hubspot (the only place where marketing gets to access our DB data) and Google analytics in one single software. So any ideas\/tools are welcomed! Thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "the_horns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4e36de0-8483-4052-8bb0-05b0f1b1bf0f",
+        "type": "message",
+        "text": "Do you usually only track the first 2 months of the post?",
+        "user": "UUH28N3U2",
+        "ts": "1583344006.027100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61d6db43de32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/982178159968_61d6db43de32e89377d8_72.jpg",
+            "first_name": "Carla",
+            "real_name": "Carla Chicharro",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "c.chich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1b3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you usually only track the first 2 months of the post?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578667690.001500",
+        "parent_user_id": "UJ3K7N8GJ"
+    },
+    {
+        "client_msg_id": "84c3c98d-9e0f-41f8-ae8a-1605d1a50b49",
+        "type": "message",
+        "text": "we track everything before signups using analytics, mixpanel for everything after signup",
+        "user": "UUVC0EX8C",
+        "ts": "1583344035.027700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfCQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we track everything before signups using analytics, mixpanel for everything after signup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344035.027700",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1583346349.035400",
+        "reply_users": [
+            "UUH28N3U2",
+            "UUVC0EX8C"
+        ],
+        "replies": [
+            {
+                "user": "UUH28N3U2",
+                "ts": "1583344217.030100"
+            },
+            {
+                "user": "UUVC0EX8C",
+                "ts": "1583346290.034800"
+            },
+            {
+                "user": "UUVC0EX8C",
+                "ts": "1583346301.035000"
+            },
+            {
+                "user": "UUVC0EX8C",
+                "ts": "1583346323.035200"
+            },
+            {
+                "user": "UUVC0EX8C",
+                "ts": "1583346349.035400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "30033b4d-9f19-4c90-a92c-e405fa7554a3",
+        "type": "message",
+        "text": "and use data studio heavily to combine data from ahrefs, analytics, search console in one place",
+        "user": "UUVC0EX8C",
+        "ts": "1583344055.028200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z6nMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and use data studio heavily to combine data from ahrefs, analytics, search console in one place"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344055.028200",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1583346272.034600",
+        "reply_users": [
+            "UUH28N3U2",
+            "ULJBEFSJJ",
+            "UUVC0EX8C"
+        ],
+        "replies": [
+            {
+                "user": "UUH28N3U2",
+                "ts": "1583344255.030400"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1583344290.030600"
+            },
+            {
+                "user": "UUVC0EX8C",
+                "ts": "1583346266.034300"
+            },
+            {
+                "user": "UUVC0EX8C",
+                "ts": "1583346272.034600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3850634d-ad70-4458-9675-39d2ad1d17a2",
+        "type": "message",
+        "text": "to reduce as much duplication of efforts as possible",
+        "user": "UUVC0EX8C",
+        "ts": "1583344064.028600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRHyf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to reduce as much duplication of efforts as possible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea9f2515-12bb-4eb2-bd84-ce0e2f957882",
+        "type": "message",
+        "text": "having said that, we’re still using multiple tools to track (ideally would love to only use 1-2 max)",
+        "user": "UUVC0EX8C",
+        "ts": "1583344082.029100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Rc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "having said that, we’re still using multiple tools to track (ideally would love to only use 1-2 max)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4801d230-de66-4427-9a8f-cc1aa875ffa3",
+        "type": "message",
+        "text": "does that help?",
+        "user": "UUVC0EX8C",
+        "ts": "1583344086.029300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PolTo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "does that help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "845501c4-95fc-41ba-95d5-6df4dcbf2ddc",
+        "type": "message",
+        "text": "Alright so before the trial, you just use GA goals and events to track the activity of leads\/contacts? Do you use multi-channel attribution or first touch point?",
+        "user": "UUH28N3U2",
+        "ts": "1583344217.030100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61d6db43de32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/982178159968_61d6db43de32e89377d8_72.jpg",
+            "first_name": "Carla",
+            "real_name": "Carla Chicharro",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "c.chich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m3Yh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright so before the trial, you just use GA goals and events to track the activity of leads\/contacts? Do you use multi-channel attribution or first touch point?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344035.027700",
+        "parent_user_id": "UUVC0EX8C"
+    },
+    {
+        "client_msg_id": "612277fb-788b-44ba-b6fb-01ef0eaecd83",
+        "type": "message",
+        "text": "So you use data studio to mix GA and all the other tools? Interesting...",
+        "user": "UUH28N3U2",
+        "ts": "1583344255.030400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61d6db43de32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/982178159968_61d6db43de32e89377d8_72.jpg",
+            "first_name": "Carla",
+            "real_name": "Carla Chicharro",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "c.chich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTEm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So you use data studio to mix GA and all the other tools? Interesting..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344055.028200",
+        "parent_user_id": "UUVC0EX8C"
+    },
+    {
+        "client_msg_id": "4e573894-315e-41c2-b99e-d87f1ad58309",
+        "type": "message",
+        "text": "oooo how do you do this? any tutorials you can send my way? I want to learn more about data but not sure how\/where to start",
+        "user": "ULJBEFSJJ",
+        "ts": "1583344290.030600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oooo how do you do this? any tutorials you can send my way? I want to learn more about data but not sure how\/where to start"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344055.028200",
+        "parent_user_id": "UUVC0EX8C"
+    },
+    {
+        "client_msg_id": "bc61377b-743a-4895-b055-4418436175ab",
+        "type": "message",
+        "text": "It helps! It's definitely got me thinking. It's just that our attribution is different from GA; we basically divide it all into 2 groups: Paid or Organic (all non-paid) and then 2 subgroups BOFU and TOFU (depending on the site they were acquired). And we still need to keep an eye out on how many of our contacts became sign ups and customers so I'm not sure how it would work with Mixpanel :exploding_head:",
+        "user": "UUH28N3U2",
+        "ts": "1583344450.034100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61d6db43de32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/982178159968_61d6db43de32e89377d8_72.jpg",
+            "first_name": "Carla",
+            "real_name": "Carla Chicharro",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "c.chich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUH28N3U2",
+            "ts": "1583344489.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It helps! It's definitely got me thinking. It's just that our attribution is different from GA; we basically divide it all into 2 groups: Paid or Organic (all non-paid) and then 2 subgroups BOFU and TOFU (depending on the site they were acquired). And we still need to keep an eye out on how many of our contacts became sign ups and customers so I'm not sure how it would work with Mixpanel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2123c42-d5f1-46e7-ab95-554324149314",
+        "type": "message",
+        "text": "<https:\/\/learn.codingisforlosers.com\/data-studio-the-lazy-way>",
+        "user": "UUVC0EX8C",
+        "ts": "1583346266.034300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coding is for Losers",
+                "title": "Data Studio the Lazy Way",
+                "title_link": "https:\/\/learn.codingisforlosers.com\/data-studio-the-lazy-way",
+                "text": "Google released their beautiful dashboard-building powerhouse, Data Studio, in Fall 2016.  We've been actively building dashboards with it ever since. Ascending new heights. Stretching the limits of what's possible with Data Studio.  You get the picture.   We've turned this tool inside out, and now are here to share everything we've learned. During the course, you'll master how to build Data Studio reports.   All of these dashboards are based on raw data from Google Sheets, but the same methods could be used for any data source (Google Analytics, Youtube, a database, etc):  Building a Twitter data dashboard (the course project) Connecting Mailchimp to Data Studio (template included) Building an Adwords + FB ads dashboard with Supermetrics (template included) Your team will thank you, when they bask in the beauty and elegance of your next monthly update.",
+                "fallback": "Coding is for Losers: Data Studio the Lazy Way",
+                "image_url": "https:\/\/d31ezp3r8jwmks.cloudfront.net\/epmJ6YtQU4ZoFM4hcHqnFmES",
+                "from_url": "https:\/\/learn.codingisforlosers.com\/data-studio-the-lazy-way",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 1841326,
+                "service_icon": "https:\/\/d31ezp3r8jwmks.cloudfront.net\/i474mW5cUVmSBqE3wRsH86ii",
+                "id": 1,
+                "original_url": "https:\/\/learn.codingisforlosers.com\/data-studio-the-lazy-way"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d+t8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learn.codingisforlosers.com\/data-studio-the-lazy-way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344055.028200",
+        "parent_user_id": "UUVC0EX8C",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "ULJBEFSJJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UQQB74JHH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a60dba2c-a47f-4375-b6d9-74e31661c619",
+        "type": "message",
+        "text": "david &amp; ryan are friends :wink:",
+        "user": "UUVC0EX8C",
+        "ts": "1583346272.034600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7JNz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "david & ryan are friends "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344055.028200",
+        "parent_user_id": "UUVC0EX8C"
+    },
+    {
+        "client_msg_id": "fa72a019-9b98-4aca-bfa6-3f1dd502970c",
+        "type": "message",
+        "text": "multi channel",
+        "user": "UUVC0EX8C",
+        "ts": "1583346290.034800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3TNkb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "multi channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344035.027700",
+        "parent_user_id": "UUVC0EX8C"
+    },
+    {
+        "client_msg_id": "763cd481-4561-4a42-86ee-7e03d887a9a8",
+        "type": "message",
+        "text": "GA is good with everything before a customer signs up",
+        "user": "UUVC0EX8C",
+        "ts": "1583346301.035000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E=NFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GA is good with everything before a customer signs up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344035.027700",
+        "parent_user_id": "UUVC0EX8C"
+    },
+    {
+        "client_msg_id": "9177403c-88e1-4561-a782-6766faccee2b",
+        "type": "message",
+        "text": "like tracking referral traffic, where they come from, your usual metrics like bounce, etc",
+        "user": "UUVC0EX8C",
+        "ts": "1583346323.035200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h436",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like tracking referral traffic, where they come from, your usual metrics like bounce, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344035.027700",
+        "parent_user_id": "UUVC0EX8C"
+    },
+    {
+        "client_msg_id": "54b0e401-0bff-45c5-b8b6-761b5f592cbe",
+        "type": "message",
+        "text": "whereas to get a better idea of what customers do with your product after they signup (actions they take, features they use) mixpanel is for me the best",
+        "user": "UUVC0EX8C",
+        "ts": "1583346349.035400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C+Xf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whereas to get a better idea of what customers do with your product after they signup (actions they take, features they use) mixpanel is for me the best"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583344035.027700",
+        "parent_user_id": "UUVC0EX8C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ3Q7SQ6A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ab8e123-de48-4a88-b0dd-efff3bc2bf3f",
+        "type": "message",
+        "text": "mixpanel is tough to setup, but worth it",
+        "user": "UUVC0EX8C",
+        "ts": "1583346663.035800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Th2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mixpanel is tough to setup, but worth it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81df83ba-9a86-49f5-bba6-28c8d0d061b5",
+        "type": "message",
+        "text": "keep me posted if i can do anything to help",
+        "user": "UUVC0EX8C",
+        "ts": "1583346669.036100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pLfft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "keep me posted if i can do anything to help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c08768d2-b3a2-423e-8cf3-fb0d186cbbfb",
+        "type": "message",
+        "text": "<@UNMHBTSSX> I've used Airtable, Trello, and Contently. Didn't like any of them. Then I discovered Infinity (<http:\/\/www.startinfinity.com|www.startinfinity.com>).\n\nI love this tool.\n\nIt has many of the best features of all the others, and it's much more flexible.\n\nIn addition, you can get a lifetime license, which makes it much cheaper than any of the others! I can't say enough good about this product.",
+        "user": "UUXMC3ZFH",
+        "ts": "1583348631.036300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g32741d44912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/32741d44912ef78f542f28f30f1abf21.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Vranicar",
+            "display_name": "Dave Vranicar",
+            "team": "TJE58GTJL",
+            "name": "dave.vranicar950",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXMC3ZFH",
+            "ts": "1583348901.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ySMF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UNMHBTSSX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've used Airtable, Trello, and Contently. Didn't like any of them. Then I discovered Infinity ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.startinfinity.com",
+                                "text": "www.startinfinity.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\n\nI love this tool.\n\nIt has many of the best features of all the others, and it's much more flexible.\n\nIn addition, you can get a lifetime license, which makes it much cheaper than any of the others! I can't say enough good about this product."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1571337935.004800",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "2d29423e-16c4-4486-ac31-802c27ce2cff",
+        "type": "message",
+        "text": "I've used Grammarly, too. Now I use ProWritingAid, which I prefer.",
+        "user": "UUXMC3ZFH",
+        "ts": "1583348688.036500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g32741d44912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/32741d44912ef78f542f28f30f1abf21.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Vranicar",
+            "display_name": "Dave Vranicar",
+            "team": "TJE58GTJL",
+            "name": "dave.vranicar950",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2lQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've used Grammarly, too. Now I use ProWritingAid, which I prefer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1571319716.001800",
+        "parent_user_id": "UNYCBFQF9"
+    },
+    {
+        "client_msg_id": "77313f99-b28b-46ad-922a-ab5c5b2e3de6",
+        "type": "message",
+        "text": "Love these Steve. After working with some clients, I was thinking of ways to develop a process to help me automate how to squeeze out their stories more easily.\n\nThis is super helpful. But, I'll still go ahead and develop mine and share it, too.",
+        "user": "UUVRX9C13",
+        "ts": "1583350328.036900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qd4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love these Steve. After working with some clients, I was thinking of ways to develop a process to help me automate how to squeeze out their stories more easily.\n\nThis is super helpful. But, I'll still go ahead and develop mine and share it, too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582560675.000400",
+        "parent_user_id": "US3NM8ZHT"
+    },
+    {
+        "client_msg_id": "a3ed8fb7-ba73-4e65-914b-b3d99f45a0b6",
+        "type": "message",
+        "text": "oh that looks cool!",
+        "user": "UJG9WTEKG",
+        "ts": "1583354560.037500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0zBd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh that looks cool!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1571337935.004800",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "74f80cdb-064b-4de8-a853-128d654ec677",
+        "type": "message",
+        "text": "Interesting. The UX screams \"we mashed Airtable and Trello together\" but I dig the flexibility.",
+        "user": "UJ99RGF7T",
+        "ts": "1583359119.037800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e60332ab67e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-28\/1267962402803_1e60332ab67e3e3d366b_72.png",
+            "first_name": "Andy",
+            "real_name": "Andy McIlwain",
+            "display_name": "Andy McIlwain (andymci)",
+            "team": "TJE58GTJL",
+            "name": "andy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tnl7O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting. The UX screams \"we mashed Airtable and Trello together\" but I dig the flexibility."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1571337935.004800",
+        "parent_user_id": "UNMHBTSSX",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UL4TUV38B",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "810b0e5f-f821-443b-b1ef-824a0b206c4c",
+        "type": "message",
+        "text": "<@UUXMC3ZFH> Thanks! This definitely looks like a cool, customizable tool. I could see where it would work in place of my “blog log.”",
+        "user": "UNMHBTSSX",
+        "ts": "1583360138.038100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aa11d7e9d6ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-12\/795318071751_aa11d7e9d6ef87d02935_72.jpg",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Rius",
+            "display_name": "Rebekah [Seattle]",
+            "team": "TJE58GTJL",
+            "name": "rebekah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7w0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUXMC3ZFH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks! This definitely looks like a cool, customizable tool. I could see where it would work in place of my “blog log.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1571337935.004800",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "EFFF03B1-0CFC-4730-ADF9-C107D85DC4DD",
+        "type": "message",
+        "text": "Hi Carla! We used segment to send GA data to Mixpanel. This gives us the complete journey of a how a reader turns into a sign up along with how they use the product in one single place. Hope this helps.",
+        "user": "UUJBNHZQB",
+        "ts": "1583368085.041500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g9b2f69f22af",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9b2f69f22af0136c5d2120b8f637266e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Vikash Koushik",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "vikashkoushik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ZoZq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Carla! We used segment to send GA data to Mixpanel. This gives us the complete journey of a how a reader turns into a sign up along with how they use the product in one single place. Hope this helps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583368085.041500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1583416251.046700",
+        "reply_users": [
+            "UUH28N3U2",
+            "UUJBNHZQB"
+        ],
+        "replies": [
+            {
+                "user": "UUH28N3U2",
+                "ts": "1583407366.041900"
+            },
+            {
+                "user": "UUJBNHZQB",
+                "ts": "1583416251.046700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

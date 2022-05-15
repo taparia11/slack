@@ -1,0 +1,940 @@
+[
+    {
+        "client_msg_id": "71467d5b-4e86-4372-bc94-a9ba4dcecafa",
+        "type": "message",
+        "text": "Hey <@UL2E0QVB3> - this is a great example <https:\/\/marketingexamples.com\/seo\/competitor-comparison>",
+        "user": "U0125MKEXFS",
+        "ts": "1601537984.116400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0058a70ee16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0058a70ee16931f3b9a73a4a4a959082.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Andy",
+            "real_name": "Andy Parker",
+            "display_name": "Andy Parker",
+            "team": "TJE58GTJL",
+            "name": "andy610",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Marketing Examples — Good marketing examples",
+                "title": "Podia's hub of competitor comparison pages",
+                "title_link": "https:\/\/marketingexamples.com\/seo\/competitor-comparison",
+                "text": "How Podia built a hub of “[competitor] + alternative” pages pulling in 5,500 organic traffic each month",
+                "fallback": "Marketing Examples — Good marketing examples: Podia's hub of competitor comparison pages",
+                "image_url": "https:\/\/s3.amazonaws.com\/harrydry\/gdmarketing\/cards\/podia.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/marketingexamples.com\/seo\/competitor-comparison",
+                "image_bytes": 54263,
+                "service_icon": "https:\/\/s3.amazonaws.com\/harrydry\/gdmarketing\/meFav.png",
+                "id": 1,
+                "original_url": "https:\/\/marketingexamples.com\/seo\/competitor-comparison"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+uR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UL2E0QVB3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - this is a great example "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/marketingexamples.com\/seo\/competitor-comparison"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601528325.116000",
+        "parent_user_id": "UL2E0QVB3",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UUVC9HJTE",
+                    "UL2E0QVB3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ce27348-c4bc-4660-a260-613b773683ac",
+        "type": "message",
+        "text": "Really like Podia’s take on it! Drip and Basecamp also do it very well\n<https:\/\/www.drip.com\/comparisons>\n<https:\/\/basecamp.com\/before-and-after>",
+        "user": "UUVC9HJTE",
+        "ts": "1601540969.116800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "243e712f81bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/969140406898_243e712f81bc05c4c428_72.jpg",
+            "first_name": "Nina",
+            "real_name": "Nina P",
+            "display_name": "Nina P",
+            "team": "TJE58GTJL",
+            "name": "nina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "How Does Your Email Marketing Platform Compare with Drip? ",
+                "title_link": "https:\/\/www.drip.com\/comparisons",
+                "text": "See how Drip's marketing automation platform and ecommerce marketing tools can help your business redefine your email marketing strategy.",
+                "fallback": "How Does Your Email Marketing Platform Compare with Drip? ",
+                "image_url": "https:\/\/www.drip.com\/static\/img\/public\/default-og-image.png?v=20200930-718.429898461861725036",
+                "from_url": "https:\/\/www.drip.com\/comparisons",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 4327,
+                "service_icon": "https:\/\/www.drip.com\/static\/img\/public\/favicons\/apple-touch-icon.png?v=20200930-718.429898461861725036",
+                "service_name": "Drip",
+                "id": 1,
+                "original_url": "https:\/\/www.drip.com\/comparisons"
+            },
+            {
+                "title": "Stories of life before Basecamp, and what's better now",
+                "title_link": "https:\/\/basecamp.com\/before-and-after",
+                "text": "We asked our customers what work was like before they used Basecamp. And how it’s improved after switching to Basecamp. Turns out, it’s night and day.",
+                "fallback": "Stories of life before Basecamp, and what's better now",
+                "from_url": "https:\/\/basecamp.com\/before-and-after",
+                "service_icon": "https:\/\/basecamp.com\/basecamp-icon-196x196.png",
+                "service_name": "basecamp.com",
+                "id": 2,
+                "original_url": "https:\/\/basecamp.com\/before-and-after"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9MO6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really like Podia’s take on it! Drip and Basecamp also do it very well\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.drip.com\/comparisons"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/basecamp.com\/before-and-after"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601528325.116000",
+        "parent_user_id": "UL2E0QVB3"
+    },
+    {
+        "client_msg_id": "dd09c969-f372-474d-9d62-63cec05acb06",
+        "type": "message",
+        "text": "John Bonini recently shared a list of freelance writers he would hire if he had budget: <https:\/\/docs.google.com\/spreadsheets\/d\/13g0N7ReMv6gFP4umPCJOReIMehRKJVuwpB8wKydv280\/edit#gid=0>\n\nHas anybody seen a graphic design version of this anywhere?",
+        "user": "UJJFDTN8G",
+        "ts": "1601549655.117800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9pStc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "John Bonini recently shared a list of freelance writers he would hire if he had budget: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/13g0N7ReMv6gFP4umPCJOReIMehRKJVuwpB8wKydv280\/edit#gid=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHas anybody seen a graphic design version of this anywhere?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601549655.117800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1601574991.121800",
+        "reply_users": [
+            "U018BPBF9M1",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "U018BPBF9M1",
+                "ts": "1601550098.118000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1601574991.121800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1601574991.121800"
+    },
+    {
+        "client_msg_id": "3a0ae6a6-ceca-4ca2-9750-f830de8778fe",
+        "type": "message",
+        "text": "No I haven’t, but thank you for sharing this!!",
+        "user": "U018BPBF9M1",
+        "ts": "1601550098.118000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8306bd83b655",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-09\/1302834710033_8306bd83b6553ed2b0ea_72.png",
+            "first_name": "tawni",
+            "real_name": "tawni",
+            "display_name": "tawni",
+            "team": "TJE58GTJL",
+            "name": "tawni.sattler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ae5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No I haven’t, but thank you for sharing this!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601549655.117800",
+        "parent_user_id": "UJJFDTN8G",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJJFDTN8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4094a7d3-3c33-4fc0-8feb-5c9e3ac5a959",
+        "type": "message",
+        "text": "Anyone recently added their site\/blog to Google News? I see a Google help article that says \"you don't need to add your publication anymore\" but the option to add via the Publisher Center is still there.",
+        "user": "UJJFDTN8G",
+        "ts": "1601553501.119200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Sfv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone recently added their site\/blog to Google News? I see a Google help article that says \"you don't need to add your publication anymore\" but the option to add via the Publisher Center is still there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "173daf6e-73be-445e-b875-f125bc87cdf6",
+        "type": "message",
+        "text": "Hi Matthew - My company uses 141 Creative and have been really happy with them thus far. If you would like an intro to the founder, let me know! <https:\/\/www.141creative.com\/>",
+        "user": "U015B88C4CA",
+        "ts": "1601561210.119700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "141 Creative",
+                "title": "Worcester Web Design &amp; Branding Agency | 141 Creative",
+                "title_link": "https:\/\/www.141creative.com\/",
+                "text": "141 Creative provides full-service digital marketing, website design &amp; maintenance, branding &amp; graphic design, video &amp; SEO services to help businesses grow.",
+                "fallback": "141 Creative: Worcester Web Design &amp; Branding Agency | 141 Creative",
+                "image_url": "https:\/\/www.141creative.com\/wp-content\/uploads\/2020\/01\/best-web-designer-worcester-ma-1.jpg",
+                "image_width": 568,
+                "image_height": 250,
+                "from_url": "https:\/\/www.141creative.com\/",
+                "image_bytes": 262546,
+                "service_icon": "https:\/\/www.141creative.com\/wp-content\/uploads\/2020\/01\/cropped-141-mark-black-background-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.141creative.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQGK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Matthew - My company uses 141 Creative and have been really happy with them thus far. If you would like an intro to the founder, let me know! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.141creative.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601397540.070200",
+        "parent_user_id": "UUE7J6UDN"
+    },
+    {
+        "client_msg_id": "0915a8a6-e8f0-46de-9916-3ad22c4b418b",
+        "type": "message",
+        "text": "<@UJ2N9A3GT> a few:\n• <https:\/\/www.brainpickings.org\/2013\/05\/03\/advice-on-writing\/>\n• <https:\/\/lithub.com\/how-to-be-a-writer-10-tips-from-rebecca-solnit\/>",
+        "user": "UJG9WTEKG",
+        "ts": "1601574948.121100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Brain Pickings",
+                "title": "Timeless Advice on Writing: The Collected Wisdom of Great Writers",
+                "title_link": "https:\/\/www.brainpickings.org\/2013\/05\/03\/advice-on-writing\/",
+                "text": "Hemingway, Didion, Baldwin, Fitzgerald, Sontag, Vonnegut, Bradbury, Morrison, Orwell, Le Guin, Woolf, and other titans of literature.",
+                "fallback": "Brain Pickings: Timeless Advice on Writing: The Collected Wisdom of Great Writers",
+                "image_url": "https:\/\/i1.wp.com\/www.brainpickings.org\/wp-content\/uploads\/2013\/05\/writers.jpg?fit=600%2C315&ssl=1",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1367577954,
+                "from_url": "https:\/\/www.brainpickings.org\/2013\/05\/03\/advice-on-writing\/",
+                "image_bytes": 47727,
+                "service_icon": "https:\/\/i2.wp.com\/www.brainpickings.org\/wp-content\/uploads\/2015\/09\/cropped-BP_icon.png?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/www.brainpickings.org\/2013\/05\/03\/advice-on-writing\/"
+            },
+            {
+                "service_name": "Literary  Hub",
+                "title": "How to Be a Writer: 10 Tips from Rebecca Solnit",
+                "title_link": "https:\/\/lithub.com\/how-to-be-a-writer-10-tips-from-rebecca-solnit\/",
+                "text": "1) Write. There is no substitute. Write what you most passionately want to write, not blogs, posts, tweets or all the disposable bubblewrap in which modern life is cushioned. But start small: write…",
+                "fallback": "Literary  Hub: How to Be a Writer: 10 Tips from Rebecca Solnit",
+                "image_url": "https:\/\/lithub.com\/wp-content\/uploads\/2016\/09\/teaching.jpg",
+                "image_width": 649,
+                "image_height": 250,
+                "ts": 1473759820,
+                "from_url": "https:\/\/lithub.com\/how-to-be-a-writer-10-tips-from-rebecca-solnit\/",
+                "image_bytes": 127377,
+                "service_icon": "https:\/\/lithub.com\/wp-content\/uploads\/2015\/04\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/lithub.com\/how-to-be-a-writer-10-tips-from-rebecca-solnit\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtxFN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ2N9A3GT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a few:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.brainpickings.org\/2013\/05\/03\/advice-on-writing\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/lithub.com\/how-to-be-a-writer-10-tips-from-rebecca-solnit\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601382017.062600",
+        "parent_user_id": "UJ2N9A3GT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJ2N9A3GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "070f0586-6467-4707-831e-e04998d3addc",
+        "type": "message",
+        "text": "i think about this all the time",
+        "user": "UJG9WTEKG",
+        "ts": "1601574957.121400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i think about this all the time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601394347.067200",
+        "parent_user_id": "U010Q9Z2DF1"
+    },
+    {
+        "client_msg_id": "3c2c2d10-6659-4055-b338-5d234a29cee7",
+        "type": "message",
+        "text": "but have yet to actually do it",
+        "user": "UJG9WTEKG",
+        "ts": "1601574961.121600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fEP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but have yet to actually do it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601394347.067200",
+        "parent_user_id": "U010Q9Z2DF1"
+    },
+    {
+        "client_msg_id": "237c8214-65b7-4044-b241-c72709ebd2ae",
+        "type": "message",
+        "text": "what a great idea",
+        "user": "UJG9WTEKG",
+        "ts": "1601574991.121800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1LdS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what a great idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601549655.117800",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "f94aee46-9ff6-4c46-bfbd-939dfcecb134",
+        "type": "message",
+        "text": "<@U015B88C4CA> please! my email is <mailto:matt.speiser@knotch.com|matt.speiser@knotch.com>",
+        "user": "UUE7J6UDN",
+        "ts": "1601576452.122200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f1a97da24d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-13\/2403885855088_f1a97da24d4c59536828_72.jpg",
+            "first_name": "Matthew",
+            "real_name": "Matthew Speiser",
+            "display_name": "Matthew Speiser",
+            "team": "TJE58GTJL",
+            "name": "spyzguyz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1JR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U015B88C4CA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please! my email is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:matt.speiser@knotch.com",
+                                "text": "matt.speiser@knotch.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601397540.070200",
+        "parent_user_id": "UUE7J6UDN"
+    },
+    {
+        "client_msg_id": "c4021bf7-e0b3-4b86-ab69-a9df2c4470b5",
+        "type": "message",
+        "text": "Great - I am reaching out to the founder as a head up first, and then will connect you two!",
+        "user": "U015B88C4CA",
+        "ts": "1601577088.122400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great - I am reaching out to the founder as a head up first, and then will connect you two!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601397540.070200",
+        "parent_user_id": "UUE7J6UDN"
+    },
+    {
+        "client_msg_id": "2be08725-cfd4-44df-8287-6724bd1304bc",
+        "type": "message",
+        "text": "Does anyone (or know someone) here use Substack? Looking for some advice.",
+        "user": "U0166H7KUAZ",
+        "ts": "1601590246.124100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f58be1456496",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-29\/1197308509671_f58be1456496f374b7ea_72.jpg",
+            "first_name": "",
+            "real_name": "Phillip Paquette",
+            "display_name": "Phillip Paquette",
+            "team": "TJE58GTJL",
+            "name": "phillippaquette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0166H7KUAZ",
+            "ts": "1601590382.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ln+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone (or know someone) here use Substack? Looking for some advice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601590246.124100",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1601673047.135600",
+        "reply_users": [
+            "UJ2N9A3GT",
+            "URA4VBQ2X",
+            "U012BUUPHFT",
+            "U0166H7KUAZ"
+        ],
+        "replies": [
+            {
+                "user": "UJ2N9A3GT",
+                "ts": "1601594290.126100"
+            },
+            {
+                "user": "URA4VBQ2X",
+                "ts": "1601600775.126800"
+            },
+            {
+                "user": "U012BUUPHFT",
+                "ts": "1601635760.127200"
+            },
+            {
+                "user": "U0166H7KUAZ",
+                "ts": "1601664128.133500"
+            },
+            {
+                "user": "U012BUUPHFT",
+                "ts": "1601672032.134900"
+            },
+            {
+                "user": "UJ2N9A3GT",
+                "ts": "1601673047.135600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C8701DAD-DFCE-473B-8DA5-96B6C95C3EA6",
+        "type": "message",
+        "text": "I run my (currently paused) newsletter on substack. Not the most experienced but I have about a dozen issues under my belt. <https:\/\/metaphormap.substack.com\/|https:\/\/metaphormap.substack.com\/>",
+        "user": "UJ2N9A3GT",
+        "ts": "1601594290.126100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f423630ff063",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-03\/619878402753_f423630ff0633ae9253d_72.png",
+            "first_name": "Nick",
+            "real_name": "Nick Moore",
+            "display_name": "Nick Moore",
+            "team": "TJE58GTJL",
+            "name": "nickm.yyz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Metaphor Map",
+                "title_link": "https:\/\/metaphormap.substack.com\/",
+                "text": "I curate metaphors that help you explain complex ideas.",
+                "fallback": "Metaphor Map",
+                "thumb_url": "https:\/\/cdn.substack.com\/image\/fetch\/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep\/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F712e334c-b0f7-4f2a-836b-f6ee5254cf3f_256x256.png",
+                "from_url": "https:\/\/metaphormap.substack.com\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\/public\/images\/4005f6d3-be30-474d-a811-b40713234bfe\/apple-touch-icon-57x57.png",
+                "service_name": "metaphormap.substack.com",
+                "id": 1,
+                "original_url": "https:\/\/metaphormap.substack.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bg9Vw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I run my (currently paused) newsletter on substack. Not the most experienced but I have about a dozen issues under my belt. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/metaphormap.substack.com\/",
+                                "text": "https:\/\/metaphormap.substack.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601590246.124100",
+        "parent_user_id": "U0166H7KUAZ"
+    },
+    {
+        "client_msg_id": "CAF9C6FE-70C1-492A-8FD8-0D07E31A85A7",
+        "type": "message",
+        "text": "<@UN13N67GQ> does too I believe :)",
+        "user": "URA4VBQ2X",
+        "ts": "1601600775.126800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb1296cc1b29",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b1296cc1b295be79ad03cfe7690b0907.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Panagis",
+            "display_name": "Alex Panagis",
+            "team": "TJE58GTJL",
+            "name": "alex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ds9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UN13N67GQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " does too I believe :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601590246.124100",
+        "parent_user_id": "U0166H7KUAZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0166H7KUAZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbe6d764-7a26-4b60-8837-912dd229f89c",
+        "type": "message",
+        "text": "Thank you!!",
+        "user": "UUH28N3U2",
+        "ts": "1601621553.127000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61d6db43de32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/982178159968_61d6db43de32e89377d8_72.jpg",
+            "first_name": "Carla",
+            "real_name": "Carla Chicharro",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "c.chich",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJSSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601455388.088100",
+        "parent_user_id": "UUH28N3U2",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U01AHL8AGBB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

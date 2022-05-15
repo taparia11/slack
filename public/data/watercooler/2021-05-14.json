@@ -1,0 +1,115 @@
+[
+    {
+        "client_msg_id": "bea64fb1-f420-48bd-9373-59266cd30f55",
+        "type": "message",
+        "text": "This is amazing. :joy:\n\n<https:\/\/www.instagram.com\/reel\/CN8GsRCBm1D\/?igshid=1inembdsh8ocw|https:\/\/www.instagram.com\/reel\/CN8GsRCBm1D\/?igshid=1inembdsh8ocw>",
+        "user": "UNGMG4005",
+        "ts": "1620994351.203600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "314714115aef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-20\/881855828276_314714115aefdf03320c_72.jpg",
+            "first_name": "Alfredo",
+            "real_name": "Alfredo Deambrosi",
+            "display_name": "Alfredo Deambrosi",
+            "team": "TJE58GTJL",
+            "name": "alfredo.deambrosi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is amazing. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/reel\/CN8GsRCBm1D\/?igshid=1inembdsh8ocw",
+                                "text": "https:\/\/www.instagram.com\/reel\/CN8GsRCBm1D\/?igshid=1inembdsh8ocw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01V7CQF8LC",
+                    "U021Y32HRCL",
+                    "UUH2EB134",
+                    "U021J2S4DPX",
+                    "U021TAHP6TB",
+                    "U0216EN5J80"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c779225-f9f6-46a7-95a8-2fac22a485c0",
+        "type": "message",
+        "text": "Hey <@UJH5BJQG0> I have a couple of friends who might be interested, is there a listing that I can forward along?",
+        "user": "UMX8MPHA6",
+        "ts": "1621017496.206300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a26de188dd86",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-21\/2086330845429_a26de188dd86514ca04b_72.png",
+            "first_name": "Carmen",
+            "real_name": "Carmen Choi",
+            "display_name": "Carmen",
+            "team": "TJE58GTJL",
+            "name": "carmenchoi.km",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OZ2m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJH5BJQG0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have a couple of friends who might be interested, is there a listing that I can forward along?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620234759.187400",
+        "parent_user_id": "UJH5BJQG0"
+    }
+]

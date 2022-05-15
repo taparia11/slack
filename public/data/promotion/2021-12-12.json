@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1639319185.266700"
+    },
+    {
+        "client_msg_id": "63a8f87b-a6c9-47f7-98e1-1dfccd25fe34",
+        "type": "message",
+        "text": "*New case study!*\n\nHey everyone, I have written a case study of how I published 120 articles in 6 months and was able to get 45,000 monthly traffic.\n\nWhat do you think of it?\n\n<https:\/\/compile.blog\/case-study-45000-monthly-traffic\/>",
+        "user": "U02QBSCKYBC",
+        "ts": "1639319270.267100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e046b1899e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e046b1899ec5f367b0e7ad630bc1c8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Deepak",
+            "real_name": "Deepak K",
+            "display_name": "DeepakNess",
+            "team": "TJE58GTJL",
+            "name": "deepakkr342",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/compile.blog\/case-study-45000-monthly-traffic\/",
+                "image_url": "https:\/\/compile.blog\/wp-content\/uploads\/2021\/11\/Case-Study-1.jpg",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 52407,
+                "service_icon": "https:\/\/compile.blog\/wp-content\/uploads\/2021\/06\/cropped-compile.blog-Favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/compile.blog\/case-study-45000-monthly-traffic\/",
+                "fallback": "compile.blog: [Case Study] 120 Articles → 45,000 Monthly Traffic",
+                "text": "A case study of how I was able to get 45,000 monthly visitors in 6 months for an ed-tech startup.",
+                "title": "[Case Study] 120 Articles → 45,000 Monthly Traffic",
+                "title_link": "https:\/\/compile.blog\/case-study-45000-monthly-traffic\/",
+                "service_name": "compile.blog"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RC10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "New case study!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHey everyone, I have written a case study of how I published 120 articles in 6 months and was able to get 45,000 monthly traffic.\n\nWhat do you think of it?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compile.blog\/case-study-45000-monthly-traffic\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02J196DQGH",
+                    "U02PUQ6CQRX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

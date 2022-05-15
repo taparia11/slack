@@ -1,0 +1,611 @@
+[
+    {
+        "client_msg_id": "709dbdfd-c877-4fc0-bf60-79f97c9318ce",
+        "type": "message",
+        "text": "*Hello! I need opinions on a complex SEO issue I'm facing:* \n\nA client with a 19-year-old-business has 2,000+ do-follow backlinks from their product login page on their clients' websites. The vast majority of these links are from very bad websites, while a decent percentage are from very good websites.\n\nFirst off: does this affect Google rankings? In my experience, I'd say yes, but I'd love some confirmation here. Since the links are on the brand name or brand name + product name, it might be particularly bad since they can be seen as paid links.\n\nSecondly, what's my best option?\n1. Remove all the links directly from the product with a product update. *Pro:* very easy to do, link removals will happen gradually as clients update their products (no hundreds of missing links suddenly).  *Con:* many of the worst websites probably don't update their product, or do so very rarely, while the good websites do, so we'll potentially lose the good link juice while keeping the bad ones.\n2. Do a thorough disavow. *Pro:* it will probably avoid false positives. *Con:* it's going to take a long time, and it will need to be redone manually &amp; periodically, plus we might be disavowing too many links at once? (is this even possible?)\n3. Do a gradual disavow. *Pro*: we could fit it into a workflow &amp; do it on a recurring basis, while spending a minimal amount of time on it every week. *Con*: benefits might show very slowly\n4. Do nothing. Focus on cleaning up other toxic links, but leave product links as they are. *Pro*: least amount of work. *Con*: don't know if it'll work",
+        "user": "U02GY5WTFQU",
+        "ts": "1642762403.114700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "db2f8c78b653",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-08\/2815909637284_db2f8c78b6538451ee73_72.png",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Petre Minuț",
+            "display_name": "Bogdan Petre Minuț",
+            "team": "TJE58GTJL",
+            "name": "bogdan328",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Cchw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! I need opinions on a complex SEO issue I'm facing: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA client with a 19-year-old-business has 2,000+ do-follow backlinks from their product login page on their clients' websites. The vast majority of these links are from very bad websites, while a decent percentage are from very good websites.\n\nFirst off: does this affect Google rankings? In my experience, I'd say yes, but I'd love some confirmation here. Since the links are on the brand name or brand name + product name, it might be particularly bad since they can be seen as paid links.\n\nSecondly, what's my best option?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Remove all the links directly from the product with a product update. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Pro: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "very easy to do, link removals will happen gradually as clients update their products (no hundreds of missing links suddenly)."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  Con: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "many of the worst websites probably don't update their product, or do so very rarely, while the good websites do, so we'll potentially lose the good link juice while keeping the bad ones."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do a thorough disavow."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Pro:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " it will probably avoid false positives. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Con: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "it's going to take a long time, and it will need to be redone manually & periodically, plus we might be disavowing too many links at once? (is this even possible?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do a gradual disavow. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Pro",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": we could fit it into a workflow & do it on a recurring basis, while spending a minimal amount of time on it every week. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Con",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": benefits might show very slowly"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do nothing. Focus on cleaning up other toxic links, but leave product links as they are. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Pro",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": least amount of work. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Con",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ":"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "don't know if it'll work"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642762403.114700",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1643092911.145300",
+        "reply_users": [
+            "U02F43CAK5X",
+            "U02CN04K022",
+            "U02A8UR3Z60",
+            "U016NBFS16Y",
+            "U02GY5WTFQU"
+        ],
+        "replies": [
+            {
+                "user": "U02F43CAK5X",
+                "ts": "1642775695.115100"
+            },
+            {
+                "user": "U02CN04K022",
+                "ts": "1642779188.125500"
+            },
+            {
+                "user": "U02A8UR3Z60",
+                "ts": "1642785034.127100"
+            },
+            {
+                "user": "U016NBFS16Y",
+                "ts": "1642804964.133400"
+            },
+            {
+                "user": "U02GY5WTFQU",
+                "ts": "1643092911.145300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a2f59d1a-e6db-426e-a6d2-8108914a7514",
+        "type": "message",
+        "text": "Clarifying question: What exactly do you mean by \"these links are from very bad websites\"? Were they paid for, or were they somehow naturally acquired?",
+        "user": "U02F43CAK5X",
+        "ts": "1642775695.115100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "96937be5af03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2500350284535_96937be5af03a50d7004_72.jpg",
+            "first_name": "Amanda",
+            "real_name": "Amanda Milligan",
+            "display_name": "Amanda Milligan",
+            "team": "TJE58GTJL",
+            "name": "amilligan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IznF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Clarifying question: What exactly do you mean by \"these links are from very bad websites\"? Were they paid for, or were they somehow naturally acquired?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642762403.114700",
+        "parent_user_id": "U02GY5WTFQU"
+    },
+    {
+        "client_msg_id": "60A8C872-D40C-43D7-A165-6433F109B303",
+        "type": "message",
+        "text": "I would leave them be.\n\nThis might be a bit of a controversial opinion, but a backlink is either going to have a positive effect on your website or have no effect at all. I don’t think Google attaches negative weight to any backlink unless it is absolutely clear that it is intentionally trying to manipulate rankings. Otherwise, it would make domains too vulnerable to attacks.\n\nThis doesn’t seem to be the case here. So by removing them you’re likely to do more harm than good.",
+        "user": "U02CN04K022",
+        "ts": "1642779188.125500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5ab3d8d339b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-01\/2437897082582_5ab3d8d339b1fd15987f_72.jpg",
+            "first_name": "Risto",
+            "real_name": "Risto Rehemägi",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "risto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would leave them be.\n\nThis might be a bit of a controversial opinion, but a backlink is either going to have a positive effect on your website or have no effect at all. I don’t think Google attaches negative weight to any backlink unless it is absolutely clear that it is intentionally trying to manipulate rankings. Otherwise, it would make domains too vulnerable to attacks.\n\nThis doesn’t seem to be the case here. So by removing them you’re likely to do more harm than good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642762403.114700",
+        "parent_user_id": "U02GY5WTFQU",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02TYAMTVK8",
+                    "U02BTBBH887"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21C1623A-AD79-45BC-8262-F5786D2721BB",
+        "type": "message",
+        "text": "Leave them be! John Mueller has repeatedly said to ignore “toxic link” tools as they're mostly in accurate. <https:\/\/www.seroundtable.com\/google-ignore-toxic-links-32711.html|https:\/\/www.seroundtable.com\/google-ignore-toxic-links-32711.html>",
+        "user": "U02A8UR3Z60",
+        "ts": "1642785034.127100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.seroundtable.com\/google-ignore-toxic-links-32711.html",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/images.seroundtable.com\/toxic-links-google-1641470932.jpg",
+                "thumb_width": 640,
+                "thumb_height": 323,
+                "service_icon": "https:\/\/www.seroundtable.com\/favicon32.png",
+                "id": 1,
+                "original_url": "https:\/\/www.seroundtable.com\/google-ignore-toxic-links-32711.html",
+                "fallback": "seroundtable.com: Google: Ignore Toxic Links, Some Tools Make The Wrong Assumptions",
+                "text": "Google's John Mueller said it again, when it comes to",
+                "title": "Google: Ignore Toxic Links, Some Tools Make The Wrong Assumptions",
+                "title_link": "https:\/\/www.seroundtable.com\/google-ignore-toxic-links-32711.html",
+                "service_name": "seroundtable.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Leave them be! John Mueller has repeatedly said to ignore “toxic link” tools as they're mostly in accurate. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.seroundtable.com\/google-ignore-toxic-links-32711.html",
+                                "text": "https:\/\/www.seroundtable.com\/google-ignore-toxic-links-32711.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642762403.114700",
+        "parent_user_id": "U02GY5WTFQU"
+    },
+    {
+        "client_msg_id": "6479df55-7c9c-4d93-83a2-a9120c9953ef",
+        "type": "message",
+        "text": "I recently got \"rate for selling foot photos\" when looking up ecommerce keywords :joy:",
+        "user": "U02VAB2TQ2D",
+        "ts": "1642785343.128200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "643c0c0b809d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2982585709365_643c0c0b809d440d04c8_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa Zehner",
+            "display_name": "Melissa Zehner",
+            "team": "TJE58GTJL",
+            "name": "melissa525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n22",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I recently got \"rate for selling foot photos\" when looking up ecommerce keywords "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642720963.102100",
+        "parent_user_id": "U024K88ECFN",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U024K88ECFN",
+                    "U02TDTEHQKA",
+                    "U02GYR8TM96"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D436F112-FD21-44A8-8794-3F08869D4D62",
+        "type": "message",
+        "text": "OMG :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing: It's a whole industry, I hear! :sweat_smile:",
+        "user": "U024K88ECFN",
+        "ts": "1642786790.132200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zi7R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OMG "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It's a whole industry, I hear! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642720963.102100",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "eb5c2cde-75f8-46a7-9e7c-c109785bd461",
+        "type": "message",
+        "text": "I've heard that too and I didn't want to google the answer because I don't want that kind of retargeting in my feed :rolling_on_the_floor_laughing:",
+        "user": "U02VAB2TQ2D",
+        "ts": "1642786856.132400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "643c0c0b809d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2982585709365_643c0c0b809d440d04c8_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa Zehner",
+            "display_name": "Melissa Zehner",
+            "team": "TJE58GTJL",
+            "name": "melissa525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've heard that too and I didn't want to google the answer because I don't want that kind of retargeting in my feed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642720963.102100",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "22409DED-93B3-4645-9FF4-5499185E89CA",
+        "type": "message",
+        "text": "Haha, right?!",
+        "user": "U024K88ECFN",
+        "ts": "1642792168.132700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yN5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha, right?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642720963.102100",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "1FFD8681-AAC4-41EA-9CAA-AE2F380FBEE3",
+        "type": "message",
+        "text": "Do not waste your time with disavowing. ",
+        "user": "U016NBFS16Y",
+        "ts": "1642804964.133400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dc55ef79eca3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-10\/2813445724023_dc55ef79eca31bc399fa_72.jpg",
+            "first_name": "Lucian",
+            "real_name": "Lucian Florian",
+            "display_name": "Lucian Florian",
+            "team": "TJE58GTJL",
+            "name": "contact348",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Knk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do not waste your time with disavowing. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642762403.114700",
+        "parent_user_id": "U02GY5WTFQU"
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "c9f61d84-27e6-4883-958d-b6640c06425a",
+        "type": "message",
+        "text": "You might find this <https:\/\/twitter.com\/nathanbarry\/status\/1480944048189980678|recent Twitter thread> useful: Nathan Barry (CEO ConvertKit) on culture-building in a fully remote org",
+        "user": "U02CSSFJR70",
+        "ts": "1642012178.044200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge53b333d739",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e53b333d739a13788e6b12a9037a28a0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Premick",
+            "display_name": "Justin Premick",
+            "team": "TJE58GTJL",
+            "name": "justinpremick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/nathanbarry\/status\/1480944048189980678",
+                "ts": 1641919550,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/nathanbarry\/status\/1480944048189980678",
+                "fallback": "<https:\/\/twitter.com\/nathanbarry|@nathanbarry>: Struggling to connect on your remote team?\n\nWe’ve built a 68 person remote team that’s driving $29 million in annual revenue.\n\nHere are 10 ideas for building great culture in a distributed team: :computer::globe_with_meridians:",
+                "text": "Struggling to connect on your remote team?\n\nWe’ve built a 68 person remote team that’s driving $29 million in annual revenue.\n\nHere are 10 ideas for building great culture in a distributed team: :computer::globe_with_meridians:",
+                "author_name": "Nathan Barry",
+                "author_link": "https:\/\/twitter.com\/nathanbarry\/status\/1480944048189980678",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1033354885230522368\/HYns_IBX_normal.jpg",
+                "author_subname": "@nathanbarry",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ddwNI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might find this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/nathanbarry\/status\/1480944048189980678",
+                                "text": "recent Twitter thread"
+                            },
+                            {
+                                "type": "text",
+                                "text": " useful: Nathan Barry (CEO ConvertKit) on culture-building in a fully remote org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641921441.023900",
+        "parent_user_id": "U026E1TJ06S",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U026E1TJ06S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90bc33f8-eee8-4906-b336-5adec8404234",
+        "type": "message",
+        "text": "<@U02CSSFJR70> Wow! This is very useful! Thank you so much for sharing this!",
+        "user": "U026E1TJ06S",
+        "ts": "1642015928.044600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c5776d25e2d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-30\/2233729002644_c5776d25e2d8664b03d0_72.jpg",
+            "first_name": "Cherise",
+            "real_name": "Cherise Letson",
+            "display_name": "Cherise",
+            "team": "TJE58GTJL",
+            "name": "cheriseletson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qd=1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CSSFJR70"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Wow! This is very useful! Thank you so much for sharing this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641921441.023900",
+        "parent_user_id": "U026E1TJ06S",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02CSSFJR70"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

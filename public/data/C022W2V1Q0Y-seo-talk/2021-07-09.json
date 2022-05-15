@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "86d8f0d6-4779-4639-9a9c-c983cce32343",
+        "type": "message",
+        "text": "Thanks for the insights <@U01KT0GGM0S>!",
+        "user": "U020GLH1U10",
+        "ts": "1625841619.178200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "36fac68535ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-08\/2609166114656_36fac68535ace53d6c0a_72.jpg",
+            "first_name": "Alessandra",
+            "real_name": "Alessandra Colaci",
+            "display_name": "Alessandra Colaci",
+            "team": "TJE58GTJL",
+            "name": "alessandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rbSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the insights "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KT0GGM0S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625690190.172600",
+        "parent_user_id": "U020GLH1U10",
+        "reactions": [
+            {
+                "name": "relaxed",
+                "users": [
+                    "U01KT0GGM0S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "610db85d-bd7c-4097-9f3a-fa07d0046385",
+        "type": "message",
+        "text": "<!here> web3 AMA w\/ <@U01AHL8AGBB> starting <#C014P2BJLER|general> in few min!",
+        "user": "UJG9WTEKG",
+        "ts": "1648140989.893179",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " web3 AMA w\/ "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " starting "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C014P2BJLER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in few min!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U01AHL8AGBB",
+                    "U03164Q045P"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U015Q97UBHB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

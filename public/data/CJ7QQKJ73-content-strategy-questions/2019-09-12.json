@@ -1,0 +1,665 @@
+[
+    {
+        "client_msg_id": "2d9ac1a3-6cd5-4779-bf7e-f41662a328e4",
+        "type": "message",
+        "text": "<@UJK7Z6NR4> what's better for you, DM or the survey?",
+        "user": "UJE5LARL0",
+        "ts": "1568293423.059900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568259419.059000",
+        "parent_user_id": "UJK7Z6NR4"
+    },
+    {
+        "client_msg_id": "4197a954-6e73-427a-920b-0076ccee3387",
+        "type": "message",
+        "text": "Ooh, I have a question! For those of you moving to a pillar-cluster content structure, how have you changed your blog taxonomies to reflect this? Our blog uses the classic WP category-tag thing, but I'm looking for a better way to organize content around pillars, shorten slugs, etc. Any advice\/examples would be appreciated!",
+        "user": "UN29JC48H",
+        "ts": "1568295051.064300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f23466a3212e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-25\/3155174442038_f23466a3212eb4b990e3_72.jpg",
+            "first_name": "Lindsey",
+            "real_name": "Lindsey",
+            "display_name": "Lindsey",
+            "team": "TJE58GTJL",
+            "name": "lindsey.holzberger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568295051.064300",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1568374407.078300",
+        "reply_users": [
+            "UJG4WTGKS",
+            "UN29JC48H",
+            "UJ99RGF7T"
+        ],
+        "replies": [
+            {
+                "user": "UJG4WTGKS",
+                "ts": "1568298235.064600"
+            },
+            {
+                "user": "UN29JC48H",
+                "ts": "1568298477.064900"
+            },
+            {
+                "user": "UJ99RGF7T",
+                "ts": "1568300815.065500"
+            },
+            {
+                "user": "UJ99RGF7T",
+                "ts": "1568300879.065800"
+            },
+            {
+                "user": "UN29JC48H",
+                "ts": "1568309895.066900"
+            },
+            {
+                "user": "UJ99RGF7T",
+                "ts": "1568312156.068900"
+            },
+            {
+                "user": "UN29JC48H",
+                "ts": "1568374407.078300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4757f49c-435d-4edf-80e1-be307ca2e425",
+        "type": "message",
+        "text": "I think this is more of a design question rather than blog taxonomy one :slightly_smiling_face:\n\nI think it’s important to think about information infrastructure first, then how this is reflected in the design and organization of your blog and then finally (but still as important) internal linking",
+        "user": "UJG4WTGKS",
+        "ts": "1568298235.064600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g59d2a818266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a59d2a81826605914ba3f4b78c3fa6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Markov",
+            "display_name": "Ilia Markov",
+            "team": "TJE58GTJL",
+            "name": "hello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568295051.064300",
+        "parent_user_id": "UN29JC48H",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UN29JC48H",
+                    "UN0PNGXJM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09865a6e-3d33-482b-8b1f-7ee6805550ff",
+        "type": "message",
+        "text": "Good point!",
+        "user": "UN29JC48H",
+        "ts": "1568298477.064900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f23466a3212e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-25\/3155174442038_f23466a3212eb4b990e3_72.jpg",
+            "first_name": "Lindsey",
+            "real_name": "Lindsey",
+            "display_name": "Lindsey",
+            "team": "TJE58GTJL",
+            "name": "lindsey.holzberger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568295051.064300",
+        "parent_user_id": "UN29JC48H"
+    },
+    {
+        "client_msg_id": "ebfe8e2c-eba0-4e1d-b7c0-e32e731f7be2",
+        "type": "message",
+        "text": "I like the Jimmy\/Animalz-endorsed method of `domain.tld\/cluster\/topic\/` but it doesn't always work.",
+        "user": "UJ99RGF7T",
+        "ts": "1568300815.065500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e60332ab67e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-28\/1267962402803_1e60332ab67e3e3d366b_72.png",
+            "first_name": "Andy",
+            "real_name": "Andy McIlwain",
+            "display_name": "Andy McIlwain (andymci)",
+            "team": "TJE58GTJL",
+            "name": "andy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ99RGF7T",
+            "ts": "1568300824.000000"
+        },
+        "thread_ts": "1568295051.064300",
+        "parent_user_id": "UN29JC48H",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UN29JC48H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7a65c1e-a572-4795-bf28-2b60949896bf",
+        "type": "message",
+        "text": "on the GoDaddy Blog we go straight `domain.tld\/topic` for everything. My workaround was pushing for content collections (clusters) that then link to the longer-tail articles.",
+        "user": "UJ99RGF7T",
+        "ts": "1568300879.065800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e60332ab67e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-28\/1267962402803_1e60332ab67e3e3d366b_72.png",
+            "first_name": "Andy",
+            "real_name": "Andy McIlwain",
+            "display_name": "Andy McIlwain (andymci)",
+            "team": "TJE58GTJL",
+            "name": "andy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568295051.064300",
+        "parent_user_id": "UN29JC48H",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UN0PNGXJM",
+                    "UJG4WTGKS",
+                    "UN29JC48H"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e6767c6-adba-4e4b-8a26-f699920f9ffd",
+        "type": "message",
+        "text": "Nice! I love how you translated that approach to your blog home. It's a refreshing change from seeing major categories in a header menu or sidebar.",
+        "user": "UN29JC48H",
+        "ts": "1568309895.066900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f23466a3212e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-25\/3155174442038_f23466a3212eb4b990e3_72.jpg",
+            "first_name": "Lindsey",
+            "real_name": "Lindsey",
+            "display_name": "Lindsey",
+            "team": "TJE58GTJL",
+            "name": "lindsey.holzberger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568295051.064300",
+        "parent_user_id": "UN29JC48H"
+    },
+    {
+        "client_msg_id": "8e1f6f62-7c41-4ef6-b117-5abb9be459a1",
+        "type": "message",
+        "text": "Funny enough, the homepage came first. :slightly_smiling_face: started thinking about how to apply it to our hub\/spoke (cluster\/pillar) strategy afterwards.",
+        "user": "UJ99RGF7T",
+        "ts": "1568312156.068900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e60332ab67e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-28\/1267962402803_1e60332ab67e3e3d366b_72.png",
+            "first_name": "Andy",
+            "real_name": "Andy McIlwain",
+            "display_name": "Andy McIlwain (andymci)",
+            "team": "TJE58GTJL",
+            "name": "andy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568295051.064300",
+        "parent_user_id": "UN29JC48H"
+    },
+    {
+        "client_msg_id": "40f1f5ba-67a4-4c41-9152-eb5f6ff27f3f",
+        "type": "message",
+        "text": "Any recommend reads on content optimization, whether that's pruning for SEO or deciding how to increase leads via a blog post? I find that \"content optimization\" falls into two buckets, like asking \"how can we get more leads out of this piece?\" or \"how can we get more (organic) traffic to this piece?\" Looking to refresh myself on both topics",
+        "user": "UJHK5E5FG",
+        "ts": "1568319458.069600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6279fcf6c09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/796279fcf6c094fdac8157c7a2ca05cb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Adam",
+            "real_name": "Adam Rogers",
+            "display_name": "Adam Rogers",
+            "team": "TJE58GTJL",
+            "name": "adamrogers.uk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568319458.069600",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1568821779.037600",
+        "reply_users": [
+            "UJDPMTREY",
+            "UJHK5E5FG"
+        ],
+        "replies": [
+            {
+                "user": "UJDPMTREY",
+                "ts": "1568376377.087700"
+            },
+            {
+                "user": "UJHK5E5FG",
+                "ts": "1568377062.089800"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1568377529.090000"
+            },
+            {
+                "user": "UJHK5E5FG",
+                "ts": "1568821779.037600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39bffebf-7513-477e-922b-dd9002752efd",
+        "type": "message",
+        "text": "<@UJHK5E5FG> I'd call that \"Conversion Rate Optimization\" vs \"SEO (Organic) Optimization\"",
+        "user": "UJE5LARL0",
+        "ts": "1568319658.070400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6641ad60-fb95-417d-9686-5d96f272a7bd",
+        "type": "message",
+        "text": "We just transitioned from hubspot to wordpress and I'm needing to learn about google analytics fast! Anyone have good recommendations of how to learn GA for people in our field?",
+        "user": "UJH5BJQG0",
+        "ts": "1568328274.071200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "01e403dbd6b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3148648187201_01e403dbd6b46f0a9972_72.png",
+            "first_name": "Alexis",
+            "real_name": "Alexis Croswell",
+            "display_name": "Lexi",
+            "team": "TJE58GTJL",
+            "name": "croswela",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568328274.071200",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1568390928.091900",
+        "reply_users": [
+            "UN76CU2P7",
+            "UN29JC48H",
+            "UJH5BJQG0"
+        ],
+        "replies": [
+            {
+                "user": "UN76CU2P7",
+                "ts": "1568368003.076700"
+            },
+            {
+                "user": "UN29JC48H",
+                "ts": "1568374614.081700"
+            },
+            {
+                "user": "UN29JC48H",
+                "ts": "1568374648.082000"
+            },
+            {
+                "user": "UN29JC48H",
+                "ts": "1568374816.085400"
+            },
+            {
+                "user": "UN29JC48H",
+                "ts": "1568374921.086600"
+            },
+            {
+                "user": "UJH5BJQG0",
+                "ts": "1568390905.091700"
+            },
+            {
+                "user": "UJH5BJQG0",
+                "ts": "1568390928.091900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5bc5073b-5faa-412e-bc91-ace473c37939",
+        "type": "message",
+        "text": "Honestly the Academy content is pretty great. <https:\/\/analytics.google.com\/analytics\/academy\/>",
+        "user": "UJ99RGF7T",
+        "ts": "1568329006.071500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e60332ab67e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-28\/1267962402803_1e60332ab67e3e3d366b_72.png",
+            "first_name": "Andy",
+            "real_name": "Andy McIlwain",
+            "display_name": "Andy McIlwain (andymci)",
+            "team": "TJE58GTJL",
+            "name": "andy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Google Analytics Academy",
+                "title_link": "https:\/\/analytics.google.com\/analytics\/academy\/",
+                "text": "Improve your Analytics skills with free online courses from Google.",
+                "fallback": "Google Analytics Academy",
+                "from_url": "https:\/\/analytics.google.com\/analytics\/academy\/",
+                "service_icon": "https:\/\/ssl.gstatic.com\/analytics\/20190912-00\/academy\/static\/logo_google_analytics.png",
+                "service_name": "analytics.google.com",
+                "id": 1,
+                "original_url": "https:\/\/analytics.google.com\/analytics\/academy\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60a3bd50-5d16-4548-b770-7f5855ffeeb5",
+        "type": "message",
+        "text": "But for our world... <https:\/\/www.annielytics.com\/resources\/>",
+        "user": "UJ99RGF7T",
+        "ts": "1568329022.071900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e60332ab67e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-28\/1267962402803_1e60332ab67e3e3d366b_72.png",
+            "first_name": "Andy",
+            "real_name": "Andy McIlwain",
+            "display_name": "Andy McIlwain (andymci)",
+            "team": "TJE58GTJL",
+            "name": "andy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Annielytics.com",
+                "title": "Free and Paid Resources For Marketers - Annielytics",
+                "title_link": "https:\/\/www.annielytics.com\/resources\/",
+                "text": "Annie Cushing has pulled together a batch of resources for marketers, both free and paid. You can check them out here.",
+                "fallback": "Annielytics.com: Free and Paid Resources For Marketers - Annielytics",
+                "image_url": "https:\/\/www.annielytics.com\/wp-content\/uploads\/2015\/05\/explainer-images-site-audit-template-1024x542.png",
+                "from_url": "https:\/\/www.annielytics.com\/resources\/",
+                "image_width": 472,
+                "image_height": 250,
+                "image_bytes": 253507,
+                "id": 1,
+                "original_url": "https:\/\/www.annielytics.com\/resources\/"
+            }
+        ],
+        "thread_ts": "1568329022.071900",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1568523880.003100",
+        "reply_users": [
+            "UM7QJPCVA",
+            "UJ99RGF7T",
+            "UJDPMTREY"
+        ],
+        "replies": [
+            {
+                "user": "UM7QJPCVA",
+                "ts": "1568334481.072400"
+            },
+            {
+                "user": "UJ99RGF7T",
+                "ts": "1568340487.072800"
+            },
+            {
+                "user": "UJ99RGF7T",
+                "ts": "1568340504.073000"
+            },
+            {
+                "user": "UM7QJPCVA",
+                "ts": "1568341898.073200"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1568376072.087500"
+            },
+            {
+                "user": "UM7QJPCVA",
+                "ts": "1568412502.092800"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1568413054.096900"
+            },
+            {
+                "user": "UM7QJPCVA",
+                "ts": "1568430915.000100"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1568461709.002200"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1568461956.002800"
+            },
+            {
+                "user": "UM7QJPCVA",
+                "ts": "1568523880.003100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJH5BJQG0",
+                    "UN29JC48H",
+                    "UJG24P8P6"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b36e8f5f-be74-42bd-8606-1e8b6336cd22",
+        "type": "message",
+        "text": "This is awesome, I can't believe I haven't heard of her! Have you purchased any of her auditing resources before? Was it worth it?",
+        "user": "UM7QJPCVA",
+        "ts": "1568334481.072400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9e26374b2565",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-10\/716280436769_9e26374b2565923c3173_72.jpg",
+            "first_name": "",
+            "real_name": "Tara McQuaide",
+            "display_name": "Tara McQuaide",
+            "team": "TJE58GTJL",
+            "name": "taralmcquaide",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568329022.071900",
+        "parent_user_id": "UJ99RGF7T"
+    },
+    {
+        "client_msg_id": "cabfca8a-433b-4924-a6c5-c22f48952841",
+        "type": "message",
+        "text": "<@UJE5LARL0> DM is fine :slightly_smiling_face:",
+        "user": "UJK7Z6NR4",
+        "ts": "1568335072.072600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gcb4dda45089",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1acb4dda4508976cbecb8427e2e5ac2e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Dennis",
+            "real_name": "Dennis",
+            "display_name": "Dennis",
+            "team": "TJE58GTJL",
+            "name": "edwarddennisseo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568259419.059000",
+        "parent_user_id": "UJK7Z6NR4"
+    },
+    {
+        "client_msg_id": "ac915bbc-5ecb-4881-baba-9e03aa4627f2",
+        "type": "message",
+        "text": "Haven't yet. She has an Excel book coming out soon that I might pick up.",
+        "user": "UJ99RGF7T",
+        "ts": "1568340487.072800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e60332ab67e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-28\/1267962402803_1e60332ab67e3e3d366b_72.png",
+            "first_name": "Andy",
+            "real_name": "Andy McIlwain",
+            "display_name": "Andy McIlwain (andymci)",
+            "team": "TJE58GTJL",
+            "name": "andy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568329022.071900",
+        "parent_user_id": "UJ99RGF7T"
+    },
+    {
+        "client_msg_id": "3927d0f5-d83c-4b47-b47b-f0fae58a0a33",
+        "type": "message",
+        "text": "But my \"to read\" pile is a bit of a backlog already :slightly_smiling_face:",
+        "user": "UJ99RGF7T",
+        "ts": "1568340504.073000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1e60332ab67e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-28\/1267962402803_1e60332ab67e3e3d366b_72.png",
+            "first_name": "Andy",
+            "real_name": "Andy McIlwain",
+            "display_name": "Andy McIlwain (andymci)",
+            "team": "TJE58GTJL",
+            "name": "andy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568329022.071900",
+        "parent_user_id": "UJ99RGF7T"
+    },
+    {
+        "client_msg_id": "c3c0ffad-1829-4ed4-bc5a-515d396fb083",
+        "type": "message",
+        "text": "Ha, totally understand... mine is as well. I'm interested in her auditing course only because I'm convinced it is organized in an actionable way. I've performed many audits but never fully documented the process and it feels as I almost rewrite that process each time as it becomes more forensic and the state of the site takes me in a different direction each time. Hard to justify $300 for content that is free online and works if you put more brain juice behind it. However, if her course is able to eliminate the time it takes to organize the chaos that comes with free content then it could be worth it :thinking_face:",
+        "user": "UM7QJPCVA",
+        "ts": "1568341898.073200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9e26374b2565",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-10\/716280436769_9e26374b2565923c3173_72.jpg",
+            "first_name": "",
+            "real_name": "Tara McQuaide",
+            "display_name": "Tara McQuaide",
+            "team": "TJE58GTJL",
+            "name": "taralmcquaide",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UM7QJPCVA",
+            "ts": "1568341930.000000"
+        },
+        "thread_ts": "1568329022.071900",
+        "parent_user_id": "UJ99RGF7T"
+    }
+]

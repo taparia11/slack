@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "75cee988-a4a4-47ed-a1ba-c7af5e641e40",
+        "type": "message",
+        "text": "I’ll be there! Booth L18 representing <http:\/\/getleverage.com|getleverage.com> !",
+        "user": "U02D5S7RR0R",
+        "ts": "1631207144.052600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e78349256533",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-30\/2433218173637_e78349256533676b82eb_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Dygert",
+            "display_name": "Dillon Dygert",
+            "team": "TJE58GTJL",
+            "name": "dillon.dygert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1l=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll be there! Booth L18 representing "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/getleverage.com",
+                                "text": "getleverage.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02D0R17068"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "client_msg_id": "6d2c9d85-afd7-417a-9e30-7efd4e1c869c",
+        "type": "message",
+        "text": "<https:\/\/wordpress.org\/plugins\/better-search-replace\/|Better Search Replace> - I know this works well for site migrations (i.e. finding all dev URLs and redirecting to the live site), as well as http-to-https migrations. I believe it would help with your example in some capacity, too. But I can’t say I’ve tried it personally.",
+        "user": "U02GBBRSX2Q",
+        "ts": "1643289029.112600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c8cdda223527",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2552370632677_c8cdda223527822e5b84_72.jpg",
+            "first_name": "Brian",
+            "real_name": "Brian Laffey",
+            "display_name": "Brian Laffey",
+            "team": "TJE58GTJL",
+            "name": "brian.p.laffey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02GBBRSX2Q",
+            "ts": "1643289122.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/wordpress.org\/plugins\/better-search-replace\/",
+                "image_url": "https:\/\/ps.w.org\/better-search-replace\/assets\/banner-1544x500.png?rev=1238934",
+                "image_width": 772,
+                "image_height": 250,
+                "image_bytes": 15735,
+                "service_icon": "https:\/\/s.w.org\/favicon.ico?2",
+                "id": 1,
+                "original_url": "https:\/\/wordpress.org\/plugins\/better-search-replace\/",
+                "fallback": "WordPress.org: Better Search Replace",
+                "text": "A simple plugin to update URLs or other text in a database.",
+                "title": "Better Search Replace",
+                "title_link": "https:\/\/wordpress.org\/plugins\/better-search-replace\/",
+                "service_name": "WordPress.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bM8W6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/plugins\/better-search-replace\/",
+                                "text": "Better Search Replace"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I know this works well for site migrations (i.e. finding all dev URLs and redirecting to the live site), as well as http-to-https migrations. I believe it would help with your example in some capacity, too. But I can’t say I’ve tried it personally."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643260661.112300",
+        "parent_user_id": "UL2E0QVB3",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UL2E0QVB3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84ea81c1-dba2-4499-9648-0aee9822b999",
+        "type": "message",
+        "text": "Thanks Brian!",
+        "user": "UL2E0QVB3",
+        "ts": "1643315229.118100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge9a383c24eb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/46e9a383c24ebc58aff0a71a2925d006.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Taru",
+            "real_name": "Taru",
+            "display_name": "Taru",
+            "team": "TJE58GTJL",
+            "name": "taru.bhargav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Brian!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643260661.112300",
+        "parent_user_id": "UL2E0QVB3"
+    },
+    {
+        "client_msg_id": "5922e81c-a439-4dbc-944e-81592ff3a3fd",
+        "type": "message",
+        "text": "<@UL2E0QVB3> no problem! Good luck on this project, too!",
+        "user": "U02GBBRSX2Q",
+        "ts": "1643327277.990069",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c8cdda223527",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2552370632677_c8cdda223527822e5b84_72.jpg",
+            "first_name": "Brian",
+            "real_name": "Brian Laffey",
+            "display_name": "Brian Laffey",
+            "team": "TJE58GTJL",
+            "name": "brian.p.laffey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UL2E0QVB3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no problem! Good luck on this project, too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643260661.112300",
+        "parent_user_id": "UL2E0QVB3",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-5",
+                "users": [
+                    "UL2E0QVB3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56358d71-7707-4774-b3c9-9f3d96f5fa59",
+        "type": "message",
+        "text": "Aside from MS Word or Google Docs, what software do you, or your writers, primarily write in?",
+        "user": "U02GYR8TM96",
+        "ts": "1643339684.094539",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f1f652ee1a88",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2556223130962_f1f652ee1a88d648e327_72.png",
+            "first_name": "David",
+            "real_name": "David Ramos",
+            "display_name": "David Ramos",
+            "team": "TJE58GTJL",
+            "name": "david.ramos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFOT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aside from MS Word or Google Docs, what software do you, or your writers, primarily write in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643339684.094539",
+        "reply_count": 9,
+        "reply_users_count": 8,
+        "latest_reply": "1643852413.557539",
+        "reply_users": [
+            "U02GYR8TM96",
+            "U02VBUQJM8B",
+            "U019H85CKFY",
+            "UJG9WTEKG",
+            "U01P13NTGG6",
+            "U02V08HJB8D",
+            "U02V46B3JRX",
+            "U031B8HB5FB"
+        ],
+        "replies": [
+            {
+                "user": "U02GYR8TM96",
+                "ts": "1643339736.726529"
+            },
+            {
+                "user": "U02VBUQJM8B",
+                "ts": "1643340302.431829"
+            },
+            {
+                "user": "U02VBUQJM8B",
+                "ts": "1643340476.502969"
+            },
+            {
+                "user": "U019H85CKFY",
+                "ts": "1643359195.430799"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1643388915.632119"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1643408067.173629"
+            },
+            {
+                "user": "U02V08HJB8D",
+                "ts": "1643563777.802419"
+            },
+            {
+                "user": "U02V46B3JRX",
+                "ts": "1643619259.082979"
+            },
+            {
+                "user": "U031B8HB5FB",
+                "ts": "1643852413.557539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1643852413.557539"
+    },
+    {
+        "client_msg_id": "04ae944b-19b6-4961-a8bf-79992c3c38c3",
+        "type": "message",
+        "text": "I know some draft directly in their CMS, but Im curious how popular that method actually is.",
+        "user": "U02GYR8TM96",
+        "ts": "1643339736.726529",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f1f652ee1a88",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2556223130962_f1f652ee1a88d648e327_72.png",
+            "first_name": "David",
+            "real_name": "David Ramos",
+            "display_name": "David Ramos",
+            "team": "TJE58GTJL",
+            "name": "david.ramos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know some draft directly in their CMS, but Im curious how popular that method actually is."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643339684.094539",
+        "parent_user_id": "U02GYR8TM96"
+    },
+    {
+        "client_msg_id": "dcb00a00-b751-49f6-882c-fb7c1516b7ba",
+        "type": "message",
+        "text": "I personally prefer MS word...",
+        "user": "U02VBUQJM8B",
+        "ts": "1643340302.431829",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "faf66bf9a738",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3020813983203_faf66bf9a73802267677_72.jpg",
+            "first_name": "Dinesh",
+            "real_name": "Dinesh Sitapara",
+            "display_name": "dinesh_sitapara",
+            "team": "TJE58GTJL",
+            "name": "contact.dpsitapara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8IgM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I personally prefer MS word..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643339684.094539",
+        "parent_user_id": "U02GYR8TM96",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GYR8TM96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65950fdb-b0fa-4f4c-9fab-0498dcd9f245",
+        "type": "message",
+        "text": "Because the formating and design only possible in word... best design templetes you can creat.",
+        "user": "U02VBUQJM8B",
+        "ts": "1643340476.502969",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "faf66bf9a738",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3020813983203_faf66bf9a73802267677_72.jpg",
+            "first_name": "Dinesh",
+            "real_name": "Dinesh Sitapara",
+            "display_name": "dinesh_sitapara",
+            "team": "TJE58GTJL",
+            "name": "contact.dpsitapara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D9Ny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because the formating and design only possible in word... best design templetes you can creat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643339684.094539",
+        "parent_user_id": "U02GYR8TM96"
+    }
+]

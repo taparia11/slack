@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "5a28efb3-9b7e-45ea-a2f2-9c4365c10e43",
+        "type": "message",
+        "text": "<!channel> Hey everyone! :wave: I would love some feedback on a new chat funnel I created for Ignite Spot's FB Page. I'm still trying to figure out how to trigger different offer flows from specific actions such as a page like, but I'm not sure if the only way you can start a conversation is if someone sends a message or clicks \"Get Started\" in messenger:\n<https:\/\/m.me\/ignitespot>",
+        "user": "UV5V2P0VB",
+        "ts": "1586751023.016400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3=+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey everyone! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I would love some feedback on a new chat funnel I created for Ignite Spot's FB Page. I'm still trying to figure out how to trigger different offer flows from specific actions such as a page like, but I'm not sure if the only way you can start a conversation is if someone sends a message or clicks \"Get Started\" in messenger:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.me\/ignitespot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586751023.016400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586801096.018600",
+        "reply_users": [
+            "UUX13DVK6",
+            "UV5V2P0VB"
+        ],
+        "replies": [
+            {
+                "user": "UUX13DVK6",
+                "ts": "1586784201.016600"
+            },
+            {
+                "user": "UV5V2P0VB",
+                "ts": "1586801096.018600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

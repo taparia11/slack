@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "eece7c07-036e-4664-8eb5-1f52f95e0918",
+        "type": "message",
+        "text": "Thanks <@U01MM4EAC69> :wave: I can't wait for the chat.",
+        "user": "U02546A8D2B",
+        "ts": "1626104557.250400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc21a9b9dd8b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c21a9b9dd8b7030a3e41d1cba4b7f72c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Ross Simmonds",
+            "display_name": "Ross Simmonds",
+            "team": "TJE58GTJL",
+            "name": "ross299",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBS6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01MM4EAC69"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can't wait for the chat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625841368.248000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01MM4EAC69",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97b87dbe-f693-41ba-a741-390f0f35f958",
+        "type": "message",
+        "text": "thanks <@U0244GX6QEB>, just fixed that!",
+        "user": "UJG9WTEKG",
+        "ts": "1626106714.250900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sfdRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0244GX6QEB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", just fixed that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623425935.129700",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

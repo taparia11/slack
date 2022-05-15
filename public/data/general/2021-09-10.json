@@ -1,0 +1,3485 @@
+[
+    {
+        "client_msg_id": "2076527f-20fb-4bd2-8ca9-a10ba85d2f33",
+        "type": "message",
+        "text": "<!here> it's time for an AMA!\nPlease say hello to <@UJG12DM1V>! Janessa Lantz is the VP of Marketing at dbt Labs (just raised $150m :rocket:). she previously worked at Hubspot, RJ Metrics and PeopleMetrics. she started her career as a marketing assistant and is now the VP of Marketing at a rocket ship startup. I can't really emphasize what an awesome career she's had so far. You can follow Janessa on Twitter at <https:\/\/twitter.com\/janessalantz|@janessalantz>. Suggested topics for this AMA:\n• career advice and lessons learned\n• getting into management\n• \"should i specialize!?\"\n• what's is like to market to devs?\nlet's do this!\nFun fact: she and I did a guest post swap in 2014!",
+        "user": "UJG9WTEKG",
+        "ts": "1631289646.014800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Janessa Lantz (@janessalantz) | Twitter",
+                "from_url": "https:\/\/twitter.com\/janessalantz",
+                "service_name": "twitter.com",
+                "service_icon": "https:\/\/abs.twimg.com\/icons\/apple-touch-icon-192x192.png",
+                "title": "Janessa Lantz (@janessalantz) | Twitter",
+                "title_link": "https:\/\/twitter.com\/janessalantz",
+                "text": "The latest Tweets from Janessa Lantz (@janessalantz). :rocket: VP of marketing @dbt_labs brand &amp; community-oriented marketing leader selling data software :sweat_smile: I talk about feelings and \"politics\" at work",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/janessalantz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jJt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it's time for an AMA!\nPlease say hello to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Janessa Lantz is the VP of Marketing at dbt Labs (just raised $150m "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). she previously worked at Hubspot, RJ Metrics and PeopleMetrics. she started her career as a marketing assistant and is now the VP of Marketing at a rocket ship startup. I can't really emphasize what an awesome career she's had so far. You can follow Janessa on Twitter at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/janessalantz",
+                                "text": "@janessalantz",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Suggested topics for this AMA:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "career advice and lessons learned"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "getting into management"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"should i specialize!?\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "what's is like to market to devs?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let's do this!\nFun fact: she and I did a guest post swap in 2014!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U01EJ7VE9FD",
+                    "UV5V2P0VB",
+                    "U02E3HRTSGY",
+                    "UJE5LQ2JC",
+                    "U02E54C0P97",
+                    "U02A8UR3Z60"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc3d1930-6035-4023-b33f-7699d5083503",
+        "type": "message",
+        "text": "i'll kick things off. <@UJG12DM1V> can you talk a little about marketing to developers? i feel like this scares some of us non-technical folks off, but also seems like a world that is pretty rich with opportunity for content folks.",
+        "user": "UJG9WTEKG",
+        "ts": "1631289724.016600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'll kick things off. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you talk a little about marketing to developers? i feel like this scares some of us non-technical folks off, but also seems like a world that is pretty rich with opportunity for content folks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289724.016600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1631289886.022500",
+        "reply_users": [
+            "UJG12DM1V"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631289886.022500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631289886.022500",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02E3HRTSGY",
+                    "U01EJ7VE9FD",
+                    "UJ7RT1J1X",
+                    "U02D0R17068"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "652f2dcb-11bb-48c2-961d-6875b80a14a0",
+        "type": "message",
+        "text": "been looking forward to this :slightly_smiling_face: i have a couple i'll post separately.\n\nYou've worked on some quite technical products like RJMetrics and dbt - how did you work to deeply understand the product and audience, coming from a non-technical background?",
+        "user": "U01EJ7VE9FD",
+        "ts": "1631289754.017600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "abPpX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "been looking forward to this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i have a couple i'll post separately.\n\nYou've worked on some quite technical products like RJMetrics and dbt - how did you work to deeply understand the product and audience, coming from a non-technical background?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289754.017600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1631291272.039900",
+        "reply_users": [
+            "UJG12DM1V",
+            "U01EJ7VE9FD"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631291207.039300"
+            },
+            {
+                "user": "U01EJ7VE9FD",
+                "ts": "1631291272.039900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "UV5V2P0VB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fb9331b-43d5-47fa-94e0-071a0c62d10a",
+        "type": "message",
+        "text": "Hi Janessa! I've seen you around here and twitter and have been curious — you're someone with a content background who now leads all of marketing. What has that transition been like, and what are the areas that you had to learn up on quickly?",
+        "user": "UJ7RT1J1X",
+        "ts": "1631289799.019400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3344738d2bc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-17\/1076357263828_3344738d2bc26736e62e_72.jpg",
+            "first_name": "Benyamin",
+            "real_name": "Benyamin Elias",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benyamin.elias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eem",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Janessa! I've seen you around here and twitter and have been curious — you're someone with a content background who now leads all of marketing. What has that transition been like, and what are the areas that you had to learn up on quickly?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289799.019400",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1631824321.083100",
+        "reply_users": [
+            "UJG12DM1V",
+            "UJG9WTEKG",
+            "UJ7RT1J1X",
+            "U01G7PRL3HQ"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631290183.025300"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631290208.025700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1631290695.032600"
+            },
+            {
+                "user": "UJ7RT1J1X",
+                "ts": "1631291307.040100"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631291840.042700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1631292091.044100"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631293013.050200"
+            },
+            {
+                "user": "U01G7PRL3HQ",
+                "ts": "1631823622.082500"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631824321.083100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631824321.083100",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02E54C0P97",
+                    "U01EJ7VE9FD",
+                    "UV5V2P0VB",
+                    "U02E3HRTSGY",
+                    "UJE5LQ2JC",
+                    "U02D1E37FL5",
+                    "U024A8928AW",
+                    "U02A8UR3Z60",
+                    "U02CUM38FUK"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3592641e-4e42-4a94-b5d5-e6cf8994728d",
+        "type": "message",
+        "text": "Hey Janessa! Apart from people, pay, and growth trajectory (and the job of course), what do you think about when considering a change\/job offer?",
+        "user": "U027Y13JVPD",
+        "ts": "1631289822.020500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "47ce2bd2c00e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-13\/2270899458627_47ce2bd2c00e93208c62_72.jpg",
+            "first_name": "",
+            "real_name": "Hanne Keiling",
+            "display_name": "Hanne Keiling",
+            "team": "TJE58GTJL",
+            "name": "hanne.keiling",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6D84",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Janessa! Apart from people, pay, and growth trajectory (and the job of course), what do you think about when considering a change\/job offer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289822.020500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1631290381.027300",
+        "reply_users": [
+            "UJG12DM1V"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631290381.027300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0ada4f31-60c0-4780-a2a0-056053b9613c",
+        "type": "message",
+        "text": "mine's similar to <@UJ7RT1J1X>’s :smile: Do you have any general advice for others looking long-term to grow from a content-focused role to a broader marketing leadership position? Like how to take on more, how to prove yourself?",
+        "user": "U01EJ7VE9FD",
+        "ts": "1631289826.020800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "id2f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mine's similar to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ7RT1J1X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you have any general advice for others looking long-term to grow from a content-focused role to a broader marketing leadership position? Like how to take on more, how to prove yourself?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289826.020800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631291168.038800",
+        "reply_users": [
+            "UJG12DM1V",
+            "U01EJ7VE9FD",
+            "U013K9AEHR7"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631290930.036800"
+            },
+            {
+                "user": "U01EJ7VE9FD",
+                "ts": "1631291148.038600"
+            },
+            {
+                "user": "U013K9AEHR7",
+                "ts": "1631291168.038800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UV5V2P0VB",
+                    "U013K9AEHR7",
+                    "U02E54C0P97",
+                    "UJE5LQ2JC",
+                    "U02D1E37FL5"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44f96135-917f-453c-9b3f-d6d025b2b595",
+        "type": "message",
+        "text": "For inhouse entry level content writers we pay 45-55k CAD annually in Toronto.",
+        "user": "UUKNSLX9P",
+        "ts": "1631289831.021000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge4d7f5bd91d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4d7f5bd91da1df74fcdb33d42f21121.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Eilis",
+            "real_name": "Eilis McCann",
+            "display_name": "Eilis McCann",
+            "team": "TJE58GTJL",
+            "name": "e.mccann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUKNSLX9P",
+            "ts": "1631289843.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For inhouse entry level content writers we pay 45-55k CAD annually in Toronto."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628252422.137100",
+        "parent_user_id": "U021NRECBRT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U021NRECBRT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0396b05e-5f92-4564-a367-8bfc889698d4",
+        "type": "message",
+        "text": "Well I'm currently recruiting so obviously I'm going to say this is a friggin' great career path :smile:\n\nSeriously though, the market for developer tooling is exploding. There is a TON of opportunity here. IMO the main thing that it takes for marketers to be successful here is just exceptionally good collaboration. Because you're not marketing to yourself you have to cultivate a lot of humbleness \/ low ego, and then build partnerships with people who _are_ the audience.\n\nMarketers marketing to marketers are the loudest marketers with the easiest jobs, JOIN US!!!! The marketers who market to non-marketing personas!",
+        "user": "UJG12DM1V",
+        "ts": "1631289886.022500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=0sj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well I'm currently recruiting so obviously I'm going to say this is a friggin' great career path "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSeriously though, the market for developer tooling is exploding. There is a TON of opportunity here. IMO the main thing that it takes for marketers to be successful here is just exceptionally good collaboration. Because you're not marketing to yourself you have to cultivate a lot of humbleness \/ low ego, and then build partnerships with people who "
+                            },
+                            {
+                                "type": "text",
+                                "text": "are",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " the audience.\n\nMarketers marketing to marketers are the loudest marketers with the easiest jobs, JOIN US!!!! The marketers who market to non-marketing personas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289724.016600",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U01EJ7VE9FD",
+                    "UJG9WTEKG",
+                    "UV5V2P0VB",
+                    "U02A8UR3Z60",
+                    "U02333AMCUW",
+                    "U01G7PRL3HQ",
+                    "U019MUQNH5H"
+                ],
+                "count": 7
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U02E54C0P97",
+                    "UJG9WTEKG",
+                    "U016LHA1BHP",
+                    "U01PLSB4EKD"
+                ],
+                "count": 4
+            },
+            {
+                "name": "computer",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02625MJG3W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41a14fba-635d-4492-98bf-975f23538a1c",
+        "type": "message",
+        "text": "Hey Janessa. Welcome! My question is a little different. What are some of the mistakes that you've learned the most from?",
+        "user": "ULKUFTFPW",
+        "ts": "1631289915.023000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05a6aa1af83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1851102748596_05a6aa1af83c15a830e7_72.jpg",
+            "first_name": "David",
+            "real_name": "David C Hoos",
+            "display_name": "David Hoos",
+            "team": "TJE58GTJL",
+            "name": "david.c.hoos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ur7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Janessa. Welcome! My question is a little different. What are some of the mistakes that you've learned the most from?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289915.023000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1631296831.052500",
+        "reply_users": [
+            "UJG12DM1V",
+            "ULKUFTFPW"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631290665.031500"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631290676.032000"
+            },
+            {
+                "user": "ULKUFTFPW",
+                "ts": "1631296831.052500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c40face4-5223-4fa5-bda8-211b8ec73249",
+        "type": "message",
+        "text": ":wave: Hi Janessa, Curious about your goals for your marketing team in the next few months?",
+        "user": "UV5V2P0VB",
+        "ts": "1631290007.024000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2m8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Janessa, Curious about your goals for your marketing team in the next few months?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290007.024000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1631291685.041200",
+        "reply_users": [
+            "UJG12DM1V",
+            "UV5V2P0VB"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631291444.040800"
+            },
+            {
+                "user": "UV5V2P0VB",
+                "ts": "1631291685.041200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5a9b7854-aba0-436f-bbac-084b301d9077",
+        "type": "message",
+        "text": "<@UJG12DM1V>! - Would love some of the companies (SaaS or not!) that you admire when it comes to marketing \/ content \/ editorial \/ events etc\n\nSecond question: what is the best restaurant in Philadelphia?",
+        "user": "UJE5LQ2JC",
+        "ts": "1631290054.025100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! - Would love some of the companies (SaaS or not!) that you admire when it comes to marketing \/ content \/ editorial \/ events etc\n\nSecond question: what is the best restaurant in Philadelphia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "reply_count": 11,
+        "reply_users_count": 4,
+        "latest_reply": "1631291745.041700",
+        "reply_users": [
+            "U02CVNB3X1T",
+            "UJG9WTEKG",
+            "U02BTBBH887",
+            "UJG12DM1V"
+        ],
+        "replies": [
+            {
+                "user": "U02CVNB3X1T",
+                "ts": "1631290213.026000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1631290799.034900"
+            },
+            {
+                "user": "U02BTBBH887",
+                "ts": "1631291043.037300"
+            },
+            {
+                "user": "U02CVNB3X1T",
+                "ts": "1631291072.037500"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1631291090.037900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1631291126.038200"
+            },
+            {
+                "user": "U02CVNB3X1T",
+                "ts": "1631291134.038400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1631291376.040500"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631291523.041000"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631291691.041400"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631291745.041700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631291745.041700"
+    },
+    {
+        "client_msg_id": "bc6d57a4-46ec-4e69-869f-fd94d37fb642",
+        "type": "message",
+        "text": "What has it been like? Humbling :smile:\n\nIf I could travel back in time I would have spent a lot more time early in my career asking what was happening to the leads I was creating -- understanding the SDR process, measurement, how sales people manage deals, why we were winning \/losing deals.\n\nIt's been a big learning curve for me!\n\nBut also...manageable. I have a great sales partner and revenue operations partners. I have been extremely open about this being my first role owning a pipeline \/ revenue number and I ask a lot of questions and sometimes the same questions multiple times.",
+        "user": "UJG12DM1V",
+        "ts": "1631290183.025300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "49961",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What has it been like? Humbling "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf I could travel back in time I would have spent a lot more time early in my career asking what was happening to the leads I was creating -- understanding the SDR process, measurement, how sales people manage deals, why we were winning \/losing deals.\n\nIt's been a big learning curve for me!\n\nBut also...manageable. I have a great sales partner and revenue operations partners. I have been extremely open about this being my first role owning a pipeline \/ revenue number and I ask a lot of questions and sometimes the same questions multiple times."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289799.019400",
+        "parent_user_id": "UJ7RT1J1X",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "UV5V2P0VB",
+                    "UJG9WTEKG",
+                    "UJ7RT1J1X",
+                    "U02333AMCUW",
+                    "U01G7PRL3HQ",
+                    "U019MUQNH5H"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0aa367e-133f-4931-afcc-98d4e11d36d8",
+        "type": "message",
+        "text": "Benyamin, thanks for showing up! I have also seen your name around many many times!",
+        "user": "UJG12DM1V",
+        "ts": "1631290208.025700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Benyamin, thanks for showing up! I have also seen your name around many many times!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289799.019400",
+        "parent_user_id": "UJ7RT1J1X",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UJ7RT1J1X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e05edb45-f3e6-4cb8-a338-d7b11c7dec04",
+        "type": "message",
+        "text": "<@UJE5LQ2JC> Can't go wrong with the Standard Tap.",
+        "user": "U02CVNB3X1T",
+        "ts": "1631290213.026000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a98cd79fc67b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-28\/2891088304196_a98cd79fc67b29986082_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Simpson",
+            "display_name": "Julie Simpson",
+            "team": "TJE58GTJL",
+            "name": "jujuklu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZUz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LQ2JC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can't go wrong with the Standard Tap."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UJE5LQ2JC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de712c26-97d9-423f-85c5-48a3c4b0abad",
+        "type": "message",
+        "text": "What my strengths are, and what I want to nurture \/ learn.\n\nAt this point in my career I know that my greatest strengths are not in performance marketing, but I'm quite good at brand \/ community. The companies where I am going to have the biggest impact are going to be companies who value that and want what I am selling.\n\nI think that's important for every role. You want to be careful about taking a job that doesn't play to your core strengths.",
+        "user": "UJG12DM1V",
+        "ts": "1631290381.027300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K7cV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What my strengths are, and what I want to nurture \/ learn.\n\nAt this point in my career I know that my greatest strengths are not in performance marketing, but I'm quite good at brand \/ community. The companies where I am going to have the biggest impact are going to be companies who value that and want what I am selling.\n\nI think that's important for every role. You want to be careful about taking a job that doesn't play to your core strengths."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289822.020500",
+        "parent_user_id": "U027Y13JVPD",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV5V2P0VB",
+                    "U02E54C0P97",
+                    "U02625MJG3W",
+                    "U027Y13JVPD",
+                    "U02333AMCUW",
+                    "U01G7PRL3HQ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U027Y13JVPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59c2bbc1-c5a4-48c0-8755-da49bae21f6c",
+        "type": "message",
+        "text": "Hey David! :wave:\n\nGosh..what a subtle way of asking for my biggest mistakes...which are always the ones we learn the most from :sweat_smile:\n\nRecently, I've become more aware of a small mistake that I have made many, many times, which is not persisting through the hard things. Understanding the business through the lens of data has always really overwhelmed me so I just avoided it until I ended up leading a marketing team at a data company and truly could not avoid it anymore. But the experience over the past few months of persisting through this has been really wonderful and revealing for me. In retrospect, I can look back at times that I wish I had done more of this.\n\nThere is something to be said for playing to your strengths, but also I am discovering how personally rewarding it is to bulk up on weak areas.",
+        "user": "UJG12DM1V",
+        "ts": "1631290665.031500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4S5K5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey David! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nGosh..what a subtle way of asking for my biggest mistakes...which are always the ones we learn the most from "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nRecently, I've become more aware of a small mistake that I have made many, many times, which is not persisting through the hard things. Understanding the business through the lens of data has always really overwhelmed me so I just avoided it until I ended up leading a marketing team at a data company and truly could not avoid it anymore. But the experience over the past few months of persisting through this has been really wonderful and revealing for me. In retrospect, I can look back at times that I wish I had done more of this.\n\nThere is something to be said for playing to your strengths, but also I am discovering how personally rewarding it is to bulk up on weak areas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289915.023000",
+        "parent_user_id": "ULKUFTFPW",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "UV5V2P0VB",
+                    "UJG9WTEKG",
+                    "U01V7CQKP3N"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01c4ee1c-54de-42c5-bd1a-1d1338ddea77",
+        "type": "message",
+        "text": "ok...what's yours? :smile:",
+        "user": "UJG12DM1V",
+        "ts": "1631290676.032000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Cp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok...what's yours? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289915.023000",
+        "parent_user_id": "ULKUFTFPW"
+    },
+    {
+        "client_msg_id": "eb5658b4-c582-43eb-b535-60cdcc36f39c",
+        "type": "message",
+        "text": "\"I ask a lot of questions and sometimes the same questions multiple times\" :point_left: honestly love this advice. it can be so tempting to skip this bc it can feel weird",
+        "user": "UJG9WTEKG",
+        "ts": "1631290695.032600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Rwl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I ask a lot of questions and sometimes the same questions multiple times\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_left"
+                            },
+                            {
+                                "type": "text",
+                                "text": " honestly love this advice. it can be so tempting to skip this bc it can feel weird"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289799.019400",
+        "parent_user_id": "UJ7RT1J1X",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "URLKJLWKS",
+                    "U01G7PRL3HQ",
+                    "U01PLSB4EKD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfbbccfd-ca30-4810-b290-f95f9e25708b",
+        "type": "message",
+        "text": "personally, i'd go with Wawa",
+        "user": "UJG9WTEKG",
+        "ts": "1631290799.034900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MJme",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "personally, i'd go with Wawa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "UV5V2P0VB",
+                    "U013K9AEHR7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ffdbf7e2-5432-4933-ab8c-6858824c451d",
+        "type": "message",
+        "text": "Hey <@UJG12DM1V>, what are 3 hard skills according to you that can help content marketers:\n\n1. grow to a broader leadership role?\n2. stand out and be in the top 5%(ish)?",
+        "user": "U02E54C0P97",
+        "ts": "1631290862.036200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "222b2c2f5f61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-09\/2480015416772_222b2c2f5f61fd626a46_72.jpg",
+            "first_name": "Surbhi",
+            "real_name": "Surbhi Saraf",
+            "display_name": "Surbhi Saraf",
+            "team": "TJE58GTJL",
+            "name": "surbhi.saraf11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gv8K4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", what are 3 hard skills according to you that can help content marketers:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "grow to a broader leadership role?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "stand out and be in the top 5%(ish)?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290862.036200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1631292697.048200",
+        "reply_users": [
+            "UJG12DM1V"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631292697.048200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "926f1d64-e6e6-4526-9a2e-f9c60773a4f9",
+        "type": "message",
+        "text": "Hey Janessa! What is your process for collaborating with your product and R&amp;D teams to create content that will be valuable for the engineering community? Our product is also highly technical data product and my team cannot write great content without their input. The problem, like all data teams, they're strapped on time. Turnaround for some content initiatives can get drawn out. (Side note: Not sure if you're in Philly, but I know dbt is headquartered there. Myself and a couple others on our US team are here as well if you're ever open to connecting :slightly_smiling_face:)",
+        "user": "U02BTBBH887",
+        "ts": "1631290873.036400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b12a95701c8d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-25\/2417682161141_b12a95701c8dc9a34e69_72.jpg",
+            "first_name": "John",
+            "real_name": "John Blust",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "johnblust",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovQ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Janessa! What is your process for collaborating with your product and R&D teams to create content that will be valuable for the engineering community? Our product is also highly technical data product and my team cannot write great content without their input. The problem, like all data teams, they're strapped on time. Turnaround for some content initiatives can get drawn out. (Side note: Not sure if you're in Philly, but I know dbt is headquartered there. Myself and a couple others on our US team are here as well if you're ever open to connecting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290873.036400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1631292764.048600",
+        "reply_users": [
+            "UJG12DM1V",
+            "U02BTBBH887"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631292243.046900"
+            },
+            {
+                "user": "U02BTBBH887",
+                "ts": "1631292764.048600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U02625MJG3W",
+                    "UV5V2P0VB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d8a4355-aa64-4bd9-91f0-7431b40e019c",
+        "type": "message",
+        "text": "Great question and one that I've had top of mind for the last few weeks. I've been trying to implement a \"check community posts\" window into my mornings with mixed success, but definitely feeling inspired to be a bit more regular about it after reading folks' thoughts here :slightly_smiling_face:",
+        "user": "U02625MJG3W",
+        "ts": "1631290893.036500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eb63dbb8c37a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-23\/2197164176230_eb63dbb8c37a7c141608_72.png",
+            "first_name": "Allie",
+            "real_name": "Allie Dyer Bluemel",
+            "display_name": "Allie",
+            "team": "TJE58GTJL",
+            "name": "allie202",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0uQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great question and one that I've had top of mind for the last few weeks. I've been trying to implement a \"check community posts\" window into my mornings with mixed success, but definitely feeling inspired to be a bit more regular about it after reading folks' thoughts here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628512218.150100",
+        "parent_user_id": "U01GLCVCT89",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01GLCVCT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b778b7ca-f6a9-4206-a94f-ca4db8138e58",
+        "type": "message",
+        "text": "1. Become real and actual friends with sellers on your team -- get to know them, understand their day, how they think about the world, what is stressing them out, why they are losing deals, why they are winning deals\n2. You don't need to be a product marketer, but the PMM toolset is very valuable. I did product marketing at two startups before I realized it was product marketing. You just gotta start from understanding your ideal customer profile. \n3. Think outside your function. Marketers get can be very myopic IMO -- we get obsessed with blog traffic numbers, or growth of this channel or that channel. It's fun!!! But eventually, you have to connect that to what the rest of the business is doing. This doesn't mean you need to prove ROI on every tweet - just that it's worth understanding how your work intersects with other folks in the org. \nThose are a few that feel top of mind, certainly not a complete list.\n\nAnything you might add to this list, Keri?",
+        "user": "UJG12DM1V",
+        "ts": "1631290930.036800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGso",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Become real and actual friends with sellers on your team -- get to know them, understand their day, how they think about the world, what is stressing them out, why they are losing deals, why they are winning deals"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You don't need to be a product marketer, but the PMM toolset is very valuable. I did product marketing at two startups before I realized it was product marketing. You just gotta start from understanding your ideal customer profile. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Think outside your function. Marketers get can be very myopic IMO -- we get obsessed with blog traffic numbers, or growth of this channel or that channel. It's fun!!! But eventually, you have to connect that to what the rest of the business is doing. This doesn't mean you need to prove ROI on every tweet - just that it's worth understanding how your work intersects with other folks in the org. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThose are a few that feel top of mind, certainly not a complete list.\n\nAnything you might add to this list, Keri?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289826.020800",
+        "parent_user_id": "U01EJ7VE9FD",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01EJ7VE9FD",
+                    "U02E54C0P97",
+                    "U02625MJG3W",
+                    "U02CA168D7Y",
+                    "UJE5LQ2JC",
+                    "URLKJLWKS",
+                    "U01G7PRL3HQ",
+                    "U019MUQNH5H"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "530361c9-9368-46c1-9b7d-93607f8a8293",
+        "type": "message",
+        "text": "WM Mulherin's Sons :drooling_face:",
+        "user": "U02BTBBH887",
+        "ts": "1631291043.037300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b12a95701c8d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-25\/2417682161141_b12a95701c8dc9a34e69_72.jpg",
+            "first_name": "John",
+            "real_name": "John Blust",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "johnblust",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xwz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WM Mulherin's Sons "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "drooling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "92f63675-7a62-4357-a81e-84f90ef59983",
+        "type": "message",
+        "text": "<@UJG9WTEKG> After living in Jersey for 5 years with a WaWa down the block, people who are not from there don't understand the want\/desire for a Wawa coffee with a sub sandwich. The craving is real. I've had friends who still live there send me coffee.",
+        "user": "U02CVNB3X1T",
+        "ts": "1631291072.037500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a98cd79fc67b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-28\/2891088304196_a98cd79fc67b29986082_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Simpson",
+            "display_name": "Julie Simpson",
+            "team": "TJE58GTJL",
+            "name": "jujuklu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4IIk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " After living in Jersey for 5 years with a WaWa down the block, people who are not from there don't understand the want\/desire for a Wawa coffee with a sub sandwich. The craving is real. I've had friends who still live there send me coffee."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "b87a86ae-dcc8-4a98-a83b-03180ba64ad2",
+        "type": "message",
+        "text": "i miss it so much!",
+        "user": "UJG9WTEKG",
+        "ts": "1631291090.037900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJLOi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i miss it so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "be046f9a-1a7c-46ac-94ec-cb63af999f86",
+        "type": "message",
+        "text": "i'd order their iced coffee by the barrel if it were an option",
+        "user": "UJG9WTEKG",
+        "ts": "1631291126.038200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yx02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'd order their iced coffee by the barrel if it were an option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "60669880-8635-417e-b390-e3f9b5d8bec8",
+        "type": "message",
+        "text": "So much. And it's also so gross. Like, nasty WaWa coffee with some mysterious creamer? But...I can't stop, won't stop.",
+        "user": "U02CVNB3X1T",
+        "ts": "1631291134.038400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a98cd79fc67b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-28\/2891088304196_a98cd79fc67b29986082_72.png",
+            "first_name": "Julie",
+            "real_name": "Julie Simpson",
+            "display_name": "Julie Simpson",
+            "team": "TJE58GTJL",
+            "name": "jujuklu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So much. And it's also so gross. Like, nasty WaWa coffee with some mysterious creamer? But...I can't stop, won't stop."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "c16111e8-5f9b-426d-bdc8-2d5372129d31",
+        "type": "message",
+        "text": "love it... this is totally in line with my experience as well. looking beyond your own KPIs to how your work fits into the broader business strategy.\n\nlike you said in #1, asking questions is so key. i think being humble and asking questions is so underrated.\n\npeople (definitely including me!) are afraid to look dumb so they don't ask questions. i try to work hard to overcome that hesitation and ask for clarity when I don't 100% understand something. good wording: \"can you help me better understand X?\"",
+        "user": "U01EJ7VE9FD",
+        "ts": "1631291148.038600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "love it... this is totally in line with my experience as well. looking beyond your own KPIs to how your work fits into the broader business strategy.\n\nlike you said in #1, asking questions is so key. i think being humble and asking questions is so underrated.\n\npeople (definitely including me!) are afraid to look dumb so they don't ask questions. i try to work hard to overcome that hesitation and ask for clarity when I don't 100% understand something. good wording: \"can you help me better understand X?\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289826.020800",
+        "parent_user_id": "U01EJ7VE9FD",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01AU94TABA",
+                    "U02333AMCUW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59dac38f-7f00-4aee-bb71-8305bf860b10",
+        "type": "message",
+        "text": "\"Think outside your function\" - We often stay in the same lane because we don't challenge ourselves to go beyond. Love this advice!",
+        "user": "U013K9AEHR7",
+        "ts": "1631291168.038800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "25a435a6dd5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-07\/1103301214886_25a435a6dd5efeaa1a8c_72.jpg",
+            "first_name": "Anna",
+            "real_name": "Anna Gomez",
+            "display_name": "Anna Gomez",
+            "team": "TJE58GTJL",
+            "name": "anna.gomez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7o7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Think outside your function\" - We often stay in the same lane because we don't challenge ourselves to go beyond. Love this advice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289826.020800",
+        "parent_user_id": "U01EJ7VE9FD",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01EJ7VE9FD",
+                    "U02E54C0P97",
+                    "UJE5LQ2JC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6103644-e67f-46ad-96da-3ec3dd8fdd39",
+        "type": "message",
+        "text": "Overcoming my fear of asking very, very stupid questions :smile:\n\nThat's only half a joke.\n\nI didn't set out to build a career in data, but at this point, I've done 6 some years in the data industry. So I guess one thing is just -- time!\n\nBut also, building technical skills. When I joined dbt Labs I downloaded the open source version of dbt on my local machine (with help!). I learned SQL. I made changes to our dbt models and deployed them into production. Our websites were all static sites as well so I learned how to make changes to YAML and CSS, use git, pull request etiquette, etc.\n\nAt some point, you just have to put the repetitions in.\n\nThere is SO MUCH _mystery_ around _technical_ skills and honestly? they are all quite learnable. I'm not a SQL master by any means, but I can pull some data. I'm not a front end engineer but it is quite easy to learn some Git commands. Find a technical partner willing to answer questions and learn it! It's legitimately fun and not scary at all",
+        "user": "UJG12DM1V",
+        "ts": "1631291207.039300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG12DM1V",
+            "ts": "1631291219.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jv\/1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Overcoming my fear of asking very, very stupid questions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThat's only half a joke.\n\nI didn't set out to build a career in data, but at this point, I've done 6 some years in the data industry. So I guess one thing is just -- time!\n\nBut also, building technical skills. When I joined dbt Labs I downloaded the open source version of dbt on my local machine (with help!). I learned SQL. I made changes to our dbt models and deployed them into production. Our websites were all static sites as well so I learned how to make changes to YAML and CSS, use git, pull request etiquette, etc.\n\nAt some point, you just have to put the repetitions in.\n\nThere is SO MUCH "
+                            },
+                            {
+                                "type": "text",
+                                "text": "mystery",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " around "
+                            },
+                            {
+                                "type": "text",
+                                "text": "technical",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " skills and honestly? they are all quite learnable. I'm not a SQL master by any means, but I can pull some data. I'm not a front end engineer but it is quite easy to learn some Git commands. Find a technical partner willing to answer questions and learn it! It's legitimately fun and not scary at all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289754.017600",
+        "parent_user_id": "U01EJ7VE9FD",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01PLSB4EKD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "475440a7-b834-4034-9617-8faa03ff09e9",
+        "type": "message",
+        "text": "awesome, thanks so much <@UJG12DM1V> :slightly_smiling_face: i was just saying in the other thread, being willing to ask those \"dumb questions\" is so key! and so many devs are very happy to explain",
+        "user": "U01EJ7VE9FD",
+        "ts": "1631291272.039900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifMsY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome, thanks so much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i was just saying in the other thread, being willing to ask those \"dumb questions\" is so key! and so many devs are very happy to explain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289754.017600",
+        "parent_user_id": "U01EJ7VE9FD",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJG12DM1V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35976250-1c08-4255-8d07-eabafa1c6a79",
+        "type": "message",
+        "text": "Thanks for doing this <@UJG12DM1V>! And yes, love the same thing that <@UJG9WTEKG> commented one — and surprisingly often the \"obvious\" question I'm not clear on is also not clear to other people",
+        "user": "UJ7RT1J1X",
+        "ts": "1631291307.040100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3344738d2bc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-17\/1076357263828_3344738d2bc26736e62e_72.jpg",
+            "first_name": "Benyamin",
+            "real_name": "Benyamin Elias",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benyamin.elias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xom",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for doing this "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! And yes, love the same thing that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " commented one — and surprisingly often the \"obvious\" question I'm not clear on is also not clear to other people"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289799.019400",
+        "parent_user_id": "UJ7RT1J1X"
+    },
+    {
+        "client_msg_id": "9df05e32-8acc-424e-868a-c8786d6401cb",
+        "type": "message",
+        "text": ":laughing:",
+        "user": "UJG9WTEKG",
+        "ts": "1631291376.040500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9UH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "bd52f8fd-5833-428f-9c74-bc1dec4295b7",
+        "type": "message",
+        "text": "Hi Kisha!!\n\nWe launched a rebrand and new website in June and have been very focused on building our campaign muscle. We also released a podcast in June that is already averaging 1100 downloads \/ episode which I am soooo happy about!\n\nHeading into Q4 our focus is shifting into...\n• Hosting our 2nd user conference -- Coalesce (online). \n• Dipping our toes into paid advertising\n• A new content series aimed at building search traffic that targets SQL users who do not yet use dbt (the perfect audience for us!)\n• Building our field marketing capabilities! We're hiring a team leader for this function",
+        "user": "UJG12DM1V",
+        "ts": "1631291444.040800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4gd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Kisha!!\n\nWe launched a rebrand and new website in June and have been very focused on building our campaign muscle. We also released a podcast in June that is already averaging 1100 downloads \/ episode which I am soooo happy about!\n\nHeading into Q4 our focus is shifting into...\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hosting our 2nd user conference -- Coalesce (online). "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dipping our toes into paid advertising"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A new content series aimed at building search traffic that targets SQL users who do not yet use dbt (the perfect audience for us!)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Building our field marketing capabilities! We're hiring a team leader for this function"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290007.024000",
+        "parent_user_id": "UV5V2P0VB",
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "UV5V2P0VB",
+                    "U01G7PRL3HQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "413d6cc1-c243-4ac2-b3b4-b069ecae3091",
+        "type": "message",
+        "text": "WaWa :joy: Amazing.\n\nidk, Sean. I LOVE Santucci's pizza. It is my one regret about living in West Philadelphia.",
+        "user": "UJG12DM1V",
+        "ts": "1631291523.041000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "isa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WaWa "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Amazing.\n\nidk, Sean. I LOVE Santucci's pizza. It is my one regret about living in West Philadelphia."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC",
+        "reactions": [
+            {
+                "name": "tomato",
+                "users": [
+                    "UJE5LQ2JC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02CVNB3X1T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a834889-276d-4c36-b202-19a65229d101",
+        "type": "message",
+        "text": "That sounds awesome! It's inspiring to see the community you're building at dbt Labs. Podcasts and online communities are on my marketing team's wish list.",
+        "user": "UV5V2P0VB",
+        "ts": "1631291685.041200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b963a4f6c3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1246962521462_e1b963a4f6c36fbd03b2_72.jpg",
+            "first_name": "Kisha",
+            "real_name": "Kisha Velazquez",
+            "display_name": "Kisha Velazquez",
+            "team": "TJE58GTJL",
+            "name": "markishacobourne",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sep",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds awesome! It's inspiring to see the community you're building at dbt Labs. Podcasts and online communities are on my marketing team's wish list."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290007.024000",
+        "parent_user_id": "UV5V2P0VB"
+    },
+    {
+        "client_msg_id": "01e8b7ae-2da4-40ec-9d7f-1a3d3ee44d19",
+        "type": "message",
+        "text": "HashiCorp is just a phenomenal company on so many fronts -- great products, great developer community, great leaders, great brand. I look to them for inspiration on so many things.\n\nHubSpot remains a leader from a cultural perspective. I learned so much from my time there. For example, when I joined dbt Labs I got to introduce the team to the joy of hiring plans (something HubSpot did really well) and my new 12-person team was like \"wow! this is so cool! we've never seen anything like this\" :smile: so that was fun.\n\nGitLab from an operational perspective and a transparency. Any remote-first company has to pay attention to GitLab. They publish their internal handbook publicly and I have referenced it so many times to see how they do \/ think about things. I don't always agree with them, but learning from them is invaluable.",
+        "user": "UJG12DM1V",
+        "ts": "1631291691.041400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8uhu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HashiCorp is just a phenomenal company on so many fronts -- great products, great developer community, great leaders, great brand. I look to them for inspiration on so many things.\n\nHubSpot remains a leader from a cultural perspective. I learned so much from my time there. For example, when I joined dbt Labs I got to introduce the team to the joy of hiring plans (something HubSpot did really well) and my new 12-person team was like \"wow! this is so cool! we've never seen anything like this\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so that was fun.\n\nGitLab from an operational perspective and a transparency. Any remote-first company has to pay attention to GitLab. They publish their internal handbook publicly and I have referenced it so many times to see how they do \/ think about things. I don't always agree with them, but learning from them is invaluable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJE5LQ2JC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "UV5V2P0VB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "888b5761-f7bb-4a23-a093-7722ca0b5709",
+        "type": "message",
+        "text": "Stripe from a developer experience perspective. Pre-Stripe developer marketing was rather ugly and Stripe was like \"no, you can be beautiful, easy to use, and built for developers.\" They just have a remarkable brand all around.",
+        "user": "UJG12DM1V",
+        "ts": "1631291745.041700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m\/Kqn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stripe from a developer experience perspective. Pre-Stripe developer marketing was rather ugly and Stripe was like \"no, you can be beautiful, easy to use, and built for developers.\" They just have a remarkable brand all around."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290054.025100",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "dac7f334-72cb-4170-8ecc-d0fe92fe3d2b",
+        "type": "message",
+        "text": "you mentioned in <https:\/\/twitter.com\/janessalantz\/status\/1432799472149479424|this tweet> that \"gate vs. ungate is the stupidest debate in marketing.\" which one is *the truth*?",
+        "user": "UJG9WTEKG",
+        "ts": "1631291829.042500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/janessalantz|@janessalantz>: Come hang out if you want to talk about...\n\n:nerd_face: careers in developer marketing\n:rocket: why you want to specialize early in your career\n:face_with_head_bandage: first-time manager mistakes\n:lock:why gate vs. ungate is the stupidest debate in marketing\n:woman-raising-hand::skin-tone-2:changes from mng -&gt; dir -&gt; vp <https:\/\/twitter.com\/jimmy_daly\/status\/1432749616794148867>",
+                "ts": 1630440988,
+                "author_name": "Janessa Lantz",
+                "author_link": "https:\/\/twitter.com\/janessalantz\/status\/1432799472149479424",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1408435735057911813\/fztZaevv_normal.jpg",
+                "author_subname": "@janessalantz",
+                "text": "Come hang out if you want to talk about...\n\n:nerd_face: careers in developer marketing\n:rocket: why you want to specialize early in your career\n:face_with_head_bandage: first-time manager mistakes\n:lock:why gate vs. ungate is the stupidest debate in marketing\n:woman-raising-hand::skin-tone-2:changes from mng -&gt; dir -&gt; vp <https:\/\/twitter.com\/jimmy_daly\/status\/1432749616794148867>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/janessalantz\/status\/1432799472149479424",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/janessalantz\/status\/1432799472149479424",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3W+Nf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you mentioned in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/janessalantz\/status\/1432799472149479424",
+                                "text": "this tweet"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that \"gate vs. ungate is the stupidest debate in marketing.\" which one is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "the truth",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631291829.042500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1631292427.047700",
+        "reply_users": [
+            "UJG12DM1V"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631292427.047700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631292427.047700"
+    },
+    {
+        "client_msg_id": "788698f2-e2fb-4216-942c-3060f61f2984",
+        "type": "message",
+        "text": "right?! We all use words \"lead\" \"campaign\" \"awareness\" \"funnel\" and it is so valuable to step back and say \"hey, what do you mean by that?\" because the answers can be so divergent!",
+        "user": "UJG12DM1V",
+        "ts": "1631291840.042700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qB\/zG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "right?! We all use words \"lead\" \"campaign\" \"awareness\" \"funnel\" and it is so valuable to step back and say \"hey, what do you mean by that?\" because the answers can be so divergent!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289799.019400",
+        "parent_user_id": "UJ7RT1J1X"
+    },
+    {
+        "client_msg_id": "2a7fabfd-c21d-42ed-bfa2-9a1d09f8748b",
+        "type": "message",
+        "text": "we realized a few years ago at animalz that we all meant different things when we said \"top of funnel\" :laughing:",
+        "user": "UJG9WTEKG",
+        "ts": "1631292091.044100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we realized a few years ago at animalz that we all meant different things when we said \"top of funnel\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289799.019400",
+        "parent_user_id": "UJ7RT1J1X"
+    },
+    {
+        "client_msg_id": "C4E72415-3E02-4AD5-9751-4132CD67E97E",
+        "type": "message",
+        "text": "Hi <@UJG12DM1V> ! :wave::skin-tone-3: What has been the toughest part of scaling a team? Were there any great and unexpected lessons that you’ve learned? ",
+        "user": "U02A8UR3Z60",
+        "ts": "1631292239.046800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02A8UR3Z60",
+            "ts": "1631292296.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhEHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " What has been the toughest part of scaling a team? Were there any great and unexpected lessons that you’ve learned? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631292239.046800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1631292919.048900",
+        "reply_users": [
+            "UJG12DM1V"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631292919.048900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UV5V2P0VB",
+                    "U02E54C0P97"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3af0d641-c56a-4b97-809d-4ea53b04cbe0",
+        "type": "message",
+        "text": "I think a lot about balance in how I'm putting the team together. Particularly, the ratio of technical marketers (and by that I specifically mean marketers able to use our product) and non-technical marketers (again, they are still technically proficient, just not dbt users).\n\nWe can't have a marketing team of all dbt users -- it's just not a viable recruiting strategy BUT we need to that skillset.\n\nSo for example, our head of acquisition was previously doing consulting work -- using dbt to help small marketing teams make better decisions with data. Again, no way I can build a recruiting strategy around this! But it is _invaluable_ to have a content leader who is also a product user. He is uniquely able to speak the language of our users and bridge the gap to internal resources and connect this all back to SEO goals :sweat_smile:\n\nWe think about this on all marketing groups:\n• What is our ratio of technical PMMs (people who really know the product) to generalist PMMs (people who really know product marketing)?\n• Do our event managers need to know the product? (A: no, but they need partners with dedicated time to help shape content)\nI realize this is probably one level higher of an answer than what you're looking for, but it's what I'm able to give :smile: This stuff is hard! It's why I often feel frustrated by the volumes of content marketing advice written by marketers marketing to marketers -- the advice doesn't work when you're writing for an audience that is a different persona than you the writer!",
+        "user": "UJG12DM1V",
+        "ts": "1631292243.046900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W3eCE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think a lot about balance in how I'm putting the team together. Particularly, the ratio of technical marketers (and by that I specifically mean marketers able to use our product) and non-technical marketers (again, they are still technically proficient, just not dbt users).\n\nWe can't have a marketing team of all dbt users -- it's just not a viable recruiting strategy BUT we need to that skillset.\n\nSo for example, our head of acquisition was previously doing consulting work -- using dbt to help small marketing teams make better decisions with data. Again, no way I can build a recruiting strategy around this! But it is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "invaluable",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to have a content leader who is also a product user. He is uniquely able to speak the language of our users and bridge the gap to internal resources and connect this all back to SEO goals "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe think about this on all marketing groups:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What is our ratio of technical PMMs (people who really know the product) to generalist PMMs (people who really know product marketing)?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do our event managers need to know the product? (A: no, but they need partners with dedicated time to help shape content)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nI realize this is probably one level higher of an answer than what you're looking for, but it's what I'm able to give "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This stuff is hard! It's why I often feel frustrated by the volumes of content marketing advice written by marketers marketing to marketers -- the advice doesn't work when you're writing for an audience that is a different persona than you the writer!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290873.036400",
+        "parent_user_id": "U02BTBBH887",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "U02E54C0P97",
+                    "UV5V2P0VB",
+                    "U02BTBBH887",
+                    "U01EJ7VE9FD"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19da5881-f9a3-40a4-8a11-783750b52c3e",
+        "type": "message",
+        "text": "There is no one truth!\n\nIt's just one big old it depends.\n\nThe question is never -- to gate or not to gate.\n\nThe question is -- what do we gate? what do we give away ungated?\n\nOR EVEN... for whom should we gate this?\n\nOR EVEN...how long should we gate this?\n\nIt's just a dumb binary question that _*a company that shall not be named*_ managed to build a whole marketing strategy around and years later -- after they themselves abandoned the NO GATES stance -- marketers are still arguing about :sweat_smile:",
+        "user": "UJG12DM1V",
+        "ts": "1631292427.047700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KPhH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is no one truth!\n\nIt's just one big old it depends.\n\nThe question is never -- to gate or not to gate.\n\nThe question is -- what do we gate? what do we give away ungated?\n\nOR EVEN... for whom should we gate this?\n\nOR EVEN...how long should we gate this?\n\nIt's just a dumb binary question that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "a company that shall not be named",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " managed to build a whole marketing strategy around and years later -- after they themselves abandoned the NO GATES stance -- marketers are still arguing about "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631291829.042500",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "fb-wow",
+                "users": [
+                    "UV5V2P0VB"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01EJ7VE9FD",
+                    "U025WLMJ60H",
+                    "UL1CGCATB",
+                    "URLKJLWKS",
+                    "UJE6FLEFJ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U02AG6CGR3L",
+                    "UJE6FLEFJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40d8df8b-a5a4-4493-987c-da90f6bbb014",
+        "type": "message",
+        "text": "Learn to make decisions with data -- even if the data is limited or imperfect, everything gets easier if you start with data (ever spreadsheet formula I have learned is a gift. If you've got time, learn SQL). Great way to do this as a CM is to write data-driven content because that stuff performs very very well. Practice building a growth model and make an attempt at forecasting.\n\nDismantle your ego -- wait...is that a hard skill? Maybe! Because it takes real time! My Yin Yoga practice has helped enormously here. Learning to breathe through discomfort and be present in the moment and offer grace to myself and others.\n\nGet as deep into operations as you can -- learn the systems that power your work. what happens to a view \/ or contact that you create as a result of your contact? where do they go? who interacts with them? learn to track down information in your marketing automation system and CRM. when you have questions -- find an operations person who can help you find the answer.",
+        "user": "UJG12DM1V",
+        "ts": "1631292697.048200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG12DM1V",
+            "ts": "1631292732.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Learn to make decisions with data -- even if the data is limited or imperfect, everything gets easier if you start with data (ever spreadsheet formula I have learned is a gift. If you've got time, learn SQL). Great way to do this as a CM is to write data-driven content because that stuff performs very very well. Practice building a growth model and make an attempt at forecasting.\n\nDismantle your ego -- wait...is that a hard skill? Maybe! Because it takes real time! My Yin Yoga practice has helped enormously here. Learning to breathe through discomfort and be present in the moment and offer grace to myself and others.\n\nGet as deep into operations as you can -- learn the systems that power your work. what happens to a view \/ or contact that you create as a result of your contact? where do they go? who interacts with them? learn to track down information in your marketing automation system and CRM. when you have questions -- find an operations person who can help you find the answer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290862.036200",
+        "parent_user_id": "U02E54C0P97",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02E54C0P97",
+                    "U019N7Y0EBT",
+                    "U02CA168D7Y",
+                    "UV5V2P0VB",
+                    "U016LHA1BHP"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "916600e9-cfe6-4544-899e-9f4e3efe3e0b",
+        "type": "message",
+        "text": "This was an awesome perspective! Thank you",
+        "user": "U02BTBBH887",
+        "ts": "1631292764.048600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b12a95701c8d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-25\/2417682161141_b12a95701c8dc9a34e69_72.jpg",
+            "first_name": "John",
+            "real_name": "John Blust",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "johnblust",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2lP6e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This was an awesome perspective! Thank you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631290873.036400",
+        "parent_user_id": "U02BTBBH887"
+    },
+    {
+        "client_msg_id": "62b1cd85-5985-42e4-ba33-47e6c21ef394",
+        "type": "message",
+        "text": "Gosh, I think my big one was undervaluing marketing operations. I wish I had hired this person a year ago! We waited too long and then found ourselves in a very challenging recruiting market (thankfully we have a signed offer!) Ops is just so foundational and it has shocked me how quickly we are building up tech debt on the ops side.\n\nWithout a strong ops foundation it's very hard to scale literally anything.",
+        "user": "UJG12DM1V",
+        "ts": "1631292919.048900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rj\/Rv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gosh, I think my big one was undervaluing marketing operations. I wish I had hired this person a year ago! We waited too long and then found ourselves in a very challenging recruiting market (thankfully we have a signed offer!) Ops is just so foundational and it has shocked me how quickly we are building up tech debt on the ops side.\n\nWithout a strong ops foundation it's very hard to scale literally anything."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631292239.046800",
+        "parent_user_id": "U02A8UR3Z60",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U011QQDDSJV",
+                    "U02A8UR3Z60",
+                    "UV5V2P0VB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37458418-ebe6-448c-97cb-7e693b34eddf",
+        "type": "message",
+        "text": "we are nearly up on time. i just want to say a massive THANK YOU to <@UJG12DM1V>! she's been a part of this community since the very beginning and i'm so grateful to have her here! superpath swag will be arriving int the mail shortly :slightly_smiling_face:",
+        "user": "UJG9WTEKG",
+        "ts": "1631292985.050000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YnGxr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are nearly up on time. i just want to say a massive THANK YOU to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! she's been a part of this community since the very beginning and i'm so grateful to have her here! superpath swag will be arriving int the mail shortly "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631292985.050000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1631293290.050800",
+        "reply_users": [
+            "UJG12DM1V",
+            "U01EJ7VE9FD"
+        ],
+        "replies": [
+            {
+                "user": "UJG12DM1V",
+                "ts": "1631293050.050500"
+            },
+            {
+                "user": "U01EJ7VE9FD",
+                "ts": "1631293290.050800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631293290.050800",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02BTBBH887",
+                    "U01EJ7VE9FD",
+                    "UV5V2P0VB",
+                    "U02625MJG3W",
+                    "U02333AMCUW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U013K9AEHR7",
+                    "U02625MJG3W"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d6558f3-8015-4917-a887-042d4e23ea22",
+        "type": "message",
+        "text": "It's really incredible. And then you talk to someone in sales and they say \"top of funnel\" and just mean pre-pipeline and it's like :woman-shrugging::woman-shrugging::woman-shrugging::woman-shrugging:",
+        "user": "UJG12DM1V",
+        "ts": "1631293013.050200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QcP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's really incredible. And then you talk to someone in sales and they say \"top of funnel\" and just mean pre-pipeline and it's like "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-shrugging"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-shrugging"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-shrugging"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-shrugging"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289799.019400",
+        "parent_user_id": "UJ7RT1J1X"
+    },
+    {
+        "client_msg_id": "825a336a-d02f-46dc-b896-8f6b3fefe5dc",
+        "type": "message",
+        "text": "Thanks for having me! And for the fun questions, really enjoyable way to spend a lunch hour though it is hard to eat and type at the same time.",
+        "user": "UJG12DM1V",
+        "ts": "1631293050.050500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/Rj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for having me! And for the fun questions, really enjoyable way to spend a lunch hour though it is hard to eat and type at the same time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631292985.050000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77716664-b009-4436-8990-bd823e33d9fa",
+        "type": "message",
+        "text": "thank you <@UJG12DM1V>!",
+        "user": "U01EJ7VE9FD",
+        "ts": "1631293290.050800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lROi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631292985.050000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UJG12DM1V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68b859f3-3b4b-4648-9814-2737e4db9545",
+        "type": "message",
+        "text": "we'll post all of this on the blog next week :slightly_smiling_face:",
+        "user": "UJG9WTEKG",
+        "ts": "1631293433.051600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MwS9U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we'll post all of this on the blog next week "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96146c25-87aa-454f-9bf1-5c8e86fdb02a",
+        "type": "message",
+        "text": "For sure. I think a mistake I've learned from is that I don't always need to move fast. I've too often tried to do too many things and ended up making only small progress on a bunch of things rather that big progress on a few.",
+        "user": "ULKUFTFPW",
+        "ts": "1631296831.052500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05a6aa1af83c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-10\/1851102748596_05a6aa1af83c15a830e7_72.jpg",
+            "first_name": "David",
+            "real_name": "David C Hoos",
+            "display_name": "David Hoos",
+            "team": "TJE58GTJL",
+            "name": "david.c.hoos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For sure. I think a mistake I've learned from is that I don't always need to move fast. I've too often tried to do too many things and ended up making only small progress on a bunch of things rather that big progress on a few."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631289915.023000",
+        "parent_user_id": "ULKUFTFPW",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJG12DM1V",
+                    "U01G7PRL3HQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

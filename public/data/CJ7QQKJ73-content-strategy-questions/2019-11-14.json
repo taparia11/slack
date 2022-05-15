@@ -1,0 +1,1160 @@
+[
+    {
+        "client_msg_id": "97b10b3b-37aa-4807-a0cb-ad296430b7e6",
+        "type": "message",
+        "text": "Hello all!\n\nA client doesn't have the technical resources to structure their URLs like this for their Hub and Spoke strategy:\n\n`<http:\/\/companyname.com\/hub|companyname.com\/hub>`\n`<http:\/\/companyname.com\/hub\/spoke-1|companyname.com\/hub\/spoke-1>`\n`<http:\/\/companyname.com\/hub\/spoke-2|companyname.com\/hub\/spoke-2>`\n`<http:\/\/companyname.com\/hub\/spoke-3|companyname.com\/hub\/spoke-3>`\n\nThey're only able to do this:\n\n`<http:\/\/companyname.com\/blog\/hub|companyname.com\/blog\/hub>`\n`<http:\/\/companyname.com\/blog\/spoke-1|companyname.com\/blog\/spoke-1>`\n`<http:\/\/companyname.com\/blog\/spoke-2|companyname.com\/blog\/spoke-2>`\n`<http:\/\/companyname.com\/blog\/spoke-3|companyname.com\/blog\/spoke-3>`\n\nHas anyone been through this? Would it be better to ditch the strategy altogether? I'm wondering if there's a way to go about it. :thinking_face:",
+        "user": "UJS7GK1TP",
+        "ts": "1573723158.124200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab9ba13964bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-03\/646679825121_ab9ba13964bb9b12d7df_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla Tan",
+            "display_name": "Priscilla Tan",
+            "team": "TJE58GTJL",
+            "name": "priscilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJS7GK1TP",
+            "ts": "1573723241.000000"
+        },
+        "thread_ts": "1573723158.124200",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1573781278.141800",
+        "reply_users": [
+            "UJDPMTREY",
+            "UJG9WTEKG",
+            "UQ3GRPQDP",
+            "UJS7GK1TP"
+        ],
+        "replies": [
+            {
+                "user": "UJDPMTREY",
+                "ts": "1573737364.124400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1573745653.126100"
+            },
+            {
+                "user": "UQ3GRPQDP",
+                "ts": "1573753416.127900"
+            },
+            {
+                "user": "UJS7GK1TP",
+                "ts": "1573781169.141500"
+            },
+            {
+                "user": "UJS7GK1TP",
+                "ts": "1573781278.141800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1573781278.141800"
+    },
+    {
+        "client_msg_id": "d7c2555c-bb1c-49fb-859c-ca8a8584cb76",
+        "type": "message",
+        "text": "First, a thought on \"technical resources.\" Based on the URLs you've shared, it seems like they're unable to create that URL structure with _posts_ in WordPress, but it would be just as simple to use _pages_ to publish this content (if there's a workable template).\n\nIf that's not possible, you can still use internal links to build a sense of the hub-spoke model for search engines. Will it be as explicit as it could be? No. But you could still send some of those signals.\n\nIn addition to making sure every spoke page links to the hub (and the hub to each spoke), you could add a table of contents or previous\/next links (depending on what makes more sense) to each URL.\n\nSearch engines rely on links to crawl the Internet, so the more link-based interplay among those pages, the stronger the connections they'll make.\n\nIf you _really_ want to be aggressive with this strategy (and it would make sense), you could also make the hub page a menu item with the spokes as the drop-down items (even if the URL structure didn't follow that same structure).\n\nOr, you could add the items as links in the footer.",
+        "user": "UJDPMTREY",
+        "ts": "1573737364.124400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573723158.124200",
+        "parent_user_id": "UJS7GK1TP",
+        "reactions": [
+            {
+                "name": "bulb",
+                "users": [
+                    "UJS7GK1TP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45337c42-a348-445e-ad0e-82d5b955c13e",
+        "type": "message",
+        "text": "Hey all! Here's a question just to satisfy my own curiosity: Do you consider yourself to be \"working in media\"?",
+        "user": "UJ48Q1HAP",
+        "ts": "1573742414.125500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "77012a72a593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/627240275812_77012a72a593f45fbc06_72.jpg",
+            "first_name": "Katie",
+            "real_name": "Katie Parrott",
+            "display_name": "Katie Parrott",
+            "team": "TJE58GTJL",
+            "name": "katie.parrott12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573742414.125500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1573750958.127500",
+        "reply_users": [
+            "UPM5604VC",
+            "UJ7RT1J1X",
+            "UJG24P8P6"
+        ],
+        "replies": [
+            {
+                "user": "UPM5604VC",
+                "ts": "1573743281.125600"
+            },
+            {
+                "user": "UJ7RT1J1X",
+                "ts": "1573743828.125800"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1573750958.127500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d52a11c6-2545-44a8-9059-07bfb8727b86",
+        "type": "message",
+        "text": "Good question - I wouldn't to be honest. I would associate 'media' with more traditional formats like TV, film and newspaper journalism. If I were to give it a hierarchy it would be Marketing ----&gt; Content.",
+        "user": "UPM5604VC",
+        "ts": "1573743281.125600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3c569af8775c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810299076387_3c569af8775c97496940_72.jpg",
+            "first_name": "",
+            "real_name": "Dean Dallman",
+            "display_name": "Dean Dallman",
+            "team": "TJE58GTJL",
+            "name": "dean357",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573742414.125500",
+        "parent_user_id": "UJ48Q1HAP"
+    },
+    {
+        "client_msg_id": "75a840ed-bb02-47ac-8b61-1a3f07d7edfa",
+        "type": "message",
+        "text": "I don't think of it that way either",
+        "user": "UJ7RT1J1X",
+        "ts": "1573743828.125800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3344738d2bc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-17\/1076357263828_3344738d2bc26736e62e_72.jpg",
+            "first_name": "Benyamin",
+            "real_name": "Benyamin Elias",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benyamin.elias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573742414.125500",
+        "parent_user_id": "UJ48Q1HAP"
+    },
+    {
+        "client_msg_id": "da8f28b4-e37d-4fe5-ad29-d257ade4ab48",
+        "type": "message",
+        "text": "what <@UJDPMTREY> said :point_up_2:",
+        "user": "UJG9WTEKG",
+        "ts": "1573745653.126100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573723158.124200",
+        "parent_user_id": "UJS7GK1TP",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "UJG24P8P6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "UJS7GK1TP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e7580fb-6b40-486c-bab7-b0c277d746c2",
+        "type": "message",
+        "text": "Hey <!channel>! Does anyone have direct experience with  Linkedin Content Creation, Management, scheduling?",
+        "user": "UQJ7ENW84",
+        "ts": "1573750762.127100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g76c8dfb1ac7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/76c8dfb1ac7e2bec0336e09bd82a6ba1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "LauraPechenik",
+            "display_name": "LauraPechenik",
+            "team": "TJE58GTJL",
+            "name": "lpechenik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573750762.127100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1573751015.127700",
+        "reply_users": [
+            "UNBL46GJ1",
+            "UQJ7ENW84"
+        ],
+        "replies": [
+            {
+                "user": "UNBL46GJ1",
+                "ts": "1573750802.127200"
+            },
+            {
+                "user": "UQJ7ENW84",
+                "ts": "1573751015.127700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1237cbab-ec7f-4948-8798-f181afd79cdb",
+        "type": "message",
+        "text": "Sure, what's your question?",
+        "user": "UNBL46GJ1",
+        "ts": "1573750802.127200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gebe25064d4c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cebe25064d4cba2dc989cc45968a5ec0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Claire",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "claire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573750762.127100",
+        "parent_user_id": "UQJ7ENW84"
+    },
+    {
+        "client_msg_id": "166e75ea-1361-491f-a5ad-42db14fd7896",
+        "type": "message",
+        "text": "No! But as a former journalist, I'm constantly surprised at the lack of awareness in *media* about conversions, content marketing, etc. A related thread this week: <https:\/\/twitter.com\/joshspilker\/status\/1194006078939451393>",
+        "user": "UJG24P8P6",
+        "ts": "1573750958.127500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573742414.125500",
+        "parent_user_id": "UJ48Q1HAP",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UPM3J57HT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37c9643e-f170-4bd9-bbbb-a04730acdc02",
+        "type": "message",
+        "text": "I'm a content strategist but looking for helpful templates for Linkedin Group Post Scheduling or handy tips for Linkedin Conversation starters.",
+        "user": "UQJ7ENW84",
+        "ts": "1573751015.127700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g76c8dfb1ac7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/76c8dfb1ac7e2bec0336e09bd82a6ba1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "LauraPechenik",
+            "display_name": "LauraPechenik",
+            "team": "TJE58GTJL",
+            "name": "lpechenik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573750762.127100",
+        "parent_user_id": "UQJ7ENW84"
+    },
+    {
+        "client_msg_id": "9e195925-226e-4169-a7ba-b81b5c606e2e",
+        "type": "message",
+        "text": "Interlinking is the name of the game. Don't stress the url structure.",
+        "user": "UQ3GRPQDP",
+        "ts": "1573753416.127900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "360ba9d0b10f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/827030154340_360ba9d0b10fa3161883_72.jpg",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "bhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573723158.124200",
+        "parent_user_id": "UJS7GK1TP",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJS7GK1TP",
+                    "UN29JC48H"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "149abda4-e787-4c76-aa55-5ec3b2708ffb",
+        "type": "message",
+        "text": "Hey all, got a feeler question: client wants me to write two blogs per week (700-1000 words), post them on WordPress, attend weekly marketing meetings (one hour every week) and sometimes jump in with website copy. What kind of retainer ($ per month) should I be looking to get? Thanks for the help!",
+        "user": "UL4QTFQCT",
+        "ts": "1573759681.129800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "63ae1925b9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-11\/711618038786_63ae1925b9ddf72b3957_72.jpg",
+            "first_name": "Mile",
+            "real_name": "Mile Zivkovic",
+            "display_name": "Mile Zivkovic",
+            "team": "TJE58GTJL",
+            "name": "zivkovic.m.mile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573759681.129800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1573800985.142400",
+        "reply_users": [
+            "UJG4WTGKS"
+        ],
+        "replies": [
+            {
+                "user": "UJG4WTGKS",
+                "ts": "1573800985.142400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4084dabe-9640-473e-8118-5b8861bce005",
+        "type": "message",
+        "text": "Hey Mile, it depends on how long it would take for you to write these blog posts, so it's hard to say. Generally, do you want to be paid per hour, per word or per project?",
+        "user": "UPY7WN4LW",
+        "ts": "1573760761.132100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7f2b9627ff5e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-12\/832935310855_7f2b9627ff5e02942960_72.jpg",
+            "first_name": "Writing",
+            "real_name": "Writing Tom",
+            "display_name": "Writing Tom",
+            "team": "TJE58GTJL",
+            "name": "hello883",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fd917ab9-fc60-45d6-906b-78aa3a6d0b25",
+        "type": "message",
+        "text": "I'd add whether you'll need to do interviews, conduct your own keyword research, find supporting images, revise more than once per post, or report to multiple people also factor in.",
+        "user": "UL4TUV38B",
+        "ts": "1573761105.133800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c1fcc8eb5742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-16\/1360677760262_c1fcc8eb5742ad012747_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Bosco",
+            "display_name": "Laura Bosco",
+            "team": "TJE58GTJL",
+            "name": "laura.e.hash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cbf69219-c7c1-4b51-823e-d59423e98b07",
+        "type": "message",
+        "text": "<@UPY7WN4LW> I want to avoid per-word payments as much as possible :slightly_smiling_face: So, project-based works best",
+        "user": "UL4QTFQCT",
+        "ts": "1573762376.135100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "63ae1925b9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-11\/711618038786_63ae1925b9ddf72b3957_72.jpg",
+            "first_name": "Mile",
+            "real_name": "Mile Zivkovic",
+            "display_name": "Mile Zivkovic",
+            "team": "TJE58GTJL",
+            "name": "zivkovic.m.mile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "22dd37c4-7186-423b-8a3c-d3f8d791ce24",
+        "type": "message",
+        "text": "<@UL4TUV38B> I have to do my own KW research, source the images, do 1-2 revisions, report to 3 persons",
+        "user": "UL4QTFQCT",
+        "ts": "1573762404.135800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "63ae1925b9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-11\/711618038786_63ae1925b9ddf72b3957_72.jpg",
+            "first_name": "Mile",
+            "real_name": "Mile Zivkovic",
+            "display_name": "Mile Zivkovic",
+            "team": "TJE58GTJL",
+            "name": "zivkovic.m.mile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573762404.135800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1573767030.140600",
+        "reply_users": [
+            "UL4TUV38B",
+            "UL4QTFQCT"
+        ],
+        "replies": [
+            {
+                "user": "UL4TUV38B",
+                "ts": "1573766797.140100"
+            },
+            {
+                "user": "UL4QTFQCT",
+                "ts": "1573766873.140400"
+            },
+            {
+                "user": "UL4TUV38B",
+                "ts": "1573767030.140600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c9fa5614-226a-4786-8a44-1719315bbb1c",
+        "type": "message",
+        "text": "<@UJG9WTEKG> Is the hub\/spoke methodology available only in blog form or any other mediums (video)?",
+        "user": "UNMHBTSSX",
+        "ts": "1573763320.136900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aa11d7e9d6ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-12\/795318071751_aa11d7e9d6ef87d02935_72.jpg",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Rius",
+            "display_name": "Rebekah [Seattle]",
+            "team": "TJE58GTJL",
+            "name": "rebekah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573763320.136900",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1573837990.149400",
+        "reply_users": [
+            "UJG9WTEKG",
+            "UNMHBTSSX",
+            "UQ3Q7SQ6A",
+            "UQ3GRPQDP"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1573765229.137800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1573765250.138000"
+            },
+            {
+                "user": "UNMHBTSSX",
+                "ts": "1573765491.138200"
+            },
+            {
+                "user": "UQ3Q7SQ6A",
+                "ts": "1573766150.138700"
+            },
+            {
+                "user": "UQ3GRPQDP",
+                "ts": "1573766372.139100"
+            },
+            {
+                "user": "UQ3GRPQDP",
+                "ts": "1573766412.139400"
+            },
+            {
+                "user": "UNMHBTSSX",
+                "ts": "1573766612.139700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1573837967.149100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1573837990.149400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1573837990.149400"
+    },
+    {
+        "client_msg_id": "5cc8f4ee-32d9-4839-87f1-3910cd2d9fe3",
+        "type": "message",
+        "text": "Hey friends do you have a homepage product explainer video you really like? Can you send it to me? I’m making one!",
+        "user": "UJE5LQ2JC",
+        "ts": "1573763419.137400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573763419.137400",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1573829041.148100",
+        "reply_users": [
+            "UJS103D7S",
+            "UJE5LQ2JC",
+            "UJKGTUJJ2"
+        ],
+        "replies": [
+            {
+                "user": "UJS103D7S",
+                "ts": "1573763804.137500"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1573765851.138400"
+            },
+            {
+                "user": "UJKGTUJJ2",
+                "ts": "1573816278.143000"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1573828075.146900"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1573828103.147100"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1573828104.147300"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1573828113.147600"
+            },
+            {
+                "user": "UJS103D7S",
+                "ts": "1573828588.147800"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1573829041.148100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "681b7e7d-5b21-4d61-938d-745ea336589d",
+        "type": "message",
+        "text": "We looked at hiring the animator behind this video a few months ago (didn't work out due to budget), but I loved this clip she did for Dyson: <https:\/\/vimeo.com\/287732087>",
+        "user": "UJS103D7S",
+        "ts": "1573763804.137500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be0204d95db9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-21\/902951134050_be0204d95db90b66f738_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Palmer",
+            "display_name": "Josh Palmer",
+            "team": "TJE58GTJL",
+            "name": "josh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573763419.137400",
+        "parent_user_id": "UJE5LQ2JC",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJE5LQ2JC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "431cfa28-34d5-449e-8439-6caac9c30e69",
+        "type": "message",
+        "text": "oh interesting question",
+        "user": "UJG9WTEKG",
+        "ts": "1573765229.137800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573763320.136900",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "fdc70930-30d0-4a47-acb1-06da85734b6c",
+        "type": "message",
+        "text": "do you mean my articles on the topic? or could you do it with video instead of written content?",
+        "user": "UJG9WTEKG",
+        "ts": "1573765250.138000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573763320.136900",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "b1c39e90-5865-4641-b6bc-2a82b5353ef9",
+        "type": "message",
+        "text": "I’ve only seen the hub\/spoke or content cluster idea on the Animalz blog but was curious if it had been expanded on elsewhere? I love the strategy and would like to know more. And also share it with clients to explain the method in simple terms.",
+        "user": "UNMHBTSSX",
+        "ts": "1573765491.138200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aa11d7e9d6ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-12\/795318071751_aa11d7e9d6ef87d02935_72.jpg",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Rius",
+            "display_name": "Rebekah [Seattle]",
+            "team": "TJE58GTJL",
+            "name": "rebekah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UNMHBTSSX",
+            "ts": "1573766681.000000"
+        },
+        "thread_ts": "1573763320.136900",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "a4b7ffeb-9c48-41a6-aa35-708c8d5881ee",
+        "type": "message",
+        "text": "Really excited to one day make a directory of these videos",
+        "user": "UJE5LQ2JC",
+        "ts": "1573765851.138400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573763419.137400",
+        "parent_user_id": "UJE5LQ2JC"
+    },
+    {
+        "client_msg_id": "d983fe38-e740-4f23-b9f6-577a8ff9a113",
+        "type": "message",
+        "text": "For content clusters, I think I’ve read about them first over here - <https:\/\/www.alexbirkett.com\/content-marketing-strategy\/> <https:\/\/blog.hubspot.com\/marketing\/pillar-cluster-model-transform-blog>",
+        "user": "UQ3Q7SQ6A",
+        "ts": "1573766150.138700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g7a7d41ebd52",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a7d41ebd52e2e602504a5796f3e37ee.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Michal",
+            "real_name": "Michal Leszczynski",
+            "display_name": "Michal Leszczynski",
+            "team": "TJE58GTJL",
+            "name": "mr.leszczynski",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Alex Birkett",
+                "title": "Content Marketing Strategy: Everything You Need to Know to Build a Growth Machine",
+                "title_link": "https:\/\/www.alexbirkett.com\/content-marketing-strategy\/",
+                "text": "Content marketing strategy is something few companies do well. This is something I’ve focused on for years, mostly because all the companies I’ve worked for, from super early stage startups to HubSpot where I work now, have been largely supported by content marketing (in one way or",
+                "fallback": "Alex Birkett: Content Marketing Strategy: Everything You Need to Know to Build a Growth Machine",
+                "thumb_url": "https:\/\/i0.wp.com\/www.alexbirkett.com\/wp-content\/uploads\/2019\/02\/received_1494558873982871.jpeg?fit=690%2C336&ssl=1",
+                "ts": 1549406314,
+                "from_url": "https:\/\/www.alexbirkett.com\/content-marketing-strategy\/",
+                "thumb_width": 690,
+                "thumb_height": 336,
+                "service_icon": "https:\/\/i2.wp.com\/www.alexbirkett.com\/wp-content\/uploads\/2016\/02\/cropped-mustache-.png?fit=180%2C180&#038;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/www.alexbirkett.com\/content-marketing-strategy\/"
+            },
+            {
+                "title": "How We Used the Pillar-Cluster Model to Transform Our Blog",
+                "title_link": "https:\/\/blog.hubspot.com\/marketing\/pillar-cluster-model-transform-blog",
+                "text": "We transformed our blogs from the inside-out using the pillar cluster model to reorganize our content and help readers find the information they need, faster.",
+                "fallback": "How We Used the Pillar-Cluster Model to Transform Our Blog",
+                "image_url": "https:\/\/blog.hubspot.com\/hubfs\/pillar-cluster-transform-blog.jpg#keepProtocol",
+                "image_width": 604,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "8 min read",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/blog.hubspot.com\/marketing\/pillar-cluster-model-transform-blog",
+                "image_bytes": 60704,
+                "service_icon": "https:\/\/blog.hubspot.com\/hubfs\/HubSpot_Logos\/HubSpot-Inversed-Favicon.png",
+                "service_name": "blog.hubspot.com",
+                "id": 2,
+                "original_url": "https:\/\/blog.hubspot.com\/marketing\/pillar-cluster-model-transform-blog"
+            }
+        ],
+        "thread_ts": "1573763320.136900",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "d4728967-8536-4d94-9c65-32444ffe17f5",
+        "type": "message",
+        "text": "<@UNMHBTSSX> here's a great video on it: <https:\/\/www.youtube.com\/watch?v=xOGxyw9DSa8>",
+        "user": "UQ3GRPQDP",
+        "ts": "1573766372.139100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "360ba9d0b10f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/827030154340_360ba9d0b10fa3161883_72.jpg",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "bhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Topic Clusters: The Next Evolution of Content Strategy",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=xOGxyw9DSa8",
+                "author_name": "HubSpot",
+                "author_link": "https:\/\/www.youtube.com\/user\/HubSpot",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/xOGxyw9DSa8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Topic Clusters: The Next Evolution of Content Strategy",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/xOGxyw9DSa8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=xOGxyw9DSa8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=xOGxyw9DSa8"
+            }
+        ],
+        "thread_ts": "1573763320.136900",
+        "parent_user_id": "UNMHBTSSX",
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "UNMHBTSSX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee8f0820-31fa-430a-b684-87a8681cf14f",
+        "type": "message",
+        "text": "If you're wondering if it works on video content AND blogs, it DOES. Structured your YouTube videos into hub\/spoke content is probably the best strategy people aren't using right now. :thumbsup:",
+        "user": "UQ3GRPQDP",
+        "ts": "1573766412.139400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "360ba9d0b10f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/827030154340_360ba9d0b10fa3161883_72.jpg",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "bhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573763320.136900",
+        "parent_user_id": "UNMHBTSSX",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UNMHBTSSX",
+                    "UQ3Q7SQ6A",
+                    "UJS7GK1TP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b9c5242-89cc-4416-951d-64c7f261625a",
+        "type": "message",
+        "text": "Excellent, thanks, all! I saw it first on Animalz so naturally looked there for more info. I’ll check out these other resources.",
+        "user": "UNMHBTSSX",
+        "ts": "1573766612.139700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aa11d7e9d6ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-12\/795318071751_aa11d7e9d6ef87d02935_72.jpg",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Rius",
+            "display_name": "Rebekah [Seattle]",
+            "team": "TJE58GTJL",
+            "name": "rebekah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573763320.136900",
+        "parent_user_id": "UNMHBTSSX"
+    },
+    {
+        "client_msg_id": "7b12e45d-ec29-47aa-83a0-9103aca38bd3",
+        "type": "message",
+        "text": "The way I calculate this is:\n\n• determine my overall day or hourly rate, using something like this `<https:\/\/twitter.com\/XCK3D\/status\/1093937746958143488>`\n\n• estimate (ideally, using historical data) how much time the project will take and put a price on it (the number is just for my use at this point)\n\n• adjust estimate based on how much I usually under-estimate (optimism bias)\n\n• adjust for other factors like value provided, niche (varied ceilings), whether it'll be unusually stressful, current workload (is my time especially scarce?), resources (do I need to subscribe to a tool?) and so on\n\n• share that price, in the form of a compelling estimate, with potential client\n\nI know this doesn't give you an exact number, and that's what you asked for. I've seen rates everywhere from $50 per post to over $2,000 per post, depending on experience level, reputation, and industry. But I hope this gets you started!",
+        "user": "UL4TUV38B",
+        "ts": "1573766797.140100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c1fcc8eb5742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-16\/1360677760262_c1fcc8eb5742ad012747_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Bosco",
+            "display_name": "Laura Bosco",
+            "team": "TJE58GTJL",
+            "name": "laura.e.hash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573762404.135800",
+        "parent_user_id": "UL4QTFQCT",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UL4QTFQCT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e4e7be1-db5c-4f61-b4b3-90f657b74f64",
+        "type": "message",
+        "text": "Thanks <@UL4TUV38B> it helps! I think was shooting for lower than I could really go :slightly_smiling_face:",
+        "user": "UL4QTFQCT",
+        "ts": "1573766873.140400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "63ae1925b9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-11\/711618038786_63ae1925b9ddf72b3957_72.jpg",
+            "first_name": "Mile",
+            "real_name": "Mile Zivkovic",
+            "display_name": "Mile Zivkovic",
+            "team": "TJE58GTJL",
+            "name": "zivkovic.m.mile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573762404.135800",
+        "parent_user_id": "UL4QTFQCT"
+    },
+    {
+        "client_msg_id": "6c9fd4b4-ecfc-4cb4-a2b4-3aec264e2e8c",
+        "type": "message",
+        "text": "That's normal, too. If you have some trusted friends you can do this with, I always benefit from a sanity check and sharing my estimate with someone else before sending it out. :slightly_smiling_face:",
+        "user": "UL4TUV38B",
+        "ts": "1573767030.140600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c1fcc8eb5742",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-16\/1360677760262_c1fcc8eb5742ad012747_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Bosco",
+            "display_name": "Laura Bosco",
+            "team": "TJE58GTJL",
+            "name": "laura.e.hash",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573762404.135800",
+        "parent_user_id": "UL4QTFQCT"
+    },
+    {
+        "client_msg_id": "b937b18e-9d45-472d-ac17-ad3eafc19b85",
+        "type": "message",
+        "text": "Phew! Thank you so so much, <@UJDPMTREY>. :pray: It's hard to wrap my head around the concept, but your detailed explanation helps tons.",
+        "user": "UJS7GK1TP",
+        "ts": "1573781169.141500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab9ba13964bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-03\/646679825121_ab9ba13964bb9b12d7df_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla Tan",
+            "display_name": "Priscilla Tan",
+            "team": "TJE58GTJL",
+            "name": "priscilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573723158.124200",
+        "parent_user_id": "UJS7GK1TP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJDPMTREY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01e2b400-31c2-4f99-8e2e-14846df2c7df",
+        "type": "message",
+        "text": "<@UQ3GRPQDP> I'm going to jot this down and pin it on my bulletin board",
+        "user": "UJS7GK1TP",
+        "ts": "1573781278.141800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab9ba13964bb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-03\/646679825121_ab9ba13964bb9b12d7df_72.jpg",
+            "first_name": "Priscilla",
+            "real_name": "Priscilla Tan",
+            "display_name": "Priscilla Tan",
+            "team": "TJE58GTJL",
+            "name": "priscilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573723158.124200",
+        "parent_user_id": "UJS7GK1TP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ3GRPQDP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cad16f85-978e-432e-9262-90d746ce8af8",
+        "type": "message",
+        "text": "I wouldn’t recommend. Which is a shame, because aside from that it’s a really nice platform to use.",
+        "user": "UJ36Q2ZRQ",
+        "ts": "1573794804.142200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb8e98952305",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65b8e98952305f0ae0f90c7439718680.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Kym",
+            "real_name": "Kym Ellis",
+            "display_name": "Kym",
+            "team": "TJE58GTJL",
+            "name": "kym",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571388293.034000",
+        "parent_user_id": "UJ36Q2ZRQ"
+    },
+    {
+        "client_msg_id": "38f69237-80ec-4717-9e62-010e27d9adee",
+        "type": "message",
+        "text": "hey Mile, this sounds like it could easily turn into a full-time engagement (in terms of how much time it takes you, irrespective of whether they actually treat you as full-time), so I’d think about how much I want to make per month and quote based on that",
+        "user": "UJG4WTGKS",
+        "ts": "1573800985.142400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g59d2a818266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a59d2a81826605914ba3f4b78c3fa6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Markov",
+            "display_name": "Ilia Markov",
+            "team": "TJE58GTJL",
+            "name": "hello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573759681.129800",
+        "parent_user_id": "UL4QTFQCT",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UL4QTFQCT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

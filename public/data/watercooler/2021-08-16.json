@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "1e195468-292e-4844-922e-4ca65d650919",
+        "type": "message",
+        "text": "Random question -- Is there any way to view traffic performance of articles that have been published by clients? Or is the only way to ask them directly. I suspect so. :thinking_face:",
+        "user": "U01CVQ02E5S",
+        "ts": "1629131780.062800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91fb1bea2fa4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1438887916964_91fb1bea2fa42a24028d_72.jpg",
+            "first_name": "David",
+            "real_name": "David Harrington",
+            "display_name": "Dave H",
+            "team": "TJE58GTJL",
+            "name": "harrington.dw",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YDDM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Random question -- Is there any way to view traffic performance of articles that have been published by clients? Or is the only way to ask them directly. I suspect so. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629131780.062800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1629269110.066200",
+        "reply_users": [
+            "U017XD7H4P7",
+            "U01CVQ02E5S",
+            "U019P0ADPCH"
+        ],
+        "replies": [
+            {
+                "user": "U017XD7H4P7",
+                "ts": "1629132330.062900"
+            },
+            {
+                "user": "U01CVQ02E5S",
+                "ts": "1629132462.063100"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1629269110.066200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "191fe91c-a199-4bbf-9c3a-d0d7ac458dc7",
+        "type": "message",
+        "text": "You could use a tool like ahrefs to ballpark traffic, based on rankings across their corpus of keywords, combined with standard CTRs for those positions in SERP.  It won't be particularly accurate, compared to Analytics, but it'll be accurate in terms of how it's trending, traffic-wise",
+        "user": "U017XD7H4P7",
+        "ts": "1629132330.062900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ab77023918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1256516765207_f9ab77023918e4c2b919_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Dietrich",
+            "display_name": "Erik Dietrich",
+            "team": "TJE58GTJL",
+            "name": "erik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8=iF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You could use a tool like ahrefs to ballpark traffic, based on rankings across their corpus of keywords, combined with standard CTRs for those positions in SERP.  It won't be particularly accurate, compared to Analytics, but it'll be accurate in terms of how it's trending, traffic-wise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629131780.062800",
+        "parent_user_id": "U01CVQ02E5S"
+    },
+    {
+        "client_msg_id": "436f8ba3-1edf-4747-9ebb-65923520de66",
+        "type": "message",
+        "text": "cool thnx Erik will give it a go!",
+        "user": "U01CVQ02E5S",
+        "ts": "1629132462.063100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91fb1bea2fa4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1438887916964_91fb1bea2fa42a24028d_72.jpg",
+            "first_name": "David",
+            "real_name": "David Harrington",
+            "display_name": "Dave H",
+            "team": "TJE58GTJL",
+            "name": "harrington.dw",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ezc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool thnx Erik will give it a go!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629131780.062800",
+        "parent_user_id": "U01CVQ02E5S",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U017XD7H4P7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

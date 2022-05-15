@@ -1,0 +1,618 @@
+[
+    {
+        "client_msg_id": "21c5fbfd-c27b-46a9-9150-94760df88e42",
+        "type": "message",
+        "text": "Hey all! I am so excited to announce that our Data Tracking Planner for Figma is *launching on Product Hunt* today! *We hope to get your feedback and support* for the next 24 hrs at the link below:exclamation:\n\n The plugin allows you to:\n\n:label: *Label tracking events* directly on your Figma canvas, set with properties, tags, platform, status and more\n:white_check_mark: *Create intuitive tracking plans* in Figma, with interaction screenshots, comments, tags and implementation status\n:page_facing_up: *Export your tracking plan directly to Jira*! Updates sync with your Figma tracking plan, so it doubles as a dashboard!\n....All without ever leaving Figma!\n\nThat’s it. We appreciate your support on Product Hunt, and hope to see many of you saving time with Qualas!\n<https:\/\/bit.ly\/3JYDLV7>\n\nP.S. If I posted this in the wrong channel, please do let me know! :pray:\n\nSpecial thanks to <@U03CRUCG3CG> for co-founding this with me!",
+        "user": "U038569EH3Q",
+        "ts": "1650534962.056449",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "45ea755e162b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3403196924038_45ea755e162bfd32b4fb_72.png",
+            "first_name": "Laur",
+            "real_name": "Laur Ciorobea",
+            "display_name": "Laur Ciorobea",
+            "team": "TJE58GTJL",
+            "name": "ciorobea.laur",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/bit.ly\/3JYDLV7",
+                "image_url": "https:\/\/ph-files.imgix.net\/00f92d1e-34d4-4cf6-bff8-b0417a0bf672.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 184744,
+                "service_icon": "https:\/\/ph-static.imgix.net\/ph-ios-icon.png?auto=format&amp;auto=compress",
+                "id": 1,
+                "original_url": "https:\/\/bit.ly\/3JYDLV7",
+                "fallback": "Product Hunt: Qualas.io - Simplifying your data tracking, directly from Figma | Product Hunt",
+                "text": ":white_check_mark:Define your tracking :email:Send it to Jira :male-technologist:Monitor implementation.. all without ever leaving Figma! :sparkles: Your one source of truth for your tracking plan, so you can save time on your setup :hourglass: and focus on making the right decisions for your company! :dart:",
+                "title": "Qualas.io - Simplifying your data tracking, directly from Figma | Product Hunt",
+                "title_link": "https:\/\/bit.ly\/3JYDLV7",
+                "service_name": "Product Hunt"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHR3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all! I am so excited to announce that our Data Tracking Planner for Figma is"
+                            },
+                            {
+                                "type": "text",
+                                "text": " launching on Product Hunt ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "today! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "We hope to get your feedback and support",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the next 24 hrs at the link below"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n The plugin allows you to:\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "label"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Label tracking events ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "directly on your Figma canvas, set with properties, tags, platform, status and more\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Create intuitive tracking plans",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in Figma, with interaction screenshots, comments, tags and implementation status\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "page_facing_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Export your tracking plan directly to Jira",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Updates sync with your Figma tracking plan, so it doubles as a dashboard!\n....All without ever leaving Figma!\n\nThat’s it. We appreciate your support on Product Hunt, and hope to see many of you saving time with Qualas!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/3JYDLV7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nP.S. If I posted this in the wrong channel, please do let me know! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSpecial thanks to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CRUCG3CG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for co-founding this with me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650534962.056449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1650537192.201709",
+        "reply_users": [
+            "U03CRUCG3CG"
+        ],
+        "replies": [
+            {
+                "user": "U03CRUCG3CG",
+                "ts": "1650537192.201709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03CRUCG3CG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U03CRUCG3CG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dart",
+                "users": [
+                    "U03CRUCG3CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7625ab28-5a74-469c-83b5-3afd965eab1f",
+        "type": "message",
+        "text": "Thanks for the mention <@U038569EH3Q>, really happy to be pushing this out today! I hope everyone here enjoys the app, and do not hesitate to write us comments if you have any feedback. See you on Product Hunt! :fire:",
+        "user": "U03CRUCG3CG",
+        "ts": "1650537192.201709",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c2fa50857e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3403727483494_c2fa50857e264a225682_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Hofmann",
+            "display_name": "Noah Hofmann",
+            "team": "TJE58GTJL",
+            "name": "hofmann.noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+LOJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the mention "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U038569EH3Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", really happy to be pushing this out today! I hope everyone here enjoys the app, and do not hesitate to write us comments if you have any feedback. See you on Product Hunt! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650534962.056449",
+        "parent_user_id": "U038569EH3Q"
+    },
+    {
+        "type": "message",
+        "text": "What's up everyone? We've been working with a beta group on Creator Pages and now opening up our waitlist. We'll be rolling out access in batches. If you are looking for a place to consolidate your work, distribute content to the right people, and build an audience on a new channel Creator Pages might be for you. :beverage_box: <https:\/\/www.thejuicehq.com\/creators-waitlist>",
+        "files": [
+            {
+                "id": "F03D30FRVUG",
+                "created": 1650548522,
+                "timestamp": 1650548522,
+                "name": "220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9 (2) (1).png",
+                "title": "220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9 (2) (1).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01JGE01ZA8",
+                "editable": false,
+                "size": 110413,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F03D30FRVUG\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1_.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F03D30FRVUG\/download\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1_.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F03D30FRVUG-eda97373e7\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1__1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1200,
+                "original_h": 675,
+                "thumb_tiny": "AwAbADDR6g81DJdRxttJOR14zU2AMkDk9az5yRcPj27ZoWr1AnN7F6t\/3zSG8iOPv8HPAxVUscHJHP8As0whcfe\/SrshXNCG6WV9gDZ65NT85PpWfYj\/AEg\/7prRxUyWowqnPBK0rPGQAcd6uUGknYDOMFxjBOfxqM20w\/gNaYAx0FLgegp8zAp2UbpMxZCBt4zVwcYAHH1pRxTViRW3KMH60PUD\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01JGE01ZA8\/F03D30FRVUG\/220414-the-juice-annoucncement-creator-pages-waitlist-v4_1_16_9__2___1_.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F03D30FRVUG-0075be8ef9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01JGE01ZA8",
+        "display_as_bot": false,
+        "ts": "1650548531.808189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WviB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's up everyone? We've been working with a beta group on Creator Pages and now opening up our waitlist. We'll be rolling out access in batches. If you are looking for a place to consolidate your work, distribute content to the right people, and build an audience on a new channel Creator Pages might be for you. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beverage_box"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thejuicehq.com\/creators-waitlist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cfc00391-c4bb-4125-b141-1276e63c478e",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.thejuicehq.com\/creators-waitlist",
+                "id": 1,
+                "original_url": "https:\/\/www.thejuicehq.com\/creators-waitlist",
+                "fallback": "Creator page waitlist - The Juice",
+                "text": "Join the waitlist to get your own Creator page on The Juice.",
+                "title": "Creator page waitlist - The Juice",
+                "title_link": "https:\/\/www.thejuicehq.com\/creators-waitlist",
+                "service_name": "thejuicehq.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02G1JY459N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8d4111c-6b98-4f55-8957-137bf2110ebc",
+        "type": "message",
+        "text": "Excited about this guidebook I wrote!\n\n:star:15 Airtable Design Best Practices: What Companies Need to Know\n\nIf your business is using Airtable, check this out to ensure your base is set up for success.\n\nYou can grab a copy here - <https:\/\/on2air.com\/resources\/15-airtable-design-best-practices\/>",
+        "user": "UUJBMNRNF",
+        "ts": "1650558349.488649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUJBMNRNF",
+            "ts": "1650558362.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/on2air.com\/resources\/15-airtable-design-best-practices\/",
+                "ts": 1648834079,
+                "image_url": "https:\/\/on2air.com\/wp\/..\/uploads\/15-Airtable-Design-Best-Practices-Checklist-What-You-Need-to-Know-1.png",
+                "image_width": 465,
+                "image_height": 250,
+                "image_bytes": 348948,
+                "service_icon": "https:\/\/on2air.com\/wp\/..\/uploads\/2020\/04\/on2air-logo-just-plane-300x300.png",
+                "id": 1,
+                "original_url": "https:\/\/on2air.com\/resources\/15-airtable-design-best-practices\/",
+                "fallback": "On2Air | Airtable Apps for Your Business Operations: 15 Airtable Design Best Practices: What Companies Need to Know | On2Air",
+                "text": "Wondering where to start when designing your Airtable base? We’ve created this 15-point checklist of Airtable best practices to review when you’re ready to design your Airtable base.",
+                "title": "15 Airtable Design Best Practices: What Companies Need to Know | On2Air",
+                "title_link": "https:\/\/on2air.com\/resources\/15-airtable-design-best-practices\/",
+                "service_name": "On2Air | Airtable Apps for Your Business Operations"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BpmrB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excited about this guidebook I wrote!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15 Airtable Design Best Practices: What Companies Need to Know\n\nIf your business is using Airtable, check this out to ensure your base is set up for success.\n\nYou can grab a copy here - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/on2air.com\/resources\/15-airtable-design-best-practices\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U016BDEQ40J",
+                    "UJFELMVU1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e319f822-73cc-4cac-91ec-e54479eae2a2",
+        "type": "message",
+        "text": "Paraphrasing tools use AI to help you re-word bad sentences. But do they work well? And which one works better? I reviewed two in my latest blog post <https:\/\/twitter.com\/contentbluep\/status\/1517224100762112000>",
+        "user": "U020DJ63Y3F",
+        "ts": "1650569566.645589",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e99b05371894",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-18\/3264361295714_e99b0537189470358fd3_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa McEwen",
+            "display_name": "Melissa McEwen",
+            "team": "TJE58GTJL",
+            "name": "mgmcewen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/contentbluep\/status\/1517224100762112000",
+                "ts": 1650569388,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/contentbluep\/status\/1517224100762112000",
+                "fallback": "<https:\/\/twitter.com\/contentbluep|@contentbluep>: In my latest blog post I review two paraphrasing tools: Quillbot and Wordtune. If you're stuck with a clunky sentence, these tools can help. But how do they stack up? <https:\/\/content-blueprint.com\/2022\/04\/21\/wordtune-vs-quillbot-which-paraphrasing-tool-is-the-best\/>",
+                "text": "In my latest blog post I review two paraphrasing tools: Quillbot and Wordtune. If you're stuck with a clunky sentence, these tools can help. But how do they stack up? <https:\/\/content-blueprint.com\/2022\/04\/21\/wordtune-vs-quillbot-which-paraphrasing-tool-is-the-best\/>",
+                "author_name": "Melissa McEwen @ Content Blueprint",
+                "author_link": "https:\/\/twitter.com\/contentbluep\/status\/1517224100762112000",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1352760410244583425\/tlRHXy9Q_normal.jpg",
+                "author_subname": "@contentbluep",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zqF=A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Paraphrasing tools use AI to help you re-word bad sentences. But do they work well? And which one works better? I reviewed two in my latest blog post "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/contentbluep\/status\/1517224100762112000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef4ef184-e82c-4cb3-9b04-81653616a904",
+        "type": "message",
+        "text": "Hi everyone! I am part of the team that is organizing Heapcon, an IT &amp; tech conference for software engineers and technology enthusiasts that will take place on November 3rd and 4th in Belgrade Serbia. If anybody is interested to be a speaker, you can apply at <https:\/\/heapcon.io\/call-for-papers\/>",
+        "user": "U0184681J68",
+        "ts": "1650579529.466489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g3241e165b74",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3241e165b742d4ac9f7426b304214ac8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Iva",
+            "real_name": "Iva Jovanovic",
+            "display_name": "Iva",
+            "team": "TJE58GTJL",
+            "name": "ivajovanovic32",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0184681J68",
+            "ts": "1650579630.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! I am part of the team that is organizing Heapcon, an IT & tech conference for software engineers and technology enthusiasts that will take place on November 3rd and 4th in Belgrade Serbia. If anybody is interested to be a speaker, you can apply at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/heapcon.io\/call-for-papers\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1011f8a-6d3c-4743-88e6-9f463e0e25d1",
+        "type": "message",
+        "text": "I am a copywriter but I still tell clients to not hire me. Here's why:\n\n<https:\/\/www.linkedin.com\/posts\/israninavin_conversionrateoptimization-hiring-landingpages-activity-6923160793903484928-VwUR?utm_source=linkedin_share&amp;utm_medium=member_desktop_web|https:\/\/www.linkedin.com\/posts\/israninavin_conversionrateoptimization-hiring-landingpages-activity-6923160793903484928-VwUR?utm_source=linkedin_share&amp;utm_medium=member_desktop_web>",
+        "user": "U0207Q19V0U",
+        "ts": "1650610277.177959",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bb66b0c0e7eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-26\/2002270314323_bb66b0c0e7eb29a9755a_72.jpg",
+            "first_name": "",
+            "real_name": "Navin Israni",
+            "display_name": "Navin Israni",
+            "team": "TJE58GTJL",
+            "name": "thecreativemastermind",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.linkedin.com\/posts\/israninavin_conversionrateoptimization-hiring-landingpages-activity-6923160793903484928-VwUR?utm_source=linkedin_share&utm_medium=member_desktop_web",
+                "image_url": "https:\/\/static-exp1.licdn.com\/sc\/h\/c45fy346jw096z9pbphyyhdz7",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 34857,
+                "service_icon": "https:\/\/static-exp1.licdn.com\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/posts\/israninavin_conversionrateoptimization-hiring-landingpages-activity-6923160793903484928-VwUR?utm_source=linkedin_share&amp;utm_medium=member_desktop_web",
+                "fallback": "Navin Israni on LinkedIn: #ConversionRateOptimization #Hiring #LandingPages",
+                "text": "I am a copywriter, but I often tell some clients to not hire me. If you put their a conversion copywriter’s copy on your landing page, your job is not...",
+                "title": "Navin Israni on LinkedIn: #ConversionRateOptimization #Hiring #LandingPages",
+                "title_link": "https:\/\/www.linkedin.com\/posts\/israninavin_conversionrateoptimization-hiring-landingpages-activity-6923160793903484928-VwUR?utm_source=linkedin_share&utm_medium=member_desktop_web",
+                "service_name": "linkedin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Po4K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am a copywriter but I still tell clients to not hire me. Here's why:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/israninavin_conversionrateoptimization-hiring-landingpages-activity-6923160793903484928-VwUR?utm_source=linkedin_share&utm_medium=member_desktop_web",
+                                "text": "https:\/\/www.linkedin.com\/posts\/israninavin_conversionrateoptimization-hiring-landingpages-activity-6923160793903484928-VwUR?utm_source=linkedin_share&utm_medium=member_desktop_web"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

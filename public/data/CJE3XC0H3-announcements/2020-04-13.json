@@ -1,0 +1,878 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1586763220.093400",
+        "thread_ts": "1586763220.093400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586784027.093900",
+        "reply_users": [
+            "UUY24HLUW",
+            "UJE5LQ2JC"
+        ],
+        "replies": [
+            {
+                "user": "UUY24HLUW",
+                "ts": "1586765418.093700"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1586784027.093900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5b32f393-e068-4f56-ba3d-f611065648bc",
+        "type": "message",
+        "text": "It's good! But it'll be way better if you could add voice over as well. It'll make the whole thing engaging and give a human touch :)",
+        "user": "UUY24HLUW",
+        "ts": "1586765418.093700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9cc095429d6f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-24\/1530124072964_9cc095429d6f3ce7f254_72.png",
+            "first_name": "Arvind",
+            "real_name": "Arvind Kesh",
+            "display_name": "Kesh",
+            "team": "TJE58GTJL",
+            "name": "digikhiladi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Kj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's good! But it'll be way better if you could add voice over as well. It'll make the whole thing engaging and give a human touch :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586763220.093400",
+        "parent_user_id": "U010D7TJG3V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010D7TJG3V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U010D7TJG3V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3ae1ad8-573f-4015-9adf-b6921ddd4ac8",
+        "type": "message",
+        "text": "<@U010D7TJG3V> please dont post links in more than one channel. It spams our notifications",
+        "user": "UJE5LQ2JC",
+        "ts": "1586784027.093900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IeH0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010D7TJG3V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please dont post links in more than one channel. It spams our notifications"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586763220.093400",
+        "parent_user_id": "U010D7TJG3V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010D7TJG3V",
+                    "UJG9WTEKG",
+                    "UJ420S7MG",
+                    "UJ2QESJ66"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2a34578-506a-4ae2-9417-a4182f3b3a79",
+        "type": "message",
+        "text": "Same here, I'd be happy to chat.",
+        "user": "UQQLHESET",
+        "ts": "1586789087.094500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8967be708048",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-18\/826177454642_8967be708048703cd720_72.jpg",
+            "first_name": "Martina",
+            "real_name": "Martina Cicakova",
+            "display_name": "Martina Cicakova",
+            "team": "TJE58GTJL",
+            "name": "cicakova.martina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8CZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same here, I'd be happy to chat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586547355.089200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0122M4R6SD",
+                "created": 1586806493,
+                "timestamp": 1586806493,
+                "name": "Screenshot 2020-04-13 13.34.22.png",
+                "title": "Screenshot 2020-04-13 13.34.22.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UJG9WTEKG",
+                "editable": false,
+                "size": 59667,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0122M4R6SD\/screenshot_2020-04-13_13.34.22.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0122M4R6SD\/download\/screenshot_2020-04-13_13.34.22.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0122M4R6SD-f92d0dbf14\/screenshot_2020-04-13_13.34.22_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0122M4R6SD-f92d0dbf14\/screenshot_2020-04-13_13.34.22_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0122M4R6SD-f92d0dbf14\/screenshot_2020-04-13_13.34.22_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 245,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0122M4R6SD-f92d0dbf14\/screenshot_2020-04-13_13.34.22_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 327,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0122M4R6SD-f92d0dbf14\/screenshot_2020-04-13_13.34.22_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "original_w": 586,
+                "original_h": 399,
+                "thumb_tiny": "AwAgADDQYkE9aTcfenkD0FJ8vtQAhz2JpPm9T\/n8KfkAHoKCQM5I45oAZlvenLkn2pQwOMEcjIpQcjigApuenXr6U6kx9fzoAQ5wcEjn0pT3+npSEHB\/xoG4k5GPxoAB1X6elKOlJg5B544604DAoA\/\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJG9WTEKG\/F0122M4R6SD\/screenshot_2020-04-13_13.34.22.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F0122M4R6SD-79bf6f4881",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UJG9WTEKG",
+        "display_as_bot": false,
+        "ts": "1586806494.097200",
+        "client_msg_id": "ed53dd6f-4c98-4c91-a5b8-da582ced370d",
+        "thread_ts": "1586806494.097200",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1586811898.101500",
+        "reply_users": [
+            "UJE5LARL0",
+            "UJG9WTEKG",
+            "U010JU2GTND"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LARL0",
+                "ts": "1586807501.099200"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1586807567.099400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1586807861.099600"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1586807979.099800"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1586807996.100000"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1586808027.100200"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1586808214.100400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1586808216.100600"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1586808426.100800"
+            },
+            {
+                "user": "U010JU2GTND",
+                "ts": "1586811434.101200"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1586811898.101500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1586811898.101500"
+    },
+    {
+        "client_msg_id": "32e0221b-34a9-4f84-b345-ada60f72a4f0",
+        "type": "message",
+        "text": "this is from the weekly report slack sends me. it looks like 2\/3 of the messages in this group last week were DMs. if you DM someone, please ask permission in a public channel first. if anyone has concerns about DMs, please let me know. ideally most of the communication happens in public channels so everyone can learn\/benefit\/contribute.",
+        "user": "UJG9WTEKG",
+        "ts": "1586806549.098600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1586806560.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SGNlj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is from the weekly report slack sends me. it looks like 2\/3 of the messages in this group last week were DMs. if you DM someone, please ask permission in a public channel first. if anyone has concerns about DMs, please let me know. ideally most of the communication happens in public channels so everyone can learn\/benefit\/contribute."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJDRK6E4C",
+                    "UJG12DM1V",
+                    "UUVC5QGA0",
+                    "UUFFE4T6J",
+                    "UJ420S7MG",
+                    "UJLANJY1K",
+                    "UMX8MPHA6",
+                    "UJ4A0H534",
+                    "UQHP55C7Q",
+                    "UR3A94N4R",
+                    "U011Q6ZJN3C"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42d5d443-ceba-41f2-9660-4e9ff6977b46",
+        "type": "message",
+        "text": "This is awesome!",
+        "user": "U0109FC8H7Y",
+        "ts": "1586806584.098800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be85d10e5bf3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1185499540836_be85d10e5bf36beaefba_72.png",
+            "first_name": "Doug",
+            "real_name": "Doug Patterson",
+            "display_name": "Doug Patterson",
+            "team": "TJE58GTJL",
+            "name": "dougp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Oz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585665549.049100",
+        "parent_user_id": "UM7QJPCVA"
+    },
+    {
+        "client_msg_id": "7e59092d-3f32-4d17-9992-2ca258f4787d",
+        "type": "message",
+        "text": "Hey Jimmy - I'd interpret these numbers a little differently. Obviously harassing people via DMs or spamming via DM is bad, but that pattern of usage is (to me) mostly indicative that people are forming good relationships on here and networking  (ala the \"hallway track\" at a conference).",
+        "user": "UJE5LARL0",
+        "ts": "1586807501.099200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6YgW8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Jimmy - I'd interpret these numbers a little differently. Obviously harassing people via DMs or spamming via DM is bad, but that pattern of usage is (to me) mostly indicative that people are forming good relationships on here and networking  (ala the \"hallway track\" at a conference)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "0771510d-da53-423e-8079-226150556c13",
+        "type": "message",
+        "text": "This is based on my own running a similarly sized dev\/bootstrapped biz Slack group and being part of a massive digital marketing Slack group.",
+        "user": "UJE5LARL0",
+        "ts": "1586807567.099400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyKS=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is based on my own running a similarly sized dev\/bootstrapped biz Slack group and being part of a massive digital marketing Slack group."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "bc37c325-7d83-4555-9add-456f58f837a7",
+        "type": "message",
+        "text": "<@UJE5LARL0> that’s great feedback. i hope that is the case, it made me a little uneasy to see that",
+        "user": "UJG9WTEKG",
+        "ts": "1586807861.099600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LARL0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that’s great feedback. i hope that is the case, it made me a little uneasy to see that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "35504e33-7438-4568-8008-8057ad93bc0c",
+        "type": "message",
+        "text": "Something OG does that helps is they give all the mods a blue checkbmark (ala Twitter) and it's understood that if anybody has an issue it gets reported to the mods",
+        "user": "UJE5LARL0",
+        "ts": "1586807979.099800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8SM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Something OG does that helps is they give all the mods a blue checkbmark (ala Twitter) and it's understood that if anybody has an issue it gets reported to the mods"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "29edef3f-d9ed-4440-a189-44d8491b3c9c",
+        "type": "message",
+        "text": "and those are issues are creepy DMs, spam, etc.",
+        "user": "UJE5LARL0",
+        "ts": "1586807996.100000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+hS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and those are issues are creepy DMs, spam, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "3b77a1eb-58d6-49b5-bbc1-82e697c8d732",
+        "type": "message",
+        "text": "It's like a Code of Conduct - that there's a clear escalation point if there's an issue",
+        "user": "UJE5LARL0",
+        "ts": "1586808027.100200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1HmAM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's like a Code of Conduct - that there's a clear escalation point if there's an issue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "9788b427-9139-43fc-a3fc-0d95a85dfc08",
+        "type": "message",
+        "text": "right",
+        "user": "UJG9WTEKG",
+        "ts": "1586808214.100400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I16\/=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "3e54dcfc-db4b-4579-b01a-31f383e2d95c",
+        "type": "message",
+        "text": "that’s a good call",
+        "user": "UJG9WTEKG",
+        "ts": "1586808216.100600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that’s a good call"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "type": "message",
+        "text": "Here's what the checks look like and we just make sure nobody else uses that as flair",
+        "files": [
+            {
+                "id": "F011QUP5G2E",
+                "created": 1586808425,
+                "timestamp": 1586808425,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UJE5LARL0",
+                "editable": false,
+                "size": 12512,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F011QUP5G2E\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F011QUP5G2E\/download\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F011QUP5G2E-3fec1c44de\/image_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F011QUP5G2E-3fec1c44de\/image_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F011QUP5G2E-3fec1c44de\/image_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 298,
+                "thumb_360_h": 79,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F011QUP5G2E-3fec1c44de\/image_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "original_w": 298,
+                "original_h": 79,
+                "thumb_tiny": "AwAMADCCOKNogzHnJzzTNic\/K5wT0NRUUAS7Fx9yT9KNi54ST3qKjJ9aAHlOp2timnHakooA\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJE5LARL0\/F011QUP5G2E\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F011QUP5G2E-9e47dc2ac4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UJE5LARL0",
+        "display_as_bot": false,
+        "ts": "1586808426.100800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FMw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's what the checks look like and we just make sure nobody else uses that as flair"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a7576722-f629-4501-b0a4-6ad463104825",
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "dac72741-5e62-43b8-957a-889f2bf8ee39",
+        "type": "message",
+        "text": "Hey!\n\nYeah, at least personally speaking I’ve had a lot of DMs but they’ve all been super awesome conversations vs. anything spammy :slightly_smiling_face:",
+        "user": "U010JU2GTND",
+        "ts": "1586811434.101200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "470bba81271c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029299482741_470bba81271c13b2eb40_72.png",
+            "first_name": "Hiba",
+            "real_name": "Hiba",
+            "display_name": "Hiba",
+            "team": "TJE58GTJL",
+            "name": "hiba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "woeRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey!\n\nYeah, at least personally speaking I’ve had a lot of DMs but they’ve all been super awesome conversations vs. anything spammy "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "URAV154AV",
+                    "U0105JEFJ1F",
+                    "U010GTFAFK9",
+                    "UUVC0EX8C",
+                    "URL9Z88MR"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e957f740-6596-4eb3-8781-1a59e7b564a9",
+        "type": "message",
+        "text": "that is great to hear!",
+        "user": "UJG9WTEKG",
+        "ts": "1586811898.101500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wh89",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that is great to hear!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586806494.097200",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

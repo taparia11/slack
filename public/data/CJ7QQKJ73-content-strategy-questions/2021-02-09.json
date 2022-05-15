@@ -1,0 +1,1529 @@
+[
+    {
+        "client_msg_id": "38545a19-4804-4a90-b4ea-eedc5dfcb0d1",
+        "type": "message",
+        "text": "Thanks for the help Erik, Sean, Janessa, Ronnie.",
+        "user": "U01BMSLG941",
+        "ts": "1612858870.386800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "67dc03208f8f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-23\/1384103568067_67dc03208f8fa9372d47_72.jpg",
+            "first_name": "Lalit",
+            "real_name": "Lalit Singh Patel",
+            "display_name": "Lalit Singh Patel",
+            "team": "TJE58GTJL",
+            "name": "lalitsinghpatel11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gzu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the help Erik, Sean, Janessa, Ronnie."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612729160.354200",
+        "parent_user_id": "U01BMSLG941",
+        "reactions": [
+            {
+                "name": "beers",
+                "users": [
+                    "U017XD7H4P7",
+                    "UUH2EB134",
+                    "UJE5LQ2JC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0a80471-5cf6-4dec-9d67-716d22f61ebf",
+        "type": "message",
+        "text": "Hey Matt – it’s a bit hard to tell without looking at it more closely, but based on your explanation here I would doubt it poses an issue to your root\/main website if that is the concern (since it is a separate subdomain after all, think of <http:\/\/WordPress.com|WordPress.com> and all the subdomains they have as a result of users, this doesn’t affect their site negatively)\n\nHowever, my approach to how to handle this would be similar to other decisions:\n\nWhat’s best for users &gt;= What’s best for search &gt;= What’s easy\/cheap\/fast\n\nSo to that end, my follow-up question would be does this legacy user-generated content still serve a purpose to some people and are there any people still finding it via organic search?",
+        "user": "URA4VBQ2X",
+        "ts": "1612863745.387000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb1296cc1b29",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b1296cc1b295be79ad03cfe7690b0907.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Alex",
+            "real_name": "Alex Panagis",
+            "display_name": "Alex Panagis",
+            "team": "TJE58GTJL",
+            "name": "alex",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URA4VBQ2X",
+            "ts": "1612863766.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q\/ApH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Matt – it’s a bit hard to tell without looking at it more closely, but based on your explanation here I would doubt it poses an issue to your root\/main website if that is the concern (since it is a separate subdomain after all, think of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/WordPress.com",
+                                "text": "WordPress.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and all the subdomains they have as a result of users, this doesn’t affect their site negatively)\n\nHowever, my approach to how to handle this would be similar to other decisions:\n\nWhat’s best for users >= What’s best for search >= What’s easy\/cheap\/fast\n\nSo to that end, my follow-up question would be does this legacy user-generated content still serve a purpose to some people and are there any people still finding it via organic search?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612842976.385600",
+        "parent_user_id": "UUKNRAD4Z"
+    },
+    {
+        "client_msg_id": "c34a6794-9f77-4ee1-b192-23289a537b26",
+        "type": "message",
+        "text": "To add on to what <@URA4VBQ2X> said, these are a few super-easy ideas for you. I'd look at your on-page SEO for your main site. Are you clearly defining your company\/site and what it does in the first 100 words (in clear HTML, not in graphics)? I see so many businesses whose homepages say things like \"We are solution providers!\" and that's not going to give Googlebot or Ahrefs\/SEMrush any relevant information for its algorithms. If all the on-page SEO is top-notch, I'd look at your structured data. What's in your <http:\/\/schema.org|schema.org>? Do you have breadcrumbs there (and on-page)? Are all of your page descriptions incredibly clear about what it is the website\/company does? Again, I see a lot of corporate-speak in structured data webpage and website descriptions that doesn't tell Google point-blank what the website\/company does. If all of this for your main site is golden, I'd then be sure your subdomain is equally set up as a well-defined subdomain. If your schema there is just using the exact same structured data as the main site, it will confuse search bots, too. Then, it's always good to look at who you define as competitors and see what they have on their sites for on-page SEO and in their structured data. You don't want to rip it off, but maybe they're doing a bad job of telling Googlebot what they do or maybe your information is too different from theirs (don't rip them off, obviously, but you get what I mean). Anyway ... just some super basic stuff that could potentially help.",
+        "user": "U01BLESEU1E",
+        "ts": "1612882063.387300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1dbdd77688b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-08\/1966184022400_1dbdd77688b55e7dc0f4_72.jpg",
+            "first_name": "Erin",
+            "real_name": "Erin Doland",
+            "display_name": "Erin Doland",
+            "team": "TJE58GTJL",
+            "name": "edoland",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oojn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To add on to what "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URA4VBQ2X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said, these are a few super-easy ideas for you. I'd look at your on-page SEO for your main site. Are you clearly defining your company\/site and what it does in the first 100 words (in clear HTML, not in graphics)? I see so many businesses whose homepages say things like \"We are solution providers!\" and that's not going to give Googlebot or Ahrefs\/SEMrush any relevant information for its algorithms. If all the on-page SEO is top-notch, I'd look at your structured data. What's in your "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/schema.org",
+                                "text": "schema.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Do you have breadcrumbs there (and on-page)? Are all of your page descriptions incredibly clear about what it is the website\/company does? Again, I see a lot of corporate-speak in structured data webpage and website descriptions that doesn't tell Google point-blank what the website\/company does. If all of this for your main site is golden, I'd then be sure your subdomain is equally set up as a well-defined subdomain. If your schema there is just using the exact same structured data as the main site, it will confuse search bots, too. Then, it's always good to look at who you define as competitors and see what they have on their sites for on-page SEO and in their structured data. You don't want to rip it off, but maybe they're doing a bad job of telling Googlebot what they do or maybe your information is too different from theirs (don't rip them off, obviously, but you get what I mean). Anyway ... just some super basic stuff that could potentially help."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612842976.385600",
+        "parent_user_id": "UUKNRAD4Z"
+    },
+    {
+        "client_msg_id": "9c052adf-fb4e-440a-a7b6-21a393fbc696",
+        "type": "message",
+        "text": "Thanks <@U01BLESEU1E> and <@URA4VBQ2X>!",
+        "user": "UUKNRAD4Z",
+        "ts": "1612894022.387600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a1b61d04207",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/972261198097_7a1b61d0420706ec2439_72.jpg",
+            "first_name": "MattM",
+            "real_name": "MattM",
+            "display_name": "MattM",
+            "team": "TJE58GTJL",
+            "name": "mcgma709",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gbvL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BLESEU1E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URA4VBQ2X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612842976.385600",
+        "parent_user_id": "UUKNRAD4Z",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "URA4VBQ2X",
+                    "U01BLESEU1E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bf79049-5f3e-4ef7-9d4e-6e07feec567f",
+        "type": "message",
+        "text": "Agreed with <@U01BLESEU1E> and <@URA4VBQ2X>, <@UUKNRAD4Z>.\n\nI think it’s totally fine but I would _consider_ noindexing it if it’s truly not relevant to your value prop.\n\nIt is interesting, though. If <https:\/\/shorthand.com\/> is your website, the value prop does seem pretty clear to me. Also, a lot of SEO tools are very good at specific SEO tasks, but not great at more sophisticated marketing tasks like guessing at your competitors. (In fact, some are terrible at this.)\n\nSo this particular tool’s performance on that score might not be an indicator of what Google thinks your site is about. For that, I’d probably just see what the most popular keywords are, that you rank for.",
+        "user": "U013WCZ5GSV",
+        "ts": "1612896235.387900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7ccd0d56b0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1361149389360_b7ccd0d56b0aa7e01022_72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Dunham",
+            "display_name": "Justin Dunham",
+            "team": "TJE58GTJL",
+            "name": "justin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Create interactive stories for the web with Shorthand",
+                "title_link": "https:\/\/shorthand.com\/",
+                "text": "The world's most successful brands use Shorthand.",
+                "fallback": "Create interactive stories for the web with Shorthand",
+                "image_url": "https:\/\/shorthand.com\/media\/seo\/Shorthand-Basic.jpg",
+                "from_url": "https:\/\/shorthand.com\/",
+                "image_width": 475,
+                "image_height": 250,
+                "image_bytes": 102965,
+                "service_icon": "https:\/\/shorthand.com\/media\/favicon\/favicon.png",
+                "service_name": "shorthand.com",
+                "id": 1,
+                "original_url": "https:\/\/shorthand.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C7\/U+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BLESEU1E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URA4VBQ2X"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUKNRAD4Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nI think it’s totally fine but I would "
+                            },
+                            {
+                                "type": "text",
+                                "text": "consider",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " noindexing it if it’s truly not relevant to your value prop.\n\nIt is interesting, though. If "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shorthand.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is your website, the value prop does seem pretty clear to me. Also, a lot of SEO tools are very good at specific SEO tasks, but not great at more sophisticated marketing tasks like guessing at your competitors. (In fact, some are terrible at this.)\n\nSo this particular tool’s performance on that score might not be an indicator of what Google thinks your site is about. For that, I’d probably just see what the most popular keywords are, that you rank for."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612842976.385600",
+        "parent_user_id": "UUKNRAD4Z"
+    },
+    {
+        "client_msg_id": "8c4e894f-520e-4609-bd98-c8cf3f059245",
+        "type": "message",
+        "text": "Happy to chat more if you like, just DM!",
+        "user": "U013WCZ5GSV",
+        "ts": "1612896242.388200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7ccd0d56b0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1361149389360_b7ccd0d56b0aa7e01022_72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Dunham",
+            "display_name": "Justin Dunham",
+            "team": "TJE58GTJL",
+            "name": "justin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajoCc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to chat more if you like, just DM!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612842976.385600",
+        "parent_user_id": "UUKNRAD4Z"
+    },
+    {
+        "client_msg_id": "2d6d4e6f-2bf9-4293-afc8-cea5f274b823",
+        "type": "message",
+        "text": "Hey y’all! Any freelancers have pricing advice on email campaigns? I have a client looking to build out a few lead nurturing campaigns for people signing up on their blog (I’ve written 90% of their content + created content upgrades to _get_ these emails but we haven’t done anything with them yet). I’ve done this in-house but never priced it as an independent project so any advice would be appreciated!",
+        "user": "U014ZKC177G",
+        "ts": "1612896898.390700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "302f8f3e1059",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-25\/2218574473444_302f8f3e10594085fd9e_72.jpg",
+            "first_name": "",
+            "real_name": "Jory MacKay",
+            "display_name": "Jory MacKay",
+            "team": "TJE58GTJL",
+            "name": "jory.mackay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey y’all! Any freelancers have pricing advice on email campaigns? I have a client looking to build out a few lead nurturing campaigns for people signing up on their blog (I’ve written 90% of their content + created content upgrades to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "get",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " these emails but we haven’t done anything with them yet). I’ve done this in-house but never priced it as an independent project so any advice would be appreciated!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612896898.390700",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1613121135.449900",
+        "reply_users": [
+            "U01D0FSPDV4",
+            "U01L4BE0A0M",
+            "U01G5ED8K0V"
+        ],
+        "replies": [
+            {
+                "user": "U01D0FSPDV4",
+                "ts": "1612979074.412900"
+            },
+            {
+                "user": "U01L4BE0A0M",
+                "ts": "1612996004.416800"
+            },
+            {
+                "user": "U01G5ED8K0V",
+                "ts": "1613121135.449900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "184214b3-8e01-4aad-a435-d2b3300643b3",
+        "type": "message",
+        "text": "Hallo my friends. Quick SEO question. One of the companies in our industry want to re-post an article we’ve posted on our blog, on their blog. It makes sense relationship and content wise, but SEO wise I’m worried. We have higher domain authority and much more traffic than them, but I don’t want to shoot myself in the foot because the post is quite long and optimized for keywords we really want to rank for. I know that Google isn’t a fan of duplicate content either, but I wasn’t sure if that just applied to content on the same domain. Anywho, your insights are greatly appreciated!",
+        "user": "UJ420S7MG",
+        "ts": "1612897059.393400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "582aa21bfc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629332107879_582aa21bfc2076e148a1_72.jpg",
+            "first_name": "Kyla",
+            "real_name": "Kyla Sims",
+            "display_name": "Kyla Sims",
+            "team": "TJE58GTJL",
+            "name": "kyla.sims",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D7s4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hallo my friends. Quick SEO question. One of the companies in our industry want to re-post an article we’ve posted on our blog, on their blog. It makes sense relationship and content wise, but SEO wise I’m worried. We have higher domain authority and much more traffic than them, but I don’t want to shoot myself in the foot because the post is quite long and optimized for keywords we really want to rank for. I know that Google isn’t a fan of duplicate content either, but I wasn’t sure if that just applied to content on the same domain. Anywho, your insights are greatly appreciated!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612897059.393400",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1613057288.427600",
+        "reply_users": [
+            "UUXMCJQ15",
+            "UVCDN5SQZ",
+            "U01881ZL1B6",
+            "U01LECPAECX",
+            "UJ420S7MG",
+            "U01MM4F6HTP"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1612897094.393500"
+            },
+            {
+                "user": "UVCDN5SQZ",
+                "ts": "1612897148.393700"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1612897402.394000"
+            },
+            {
+                "user": "U01881ZL1B6",
+                "ts": "1612899073.394800"
+            },
+            {
+                "user": "U01LECPAECX",
+                "ts": "1612899791.395200"
+            },
+            {
+                "user": "UJ420S7MG",
+                "ts": "1612900100.395600"
+            },
+            {
+                "user": "U01MM4F6HTP",
+                "ts": "1613057288.427600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a78b2270-3004-4eed-9955-ff05ee953558",
+        "type": "message",
+        "text": "If you ask them to add a canonical tag back to your article, you’ll be all set!",
+        "user": "UUXMCJQ15",
+        "ts": "1612897094.393500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you ask them to add a canonical tag back to your article, you’ll be all set!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612897059.393400",
+        "parent_user_id": "UJ420S7MG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U01HY3C4Q6Q",
+                    "U01L8LM4TU2",
+                    "UJ420S7MG",
+                    "U01J8CFTV51",
+                    "URLKJLWKS",
+                    "U019MUQ6QKV"
+                ],
+                "count": 6
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01EJ7VE9FD",
+                    "U01L8LM4TU2",
+                    "U01BLESEU1E",
+                    "U01J8CFTV51",
+                    "U019MUQ6QKV",
+                    "U011QQDDSJV"
+                ],
+                "count": 6
+            },
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U01KGTNFLVA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b57911d-2bb9-4bb2-9fb9-36e4aa0c97cf",
+        "type": "message",
+        "text": "^^ Yep! That’s what canonical tags are for!",
+        "user": "UVCDN5SQZ",
+        "ts": "1612897148.393700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "46f501e256d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3053376698566_46f501e256d6e8bdab86_72.png",
+            "first_name": "Deedi",
+            "real_name": "Deedi Brown",
+            "display_name": "Deedi",
+            "team": "TJE58GTJL",
+            "name": "dcboland1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xl4Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^ Yep! That’s what canonical tags are for!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612897059.393400",
+        "parent_user_id": "UJ420S7MG"
+    },
+    {
+        "client_msg_id": "9bb74331-f0ed-4f13-9cb9-7a3be583ab62",
+        "type": "message",
+        "text": "Also, if that sounds like a foreign concept for them, you can also find out what CMS they’re on, Google that CMS + “adding a canconical tag” and send them that article. Things like that tend to save a ton of time and\/or confusion.",
+        "user": "UUXMCJQ15",
+        "ts": "1612897402.394000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tREJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, if that sounds like a foreign concept for them, you can also find out what CMS they’re on, Google that CMS + “adding a canconical tag” and send them that article. Things like that tend to save a ton of time and\/or confusion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612897059.393400",
+        "parent_user_id": "UJ420S7MG"
+    },
+    {
+        "client_msg_id": "d7986dda-e573-4e29-b751-69a92a6763d8",
+        "type": "message",
+        "text": "Thanks <@U013WCZ5GSV>. I think we're doing pretty well and have all the basics covered. It's more a case of planning to level up with a more sophisticated (and resource-intensive) content strategy, and considering whether there are any lingering fishhooks that might make that strategy difficult to implement (like confusing signals to search). Sounds like that's not going to be a problem though!",
+        "user": "UUKNRAD4Z",
+        "ts": "1612897618.394200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a1b61d04207",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/972261198097_7a1b61d0420706ec2439_72.jpg",
+            "first_name": "MattM",
+            "real_name": "MattM",
+            "display_name": "MattM",
+            "team": "TJE58GTJL",
+            "name": "mcgma709",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9vy6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013WCZ5GSV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I think we're doing pretty well and have all the basics covered. It's more a case of planning to level up with a more sophisticated (and resource-intensive) content strategy, and considering whether there are any lingering fishhooks that might make that strategy difficult to implement (like confusing signals to search). Sounds like that's not going to be a problem though!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612842976.385600",
+        "parent_user_id": "UUKNRAD4Z",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013WCZ5GSV",
+                    "U01BLESEU1E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "196c5aff-60f2-4efb-9380-64d5226c4405",
+        "type": "message",
+        "text": "Another option would be for them to cite that \"this article first appeared on <http:\/\/xyz.com|xyz.com>\" or something like that at the beginning\/end of the article when reposting. I wouldn't fret over one article being republished on another domain from an SEO's POV though. I wouldn't want to scale that practice too much, or do it for many of my top pieces of content, but sometimes the relationship &gt; the SEO value.",
+        "user": "U01881ZL1B6",
+        "ts": "1612899073.394800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26aa0c7a3874",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1261098762535_26aa0c7a38743cbca630_72.jpg",
+            "first_name": "Matt",
+            "real_name": "Matt Koulas",
+            "display_name": "Matt Koulas",
+            "team": "TJE58GTJL",
+            "name": "mattkoulas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mne",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another option would be for them to cite that \"this article first appeared on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/xyz.com",
+                                "text": "xyz.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" or something like that at the beginning\/end of the article when reposting. I wouldn't fret over one article being republished on another domain from an SEO's POV though. I wouldn't want to scale that practice too much, or do it for many of my top pieces of content, but sometimes the relationship > the SEO value."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612897059.393400",
+        "parent_user_id": "UJ420S7MG"
+    },
+    {
+        "client_msg_id": "5d169015-6bf1-4596-b3de-e60eeaf61942",
+        "type": "message",
+        "text": "+1 to the canonical tag - shouldn’t be a problem at all if you do that!",
+        "user": "U01LECPAECX",
+        "ts": "1612899791.395200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7940a7cd2009",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-08\/1734300328372_7940a7cd200964cb73a8_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Thomas",
+            "display_name": "Michael Thomas",
+            "team": "TJE58GTJL",
+            "name": "michael248",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jP0q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 to the canonical tag - shouldn’t be a problem at all if you do that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612897059.393400",
+        "parent_user_id": "UJ420S7MG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01MM4F6HTP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ced2aa80-37fa-4dc1-901b-f8bf75d1057d",
+        "type": "message",
+        "text": "Thanks all!",
+        "user": "UJ420S7MG",
+        "ts": "1612900100.395600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "582aa21bfc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629332107879_582aa21bfc2076e148a1_72.jpg",
+            "first_name": "Kyla",
+            "real_name": "Kyla Sims",
+            "display_name": "Kyla Sims",
+            "team": "TJE58GTJL",
+            "name": "kyla.sims",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1=ep",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612897059.393400",
+        "parent_user_id": "UJ420S7MG"
+    },
+    {
+        "client_msg_id": "21a31b5a-8238-4fc9-b61d-9825fff16141",
+        "type": "message",
+        "text": "I just did a search here, and if this has been addressed already, apologies! We’re using Medium for our blog posts. Are we hosing our SEO as a result? We have on our site a JS widget that shows all the posts and their previews (when they click it goes to Medium). Did I just screw up our SEO? :itsfine:",
+        "user": "U01MGBGFJ9K",
+        "ts": "1612923171.399500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9aaf827df42c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-09\/1758081168864_9aaf827df42c56140034_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Hitchler",
+            "display_name": "Ryan Hitchler",
+            "team": "TJE58GTJL",
+            "name": "ryan201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sclYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just did a search here, and if this has been addressed already, apologies! We’re using Medium for our blog posts. Are we hosing our SEO as a result? We have on our site a JS widget that shows all the posts and their previews (when they click it goes to Medium). Did I just screw up our SEO? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "itsfine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "reply_count": 24,
+        "reply_users_count": 9,
+        "latest_reply": "1613116440.442000",
+        "reply_users": [
+            "UUJBMNRNF",
+            "UJE5LQ2JC",
+            "U01MGBGFJ9K",
+            "U014PRHQUQ2",
+            "UJJFDTN8G",
+            "UUXMCJQ15",
+            "U013WCZ5GSV",
+            "U01MM4F6HTP",
+            "UJG24P8P6"
+        ],
+        "replies": [
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1612923339.399600"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1612923350.399800"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1612923375.400000"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1612923411.400300"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1612923495.400600"
+            },
+            {
+                "user": "U01MGBGFJ9K",
+                "ts": "1612923638.400800"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1612923670.401300"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1612940775.401700"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1612940840.401900"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1612942383.402100"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1612946226.402300"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1612946449.402500"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1612946592.402700"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1612972927.406400"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1612972949.406600"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1612974533.407000"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1612974827.407200"
+            },
+            {
+                "user": "U013WCZ5GSV",
+                "ts": "1612983021.413300"
+            },
+            {
+                "user": "U013WCZ5GSV",
+                "ts": "1612983043.413600"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1613029724.418800"
+            },
+            {
+                "user": "U01MM4F6HTP",
+                "ts": "1613057183.427200"
+            },
+            {
+                "user": "U01MGBGFJ9K",
+                "ts": "1613057365.427800"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1613084245.441500"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1613116440.442000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "577a7fe6-42b3-4714-95b5-84513e4f9951",
+        "type": "message",
+        "text": "I would use your own domain for blog posts, so you're building up authority with traffic coming to your own domain\n\nThen, you can duplicate each article to Medium. You can set a canonical link in the Medium article to avoid any duplicate issues.\n\n<https:\/\/help.medium.com\/hc\/en-us\/articles\/360033930293-Set-a-canonical-link>",
+        "user": "UUJBMNRNF",
+        "ts": "1612923339.399600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would use your own domain for blog posts, so you're building up authority with traffic coming to your own domain\n\nThen, you can duplicate each article to Medium. You can set a canonical link in the Medium article to avoid any duplicate issues.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/help.medium.com\/hc\/en-us\/articles\/360033930293-Set-a-canonical-link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01LGQ5F50X",
+                    "U01K26PH1L3",
+                    "U01BLESEU1E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bf8c08f-c6d9-4cc4-acb4-82cb454284e9",
+        "type": "message",
+        "text": "<https:\/\/help.medium.com\/hc\/en-us\/articles\/217991468-About-SEO-and-duplicate-content>",
+        "user": "UUJBMNRNF",
+        "ts": "1612923350.399800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OCc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/help.medium.com\/hc\/en-us\/articles\/217991468-About-SEO-and-duplicate-content"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K"
+    },
+    {
+        "client_msg_id": "401376e3-1d16-4ba6-a2a1-1d633bf31cfa",
+        "type": "message",
+        "text": "100% agreed. Plus, you own your platform! Medium can (and has) change the way they display or surface your content and kill off your audience",
+        "user": "UJE5LQ2JC",
+        "ts": "1612923375.400000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJE5LQ2JC",
+            "ts": "1612923386.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6c5QE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100% agreed. Plus, you own your platform! Medium can (and has) change the way they display or surface your content and kill off your audience"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "UUJBMNRNF",
+                    "U014PRHQUQ2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "994bc1d5-a4a9-4414-aeb0-102e352ec06c",
+        "type": "message",
+        "text": "<@UJE5LQ2JC> - we need the 'own your platform' dance",
+        "user": "UUJBMNRNF",
+        "ts": "1612923411.400300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6FXIJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LQ2JC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - we need the 'own your platform' dance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UJE5LQ2JC",
+                    "U015B88C4CA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0427c7b-9b75-438e-8179-f503f792af43",
+        "type": "message",
+        "text": "the widget is useful for when you really just needed to 'get the blog posts somewhere' but yes, move those posts to your own domain as soon as you can!",
+        "user": "UUJBMNRNF",
+        "ts": "1612923495.400600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JyO1i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the widget is useful for when you really just needed to 'get the blog posts somewhere' but yes, move those posts to your own domain as soon as you can!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K"
+    },
+    {
+        "client_msg_id": "f090188b-c351-4991-aad0-1740157259e6",
+        "type": "message",
+        "text": "I knew it!! Thanks all! :bow: Now, a lot of work ahead..",
+        "user": "U01MGBGFJ9K",
+        "ts": "1612923638.400800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9aaf827df42c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-09\/1758081168864_9aaf827df42c56140034_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Hitchler",
+            "display_name": "Ryan Hitchler",
+            "team": "TJE58GTJL",
+            "name": "ryan201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ub=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I knew it!! Thanks all! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Now, a lot of work ahead.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K"
+    },
+    {
+        "client_msg_id": "480375E3-E4DF-4878-8CFB-9DFB15E037A5",
+        "type": "message",
+        "text": "You got this! :raised_hands:",
+        "user": "UUJBMNRNF",
+        "ts": "1612923670.401300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0CJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You got this! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K"
+    },
+    {
+        "client_msg_id": "6cef7f18-01b3-449c-b97b-f5f1ebe31345",
+        "type": "message",
+        "text": "There’s no 100% guarantee that Google will always rank the blog article on your site, over the one you publish on Medium despite it having that canonical. I’ve seen some examples of the duplicate outranking the original purely based on authority.",
+        "user": "U014PRHQUQ2",
+        "ts": "1612940775.401700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There’s no 100% guarantee that Google will always rank the blog article on your site, over the one you publish on Medium despite it having that canonical. I’ve seen some examples of the duplicate outranking the original purely based on authority."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grimacing",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5491ca76-f706-40b0-ac48-e13034df4b13",
+        "type": "message",
+        "text": "Ideally, you make some adjustments or publish a shorter version on Medium",
+        "user": "U014PRHQUQ2",
+        "ts": "1612940840.401900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P=w1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ideally, you make some adjustments or publish a shorter version on Medium"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39e63140-9a7c-4362-ba4a-ea7244c1b088",
+        "type": "message",
+        "text": "I'm gonna buck the trend and say use Medium. We get 100,000s of unique views on top of our blog which gets millions. They're unique, they convert, and they've had no negative impact on SEO. Just don't forget the canonical.\n\nI use Medium as our biggest \"promotion\" technique.",
+        "user": "UJJFDTN8G",
+        "ts": "1612942383.402100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UdE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm gonna buck the trend and say use Medium. We get 100,000s of unique views on top of our blog which gets millions. They're unique, they convert, and they've had no negative impact on SEO. Just don't forget the canonical.\n\nI use Medium as our biggest \"promotion\" technique."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612923171.399500",
+        "parent_user_id": "U01MGBGFJ9K",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF",
+                    "UJG24P8P6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "UJE5LQ2JC",
+                    "UJ2N9A3GT"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

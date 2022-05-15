@@ -1,0 +1,542 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1634026883.173900",
+        "thread_ts": "1634026883.173900",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1636122651.037600",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02CUMQBP9R"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634073774.179500"
+            },
+            {
+                "user": "U02CUMQBP9R",
+                "ts": "1636122651.037600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1636122651.037600",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01R20TCV1P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efd955cc-814b-42e1-98f4-912dd839f4ef",
+        "type": "message",
+        "text": "Hello everyone, I am looking for a course, comprehensive guide, etc. on\n• Setting up content marketing strategy for b2b \/ tech company\n• How to build the (content) marketing team (from 1 full time employee working with freelancers to a CMO hiring the first mktg employees)\nnot free content, could be paid courses, books, guides, etc.  - it should be \"advanced\" or \"senior\" level content\nthanks for any tips!",
+        "user": "U01R20TCV1P",
+        "ts": "1634066785.178100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga036c064994",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a036c0649942980b819cae6d614fe36f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Rolf Mistelbacher",
+            "display_name": "Rolf Mistelbacher",
+            "team": "TJE58GTJL",
+            "name": "rolf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWGd8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, I am looking for a course, comprehensive guide, etc. on\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Setting up content marketing strategy for b2b \/ tech company"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "How to build the (content) marketing team (from 1 full time employee working with freelancers to a CMO hiring the first mktg employees)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not free content, could be paid courses, books, guides, etc.  - it should be \"advanced\" or \"senior\" level content\nthanks for any tips!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634066785.178100",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1634216767.190900",
+        "reply_users": [
+            "UUVRX9C13",
+            "U01R20TCV1P",
+            "U01L6NE17PA",
+            "U02AUQ0KMGC"
+        ],
+        "replies": [
+            {
+                "user": "UUVRX9C13",
+                "ts": "1634067587.178400"
+            },
+            {
+                "user": "U01R20TCV1P",
+                "ts": "1634067606.178600"
+            },
+            {
+                "user": "UUVRX9C13",
+                "ts": "1634067866.178800"
+            },
+            {
+                "user": "U01L6NE17PA",
+                "ts": "1634070560.179000"
+            },
+            {
+                "user": "U02AUQ0KMGC",
+                "ts": "1634208576.190700"
+            },
+            {
+                "user": "UUVRX9C13",
+                "ts": "1634216767.190900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02ADS3DDFF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68ad9371-c8d0-4b06-a85d-6540a34d779a",
+        "type": "message",
+        "text": "Can I message you on this?",
+        "user": "UUVRX9C13",
+        "ts": "1634067587.178400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0DGk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I message you on this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634066785.178100",
+        "parent_user_id": "U01R20TCV1P"
+    },
+    {
+        "client_msg_id": "9ccf2154-4fd1-4658-a082-0434ac3c1f1a",
+        "type": "message",
+        "text": "sure",
+        "user": "U01R20TCV1P",
+        "ts": "1634067606.178600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga036c064994",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a036c0649942980b819cae6d614fe36f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "Rolf Mistelbacher",
+            "display_name": "Rolf Mistelbacher",
+            "team": "TJE58GTJL",
+            "name": "rolf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3hxC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634066785.178100",
+        "parent_user_id": "U01R20TCV1P"
+    },
+    {
+        "client_msg_id": "73d9a483-767e-4a42-bcbe-bd7ecfe02cd8",
+        "type": "message",
+        "text": "Done.",
+        "user": "UUVRX9C13",
+        "ts": "1634067866.178800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ejo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634066785.178100",
+        "parent_user_id": "U01R20TCV1P"
+    },
+    {
+        "client_msg_id": "faf47595-20ef-45ae-8c15-e1912bb49380",
+        "type": "message",
+        "text": "I highly recommend checking out the grow and convert course - <https:\/\/growandconvert.com\/top-content-marketer\/>",
+        "user": "U01L6NE17PA",
+        "ts": "1634070560.179000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gca46ef8c4ce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ca46ef8c4ce4178f4a463a389f40aa97.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Nathaniel Rodriguez",
+            "display_name": "Nathaniel Rodriguez",
+            "team": "TJE58GTJL",
+            "name": "nate",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Grow and Convert",
+                "title": "Become a Top Content Marketer: Our Course and Community",
+                "title_link": "https:\/\/growandconvert.com\/top-content-marketer\/",
+                "text": "Grow and Convert's course and community aimed at helping marketers improve their skills around content marketing, writing, and acquisition.",
+                "fallback": "Grow and Convert: Become a Top Content Marketer: Our Course and Community",
+                "image_url": "https:\/\/growandconvert.com\/wp-content\/uploads\/2020\/03\/Cover-1-1024x576.png",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1588787438,
+                "from_url": "https:\/\/growandconvert.com\/top-content-marketer\/",
+                "image_bytes": 309448,
+                "service_icon": "https:\/\/growandconvert.com\/wp-content\/uploads\/2015\/11\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/growandconvert.com\/top-content-marketer\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z7ZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I highly recommend checking out the grow and convert course - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/growandconvert.com\/top-content-marketer\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634066785.178100",
+        "parent_user_id": "U01R20TCV1P",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01R20TCV1P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3db8b1e8-e856-45d1-866d-5307958be1ca",
+        "type": "message",
+        "text": "<@U02CUMQBP9R> in general, we ask that people post their own writing in <#C012AUSC85C|promotion>. i'll remove this one but feel free to repost there",
+        "user": "UJG9WTEKG",
+        "ts": "1634073774.179500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=GgA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CUMQBP9R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in general, we ask that people post their own writing in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". i'll remove this one but feel free to repost there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634026883.173900",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "f96b6162-2f0d-4734-8284-16ab8398d493",
+        "type": "message",
+        "text": "Hello folks so I want to improve my SaaS writing skills. Are there any good resources for the same? (Free or paid anything)",
+        "user": "U02HD0L8HAP",
+        "ts": "1634098210.181200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "675c42a91f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-10\/2928364816754_675c42a91f6571f4ac6b_72.jpg",
+            "first_name": "Aanchal",
+            "real_name": "Aanchal Parmar",
+            "display_name": "Aanchal Parmar",
+            "team": "TJE58GTJL",
+            "name": "aanywrites",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DlQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello folks so I want to improve my SaaS writing skills. Are there any good resources for the same? (Free or paid anything)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634098210.181200",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1634140067.183500",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U01T87W1YSJ",
+            "U02HD0L8HAP"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634139774.182200"
+            },
+            {
+                "user": "U01T87W1YSJ",
+                "ts": "1634139783.182400"
+            },
+            {
+                "user": "U01T87W1YSJ",
+                "ts": "1634139878.182700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634139909.183100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634139916.183300"
+            },
+            {
+                "user": "U02HD0L8HAP",
+                "ts": "1634140067.183500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1634140067.183500"
+    },
+    {
+        "client_msg_id": "07e2577f-61d0-47c1-a357-42727e693d81",
+        "type": "message",
+        "text": "What kind of writing? Product? Story? Educational blog? Lots of answers for this one.",
+        "user": "U02GFCTS89J",
+        "ts": "1634106239.181900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1911a59ab4a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-01\/2570431495553_1911a59ab4a804da14e5_72.png",
+            "first_name": "Julian",
+            "real_name": "Julian Schaaf",
+            "display_name": "Julian Schaaf",
+            "team": "TJE58GTJL",
+            "name": "julian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What kind of writing? Product? Story? Educational blog? Lots of answers for this one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634106239.181900",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1634207104.190400",
+        "reply_users": [
+            "U02HD0L8HAP",
+            "U022UU70RNG"
+        ],
+        "replies": [
+            {
+                "user": "U02HD0L8HAP",
+                "ts": "1634136856.182000"
+            },
+            {
+                "user": "U022UU70RNG",
+                "ts": "1634207008.190100"
+            },
+            {
+                "user": "U02HD0L8HAP",
+                "ts": "1634207104.190400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

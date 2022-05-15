@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "7d084127-7d77-460e-aaaf-1846c15c9085",
+        "type": "message",
+        "text": "<@UUH2EB134> – It’s because his script copies over all of the fields except the “Days Prior” column, which is required to calculate the dates.\n\nI don’t know how to fix it in an automated fashion, because the fields for the Script are limited, but if you manually set the “Days Before” or copy it from an existing record then everything seems to work just fine.\n\nHere’s the test workspace I built to replicate the results.\n\n<https:\/\/airtable.com\/invite\/l?inviteId=inviq0Cco735pdzL0&amp;inviteToken=82f9451de3a796ebe35fc6e04edd664d202f8faa13cd72ae6982a6745a32418a&amp;utm_source=email|https:\/\/airtable.com\/invite\/l?inviteId=inviq0Cco735pdzL0&amp;inviteToken=82f9451de3a796[…]fc6e04edd664d202f8faa13cd72ae6982a6745a32418a&amp;utm_source=email>",
+        "user": "UUKNLHZ4H",
+        "ts": "1634218563.345300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g89372393756",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/893723937564334db84de4fcf5171d86.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "James Sowers",
+            "display_name": "James Sowers",
+            "team": "TJE58GTJL",
+            "name": "jamesrsowers",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Airtable",
+                "title": "Airtable | Everyone's app platform",
+                "title_link": "https:\/\/airtable.com\/invite\/l?inviteId=inviq0Cco735pdzL0&inviteToken=82f9451de3a796ebe35fc6e04edd664d202f8faa13cd72ae6982a6745a32418a&utm_source=email",
+                "text": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+                "fallback": "Airtable: Airtable | Everyone's app platform",
+                "image_url": "https:\/\/static.airtable.com\/images\/oembed\/airtable.png",
+                "from_url": "https:\/\/airtable.com\/invite\/l?inviteId=inviq0Cco735pdzL0&inviteToken=82f9451de3a796ebe35fc6e04edd664d202f8faa13cd72ae6982a6745a32418a&utm_source=email",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 12718,
+                "service_icon": "https:\/\/airtable.com\/images\/favicon\/baymax\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/airtable.com\/invite\/l?inviteId=inviq0Cco735pdzL0&amp;inviteToken=82f9451de3a796ebe35fc6e04edd664d202f8faa13cd72ae6982a6745a32418a&amp;utm_source=email"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            },
+                            {
+                                "type": "text",
+                                "text": " – It’s because his script copies over all of the fields except the “Days Prior” column, which is required to calculate the dates.\n\nI don’t know how to fix it in an automated fashion, because the fields for the Script are limited, but if you manually set the “Days Before” or copy it from an existing record then everything seems to work just fine.\n\nHere’s the test workspace I built to replicate the results.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/airtable.com\/invite\/l?inviteId=inviq0Cco735pdzL0&inviteToken=82f9451de3a796ebe35fc6e04edd664d202f8faa13cd72ae6982a6745a32418a&utm_source=email",
+                                "text": "https:\/\/airtable.com\/invite\/l?inviteId=inviq0Cco735pdzL0&inviteToken=82f9451de3a796[…]fc6e04edd664d202f8faa13cd72ae6982a6745a32418a&utm_source=email"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634145831.343600",
+        "parent_user_id": "UUH2EB134",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUH2EB134"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "988b3f61-6853-49bd-94e2-af17f1a59274",
+        "type": "message",
+        "text": "We saw a 50% increase in traffic to product pages that were being de-indexed due to a bug with how they were caching, but pretty specific use case and a no duh. so i'd focus on pages that are being incorrectly excluded in coverage, and then foundational page speed work that can help lift content performance (we saw a boost when launching static pages for our blog, but also timed with an increase in content production)",
+        "user": "U024BHRFEPQ",
+        "ts": "1634233712.349900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5ac97b01b21f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-09\/2167000534817_5ac97b01b21f0f3ea279_72.jpg",
+            "first_name": "",
+            "real_name": "Kristen Haney",
+            "display_name": "Kristen Haney",
+            "team": "TJE58GTJL",
+            "name": "khaney",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yr3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We saw a 50% increase in traffic to product pages that were being de-indexed due to a bug with how they were caching, but pretty specific use case and a no duh. so i'd focus on pages that are being incorrectly excluded in coverage, and then foundational page speed work that can help lift content performance (we saw a boost when launching static pages for our blog, but also timed with an increase in content production)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633071946.258500",
+        "parent_user_id": "U01DBK8S96V",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0f4ffd9-cd3c-4446-a78c-c58110bfeb0b",
+        "type": "message",
+        "text": "my contentful instance is awful for content production but that may be because our developers havent invested in updating it as we've scaled content. but highly manual. great if you're looking for a headless CMS and need flexibility with how widgets appear in different page types, but i got the same bang for my buck using wordpress guttenberg for much less headache",
+        "user": "U024BHRFEPQ",
+        "ts": "1634233972.350100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5ac97b01b21f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-09\/2167000534817_5ac97b01b21f0f3ea279_72.jpg",
+            "first_name": "",
+            "real_name": "Kristen Haney",
+            "display_name": "Kristen Haney",
+            "team": "TJE58GTJL",
+            "name": "khaney",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aeots",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my contentful instance is awful for content production but that may be because our developers havent invested in updating it as we've scaled content. but highly manual. great if you're looking for a headless CMS and need flexibility with how widgets appear in different page types, but i got the same bang for my buck using wordpress guttenberg for much less headache"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634050394.330400",
+        "parent_user_id": "U01KGTNFLVA"
+    }
+]

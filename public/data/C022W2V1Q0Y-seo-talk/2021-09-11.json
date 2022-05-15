@@ -1,0 +1,324 @@
+[
+    {
+        "client_msg_id": "ee53e07c-5068-43c5-9ab2-9e021ea87774",
+        "type": "message",
+        "text": "A quick question for those with experience with global ecommerce sites. My client is a small online photo book company in Switzerland trying to expand in the US, UK and Germany. Some companies stick with just the .com, others have localised domains for each market ie a .<http:\/\/co.uk|co.uk>, .de etc. Are there any best practice recommendations? Any thoughts on this would be appreciated. Thanks and have a great day!",
+        "user": "U02BZFUT0P8",
+        "ts": "1631344184.104400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6335bdadf1ce",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-11\/2492799972945_6335bdadf1ce1cb32bc5_72.png",
+            "first_name": "Melissa",
+            "real_name": "Melissa Birchler",
+            "display_name": "Melissa Birchler",
+            "team": "TJE58GTJL",
+            "name": "melissa701",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02BZFUT0P8",
+            "ts": "1631346948.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdZ8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A quick question for those with experience with global ecommerce sites. My client is a small online photo book company in Switzerland trying to expand in the US, UK and Germany. Some companies stick with just the .com, others have localised domains for each market ie a ."
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/co.uk",
+                                "text": "co.uk"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", .de etc. Are there any best practice recommendations? Any thoughts on this would be appreciated. Thanks and have a great day!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631344184.104400",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1631632639.124100",
+        "reply_users": [
+            "U02A8UR3Z60",
+            "U02BZFUT0P8",
+            "U02CNJTK7TN"
+        ],
+        "replies": [
+            {
+                "user": "U02A8UR3Z60",
+                "ts": "1631385751.114200"
+            },
+            {
+                "user": "U02A8UR3Z60",
+                "ts": "1631385817.115700"
+            },
+            {
+                "user": "U02BZFUT0P8",
+                "ts": "1631433478.116600"
+            },
+            {
+                "user": "U02CNJTK7TN",
+                "ts": "1631632317.123600"
+            },
+            {
+                "user": "U02BZFUT0P8",
+                "ts": "1631632639.124100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "AA937903-303B-4111-A184-68D15C2B7F53",
+        "type": "message",
+        "text": "Hi Mel! There’s a lot to think through with this and no “right” answer. Definitely pros and cons to both setups.\n\nHaving multiple domains can help you dominate separate markets, but it also multiplies the work. Each ccTLD requires its own backlink profile, optimization strategy and management in order to be successful. I also want to note that deploying ccTLD’s are definitely long term initiatives (1+ years until the start of results) so make sure that this strategy is in line with the company’s long term goals. \n\nBefore pressing forward with multiple sites I would ask the following questions:\n1. Do you have the resources to support multiple sites? (I have a team of five working on seven ccTLD’s with me and honestly it’s still not enough to really pick them up off the ground IMO).\n2. Do you have localization experts for each region who can assist you with localization efforts and country-specific SEO?\n3. Is there an element of local-specific searches that your client can capture? If not, it might not be worth it.\n4. Is the SERP in each country dominated by .com or by a ccTLD? If it’s a .com; it might not be worth it.\n5. Can your client afford the additional costs associated with multiple sites?",
+        "user": "U02A8UR3Z60",
+        "ts": "1631385751.114200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WoD8A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Mel! There’s a lot to think through with this and no “right” answer. Definitely pros and cons to both setups.\n\nHaving multiple domains can help you dominate separate markets, but it also multiplies the work. Each ccTLD requires its own backlink profile, optimization strategy and management in order to be successful. I also want to note that deploying ccTLD’s are definitely long term initiatives (1+ years until the start of results) so make sure that this strategy is in line with the company’s long term goals. \n\nBefore pressing forward with multiple sites I would ask the following questions:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do you have the resources to support multiple sites?"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (I have a team of five working on seven ccTLD’s with me and honestly it’s still not enough to really pick them up off the ground IMO)."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do you have localization experts for each region who can assist you with localization efforts and country-specific SEO?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Is there an element of local-specific searches that your client can capture? If not, it might not be worth it."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Is the SERP in each country dominated by .com or by a ccTLD? If it’s a .com; it might not be worth it."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can your client afford the additional costs associated with multiple sites?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631344184.104400",
+        "parent_user_id": "U02BZFUT0P8",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U02BTBBH887"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BDD3266D-BD6A-4A1E-98E3-2F3FC5CB8DED",
+        "type": "message",
+        "text": "All in all - if your company can capture localized searches via using ccTLD’s and have the resources (both money and time) to support them, it might be worth it! ",
+        "user": "U02A8UR3Z60",
+        "ts": "1631385817.115700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xOl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All in all - if your company can capture localized searches via using ccTLD’s and have the resources (both money and time) to support them, it might be worth it! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631344184.104400",
+        "parent_user_id": "U02BZFUT0P8"
+    },
+    {
+        "client_msg_id": "7ace98eb-32ba-4264-8d4a-17a198754c5f",
+        "type": "message",
+        "text": "Location authority = you want to have your business rank for the long tail search (i.e. \"Content Writers _in Boston_\").\n• for example, if `content writers` is very difficult to rank for (it's hard, and not super valuable to boot)\nIf other people know the \"content writer\" work is typically remote, even fewer searches will be made for the long tail keyword.\n\nDo you have any keyword in mind that you think your location might have a niche? It would be interesting to find such a keyword, since logically, remote work doesn't gain local authority.",
+        "user": "U0287DCG133",
+        "ts": "1631428478.116000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3ce7d2f91523",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-11\/2391948089728_3ce7d2f915236852d49a_72.jpg",
+            "first_name": "Stuart",
+            "real_name": "Stuart Bowlin",
+            "display_name": "Stuart Bowlin",
+            "team": "TJE58GTJL",
+            "name": "stuart450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0287DCG133",
+            "ts": "1631428653.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/pP0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Location authority = you want to have your business rank for the long tail search (i.e. \"Content Writers "
+                            },
+                            {
+                                "type": "text",
+                                "text": "in Boston",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\").\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "for example, if "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "content writers",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is very difficult to rank for (it's hard, and not super valuable to boot)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIf other people know the \"content writer\" work is typically remote, even fewer searches will be made for the long tail keyword.\n\nDo you have any keyword in mind that you think your location might have a niche? It would be interesting to find such a keyword, since logically, remote work doesn't gain local authority."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631306558.099700",
+        "parent_user_id": "U023Q8E7MNE"
+    }
+]

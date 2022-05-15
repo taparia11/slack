@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "5032ce43-e9e7-461a-9310-b910545ad454",
+        "type": "message",
+        "text": "Thanks <@U019MUQ6QKV> - that’s helpful",
+        "user": "U0125MKEXFS",
+        "ts": "1600355686.008900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0058a70ee16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0058a70ee16931f3b9a73a4a4a959082.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Andy",
+            "real_name": "Andy Parker",
+            "display_name": "Andy Parker",
+            "team": "TJE58GTJL",
+            "name": "andy610",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQZgF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U019MUQ6QKV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - that’s helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1598026801.002600",
+        "parent_user_id": "U0125MKEXFS",
+        "reactions": [
+            {
+                "name": "v",
+                "users": [
+                    "U019MUQ6QKV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

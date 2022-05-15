@@ -1,0 +1,675 @@
+[
+    {
+        "client_msg_id": "d4bb6bae-eee1-4480-8050-c53d55831cc9",
+        "type": "message",
+        "text": "<!everyone> hey folks! a few quick things for you today:\n• June's office hours will be open to everyone, not just Pro members! Come hangout on June 16 at 1pm ET \/ 10am PT for a chat with Animalz founder <@U011UJX75PE>  Chen. this is an open Zoom call. ask questions or just listen, turn your camera on or leave it off. it'll be informal and fun. <https:\/\/www.addevent.com\/event\/VA6890481|You can add this to your calendar here><https:\/\/click.convertkit-mail2.com\/k0u0pzp49gh6h05m9qil\/8ghqhohg5lrwmmfk\/aHR0cHM6Ly93d3cuYWRkZXZlbnQuY29tL2V2ZW50L1ZBNjg5MDQ4MQ==|.>\n• We've had some great conversations in the Slack group recently. I'd especially recommend <https:\/\/content-career-growth.slack.com\/archives\/CJ7QQKJ73\/p1622754031194700|this one on creating a \"charter\" for your content team>. thanks <@U015EBWSTBR> for kicking this off.\n• i was really interested in Kevan Lee's post on whether or not a blog should be a publication. <https:\/\/content-career-growth.slack.com\/archives\/C016ENU9KNU\/p1623078764072700|you can read it and chat about it in this thread>.\n• a few folks have asked about local channels lately. is there interest for channels in boston, nyc, toronto or elsewhere? lemme know! maybe we can even do an in-person meetup (!!!!!) of these days :exploding_head:\nhope you have a great day and take care :sunglasses:\njimmy",
+        "user": "UJG9WTEKG",
+        "ts": "1623169573.116600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+TZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hey folks! a few quick things for you today:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "June's office hours will be open to everyone, not just Pro members! Come hangout on June 16 at 1pm ET \/ 10am PT for a chat with Animalz founder "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U011UJX75PE"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  Chen. this is an open Zoom call. ask questions or just listen, turn your camera on or leave it off. it'll be informal and fun. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.addevent.com\/event\/VA6890481",
+                                        "text": "You can add this to your calendar here"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/click.convertkit-mail2.com\/k0u0pzp49gh6h05m9qil\/8ghqhohg5lrwmmfk\/aHR0cHM6Ly93d3cuYWRkZXZlbnQuY29tL2V2ZW50L1ZBNjg5MDQ4MQ==",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We've had some great conversations in the Slack group recently. I'd especially recommend "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/content-career-growth.slack.com\/archives\/CJ7QQKJ73\/p1622754031194700",
+                                        "text": "this one on creating a \"charter\" for your content team"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". thanks "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U015EBWSTBR"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " for kicking this off."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "i was really interested in Kevan Lee's post on whether or not a blog should be a publication. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/content-career-growth.slack.com\/archives\/C016ENU9KNU\/p1623078764072700",
+                                        "text": "you can read it and chat about it in this thread"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a few folks have asked about local channels lately. is there interest for channels in boston, nyc, toronto or elsewhere? lemme know! maybe we can even do an in-person meetup (!!!!!) of these days "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "exploding_head"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hope you have a great day and take care "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\njimmy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "reply_count": 11,
+        "reply_users_count": 11,
+        "latest_reply": "1623240796.121100",
+        "reply_users": [
+            "U01AHL8AGBB",
+            "U01FUP6AMEZ",
+            "U01M2NNL7GS",
+            "U01MQD27JG3",
+            "U022P09NXS7",
+            "U0166H7KUAZ",
+            "U022P46SRDX",
+            "UUVRBN6UQ",
+            "U015B88C4CA",
+            "U01TRFJ9J77",
+            "U01616TECAJ"
+        ],
+        "replies": [
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1623172530.116900"
+            },
+            {
+                "user": "U01FUP6AMEZ",
+                "ts": "1623173311.117600"
+            },
+            {
+                "user": "U01M2NNL7GS",
+                "ts": "1623175413.118200"
+            },
+            {
+                "user": "U01MQD27JG3",
+                "ts": "1623175759.118400"
+            },
+            {
+                "user": "U022P09NXS7",
+                "ts": "1623176294.118700"
+            },
+            {
+                "user": "U0166H7KUAZ",
+                "ts": "1623176442.118900"
+            },
+            {
+                "user": "U022P46SRDX",
+                "ts": "1623187058.120000"
+            },
+            {
+                "user": "UUVRBN6UQ",
+                "ts": "1623187447.120200"
+            },
+            {
+                "user": "U015B88C4CA",
+                "ts": "1623192256.120600"
+            },
+            {
+                "user": "U01TRFJ9J77",
+                "ts": "1623228314.120900"
+            },
+            {
+                "user": "U01616TECAJ",
+                "ts": "1623240796.121100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1623240796.121100",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U024M35NUPJ",
+                    "U01T1J6KJL8",
+                    "U01MQD27JG3",
+                    "U020SBAF6UD",
+                    "U015B88C4CA",
+                    "U01TRFJ9J77",
+                    "U015EBWSTBR",
+                    "UV5V2P0VB",
+                    "U015T6HEA95",
+                    "U024E2M8HEC",
+                    "U01J84U3SQ6"
+                ],
+                "count": 11
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U021R75LUF2",
+                    "U012UL77GUT",
+                    "U0248N8E1PV",
+                    "U0105JEFJ1F"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24c22a8e-e3a4-49e8-9f4b-274b605ada36",
+        "type": "message",
+        "text": "<#C0130TBFAJF|toronto> representttt",
+        "user": "U01AHL8AGBB",
+        "ts": "1623172530.116900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C0130TBFAJF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " representttt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U01M2NNL7GS",
+                    "UMX8MPHA6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "six",
+                "users": [
+                    "UJE5LQ2JC",
+                    "U01AHL8AGBB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f3cd6af-4a33-49f8-97d9-ba4e90c4dfe4",
+        "type": "message",
+        "text": "I'd love one for Raleigh-Durham or just North Carolina in general! wouldn't mind leading that effort",
+        "user": "U01FUP6AMEZ",
+        "ts": "1623173311.117600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "128762c3ea3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-01\/1527137254583_128762c3ea3f3d65d19b_72.jpg",
+            "first_name": "Joanna",
+            "real_name": "Joanna Rutter",
+            "display_name": "Joanna Rutter",
+            "team": "TJE58GTJL",
+            "name": "rutterjoanna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ssbn2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd love one for Raleigh-Durham or just North Carolina in general! wouldn't mind leading that effort"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U01S4P7FPMM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74bd03b5-0cb0-4a46-a999-8d24944783e4",
+        "type": "message",
+        "text": "It would be cool to have a Toronto zoom call.",
+        "user": "U01M2NNL7GS",
+        "ts": "1623175413.118200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "213680fd6278",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-05\/1719334905139_213680fd627893b08ff9_72.png",
+            "first_name": "Vahag",
+            "real_name": "Vahag Aydinyan",
+            "display_name": "Vahag",
+            "team": "TJE58GTJL",
+            "name": "vahagn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ni1MJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It would be cool to have a Toronto zoom call."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "aad65b76-1ad5-4f97-8b59-29a84c7565f7",
+        "type": "message",
+        "text": "Yes - NYC channel! let’s meet in persoooon people :star-struck:",
+        "user": "U01MQD27JG3",
+        "ts": "1623175759.118400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5f79b3c47d4a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-16\/1890613621984_5f79b3c47d4aad6e5c36_72.jpg",
+            "first_name": "Lani",
+            "real_name": "Lani Assaf",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "lani.assaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VQzkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes - NYC channel! let’s meet in persoooon people "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "0d6fe3ca-61fa-45d2-8d8b-fb144bc969c8",
+        "type": "message",
+        "text": "Kansas City? Anyone? Anyone?",
+        "user": "U022P09NXS7",
+        "ts": "1623176294.118700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "170fba6adfb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2121083945088_170fba6adfb0a1393ccf_72.jpg",
+            "first_name": "Tiffany",
+            "real_name": "Tiffany Smith",
+            "display_name": "Tiffany Smith",
+            "team": "TJE58GTJL",
+            "name": "tiffanysmithmarcomm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/y=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kansas City? Anyone? Anyone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUVRBN6UQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e068dbc-4e36-4a13-a8cc-456a6641a4d2",
+        "type": "message",
+        "text": "Austin yessir",
+        "user": "U0166H7KUAZ",
+        "ts": "1623176442.118900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f58be1456496",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-29\/1197308509671_f58be1456496f374b7ea_72.jpg",
+            "first_name": "",
+            "real_name": "Phillip Paquette",
+            "display_name": "Phillip Paquette",
+            "team": "TJE58GTJL",
+            "name": "phillippaquette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0166H7KUAZ",
+            "ts": "1623176489.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "158x126px image",
+                "image_url": "https:\/\/tenor.com\/HOpt.gif",
+                "image_width": 158,
+                "image_height": 126,
+                "image_bytes": 465500,
+                "is_animated": true,
+                "from_url": "https:\/\/tenor.com\/HOpt.gif",
+                "id": 1,
+                "original_url": "https:\/\/tenor.com\/HOpt.gif"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohYx4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Austin yessir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "4e0ae34b-ca04-4924-abaa-0ee25bd6240f",
+        "type": "message",
+        "text": "+1 for Boston!",
+        "user": "U022P46SRDX",
+        "ts": "1623187058.120000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1c2d9c345331",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2063983959207_1c2d9c34533169fbbb08_72.jpg",
+            "first_name": "",
+            "real_name": "Meisha Bochicchio",
+            "display_name": "Meisha Bochicchio",
+            "team": "TJE58GTJL",
+            "name": "mbochicchio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AYF5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 for Boston!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "26f530e1-1edd-4523-9a03-43f013ebe96a",
+        "type": "message",
+        "text": "A second vote for nyc!",
+        "user": "UUVRBN6UQ",
+        "ts": "1623187447.120200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ba3146f9d55a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-15\/1854619529206_ba3146f9d55a09ddfe7c_72.jpg",
+            "first_name": "Bogar",
+            "real_name": "Bogar Alonso",
+            "display_name": "Bogar",
+            "team": "TJE58GTJL",
+            "name": "bogar.alonso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0o=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A second vote for nyc!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "7b1736ab-abc6-4639-837e-c2aab8767cf1",
+        "type": "message",
+        "text": "Greater Boston here!",
+        "user": "U015B88C4CA",
+        "ts": "1623192256.120600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0leJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Greater Boston here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623169573.116600",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

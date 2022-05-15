@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "73d6b09a-e6b2-4164-bb7e-293f2571c819",
+        "type": "message",
+        "text": "this is great",
+        "user": "UJG9WTEKG",
+        "ts": "1580141932.002700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LnjG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580002572.002000",
+        "parent_user_id": "USDJZRL7N"
+    },
+    {
+        "client_msg_id": "2a25725b-c744-4a6c-a44b-617f087f8e80",
+        "type": "message",
+        "text": "<@UM7QJPCVA> anything is a dock if you're brave enough to swim a few yards....but I was also skeptical of that. Marinas charge rent level money",
+        "user": "UJE5LARL0",
+        "ts": "1580158700.003900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5hDD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UM7QJPCVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " anything is a dock if you're brave enough to swim a few yards....but I was also skeptical of that. Marinas charge rent level money"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

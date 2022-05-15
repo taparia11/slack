@@ -1,0 +1,1252 @@
+[
+    {
+        "client_msg_id": "9c183e10-9d24-4792-97b1-ad9436d134b8",
+        "type": "message",
+        "text": "Folks, what's the best thing to do when you've got not the best of DAs and you can't rank super high for keywords with very low KD because others have better domains?",
+        "user": "U019P0ADPCH",
+        "ts": "1645778496.952129",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U019P0ADPCH",
+            "ts": "1645778504.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6u9Up",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Folks, what's the best thing to do when you've got not the best of DAs and you can't rank super high for keywords with very low KD because others have better domains?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645778496.952129",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1646283289.503609",
+        "reply_users": [
+            "U02F43CAK5X",
+            "U0359RCHAGY",
+            "U034H601T7X",
+            "U01P13NTGG6",
+            "U02TAHNNAVD"
+        ],
+        "replies": [
+            {
+                "user": "U02F43CAK5X",
+                "ts": "1645798185.514119"
+            },
+            {
+                "user": "U0359RCHAGY",
+                "ts": "1645798572.723369"
+            },
+            {
+                "user": "U02F43CAK5X",
+                "ts": "1645798649.195799"
+            },
+            {
+                "user": "U034H601T7X",
+                "ts": "1645802479.948039"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1645834631.890899"
+            },
+            {
+                "user": "U02TAHNNAVD",
+                "ts": "1646283289.503609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U034Q9PAU90"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30f8a0b8-fccb-4000-9878-04c90b82c7a1",
+        "type": "message",
+        "text": "So it wouldn't be too bad to do this in Wordpress (or just via SQL on the backend)",
+        "user": "UJE5LARL0",
+        "ts": "1645793386.395229",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+hcu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So it wouldn't be too bad to do this in Wordpress (or just via SQL on the backend)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645737255.192729",
+        "parent_user_id": "U024XUB4PUH"
+    },
+    {
+        "client_msg_id": "44a275eb-0810-48c5-9d9b-9f94e1b0be03",
+        "type": "message",
+        "text": "It sounds like you were hacked. Not necessarily by an unhappy employee. This is quite common on WordPress sites.\n1. Don’t waste your effort on fixing the links first. If it’s a backdoor SQL injection it will come back. \n2. Restore the site if you can. Then change admin passwords, server, WordPress admin etc. In the days when I did this type of work I’d even go to the extreme measures to change the hosting provider. It’s very difficult to get rid of a hack especially if you’re targeted.\n3. Reinforce WordPress (there is a plugin iThemes Security that can help).\nLet me know if you need help and I know some experts who can help with this situation.",
+        "user": "U016NBFS16Y",
+        "ts": "1645797236.673079",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dc55ef79eca3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-10\/2813445724023_dc55ef79eca31bc399fa_72.jpg",
+            "first_name": "Lucian",
+            "real_name": "Lucian Florian",
+            "display_name": "Lucian Florian",
+            "team": "TJE58GTJL",
+            "name": "contact348",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkBj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It sounds like you were hacked. Not necessarily by an unhappy employee. This is quite common on WordPress sites.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Don’t waste your effort on fixing the links first. If it’s a backdoor SQL injection it will come back. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Restore the site if you can. Then change admin passwords, server, WordPress admin etc. In the days when I did this type of work I’d even go to the extreme measures to change the hosting provider. It’s very difficult to get rid of a hack especially if you’re targeted."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Reinforce WordPress (there is a plugin iThemes Security that can help)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me know if you need help and I know some experts who can help with this situation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645737255.192729",
+        "parent_user_id": "U024XUB4PUH"
+    },
+    {
+        "client_msg_id": "e401ddba-9d65-47d6-b3ee-e29158691ad1",
+        "type": "message",
+        "text": "See if your brand is uniquely positioned to knock one of those topics out of the park with a post that will definitely surpass what's currently in the SERPs, and focus on that. If you're in the low KD realm, stick with bottom-of-the-funnel keywords.\n\nIf you think there's no possibility of that working, perhaps focus on improving your site's authority (how you do this will depend on how much budget you have) while finding other ways to promote the most useful content for your audience -- do you have any other established channels like email, social, etc.? Could be SEO isn't the best channel yet until you've built up more brand authority\/awareness.",
+        "user": "U02F43CAK5X",
+        "ts": "1645798185.514119",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "96937be5af03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2500350284535_96937be5af03a50d7004_72.jpg",
+            "first_name": "Amanda",
+            "real_name": "Amanda Milligan",
+            "display_name": "Amanda Milligan",
+            "team": "TJE58GTJL",
+            "name": "amilligan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zLD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See if your brand is uniquely positioned to knock one of those topics out of the park with a post that will definitely surpass what's currently in the SERPs, and focus on that. If you're in the low KD realm, stick with bottom-of-the-funnel keywords.\n\nIf you think there's no possibility of that working, perhaps focus on improving your site's authority (how you do this will depend on how much budget you have) while finding other ways to promote the most useful content for your audience -- do you have any other established channels like email, social, etc.? Could be SEO isn't the best channel yet until you've built up more brand authority\/awareness."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645778496.952129",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U019P0ADPCH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U033MEHFJ2J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0d86a48-8792-4260-9a67-bcbbc2923027",
+        "type": "message",
+        "text": "Building up a good foundation of long-tail keywords with low volume\/difficulty and <https:\/\/nichesiteproject.com\/keyword-golden-ratio\/|KGR terms>. It will take some time, but once the snowball gets rolling, you’ll start to rank for more and more keywords. Link building is also important for increasing domain authority and getting individual blogs ranking faster (our company focuses heavily on guest blogging).",
+        "user": "U0359RCHAGY",
+        "ts": "1645798572.723369",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7dd2989bd4d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-24\/3141563210823_b7dd2989bd4d9bfa430d_72.jpg",
+            "first_name": "Joel",
+            "real_name": "Joel Reynolds",
+            "display_name": "Joel Reynolds",
+            "team": "TJE58GTJL",
+            "name": "joel824",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/nichesiteproject.com\/keyword-golden-ratio\/",
+                "ts": 1567335611,
+                "image_url": "https:\/\/nichesiteproject.com\/wp-content\/uploads\/2019\/11\/3.-KGR-Formula.png",
+                "image_width": 657,
+                "image_height": 250,
+                "image_bytes": 5583,
+                "service_icon": "https:\/\/nichesiteproject.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nichesiteproject.com\/keyword-golden-ratio\/",
+                "fallback": "Niche Site Project: Keyword Golden Ratio: Rank in 24 HOURS. DATA DRIVEN LONG TAIL KEYWORDS to RANK in Google - Niche Site Project",
+                "text": "Updated Jan 15, 2021. Getting organic Google traffic to your niche site is critical. Without it, people don’t read the great content you’ve written, click",
+                "title": "Keyword Golden Ratio: Rank in 24 HOURS. DATA DRIVEN LONG TAIL KEYWORDS to RANK in Google - Niche Site Project",
+                "title_link": "https:\/\/nichesiteproject.com\/keyword-golden-ratio\/",
+                "service_name": "Niche Site Project",
+                "fields": [
+                    {
+                        "value": "19 minutes",
+                        "title": "Time to read",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=LMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Building up a good foundation of long-tail keywords with low volume\/difficulty and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nichesiteproject.com\/keyword-golden-ratio\/",
+                                "text": "KGR terms"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It will take some time, but once the snowball gets rolling, you’ll start to rank for more and more keywords. Link building is also important for increasing domain authority and getting individual blogs ranking faster (our company focuses heavily on guest blogging)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645778496.952129",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJJFDTN8G",
+                    "U033MEHFJ2J",
+                    "U034DAKF3FB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U033EFUG70B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U033EFUG70B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a61fe14-7b62-4c92-a878-b93d45155d44",
+        "type": "message",
+        "text": "Agreed with Joel if you have the resources to do it, especially at scale. This fits into the pillar\/cluster model (that goes by a million names) and can be pretty effective.",
+        "user": "U02F43CAK5X",
+        "ts": "1645798649.195799",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "96937be5af03",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2500350284535_96937be5af03a50d7004_72.jpg",
+            "first_name": "Amanda",
+            "real_name": "Amanda Milligan",
+            "display_name": "Amanda Milligan",
+            "team": "TJE58GTJL",
+            "name": "amilligan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed with Joel if you have the resources to do it, especially at scale. This fits into the pillar\/cluster model (that goes by a million names) and can be pretty effective."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645778496.952129",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U019P0ADPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "591747DB-2DF4-40F7-A35B-6D9CA4244961",
+        "type": "message",
+        "text": "Yeah +1 to <@U016NBFS16Y> 'a advice - for sure that's the place to start ",
+        "user": "UJE5LARL0",
+        "ts": "1645799657.167429",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5GP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah +1 to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016NBFS16Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 'a advice - for sure that's the place to start "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645737255.192729",
+        "parent_user_id": "U024XUB4PUH"
+    },
+    {
+        "client_msg_id": "135af0e5-2463-4c88-81be-a48631d8b803",
+        "type": "message",
+        "text": "Get more backlinks.",
+        "user": "U034H601T7X",
+        "ts": "1645802479.948039",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05f4767730a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-24\/3168737349953_05f4767730a3afcc5ea8_72.jpg",
+            "first_name": "John",
+            "real_name": "John Doherty",
+            "display_name": "John Doherty",
+            "team": "TJE58GTJL",
+            "name": "dohertyjf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3cYp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Get more backlinks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645778496.952129",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "partygritty",
+                "users": [
+                    "UJG9WTEKG",
+                    "U019P0ADPCH",
+                    "U033MEHFJ2J"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e40b96eb-fa1a-4440-b583-b236c6f6de79",
+        "type": "message",
+        "text": "Thank you SO MUCH michael and lucian!!! I'm workin on it!!!",
+        "user": "U024XUB4PUH",
+        "ts": "1645805065.905409",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "84d5eb2c4517",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-09\/2153629732005_84d5eb2c45172fe55b5b_72.jpg",
+            "first_name": "",
+            "real_name": "Lindsey Rogerson",
+            "display_name": "Lindsey Rogerson",
+            "team": "TJE58GTJL",
+            "name": "lindsey156",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U024XUB4PUH",
+            "ts": "1645805076.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "11oE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you SO MUCH michael and lucian!!! I'm workin on it!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645737255.192729",
+        "parent_user_id": "U024XUB4PUH"
+    },
+    {
+        "client_msg_id": "773e89e1-1bcf-498a-bb8b-187f0c1d5019",
+        "type": "message",
+        "text": "You might want to check out Sucuri and Wordfence for both cleanup and ongoing protection.",
+        "user": "UJE5LARL0",
+        "ts": "1645806460.856899",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ziyyd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might want to check out Sucuri and Wordfence for both cleanup and ongoing protection."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645737255.192729",
+        "parent_user_id": "U024XUB4PUH"
+    },
+    {
+        "client_msg_id": "3a55548f-2d07-4f13-a1c7-29bdfaf1b042",
+        "type": "message",
+        "text": "Hi all, happy Friday!\nWhat data do you use to develop benchmarks for SEO metrics like website traffic, blog traffic etc.? Let's say it's for a website that recently started regularly publishing blogs (whereas it previously rarely published blogs)? Do you put the benchmark as a certain percentage higher than the average?",
+        "user": "U02TDTEHQKA",
+        "ts": "1645821069.338269",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e332980d3bbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2921100568433_e332980d3bbe1de386fd_72.jpg",
+            "first_name": "Kristina",
+            "real_name": "Kristina D",
+            "display_name": "Kristina D",
+            "team": "TJE58GTJL",
+            "name": "kristinazitamusic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02TDTEHQKA",
+            "ts": "1645821122.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all, happy Friday!\nWhat data do you use to develop benchmarks for SEO metrics like website traffic, blog traffic etc.? Let's say it's for a website that recently started regularly publishing blogs (whereas it previously rarely published blogs)? Do you put the benchmark as a certain percentage higher than the average?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645821069.338269",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1646055800.521629",
+        "reply_users": [
+            "UJE5LARL0",
+            "U032CDBUQ0N",
+            "UUXMCJQ15",
+            "U02TDTEHQKA",
+            "U0341LGQEN7"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645821129.087999"
+            },
+            {
+                "user": "U032CDBUQ0N",
+                "ts": "1645821168.062649"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645821386.347719"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1645821618.039429"
+            },
+            {
+                "user": "U02TDTEHQKA",
+                "ts": "1645823092.451439"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1645823605.370489"
+            },
+            {
+                "user": "U02TDTEHQKA",
+                "ts": "1645826807.772179"
+            },
+            {
+                "user": "U032CDBUQ0N",
+                "ts": "1645873887.809279"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1645887514.452319"
+            },
+            {
+                "user": "U0341LGQEN7",
+                "ts": "1646055800.521629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U034Q9PAU90"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "415ea20d-6f2d-468d-aa48-84d51f9c2395",
+        "type": "message",
+        "text": "• Metrics in GSC (visibility)\n• Organic Search traffic to the site\n• Conversions on site",
+        "user": "UJE5LARL0",
+        "ts": "1645821129.087999",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RaD",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Metrics in GSC (visibility)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Organic Search traffic to the site"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Conversions on site"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645821069.338269",
+        "parent_user_id": "U02TDTEHQKA"
+    },
+    {
+        "client_msg_id": "52efec07-0154-4370-b412-3a1936669bd0",
+        "type": "message",
+        "text": "I would pull traffic numbers for the blog from Google Search Console (organic traffic and impressions) and Analytics (bounce rate, time on page, etc) and the SEMRush for increase in number of keywords ranked.",
+        "user": "U032CDBUQ0N",
+        "ts": "1645821168.062649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b5d5b92ddd66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3112747018949_b5d5b92ddd6640d9ebd8_72.jpg",
+            "first_name": "Marcie",
+            "real_name": "Marcie",
+            "display_name": "Marcie",
+            "team": "TJE58GTJL",
+            "name": "info052",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032CDBUQ0N",
+            "ts": "1645821179.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Ly",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would pull traffic numbers for the blog from Google Search Console (organic traffic and impressions) and Analytics (bounce rate, time on page, etc) and the SEMRush for increase in number of keywords ranked."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645821069.338269",
+        "parent_user_id": "U02TDTEHQKA"
+    },
+    {
+        "client_msg_id": "15038382-79cf-42df-ac2c-7a18f2c5a34a",
+        "type": "message",
+        "text": "<@U032CDBUQ0N> - good suggestion on num keywords ranked. That would show up sooner and be a solid indicator of positive action",
+        "user": "UJE5LARL0",
+        "ts": "1645821386.347719",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kMeEr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U032CDBUQ0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - good suggestion on num keywords ranked. That would show up sooner and be a solid indicator of positive action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645821069.338269",
+        "parent_user_id": "U02TDTEHQKA"
+    },
+    {
+        "type": "message",
+        "text": "Depends on the strategy. I always put together something like this for clients that we then benchmark against.",
+        "files": [
+            {
+                "id": "F034B5KQSA3",
+                "created": 1645821614,
+                "timestamp": 1645821614,
+                "name": "Growth Sprints Capabilities and Case Studies - January 2022 (1).png",
+                "title": "Growth Sprints Capabilities and Case Studies - January 2022 (1).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UUXMCJQ15",
+                "editable": false,
+                "size": 104257,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F034B5KQSA3\/growth_sprints_capabilities_and_case_studies_-_january_2022__1_.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F034B5KQSA3\/download\/growth_sprints_capabilities_and_case_studies_-_january_2022__1_.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034B5KQSA3-5b17cfd057\/growth_sprints_capabilities_and_case_studies_-_january_2022__1__64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034B5KQSA3-5b17cfd057\/growth_sprints_capabilities_and_case_studies_-_january_2022__1__80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034B5KQSA3-5b17cfd057\/growth_sprints_capabilities_and_case_studies_-_january_2022__1__360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034B5KQSA3-5b17cfd057\/growth_sprints_capabilities_and_case_studies_-_january_2022__1__480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034B5KQSA3-5b17cfd057\/growth_sprints_capabilities_and_case_studies_-_january_2022__1__160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034B5KQSA3-5b17cfd057\/growth_sprints_capabilities_and_case_studies_-_january_2022__1__720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034B5KQSA3-5b17cfd057\/growth_sprints_capabilities_and_case_studies_-_january_2022__1__800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034B5KQSA3-5b17cfd057\/growth_sprints_capabilities_and_case_studies_-_january_2022__1__960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "original_w": 960,
+                "original_h": 540,
+                "thumb_tiny": "AwAbADC3NIYiOpz2zSxsZE3ZYc4xUw6UYpJANGR\/eP1qK4h8+PYSyjOTjvU9FMCh\/Zif89H\/ACFV7yzW3jVlZjk45Fa\/4VU1GJ5YVEYyQcnn2qkxFsdKMn0qLJz170wu3PNZ3sWlcsc0c1j73PJdvzo3t\/eb86dw5WbFU9Sd4oVKMVJbBx9Kp72\/vN+dI2WGGJP1OaE0HKz\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UUXMCJQ15\/F034B5KQSA3\/growth_sprints_capabilities_and_case_studies_-_january_2022__1_.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F034B5KQSA3-4924f7a651",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UUXMCJQ15",
+        "display_as_bot": false,
+        "ts": "1645821618.039429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hDR7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depends on the strategy. I always put together something like this for clients that we then benchmark against."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5b22b847-fc50-4e5e-9193-4009a8b194c7",
+        "thread_ts": "1645821069.338269",
+        "parent_user_id": "U02TDTEHQKA"
+    },
+    {
+        "client_msg_id": "cbe702d9-4d83-4c79-886f-97c19f8bbe5c",
+        "type": "message",
+        "text": "Thanks <@UJE5LARL0> and <@U032CDBUQ0N>! I think I may have worded my question in a confusing way, what I meant was more of \"what do you when establishing goals for metrics\"? For example, how can I set a benchmark that is realistic but also an improvement?\n\nThanks <@UUXMCJQ15>! Is that data based on competitors for the client? How do you create that projection?",
+        "user": "U02TDTEHQKA",
+        "ts": "1645823092.451439",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e332980d3bbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2921100568433_e332980d3bbe1de386fd_72.jpg",
+            "first_name": "Kristina",
+            "real_name": "Kristina D",
+            "display_name": "Kristina D",
+            "team": "TJE58GTJL",
+            "name": "kristinazitamusic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1h4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LARL0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032CDBUQ0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I think I may have worded my question in a confusing way, what I meant was more of \"what do you when establishing goals for metrics\"? For example, how can I set a benchmark that is realistic but also an improvement?\n\nThanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Is that data based on competitors for the client? How do you create that projection?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645821069.338269",
+        "parent_user_id": "U02TDTEHQKA"
+    },
+    {
+        "client_msg_id": "8f4c7269-99ef-46a3-959e-5f08608586f2",
+        "type": "message",
+        "text": "<@U02TDTEHQKA> - yeah that’s based on their keywords, and 3 top competitor keywords mapped out over the year. We do it with G sheets, and Google data studio.",
+        "user": "UUXMCJQ15",
+        "ts": "1645823605.370489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TDTEHQKA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - yeah that’s based on their keywords, and 3 top competitor keywords mapped out over the year. We do it with G sheets, and Google data studio."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645821069.338269",
+        "parent_user_id": "U02TDTEHQKA"
+    },
+    {
+        "client_msg_id": "d45e429f-5a3f-4323-b712-645d4617a5a3",
+        "type": "message",
+        "text": "ah I see, and how did you predict the increase in the future?",
+        "user": "U02TDTEHQKA",
+        "ts": "1645826807.772179",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e332980d3bbe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-04\/2921100568433_e332980d3bbe1de386fd_72.jpg",
+            "first_name": "Kristina",
+            "real_name": "Kristina D",
+            "display_name": "Kristina D",
+            "team": "TJE58GTJL",
+            "name": "kristinazitamusic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6OGM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah I see, and how did you predict the increase in the future?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645821069.338269",
+        "parent_user_id": "U02TDTEHQKA"
+    },
+    {
+        "type": "message",
+        "text": "We still go after them. We consistently go up against Healthline and that crowd and manage to compete fairly well without building links. We just focus on topical authority (e.g. focusing on content hubs with great internal linking and UX) instead.",
+        "files": [
+            {
+                "id": "F034SFAM8FL",
+                "created": 1645834612,
+                "timestamp": 1645834612,
+                "name": "competitive-kws.png",
+                "title": "competitive-kws.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01P13NTGG6",
+                "editable": false,
+                "size": 198987,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F034SFAM8FL\/competitive-kws.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F034SFAM8FL\/download\/competitive-kws.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 338,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 451,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 677,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 851,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 902,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034SFAM8FL-d6833233fe\/competitive-kws_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 962,
+                "thumb_1024_h": 1024,
+                "original_w": 1252,
+                "original_h": 1332,
+                "thumb_tiny": "AwAwAC3S6HNLSHNKKACkNLSGgBMClwKBS0AIfpQPp+lBoFAC0h70tIaAEHenU0d+lOoAQ0D60GgGgBaQ0tIaAAGlpo706gD\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01P13NTGG6\/F034SFAM8FL\/competitive-kws.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F034SFAM8FL-2ea06bc003",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01P13NTGG6",
+        "display_as_bot": false,
+        "ts": "1645834631.890899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We still go after them. We consistently go up against Healthline and that crowd and manage to compete fairly well without building links. We just focus on topical authority (e.g. focusing on content hubs with great internal linking and UX) instead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "64007fa8-b499-48b6-8f11-87dcc1f3ffdc",
+        "thread_ts": "1645778496.952129",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df0301e6-871d-40c5-9a57-b7315af49ae9",
+        "type": "message",
+        "text": "Hi everyone, what's your process for keywords research and word count for articles?",
+        "user": "U032Q4CT9G8",
+        "ts": "1645837551.088619",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "acda585807dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-07\/3081750552081_acda585807dd8ce5fbb1_72.jpg",
+            "first_name": "Oluchukwu",
+            "real_name": "Oluchukwu Njoku",
+            "display_name": "Luu",
+            "team": "TJE58GTJL",
+            "name": "oluchukwunjoku1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, what's your process for keywords research and word count for articles?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645837551.088619",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1646213952.777869",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U032V06GP38",
+            "U032Q4CT9G8",
+            "U0341LGQEN7",
+            "U02SW3L1G5B"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1645883964.780309"
+            },
+            {
+                "user": "U032V06GP38",
+                "ts": "1646031848.681889"
+            },
+            {
+                "user": "U032Q4CT9G8",
+                "ts": "1646046214.979529"
+            },
+            {
+                "user": "U0341LGQEN7",
+                "ts": "1646054606.744719"
+            },
+            {
+                "user": "U02SW3L1G5B",
+                "ts": "1646213952.777869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

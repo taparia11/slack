@@ -1,0 +1,405 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1612975224.020300",
+        "thread_ts": "1612975224.020300",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1612975731.022100",
+        "reply_users": [
+            "UJE5LQ2JC",
+            "USLACKBOT",
+            "UJG9WTEKG",
+            "U012DRHAC2X"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1612975590.020600"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1612975591.020800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1612975698.021600"
+            },
+            {
+                "user": "U012DRHAC2X",
+                "ts": "1612975699.021800"
+            },
+            {
+                "user": "U012DRHAC2X",
+                "ts": "1612975731.022100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1612975731.022100"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1612975225.020400"
+    },
+    {
+        "client_msg_id": "28add55c-7bde-45f4-837d-28561a6c5ef1",
+        "type": "message",
+        "text": "Hey <@U012DRHAC2X>, this looks like a <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit#|violation of the community guidelines>:\n```No backlink or guest post spam! Never DM people with backlink offers or requests. Please feel free to ask for quotes or expertise, but don't just swap posts. Seriously, it makes the internet a worse place.```\n",
+        "user": "UJE5LQ2JC",
+        "ts": "1612975590.020600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87h1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012DRHAC2X"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", this looks like a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit#",
+                                "text": "violation of the community guidelines"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No backlink or guest post spam! Never DM people with backlink offers or requests. Please feel free to ask for quotes or expertise, but don't just swap posts. Seriously, it makes the internet a worse place."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612975224.020300",
+        "parent_user_id": "U012DRHAC2X"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "here are the community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "user": "USLACKBOT",
+        "ts": "1612975591.020800",
+        "thread_ts": "1612975224.020300",
+        "parent_user_id": "U012DRHAC2X"
+    },
+    {
+        "client_msg_id": "4FD59F3B-2F44-4838-804D-1BF9087572D9",
+        "type": "message",
+        "text": "yea agree with Sean gonna remove this. Feel free to dm if you want ",
+        "user": "UJG9WTEKG",
+        "ts": "1612975698.021600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dwpNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yea agree with Sean gonna remove this. Feel free to dm if you want "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612975224.020300",
+        "parent_user_id": "U012DRHAC2X"
+    },
+    {
+        "client_msg_id": "61fb79b0-d561-4387-91a4-ad5437ea4940",
+        "type": "message",
+        "text": "Hey man, thanks! :slightly_smiling_face:\n\nA little missunderstanding here.\n\nI created the form because I'm not active in Slack communities soo much.\n\nThe idea was to send the email to whoever is interested, and see if they have some expertise content or resource to contribute.\n\nIf you still think it violates the terms, let me know and I'll delete the post :slightly_smiling_face:",
+        "user": "U012DRHAC2X",
+        "ts": "1612975699.021800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g56c7efdb314",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/56c7efdb31460af8e33c7440f1806b27.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ugi Djuric",
+            "display_name": "Ugi Djuric",
+            "team": "TJE58GTJL",
+            "name": "djurichom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey man, thanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA little missunderstanding here.\n\nI created the form because I'm not active in Slack communities soo much.\n\nThe idea was to send the email to whoever is interested, and see if they have some expertise content or resource to contribute.\n\nIf you still think it violates the terms, let me know and I'll delete the post "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612975224.020300",
+        "parent_user_id": "U012DRHAC2X"
+    },
+    {
+        "client_msg_id": "9b09922e-7c55-412b-befa-c6836532fdfa",
+        "type": "message",
+        "text": "Wasn't my intention, so sorry! :slightly_smiling_face:",
+        "user": "U012DRHAC2X",
+        "ts": "1612975731.022100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g56c7efdb314",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/56c7efdb31460af8e33c7440f1806b27.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Ugi Djuric",
+            "display_name": "Ugi Djuric",
+            "team": "TJE58GTJL",
+            "name": "djurichom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4PV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wasn't my intention, so sorry! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612975224.020300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "B7FE3EA1-E683-408B-A931-636FCDA1C83B",
+        "type": "message",
+        "text": "we don’t do link exchanges here, pls check out the community guidelines ",
+        "user": "UJG9WTEKG",
+        "ts": "1612975749.022800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HHd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we don’t do link exchanges here, pls check out the community guidelines "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612878896.019800",
+        "parent_user_id": "U01LL42R0J3"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "here are the community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "user": "USLACKBOT",
+        "ts": "1612975750.023000",
+        "thread_ts": "1612878896.019800",
+        "parent_user_id": "U01LL42R0J3"
+    },
+    {
+        "client_msg_id": "65874BBC-B4FD-4BC1-A663-7E6EE75E5312",
+        "type": "message",
+        "text": "Going to remove this post ",
+        "user": "UJG9WTEKG",
+        "ts": "1612975756.023500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mFP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Going to remove this post "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612878896.019800",
+        "parent_user_id": "U01LL42R0J3"
+    },
+    {
+        "client_msg_id": "79A305C8-AF34-4CDD-962F-A6312ECD7940",
+        "type": "message",
+        "text": "gonna remove this post, pls refer to the community guidelines ",
+        "user": "UJG9WTEKG",
+        "ts": "1612975806.024300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qrGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gonna remove this post, pls refer to the community guidelines "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611555454.009000",
+        "parent_user_id": "U0195R8C1FF"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "here are the community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "user": "USLACKBOT",
+        "ts": "1612975807.024500",
+        "thread_ts": "1611555454.009000",
+        "parent_user_id": "U0195R8C1FF"
+    }
+]

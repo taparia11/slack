@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "70c77044-7fb5-46e1-92a6-da64f6441b5d",
+        "type": "message",
+        "text": "i had a call with the founder of <https:\/\/www.dispatch.do\/> the other day. it's like an inbox for managing slack messages. pretty cool. they are looking to talk with a few slack power users to collect feedback. if you're interested, just shoot an email to <mailto:stedman@dispatch.do|stedman@dispatch.do>",
+        "user": "UJG9WTEKG",
+        "ts": "1624554551.107800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1624554557.000000"
+        },
+        "attachments": [
+            {
+                "title": "Dispatch Priority Inbox",
+                "title_link": "https:\/\/www.dispatch.do\/",
+                "text": "Drowning in Slack messages? Dispatch is a Priority Inbox for Slack so you can focus on what's most important. Reach inbox zero with powerful features like Archive, Snooze, and Mute.",
+                "fallback": "Dispatch Priority Inbox",
+                "from_url": "https:\/\/www.dispatch.do\/",
+                "service_name": "dispatch.do",
+                "id": 1,
+                "original_url": "https:\/\/www.dispatch.do\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kh9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i had a call with the founder of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dispatch.do\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the other day. it's like an inbox for managing slack messages. pretty cool. they are looking to talk with a few slack power users to collect feedback. if you're interested, just shoot an email to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:stedman@dispatch.do",
+                                "text": "stedman@dispatch.do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624554551.107800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1627353918.151900",
+        "reply_users": [
+            "U01RSA9E9D4"
+        ],
+        "replies": [
+            {
+                "user": "U01RSA9E9D4",
+                "ts": "1627353918.151900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627353918.151900",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U017XD7H4P7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

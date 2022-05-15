@@ -1,0 +1,373 @@
+[
+    {
+        "client_msg_id": "3d0a329b-8b60-4bcf-8c27-dbe4d1e09e74",
+        "type": "message",
+        "text": "I think I should update my LinkedIn profile - I would do that now if I could remember my login credentials ...:thinking_face:",
+        "user": "U021R75LUF2",
+        "ts": "1620385259.038200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a28256ad65f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-06\/2037123351763_3a28256ad65fa0ace3eb_72.jpg",
+            "first_name": "William",
+            "real_name": "William Short",
+            "display_name": "Bill",
+            "team": "TJE58GTJL",
+            "name": "englishapostles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pq6HI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I should update my LinkedIn profile - I would do that now if I could remember my login credentials ..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Hi, all. Looking forward to seeing some of you today for a Zoom call with B2B SaaS in-house marketers. It's at 1:00 pm New York time. If you're seeing this message in the channel feed, tap here and scroll up to see more details. Also, let's use this thread for any discussions about connecting for this meetup. Looking forward to it!",
+        "user": "UNGMG4005",
+        "ts": "1620390438.038300",
+        "thread_ts": "1619803061.032200",
+        "root": {
+            "client_msg_id": "79cf73b3-6cb3-411a-86f6-15bffb8e4371",
+            "type": "message",
+            "text": "Hi, everyone. I'm interested in doing a Zoom meetup among B2B SaaS in-house marketers again - and discussing the specific work you love doing. How can you do more of it in your day? The meetup will be at this time, exactly 1 week from now. (And rumor has it that <@UJG9WTEKG> will be there too.) If you'd like to join this half-hour event, you can add it to your calendar here: <https:\/\/evt.to\/ogigiogw>",
+            "user": "UNGMG4005",
+            "ts": "1619803061.032200",
+            "team": "TJE58GTJL",
+            "edited": {
+                "user": "UNGMG4005",
+                "ts": "1619803258.000000"
+            },
+            "attachments": [
+                {
+                    "title": "B2B SaaS in-house marketers (Superpath) - Theme: Fulfilling Work",
+                    "title_link": "https:\/\/evt.to\/ogigiogw",
+                    "text": "Discussion among Superpath B2B SaaS in-house marketers. This month's theme is work that is fulfilling.What part of your job do you love the most?How can you spend more time doing that at work?",
+                    "fallback": "B2B SaaS in-house marketers (Superpath) - Theme: Fulfilling Work",
+                    "image_url": "https:\/\/addevent.com\/gfx\/logofs.png",
+                    "from_url": "https:\/\/evt.to\/ogigiogw",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "image_bytes": 5124,
+                    "service_icon": "https:\/\/www.addevent.com\/favicon.ico",
+                    "service_name": "addevent.com",
+                    "id": 1,
+                    "original_url": "https:\/\/evt.to\/ogigiogw"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "kCB7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi, everyone. I'm interested in doing a Zoom meetup among B2B SaaS in-house marketers again - and discussing the specific work you love doing. How can you do more of it in your day? The meetup will be at this time, exactly 1 week from now. (And rumor has it that "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "UJG9WTEKG"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " will be there too.) If you'd like to join this half-hour event, you can add it to your calendar here: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/evt.to\/ogigiogw"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1619803061.032200",
+            "reply_count": 11,
+            "reply_users_count": 6,
+            "latest_reply": "1620932977.041200",
+            "reply_users": [
+                "UJG9WTEKG",
+                "UJ2MPBP7V",
+                "U01J85VRKF1",
+                "UNGMG4005",
+                "U020R1U323Z",
+                "U01QL98TMLM"
+            ],
+            "replies": [
+                {
+                    "user": "UJG9WTEKG",
+                    "ts": "1619806102.032600"
+                },
+                {
+                    "user": "UJG9WTEKG",
+                    "ts": "1619806105.032800"
+                },
+                {
+                    "user": "UJ2MPBP7V",
+                    "ts": "1619812551.033800"
+                },
+                {
+                    "user": "U01J85VRKF1",
+                    "ts": "1620049965.034400"
+                },
+                {
+                    "user": "UNGMG4005",
+                    "ts": "1620235364.036100"
+                },
+                {
+                    "user": "UNGMG4005",
+                    "ts": "1620390438.038300"
+                },
+                {
+                    "user": "UNGMG4005",
+                    "ts": "1620390553.038600"
+                },
+                {
+                    "user": "UNGMG4005",
+                    "ts": "1620409988.038900"
+                },
+                {
+                    "user": "U020R1U323Z",
+                    "ts": "1620415522.039300"
+                },
+                {
+                    "user": "U01QL98TMLM",
+                    "ts": "1620927805.040900"
+                },
+                {
+                    "user": "UNGMG4005",
+                    "ts": "1620932977.041200"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1620932977.041200"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I9g6C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, all. Looking forward to seeing some of you today for a Zoom call with B2B SaaS in-house marketers. It's at 1:00 pm New York time. If you're seeing this message in the channel feed, tap here and scroll up to see more details. Also, let's use this thread for any discussions about connecting for this meetup. Looking forward to it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "dd2317e9-567e-4810-9714-ee98470d22eb"
+    },
+    {
+        "client_msg_id": "7cd6242d-76ba-4506-8570-494446a619ab",
+        "type": "message",
+        "text": "The Zoom link is this:\n\n<https:\/\/us04web.zoom.us\/j\/2316047071?pwd=am10bGNLSnJXN2o4eVBwOUUyS3ZoUT09|https:\/\/us04web.zoom.us\/j\/2316047071?pwd=am10bGNLSnJXN2o4eVBwOUUyS3ZoUT09>\n\nIt's the same as what you added to your calendar if you used the AddEvent link above.",
+        "user": "UNGMG4005",
+        "ts": "1620390553.038600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "314714115aef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-20\/881855828276_314714115aefdf03320c_72.jpg",
+            "first_name": "Alfredo",
+            "real_name": "Alfredo Deambrosi",
+            "display_name": "Alfredo Deambrosi",
+            "team": "TJE58GTJL",
+            "name": "alfredo.deambrosi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rf=G\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Zoom link is this:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us04web.zoom.us\/j\/2316047071?pwd=am10bGNLSnJXN2o4eVBwOUUyS3ZoUT09",
+                                "text": "https:\/\/us04web.zoom.us\/j\/2316047071?pwd=am10bGNLSnJXN2o4eVBwOUUyS3ZoUT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIt's the same as what you added to your calendar if you used the AddEvent link above."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619803061.032200",
+        "parent_user_id": "UNGMG4005"
+    },
+    {
+        "client_msg_id": "0ed8899b-ecfc-4070-bcbf-5fe362c1df55",
+        "type": "message",
+        "text": "Thank you to all who came, shared your stories, and helped us all out!\n<@U020R1U323Z>\n<@U01J85VRKF1>\n<@UUH2EB134>\n<@U016HJRC77E>\n<@UJ2MPBP7V>",
+        "user": "UNGMG4005",
+        "ts": "1620409988.038900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "314714115aef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-20\/881855828276_314714115aefdf03320c_72.jpg",
+            "first_name": "Alfredo",
+            "real_name": "Alfredo Deambrosi",
+            "display_name": "Alfredo Deambrosi",
+            "team": "TJE58GTJL",
+            "name": "alfredo.deambrosi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6OjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you to all who came, shared your stories, and helped us all out!\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020R1U323Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01J85VRKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016HJRC77E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ2MPBP7V"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619803061.032200",
+        "parent_user_id": "UNGMG4005",
+        "reactions": [
+            {
+                "name": "purple_heart",
+                "users": [
+                    "UJ2MPBP7V",
+                    "U020R1U323Z"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6cdce01-f1fa-4538-ace9-a28eeb489bf0",
+        "type": "message",
+        "text": "Thank you for facilitating such a great meeting :)",
+        "user": "U020R1U323Z",
+        "ts": "1620415522.039300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gdd7c5aa9560",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd7c5aa95607282093a69d857979e711.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Chris Gaitanaris",
+            "display_name": "Chris Gaitanaris",
+            "team": "TJE58GTJL",
+            "name": "cgaits",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gXvs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for facilitating such a great meeting :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619803061.032200",
+        "parent_user_id": "UNGMG4005",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UNGMG4005"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

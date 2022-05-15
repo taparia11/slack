@@ -1,0 +1,721 @@
+[
+    {
+        "client_msg_id": "59A5464C-7D23-4E28-B21E-74EBE943E51B",
+        "type": "message",
+        "text": "Hi all! Work at a small startup and we’re finally at the stage where we’re ready to launch an official blog (yay). I’ve done this before but for a technical blog built on Hugo where I didn’t manage the backend or publishing duties; for this case, I need something that with a relatively user-friendly backend that will be easy for me to maintain and publish to without needing engineering help.\n\nDoes anyone have experience implementing an off-the-shelf solution (like Wordpress, Wix or Squarespace) onto a company domain? I’m trying to gauge how much time I should prep our founder to expect it to take—from vendor evaluation, to selecting and customizing a template to our needs, adding our branding and design, migrating over old content from Medium, etc. (He is under the impression this could be done in about 2 weeks which seems extremely quick to me, so I’d love some points of reference to push back on that)\n\nAny insights here or important considerations I should keep in mind (so they don’t become major roadblocks down the road) would be much appreciated:pray::pray::pray:",
+        "user": "U02CYNTD10A",
+        "ts": "1633616092.088900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3c4db8901e0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-31\/2438609531573_3c4db8901e0ddd820e27_72.png",
+            "first_name": "Seth",
+            "real_name": "Seth Merrill",
+            "display_name": "Seth Merrill",
+            "team": "TJE58GTJL",
+            "name": "sthmrrll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JaKDd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! Work at a small startup and we’re finally at the stage where we’re ready to launch an official blog (yay). I’ve done this before but for a technical blog built on Hugo where I didn’t manage the backend or publishing duties; for this case, I need something that with a relatively user-friendly backend that will be easy for me to maintain and publish to without needing engineering help.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDoes anyone have experience implementing an off-the-shelf solution (like Wordpress, Wix or Squarespace) onto a company domain? I’m trying to gauge how much time I should prep our founder to expect it to take—from vendor evaluation, to selecting and customizing a template to our needs, adding our branding and design, migrating over old content from Medium, etc. (He is under the impression this could be done in about 2 weeks which seems extremely quick to me, so I’d love some points of reference to push back on that)\n\nAny insights here or important considerations I should keep in mind (so they don’t become major roadblocks down the road) would be much appreciated"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633616092.088900",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1634158417.157100",
+        "reply_users": [
+            "U02CTCZEL3E",
+            "U02GA73RSHK",
+            "U02A8UR3Z60",
+            "UJHT5CHUY",
+            "U024K88ECFN"
+        ],
+        "replies": [
+            {
+                "user": "U02CTCZEL3E",
+                "ts": "1633617233.091300"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1633622736.094000"
+            },
+            {
+                "user": "U02A8UR3Z60",
+                "ts": "1633627370.095400"
+            },
+            {
+                "user": "UJHT5CHUY",
+                "ts": "1633650485.107300"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1634158417.157100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5390FF10-819C-4D4C-8536-20A20D119AD4",
+        "type": "message",
+        "text": "I've had some experience building Wordpress website personally. I think 2 weeks is super fast. Maybe if you had a team focused on that full time it's possible. I'd say you'd be looking more at a month plus. \n\nI guess it depends if everything has been decided so nothing becomes a blocker ",
+        "user": "U02CTCZEL3E",
+        "ts": "1633617233.091300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g3beeb2d18df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3beeb2d18dfb62c4a48be52d8c8931d0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Craig",
+            "real_name": "Craig Dennis",
+            "display_name": "Craig",
+            "team": "TJE58GTJL",
+            "name": "craigdennis1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44Wo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've had some experience building Wordpress website personally. I think 2 weeks is super fast. Maybe if you had a team focused on that full time it's possible. I'd say you'd be looking more at a month plus. \n\nI guess it depends if everything has been decided so nothing becomes a blocker "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633616092.088900",
+        "parent_user_id": "U02CYNTD10A"
+    },
+    {
+        "client_msg_id": "16ae689d-035b-4e86-99e4-4ef7869e4056",
+        "type": "message",
+        "text": "There is very little chance this is possible. Even getting vendor on board will take longer than 2 weeks.\n\nIf you are going with a straight up template\/theme and no configurations that *might* be possible. Depends on how many posts you have and if you are going to focus solely on it for 2 weeks. I have put up many WP sites and there is always something that takes more time than you think it will.\n\nIf you are going to use this with an existing site, I recommend setting up WP as a subdirectory to your existing site rather than a subdomain. The long term benefits will be much better from an SEO perspective (and user perspective for that matter). This requires setting up a reverse proxy, but it is very doable in WP - but will need server configurations in your existing website.",
+        "user": "U02GA73RSHK",
+        "ts": "1633622736.094000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gf272e31d4b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f272e31d4b1988945d4630cf3b47f9b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Lamar",
+            "display_name": "Steve Lamar",
+            "team": "TJE58GTJL",
+            "name": "steve694",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uKOs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is very little chance this is possible. Even getting vendor on board will take longer than 2 weeks.\n\nIf you are going with a straight up template\/theme and no configurations that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "might",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " be possible. Depends on how many posts you have and if you are going to focus solely on it for 2 weeks. I have put up many WP sites and there is always something that takes more time than you think it will.\n\nIf you are going to use this with an existing site, I recommend setting up WP as a subdirectory to your existing site rather than a subdomain. The long term benefits will be much better from an SEO perspective (and user perspective for that matter). This requires setting up a reverse proxy, but it is very doable in WP - but will need server configurations in your existing website."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633616092.088900",
+        "parent_user_id": "U02CYNTD10A"
+    },
+    {
+        "client_msg_id": "32998f7a-14ae-40ab-89a4-ecc8455ef521",
+        "type": "message",
+        "text": "Instead of viewing it in total number of weeks, I'd push them to view it in hours. You could probably get a template site live in 40 hours if there are no problems, but will you really truly be able to dedicate 40 hours straight to this project? Probably not.\n\nAlso, stick with Wordpress for a blog. Wix and Squarespace are nice if you just want something easy, but do not have the customizability that Wordpress provides.",
+        "user": "U02A8UR3Z60",
+        "ts": "1633627370.095400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ebk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Instead of viewing it in total number of weeks, I'd push them to view it in hours. You could probably get a template site live in 40 hours if there are no problems, but will you really truly be able to dedicate 40 hours straight to this project? Probably not.\n\nAlso, stick with Wordpress for a blog. Wix and Squarespace are nice if you just want something easy, but do not have the customizability that Wordpress provides."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633616092.088900",
+        "parent_user_id": "U02CYNTD10A",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02GA73RSHK",
+                    "U01G7PRL3HQ",
+                    "U02CYNTD10A",
+                    "U02GGFE8GDP",
+                    "U024K88ECFN"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb7b838f-8290-4d80-a52a-d3a03baaab11",
+        "type": "message",
+        "text": "Was in a team like this, but it was too frustrating so I got out :sweat_smile:",
+        "user": "UJG24P8P6",
+        "ts": "1633632357.096200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Was in a team like this, but it was too frustrating so I got out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632495049.440100",
+        "parent_user_id": "URB31QKM4",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "URB31QKM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DEAAA2B8-D4D6-49CE-B264-0EC0BB3BE3E4",
+        "type": "message",
+        "text": "What, in your humble opinion, makes a content experience—whether it's read, watched, listened to, etc—enjoyable? ",
+        "user": "UUH2EB134",
+        "ts": "1633632421.097500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kM\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What, in your humble opinion, makes a content experience—whether it's read, watched, listened to, etc—enjoyable? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633632421.097500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1633636120.101600",
+        "reply_users": [
+            "U025WLMJ60H"
+        ],
+        "replies": [
+            {
+                "user": "U025WLMJ60H",
+                "ts": "1633636120.101600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6541ff87-0079-40d9-8f29-6869371f59fa",
+        "type": "message",
+        "text": "I link back b\/c it's a (very small) way of paying back for the research",
+        "user": "UJG24P8P6",
+        "ts": "1633632496.097700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQeLG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I link back b\/c it's a (very small) way of paying back for the research"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632773256.490400",
+        "parent_user_id": "U022WPACV4L"
+    },
+    {
+        "client_msg_id": "8b3397dd-61ce-4f48-b219-eabb6f9c4f85",
+        "type": "message",
+        "text": "Hi everybody! It's been a little bit since I've worked on the strategy side, I've been doing a lot of content development these days. Curious, I'm developing evergreen content for a couple of different clients, and we are developing larger pieces that then can be broken out into smaller blogs.\n\nWhat is the consensus these days on repeat content in blogs? For example, a definition of something, in this case a medical term that is used in repeat blogs, is that better off being rephrased each time for SEO? Or same definition for cohesiveness across the site?\n\nAppreciate any thoughts!",
+        "user": "U01N2ARBLA1",
+        "ts": "1633634069.100900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9af63ebef720",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-15\/1759630464180_9af63ebef72078ebc1d9_72.jpg",
+            "first_name": "",
+            "real_name": "Mary Walsh",
+            "display_name": "Mary Walsh",
+            "team": "TJE58GTJL",
+            "name": "marywalsh27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01N2ARBLA1",
+            "ts": "1633634082.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everybody! It's been a little bit since I've worked on the strategy side, I've been doing a lot of content development these days. Curious, I'm developing evergreen content for a couple of different clients, and we are developing larger pieces that then can be broken out into smaller blogs.\n\nWhat is the consensus these days on repeat content in blogs? For example, a definition of something, in this case a medical term that is used in repeat blogs, is that better off being rephrased each time for SEO? Or same definition for cohesiveness across the site?\n\nAppreciate any thoughts!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633634069.100900",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1634179303.158100",
+        "reply_users": [
+            "U025WLMJ60H",
+            "UUXMCJQ15",
+            "U024K88ECFN",
+            "U01ER4GNRJ7"
+        ],
+        "replies": [
+            {
+                "user": "U025WLMJ60H",
+                "ts": "1633635862.101400"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1633636516.102100"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1634158513.157400"
+            },
+            {
+                "user": "U01ER4GNRJ7",
+                "ts": "1634179303.158100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ccb72ab5-74a5-49c8-85f7-5c5a37424880",
+        "type": "message",
+        "text": "Is there a reason that it would have to be defined throughout? It would seem like you could build a content cluster around it if it’s a major term and have a pillar post defining it that you could link back to when you reference it in other posts. That way you’re getting good internal links, not cannibalizing your own posts, and writing more for the right journey stage and search intent when you’re dealing with more in-depth or advanced topics.",
+        "user": "U025WLMJ60H",
+        "ts": "1633635862.101400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22714ac0fe36",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-07\/2470125097428_22714ac0fe369bedf1b2_72.png",
+            "first_name": "Lauren",
+            "real_name": "Lauren Lang",
+            "display_name": "Lauren Lang",
+            "team": "TJE58GTJL",
+            "name": "langcontentmarketing",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gj8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a reason that it would have to be defined throughout? It would seem like you could build a content cluster around it if it’s a major term and have a pillar post defining it that you could link back to when you reference it in other posts. That way you’re getting good internal links, not cannibalizing your own posts, and writing more for the right journey stage and search intent when you’re dealing with more in-depth or advanced topics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633634069.100900",
+        "parent_user_id": "U01N2ARBLA1"
+    },
+    {
+        "client_msg_id": "a674e095-d1bf-448d-b453-ea0ffc558611",
+        "type": "message",
+        "text": "1. Do I feel seen and\/or connected to after reading it? Is it clear there’s a human on the other end who understands me?\n2. Does it fulfill the need I had when I started consuming it? Does it deliver on the promises it makes?\n3. Does it do the two things above in a way that keeps me invested and interested? Does it do them in a way that is easy to consume, understand, and engage with?",
+        "user": "U025WLMJ60H",
+        "ts": "1633636120.101600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22714ac0fe36",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-07\/2470125097428_22714ac0fe369bedf1b2_72.png",
+            "first_name": "Lauren",
+            "real_name": "Lauren Lang",
+            "display_name": "Lauren Lang",
+            "team": "TJE58GTJL",
+            "name": "langcontentmarketing",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lqO",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do I feel seen and\/or connected to after reading it? Is it clear there’s a human on the other end who understands me?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Does it fulfill the need I had when I started consuming it? Does it deliver on the promises it makes?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Does it do the two things above in a way that keeps me invested and interested? Does it do them in a way that is easy to consume, understand, and engage with?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633632421.097500",
+        "parent_user_id": "UUH2EB134",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UUH2EB134",
+                    "U02HQUU71A4",
+                    "U02D5S6LX1P",
+                    "U02GJN3BYCB",
+                    "U02GGFE8GDP",
+                    "U02DXE71ALR"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02GBV2494P",
+                    "U02GGFE8GDP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86f2e0e0-a439-48bb-9f69-c196185184ee",
+        "type": "message",
+        "text": "I'd definitely recommend the hub and spoke model. I don't want copy\/paste from the larger piece. Just make sure it matches the search intent for each of the separate searches. Small content overlaps are totally cool. But if we have a 6k word article and then republish 3 articles at 2k each that are copy\/paste, that's not ideal.",
+        "user": "UUXMCJQ15",
+        "ts": "1633636516.102100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HcBM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd definitely recommend the hub and spoke model. I don't want copy\/paste from the larger piece. Just make sure it matches the search intent for each of the separate searches. Small content overlaps are totally cool. But if we have a 6k word article and then republish 3 articles at 2k each that are copy\/paste, that's not ideal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633634069.100900",
+        "parent_user_id": "U01N2ARBLA1",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b6edad4-201b-4dfc-af64-b30887d636b7",
+        "type": "message",
+        "text": "IMO, original content is always better even if it deals with the same subject matter, so you don't get dinged with the duplicate content penalty. I feel that it's always a win to take an older well performing article, creating an update version of that content or a new twist, and internally link with both articles. You can use most of the content with new copy. What's important is that it looks like follow up content to google, and to use internal linking with both articles so that google gets the signal twice.",
+        "user": "U02HQUU71A4",
+        "ts": "1633636662.104800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "122d11f61b10",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2576339804837_122d11f61b10bee8d9ec_72.jpg",
+            "first_name": "Chris",
+            "real_name": "Chris Bell",
+            "display_name": "Chris Bell",
+            "team": "TJE58GTJL",
+            "name": "chris.th.bell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qHA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IMO, original content is always better even if it deals with the same subject matter, so you don't get dinged with the duplicate content penalty. I feel that it's always a win to take an older well performing article, creating an update version of that content or a new twist, and internally link with both articles. You can use most of the content with new copy. What's important is that it looks like follow up content to google, and to use internal linking with both articles so that google gets the signal twice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5F732A1D-5BF0-4DD8-A976-85D9453DE5BF",
+        "type": "message",
+        "text": "Edit: reread and seeing Hugo was old role haha. Hey Seth if they’re already on Hugo, I’d recommend looking into “headless CMS” options - plenty of free ones listed here <http:\/\/jamstack.org|jamstack.org>. Some good paid options are Contentful and Kontent CMS. Likely need dev support to set it up, but scales nicely!",
+        "user": "UJHT5CHUY",
+        "ts": "1633650485.107300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9b31c258d041",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1883903218582_9b31c258d041f6de2b99_72.jpg",
+            "first_name": "Scott",
+            "real_name": "Scott Mathson",
+            "display_name": "scottmathson",
+            "team": "TJE58GTJL",
+            "name": "yo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJHT5CHUY",
+            "ts": "1633650537.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PWbH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Edit: reread and seeing Hugo was old role haha. Hey Seth if they’re already on Hugo, I’d recommend looking into “headless CMS” options - plenty of free ones listed here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jamstack.org",
+                                "text": "jamstack.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Some good paid options are Contentful and Kontent CMS. Likely need dev support to set it up, but scales nicely!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633616092.088900",
+        "parent_user_id": "U02CYNTD10A"
+    }
+]

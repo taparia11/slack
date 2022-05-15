@@ -1,0 +1,438 @@
+[
+    {
+        "client_msg_id": "d9f430e8-401a-4856-b808-879eb2f31c67",
+        "type": "message",
+        "text": "A friend\/colleague just asked me if I had any advice on how to rank a site _without_ utilizing their blog. I’ve personally never seen that work, but I figured I’d ask - have any of you?",
+        "user": "U01TBAF98H0",
+        "ts": "1637846377.241300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "15d164b5a11a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2587354369845_15d164b5a11a045edaa9_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Borge",
+            "display_name": "Justin Borge",
+            "team": "TJE58GTJL",
+            "name": "justin952",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A friend\/colleague just asked me if I had any advice on how to rank a site "
+                            },
+                            {
+                                "type": "text",
+                                "text": "without",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " utilizing their blog. I’ve personally never seen that work, but I figured I’d ask - have any of you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637846377.241300",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1638292975.272100",
+        "reply_users": [
+            "UUJBM2PJ7",
+            "U024K88ECFN",
+            "UUXMCJQ15",
+            "U02ME7MTEBD"
+        ],
+        "replies": [
+            {
+                "user": "UUJBM2PJ7",
+                "ts": "1637847170.244300"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1637852003.251000"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1637857116.254000"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1637857357.255100"
+            },
+            {
+                "user": "U02ME7MTEBD",
+                "ts": "1638292975.272100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A5B9F756-7716-4C12-BF6C-A57A042FB674",
+        "type": "message",
+        "text": "Yes, but basically by creating a second blog (“resource hub” or something like that) for the SEO content. I don’t love it as an approach long term, but it does have the benefit of hygiene if there’s a quality gap out of the gate.",
+        "user": "UUJBM2PJ7",
+        "ts": "1637847170.244300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f77cbe4c3060",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1270061579587_f77cbe4c3060d94c9e20_72.jpg",
+            "first_name": "Jane",
+            "real_name": "Jane Flanagan",
+            "display_name": "Jane Flanagan",
+            "team": "TJE58GTJL",
+            "name": "jane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x5c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, but basically by creating a second blog (“resource hub” or something like that) for the SEO content. I don’t love it as an approach long term, but it does have the benefit of hygiene if there’s a quality gap out of the gate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637846377.241300",
+        "parent_user_id": "U01TBAF98H0",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01TBAF98H0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8926c137-9dc9-458f-ae67-6679c1999227",
+        "type": "message",
+        "text": "Where are all my Webflow\/WeGlot users at? :man-raising-hand::skin-tone-3:\n\nA Dutch SaaS client of ours built their website on Webflow, for which it’s notoriously difficult to build a multilingual domain. Even Webflow’s own official docs state that, if you’re not up for duplicating your entire website, you should use WeGlot’s autotranslation tool.\n\nOur client’s still on the fence about their platform being Dutch\/English first, which has led to them using WeGlot to auto-translate Dutch-language blog posts to English on a `<http:\/\/en.client.nl|en.client.nl>` subdomain.\n\nI’m so curious as to the effects of this on SEO performance. It’s also quite limited how much editing you can do to these  WeGlot auto-translations. Now, said client has also been requesting English-first blog content and publishing it on the Dutch domain, as you can’t add content the `<http:\/\/en.client.nl|en.client.nl>` subdomain directly. Meaning they have duplicate content on their NL\/EN domains.\n\nAs you might gather, big mess, in general. Any Webflow\/WeGlot users run into these problems before? Any tips, tricks, pointers? Much appreciated! :man-bowing::skin-tone-3:",
+        "user": "U02681WABA7",
+        "ts": "1637848609.250900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e00edcfaaddd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-29\/2531730201543_e00edcfaaddd70703667_72.jpg",
+            "first_name": "Jonas",
+            "real_name": "Jonas van de Poel",
+            "display_name": "Jonas van de Poel",
+            "team": "TJE58GTJL",
+            "name": "jonas792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "muOLn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where are all my Webflow\/WeGlot users at? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-raising-hand",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA Dutch SaaS client of ours built their website on Webflow, for which it’s notoriously difficult to build a multilingual domain. Even Webflow’s own official docs state that, if you’re not up for duplicating your entire website, you should use WeGlot’s autotranslation tool.\n\nOur client’s still on the fence about their platform being Dutch\/English first, which has led to them using WeGlot to auto-translate Dutch-language blog posts to English on a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/en.client.nl",
+                                "text": "en.client.nl",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " subdomain.\n\nI’m so curious as to the effects of this on SEO performance. It’s also quite limited how much editing you can do to these  WeGlot auto-translations. Now, said client has also been requesting English-first blog content and publishing it on the Dutch domain, as you can’t add content the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/en.client.nl",
+                                "text": "en.client.nl",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " subdomain directly. Meaning they have duplicate content on their NL\/EN domains.\n\nAs you might gather, big mess, in general. Any Webflow\/WeGlot users run into these problems before? Any tips, tricks, pointers? Much appreciated! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e42f7af2-9761-4b62-a3c5-3972a19c4e80",
+        "type": "message",
+        "text": "I feel like I'd need more info, but this sounds like what people do for local SEO when they've got a brick-and-mortar but not really a product that necessitates a lot of educational content. You could utilize landing pages optimized for their target keywords in their area, but not need the blog. (If I'm understanding your question correctly.)",
+        "user": "U024K88ECFN",
+        "ts": "1637852003.251000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L39",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like I'd need more info, but this sounds like what people do for local SEO when they've got a brick-and-mortar but not really a product that necessitates a lot of educational content. You could utilize landing pages optimized for their target keywords in their area, but not need the blog. (If I'm understanding your question correctly.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637846377.241300",
+        "parent_user_id": "U01TBAF98H0",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01TBAF98H0",
+                    "UUJBMNRNF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4152C8F3-358B-4166-8E40-33A907419C60",
+        "type": "message",
+        "text": "I 100% would never set a goal for this. Set a goal for more authoritative domains in your industry.",
+        "user": "UUXMCJQ15",
+        "ts": "1637857019.251900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sQjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I 100% would never set a goal for this. Set a goal for more authoritative domains in your industry."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637788615.237400",
+        "parent_user_id": "ULKUFTFPW"
+    },
+    {
+        "client_msg_id": "1B717348-D410-4EFA-9C5E-B162E46589C5",
+        "type": "message",
+        "text": "What's the actual goal for you? Raise the overall authority of the site and increase traffic? ",
+        "user": "UUXMCJQ15",
+        "ts": "1637857078.253200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+5DbO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's the actual goal for you? Raise the overall authority of the site and increase traffic? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637788615.237400",
+        "parent_user_id": "ULKUFTFPW"
+    },
+    {
+        "client_msg_id": "260DEA94-9009-44A9-B85C-C721AD60D780",
+        "type": "message",
+        "text": "Look at zoominfo, Zillow, or G2 for great examples.",
+        "user": "UUXMCJQ15",
+        "ts": "1637857116.254000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IKp+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Look at zoominfo, Zillow, or G2 for great examples."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637846377.241300",
+        "parent_user_id": "U01TBAF98H0",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01TBAF98H0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2136D44A-B889-4D90-B141-6AB87800D37D",
+        "type": "message",
+        "text": "Anything where you can generate thousands of pages based on a database of information would be a great example.",
+        "user": "UUXMCJQ15",
+        "ts": "1637857357.255100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkfz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anything where you can generate thousands of pages based on a database of information would be a great example."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637846377.241300",
+        "parent_user_id": "U01TBAF98H0",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01TBAF98H0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

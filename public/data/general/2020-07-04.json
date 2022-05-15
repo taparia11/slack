@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "4DDF2EBC-8F98-4D92-9D2E-F42AFE698489",
+        "type": "message",
+        "text": "It’s a great tool but I think I’m gonna stick with <http:\/\/superhuman.com|superhuman> - the command shortcuts just make it easier to use ",
+        "user": "U015JA18S11",
+        "ts": "1593864041.051100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ee737b1948af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-19\/1218389098000_ee737b1948af83f5b402_72.jpg",
+            "first_name": "Adil",
+            "real_name": "Adil Hussain",
+            "display_name": "Adil",
+            "team": "TJE58GTJL",
+            "name": "contact",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Superhuman",
+                "title_link": "http:\/\/superhuman.com\/",
+                "text": "The fastest email experience ever made. Request access at <http:\/\/superhuman.com|superhuman.com>",
+                "fallback": "Superhuman",
+                "image_url": "https:\/\/superhuman.com\/b59db3a9b698fb4f7f1dca037a925336.share-image.png",
+                "from_url": "http:\/\/superhuman.com\/",
+                "image_width": 335,
+                "image_height": 250,
+                "image_bytes": 434233,
+                "service_icon": "https:\/\/superhuman.com\/e9c94a371a3abac3e01cf378154b54f0.favicon.png",
+                "service_name": "superhuman.com",
+                "id": 1,
+                "original_url": "http:\/\/superhuman.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IW6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s a great tool but I think I’m gonna stick with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/superhuman.com",
+                                "text": "superhuman"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - the command shortcuts just make it easier to use "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593025992.036900",
+        "parent_user_id": "U015JA18S11"
+    },
+    {
+        "client_msg_id": "566eb8ca-8f50-480c-b4a0-7f60e1d267fc",
+        "type": "message",
+        "text": "nice <@U015JA18S11>, makes sense. yeah i didn't like cartoony interface and design of hey",
+        "user": "U011UJX75PE",
+        "ts": "1593899335.051400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cY3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U015JA18S11"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", makes sense. yeah i didn't like cartoony interface and design of hey"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593025992.036900",
+        "parent_user_id": "U015JA18S11"
+    }
+]

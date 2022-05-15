@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "45e1c22d-32ec-4343-ae0e-6fb53d11b81a",
+        "type": "message",
+        "text": "This is legendary, <@U010JU2GTND>.",
+        "user": "UUH2EB134",
+        "ts": "1628390271.019800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GCX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is legendary, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010JU2GTND"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628090874.013400",
+        "parent_user_id": "U010JU2GTND",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U010JU2GTND"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

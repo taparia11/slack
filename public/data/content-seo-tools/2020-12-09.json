@@ -1,0 +1,594 @@
+[
+    {
+        "client_msg_id": "01654b00-0cc1-4700-ad82-1abcf0f28d29",
+        "type": "message",
+        "text": "Does anyone have a good tool for tracking the results of a content refresh? I can check ahrefs periodically, but I'd love to create a dashboard that shows how certain refreshed pages are ranking in realtime, so I can evaluate whether the refresh helped us with certain keywords.",
+        "user": "U019SM5LH6D",
+        "ts": "1607527023.168500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0bc5f929171",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1315176107894_f0bc5f929171fb026543_72.jpg",
+            "first_name": "Hillary",
+            "real_name": "Hillary Nussbaum",
+            "display_name": "Hillary Nussbaum",
+            "team": "TJE58GTJL",
+            "name": "hillary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6pF1b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have a good tool for tracking the results of a content refresh? I can check ahrefs periodically, but I'd love to create a dashboard that shows how certain refreshed pages are ranking in realtime, so I can evaluate whether the refresh helped us with certain keywords."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607527023.168500",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1609453380.205200",
+        "reply_users": [
+            "U01EJ7VE9FD",
+            "U014PRHQUQ2",
+            "UUH2EB134",
+            "U017XD7H4P7",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "U01EJ7VE9FD",
+                "ts": "1607527330.168700"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1607529331.168900"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1607536011.169900"
+            },
+            {
+                "user": "U017XD7H4P7",
+                "ts": "1607546792.171200"
+            },
+            {
+                "user": "U017XD7H4P7",
+                "ts": "1607546874.171400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1609453358.205000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1609453380.205200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1609453380.205200"
+    },
+    {
+        "client_msg_id": "5aa9551b-c60f-4dd2-bb48-a1dfcd33b4b0",
+        "type": "message",
+        "text": "ahrefs has a rank tracker tool you can use for this. i use SEMrush's position tracking which i believe is similar",
+        "user": "U01EJ7VE9FD",
+        "ts": "1607527330.168700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mQuc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahrefs has a rank tracker tool you can use for this. i use SEMrush's position tracking which i believe is similar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607527023.168500",
+        "parent_user_id": "U019SM5LH6D"
+    },
+    {
+        "client_msg_id": "d4763ad6-b18c-40a5-b0ef-7051941034ef",
+        "type": "message",
+        "text": "I haven’t taken the time to set up a dashboard for this, because I do so many refreshes it’d quickly start becoming a dashboard that shows anything meaningful to me. I just take notes, and directly link to my rank tracking software (I tagged queries) and the changes I made (link to Git), including my expectations so I can evaluate how those measure up against the real results.",
+        "user": "U014PRHQUQ2",
+        "ts": "1607529331.168900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vV\/h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I haven’t taken the time to set up a dashboard for this, because I do so many refreshes it’d quickly start becoming a dashboard that shows anything meaningful to me. I just take notes, and directly link to my rank tracking software (I tagged queries) and the changes I made (link to Git), including my expectations so I can evaluate how those measure up against the real results."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607527023.168500",
+        "parent_user_id": "U019SM5LH6D"
+    },
+    {
+        "client_msg_id": "1732E61C-19B0-438A-9B88-DC001F323BE2",
+        "type": "message",
+        "text": "I’ve built spreadsheets to track this MoM because I couldn’t find the right tool. ",
+        "user": "UUH2EB134",
+        "ts": "1607536011.169900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "37J5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve built spreadsheets to track this MoM because I couldn’t find the right tool. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607527023.168500",
+        "parent_user_id": "U019SM5LH6D"
+    },
+    {
+        "client_msg_id": "3984626c-98fc-4425-ac49-e5a25a3f78de",
+        "type": "message",
+        "text": "In all honesty, I've always used a combination of a spreadsheet and VA-ish labor.  If such a tool existed, it'd be a \"shut up and take my money\" moment for me",
+        "user": "U017XD7H4P7",
+        "ts": "1607546792.171200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ab77023918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1256516765207_f9ab77023918e4c2b919_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Dietrich",
+            "display_name": "Erik Dietrich",
+            "team": "TJE58GTJL",
+            "name": "erik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6Bs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In all honesty, I've always used a combination of a spreadsheet and VA-ish labor.  If such a tool existed, it'd be a \"shut up and take my money\" moment for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607527023.168500",
+        "parent_user_id": "U019SM5LH6D"
+    },
+    {
+        "client_msg_id": "a157b237-54d4-4ddf-bf1d-8f5be593ffc9",
+        "type": "message",
+        "text": "(I have ahrefs, but the caching gets stale too fast for me to find it reliable to track the way I'd like)",
+        "user": "U017XD7H4P7",
+        "ts": "1607546874.171400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ab77023918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1256516765207_f9ab77023918e4c2b919_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Dietrich",
+            "display_name": "Erik Dietrich",
+            "team": "TJE58GTJL",
+            "name": "erik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(I have ahrefs, but the caching gets stale too fast for me to find it reliable to track the way I'd like)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607527023.168500",
+        "parent_user_id": "U019SM5LH6D"
+    },
+    {
+        "client_msg_id": "58f3abc8-b29a-4ab0-b296-231d82ece727",
+        "type": "message",
+        "text": "Hey folks! What's your favourite way to use ahrefs for content marketing? I just discovered that you can select 'New' as a status within <https:\/\/ahrefs.com\/blog\/top-pages-revamp\/|'Top Pages 2.0'>, which gives you a list of all content pieces that are gaining traction in a selected time period. Ahrefs is such a powerful tool, so I'm keen to hear how you all benefit from it!",
+        "user": "U016CGRMRAR",
+        "ts": "1607573771.175000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a30df0f060df",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-02\/1218126269474_a30df0f060df6aa5e64f_72.jpg",
+            "first_name": "Olivia",
+            "real_name": "Olivia Blazevic",
+            "display_name": "Olivia Blazevic",
+            "team": "TJE58GTJL",
+            "name": "olivia544",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SEO Blog by Ahrefs",
+                "title": "Top Pages 2.0: Report Revamp",
+                "title_link": "https:\/\/ahrefs.com\/blog\/top-pages-revamp\/",
+                "text": "Head over to Site Explorer and you’ll find the new report sitting pretty in the sidebar, separate from the old report. Please note that this report isn't",
+                "fallback": "SEO Blog by Ahrefs: Top Pages 2.0: Report Revamp",
+                "image_url": "https:\/\/ahrefs.com\/blog\/wp-content\/uploads\/2020\/11\/unnamed.png",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Rebekah Bek",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "2 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1605251404,
+                "from_url": "https:\/\/ahrefs.com\/blog\/top-pages-revamp\/",
+                "image_width": 545,
+                "image_height": 250,
+                "image_bytes": 29379,
+                "service_icon": "https:\/\/ahrefs.com\/blog\/wp-content\/themes\/Ahrefs-4\/images\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/ahrefs.com\/blog\/top-pages-revamp\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G=E9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks! What's your favourite way to use ahrefs for content marketing? I just discovered that you can select 'New' as a status within "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ahrefs.com\/blog\/top-pages-revamp\/",
+                                "text": "'Top Pages 2.0'"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", which gives you a list of all content pieces that are gaining traction in a selected time period. Ahrefs is such a powerful tool, so I'm keen to hear how you all benefit from it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607573771.175000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1607640116.182000",
+        "reply_users": [
+            "UUKNSAKUH",
+            "U016CGRMRAR"
+        ],
+        "replies": [
+            {
+                "user": "UUKNSAKUH",
+                "ts": "1607593745.178100"
+            },
+            {
+                "user": "U016CGRMRAR",
+                "ts": "1607640116.182000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4F7DD944-8476-44F8-8E0B-8F4296C0D154",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/heyitsallyssa\/status\/1326213591775678464?s=21|Sharing> my favorite <https:\/\/twitter.com\/heyitsallyssa\/status\/1326343898025787392?s=21|tool>. It’s called <http:\/\/getguru.com|Guru> and it’s a knowledge base wiki where the opportunities are endless. Great for sales enablement, knowledge share, company information and how-tos. 10\/10 would recommend for the Slack integration and Chrome Extension alone",
+        "user": "U01H87WF448",
+        "ts": "1607577417.177400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61cef2d0d47c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-05\/1614256077539_61cef2d0d47cc0fb3b11_72.png",
+            "first_name": "Allyssa",
+            "real_name": "Allyssa Eclarin",
+            "display_name": "Allyssa",
+            "team": "TJE58GTJL",
+            "name": "allyssacreatesthings",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/heyitsallyssa|@heyitsallyssa>: What I, a product marketer, use Guru for:\n\n:white_check_mark: product features\n \n:white_check_mark: competitor intel\n\n:white_check_mark: FAQ\n\n:white_check_mark: customer stories\n\n:white_check_mark: personas\n\n:white_check_mark: messaging \n\n:white_check_mark: linking demos\n\n:white_check_mark: random but important knowledge that gets dropped into Slack never to be seen again",
+                "ts": 1605028934,
+                "author_name": "Allyssa✨",
+                "author_link": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326213591775678464",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1267871705462013954\/e-7Vkx-C_normal.jpg",
+                "author_subname": "@heyitsallyssa",
+                "text": "What I, a product marketer, use Guru for:\n\n:white_check_mark: product features\n \n:white_check_mark: competitor intel\n\n:white_check_mark: FAQ\n\n:white_check_mark: customer stories\n\n:white_check_mark: personas\n\n:white_check_mark: messaging \n\n:white_check_mark: linking demos\n\n:white_check_mark: random but important knowledge that gets dropped into Slack never to be seen again",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326213591775678464?s=21",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326213591775678464?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "fallback": "<https:\/\/twitter.com\/heyitsallyssa|@heyitsallyssa>: For my fellow designers, there’s also a ton of ways to use <https:\/\/twitter.com\/Guru_HQ|@Guru_HQ> for design and brand elements as well. \n\n:white_check_mark: branding guidelines \n\n:white_check_mark: design assets \n\n:white_check_mark: templates + instructions \n\n:white_check_mark: iconography examples\n\n:white_check_mark: how tos\n\n:white_check_mark: layouts and files\n\nThe list is endless really :fire:",
+                "ts": 1605060002,
+                "author_name": "Allyssa✨",
+                "author_link": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326343898025787392",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1267871705462013954\/e-7Vkx-C_normal.jpg",
+                "author_subname": "@heyitsallyssa",
+                "text": "For my fellow designers, there’s also a ton of ways to use <https:\/\/twitter.com\/Guru_HQ|@Guru_HQ> for design and brand elements as well. \n\n:white_check_mark: branding guidelines \n\n:white_check_mark: design assets \n\n:white_check_mark: templates + instructions \n\n:white_check_mark: iconography examples\n\n:white_check_mark: how tos\n\n:white_check_mark: layouts and files\n\nThe list is endless really :fire:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326343898025787392?s=21",
+                "id": 2,
+                "original_url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326343898025787392?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "title": "Knowledge Base Software - Replace Your Company Wiki",
+                "title_link": "http:\/\/getguru.com\/",
+                "text": "Need a better knowledge management system? Guru can help. Find out how our tool can help support your team by improving knowledge sharing.",
+                "fallback": "Knowledge Base Software - Replace Your Company Wiki",
+                "image_url": "https:\/\/assets.website-files.com\/5d8d029013ffd80bbb91320d\/5dc18d7187ad3e925d8bfa96_Homepage%402x.jpg",
+                "from_url": "http:\/\/getguru.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 363505,
+                "service_name": "getguru.com",
+                "id": 3,
+                "original_url": "http:\/\/getguru.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T40Mp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326213591775678464?s=21",
+                                "text": "Sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " my favorite "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326343898025787392?s=21",
+                                "text": "tool"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". It’s called "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/getguru.com",
+                                "text": "Guru"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and it’s a knowledge base wiki where the opportunities are endless. Great for sales enablement, knowledge share, company information and how-tos. 10\/10 would recommend for the Slack integration and Chrome Extension alone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607577417.177400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1607577463.177800",
+        "reply_users": [
+            "U01H87WF448"
+        ],
+        "replies": [
+            {
+                "user": "U01H87WF448",
+                "ts": "1607577463.177800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01CSFHKLQP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90138F38-09AF-4D1D-BE8F-1B537294D066",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/heyitsallyssa\/status\/1326200165284286464?s=21|https:\/\/twitter.com\/heyitsallyssa\/status\/1326200165284286464?s=21>",
+        "user": "U01H87WF448",
+        "ts": "1607577463.177800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "61cef2d0d47c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-05\/1614256077539_61cef2d0d47cc0fb3b11_72.png",
+            "first_name": "Allyssa",
+            "real_name": "Allyssa Eclarin",
+            "display_name": "Allyssa",
+            "team": "TJE58GTJL",
+            "name": "allyssacreatesthings",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/heyitsallyssa|@heyitsallyssa>: If anyone needs help pitching the value add of <https:\/\/twitter.com\/Guru_HQ|@Guru_HQ> to their team lemme know. I have a deck that I made full of screenshots, videos + comparisons etc that helped our team decide\n\nI’ve used Guru at 2 orgs in the last 5 years so I’m their unofficial internal champ at this point <https:\/\/twitter.com\/heyitsallyssa\/status\/1325981802331217921>",
+                "ts": 1605025733,
+                "author_name": "Allyssa✨",
+                "author_link": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326200165284286464",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1267871705462013954\/e-7Vkx-C_normal.jpg",
+                "author_subname": "@heyitsallyssa",
+                "text": "If anyone needs help pitching the value add of <https:\/\/twitter.com\/Guru_HQ|@Guru_HQ> to their team lemme know. I have a deck that I made full of screenshots, videos + comparisons etc that helped our team decide\n\nI’ve used Guru at 2 orgs in the last 5 years so I’m their unofficial internal champ at this point <https:\/\/twitter.com\/heyitsallyssa\/status\/1325981802331217921>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326200165284286464?s=21",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326200165284286464?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "fallback": "<https:\/\/twitter.com\/heyitsallyssa|@heyitsallyssa>: How to successfully share it with your team :dancers::dancers: :point_down:\n\n1. Share it on <https:\/\/twitter.com\/SlackHQ|@SlackHQ> in all appropriate channels\n\n2. Make <https:\/\/twitter.com\/Guru_HQ|@Guru_HQ> cards with the feature’s buyer persona, benefits, pain points addressed and whatever else is deemed necessary for the new feature to be understood <https:\/\/pbs.twimg.com\/media\/EmbU6gbU0AId-uO.jpg>",
+                "ts": 1604973671,
+                "author_name": "Allyssa✨",
+                "author_link": "https:\/\/twitter.com\/heyitsallyssa\/status\/1325981802331217921",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1267871705462013954\/e-7Vkx-C_normal.jpg",
+                "author_subname": "@heyitsallyssa",
+                "text": "How to successfully share it with your team :dancers::dancers: :point_down:\n\n1. Share it on <https:\/\/twitter.com\/SlackHQ|@SlackHQ> in all appropriate channels\n\n2. Make <https:\/\/twitter.com\/Guru_HQ|@Guru_HQ> cards with the feature’s buyer persona, benefits, pain points addressed and whatever else is deemed necessary for the new feature to be understood <https:\/\/pbs.twimg.com\/media\/EmbU6gbU0AId-uO.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1325981802331217921",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EmbU6gbU0AId-uO.jpg",
+                "image_width": 1200,
+                "image_height": 668,
+                "image_bytes": 56124,
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XZs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326200165284286464?s=21",
+                                "text": "https:\/\/twitter.com\/heyitsallyssa\/status\/1326200165284286464?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607577417.177400",
+        "parent_user_id": "U01H87WF448"
+    }
+]

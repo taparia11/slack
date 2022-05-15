@@ -1,0 +1,1561 @@
+[
+    {
+        "client_msg_id": "d533eb43-40d7-4ee6-b916-d31ee71ba076",
+        "type": "message",
+        "text": "Has anyone had real experience with the effect of non-English URLs on SEO and ranking?\n\nCurrently have a German website with the original german slug URL, but the English version of the website has its content in English but the german slug.\n\n:smile:",
+        "user": "U02KR8D3EMC",
+        "ts": "1645539814.304059",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d3c3141759e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3101674047607_d3c3141759e2415414c1_72.jpg",
+            "first_name": "Alejo",
+            "real_name": "Alejo Garcia Bravo",
+            "display_name": "Alejo Garcia Bravo",
+            "team": "TJE58GTJL",
+            "name": "alejogarciag1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02KR8D3EMC",
+            "ts": "1645539858.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJ8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone had real experience with the effect of non-English URLs on SEO and ranking?\n\nCurrently have a German website with the original german slug URL, but the English version of the website has its content in English but the german slug.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1645554900.691579",
+        "reply_users": [
+            "U033RC9H6V6",
+            "U02KR8D3EMC",
+            "UJE5LARL0"
+        ],
+        "replies": [
+            {
+                "user": "U033RC9H6V6",
+                "ts": "1645544256.919309"
+            },
+            {
+                "user": "U02KR8D3EMC",
+                "ts": "1645546651.589819"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645547895.459109"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645547924.448519"
+            },
+            {
+                "user": "U02KR8D3EMC",
+                "ts": "1645547973.917699"
+            },
+            {
+                "user": "U02KR8D3EMC",
+                "ts": "1645548021.745899"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1645550005.663279"
+            },
+            {
+                "user": "U02KR8D3EMC",
+                "ts": "1645554900.691579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U011QQDDSJV",
+                    "U028XDRBC3U",
+                    "U02E02NL6GM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bc5d602-a9cd-4d89-8cda-bfbf8238b2e6",
+        "type": "message",
+        "text": "My understanding is URLs have a very low\/negligible effect or impact on SEO ranking. I was told by a consultant to disregard concern for keywords in URLs.\n\nI suspect they may have some very small effect for the algorithm. Also, some people will read the URL in SERPs, and that will have some bearing on CTRs, but I don't know to what extent.\n\nIf not already implemented, it may be worth reading up and implementing hreflang: <https:\/\/moz.com\/learn\/seo\/hreflang-tag>",
+        "user": "U033RC9H6V6",
+        "ts": "1645544256.919309",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g224d9615291",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/224d9615291e4749a7a83601bd5ab295.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Broad",
+            "display_name": "Matt Broad",
+            "team": "TJE58GTJL",
+            "name": "matt835",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/moz.com\/learn\/seo\/hreflang-tag",
+                "image_url": "https:\/\/moz.com\/images\/cms\/moz-stairs-homepage-banner-v2.jpg?w=1200&h=630&q=82&auto=format&fit=crop&crop=focalpoint&fp-x=0.6423&fp-y=0.497&dm=1549300321&s=4ade1686bcefc80937fc976e3a22d6f4",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 150785,
+                "service_icon": "https:\/\/moz.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/moz.com\/learn\/seo\/hreflang-tag",
+                "fallback": "Moz: Hreflang Tag",
+                "text": "The HTML hreflang attribute (commonly mistaken as a \"tag\") tells search engines what languages your content is written in to help same-language speakers find your content.",
+                "title": "Hreflang Tag",
+                "title_link": "https:\/\/moz.com\/learn\/seo\/hreflang-tag",
+                "service_name": "Moz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nT3T0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My understanding is URLs have a very low\/negligible effect or impact on SEO ranking. I was told by a consultant to disregard concern for keywords in URLs.\n\nI suspect they may have some very small effect for the algorithm. Also, some people will read the URL in SERPs, and that will have some bearing on CTRs, but I don't know to what extent.\n\nIf not already implemented, it may be worth reading up and implementing hreflang: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/moz.com\/learn\/seo\/hreflang-tag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "parent_user_id": "U02KR8D3EMC",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02KR8D3EMC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9686c51d-7e53-4833-a485-30a1627a1e6a",
+        "type": "message",
+        "text": "In terms of ranking, it's similar to TOC, very *related to user experience, but much more impactful* in those terms. It's not strictly a ranking factor, but in terms of user experience, the majority of English speakers don't know about the German language, so when reading\/remembering the slug it would be a huge misunderstanding.",
+        "user": "U02KR8D3EMC",
+        "ts": "1645546651.589819",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d3c3141759e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3101674047607_d3c3141759e2415414c1_72.jpg",
+            "first_name": "Alejo",
+            "real_name": "Alejo Garcia Bravo",
+            "display_name": "Alejo Garcia Bravo",
+            "team": "TJE58GTJL",
+            "name": "alejogarciag1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In terms of ranking, it's similar to TOC, very "
+                            },
+                            {
+                                "type": "text",
+                                "text": "related to user experience, but much more impactful",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in those terms. It's not strictly a ranking factor, but in terms of user experience, the majority of English speakers don't know about the German language, so when reading\/remembering the slug it would be a huge misunderstanding."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "parent_user_id": "U02KR8D3EMC"
+    },
+    {
+        "client_msg_id": "3e1d6246-df1d-448f-b204-87942fe383b8",
+        "type": "message",
+        "text": "Wait -  why are you not fixing the slugs?",
+        "user": "UJE5LARL0",
+        "ts": "1645547895.459109",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait -  why are you not fixing the slugs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "parent_user_id": "U02KR8D3EMC"
+    },
+    {
+        "client_msg_id": "11054681-8e5c-4ab7-8d60-d0f09db07736",
+        "type": "message",
+        "text": "if they're distinct pages, aren't they separate or is it like:\n`\/en\/german-slug`\n`\/de\/german-slug`",
+        "user": "UJE5LARL0",
+        "ts": "1645547924.448519",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if they're distinct pages, aren't they separate or is it like:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/en\/german-slug",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/de\/german-slug",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "parent_user_id": "U02KR8D3EMC"
+    },
+    {
+        "client_msg_id": "caddd8c1-ef61-4e65-a803-b80ce9121c12",
+        "type": "message",
+        "text": "The current structure is:\nGerman version:\n<http:\/\/website.com\/page|website.com\/page>\n<http:\/\/website.com\/projektmanagement-software|website.com\/projektmanagement-software>\nEnglish version:\n<http:\/\/en.website.com\/page|en.website.com\/page>\n<http:\/\/en.website.com\/projektmanagement-software|en.website.com\/projektmanagement-software>",
+        "user": "U02KR8D3EMC",
+        "ts": "1645547973.917699",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d3c3141759e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3101674047607_d3c3141759e2415414c1_72.jpg",
+            "first_name": "Alejo",
+            "real_name": "Alejo Garcia Bravo",
+            "display_name": "Alejo Garcia Bravo",
+            "team": "TJE58GTJL",
+            "name": "alejogarciag1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02KR8D3EMC",
+            "ts": "1645548171.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KTH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The current structure is:\nGerman version:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/website.com\/page",
+                                "text": "website.com\/page"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/website.com\/projektmanagement-software",
+                                "text": "website.com\/projektmanagement-software"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEnglish version:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/en.website.com\/page",
+                                "text": "en.website.com\/page"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/en.website.com\/projektmanagement-software",
+                                "text": "en.website.com\/projektmanagement-software"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "parent_user_id": "U02KR8D3EMC"
+    },
+    {
+        "client_msg_id": "582b0a1a-80eb-4030-8e7a-8f3ff27fdd90",
+        "type": "message",
+        "text": "Currently using Weglot, and their upgrade plan is an extra $100 euros per month (and is in that plan where they offer this translated URLs thing), so we are evaluating it.",
+        "user": "U02KR8D3EMC",
+        "ts": "1645548021.745899",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d3c3141759e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3101674047607_d3c3141759e2415414c1_72.jpg",
+            "first_name": "Alejo",
+            "real_name": "Alejo Garcia Bravo",
+            "display_name": "Alejo Garcia Bravo",
+            "team": "TJE58GTJL",
+            "name": "alejogarciag1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02KR8D3EMC",
+            "ts": "1645548046.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=2ec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Currently using Weglot, and their upgrade plan is an extra $100 euros per month (and is in that plan where they offer this translated URLs thing), so we are evaluating it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "parent_user_id": "U02KR8D3EMC"
+    },
+    {
+        "client_msg_id": "3e381a4c-77b3-4085-b0e4-8219232cb6fd",
+        "type": "message",
+        "text": "Ok, I would change it to english if it were me - b\/c why not it's so easy",
+        "user": "UJE5LARL0",
+        "ts": "1645550005.663279",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPbCo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, I would change it to english if it were me - b\/c why not it's so easy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "parent_user_id": "U02KR8D3EMC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02KR8D3EMC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5a38aeb-8a49-419e-90ef-482b8b0b411c",
+        "type": "message",
+        "text": "Right! That's definitely an option.",
+        "user": "U02KR8D3EMC",
+        "ts": "1645554900.691579",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d3c3141759e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3101674047607_d3c3141759e2415414c1_72.jpg",
+            "first_name": "Alejo",
+            "real_name": "Alejo Garcia Bravo",
+            "display_name": "Alejo Garcia Bravo",
+            "team": "TJE58GTJL",
+            "name": "alejogarciag1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjDK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right! That's definitely an option."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645539814.304059",
+        "parent_user_id": "U02KR8D3EMC"
+    },
+    {
+        "client_msg_id": "9cd858fe-14da-4072-a74a-263e4fce9e36",
+        "type": "message",
+        "text": "Okay — does anyone know of any _hard numbers_ on the organic search disadvantages of *not posting new content to a branded blog every week*? Are there any? Is there a real organic search advantage to high frequency posting?\n\nFrequent new posts make sense to me for a news-oriented blog, but I can’t really understand pressure to add X number of new posts to a company blog per week\/month.",
+        "user": "U02D1E37FL5",
+        "ts": "1645555618.211929",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a25f431955c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-29\/3445735889799_3a25f431955c915b887a_72.png",
+            "first_name": "Kelsey",
+            "real_name": "Kelsey Donk",
+            "display_name": "Kelsey",
+            "team": "TJE58GTJL",
+            "name": "kelseydonk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDAch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay — does anyone know of any "
+                            },
+                            {
+                                "type": "text",
+                                "text": "hard numbers ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "on the organic search disadvantages of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "not posting new content to a branded blog every week",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Are there any? Is there a real organic search advantage to high frequency posting?\n\nFrequent new posts make sense to me for a news-oriented blog, but I can’t really understand pressure to add X number of new posts to a company blog per week\/month."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645555618.211929",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1645636647.816359",
+        "reply_users": [
+            "U024K88ECFN",
+            "U02D1E37FL5",
+            "UUXMCJQ15",
+            "U0341LGQEN7"
+        ],
+        "replies": [
+            {
+                "user": "U024K88ECFN",
+                "ts": "1645557628.757049"
+            },
+            {
+                "user": "U02D1E37FL5",
+                "ts": "1645557840.883859"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1645558800.771979"
+            },
+            {
+                "user": "U02D1E37FL5",
+                "ts": "1645558969.450139"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1645559075.593149"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1645579494.495549"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1645579556.703949"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1645579589.800819"
+            },
+            {
+                "user": "U0341LGQEN7",
+                "ts": "1645625698.565529"
+            },
+            {
+                "user": "U02D1E37FL5",
+                "ts": "1645636647.816359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b3838ac0-4a00-442c-bb5b-7d3388eb0442",
+        "type": "message",
+        "text": "So when you ask this question... do you mean data supporting a specific cadence on a blog mostly of evergreen, not news, content?",
+        "user": "U024K88ECFN",
+        "ts": "1645557628.757049",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "De+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So when you ask this question... do you mean data supporting a specific cadence on a blog mostly of evergreen, not news, content?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645555618.211929",
+        "parent_user_id": "U02D1E37FL5"
+    },
+    {
+        "client_msg_id": "fc46eb06-8a30-45ae-9791-3b8501052745",
+        "type": "message",
+        "text": "Correct! Thanks for rephrasing, <@U024K88ECFN>!",
+        "user": "U02D1E37FL5",
+        "ts": "1645557840.883859",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a25f431955c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-29\/3445735889799_3a25f431955c915b887a_72.png",
+            "first_name": "Kelsey",
+            "real_name": "Kelsey Donk",
+            "display_name": "Kelsey",
+            "team": "TJE58GTJL",
+            "name": "kelseydonk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48MEn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct! Thanks for rephrasing, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U024K88ECFN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645555618.211929",
+        "parent_user_id": "U02D1E37FL5"
+    },
+    {
+        "type": "message",
+        "text": "Okay cool, just wanted to make sure I understand before I answer!\n\nI would probably argue that based on the data I've seen, there's a benefit to posting on some kind of a regular schedule for evergreen content, but I don't think there's a perfect number.\n\nI've worked with 3 different clients that either \"took time off\" from publishing (budgetary concerns, bandwidth, etc.) OR had failed to publish completed articles for months and then batch-posted them with 10+ at a time going up on the same day.\n\nGenerally, our other clients have posts going out 1-3 times per week on a pretty consistent basis.\n\nFor the majority of our clients (the second example), the content has trended up pretty consistently and almost predictably:\n\n• On a new site, posting 4x+ per month leads to an uptrend in traffic around 6-7 months after content begins\n• While there are random dips and spikes, it's pretty consistently increasing traffic by 30-40%\/month for ~16 months or so\n• After that period, monthly increases are usually 10-20% higher sitewide\n*All of the above stats assume that new content is targeting a mix of volumes that more or less even out over time (we're not targeting 500K the first 2 months and then 200 monthly volume every month after that).\n\nBut on the 3 sites who took breaks for whatever reason:\n\n• About 3 months after ceasing consistent posting, traffic begins to decline _rapidly_ and then level off (30-80% traffic losses, in my limited experience)\n• If posts go up in another batch, there's usually another spike 6-12 weeks after, but it levels off as well\nThe first 3 screenshots of the ones I'm attaching are of sites in my \"consistent\" group (#3 is a client who's been posting consistently for almost 3 years). The last is my most recent example of the \"taking time off\" example — the first dip was almost exactly 3 months after the site stopped posting, and then it picked up within 3 weeks of regular posting. (The second dip was due to the site going down after a hosting transfer error by the web dev). The continued growth has happened since he picked content posting back up.\n\nMy takeaway is to recommend a semi-consistent schedule for all of our clients. It doesn't have to be perfect or exactly the same each month, but I have not seen evidence that one batch of content followed by months of radio silence is actually good for consistent growth.\n\nSorry this is so long! Hope it's insightful and helps to answer your question, though. :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F0346PLP3T5",
+                "created": 1645558763,
+                "timestamp": 1645558763,
+                "name": "Screen Shot 2022-02-22 at 1.28.34 PM.png",
+                "title": "Screen Shot 2022-02-22 at 1.28.34 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U024K88ECFN",
+                "editable": false,
+                "size": 54582,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0346PLP3T5\/screen_shot_2022-02-22_at_1.28.34_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0346PLP3T5\/download\/screen_shot_2022-02-22_at_1.28.34_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PLP3T5-e97123a425\/screen_shot_2022-02-22_at_1.28.34_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PLP3T5-e97123a425\/screen_shot_2022-02-22_at_1.28.34_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PLP3T5-e97123a425\/screen_shot_2022-02-22_at_1.28.34_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 153,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PLP3T5-e97123a425\/screen_shot_2022-02-22_at_1.28.34_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 204,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PLP3T5-e97123a425\/screen_shot_2022-02-22_at_1.28.34_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PLP3T5-e97123a425\/screen_shot_2022-02-22_at_1.28.34_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 306,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PLP3T5-e97123a425\/screen_shot_2022-02-22_at_1.28.34_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 340,
+                "original_w": 919,
+                "original_h": 391,
+                "thumb_tiny": "AwAUADCUwzHPynP1qM28+T8rf99VpUZFXzsSVivaRyRxEOMHOeuasUZHrSbhUvUYtFNyc9KUDHcmkAtGKKKADFFFFABR0oooA\/\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U024K88ECFN\/F0346PLP3T5\/screen_shot_2022-02-22_at_1.28.34_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F0346PLP3T5-c26edd5b7b",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0346P8N28J",
+                "created": 1645558767,
+                "timestamp": 1645558767,
+                "name": "Screen Shot 2022-02-22 at 1.29.22 PM.png",
+                "title": "Screen Shot 2022-02-22 at 1.29.22 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U024K88ECFN",
+                "editable": false,
+                "size": 54986,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0346P8N28J\/screen_shot_2022-02-22_at_1.29.22_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0346P8N28J\/download\/screen_shot_2022-02-22_at_1.29.22_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346P8N28J-00a588ed14\/screen_shot_2022-02-22_at_1.29.22_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346P8N28J-00a588ed14\/screen_shot_2022-02-22_at_1.29.22_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346P8N28J-00a588ed14\/screen_shot_2022-02-22_at_1.29.22_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 152,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346P8N28J-00a588ed14\/screen_shot_2022-02-22_at_1.29.22_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 203,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346P8N28J-00a588ed14\/screen_shot_2022-02-22_at_1.29.22_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346P8N28J-00a588ed14\/screen_shot_2022-02-22_at_1.29.22_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 304,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346P8N28J-00a588ed14\/screen_shot_2022-02-22_at_1.29.22_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 338,
+                "original_w": 925,
+                "original_h": 391,
+                "thumb_tiny": "AwAUADCUwzEng5z61Gbefcflb\/vqtKjI9avnYkrFe0jkSIhxg57mrFJkeooz6ZNS9Ri0UnJ7YoAPc5pALRiiigAoxRRQAUdKKKAP\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U024K88ECFN\/F0346P8N28J\/screen_shot_2022-02-22_at_1.29.22_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F0346P8N28J-0fd05326a2",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F034044RNT0",
+                "created": 1645558772,
+                "timestamp": 1645558772,
+                "name": "Screen Shot 2022-02-22 at 1.29.51 PM.png",
+                "title": "Screen Shot 2022-02-22 at 1.29.51 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U024K88ECFN",
+                "editable": false,
+                "size": 64145,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F034044RNT0\/screen_shot_2022-02-22_at_1.29.51_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F034044RNT0\/download\/screen_shot_2022-02-22_at_1.29.51_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034044RNT0-3656b18736\/screen_shot_2022-02-22_at_1.29.51_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034044RNT0-3656b18736\/screen_shot_2022-02-22_at_1.29.51_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034044RNT0-3656b18736\/screen_shot_2022-02-22_at_1.29.51_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 153,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034044RNT0-3656b18736\/screen_shot_2022-02-22_at_1.29.51_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 203,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034044RNT0-3656b18736\/screen_shot_2022-02-22_at_1.29.51_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034044RNT0-3656b18736\/screen_shot_2022-02-22_at_1.29.51_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 305,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F034044RNT0-3656b18736\/screen_shot_2022-02-22_at_1.29.51_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 339,
+                "original_w": 927,
+                "original_h": 393,
+                "thumb_tiny": "AwAUADCZoZiTgHr61GbefJ+Vv++q0OnajJ9P1q+diSsQWkciRkPwc9zmrFJ83sKPm9R+VS9Ri0U3aT1Y\/hSgAUgFooooAKKKKACk6UtFAH\/\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U024K88ECFN\/F034044RNT0\/screen_shot_2022-02-22_at_1.29.51_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F034044RNT0-355cd7d3a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0346PB63K4",
+                "created": 1645558795,
+                "timestamp": 1645558795,
+                "name": "Screen Shot 2022-02-22 at 1.35.41 PM.png",
+                "title": "Screen Shot 2022-02-22 at 1.35.41 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U024K88ECFN",
+                "editable": false,
+                "size": 62390,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0346PB63K4\/screen_shot_2022-02-22_at_1.35.41_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F0346PB63K4\/download\/screen_shot_2022-02-22_at_1.35.41_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PB63K4-cf6538da48\/screen_shot_2022-02-22_at_1.35.41_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PB63K4-cf6538da48\/screen_shot_2022-02-22_at_1.35.41_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PB63K4-cf6538da48\/screen_shot_2022-02-22_at_1.35.41_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 151,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PB63K4-cf6538da48\/screen_shot_2022-02-22_at_1.35.41_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 202,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PB63K4-cf6538da48\/screen_shot_2022-02-22_at_1.35.41_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PB63K4-cf6538da48\/screen_shot_2022-02-22_at_1.35.41_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 303,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F0346PB63K4-cf6538da48\/screen_shot_2022-02-22_at_1.35.41_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 336,
+                "original_w": 923,
+                "original_h": 388,
+                "thumb_tiny": "AwAUADCUwynPynr61GbafcfkJ\/4EK0cgUbh61fOxJWILSOSOMhxgk561YpNw9aNw9CfwqXqMWimksei\/nQAR1OaQDqKKKADFGKKKACjpRRQB\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U024K88ECFN\/F0346PB63K4\/screen_shot_2022-02-22_at_1.35.41_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F0346PB63K4-f9e9be521a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U024K88ECFN",
+        "ts": "1645558800.771979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZV5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay cool, just wanted to make sure I understand before I answer!\n\nI would probably argue that based on the data I've seen, there's a benefit to posting on some kind of a regular schedule for evergreen content, but I don't think there's a perfect number.\n\nI've worked with 3 different clients that either \"took time off\" from publishing (budgetary concerns, bandwidth, etc.) OR had failed to publish completed articles for months and then batch-posted them with 10+ at a time going up on the same day.\n\nGenerally, our other clients have posts going out 1-3 times per week on a pretty consistent basis.\n\nFor the majority of our clients (the second example), the content has trended up pretty consistently and almost predictably:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "On a new site, posting 4x+ per month leads to an uptrend in traffic around 6-7 months after content begins"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "While there are random dips and spikes, it's pretty consistently increasing traffic by 30-40%\/month for ~16 months or so"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "After that period, monthly increases are usually 10-20% higher sitewide"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n*All of the above stats assume that new content is targeting a mix of volumes that more or less even out over time (we're not targeting 500K the first 2 months and then 200 monthly volume every month after that).\n\nBut on the 3 sites who took breaks for whatever reason:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "About 3 months after ceasing consistent posting, traffic begins to decline "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "rapidly",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and then level off (30-80% traffic losses, in my limited experience)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If posts go up in another batch, there's usually another spike 6-12 weeks after, but it levels off as well"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThe first 3 screenshots of the ones I'm attaching are of sites in my \"consistent\" group (#3 is a client who's been posting consistently for almost 3 years). The last is my most recent example of the \"taking time off\" example — the first dip was almost exactly 3 months after the site stopped posting, and then it picked up within 3 weeks of regular posting. (The second dip was due to the site going down after a hosting transfer error by the web dev). The continued growth has happened since he picked content posting back up.\n\nMy takeaway is to recommend a semi-consistent schedule for all of our clients. It doesn't have to be perfect or exactly the same each month, but I have not seen evidence that one batch of content followed by months of radio silence is actually good for consistent growth.\n\nSorry this is so long! Hope it's insightful and helps to answer your question, though. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2c06e636-2eb6-4ebc-8511-ebd01ad93892",
+        "thread_ts": "1645555618.211929",
+        "parent_user_id": "U02D1E37FL5",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U033KHGTDHC",
+                    "UL9V1R1D2",
+                    "U033UGNQZ52",
+                    "U02R3S1RBUL",
+                    "U02HYFKG7U6",
+                    "U01G80EAWEP",
+                    "U019MUQNH5H"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b399fc92-439d-4131-8e41-9f70d9605498",
+        "type": "message",
+        "text": "Thank you for your thoughtful answer, <@U024K88ECFN>! I’m curious if you consider large updates to existing posts as part of that schedule? Or do you think of updates as a separate activity?",
+        "user": "U02D1E37FL5",
+        "ts": "1645558969.450139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a25f431955c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-29\/3445735889799_3a25f431955c915b887a_72.png",
+            "first_name": "Kelsey",
+            "real_name": "Kelsey Donk",
+            "display_name": "Kelsey",
+            "team": "TJE58GTJL",
+            "name": "kelseydonk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDXtU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for your thoughtful answer, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U024K88ECFN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I’m curious if you consider large updates to existing posts as part of that schedule? Or do you think of updates as a separate activity?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645555618.211929",
+        "parent_user_id": "U02D1E37FL5",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9dd6b7a-d309-4e01-a81c-3994be08e193",
+        "type": "message",
+        "text": "I generally would lump them together, especially if the on-page date reflects the most recently updated date. All 4 of these examples do include a bit of content refreshing, but to a smaller degree than new content (overall, about 1 update to every 4 new posts).",
+        "user": "U024K88ECFN",
+        "ts": "1645559075.593149",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ud2gM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I generally would lump them together, especially if the on-page date reflects the most recently updated date. All 4 of these examples do include a bit of content refreshing, but to a smaller degree than new content (overall, about 1 update to every 4 new posts)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645555618.211929",
+        "parent_user_id": "U02D1E37FL5"
+    },
+    {
+        "client_msg_id": "5D3680E4-11E8-4690-BDED-983B56477D68",
+        "type": "message",
+        "text": "I can literally point to every single blog that I’ve ever worked on that as successful as an example of not posting every week.",
+        "user": "UUXMCJQ15",
+        "ts": "1645579494.495549",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f05rO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can literally point to every single blog that I’ve ever worked on that as successful as an example of not posting every week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645555618.211929",
+        "parent_user_id": "U02D1E37FL5"
+    },
+    {
+        "client_msg_id": "2A01978F-0EB3-4221-B85B-3CAE9B3D410D",
+        "type": "message",
+        "text": "If you were to post four articles on the first day of the month, versus once every Monday, there is no significant long-term disadvantage. ",
+        "user": "UUXMCJQ15",
+        "ts": "1645579556.703949",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7lN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you were to post four articles on the first day of the month, versus once every Monday, there is no significant long-term disadvantage. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645555618.211929",
+        "parent_user_id": "U02D1E37FL5"
+    },
+    {
+        "client_msg_id": "04735776-4477-4D3E-A53D-3BEE5BEA42DF",
+        "type": "message",
+        "text": "my strategy is to post as much as you can as fast as you can. As soon as an article can go live, it should. ",
+        "user": "UUXMCJQ15",
+        "ts": "1645579589.800819",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my strategy is to post as much as you can as fast as you can. As soon as an article can go live, it should. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645555618.211929",
+        "parent_user_id": "U02D1E37FL5",
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a22905f-9570-485b-8f50-fb2d99560be7",
+        "type": "message",
+        "text": "Hello Everyone,\n\nI have a question to ask would appreciate your feedback on this.\nDo you think placing a link in a existing published content contains less value as compare to placing your link in fresh content *(In the form of Guest Post or just naturally getting links when the writer is drafting content for there site)?*",
+        "user": "U02SDB269T2",
+        "ts": "1645601623.222109",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e97659e2352b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3361296830080_e97659e2352bc038c430_72.jpg",
+            "first_name": "Aditya",
+            "real_name": "Aditya Soni",
+            "display_name": "Aditya Soni",
+            "team": "TJE58GTJL",
+            "name": "adityasonipimr1921",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oGzE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello Everyone,\n\nI have a question to ask would appreciate your feedback on this.\nDo you think placing a link in a existing published content contains less value as compare to placing your link in fresh content "
+                            },
+                            {
+                                "type": "text",
+                                "text": "(In the form of Guest Post or just naturally getting links when the writer is drafting content for there site)?",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645601623.222109",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1645603688.733429",
+        "reply_users": [
+            "UJJFDTN8G",
+            "U02SDB269T2"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1645602815.665839"
+            },
+            {
+                "user": "U02SDB269T2",
+                "ts": "1645602952.895969"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1645602994.193649"
+            },
+            {
+                "user": "U02SDB269T2",
+                "ts": "1645603195.932759"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1645603617.570269"
+            },
+            {
+                "user": "U02SDB269T2",
+                "ts": "1645603688.733429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0dce6940-6069-4698-af3a-3615f46d9887",
+        "type": "message",
+        "text": "If the post already has established authority then you could argue it has _more_ value.\n\nOr more immediate value anyway. But that might change over time so the immediate value disappears and they even themselves out.\n\nBut then how do you define value? Are you just after the link for page authority or are you after click-thrus?\n\nIf the latter, then traffic to the page is more important than age.\n\nMy take: don't worry about it.",
+        "user": "UJJFDTN8G",
+        "ts": "1645602815.665839",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkwF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If the post already has established authority then you could argue it has "
+                            },
+                            {
+                                "type": "text",
+                                "text": "more ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "value.\n\nOr more immediate value anyway. But that might change over time so the immediate value disappears and they even themselves out.\n\nBut then how do you define value? Are you just after the link for page authority or are you after click-thrus?\n\nIf the latter, then traffic to the page is more important than age.\n\nMy take: don't worry about it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645601623.222109",
+        "parent_user_id": "U02SDB269T2",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U034DAJUU0Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c15785c-e6a3-4829-9f36-75e820d3186a",
+        "type": "message",
+        "text": "<@UJJFDTN8G> To me value = link juice (the authority the external site can pass)",
+        "user": "U02SDB269T2",
+        "ts": "1645602952.895969",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e97659e2352b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3361296830080_e97659e2352bc038c430_72.jpg",
+            "first_name": "Aditya",
+            "real_name": "Aditya Soni",
+            "display_name": "Aditya Soni",
+            "team": "TJE58GTJL",
+            "name": "adityasonipimr1921",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pxMF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJJFDTN8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " To me value = link juice (the authority the external site can pass)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645601623.222109",
+        "parent_user_id": "U02SDB269T2"
+    },
+    {
+        "client_msg_id": "beb72c8b-5429-4b8f-866c-790c74fa4363",
+        "type": "message",
+        "text": "Then this part applies:\n\nIf the post already has established authority then you could argue it has _more_ value.\n\nOr more immediate value anyway. But that might change over time so the immediate value disappears and they even themselves out.",
+        "user": "UJJFDTN8G",
+        "ts": "1645602994.193649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vxg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then this part applies:\n\nIf the post already has established authority then you could argue it has "
+                            },
+                            {
+                                "type": "text",
+                                "text": "more ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "value.\n\nOr more immediate value anyway. But that might change over time so the immediate value disappears and they even themselves out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645601623.222109",
+        "parent_user_id": "U02SDB269T2"
+    },
+    {
+        "client_msg_id": "318e3a9f-7e30-4828-953a-bca4fad6fd8a",
+        "type": "message",
+        "text": "Okay so what I understood from your feedback is that, if the page already have authority then placing link on that page (in any form) can give me benefits in terms of link juice but over time it may lose the authority. hope is ma getting it correct?",
+        "user": "U02SDB269T2",
+        "ts": "1645603195.932759",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e97659e2352b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3361296830080_e97659e2352bc038c430_72.jpg",
+            "first_name": "Aditya",
+            "real_name": "Aditya Soni",
+            "display_name": "Aditya Soni",
+            "team": "TJE58GTJL",
+            "name": "adityasonipimr1921",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1aqX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay so what I understood from your feedback is that, if the page already have authority then placing link on that page (in any form) can give me benefits in terms of link juice but over time it may lose the authority. hope is ma getting it correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645601623.222109",
+        "parent_user_id": "U02SDB269T2"
+    }
+]

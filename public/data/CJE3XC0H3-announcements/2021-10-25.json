@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "5D90C41A-22C7-4116-8FC6-AD1D82307198",
+        "type": "message",
+        "text": "Hey! I keep trying to fill out the survey, but it doesn’t work too well on mobile, even in a browser. I can’t scroll through the whole thing. FYI. I will try again on my laptop!",
+        "user": "U02H8HZF5J5",
+        "ts": "1635160646.021700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gcae57a8d50c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cae57a8d50ca860a5c6985bd4f5ae9c8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Caroline",
+            "real_name": "Caroline Hoy",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "ahoycaroline",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJ8cJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! I keep trying to fill out the survey, but it doesn’t work too well on mobile, even in a browser. I can’t scroll through the whole thing. FYI. I will try again on my laptop!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634914801.010400",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "189efcc3-5115-4a73-b3fe-4d373de7c969",
+        "type": "message",
+        "text": "<@U02H8HZF5J5> try this link, i think it'll work better on mobile: <https:\/\/airtable.com\/shrPgDWdCljuYFJ6q>",
+        "user": "UJG9WTEKG",
+        "ts": "1635173728.022100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Airtable",
+                "title": "Superpath's 2022 Content Marketing Salary Survey - Airtable",
+                "title_link": "https:\/\/airtable.com\/shrPgDWdCljuYFJ6q",
+                "text": "Fill out the \"Superpath's 2022 Content Marketing Salary Survey\" form quickly and securely on Airtable.",
+                "fallback": "Airtable: Superpath's 2022 Content Marketing Salary Survey - Airtable",
+                "image_url": "https:\/\/static.airtable.com\/images\/oembed\/airtable.png",
+                "from_url": "https:\/\/airtable.com\/shrPgDWdCljuYFJ6q",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 12718,
+                "service_icon": "https:\/\/airtable.com\/images\/favicon\/baymax\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/airtable.com\/shrPgDWdCljuYFJ6q"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CLEPR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02H8HZF5J5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " try this link, i think it'll work better on mobile: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/airtable.com\/shrPgDWdCljuYFJ6q"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634914801.010400",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02H8HZF5J5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

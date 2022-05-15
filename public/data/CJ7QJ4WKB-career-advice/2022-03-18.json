@@ -1,0 +1,928 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647609882.217799",
+        "thread_ts": "1647609882.217799",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1648659856.171369",
+        "reply_users": [
+            "U034ZC5RY3U",
+            "U035JHT54EB",
+            "U02QWSD3BSM",
+            "USLACKBOT",
+            "U024BHRFEPQ"
+        ],
+        "replies": [
+            {
+                "user": "U034ZC5RY3U",
+                "ts": "1647614223.490649"
+            },
+            {
+                "user": "U035JHT54EB",
+                "ts": "1647615621.269129"
+            },
+            {
+                "user": "U034ZC5RY3U",
+                "ts": "1647615897.669229"
+            },
+            {
+                "user": "U02QWSD3BSM",
+                "ts": "1647769146.682589"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1647769183.723659"
+            },
+            {
+                "user": "U035JHT54EB",
+                "ts": "1647924423.787469"
+            },
+            {
+                "user": "U024BHRFEPQ",
+                "ts": "1648581937.411519"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1648581957.264049"
+            },
+            {
+                "user": "U035JHT54EB",
+                "ts": "1648617361.707489"
+            },
+            {
+                "user": "U024BHRFEPQ",
+                "ts": "1648659856.171369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "did someone say salary? here's some data that might be helpful. <https:\/\/superpath.co\/blog\/content-marketing-salary-report>",
+        "user": "USLACKBOT",
+        "ts": "1647609883.860579",
+        "attachments": [
+            {
+                "from_url": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/609d9c530fe0402cfde14a9c\/t\/61d76e005dd5ad7b9ebc6932\/1641508361386\/superpath+salary.jpg?format=1500w",
+                "thumb_width": 1052,
+                "thumb_height": 751,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/609d9c530fe0402cfde14a9c\/e34ef9bd-2724-4781-88fd-e8cba90125ef\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "fallback": "Your Content Career Headquarters: How Much Money Do Content Marketer's Make? (2022 Salary Report) — Your Content Career Headquarters",
+                "text": "The average content marketing salary is $93,725. Check out our salary report for more detailed data on job titles, experience and pay discrepancies.",
+                "title": "How Much Money Do Content Marketer's Make? (2022 Salary Report) — Your Content Career Headquarters",
+                "title_link": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "service_name": "Your Content Career Headquarters"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8BF83003-988F-4804-94F1-8F8B9D757E61",
+        "type": "message",
+        "text": "I'll take the job that offers me a place to learn because that's what's really important to me right now. \n\n<@U035JHT54EB>  So I'll say it depends on what's important to you. ",
+        "user": "U034ZC5RY3U",
+        "ts": "1647614223.490649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dbd0e771a518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-16\/3273505098592_dbd0e771a518d3a263a7_72.png",
+            "first_name": "Folasade",
+            "real_name": "Folasade",
+            "display_name": "Folasade",
+            "team": "TJE58GTJL",
+            "name": "folasadesobayo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U034ZC5RY3U",
+            "ts": "1647614246.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vuE=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll take the job that offers me a place to learn because that's what's really important to me right now. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U035JHT54EB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  So I'll say it depends on what's important to you. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647609882.217799",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U035JHT54EB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "954b7e95-193d-4587-b432-12e9b6f48e0d",
+        "type": "message",
+        "text": "I just have to learn and master what I am doing",
+        "user": "U035JHT54EB",
+        "ts": "1647615621.269129",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8a36006e765d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-18\/3261423152866_8a36006e765da501ae37_72.jpg",
+            "first_name": "Mohamed",
+            "real_name": "Mohamed Natheem",
+            "display_name": "Mohamed Natheem",
+            "team": "TJE58GTJL",
+            "name": "mohamed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9K0=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just have to learn and master what I am doing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647609882.217799",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "0D3322B4-8BDB-4CD7-90EF-3598FA4D146B",
+        "type": "message",
+        "text": "I think you should take the opportunity then. ",
+        "user": "U034ZC5RY3U",
+        "ts": "1647615897.669229",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dbd0e771a518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-16\/3273505098592_dbd0e771a518d3a263a7_72.png",
+            "first_name": "Folasade",
+            "real_name": "Folasade",
+            "display_name": "Folasade",
+            "team": "TJE58GTJL",
+            "name": "folasadesobayo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you should take the opportunity then. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647609882.217799",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U035JHT54EB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3c7a650-c223-4f65-9856-d7c3d8cff2fb",
+        "type": "message",
+        "text": "Hi! Mods, please feel free to move this to the correct channel if I’m in the wrong place.\n\nLong story short: I’m a (now former) journalist starting at a cannabis recruiting startup on Monday as their Content Manager and Strategist. I know the industry, I know the work and I’ve been studying through LinkedIn Learning the strategy and language. But I have three questions that I’m hoping the pros here — many of whom have been through similar transitions — can provide a little guidance on. It’s a very small leadership team in the midst of transition. ANY help would be much appreciated:\n\n1. What three things MUST I know when I walk in the door, or what three things do you wish you knew that you didn’t when you walked in the door of your first non-journalism content job?\n2. Who should I be sure to meet with on my first day of onboarding\n3. They don’t yet have a CMO and some of the work I’ll be doing is definitely in line with more of a CMO. Where would you draw the line? I am having coffee with a CMO I know to talk about this too.\nThanks in advance!",
+        "user": "U034DAFBH5F",
+        "ts": "1647624326.598079",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4463120102e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-09\/3214756023634_4463120102e0b89f41e1_72.jpg",
+            "first_name": "Jonathan",
+            "real_name": "Jonathan Rose",
+            "display_name": "Jonathan Rose",
+            "team": "TJE58GTJL",
+            "name": "jrose131",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U034DAFBH5F",
+            "ts": "1647624359.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VWcr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Mods, please feel free to move this to the correct channel if I’m in the wrong place.\n\nLong story short: I’m a (now former) journalist starting at a cannabis recruiting startup on Monday as their Content Manager and Strategist. I know the industry, I know the work and I’ve been studying through LinkedIn Learning the strategy and language. But I have three questions that I’m hoping the pros here — many of whom have been through similar transitions — can provide a little guidance on. It’s a very small leadership team in the midst of transition. ANY help would be much appreciated:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What three things MUST I know when I walk in the door, or what three things do you wish you knew that you didn’t when you walked in the door of your first non-journalism content job?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Who should I be sure to meet with on my first day of onboarding"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "They don’t yet have a CMO and some of the work I’ll be doing is definitely in line with more of a CMO. Where would you draw the line? I am having coffee with a CMO I know to talk about this too."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThanks in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647624326.598079",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1648222656.190729",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U034DAFBH5F",
+            "U0211K6LSM9",
+            "U01G4M62C5B",
+            "U0366E57MQS"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1647624990.667899"
+            },
+            {
+                "user": "U034DAFBH5F",
+                "ts": "1647625046.401599"
+            },
+            {
+                "user": "U0211K6LSM9",
+                "ts": "1647625142.955489"
+            },
+            {
+                "user": "U034DAFBH5F",
+                "ts": "1647625240.967689"
+            },
+            {
+                "user": "U01G4M62C5B",
+                "ts": "1647638486.674839"
+            },
+            {
+                "user": "U034DAFBH5F",
+                "ts": "1647655371.941159"
+            },
+            {
+                "user": "U034DAFBH5F",
+                "ts": "1647672900.056749"
+            },
+            {
+                "user": "U01G4M62C5B",
+                "ts": "1647872472.207579"
+            },
+            {
+                "user": "U034DAFBH5F",
+                "ts": "1647904853.182109"
+            },
+            {
+                "user": "U01G4M62C5B",
+                "ts": "1647905032.028869"
+            },
+            {
+                "user": "U0366E57MQS",
+                "ts": "1648222656.190729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1648222656.190729",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8a2aaea-3304-4931-ae66-cb528007d8c9",
+        "type": "message",
+        "text": "not exactly what you asked but this might be helpful: <https:\/\/superpath.co\/blog\/first-90-days-in-a-new-content-marketing-job>",
+        "user": "UJG9WTEKG",
+        "ts": "1647624990.667899",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/superpath.co\/blog\/first-90-days-in-a-new-content-marketing-job",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/609d9c530fe0402cfde14a9c\/60a6e5b3a7222352ac1626b3\/60ae332c88c2d924243411a6\/1625708498653\/maranda-vandergriff-0zDLFdZWs0Q-unsplash.jpg?format=1500w",
+                "thumb_width": 1500,
+                "thumb_height": 997,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/609d9c530fe0402cfde14a9c\/e34ef9bd-2724-4781-88fd-e8cba90125ef\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/superpath.co\/blog\/first-90-days-in-a-new-content-marketing-job",
+                "fallback": "Your Content Career Headquarters: What to do in your first 90 days in a new content marketing job — Your Content Career Headquarters",
+                "text": "Starting a new content marketing job is like being the new kid at school…..",
+                "title": "What to do in your first 90 days in a new content marketing job — Your Content Career Headquarters",
+                "title_link": "https:\/\/superpath.co\/blog\/first-90-days-in-a-new-content-marketing-job",
+                "service_name": "Your Content Career Headquarters"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not exactly what you asked but this might be helpful: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/first-90-days-in-a-new-content-marketing-job"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647624326.598079",
+        "parent_user_id": "U034DAFBH5F"
+    },
+    {
+        "client_msg_id": "e4a65e6b-332d-4e18-b961-74e51c69e108",
+        "type": "message",
+        "text": "Beautiful. Thank you!",
+        "user": "U034DAFBH5F",
+        "ts": "1647625046.401599",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4463120102e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-09\/3214756023634_4463120102e0b89f41e1_72.jpg",
+            "first_name": "Jonathan",
+            "real_name": "Jonathan Rose",
+            "display_name": "Jonathan Rose",
+            "team": "TJE58GTJL",
+            "name": "jrose131",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U034DAFBH5F",
+            "ts": "1647625053.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Beautiful. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647624326.598079",
+        "parent_user_id": "U034DAFBH5F"
+    },
+    {
+        "client_msg_id": "e9e23f71-e2ea-47a3-9442-867fa1722965",
+        "type": "message",
+        "text": "This doesn’t exactly answer your questions either, but it’s advice I just shared with someone who asked a similar question: I’d prioritize getting to know the larger organization and figuring out where content requests will be coming from, and how to prioritize them. I’d ask for intros and meetings with leaders on sales and product marketing but also customer onboarding and customer support, and HR\/people ops if they will be making requests from the content team. I’d make a plan to understand needs and expectations, how content requests have been submitted, prioritized, and fulfilled in the past, and what the plan should look like going forward. (Without a good process, this can eat up WAY TOO MUCH of you\/your team’s time and keep you from achieving long-term goals.) I’d look for opportunities to deliver short-term wins, like updating a customer deck the sales team uses every day, along with long-term outcomes like a well-communicated content strategy. Balancing those two will help a new content leader establish rapport, build trust, and make valuable connections within the org while setting up priorities and avoiding the reactive-fire-drill hellscape that can happen when a growing org demands too much from their content team. Not that I’ve learned these lessons the hard way or anything :wink:",
+        "user": "U0211K6LSM9",
+        "ts": "1647625142.955489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "17a67a2d4c3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-11\/2047708214598_17a67a2d4c3f41527a1b_72.jpg",
+            "first_name": "Sara",
+            "real_name": "Sara Gates",
+            "display_name": "Sara Gates",
+            "team": "TJE58GTJL",
+            "name": "sara858",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kcKD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This doesn’t exactly answer your questions either, but it’s advice I just shared with someone who asked a similar question: I’d prioritize getting to know the larger organization and figuring out where content requests will be coming from, and how to prioritize them. I’d ask for intros and meetings with leaders on sales and product marketing but also customer onboarding and customer support, and HR\/people ops if they will be making requests from the content team. I’d make a plan to understand needs and expectations, how content requests have been submitted, prioritized, and fulfilled in the past, and what the plan should look like going forward. (Without a good process, this can eat up WAY TOO MUCH of you\/your team’s time and keep you from achieving long-term goals.) I’d look for opportunities to deliver short-term wins, like updating a customer deck the sales team uses every day, along with long-term outcomes like a well-communicated content strategy. Balancing those two will help a new content leader establish rapport, build trust, and make valuable connections within the org while setting up priorities and avoiding the reactive-fire-drill hellscape that can happen when a growing org demands too much from their content team. Not that I’ve learned these lessons the hard way or anything "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647624326.598079",
+        "parent_user_id": "U034DAFBH5F",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U034DAFBH5F",
+                    "U033BJATBEZ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "point_up",
+                "users": [
+                    "U035559S9C6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34adc4e2-650f-4a32-a8ff-8deee243ff90",
+        "type": "message",
+        "text": "ty ty ty",
+        "user": "U034DAFBH5F",
+        "ts": "1647625240.967689",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4463120102e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-09\/3214756023634_4463120102e0b89f41e1_72.jpg",
+            "first_name": "Jonathan",
+            "real_name": "Jonathan Rose",
+            "display_name": "Jonathan Rose",
+            "team": "TJE58GTJL",
+            "name": "jrose131",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NiBTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ty ty ty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647624326.598079",
+        "parent_user_id": "U034DAFBH5F"
+    },
+    {
+        "client_msg_id": "5EE68EFC-B82F-41EE-8D11-B78894E19C62",
+        "type": "message",
+        "text": "I was a content marketer in my last role but the best thing I did in my onboarding for my current role (and it's from <@UJG9WTEKG>’s article) was asking my manager for three people I needed to talk to. Then I did 1:1s with them and asked them each for three people I should talk to, and so on and so on. By the time I was done I had worked through 40 1:1s out of a 180 person company, many of whom were repeat suggestions. Now, that's a little intense you don't have to do 40 meetings but that approach:\n• introduced me to all the top experts and power structures in the company\n• gave me a view of operations from several different perspectives\n• highlighted ideas\/resources from other teams that have improved my marketing efforts \n• and provided me a substantial content wishlist prioritized by how many people asked for each piece of content (I asked everyone for their top three content wishes but made no promises)\nI've also noticed the people I met with initially get back to me quicker and are more helpful than the people I didn't. \n\n+1 on quick wins as well, so so important. Content refreshing is my favorite way to do this, balancing ranking\/traffic and content usefulness for the team\n\nHope that helps. Good luck in the new role!",
+        "user": "U01G4M62C5B",
+        "ts": "1647638486.674839",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "62f420743ae0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-09\/2474913719235_62f420743ae00246b4ff_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Baum",
+            "display_name": "Ryan Baum",
+            "team": "TJE58GTJL",
+            "name": "ryan619",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7H=Py",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was a content marketer in my last role but the best thing I did in my onboarding for my current role (and it's from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s article) was asking my manager for three people I needed to talk to. Then I did 1:1s with them and asked them each for three people I should talk to, and so on and so on. By the time I was done I had worked through 40 1:1s out of a 180 person company, many of whom were repeat suggestions. Now, that's a little intense you don't have to do 40 meetings but that approach:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "introduced me to all the top experts and power structures in the company"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "gave me a view of operations from several different perspectives"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "highlighted ideas\/resources from other teams that have improved my marketing efforts "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "and provided me a substantial content wishlist prioritized by how many people asked for each piece of content (I asked everyone for their top three content wishes but made no promises)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I've also noticed the people I met with initially get back to me quicker and are more helpful than the people I didn't. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "+1 on quick wins as well, so so important. Content refreshing is my favorite way to do this, balancing ranking\/traffic and content usefulness for the team\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hope that helps. Good luck in the new role!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647624326.598079",
+        "parent_user_id": "U034DAFBH5F",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U034DAFBH5F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cfa30d8-1c34-4746-b24d-5507a0fec432",
+        "type": "message",
+        "text": "Congrats! I discovered a management style in part because I had some amazing coaches and mentors. I'd find someone who you trust and will give you 1:1 advice.\n\nFor books, I recommend the usual suspects about culture. They're well-worn but famous for a reason - Brene Brown, Simon Sinek, \"The Culture Code\" etc.\n\nMy #1 managing philosophy: put people first. Take care of the people, empower them, support them, and the work will always get done. Putting the work first, even when you really care about the people, is a slippery slope. Example: make 1:1s about workload, interpersonal relationships, scheduling professional development, being transparent about company strategy, etc. - not task check-ins",
+        "user": "U02EL2NBYGL",
+        "ts": "1647639740.712489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f02bf4b1b968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-14\/2475376388999_f02bf4b1b968e1a7b8f5_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Sargent",
+            "display_name": "Ryan Sargent",
+            "team": "TJE58GTJL",
+            "name": "ryan952",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oAx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats! I discovered a management style in part because I had some amazing coaches and mentors. I'd find someone who you trust and will give you 1:1 advice.\n\nFor books, I recommend the usual suspects about culture. They're well-worn but famous for a reason - Brene Brown, Simon Sinek, \"The Culture Code\" etc.\n\nMy #1 managing philosophy: put people first. Take care of the people, empower them, support them, and the work will always get done. Putting the work first, even when you really care about the people, is a slippery slope. Example: make 1:1s about workload, interpersonal relationships, scheduling professional development, being transparent about company strategy, etc. - not task check-ins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646622416.923969",
+        "parent_user_id": "U030U5XJG68",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U030U5XJG68"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5ec71b0-fb89-403f-bc87-c70f6a882196",
+        "type": "message",
+        "text": "Some great advice I got from <@UJG9WTEKG> (he would know about this stuff!) - each hire should enable you to do something new and awesome that you couldn't do before, not just expand your bandwidth for doing more of the same.",
+        "user": "U02EL2NBYGL",
+        "ts": "1647639830.858589",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f02bf4b1b968",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-14\/2475376388999_f02bf4b1b968e1a7b8f5_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Sargent",
+            "display_name": "Ryan Sargent",
+            "team": "TJE58GTJL",
+            "name": "ryan952",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ae8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some great advice I got from "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (he would know about this stuff!) - each hire should enable you to do something new and awesome that you couldn't do before, not just expand your bandwidth for doing more of the same."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647290329.007539",
+        "parent_user_id": "U02KFSN2QDR",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "718C2AEF-369A-4157-B3A4-8A1AE4448B5A",
+        "type": "message",
+        "text": "Thanks, Ryan!",
+        "user": "U034DAFBH5F",
+        "ts": "1647655371.941159",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4463120102e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-09\/3214756023634_4463120102e0b89f41e1_72.jpg",
+            "first_name": "Jonathan",
+            "real_name": "Jonathan Rose",
+            "display_name": "Jonathan Rose",
+            "team": "TJE58GTJL",
+            "name": "jrose131",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Ryan!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647624326.598079",
+        "parent_user_id": "U034DAFBH5F"
+    },
+    {
+        "client_msg_id": "AF52D05A-4806-4E59-9AED-9E53671FB6EF",
+        "type": "message",
+        "text": "Great article, <@UJG9WTEKG>, with great advice and I've been making moves all day based on all of this feedback. What is “content value,” though? Maybe a dumb question but Google isn't much help. ",
+        "user": "U034DAFBH5F",
+        "ts": "1647672900.056749",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4463120102e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-09\/3214756023634_4463120102e0b89f41e1_72.jpg",
+            "first_name": "Jonathan",
+            "real_name": "Jonathan Rose",
+            "display_name": "Jonathan Rose",
+            "team": "TJE58GTJL",
+            "name": "jrose131",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8IG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great article, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", with great advice and I've been making moves all day based on all of this feedback. What is “content value,” though? Maybe a dumb question but Google isn't much help. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647624326.598079",
+        "parent_user_id": "U034DAFBH5F"
+    }
+]

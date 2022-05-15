@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1640514252.135900",
+        "thread_ts": "1640514252.135900",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1640625244.137700",
+        "reply_users": [
+            "U02CMCS8KH9",
+            "U027BUUGUSW",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "U02CMCS8KH9",
+                "ts": "1640603121.136200"
+            },
+            {
+                "user": "U02CMCS8KH9",
+                "ts": "1640603316.136400"
+            },
+            {
+                "user": "U027BUUGUSW",
+                "ts": "1640608958.136600"
+            },
+            {
+                "user": "U02CMCS8KH9",
+                "ts": "1640609026.136800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1640625244.137700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1640625244.137700"
+    }
+]

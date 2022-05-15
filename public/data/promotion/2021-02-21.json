@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "d25245bf-0d7d-4d10-b219-a4ce9500e443",
+        "type": "message",
+        "text": "Hi <@UJFELMVU1> - I have a Workona question. Is there a difference between the tab manager and the tab suspender? I joined before the tab suspender launched (I think) and was wondering. :)",
+        "user": "U015B88C4CA",
+        "ts": "1613941893.000200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f15",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJFELMVU1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I have a Workona question. Is there a difference between the tab manager and the tab suspender? I joined before the tab suspender launched (I think) and was wondering. :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613676480.150500",
+        "parent_user_id": "UJFELMVU1"
+    },
+    {
+        "client_msg_id": "1c99e8b7-be12-4710-a0d0-6124b7371e43",
+        "type": "message",
+        "text": "The tab suspender is basically just one feature that we pulled out and made into its own extension. You already have tab suspension built in with the tab manager :+1: (though you can get a few bonus features if you install the tab suspender, like suspending all tabs with one click). I hope that helps!",
+        "user": "UJFELMVU1",
+        "ts": "1613963103.001200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f99c9b96a13d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-27\/3177379518961_f99c9b96a13d5b027747_72.jpg",
+            "first_name": "Eliza",
+            "real_name": "Eliza Wright",
+            "display_name": "Eliza Wright",
+            "team": "TJE58GTJL",
+            "name": "eliza1wright",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tVC=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The tab suspender is basically just one feature that we pulled out and made into its own extension. You already have tab suspension built in with the tab manager "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (though you can get a few bonus features if you install the tab suspender, like suspending all tabs with one click). I hope that helps!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613676480.150500",
+        "parent_user_id": "UJFELMVU1"
+    }
+]

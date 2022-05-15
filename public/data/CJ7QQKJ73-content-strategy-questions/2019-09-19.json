@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "1a034ed4-bc77-43c3-a572-a25142372de0",
+        "type": "message",
+        "text": "The whole duplicate content \"penalty\" thing is an SEO myth. Having several posts that target the same keyword can confuse Google (leading it to pick one post and ignore the other), but there's no penalty.\n\nIn many cases, you end up splitting the ranking signals so that other sites that target the same keyword on just one page perform better---all signals (on-page, links, etc.) point to _one_ post, whereas you may have divided those signals over two or three posts.\n\nGoogle Search Console is a good way to identify whether this may be happening to you. Go in there, limit queries to a particular keyword, then go to the Pages tab. If you have multiple pages earning a similar number of impressions for a given keyword, you should consider consolidating those pages.\n\nIf you're considering variations on a keyword (e.g., not just \"wireless mouse\" but \"wireless mouse for thinkpad,\" \"wireless mouse for chromebook,\" etc.), let search volume be your guide. If there's search volume for those variations, an additional page is usually worthwhile (even if a fair amount of copy is similar). If, however, there isn't any search volume for those long-tail versions, it makes more sense to include those variations as subheads within the main page.",
+        "user": "UJDPMTREY",
+        "ts": "1568899790.048700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1568899822.000000"
+        },
+        "thread_ts": "1568840119.042000",
+        "parent_user_id": "UJS103D7S"
+    },
+    {
+        "client_msg_id": "93b234ee-fec0-4086-9861-d535dc77533e",
+        "type": "message",
+        "text": "Great points all, thanks <@UJDPMTREY>",
+        "user": "UJS103D7S",
+        "ts": "1568900022.049000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be0204d95db9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-21\/902951134050_be0204d95db90b66f738_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Palmer",
+            "display_name": "Josh Palmer",
+            "team": "TJE58GTJL",
+            "name": "josh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568840119.042000",
+        "parent_user_id": "UJS103D7S"
+    }
+]

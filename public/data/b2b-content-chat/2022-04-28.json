@@ -1,0 +1,509 @@
+[
+    {
+        "client_msg_id": "50bf281a-9fe8-4170-b916-d1d2349bc787",
+        "type": "message",
+        "text": "Good morning - help needed! I'm kind of new to the world of QR codes etc... I'm looking to create a business card handout with a QR code on it - can anyone advise what the best way of doing this is - design the business card as normal, embed the QR code into the design and print like any other business card? In terms of the QR code, any recommendations for QR code generators that can track who is engaging? I'm looking for one that integrates with HubSpot preferably :slightly_smiling_face: My end goal is to create some sort of landing page with links to resources, videos, guides etc, that can be constantly updated - I guess this is best done like any normal landing page, but using UTM tracking in the URL? Help and advice needed - TIA xx",
+        "user": "U02TMGQ2PMJ",
+        "ts": "1651138318.336459",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbc7f8ab7cff",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc7f8ab7cff6aa2ffd1171eb33128afe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jemimah",
+            "real_name": "Jemimah Pester",
+            "display_name": "Jemimah Pester",
+            "team": "TJE58GTJL",
+            "name": "jemimah.pester",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "31+=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning - help needed! I'm kind of new to the world of QR codes etc... I'm looking to create a business card handout with a QR code on it - can anyone advise what the best way of doing this is - design the business card as normal, embed the QR code into the design and print like any other business card? In terms of the QR code, any recommendations for QR code generators that can track who is engaging? I'm looking for one that integrates with HubSpot preferably "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " My end goal is to create some sort of landing page with links to resources, videos, guides etc, that can be constantly updated - I guess this is best done like any normal landing page, but using UTM tracking in the URL? Help and advice needed - TIA xx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651138318.336459",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651144597.961259",
+        "reply_users": [
+            "U02GLJM8MST"
+        ],
+        "replies": [
+            {
+                "user": "U02GLJM8MST",
+                "ts": "1651144597.961259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3a6fe13e-e7a9-4799-b003-e8aa28b482d5",
+        "type": "message",
+        "text": "QR codes are cool but cards with NFC chips are even cooler :smile:\n\nI am using this one: <https:\/\/bunique.app\/>\n\nYou can get a card with an NFC chip *and a QR code*.",
+        "user": "U02GLJM8MST",
+        "ts": "1651144597.961259",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbb2e32aabd3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb2e32aabd3787f0def01233ddfb6434.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Iliya",
+            "real_name": "Iliya Valchanov",
+            "display_name": "Iliya Valchanov",
+            "team": "TJE58GTJL",
+            "name": "iliya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/bunique.app\/",
+                "id": 1,
+                "original_url": "https:\/\/bunique.app\/",
+                "fallback": "BUnique",
+                "text": "BUNIQUE Smart Business Card lets you share and save your contact information directly into people's smartphones with just a tap!",
+                "title": "BUnique",
+                "title_link": "https:\/\/bunique.app\/",
+                "service_name": "bunique.app"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UCSN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "QR codes are cool but cards with NFC chips are even cooler "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI am using this one: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bunique.app\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nYou can get a card with an NFC chip "
+                            },
+                            {
+                                "type": "text",
+                                "text": "and a QR code",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651138318.336459",
+        "parent_user_id": "U02TMGQ2PMJ"
+    },
+    {
+        "client_msg_id": "3b9df28c-f695-4298-b519-565905ab9415",
+        "type": "message",
+        "text": "<https:\/\/www.digitalcareerblueprint.com\/freetrainingstlorg>",
+        "user": "U03CETV6479",
+        "ts": "1651150005.379039",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e67d93196e7b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-25\/3439941397332_e67d93196e7b58207f30_72.jpg",
+            "first_name": "Saul",
+            "real_name": "Saul Bravo",
+            "display_name": "Saul Bravo",
+            "team": "TJE58GTJL",
+            "name": "saulbravo1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.digitalcareerblueprint.com\/freetrainingstlorg",
+                "service_icon": "https:\/\/kartrausers.s3.amazonaws.com\/freedomschool\/10429019_5ed8c70ef2179_cards_smaller.png",
+                "id": 1,
+                "original_url": "https:\/\/www.digitalcareerblueprint.com\/freetrainingstlorg",
+                "fallback": "Seth Jared Free Career Masterclass",
+                "text": "Seth Jared's Free Masterclass explaining how it's possible to get a remote job with no previous experience in digital marketing.",
+                "title": "Seth Jared Free Career Masterclass",
+                "title_link": "https:\/\/www.digitalcareerblueprint.com\/freetrainingstlorg",
+                "service_name": "digitalcareerblueprint.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0BvU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.digitalcareerblueprint.com\/freetrainingstlorg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651087585.259859",
+        "parent_user_id": "U02LW14N98T"
+    },
+    {
+        "bot_id": "B023BC3A2UV",
+        "type": "message",
+        "text": "_[sponsored]_ <https:\/\/minuttia.com\/|Minuttia> is an organic growth acceleration agency for B2B SaaS companies. They can help you scale up your content creation efforts through a mix of SEO-friendly and original content. They work with anything from medium-sized to billion-dollar and public SaaS companies and have an <https:\/\/mailtrack.io\/trace\/link\/ff32759fc81e3dd5e6e2b55611cdd35d7f501920?url=https%3A%2F%2Fminuttia.com%2Fcase-studies&amp;userId=6375895&amp;signature=73c4db6463c5e074|impressive track record> that's constantly updated. Book a free intro call if you want to know more and get in touch → <https:\/\/calendly.com\/minuttia\/discovery-call>",
+        "user": "UJG9WTEKG",
+        "ts": "1651158001.877049",
+        "app_id": "AL3SX1B6J",
+        "team": "TJE58GTJL",
+        "bot_profile": {
+            "id": "B023BC3A2UV",
+            "app_id": "AL3SX1B6J",
+            "name": "Send It Later",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_72.png"
+            },
+            "deleted": false,
+            "updated": 1622231340,
+            "team_id": "TJE58GTJL"
+        },
+        "edited": {
+            "user": "B023BC3A2UV",
+            "ts": "1651158024.000000"
+        },
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U037Q0P51E3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e5aa2c3-e20c-445a-849d-65b654e9bcf9",
+        "type": "message",
+        "text": "Depends on the subject matter expert! Recording meetings is great! Besides my own research, and a quick slack conversation to validate the content idea, I find they each have their own style.\nI find myself being taking the ‘journalist’ role to get them thinking high level, especially if they’re deep in the daily work. Then they need time or an interview style conversation to get them going creatively.\nSometimes that means sending them a brief that is super basic helps them react, generate ideas, correct the brief, let’s say. Often, they need something to react to to get them thinking!",
+        "user": "U038S8P3RLN",
+        "ts": "1651164882.002129",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g873ea93e274",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/873ea93e274998a52ca32036cbbfe07a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Livia",
+            "real_name": "Livia Nassius",
+            "display_name": "Livia Nassius",
+            "team": "TJE58GTJL",
+            "name": "livia.nassius",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5COE+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depends on the subject matter expert! Recording meetings is great! Besides my own research, and a quick slack conversation to validate the content idea, I find they each have their own style.\nI find myself being taking the ‘journalist’ role to get them thinking high level, especially if they’re deep in the daily work. Then they need time or an interview style conversation to get them going creatively.\nSometimes that means sending them a brief that is super basic helps them react, generate ideas, correct the brief, let’s say. Often, they need something to react to to get them thinking!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650397102.216849",
+        "parent_user_id": "U030U5Y08TW"
+    },
+    {
+        "client_msg_id": "c0222d45-778f-41b1-a155-cacfb93bf1ad",
+        "type": "message",
+        "text": "I work with a lot of NGOs and typically let's say my client has 3 programs\/initiatives that their organization is working on. I then make a 3x3 grid where on let's say (for lack of better words) on y-axis I have their 3 programs listed and on x-axis I have social impact, economics and future course. This gives me 9 p different themes to talk about and then I go deep into each grid to get a better understanding and it also allows me to curate content accordingly",
+        "user": "U030KA0L7L1",
+        "ts": "1651166294.487139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "738cf36f87ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-19\/3410421499492_738cf36f87ffd6de85b2_72.jpg",
+            "first_name": "Arav",
+            "real_name": "Arav",
+            "display_name": "Arav",
+            "team": "TJE58GTJL",
+            "name": "arav.jain.13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyIk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I work with a lot of NGOs and typically let's say my client has 3 programs\/initiatives that their organization is working on. I then make a 3x3 grid where on let's say (for lack of better words) on y-axis I have their 3 programs listed and on x-axis I have social impact, economics and future course. This gives me 9 p different themes to talk about and then I go deep into each grid to get a better understanding and it also allows me to curate content accordingly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650397102.216849",
+        "parent_user_id": "U030U5Y08TW"
+    },
+    {
+        "client_msg_id": "07A95EDA-4FAF-456D-9E4F-4ACF8D158B70",
+        "type": "message",
+        "text": "Does anyone have advice or favorite resources around writing a webinar script? I've written notes for decks but never tried my hand at a full-on script. Our plan is to hire an actor to basically present and read the script and I want it to feel natural and interesting (not like an actor reading a script haha). ",
+        "user": "U02MKM7PJE4",
+        "ts": "1651171969.181699",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "517ee13fd38e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-19\/2750710239778_517ee13fd38ed285fc3e_72.png",
+            "first_name": "Evan",
+            "real_name": "Evan Watkins",
+            "display_name": "Evan Watkins",
+            "team": "TJE58GTJL",
+            "name": "watkinse22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JE=8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have advice or favorite resources around writing a webinar script? I've written notes for decks but never tried my hand at a full-on script. Our plan is to hire an actor to basically present and read the script and I want it to feel natural and interesting (not like an actor reading a script haha). "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651171969.181699",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1651206064.330249",
+        "reply_users": [
+            "U03CNSHCX9C",
+            "U02MKM7PJE4"
+        ],
+        "replies": [
+            {
+                "user": "U03CNSHCX9C",
+                "ts": "1651175325.328549"
+            },
+            {
+                "user": "U02MKM7PJE4",
+                "ts": "1651206064.330249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d1122ce9-f13f-43ae-9f4e-a9a8c0de1ef4",
+        "type": "message",
+        "text": "I’ve coordinated hundreds of webinars, and my biggest piece of advice if you’re going to be scripting is to skip the actor and get an SME or someone close to the content to present it. Even if it’s drafted ahead of time, their presentation will still come off as more sincere and engaging if it’s a subject they’re familiar\/passionate about :slightly_smiling_face:",
+        "user": "U03CNSHCX9C",
+        "ts": "1651175325.328549",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ea4e8ce942ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-25\/3431285959942_ea4e8ce942ad7e47b8a3_72.jpg",
+            "first_name": "Stephanie",
+            "real_name": "Stephanie Totty",
+            "display_name": "Stephanie Totty",
+            "team": "TJE58GTJL",
+            "name": "stotty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbe8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve coordinated hundreds of webinars, and my biggest piece of advice if you’re going to be scripting is to skip the actor and get an SME or someone close to the content to present it. Even if it’s drafted ahead of time, their presentation will still come off as more sincere and engaging if it’s a subject they’re familiar\/passionate about "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651171969.181699",
+        "parent_user_id": "U02MKM7PJE4",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02GA73RSHK",
+                    "U034H601T7X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01AU94TABA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4C8A7C9A-E026-43BC-ACAB-169129E4E69C",
+        "type": "message",
+        "text": "Thanks! That's good to know, especially with hundreds of them already behind you. Appreciate it! ",
+        "user": "U02MKM7PJE4",
+        "ts": "1651206064.330249",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "517ee13fd38e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-19\/2750710239778_517ee13fd38ed285fc3e_72.png",
+            "first_name": "Evan",
+            "real_name": "Evan Watkins",
+            "display_name": "Evan Watkins",
+            "team": "TJE58GTJL",
+            "name": "watkinse22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VFbvA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! That's good to know, especially with hundreds of them already behind you. Appreciate it! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651171969.181699",
+        "parent_user_id": "U02MKM7PJE4"
+    },
+    {
+        "client_msg_id": "90ad78b7-658e-4d8c-bfd7-cc2a89ed774c",
+        "type": "message",
+        "text": "Thanks",
+        "user": "U035JHT54EB",
+        "ts": "1651207630.156789",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8a36006e765d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-18\/3261423152866_8a36006e765da501ae37_72.jpg",
+            "first_name": "Mohamed",
+            "real_name": "Mohamed Natheem",
+            "display_name": "Mohamed Natheem",
+            "team": "TJE58GTJL",
+            "name": "mohamed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NIjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1651087585.259859",
+        "parent_user_id": "U02LW14N98T"
+    }
+]

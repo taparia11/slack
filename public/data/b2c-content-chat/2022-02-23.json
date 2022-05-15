@@ -1,0 +1,125 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1645638151.265859",
+        "thread_ts": "1645638151.265859",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1645640046.168119",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1645640046.168119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1645640046.168119"
+    },
+    {
+        "client_msg_id": "90369f6b-3b96-428f-a0e7-e218ba544093",
+        "type": "message",
+        "text": "hi <@U032ZSWRT0F> - can you move this post over to <#C012AUSC85C|promotion>?",
+        "user": "UJG9WTEKG",
+        "ts": "1645640046.168119",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1645640049.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+gh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032ZSWRT0F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - can you move this post over to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645638151.265859",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5b164d68-b393-404e-a33f-7451430e938f",
+        "type": "message",
+        "text": "Hey everyone, I'm writing an article for Influencer Marketing Hub about UGC. Would love to gather examples from your campaigns  (screenshots and results) and tips for how brands can improve sales using UGC. You'll be quoted and your site linked to. DM if you're interested, thnx!",
+        "user": "U02Q2HNNY57",
+        "ts": "1645646250.674119",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e02f2575fca2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-06\/2803051182501_e02f2575fca25cdd17b8_72.jpg",
+            "first_name": "Saphia",
+            "real_name": "Saphia Lanier",
+            "display_name": "Saphia Lanier",
+            "team": "TJE58GTJL",
+            "name": "saphia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ysfw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, I'm writing an article for Influencer Marketing Hub about UGC. Would love to gather examples from your campaigns  (screenshots and results) and tips for how brands can improve sales using UGC. You'll be quoted and your site linked to. DM if you're interested, thnx!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

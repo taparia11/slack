@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "0AC41411-2E0A-4AAC-B9E0-C7B4DB29F50C",
+        "type": "message",
+        "text": "This was great",
+        "user": "U01CVQ02E5S",
+        "ts": "1609679632.271500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91fb1bea2fa4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1438887916964_91fb1bea2fa42a24028d_72.jpg",
+            "first_name": "David",
+            "real_name": "David Harrington",
+            "display_name": "Dave H",
+            "team": "TJE58GTJL",
+            "name": "harrington.dw",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This was great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608218532.245100",
+        "parent_user_id": "U017M677P18",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U017M677P18"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "9c0c2429-2a7e-41e4-af2f-746d3abf0abc",
+        "type": "message",
+        "text": "<@U02EYL8DTSA> would be keen to read this when done",
+        "user": "U02D77QUE8H",
+        "ts": "1632760755.104300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aa8f4c497a05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2538664638272_aa8f4c497a05cf6fa2a6_72.jpg",
+            "first_name": "Ross",
+            "real_name": "Ross Cranwell",
+            "display_name": "Ross Cranwell",
+            "team": "TJE58GTJL",
+            "name": "ross393",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wc6E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02EYL8DTSA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would be keen to read this when done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632248453.091200",
+        "parent_user_id": "U02EYL8DTSA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02EYL8DTSA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53ae76f8-1d7e-4785-8750-f5069a20dd54",
+        "type": "message",
+        "text": "Have you seen this? <https:\/\/github.com\/malgamves\/CommunityWriterPrograms>",
+        "user": "U029CTQ5X6Y",
+        "ts": "1632772533.104600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4d1afd4712b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2312909469026_4d1afd4712b9f77f1af8_72.jpg",
+            "first_name": "Karl",
+            "real_name": "Karl Hughes",
+            "display_name": "Karl (Draft.dev)",
+            "team": "TJE58GTJL",
+            "name": "khughes.me",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "GitHub - malgamves\/CommunityWriterPrograms: A list of Developer Community Writer Programs",
+                "title_link": "https:\/\/github.com\/malgamves\/CommunityWriterPrograms",
+                "text": "A list of Developer Community Writer Programs. Contribute to malgamves\/CommunityWriterPrograms development by creating an account on GitHub.",
+                "fallback": "GitHub: GitHub - malgamves\/CommunityWriterPrograms: A list of Developer Community Writer Programs",
+                "image_url": "https:\/\/opengraph.githubassets.com\/d682038e9a68ad52391ba3c08135206b8233ea62e550954d38d468aefac7f480\/malgamves\/CommunityWriterPrograms",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/github.com\/malgamves\/CommunityWriterPrograms",
+                "image_bytes": 129631,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/malgamves\/CommunityWriterPrograms"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tbwkh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you seen this? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/malgamves\/CommunityWriterPrograms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632725337.102300",
+        "parent_user_id": "U01JYTGK013",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01JYTGK013",
+                    "U02CUM38FUK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

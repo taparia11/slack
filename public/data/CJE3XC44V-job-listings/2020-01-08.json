@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "2ff87a92-0561-4fbe-8616-0ab741d1dc52",
+        "type": "message",
+        "text": "<@UM7QJPCVA> <@UJG46SBV3> I’ve sent you PMs :slightly_smiling_face:",
+        "user": "UL4QTFQCT",
+        "ts": "1578481425.000600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "63ae1925b9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-11\/711618038786_63ae1925b9ddf72b3957_72.jpg",
+            "first_name": "Mile",
+            "real_name": "Mile Zivkovic",
+            "display_name": "Mile Zivkovic",
+            "team": "TJE58GTJL",
+            "name": "zivkovic.m.mile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=VI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UM7QJPCVA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG46SBV3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ve sent you PMs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578079999.015500",
+        "parent_user_id": "UL4QTFQCT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJG46SBV3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aaf050bf-2968-473a-a7fd-227c34f83ac6",
+        "type": "message",
+        "text": "Remote editing gig alert: <https:\/\/www.fastly.com\/about\/jobs\/apply?gh_jid=1952280&amp;gh_src=7113ff971>",
+        "user": "UJE5LQ2JC",
+        "ts": "1578502422.001100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jobs at Fastly",
+                "title_link": "https:\/\/www.fastly.com\/about\/jobs\/apply?gh_jid=1952280&gh_src=7113ff971",
+                "text": "Fastly’s edge cloud platform helps the world’s most popular digital businesses keep pace with their customer expectations by delivering fast, secure, and scalable online experiences.",
+                "fallback": "Jobs at Fastly",
+                "image_url": "https:\/\/www.fastly.com\/assets\/og-image-b4cd9e0baffdec93ebe58badd883cbaf62a2c09950de79875487d4a8e92f3721.jpg?canvas=1200:630&width=1200&height=630&fit=bounds&bg-color=FFFFFF",
+                "from_url": "https:\/\/www.fastly.com\/about\/jobs\/apply?gh_jid=1952280&gh_src=7113ff971",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 36823,
+                "service_icon": "https:\/\/www.fastly.com\/assets\/fastlyspeedometorred8-ac4b43793c4a8f8d7ddec554d98b85439c1661e297104740623bbad43d51a9ae.png?auto=webp&width=192&height=192&fit=bounds",
+                "service_name": "fastly.com",
+                "id": 1,
+                "original_url": "https:\/\/www.fastly.com\/about\/jobs\/apply?gh_jid=1952280&amp;gh_src=7113ff971"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AU36R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Remote editing gig alert: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fastly.com\/about\/jobs\/apply?gh_jid=1952280&gh_src=7113ff971"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

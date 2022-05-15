@@ -1,0 +1,225 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1635333111.010600",
+        "thread_ts": "1635333111.010600",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1635362084.014300",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02DQ4MB30E"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1635346159.012300"
+            },
+            {
+                "user": "U02DQ4MB30E",
+                "ts": "1635350878.014000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1635362084.014300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1635362084.014300"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": ":star: _new featured role_ :star:\n---\n*Chili Piper is hiring a Content Marketing Manager (Remote)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/197258-content-marketing-manager>",
+        "ts": "1635343057.010900",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":sunglasses:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f60e.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U026R1895QV",
+                    "UUVS8PURK",
+                    "UJG9WTEKG",
+                    "U02F1GK6U6B",
+                    "U02GFCTS89J"
+                ],
+                "count": 5
+            },
+            {
+                "name": "hot_pepper",
+                "users": [
+                    "U02GFCTS89J",
+                    "U0166H7KUAZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3B93728E-3BD4-4567-91BB-237D84553C32",
+        "type": "message",
+        "text": "hi <@U02DQ4MB30E> this channel is just a feed from the job board. will remove for now but feel free dm if you wanna talk about posting it :slightly_smiling_face:",
+        "user": "UJG9WTEKG",
+        "ts": "1635346159.012300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KwqBh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DQ4MB30E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this channel is just a feed from the job board. will remove for now but feel free dm if you wanna talk about posting it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635333111.010600",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "C05EEAE4-3D2E-4205-BBE9-E21B87997D88",
+        "type": "message",
+        "text": "Hi <@UJG9WTEKG>. I was a little hesitant as to whether I can post it here or not:blush:\n\nThanks for letting me know.\n\nSorry for the inconvenience.",
+        "user": "U02DQ4MB30E",
+        "ts": "1635350878.014000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "da3df19ff250",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-09\/2467172480038_da3df19ff250056e1622_72.jpg",
+            "first_name": "Pasha",
+            "real_name": "Pasha",
+            "display_name": "Pasha",
+            "team": "TJE58GTJL",
+            "name": "pasha.abdulov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8M\/X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I was a little hesitant as to whether I can post it here or not"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThanks for letting me know.\n\nSorry for the inconvenience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635333111.010600",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "6a26a902-909f-4aad-9d75-7b237748ccec",
+        "type": "message",
+        "text": "no problem at all <@U02DQ4MB30E>",
+        "user": "UJG9WTEKG",
+        "ts": "1635362084.014300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no problem at all "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DQ4MB30E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635333111.010600",
+        "parent_user_id": "USLACKBOT"
+    }
+]

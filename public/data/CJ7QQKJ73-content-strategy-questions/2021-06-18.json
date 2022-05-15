@@ -1,0 +1,1135 @@
+[
+    {
+        "client_msg_id": "645d2e7f-93be-4704-a4ae-bb7663202780",
+        "type": "message",
+        "text": "yeh all! How would you go about proposing a budget for a content strategy? I have a freelance project with a B2C client and they want their strategy to come with a budget for how much it might cost to execute the strategy",
+        "user": "U0136JJHUSK",
+        "ts": "1624011426.342700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2b8405cddee1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1189155582242_2b8405cddee139d3e565_72.png",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Naji",
+            "display_name": "Cassandra Naji",
+            "team": "TJE58GTJL",
+            "name": "cassandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "STm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeh all! How would you go about proposing a budget for a content strategy? I have a freelance project with a B2C client and they want their strategy to come with a budget for how much it might cost to execute the strategy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624011426.342700",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1624026630.357700",
+        "reply_users": [
+            "U0136JJHUSK",
+            "U01P13NTGG6"
+        ],
+        "replies": [
+            {
+                "user": "U0136JJHUSK",
+                "ts": "1624011447.342800"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1624012294.350700"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1624012728.353600"
+            },
+            {
+                "user": "U0136JJHUSK",
+                "ts": "1624026630.357700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e1253b3d-93f8-435b-8728-324d2985ea31",
+        "type": "message",
+        "text": "If anyone has any resources or example they'd be ok sharing, i'd be super grateful",
+        "user": "U0136JJHUSK",
+        "ts": "1624011447.342800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2b8405cddee1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1189155582242_2b8405cddee139d3e565_72.png",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Naji",
+            "display_name": "Cassandra Naji",
+            "team": "TJE58GTJL",
+            "name": "cassandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jgD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If anyone has any resources or example they'd be ok sharing, i'd be super grateful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624011426.342700",
+        "parent_user_id": "U0136JJHUSK"
+    },
+    {
+        "type": "message",
+        "text": "We run a TOAM analysis (see image below) to determine what all they could rank for, grouped by buckets (we use our cluster algorithm to do the grouping), and then sorted by opportunity (balance of value\/difficulty).\n\nKnowing the revenue potential of the available market then enables us to begin calculating what it's going to cost to begin capturing portions of it from the incumbents. \n\nSo from there it's a matter of plugging in some basic numbers for costs (e.g. content + links\/promotion). \n\nIf you don’t know you're exact numbers, that's okay. We use Fermi decomposition to make reasonable estimations when lacking hard data—and it works well.\n\nIf we want to get more granular with link costs, then we go deeper and do what we call a link intelligence report (see below). \n\nI'm writing up and article about how we approach a TOAM over the weekend. I'm share once I do. You might be able to get some insight from it to begin calculating it.\n",
+        "files": [
+            {
+                "id": "F025A6LBNMC",
+                "created": 1624012146,
+                "timestamp": 1624012146,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01P13NTGG6",
+                "editable": false,
+                "size": 163594,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025A6LBNMC\/image_from_ios.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025A6LBNMC\/download\/image_from_ios.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_64.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_80.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_360.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 324,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_480.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 432,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_160.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_720.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 648,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_800.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_960.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 863,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025A6LBNMC-3ba8f79972\/image_from_ios_1024.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 921,
+                "original_w": 1024,
+                "original_h": 921,
+                "thumb_tiny": "AwArADDT70mTnFLTc855oATn1P50uD6n86Dxijj8qAHUmecUbvY0fxUALSdzzS01gcgigBTz6\/lRn6\/lSc5PvSYbbj0oEOAwBR3pOd2aXvQMWmFwrgMQM9M0+msAcZAP4UAN3rlxkZXtmk3qyKyuME9etOwM5wMnrxSbV2kbVx6YoAXzF8zYWGcZxTsHd7U3AyDgZ9cU+gD\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01P13NTGG6\/F025A6LBNMC\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F025A6LBNMC-95b5666e8d",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F025DU00PQD",
+                "created": 1624012244,
+                "timestamp": 1624012244,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01P13NTGG6",
+                "editable": false,
+                "size": 121781,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025DU00PQD\/image_from_ios.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025DU00PQD\/download\/image_from_ios.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 239,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 319,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 479,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 532,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 638,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025DU00PQD-a048ebaa13\/image_from_ios_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 681,
+                "original_w": 1536,
+                "original_h": 1021,
+                "thumb_tiny": "AwAfADDSxz2o\/ClooAbt9zS7fc0tJn0oAQilHFHHfrR3oAM5NGR60AcmmlM0ALx60gwTjmmtCGxmnJGE6GgBCVBGTj607cARnvSNGHxnsc0FASM9jmgD\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01P13NTGG6\/F025DU00PQD\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F025DU00PQD-fb1ef66859",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01P13NTGG6",
+        "ts": "1624012294.350700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We run a TOAM analysis (see image below) to determine what all they could rank for, grouped by buckets (we use our cluster algorithm to do the grouping), and then sorted by opportunity (balance of value\/difficulty).\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nKnowing the revenue potential of the available market then enables us to begin calculating what it's going to cost to begin capturing portions of it from the incumbents. \n\nSo from there it's a matter of plugging in some basic numbers for costs (e.g. content + links\/promotion). \n\nIf you don’t know you're exact numbers, that's okay. We use Fermi decomposition to make reasonable estimations when lacking hard data—and it works well.\n\nIf we want to get more granular with link costs, then we go deeper and do what we call a link intelligence report (see below). \n\nI'm writing up and article about how we approach a TOAM over the weekend. I'm share once I do. You might be able to get some insight from it to begin calculating it.\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6C51AB0C-3B70-4CA3-806E-39F97F174E25",
+        "thread_ts": "1624011426.342700",
+        "parent_user_id": "U0136JJHUSK",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01FUP6AMEZ",
+                    "U024D3CP77U",
+                    "U011QQDDSJV"
+                ],
+                "count": 3
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01ER4GNRJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7B767954-5440-4F54-9AC3-56037C73E3CC",
+        "type": "message",
+        "text": "We calculate those and then basically say, \"Here's the math. How much money do you want to make? If they tell us that, we can run Monte Carlo simulations to build financial projections with upper\/lower bounds for ROI. We like to use Causal to plot that data.",
+        "user": "U01P13NTGG6",
+        "ts": "1624012728.353600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01P13NTGG6",
+            "ts": "1624012757.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kOv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We calculate those and then basically say, \"Here's the math. How much money do you want to make? If they tell us that, we can run Monte Carlo simulations to build financial projections with upper\/lower bounds for ROI. We like to use Causal to plot that data."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624011426.342700",
+        "parent_user_id": "U0136JJHUSK"
+    },
+    {
+        "client_msg_id": "511fd894-e13e-45aa-acff-4482eab1e7ff",
+        "type": "message",
+        "text": "I'd been thinking about creating a product\/service where we write a pillar cluster series for clients. The idea is 6 cluster posts and one pillar for $ X. I was having lunch with a great client (software developer) yesterday and after we talked about it a bit, he asked for a proposal.\n\nNow I'm wondering...\n1. Can I demonstrate results in 60 days?\n2. Is this kind of one off approach, using pillar\/cluster a good way to sell clients on an ongoing content marketing agreement?\n3. Any software or software developer marketers out there willing to offer insight on this?\n",
+        "user": "U020E5Q1JPQ",
+        "ts": "1624022947.354400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f8687a42e8d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2145152604944_f8687a42e8d8ee62978e_72.jpg",
+            "first_name": "Mark",
+            "real_name": "Mark Modesti",
+            "display_name": "Mark Modesti",
+            "team": "TJE58GTJL",
+            "name": "mark715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8c0M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd been thinking about creating a product\/service where we write a pillar cluster series for clients. The idea is 6 cluster posts and one pillar for $ X. I was having lunch with a great client (software developer) yesterday and after we talked about it a bit, he asked for a proposal.\n\nNow I'm wondering...\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can I demonstrate results in 60 days?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Is this kind of one off approach, using pillar\/cluster a good way to sell clients on an ongoing content marketing agreement?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Any software or software developer marketers out there willing to offer insight on this?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624022947.354400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1624297562.386100",
+        "reply_users": [
+            "U011QQDDSJV",
+            "U020E5Q1JPQ"
+        ],
+        "replies": [
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1624297441.385600"
+            },
+            {
+                "user": "U020E5Q1JPQ",
+                "ts": "1624297562.386100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3efb4822-5763-4954-a3a3-c0d71b241ca8",
+        "type": "message",
+        "text": "Has anyone tried to organize content production into sprints? Wondering if you've found it useful, how it works in conjunction with an editorial calendar or something similar. Would love to chat about what has\/hasn't worked for you!",
+        "user": "U01BLESB996",
+        "ts": "1624026007.355900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a2c5042f9c96",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-21\/1374649499589_a2c5042f9c9666c4ce57_72.jpg",
+            "first_name": "Colin",
+            "real_name": "Colin Lalley",
+            "display_name": "Colin Lalley",
+            "team": "TJE58GTJL",
+            "name": "lalleyc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wlf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone tried to organize content production into sprints? Wondering if you've found it useful, how it works in conjunction with an editorial calendar or something similar. Would love to chat about what has\/hasn't worked for you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624026007.355900",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1626971532.137900",
+        "reply_users": [
+            "UJFELMVU1",
+            "U01MM4EAC69",
+            "U024QUK2AVD",
+            "U011QQDDSJV",
+            "UJ420S7MG"
+        ],
+        "replies": [
+            {
+                "user": "UJFELMVU1",
+                "ts": "1624043354.364300"
+            },
+            {
+                "user": "U01MM4EAC69",
+                "ts": "1624049957.365600"
+            },
+            {
+                "user": "U024QUK2AVD",
+                "ts": "1624294136.385200"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1624297519.385800"
+            },
+            {
+                "user": "U024QUK2AVD",
+                "ts": "1624301437.386400"
+            },
+            {
+                "user": "UJ420S7MG",
+                "ts": "1626971532.137900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0bd6f369-0d21-4a1a-ac77-e016f8bbca82",
+        "type": "message",
+        "text": "I'm assuming your familiar with <http:\/\/Ship30for30.com|Ship30for30.com>, <@U01BLESB996>? I'm starting sprint #3 next week. Let me know if you have questions.",
+        "user": "U020E5Q1JPQ",
+        "ts": "1624026140.357300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f8687a42e8d8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-31\/2145152604944_f8687a42e8d8ee62978e_72.jpg",
+            "first_name": "Mark",
+            "real_name": "Mark Modesti",
+            "display_name": "Mark Modesti",
+            "team": "TJE58GTJL",
+            "name": "mark715",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w5Qid",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm assuming your familiar with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Ship30for30.com",
+                                "text": "Ship30for30.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BLESB996"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? I'm starting sprint #3 next week. Let me know if you have questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624026140.357300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624037336.363600",
+        "reply_users": [
+            "UJE6FLEFJ"
+        ],
+        "replies": [
+            {
+                "user": "UJE6FLEFJ",
+                "ts": "1624037336.363600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01BLESB996"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a54d0d9b-4f3d-47f0-be92-d5c5955f117a",
+        "type": "message",
+        "text": "Thank you <@U01P13NTGG6> this is amazing! Im going to give it a try!",
+        "user": "U0136JJHUSK",
+        "ts": "1624026630.357700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2b8405cddee1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1189155582242_2b8405cddee139d3e565_72.png",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Naji",
+            "display_name": "Cassandra Naji",
+            "team": "TJE58GTJL",
+            "name": "cassandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NP4He",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01P13NTGG6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is amazing! Im going to give it a try!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624011426.342700",
+        "parent_user_id": "U0136JJHUSK",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01P13NTGG6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bed2825-434d-4ba0-93b3-36a12476aac2",
+        "type": "message",
+        "text": "Hi All, We are going to be building and enhancing our current content hubs and I am gathering some examples to share with our design and dev team for inspiration. I was curious if anyone had any favorite examples of ecommerce blogs or resource\/knowledge centers they love? Would love to check them out! TIA!!",
+        "user": "U020HB0P648",
+        "ts": "1624032574.362200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga4772bc4af2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4772bc4af206623e87f7ae8b66b28af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Jenna",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jenna.larsson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All, We are going to be building and enhancing our current content hubs and I am gathering some examples to share with our design and dev team for inspiration. I was curious if anyone had any favorite examples of ecommerce blogs or resource\/knowledge centers they love? Would love to check them out! TIA!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624032574.362200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1624047367.364800",
+        "reply_users": [
+            "U019E2RJD9Q",
+            "U020HB0P648"
+        ],
+        "replies": [
+            {
+                "user": "U019E2RJD9Q",
+                "ts": "1624035377.363000"
+            },
+            {
+                "user": "U020HB0P648",
+                "ts": "1624047367.364800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0c2fbe9f-827d-4ac8-afe5-b46fc5aae131",
+        "type": "message",
+        "text": "I keep my personal list of favorites here, there's ~30 some examples there I think. <https:\/\/www.contentharmony.com\/blog\/content-hubs\/>",
+        "user": "U019E2RJD9Q",
+        "ts": "1624035377.363000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bcebee72c9b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1513766373124_bcebee72c9b4c4fba078_72.jpg",
+            "first_name": "Kane",
+            "real_name": "Kane Jamison",
+            "display_name": "Kane Jamison",
+            "team": "TJE58GTJL",
+            "name": "kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Content Harmony",
+                "title": "Types of Content Hubs: 5 Approaches &amp; 30+ Examples",
+                "title_link": "https:\/\/www.contentharmony.com\/blog\/content-hubs\/",
+                "text": "Getting your site architecture right is one of the harder parts of building a site, whether you’re dealing with millions of pages or hundreds. These patterns will help you understand the best way to create yours.",
+                "fallback": "Content Harmony: Types of Content Hubs: 5 Approaches &amp; 30+ Examples",
+                "image_url": "https:\/\/www.contentharmony.com\/content\/images\/2021\/03\/content-hubs-featured-image-1d51f29f.png",
+                "image_width": 489,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Kane Jamison",
+                        "short": true
+                    },
+                    {
+                        "title": "Filed under",
+                        "value": "Articles",
+                        "short": true
+                    }
+                ],
+                "ts": 1574170149,
+                "from_url": "https:\/\/www.contentharmony.com\/blog\/content-hubs\/",
+                "image_bytes": 852586,
+                "service_icon": "https:\/\/www.contentharmony.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.contentharmony.com\/blog\/content-hubs\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YP7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I keep my personal list of favorites here, there's ~30 some examples there I think. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.contentharmony.com\/blog\/content-hubs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624032574.362200",
+        "parent_user_id": "U020HB0P648"
+    },
+    {
+        "client_msg_id": "b7c37233-fe56-49a4-937d-49b6ff16aac2",
+        "type": "message",
+        "text": "Ok this is super helpful! We'll have to do an exercise around what makes the cut\/what should be saved for later. Thanks everyone for the input!!",
+        "user": "UPL0XUAG3",
+        "ts": "1624035438.363300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "20a4e09d715f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-18\/880989735575_20a4e09d715f9e754ca6_72.jpg",
+            "first_name": "Emily",
+            "real_name": "Emily Hackeling",
+            "display_name": "Emily Hackeling",
+            "team": "TJE58GTJL",
+            "name": "emily003",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vm6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok this is super helpful! We'll have to do an exercise around what makes the cut\/what should be saved for later. Thanks everyone for the input!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623866157.329000",
+        "parent_user_id": "UPL0XUAG3"
+    },
+    {
+        "client_msg_id": "6c3aaa82-ed59-426e-a458-ef0ced6bba5e",
+        "type": "message",
+        "text": "I'm doing this round too!",
+        "user": "UJE6FLEFJ",
+        "ts": "1624037336.363600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc6ef52e2245",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c6ef52e2245358c2ae0b9a02308b7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Brittany Berger",
+            "display_name": "Brittany Berger",
+            "team": "TJE58GTJL",
+            "name": "brittany",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm doing this round too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624026140.357300",
+        "parent_user_id": "U020E5Q1JPQ",
+        "reactions": [
+            {
+                "name": "ship",
+                "users": [
+                    "U020E5Q1JPQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8489b05b-993f-42d2-b884-8e48a9dcb405",
+        "type": "message",
+        "text": "You can also make it appear in the bottom right corner to appear less intrusive. <http:\/\/waitbutwhy.com|waitbutwhy.com> used tongue-in-cheek messaging for these pop-ups, not sure if they are still on the website. You can try something similar if it goes with your brand tone and voice.",
+        "user": "U025J1947A6",
+        "ts": "1624037750.363900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gffeba70cafa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ffeba70cafa2189c76a63f62a546ef65.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Indrajeet",
+            "real_name": "Indrajeet Deshpande",
+            "display_name": "Indrajeet",
+            "team": "TJE58GTJL",
+            "name": "indrajeet1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YUsni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can also make it appear in the bottom right corner to appear less intrusive. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/waitbutwhy.com",
+                                "text": "waitbutwhy.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " used tongue-in-cheek messaging for these pop-ups, not sure if they are still on the website. You can try something similar if it goes with your brand tone and voice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623878225.331400",
+        "parent_user_id": "U0207V88BNX"
+    },
+    {
+        "client_msg_id": "78c1e17b-f64c-4884-af6a-64cb5dad0f84",
+        "type": "message",
+        "text": "oh that's interesting! THanks <@U025J1947A6>",
+        "user": "U0207V88BNX",
+        "ts": "1624037821.364100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d5e39e38f358",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-27\/2031620189952_d5e39e38f358d40f7c6d_72.jpg",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey Jensen",
+            "display_name": "Jeffrey Jensen",
+            "team": "TJE58GTJL",
+            "name": "jeffreysj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2RQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh that's interesting! THanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U025J1947A6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623878225.331400",
+        "parent_user_id": "U0207V88BNX",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U025J1947A6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f27d465c-7210-4fe4-8db6-4c6aff9c80f4",
+        "type": "message",
+        "text": "Me! I’m on a small content team (me + 2 other writers), so we collaborated heavily on the details. It was a 2-week sprint process that includes team estimation and a simple kanban-style sprint board. Unfortunately, it didn’t work well because the rest of the marketing team was on a different schedule, and they had a hard time understanding\/respecting the content team’s sprint timing. So we would get interrupted\/redirected a lot, which made stories carry over from sprint to sprint, which was demoralizing. If I were doing it over again, I would protect my team’s time more aggressively. I also could have done a better job advocating for our sprint approach in the first place. I still think content sprints are an awesome idea and want to try again in the future.",
+        "user": "UJFELMVU1",
+        "ts": "1624043354.364300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f99c9b96a13d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-27\/3177379518961_f99c9b96a13d5b027747_72.jpg",
+            "first_name": "Eliza",
+            "real_name": "Eliza Wright",
+            "display_name": "Eliza Wright",
+            "team": "TJE58GTJL",
+            "name": "eliza1wright",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJFELMVU1",
+            "ts": "1624043392.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=KrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me! I’m on a small content team (me + 2 other writers), so we collaborated heavily on the details. It was a 2-week sprint process that includes team estimation and a simple kanban-style sprint board. Unfortunately, it didn’t work well because the rest of the marketing team was on a different schedule, and they had a hard time understanding\/respecting the content team’s sprint timing. So we would get interrupted\/redirected a lot, which made stories carry over from sprint to sprint, which was demoralizing. If I were doing it over again, I would protect my team’s time more aggressively. I also could have done a better job advocating for our sprint approach in the first place. I still think content sprints are an awesome idea and want to try again in the future."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624026007.355900",
+        "parent_user_id": "U01BLESB996",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01BLESB996",
+                    "U025AB5JNRW",
+                    "U011QQDDSJV"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e56bf9e7-5771-4a5f-a682-82ebd49e6ee1",
+        "type": "message",
+        "text": "<@U019E2RJD9Q> This is great, thank you so much!",
+        "user": "U020HB0P648",
+        "ts": "1624047367.364800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga4772bc4af2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4772bc4af206623e87f7ae8b66b28af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Jenna",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jenna.larsson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w5f\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U019E2RJD9Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is great, thank you so much!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624032574.362200",
+        "parent_user_id": "U020HB0P648",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U019E2RJD9Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bf0b917-96cc-41fb-b380-361c72ba7798",
+        "type": "message",
+        "text": "Are there any helpful blogs breaking down how to implement a content sprint?",
+        "user": "U01MM4EAC69",
+        "ts": "1624049957.365600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yaR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are there any helpful blogs breaking down how to implement a content sprint?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624026007.355900",
+        "parent_user_id": "U01BLESB996"
+    },
+    {
+        "client_msg_id": "ac946099-46c3-41be-a945-3958180869b9",
+        "type": "message",
+        "text": "<https:\/\/www.figpii.com\/|https:\/\/www.figpii.com\/>\n<https:\/\/vwo.com\/|https:\/\/vwo.com\/>",
+        "user": "U021QMNMQ68",
+        "ts": "1624069177.366700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "53aeb75f7da2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2041301884215_53aeb75f7da217ae0b1e_72.png",
+            "first_name": "Shahid",
+            "real_name": "Shahid Abbasi",
+            "display_name": "Shahid Abbasi",
+            "team": "TJE58GTJL",
+            "name": "growwithmarketers",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.figpii.com\/",
+                                "text": "https:\/\/www.figpii.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vwo.com\/",
+                                "text": "https:\/\/vwo.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623964433.341000",
+        "parent_user_id": "U022UPVG0LW"
+    }
+]

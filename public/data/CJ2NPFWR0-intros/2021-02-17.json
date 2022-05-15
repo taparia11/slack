@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "d5fd18b5-732d-4ce9-aac1-e905e7c4a5ea",
+        "type": "message",
+        "text": "Welcome <@U01MZAV08TE> I'm a Bengalurean too",
+        "user": "U01MM4F6HTP",
+        "ts": "1613554595.335200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d39d0f8f66bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-11\/1724849361111_d39d0f8f66bddaa96e06_72.jpg",
+            "first_name": "Manohara",
+            "real_name": "Manohara H",
+            "display_name": "Manohara H",
+            "team": "TJE58GTJL",
+            "name": "manoharah98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vS2dq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01MZAV08TE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm a Bengalurean too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613125616.270600",
+        "parent_user_id": "U01MZAV08TE",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01MZAV08TE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6fe2fcc-ef34-477e-af9e-2617b2b38c2f",
+        "type": "message",
+        "text": "<@U01NPCFFQ8Y> I’m from Guelph too, though now I live in Germany.  Such a delight to see the city name in a random Slack chat.  Welcome to the group!  If I can help with anything, do drop me a line.",
+        "user": "U01L7L0D6AF",
+        "ts": "1613561174.337400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2441394beeb3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-04\/1725716072721_2441394beeb37b3da5bf_72.jpg",
+            "first_name": "Marcia",
+            "real_name": "Marcia Adair",
+            "display_name": "Marcia Adair",
+            "team": "TJE58GTJL",
+            "name": "hello621",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSUp6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01NPCFFQ8Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m from Guelph too, though now I live in Germany.  Such a delight to see the city name in a random Slack chat.  Welcome to the group!  If I can help with anything, do drop me a line."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U012YJ35BML",
+                    "U01JGE01ZA8",
+                    "U01K665QFK5"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

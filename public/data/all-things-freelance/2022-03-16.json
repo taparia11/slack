@@ -1,0 +1,1006 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647418300.203159",
+        "thread_ts": "1647418300.203159",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1647425787.550639",
+        "reply_users": [
+            "U02HD0L8HAP"
+        ],
+        "replies": [
+            {
+                "user": "U02HD0L8HAP",
+                "ts": "1647425787.550639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7956C0F8-F1BE-4A5E-8A81-5658B6049F18",
+        "type": "message",
+        "text": "Sounds interesting! I'll send an email this morning. ",
+        "user": "U032XMG6Q8Z",
+        "ts": "1647425019.160509",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "30f5e8c97721",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-10\/3110906020288_30f5e8c97721203d5989_72.jpg",
+            "first_name": "Stacia",
+            "real_name": "Stacia Rogan",
+            "display_name": "Stacia Rogan",
+            "team": "TJE58GTJL",
+            "name": "stacia.rogan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q+U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds interesting! I'll send an email this morning. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647409062.862109",
+        "parent_user_id": "U0241BH1XJS",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0241BH1XJS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09918e74-63c3-4518-bce0-621e6bce72ae",
+        "type": "message",
+        "text": "This post belongs in <#C02RGHQ4HK7|hire-me> I suggest you shift this post and delete it from here.",
+        "user": "U02HD0L8HAP",
+        "ts": "1647425787.550639",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "675c42a91f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-10\/2928364816754_675c42a91f6571f4ac6b_72.jpg",
+            "first_name": "Aanchal",
+            "real_name": "Aanchal Parmar",
+            "display_name": "Aanchal Parmar",
+            "team": "TJE58GTJL",
+            "name": "aanywrites",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSwp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This post belongs in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C02RGHQ4HK7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I suggest you shift this post and delete it from here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647418300.203159",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "24d1d707-8b02-42dc-bc19-82a9ab0cb8d3",
+        "type": "message",
+        "text": "<@U0322LUMX4L> is a perfect fit for the editing role. She's got tech\/data experience.",
+        "user": "U02B60S6FBM",
+        "ts": "1647425967.307049",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2f1e23ef404a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-13\/2376884926485_2f1e23ef404a0d536b39_72.jpg",
+            "first_name": "Wuraola",
+            "real_name": "Wuraola",
+            "display_name": "Wuraola",
+            "team": "TJE58GTJL",
+            "name": "omobolanleshanu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wt2M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0322LUMX4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a perfect fit for the editing role. She's got tech\/data experience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647409062.862109",
+        "parent_user_id": "U0241BH1XJS",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0241BH1XJS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1333fe37-82ad-4d8e-9fed-062f708b216f",
+        "type": "message",
+        "text": "Thanks <@U02B60S6FBM> -- <@U0322LUMX4L> would love to connect :slightly_smiling_face:",
+        "user": "U0241BH1XJS",
+        "ts": "1647426029.721309",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9274ff609eda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-16\/3247820360050_9274ff609edaf956aa99_72.jpg",
+            "first_name": "Surendran",
+            "real_name": "Surendran Balachandran",
+            "display_name": "Surendran Balachandran",
+            "team": "TJE58GTJL",
+            "name": "surendran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ae1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02B60S6FBM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0322LUMX4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would love to connect "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647409062.862109",
+        "parent_user_id": "U0241BH1XJS",
+        "reactions": [
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U02B60S6FBM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "935657ff-c27b-410e-87b5-197af626a94b",
+        "type": "message",
+        "text": "Thanks <@U032XMG6Q8Z> - Looking forward to it :slightly_smiling_face:",
+        "user": "U0241BH1XJS",
+        "ts": "1647426050.228609",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9274ff609eda",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-16\/3247820360050_9274ff609edaf956aa99_72.jpg",
+            "first_name": "Surendran",
+            "real_name": "Surendran Balachandran",
+            "display_name": "Surendran Balachandran",
+            "team": "TJE58GTJL",
+            "name": "surendran",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ay3C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032XMG6Q8Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Looking forward to it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647409062.862109",
+        "parent_user_id": "U0241BH1XJS",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U032XMG6Q8Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "685af961-740a-4d06-98ab-380a30aba6ea",
+        "type": "message",
+        "text": "Thanks for the mention, <@U02B60S6FBM>. <@U0241BH1XJS>, I'll be happy to connect--I'll send you a message on LinkedIn.",
+        "user": "U0322LUMX4L",
+        "ts": "1647428445.017249",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cf8f59e95356",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-20\/3131749165699_cf8f59e95356546761bf_72.png",
+            "first_name": "Lola",
+            "real_name": "Lola Ayangbayi",
+            "display_name": "Lola Ayangbayi",
+            "team": "TJE58GTJL",
+            "name": "lolah39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=U9c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the mention, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02B60S6FBM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0241BH1XJS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I'll be happy to connect--I'll send you a message on LinkedIn."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647409062.862109",
+        "parent_user_id": "U0241BH1XJS",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U0241BH1XJS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U02B60S6FBM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B1FB7C0C-7AB5-4123-A2FE-82305C113ACA",
+        "type": "message",
+        "text": "<@U02CVNB3X1T>   Thank you so much. Needed to read those words today. I just lost a potential client and it hit me quite bad. ",
+        "user": "U034ZC5RY3U",
+        "ts": "1647442705.061419",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dbd0e771a518",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-16\/3273505098592_dbd0e771a518d3a263a7_72.png",
+            "first_name": "Folasade",
+            "real_name": "Folasade",
+            "display_name": "Folasade",
+            "team": "TJE58GTJL",
+            "name": "folasadesobayo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ezoi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CVNB3X1T"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   Thank you so much. Needed to read those words today. I just lost a potential client and it hit me quite bad. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646312462.212229",
+        "parent_user_id": "U0340N4DU6P"
+    },
+    {
+        "client_msg_id": "055d90d8-d8d9-4d1e-ae67-b1750991e8e2",
+        "type": "message",
+        "text": "hey folks! <https:\/\/voiso.com\/|voiso> (a call center saas product) is looking for a freelance writer or two to help create some \"user manuals\"—these are short pieces that walk users through product features. <https:\/\/drive.google.com\/file\/d\/1HyL1X-e6FUqXRFUaxdrJM71sbA0kdBn1\/view?usp=sharing|see an example here>. if you're interested, please send an email to <mailto:yu.pe@voiso.com|yu.pe@voiso.com> with 2-3 writing samples. :grinning:",
+        "user": "UJG9WTEKG",
+        "ts": "1647447942.250859",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/4PbR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey folks! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/voiso.com\/",
+                                "text": "voiso"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (a call center saas product) is looking for a freelance writer or two to help create some \"user manuals\"—these are short pieces that walk users through product features. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1HyL1X-e6FUqXRFUaxdrJM71sbA0kdBn1\/view?usp=sharing",
+                                "text": "see an example here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". if you're interested, please send an email to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:yu.pe@voiso.com",
+                                "text": "yu.pe@voiso.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with 2-3 writing samples. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08513a05-fe90-4e4f-81b7-4868737f7c8c",
+        "type": "message",
+        "text": "I haven't offered writing as a service in a year-plus now, so take it with a grain of salt, but if I put that hat back on I'd benchmark at $500-750 per blog post and $2,000-$3,000 per whitepaper copy. This assumes you are looking for a writer that can speak to industry knowledge and pieces that require research.",
+        "user": "U02Q67WK4LS",
+        "ts": "1647450755.931999",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b8dfb16f41fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-10\/2850618967824_b8dfb16f41fefef6a517_72.jpg",
+            "first_name": "Adrienne",
+            "real_name": "Adrienne Smith",
+            "display_name": "Adrienne Smith",
+            "team": "TJE58GTJL",
+            "name": "adrienneksmith9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pTp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I haven't offered writing as a service in a year-plus now, so take it with a grain of salt, but if I put that hat back on I'd benchmark at $500-750 per blog post and $2,000-$3,000 per whitepaper copy. This assumes you are looking for a writer that can speak to industry knowledge and pieces that require research."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646807706.133749",
+        "parent_user_id": "U02TJFU0A3G"
+    },
+    {
+        "client_msg_id": "971f539a-43c7-419c-963c-e6f42b730527",
+        "type": "message",
+        "text": "Hi :wave: I’m looking for freelance writers who are experienced in writing technical\/developer focused content. :books: Are you interested or do you know anyone who might be able to help me? Feel free to send me an email at <mailto:kimberly@whereby.com|kimberly@whereby.com> or send a DM.\nThanks in advance :dizzy:",
+        "user": "U02EX4W0JJD",
+        "ts": "1647459440.834339",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab05656c9123",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-15\/2507228644721_ab05656c912347829216_72.png",
+            "first_name": "Kimberly",
+            "real_name": "Kimberly Asuka Beijersbergen",
+            "display_name": "Kimberly Asuka Beijersbergen",
+            "team": "TJE58GTJL",
+            "name": "kimberly644",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3A=5X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m looking for freelance writers who are experienced in writing technical\/developer focused content. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "books"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Are you interested or do you know anyone who might be able to help me? Feel free to send me an email at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kimberly@whereby.com",
+                                "text": "kimberly@whereby.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or send a DM.\nThanks in advance "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647459440.834339",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1647521625.807759",
+        "reply_users": [
+            "UN227ML2H",
+            "U02HWBZS9QC",
+            "U013JCCN8JE",
+            "U02SHF57GQN"
+        ],
+        "replies": [
+            {
+                "user": "UN227ML2H",
+                "ts": "1647459661.251999"
+            },
+            {
+                "user": "U02HWBZS9QC",
+                "ts": "1647459862.469669"
+            },
+            {
+                "user": "U013JCCN8JE",
+                "ts": "1647518523.447399"
+            },
+            {
+                "user": "U02SHF57GQN",
+                "ts": "1647521625.807759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U02SHF57GQN",
+                    "U03330MFEN4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "323450e2-7d5b-42d4-bd65-b6baa1780a51",
+        "type": "message",
+        "text": "Subscribed! Thank you!",
+        "user": "U01UDU0NHEV",
+        "ts": "1647459637.532279",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5077cc0796a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-13\/1958028157571_5077cc0796a185e1f0ff_72.jpg",
+            "first_name": "Rachel",
+            "real_name": "Rachel Mindell",
+            "display_name": "Rachel Mindell",
+            "team": "TJE58GTJL",
+            "name": "rachel568",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5us",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Subscribed! Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647368631.055579",
+        "parent_user_id": "U0236PYP3SR",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U0236PYP3SR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c2be291-5b56-4573-a304-73aea029ec9e",
+        "type": "message",
+        "text": "Kimberly!! It’s been a while, I didn’t realize you were on here! I’ll send you a DM :slightly_smiling_face:",
+        "user": "UN227ML2H",
+        "ts": "1647459661.251999",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "73075d02e70f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-28\/1393806804451_73075d02e70f4a4344d6_72.jpg",
+            "first_name": "Whitney",
+            "real_name": "Whitney Rudeseal Peet",
+            "display_name": "Whitney Rudeseal Peet",
+            "team": "TJE58GTJL",
+            "name": "whitneyrudeseal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SlFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kimberly!! It’s been a while, I didn’t realize you were on here! I’ll send you a DM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647459440.834339",
+        "parent_user_id": "U02EX4W0JJD"
+    },
+    {
+        "client_msg_id": "c8cf2083-9dd1-4cdd-af45-9e097ca04ac2",
+        "type": "message",
+        "text": "Rolled out a DM :slightly_smiling_face:",
+        "user": "U02HWBZS9QC",
+        "ts": "1647459862.469669",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cea3c2adb719",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-23\/2879299611220_cea3c2adb71995b8fd88_72.jpg",
+            "first_name": "Ankit",
+            "real_name": "Ankit Vora",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "ankitplaynody",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rH+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rolled out a DM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647459440.834339",
+        "parent_user_id": "U02EX4W0JJD"
+    },
+    {
+        "client_msg_id": "9543377f-dbf9-447f-82c9-7cbfe0af6961",
+        "type": "message",
+        "text": "Hi all! Does anyone here have experience working with therapists or mental health? I know a therapist looking for help rewriting her website. DM me if interested!",
+        "user": "UN227ML2H",
+        "ts": "1647462539.176139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "73075d02e70f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-28\/1393806804451_73075d02e70f4a4344d6_72.jpg",
+            "first_name": "Whitney",
+            "real_name": "Whitney Rudeseal Peet",
+            "display_name": "Whitney Rudeseal Peet",
+            "team": "TJE58GTJL",
+            "name": "whitneyrudeseal",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2a2g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! Does anyone here have experience working with therapists or mental health? I know a therapist looking for help rewriting her website. DM me if interested!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647462539.176139",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1648082668.186999",
+        "reply_users": [
+            "U02GMMQ281W",
+            "U026R1895QV",
+            "U02MYNWUY07",
+            "U037F8TMQTF",
+            "U01PLSB4EKD",
+            "U018YBP6T8V"
+        ],
+        "replies": [
+            {
+                "user": "U02GMMQ281W",
+                "ts": "1647463306.728059"
+            },
+            {
+                "user": "U026R1895QV",
+                "ts": "1647463632.595269"
+            },
+            {
+                "user": "U02MYNWUY07",
+                "ts": "1647501483.412399"
+            },
+            {
+                "user": "U037F8TMQTF",
+                "ts": "1647541406.027399"
+            },
+            {
+                "user": "U01PLSB4EKD",
+                "ts": "1648046417.954849"
+            },
+            {
+                "user": "U018YBP6T8V",
+                "ts": "1648082668.186999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "65c567f8-5c23-4aa6-8c6f-429a3602bc14",
+        "type": "message",
+        "text": "Yes! I have some experience in this area. Feel free to message me to discuss this further.",
+        "user": "U02GMMQ281W",
+        "ts": "1647463306.728059",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1131d2dfd73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2589760574406_e1131d2dfd73f2e7db3e_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda S.",
+            "display_name": "Amanda",
+            "team": "TJE58GTJL",
+            "name": "theglamtechie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1RHb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes! I have some experience in this area. Feel free to message me to discuss this further."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647462539.176139",
+        "parent_user_id": "UN227ML2H"
+    },
+    {
+        "client_msg_id": "f4a7a980-82be-454d-8f1b-bead5625460f",
+        "type": "message",
+        "text": "Maybe <https:\/\/www.therapieseo.com\/>?",
+        "user": "U026R1895QV",
+        "ts": "1647463632.595269",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7b31876780eb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-06\/2572963931698_7b31876780ebf4079e2e_72.jpg",
+            "first_name": "Carolyn",
+            "real_name": "Carolyn Lyden",
+            "display_name": "Carolyn Lyden (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "lyden.carolyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.therapieseo.com\/",
+                "id": 1,
+                "original_url": "https:\/\/www.therapieseo.com\/",
+                "fallback": "SEO For Therapists  &amp; Coaches | TherapieSEO",
+                "text": "Learn more about how SEO for therapists can transform your practice.",
+                "title": "SEO For Therapists  &amp; Coaches | TherapieSEO",
+                "title_link": "https:\/\/www.therapieseo.com\/",
+                "service_name": "therapieseo.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.therapieseo.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647462539.176139",
+        "parent_user_id": "UN227ML2H"
+    },
+    {
+        "client_msg_id": "94ea8b4f-998e-4970-8a7e-0abd56811256",
+        "type": "message",
+        "text": "Anyone can suggest a professional who can help me with US incorporation?",
+        "user": "U035PRLG18B",
+        "ts": "1647496384.960159",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09817e942c36",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-04\/3180956516935_09817e942c3667bf4051_72.png",
+            "first_name": "Hari",
+            "real_name": "Hari Ullody",
+            "display_name": "Hari Ullody",
+            "team": "TJE58GTJL",
+            "name": "hari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QE1vz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone can suggest a professional who can help me with US incorporation?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647496384.960159",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1648063709.611089",
+        "reply_users": [
+            "U02NADUBXSR"
+        ],
+        "replies": [
+            {
+                "user": "U02NADUBXSR",
+                "ts": "1648063709.611089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

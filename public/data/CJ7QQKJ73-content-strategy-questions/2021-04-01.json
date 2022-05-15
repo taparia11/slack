@@ -1,0 +1,2153 @@
+[
+    {
+        "client_msg_id": "4ea41bed-b061-4b22-a57f-5629d5b82dd3",
+        "type": "message",
+        "text": "A client of mine has a sister company who has just migrated their website to a new CMS. I don't know the ins and outs of how they did it but all their content has dived from first\/second page of Google to nowhere to be seen.\n\nHas anybody got any first-hand experience of this\/read a good case study on recovery from something like this?",
+        "user": "UJJFDTN8G",
+        "ts": "1617276556.325100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ke6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A client of mine has a sister company who has just migrated their website to a new CMS. I don't know the ins and outs of how they did it but all their content has dived from first\/second page of Google to nowhere to be seen.\n\nHas anybody got any first-hand experience of this\/read a good case study on recovery from something like this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617276556.325100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1617690871.400200",
+        "reply_users": [
+            "U017XD7H4P7",
+            "U01KGTNFLVA",
+            "UUY2AL9PG",
+            "UJJFDTN8G"
+        ],
+        "replies": [
+            {
+                "user": "U017XD7H4P7",
+                "ts": "1617281389.325500"
+            },
+            {
+                "user": "U01KGTNFLVA",
+                "ts": "1617287046.325700"
+            },
+            {
+                "user": "UUY2AL9PG",
+                "ts": "1617296081.331500"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1617690871.400200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ea1123e9-e70f-4064-b4a1-48beee08c906",
+        "type": "message",
+        "text": "Managing technical SEO for migrations isn't my forte, but when I've seen clients faceplant migrations like this, there are some easy culprits to check for:\n1. New CMS isn't indexing the site or those particular pieces of content.\n2. Content is unpublished\/not public in the new CMS\n3. New CMS uses a different URL scheme, so all of the posts have different URLs with no redirects from the old ones.",
+        "user": "U017XD7H4P7",
+        "ts": "1617281389.325500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ab77023918",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-29\/1256516765207_f9ab77023918e4c2b919_72.png",
+            "first_name": "Erik",
+            "real_name": "Erik Dietrich",
+            "display_name": "Erik Dietrich",
+            "team": "TJE58GTJL",
+            "name": "erik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rfNn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Managing technical SEO for migrations isn't my forte, but when I've seen clients faceplant migrations like this, there are some easy culprits to check for:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "New CMS isn't indexing the site or those particular pieces of content."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Content is unpublished\/not public in the new CMS"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "New CMS uses a different URL scheme, so all of the posts have different URLs with no redirects from the old ones."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617276556.325100",
+        "parent_user_id": "UJJFDTN8G",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01TB1SDD61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89174cbd-ff6c-496c-8d72-9f4658f1beab",
+        "type": "message",
+        "text": ":point_up_2: I'd start with those 3 things Erik pointed out. Checkout their Google Search Console to see if URLs are being indexed. Verify any redirects, and submit a new sitemap to Google as well.\n\n<https:\/\/www.semrush.com\/blog\/cms-migration-guide\/>",
+        "user": "U01KGTNFLVA",
+        "ts": "1617287046.325700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c360477f74af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-21\/1646875379015_c360477f74af7429a086_72.jpg",
+            "first_name": "Phoebe",
+            "real_name": "Phoebe",
+            "display_name": "Phoebe",
+            "team": "TJE58GTJL",
+            "name": "itsmsphoebe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Semrush Blog",
+                "title": "CMS Migration Guide: A Checklist",
+                "title_link": "https:\/\/www.semrush.com\/blog\/cms-migration-guide\/",
+                "text": "Want to migrate your site from one CMS to another? Find out all the steps you should take to make sure the transition is smooth and your website remains in tact.",
+                "fallback": "Semrush Blog: CMS Migration Guide: A Checklist",
+                "image_url": "https:\/\/static.semrush.com\/blog\/uploads\/media\/e8\/f0\/e8f01112fdf24e6b2455be0ce4cd12b2\/cms-migration-guide-the-rainbow.png",
+                "from_url": "https:\/\/www.semrush.com\/blog\/cms-migration-guide\/",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 53564,
+                "service_icon": "https:\/\/static.semrush.com\/semblog-next-static\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.semrush.com\/blog\/cms-migration-guide\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "crW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'd start with those 3 things Erik pointed out. Checkout their Google Search Console to see if URLs are being indexed. Verify any redirects, and submit a new sitemap to Google as well.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.semrush.com\/blog\/cms-migration-guide\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617276556.325100",
+        "parent_user_id": "UJJFDTN8G",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01TB1SDD61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2F631EEE-1423-4A32-A82D-5D0BEBA53973",
+        "type": "message",
+        "text": "I’m looking for content agency recommendations. Who can create well-done SEO-focused blog content for a B2B business but do it in more of an engaging B2C style? Really focused on the creation side of things, we have the SEO strategy and targets defined. ",
+        "user": "U01RSLRLYTZ",
+        "ts": "1617291207.329000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dcf25e687b3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1909464587475_dcf25e687b3bad50affb_72.png",
+            "first_name": "Katie",
+            "real_name": "Katie Tierney",
+            "display_name": "Katie Tierney",
+            "team": "TJE58GTJL",
+            "name": "ktierney79",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UtJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m looking for content agency recommendations. Who can create well-done SEO-focused blog content for a B2B business but do it in more of an engaging B2C style? Really focused on the creation side of things, we have the SEO strategy and targets defined. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1617310999.342200",
+        "reply_users": [
+            "U01PQFQBGHJ",
+            "U012GHRAHDK",
+            "U01881ZL1B6",
+            "U01L8LM4TU2",
+            "UUH2EB134",
+            "UJG9WTEKG",
+            "U01RSLRLYTZ",
+            "UJ48Q1HAP"
+        ],
+        "replies": [
+            {
+                "user": "U01PQFQBGHJ",
+                "ts": "1617291828.329100"
+            },
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1617292274.329600"
+            },
+            {
+                "user": "U01881ZL1B6",
+                "ts": "1617292368.329800"
+            },
+            {
+                "user": "U01L8LM4TU2",
+                "ts": "1617297676.332800"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1617301707.337200"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1617310807.340900"
+            },
+            {
+                "user": "U01RSLRLYTZ",
+                "ts": "1617310882.341800"
+            },
+            {
+                "user": "UJ48Q1HAP",
+                "ts": "1617310999.342200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617310999.342200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01TB1SDD61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3506e248-6ecf-4724-a5a1-7ca452fc4ec4",
+        "type": "message",
+        "text": "I'd recommend checking out Growth Machine (<https:\/\/www.growthmachine.com\/>) and Content Creators Agency (<https:\/\/contentcreators.agency\/>).",
+        "user": "U01PQFQBGHJ",
+        "ts": "1617291828.329100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c69bcfddf9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-26\/1800445940594_5c69bcfddf9f8cc23bf5_72.jpg",
+            "first_name": "Bernard",
+            "real_name": "Bernard Huang",
+            "display_name": "Bernard Huang",
+            "team": "TJE58GTJL",
+            "name": "bernard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Growth Machine",
+                "title_link": "https:\/\/www.growthmachine.com\/",
+                "text": "We're a content creation and SEO agency. Trusted by Fortune 500 companies and Y Combinator startups, we help you get more customers through SEO-focused content marketing.",
+                "fallback": "Growth Machine",
+                "image_url": "https:\/\/assets.website-files.com\/5fa06b0b2cf33a63adb2647a\/60491268c5c6d849979dbe8d_GrowthMachine_Open_Graph_Image.png",
+                "from_url": "https:\/\/www.growthmachine.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 39630,
+                "service_name": "growthmachine.com",
+                "id": 1,
+                "original_url": "https:\/\/www.growthmachine.com\/"
+            },
+            {
+                "service_name": "Content Creators Agency",
+                "title": "Content Creators Agency | White Glove SEO Copy, Social, &amp; Email",
+                "title_link": "https:\/\/contentcreators.agency\/",
+                "text": "Content Creators Agency, LLC is an agency specializing in content for SEO articles, organic social media growth, and email newsletter services.",
+                "fallback": "Content Creators Agency: Content Creators Agency | White Glove SEO Copy, Social, &amp; Email",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/5b05ebc5ec4eb7913591642f\/t\/5f76351b7011f45bdd02982d\/1601582368120\/Content+doesn%27t+have+to+suck..png?format=1500w",
+                "from_url": "https:\/\/contentcreators.agency\/",
+                "thumb_width": 1500,
+                "thumb_height": 571,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5b05ebc5ec4eb7913591642f\/1601584994395-HGKQ1B4NS5QET80X0G78\/ke17ZwdGBToddI8pDm48kDvoEgP8zClf8apTczq-nBPlfiSMXz2YNBs8ylwAJx2qr7dJalY1eltJq26FYyRd7jz-dRU95cCvBUJn2FZ-4oCKPIYRe9HMUbcCvWAIANSwiZ8679h2EaiMowgib1UZOQ\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/contentcreators.agency\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNcU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd recommend checking out Growth Machine ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.growthmachine.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and Content Creators Agency ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/contentcreators.agency\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "parent_user_id": "U01RSLRLYTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSLRLYTZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1172085-7230-4a3b-8fec-b0cbed95cf90",
+        "type": "message",
+        "text": "In my experience, b2b businesses aren't that interested in syndicating already-published content unless you're already quite famous \/ have a large audience.\n\nGenerally, folks become established writers on publications (eg. Hackernoon) and then syndicate some of their original content there (or vice versa).\n\nThe most effect b2b content syndication simply turns into `guest posting` where you give them your entire original content piece.",
+        "user": "U01PQFQBGHJ",
+        "ts": "1617292039.329400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c69bcfddf9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-26\/1800445940594_5c69bcfddf9f8cc23bf5_72.jpg",
+            "first_name": "Bernard",
+            "real_name": "Bernard Huang",
+            "display_name": "Bernard Huang",
+            "team": "TJE58GTJL",
+            "name": "bernard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oVV6h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my experience, b2b businesses aren't that interested in syndicating already-published content unless you're already quite famous \/ have a large audience.\n\nGenerally, folks become established writers on publications (eg. Hackernoon) and then syndicate some of their original content there (or vice versa).\n\nThe most effect b2b content syndication simply turns into "
+                            },
+                            {
+                                "type": "text",
+                                "text": "guest posting",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " where you give them your entire original content piece."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617237958.323300",
+        "parent_user_id": "U01L8LM4TU2"
+    },
+    {
+        "client_msg_id": "00a0977c-6e8b-44bb-9b9a-79af787aa15c",
+        "type": "message",
+        "text": "Animalz, Growth Machine, Optimist are the great ones!\n\nAnd if you prefer working with a small, saas\/DTC focused agency, I can help. :))",
+        "user": "U012GHRAHDK",
+        "ts": "1617292274.329600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U012GHRAHDK",
+            "ts": "1617298423.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ql3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Animalz, Growth Machine, Optimist are the great ones!\n\nAnd if you prefer working with a small, saas\/DTC focused agency, I can help. :))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "parent_user_id": "U01RSLRLYTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSLRLYTZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UJ48Q1HAP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97efd476-ffe3-4f42-b30e-b6175b4a31f9",
+        "type": "message",
+        "text": "I'd actually recommend against any type of bigger agency based on my 12+ yrs working with content creators (agencies, freelancers, boutiques, etc), and instead find a high quality freelancer(s) or small boutique. Personally I've had very positive experiences with: <https:\/\/www.kaleighmoore.com\/>, <https:\/\/storiesby.us\/> &amp; <https:\/\/www.kieraabbamonte.com\/>",
+        "user": "U01881ZL1B6",
+        "ts": "1617292368.329800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26aa0c7a3874",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-31\/1261098762535_26aa0c7a38743cbca630_72.jpg",
+            "first_name": "Matt",
+            "real_name": "Matt Koulas",
+            "display_name": "Matt Koulas",
+            "team": "TJE58GTJL",
+            "name": "mattkoulas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01881ZL1B6",
+            "ts": "1617292379.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd actually recommend against any type of bigger agency based on my 12+ yrs working with content creators (agencies, freelancers, boutiques, etc), and instead find a high quality freelancer(s) or small boutique. Personally I've had very positive experiences with: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaleighmoore.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/storiesby.us\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kieraabbamonte.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "parent_user_id": "U01RSLRLYTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSLRLYTZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd5bc045-427b-4525-94ad-13712a6bd880",
+        "type": "message",
+        "text": "I just went through this with my team and something the migration tools can miss are three easy SEO fixes. For context, we migrated from WordPress to Craft CMS and used Craft's migration services to move the bulk of the content. The fixes we made were:\n• SEO Title\n• Meta description\n• Ft\/SEO image alt text\nWe also noticed a lot of redirects made in WP didn't carry over to Craft, which meant broken URLs. We used SEMrush and the Retour plugin for Craft to find the broken URLs and correct the redirects for them. We made the decision to do this manually to improve them, but when we first imported, a lot of these were either missing or wrong. Checking them is definitely a good place start",
+        "user": "UUY2AL9PG",
+        "ts": "1617296081.331500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ec32687db23d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/983917796608_ec32687db23d02425f8d_72.jpg",
+            "first_name": "Rocco",
+            "real_name": "Rocco Brudno",
+            "display_name": "Rocco",
+            "team": "TJE58GTJL",
+            "name": "roccob17",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "USl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just went through this with my team and something the migration tools can miss are three easy SEO fixes. For context, we migrated from WordPress to Craft CMS and used Craft's migration services to move the bulk of the content. The fixes we made were:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SEO Title"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Meta description"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ft\/SEO image alt text"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We also noticed a lot of redirects made in WP didn't carry over to Craft, which meant broken URLs. We used SEMrush and the Retour plugin for Craft to find the broken URLs and correct the redirects for them. We made the decision to do this manually to improve them, but when we first imported, a lot of these were either missing or wrong. Checking them is definitely a good place start"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617276556.325100",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "b9c1ba55-cc3c-45fa-ad3f-b816e8400d4e",
+        "type": "message",
+        "text": "Does a local Boston accent make it more, or less, attractive? Lots of good folks within a Dunkie’s run.",
+        "user": "U019CR3HQ2K",
+        "ts": "1617296510.332500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc534d8e3bec",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c534d8e3becb8f830c6e2f4194d71482.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "David Wallace",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "dwallace",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does a local Boston accent make it more, or less, attractive? Lots of good folks within a Dunkie’s run."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617296510.332500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1617384842.359700",
+        "reply_users": [
+            "U01PQFQBGHJ",
+            "U019CR3HQ2K"
+        ],
+        "replies": [
+            {
+                "user": "U01PQFQBGHJ",
+                "ts": "1617304728.338400"
+            },
+            {
+                "user": "U019CR3HQ2K",
+                "ts": "1617384842.359700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "70b34afe-4475-4e94-a82b-79181c9695b5",
+        "type": "message",
+        "text": "Hmm I thinking more through services like true influence, etc. where these is an agreed upon target + CPL?",
+        "user": "U01L8LM4TU2",
+        "ts": "1617297637.332600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "44b575c7e651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-02\/1697588354438_44b575c7e65189e7f19c_72.jpg",
+            "first_name": "",
+            "real_name": "Courtney Sulzberger",
+            "display_name": "Courtney Sulzberger",
+            "team": "TJE58GTJL",
+            "name": "courtney.sulzberger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm I thinking more through services like true influence, etc. where these is an agreed upon target + CPL?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617237958.323300",
+        "parent_user_id": "U01L8LM4TU2"
+    },
+    {
+        "client_msg_id": "998303d9-7f44-42c2-80c4-47818085177e",
+        "type": "message",
+        "text": "<@U01KXUWH7MG> ^^",
+        "user": "U01L8LM4TU2",
+        "ts": "1617297676.332800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "44b575c7e651",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-02\/1697588354438_44b575c7e65189e7f19c_72.jpg",
+            "first_name": "",
+            "real_name": "Courtney Sulzberger",
+            "display_name": "Courtney Sulzberger",
+            "team": "TJE58GTJL",
+            "name": "courtney.sulzberger",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/P4QU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KXUWH7MG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "parent_user_id": "U01RSLRLYTZ",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01KXUWH7MG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01KXUWH7MG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebf23c34-2529-4b32-ba99-b5c19c83d8ee",
+        "type": "message",
+        "text": "Has anyone joined John Bonini's Some Good Content? Looks really interesting and wondered if anyone had any feedback. Thanks!",
+        "user": "U018ZNMCC3C",
+        "ts": "1617298758.334000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05e6b34c73a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-17\/1299663693942_05e6b34c73a9a6d60a4a_72.jpg",
+            "first_name": "",
+            "real_name": "Christa Parrish",
+            "display_name": "Christa Parrish",
+            "team": "TJE58GTJL",
+            "name": "cparrish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "maFXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone joined John Bonini's Some Good Content? Looks really interesting and wondered if anyone had any feedback. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "reply_count": 12,
+        "reply_users_count": 6,
+        "latest_reply": "1617664106.399600",
+        "reply_users": [
+            "U01J85VRKF1",
+            "U018ZNMCC3C",
+            "U01PAU5QV32",
+            "U01PQFQBGHJ",
+            "U012YJ35BML",
+            "U01SZU1UD29"
+        ],
+        "replies": [
+            {
+                "user": "U01J85VRKF1",
+                "ts": "1617298853.334100"
+            },
+            {
+                "user": "U018ZNMCC3C",
+                "ts": "1617298911.334300"
+            },
+            {
+                "user": "U01J85VRKF1",
+                "ts": "1617298983.334500"
+            },
+            {
+                "user": "U018ZNMCC3C",
+                "ts": "1617299066.334700"
+            },
+            {
+                "user": "U01J85VRKF1",
+                "ts": "1617299320.334900"
+            },
+            {
+                "user": "U01PAU5QV32",
+                "ts": "1617300318.336400"
+            },
+            {
+                "user": "U01PQFQBGHJ",
+                "ts": "1617304758.338600"
+            },
+            {
+                "user": "U018ZNMCC3C",
+                "ts": "1617311489.342400"
+            },
+            {
+                "user": "U012YJ35BML",
+                "ts": "1617313419.344100"
+            },
+            {
+                "user": "U018ZNMCC3C",
+                "ts": "1617316369.349100"
+            },
+            {
+                "user": "U01SZU1UD29",
+                "ts": "1617336140.349300"
+            },
+            {
+                "user": "U018ZNMCC3C",
+                "ts": "1617664106.399600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3a83cfd0-6d94-4f04-8e52-fa09a7f7fb2e",
+        "type": "message",
+        "text": "I'm a member! John releases a lot of great information on there. I am newer to thinking of content marketing this strategically, so the content has helped me a ton!",
+        "user": "U01J85VRKF1",
+        "ts": "1617298853.334100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6014791c8384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-11\/2168802380004_6014791c8384d642d727_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda Cross",
+            "display_name": "Amanda Cross",
+            "team": "TJE58GTJL",
+            "name": "amanda867",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8L2DR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm a member! John releases a lot of great information on there. I am newer to thinking of content marketing this strategically, so the content has helped me a ton!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "968c1812-928e-4953-8250-2adb307add3d",
+        "type": "message",
+        "text": "Thanks for the feedback, Amanda! Just out of interest, are you also a paying member of Superpath?",
+        "user": "U018ZNMCC3C",
+        "ts": "1617298911.334300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05e6b34c73a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-17\/1299663693942_05e6b34c73a9a6d60a4a_72.jpg",
+            "first_name": "",
+            "real_name": "Christa Parrish",
+            "display_name": "Christa Parrish",
+            "team": "TJE58GTJL",
+            "name": "cparrish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zdike",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the feedback, Amanda! Just out of interest, are you also a paying member of Superpath?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "90da3f71-caf9-43da-a3ac-239bfc6d8f91",
+        "type": "message",
+        "text": "Not yet, but it's on my radar. I'd love to do both, but I don't have the funds right now. My job has a smaller professional development budget.",
+        "user": "U01J85VRKF1",
+        "ts": "1617298983.334500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6014791c8384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-11\/2168802380004_6014791c8384d642d727_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda Cross",
+            "display_name": "Amanda Cross",
+            "team": "TJE58GTJL",
+            "name": "amanda867",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iuB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not yet, but it's on my radar. I'd love to do both, but I don't have the funds right now. My job has a smaller professional development budget."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "edf3f4c1-dc34-4342-bb82-772cdfd9a2c9",
+        "type": "message",
+        "text": "Haha, then you understand my situation! I would also like my company to cover the costs of my professional development and I'm trying to decide what to prioritize.",
+        "user": "U018ZNMCC3C",
+        "ts": "1617299066.334700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05e6b34c73a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-17\/1299663693942_05e6b34c73a9a6d60a4a_72.jpg",
+            "first_name": "",
+            "real_name": "Christa Parrish",
+            "display_name": "Christa Parrish",
+            "team": "TJE58GTJL",
+            "name": "cparrish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u27C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha, then you understand my situation! I would also like my company to cover the costs of my professional development and I'm trying to decide what to prioritize."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "5438dbcf-55d2-437a-afc8-77faa6ac9f81",
+        "type": "message",
+        "text": "I don't think you could go wrong with either subscription. I've signed up for the preview of Superpath Pro on the website and there was so much value just in that. I would think that the full membership provides tons of value.",
+        "user": "U01J85VRKF1",
+        "ts": "1617299320.334900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6014791c8384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-11\/2168802380004_6014791c8384d642d727_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda Cross",
+            "display_name": "Amanda Cross",
+            "team": "TJE58GTJL",
+            "name": "amanda867",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t8rEo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think you could go wrong with either subscription. I've signed up for the preview of Superpath Pro on the website and there was so much value just in that. I would think that the full membership provides tons of value."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "3f75db3b-b8f5-49d1-aabe-def65dc4eef3",
+        "type": "message",
+        "text": "has anyone done competitor landing pages for 6+ competitors? what was your experience successfully targeting keywords and how were you able to vary the content enough for Google to not penalize it?",
+        "user": "U0166H7KUAZ",
+        "ts": "1617299890.336300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f58be1456496",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-29\/1197308509671_f58be1456496f374b7ea_72.jpg",
+            "first_name": "",
+            "real_name": "Phillip Paquette",
+            "display_name": "Phillip Paquette",
+            "team": "TJE58GTJL",
+            "name": "phillippaquette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sIzg6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "has anyone done competitor landing pages for 6+ competitors? what was your experience successfully targeting keywords and how were you able to vary the content enough for Google to not penalize it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617299890.336300",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1617301548.337000",
+        "reply_users": [
+            "ULJBEFSJJ"
+        ],
+        "replies": [
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1617301275.336700"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1617301548.337000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "38ffa3fc-42f9-48e3-b07a-8008faa354ba",
+        "type": "message",
+        "text": "I joined for a couple months and found it to be too focused on SEO for me.",
+        "user": "U01PAU5QV32",
+        "ts": "1617300318.336400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "860ce9ae1a6c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-05\/2040266128308_860ce9ae1a6cb71f89ef_72.png",
+            "first_name": "Erin",
+            "real_name": "Erin Sarris",
+            "display_name": "Erin",
+            "team": "TJE58GTJL",
+            "name": "erinsarris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I joined for a couple months and found it to be too focused on SEO for me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "d6574787-8da3-4612-bbe9-d6f8a69e1732",
+        "type": "message",
+        "text": "not competitors, but we have about 20 late funnel blog posts that all look pretty much like this: <https:\/\/www.wildapricot.com\/blog\/cycling-club-software>\n\nwe've never been penalized, I think changing the keyword  ranking and adding in slightly different examples to each has been enough",
+        "user": "ULJBEFSJJ",
+        "ts": "1617301275.336700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Wild Apricot Blog",
+                "title": "90 Cycling Clubs Use This #1 Cycling Club Software",
+                "title_link": "https:\/\/www.wildapricot.com\/blog\/cycling-club-software",
+                "text": "cycling club software, cycling club membership software, cycling club management software",
+                "fallback": "Wild Apricot Blog: 90 Cycling Clubs Use This #1 Cycling Club Software",
+                "image_url": "https:\/\/d.wildapricot.net\/images\/newsblog\/90-cycling-clubs-use-this-1-cycling-club-software.png",
+                "ts": 1525810835,
+                "from_url": "https:\/\/www.wildapricot.com\/blog\/cycling-club-software",
+                "image_width": 352,
+                "image_height": 250,
+                "image_bytes": 1219111,
+                "service_icon": "https:\/\/s.wildapricot.net\/StaticImages\/v2\/Favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.wildapricot.com\/blog\/cycling-club-software"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not competitors, but we have about 20 late funnel blog posts that all look pretty much like this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wildapricot.com\/blog\/cycling-club-software"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nwe've never been penalized, I think changing the keyword  ranking and adding in slightly different examples to each has been enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617299890.336300",
+        "parent_user_id": "U0166H7KUAZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0166H7KUAZ",
+                    "URY0PS7HC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c482baac-3415-4b4d-8508-4eb19b860467",
+        "type": "message",
+        "text": "to be fair, the search volume on all of these is like ~10 monthly, so that's why it's worked for us — if your space is more competitive it might be more difficult to rank",
+        "user": "ULJBEFSJJ",
+        "ts": "1617301548.337000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z1m1z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to be fair, the search volume on all of these is like ~10 monthly, so that's why it's worked for us — if your space is more competitive it might be more difficult to rank"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617299890.336300",
+        "parent_user_id": "U0166H7KUAZ"
+    },
+    {
+        "client_msg_id": "898759d5-a0b8-415e-9a8c-845c624a7297",
+        "type": "message",
+        "text": "I've worked with Message Lab on B2B content that embodies the spirit of B2C content. <https:\/\/messagelab.com\/>",
+        "user": "UUH2EB134",
+        "ts": "1617301707.337200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Message Lab",
+                "title": "Message Lab | Journalism, Data And Design",
+                "title_link": "https:\/\/messagelab.com\/",
+                "text": "Does anyone care about what you're saying?",
+                "fallback": "Message Lab: Message Lab | Journalism, Data And Design",
+                "image_url": "https:\/\/messagelab.com\/wp-content\/uploads\/Message-Lab-Home.jpg",
+                "image_width": 490,
+                "image_height": 250,
+                "from_url": "https:\/\/messagelab.com\/",
+                "image_bytes": 57985,
+                "service_icon": "https:\/\/messagelab.com\/wp-content\/uploads\/cropped-ML-favicon-512x512-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/messagelab.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AS+f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've worked with Message Lab on B2B content that embodies the spirit of B2C content. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/messagelab.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "parent_user_id": "U01RSLRLYTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSLRLYTZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d239cbe7-2397-4329-ba1f-00faa92bc1a9",
+        "type": "message",
+        "text": "ah I see! That is beyond my area of expertise.",
+        "user": "U01PQFQBGHJ",
+        "ts": "1617304645.338200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c69bcfddf9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-26\/1800445940594_5c69bcfddf9f8cc23bf5_72.jpg",
+            "first_name": "Bernard",
+            "real_name": "Bernard Huang",
+            "display_name": "Bernard Huang",
+            "team": "TJE58GTJL",
+            "name": "bernard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T9ey=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah I see! That is beyond my area of expertise."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617237958.323300",
+        "parent_user_id": "U01L8LM4TU2"
+    },
+    {
+        "client_msg_id": "797720cb-9a8d-4e91-b55e-81b611a338a4",
+        "type": "message",
+        "text": "wicked! I suppose the answer is `it depends`. If the intended audience was towards folks that are likely to be from the New England area, positive.\n\nIf not, could be neutral to negative depending on how thick the accent.",
+        "user": "U01PQFQBGHJ",
+        "ts": "1617304728.338400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c69bcfddf9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-26\/1800445940594_5c69bcfddf9f8cc23bf5_72.jpg",
+            "first_name": "Bernard",
+            "real_name": "Bernard Huang",
+            "display_name": "Bernard Huang",
+            "team": "TJE58GTJL",
+            "name": "bernard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wicked! I suppose the answer is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it depends",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If the intended audience was towards folks that are likely to be from the New England area, positive.\n\nIf not, could be neutral to negative depending on how thick the accent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617296510.332500",
+        "parent_user_id": "U019CR3HQ2K"
+    },
+    {
+        "client_msg_id": "adcda46d-fcc8-4443-ac64-08363767d6e9",
+        "type": "message",
+        "text": "I just joined earlier this week and will let you know as I check out more of the content!",
+        "user": "U01PQFQBGHJ",
+        "ts": "1617304758.338600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c69bcfddf9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-26\/1800445940594_5c69bcfddf9f8cc23bf5_72.jpg",
+            "first_name": "Bernard",
+            "real_name": "Bernard Huang",
+            "display_name": "Bernard Huang",
+            "team": "TJE58GTJL",
+            "name": "bernard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just joined earlier this week and will let you know as I check out more of the content!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "45e41c0f-cdb0-4efa-8d66-382aa91a4438",
+        "type": "message",
+        "text": "Thank you <@U012GHRAHDK> you’re hired lol :smile:",
+        "user": "U01DE3REJUC",
+        "ts": "1617306717.338900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9f170d9ea937",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-20\/3126124486838_9f170d9ea937de1692b5_72.png",
+            "first_name": "Mischa",
+            "real_name": "Mischa Vaughn",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mischasinbox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012GHRAHDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you’re hired lol "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617031683.290400",
+        "parent_user_id": "UKAK6J1NY",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U012GHRAHDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "298ac9c1-f1bc-4781-b909-f9c7132024b9",
+        "type": "message",
+        "text": "I await my offer letter Mischa :star-struck:",
+        "user": "U012GHRAHDK",
+        "ts": "1617307115.339200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RwW9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I await my offer letter Mischa "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617031683.290400",
+        "parent_user_id": "UKAK6J1NY"
+    },
+    {
+        "client_msg_id": "E54DDA74-6AC9-4A3D-8B8C-7273C928D343",
+        "type": "message",
+        "text": "Have you ever *created a piece of content purely for the intrinsic value* you get out of it and it took off (social shares, feedback, back links etc.) ?\n",
+        "user": "U01MM4EAC69",
+        "ts": "1617310324.340800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9xeQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you ever "
+                            },
+                            {
+                                "type": "text",
+                                "text": "created a piece of content purely for the intrinsic value",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " you get out of it and it took off (social shares, feedback, back links etc.) ?\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617310324.340800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1618103226.026400",
+        "reply_users": [
+            "UJE5LQ2JC",
+            "U01J3L8CJRL",
+            "U01TB1SDD61"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1617368746.351300"
+            },
+            {
+                "user": "U01J3L8CJRL",
+                "ts": "1617805546.418600"
+            },
+            {
+                "user": "U01TB1SDD61",
+                "ts": "1618103226.026400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01TB1SDD61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ed17610-6a7d-4c69-8278-a0ca20a5c945",
+        "type": "message",
+        "text": "animalz fo sho cc <@UJ48Q1HAP>",
+        "user": "UJG9WTEKG",
+        "ts": "1617310807.340900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3l\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "animalz fo sho cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ48Q1HAP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "parent_user_id": "U01RSLRLYTZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01RSLRLYTZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8AD43AB3-AA75-4D60-B1B0-B03940DA76A1",
+        "type": "message",
+        "text": "Thanks <@UJG9WTEKG> - Katie and I are chatting on Tuesday :) ",
+        "user": "U01RSLRLYTZ",
+        "ts": "1617310882.341800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dcf25e687b3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1909464587475_dcf25e687b3bad50affb_72.png",
+            "first_name": "Katie",
+            "real_name": "Katie Tierney",
+            "display_name": "Katie Tierney",
+            "team": "TJE58GTJL",
+            "name": "ktierney79",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOg4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Katie and I are chatting on Tuesday :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "parent_user_id": "U01RSLRLYTZ",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "UJ48Q1HAP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b4cb9f6-1458-490a-92af-55c8ce180af1",
+        "type": "message",
+        "text": "We sure are! Super awesome to see all these other cool recs!",
+        "user": "UJ48Q1HAP",
+        "ts": "1617310999.342200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "77012a72a593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/627240275812_77012a72a593f45fbc06_72.jpg",
+            "first_name": "Katie",
+            "real_name": "Katie Parrott",
+            "display_name": "Katie Parrott",
+            "team": "TJE58GTJL",
+            "name": "katie.parrott12",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kiQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We sure are! Super awesome to see all these other cool recs!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617291207.329000",
+        "parent_user_id": "U01RSLRLYTZ"
+    },
+    {
+        "client_msg_id": "394b0250-d55b-42d6-a95f-72b8930d352b",
+        "type": "message",
+        "text": "Good to know <@U01PAU5QV32> and looking forward to your thoughts <@U01PQFQBGHJ>!",
+        "user": "U018ZNMCC3C",
+        "ts": "1617311489.342400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05e6b34c73a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-17\/1299663693942_05e6b34c73a9a6d60a4a_72.jpg",
+            "first_name": "",
+            "real_name": "Christa Parrish",
+            "display_name": "Christa Parrish",
+            "team": "TJE58GTJL",
+            "name": "cparrish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b8Yus",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to know "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PAU5QV32"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and looking forward to your thoughts "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PQFQBGHJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "54BC7DB7-351C-4530-AAA6-77BE76EBCBC6",
+        "type": "message",
+        "text": "I’m in there. I like it. It’s just good content about... content. Great frameworks. Highly recommend. Less of a community like this slack or DGMG. :+1:",
+        "user": "U012YJ35BML",
+        "ts": "1617313419.344100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxydR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m in there. I like it. It’s just good content about... content. Great frameworks. Highly recommend. Less of a community like this slack or DGMG. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "A4A49B39-B137-43D6-8240-42DB51F18531",
+        "type": "message",
+        "text": "Hey everyone, what’s your thoughts on link sculpting? I’m reviewing a clients site and making plans to beef up their internal linking so that more authority can pass to money pages. \n\nI’ve heard people get real technical about the number of links on the page. As in, making some internal links (like to privacy page) no-follow. \n\n(Sounds kinda crazy. But crazy also has a way of not sounding crazy. Am I right? :man-shrugging::laughing:)\n\nDoes anyone here have some advice\/article on the best tactics to “focus” that link juice?",
+        "user": "U012YJ35BML",
+        "ts": "1617313813.349000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aje",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, what’s your thoughts on link sculpting? I’m reviewing a clients site and making plans to beef up their internal linking so that more authority can pass to money pages. \n\nI’ve heard people get real technical about the number of links on the page. As in, making some internal links (like to privacy page) no-follow. \n\n(Sounds kinda crazy. But crazy also has a way of not sounding crazy. Am I right? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nDoes anyone here have some advice\/article on the best tactics to “focus” that link juice?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617313813.349000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617382511.356900",
+        "reply_users": [
+            "U01J85VRKF1"
+        ],
+        "replies": [
+            {
+                "user": "U01J85VRKF1",
+                "ts": "1617382511.356900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d283ccee-30c2-4ed7-9e08-09097b87ea52",
+        "type": "message",
+        "text": "Thanks, <@U012YJ35BML>!",
+        "user": "U018ZNMCC3C",
+        "ts": "1617316369.349100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "05e6b34c73a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-17\/1299663693942_05e6b34c73a9a6d60a4a_72.jpg",
+            "first_name": "",
+            "real_name": "Christa Parrish",
+            "display_name": "Christa Parrish",
+            "team": "TJE58GTJL",
+            "name": "cparrish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H7Hku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012YJ35BML"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    },
+    {
+        "client_msg_id": "48cb5161-4b8d-4ca1-b198-38cafcbb015f",
+        "type": "message",
+        "text": "I'm a member, there's a lot of focus on frameworks and repeatable methods for developing content and briefing writers. I enjoy it as it helps structure some of my approaches for client work. I'm also a DGMG member and again that's full of great advice from DG and a thriving community.",
+        "user": "U01SZU1UD29",
+        "ts": "1617336140.349300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d26b1122a7f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-01\/1927324253300_d26b1122a7f34f310e04_72.jpg",
+            "first_name": "JC",
+            "real_name": "JC Smith",
+            "display_name": "JC Smith",
+            "team": "TJE58GTJL",
+            "name": "jc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ubi7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm a member, there's a lot of focus on frameworks and repeatable methods for developing content and briefing writers. I enjoy it as it helps structure some of my approaches for client work. I'm also a DGMG member and again that's full of great advice from DG and a thriving community."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617298758.334000",
+        "parent_user_id": "U018ZNMCC3C"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "dacc3141-f083-4f78-a703-4352336d8c8c",
+        "type": "message",
+        "text": "Thank you so much, <@U01AU94TABA>, <@U0369HYJ39D>, and <@U032V06GP38>! You guys are amazing.",
+        "user": "U01BCN0UCN4",
+        "ts": "1648986409.078589",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "983fa89a780f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-09\/3213475905282_983fa89a780f9d6b41fe_72.png",
+            "first_name": "The-Nabh",
+            "real_name": "The-Nabh",
+            "display_name": "The-Nabh",
+            "team": "TJE58GTJL",
+            "name": "arunabh121",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hkAlT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AU94TABA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0369HYJ39D"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032V06GP38"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! You guys are amazing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646384690.790019",
+        "parent_user_id": "U01BCN0UCN4"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1648986420.373699",
+        "thread_ts": "1646384690.790019",
+        "parent_user_id": "U01BCN0UCN4"
+    }
+]

@@ -1,0 +1,630 @@
+[
+    {
+        "client_msg_id": "b2e624fd-0802-4287-8883-a8feaecc7eb6",
+        "type": "message",
+        "text": "Running into a strange issue lately with multiple clients and wondered if anyone else has had this happen... *Are you finding that Google isn't indexing certain new pages for months at a time?*\n\n*Context:* I've now discovered this on 4 of our client sites. Random new articles posted between October-December are simply not being indexed. All of them are in the sitemaps AND linked to throughout the website on other pages. In addition, NONE of these sites are huge — they're all fewer than 500 total pages (some significantly so). All 4 websites have 50K+ views per month from either organic search (from other pages) and\/or PPC. Oh, and one is on WordPress, two use Shopify, and the third is built on Webflow (so no commonality there).\n\nThe error I'm getting is *Discovered - currently not indexed*. <https:\/\/support.google.com\/webmasters\/answer\/7440203#discovered__unclear_status|Google says> about this error:\n\n`The page was found by Google, but not crawled yet. Typically, Google wanted to crawl the URL but this was expected to overload the site; therefore Google rescheduled the crawl. This is why the last crawl date is empty on the report.`\n\nBut with such small sites (and SUCH long periods of time), I can't figure out why Google isn't indexing them.\n\nNote: I am adding a step to our process at this point that we request indexing every time we publish a new page. However, I still want to figure out the WHY behind this because I don't want anything to fall through the cracks.",
+        "user": "U024K88ECFN",
+        "ts": "1641239066.437500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U024K88ECFN",
+            "ts": "1641239485.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KTD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Running into a strange issue lately with multiple clients and wondered if anyone else has had this happen... "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Are you finding that Google isn't indexing certain new pages for months at a time?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Context: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I've now discovered this on 4 of our client sites. Random new articles posted between October-December are simply not being indexed. All of them are in the sitemaps AND linked to throughout the website on other pages. In addition, NONE of these sites are huge — they're all fewer than 500 total pages (some significantly so). All 4 websites have 50K+ views per month from either organic search (from other pages) and\/or PPC. Oh, and one is on WordPress, two use Shopify, and the third is built on Webflow (so no commonality there).\n\nThe error I'm getting is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Discovered - currently not indexed",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/support.google.com\/webmasters\/answer\/7440203#discovered__unclear_status",
+                                "text": "Google says"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about this error:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "The page was found by Google, but not crawled yet. Typically, Google wanted to crawl the URL but this was expected to overload the site; therefore Google rescheduled the crawl. This is why the last crawl date is empty on the report.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBut with such small sites (and SUCH long periods of time), I can't figure out why Google isn't indexing them.\n\nNote: I am adding a step to our process at this point that we request indexing every time we publish a new page. However, I still want to figure out the WHY behind this because I don't want anything to fall through the cracks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "reply_count": 11,
+        "reply_users_count": 8,
+        "latest_reply": "1641332774.443300",
+        "reply_users": [
+            "U02R3S1RBUL",
+            "U024K88ECFN",
+            "UUKNRAD4Z",
+            "U02A8UR3Z60",
+            "UJG24P8P6",
+            "U012GHRAHDK",
+            "U02GLJM8MST",
+            "U01KGTNFLVA"
+        ],
+        "replies": [
+            {
+                "user": "U02R3S1RBUL",
+                "ts": "1641242090.438000"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1641242508.438300"
+            },
+            {
+                "user": "U02R3S1RBUL",
+                "ts": "1641242635.438500"
+            },
+            {
+                "user": "UUKNRAD4Z",
+                "ts": "1641249877.438700"
+            },
+            {
+                "user": "U02A8UR3Z60",
+                "ts": "1641254202.440200"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1641254716.440700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1641256743.441100"
+            },
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1641274788.441300"
+            },
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1641274873.441500"
+            },
+            {
+                "user": "U02GLJM8MST",
+                "ts": "1641290002.442300"
+            },
+            {
+                "user": "U01KGTNFLVA",
+                "ts": "1641332774.443300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8f57fee7-779e-463e-8ea4-23c873eb7dd2",
+        "type": "message",
+        "text": "Yes, I’ve seen this happen personally and seen it reported elsewhere too. I know Marie Haynes has covered it.\n\nFrom what I’ve seen, there’s no explanation for why this is happening.",
+        "user": "U02R3S1RBUL",
+        "ts": "1641242090.438000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f8e73f8fe32c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2849222050903_f8e73f8fe32c8b51b060_72.jpg",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey Trull",
+            "display_name": "Jeffrey Trull",
+            "team": "TJE58GTJL",
+            "name": "jeffrey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fwz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I’ve seen this happen personally and seen it reported elsewhere too. I know Marie Haynes has covered it.\n\nFrom what I’ve seen, there’s no explanation for why this is happening."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U024K88ECFN",
+                    "UJG24P8P6",
+                    "UUH2ESL66"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fcc547f-4e8c-4666-8b20-faaf3a2000af",
+        "type": "message",
+        "text": "Well, at least I'm not losing my mind, I suppose? Ha!",
+        "user": "U024K88ECFN",
+        "ts": "1641242508.438300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CaX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, at least I'm not losing my mind, I suppose? Ha!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "f1029dcb-fd25-47e5-ab21-208ea6648457",
+        "type": "message",
+        "text": "No, it’s not you :slightly_smiling_face: But still frustrating!",
+        "user": "U02R3S1RBUL",
+        "ts": "1641242635.438500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f8e73f8fe32c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2849222050903_f8e73f8fe32c8b51b060_72.jpg",
+            "first_name": "Jeffrey",
+            "real_name": "Jeffrey Trull",
+            "display_name": "Jeffrey Trull",
+            "team": "TJE58GTJL",
+            "name": "jeffrey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hj4B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, it’s not you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " But still frustrating!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN",
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a8bb8d0-e24e-4470-a1f2-d3bed8c3025d",
+        "type": "message",
+        "text": "I've seen that happen with a couple of pages, and we fit the same profile of site. My approach has been to throw in a few more internal links and cross my fingers. #science",
+        "user": "UUKNRAD4Z",
+        "ts": "1641249877.438700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7a1b61d04207",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/972261198097_7a1b61d0420706ec2439_72.jpg",
+            "first_name": "MattM",
+            "real_name": "MattM",
+            "display_name": "MattM",
+            "team": "TJE58GTJL",
+            "name": "mcgma709",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've seen that happen with a couple of pages, and we fit the same profile of site. My approach has been to throw in a few more internal links and cross my fingers. #science"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5C614C24-9640-449F-8E3B-929981333D51",
+        "type": "message",
+        "text": "I have this issue with my primary site, and I've seen a lot of commentary on this within a couple SEO slack channels. No idea why it's happening but you're not alone! ",
+        "user": "U02A8UR3Z60",
+        "ts": "1641254202.440200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oPu5U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have this issue with my primary site, and I've seen a lot of commentary on this within a couple SEO slack channels. No idea why it's happening but you're not alone! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a6bcfef-c735-4cb8-a8cb-9bdc7e3a1555",
+        "type": "message",
+        "text": "Oof. Okay, well, I do feel better knowing it's a common issue. And <@UUKNRAD4Z> I have definitely seen that requesting indexing from GSC tends to work (at least once a few weeks have passed).",
+        "user": "U024K88ECFN",
+        "ts": "1641254716.440700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "esEYk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oof. Okay, well, I do feel better knowing it's a common issue. And "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUKNRAD4Z"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have definitely seen that requesting indexing from GSC tends to work (at least once a few weeks have passed)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUKNRAD4Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d37b424a-8eb4-4025-8ef8-72813b3063ce",
+        "type": "message",
+        "text": "Also happened to me! Thought it was a crawl budget issue (which you may want to check too)",
+        "user": "UJG24P8P6",
+        "ts": "1641256743.441100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cb\/xj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also happened to me! Thought it was a crawl budget issue (which you may want to check too)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "9cfaeba4-ee8a-4c87-8e2e-ca121f9c4102",
+        "type": "message",
+        "text": "Yep! For the past 2 months, we have been facing this. I even posted on the Search Console community only to get “standard” best practices.\n\nAnd, the best part (pun intended)? I have tried all the best practices – it’s not working.",
+        "user": "U012GHRAHDK",
+        "ts": "1641274788.441300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U012GHRAHDK",
+            "ts": "1641274963.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zBBqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep! For the past 2 months, we have been facing this. I even posted on the Search Console community only to get “standard” best practices.\n\nAnd, the best part (pun intended)? I have tried all the best practices – it’s not working."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "3455c8dd-6012-4ff0-b17c-5960210c4370",
+        "type": "message",
+        "text": "More links for references:\n\n• <https:\/\/support.google.com\/webmasters\/thread\/141350805\/all-new-posts-pages-going-to-discovered-currently-not-indexed-for-the-past-40-days?hl=en&amp;msgid=141425817|From the official community>\n• <https:\/\/www.seroundtable.com\/google-discovered-currently-not-indexed-help-26697.html|From Google (via John Mueller)>",
+        "user": "U012GHRAHDK",
+        "ts": "1641274873.441500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.seroundtable.com\/google-discovered-currently-not-indexed-help-26697.html",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/images.seroundtable.com\/google-shoes-1542633300.jpg",
+                "thumb_width": 640,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/www.seroundtable.com\/favicon32.png",
+                "id": 1,
+                "original_url": "https:\/\/www.seroundtable.com\/google-discovered-currently-not-indexed-help-26697.html",
+                "fallback": "seroundtable.com: Google Discovered But Currently Not Indexed Help",
+                "text": "In Google Search Console, did you ever see the",
+                "title": "Google Discovered But Currently Not Indexed Help",
+                "title_link": "https:\/\/www.seroundtable.com\/google-discovered-currently-not-indexed-help-26697.html",
+                "service_name": "seroundtable.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K4lT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More links for references:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/support.google.com\/webmasters\/thread\/141350805\/all-new-posts-pages-going-to-discovered-currently-not-indexed-for-the-past-40-days?hl=en&msgid=141425817",
+                                        "text": "From the official community"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.seroundtable.com\/google-discovered-currently-not-indexed-help-26697.html",
+                                        "text": "From Google (via John Mueller)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641239066.437500",
+        "parent_user_id": "U024K88ECFN"
+    }
+]

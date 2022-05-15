@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "a0ee3f47-1c17-4989-8688-938d20ad0add",
+        "type": "message",
+        "text": "Hello <@U022WPACV4L>, I'm interested. Kindly check your DM. I look forward to working with the team.",
+        "user": "U02D5S9RHMF",
+        "ts": "1639840868.122100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e18fb28dc8d4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-04\/2450050357542_e18fb28dc8d4edd1bbaf_72.jpg",
+            "first_name": "John",
+            "real_name": "John Oladokun Opeyemi",
+            "display_name": "John Oladokun Opeyemi",
+            "team": "TJE58GTJL",
+            "name": "op.oladokun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8vQX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022WPACV4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I'm interested. Kindly check your DM. I look forward to working with the team."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639615626.117800"
+    },
+    {
+        "client_msg_id": "2A209EA7-0CFC-406C-9780-CBAD84FC5A35",
+        "type": "message",
+        "text": "<@U02PUQ6M16V> ",
+        "user": "UJEUM7NQ4",
+        "ts": "1639897721.122600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g440ec89dc34",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/83440ec89dc34eec191e2d01dc26412a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Cassandranaji",
+            "display_name": "Cassandranaji",
+            "team": "TJE58GTJL",
+            "name": "cassandranaji",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zAXz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PUQ6M16V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639598129.117300",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02PUQ6M16V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

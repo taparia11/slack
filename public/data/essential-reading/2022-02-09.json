@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "00d90951-32bc-4fe2-8025-56cd1c0c70b9",
+        "type": "message",
+        "text": "I read it on LinkedIn and recommend it :smile:",
+        "user": "U02GLJM8MST",
+        "ts": "1644422629.907649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbb2e32aabd3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bb2e32aabd3787f0def01233ddfb6434.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Iliya",
+            "real_name": "Iliya Valchanov",
+            "display_name": "Iliya Valchanov",
+            "team": "TJE58GTJL",
+            "name": "iliya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V6Y7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I read it on LinkedIn and recommend it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644253279.615729",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "cdd2b516-bd86-40c0-9101-a63a8fa74205",
+        "type": "message",
+        "text": "<@U02GLJM8MST> hell yeah! :rocket:",
+        "user": "U019P0ADPCH",
+        "ts": "1644478867.758659",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8TsJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02GLJM8MST"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hell yeah! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644253279.615729",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02GLJM8MST"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

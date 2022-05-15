@@ -1,0 +1,416 @@
+[
+    {
+        "client_msg_id": "35f7c67c-a6b5-4ed7-b6ab-7367fe0b230e",
+        "type": "message",
+        "text": "hey folks! i'll remove this post. <@U01K3VD3154> you can post in <#CKRJX5U5A|guest-posts> if there's a guest post opportunity. otherwise, no link swaps per the community guidelines",
+        "user": "UJG9WTEKG",
+        "ts": "1643043753.139800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xwz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey folks! i'll remove this post. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01K3VD3154"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you can post in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKRJX5U5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if there's a guest post opportunity. otherwise, no link swaps per the community guidelines"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642847418.133800",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01K3VD3154"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "here are the community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "user": "USLACKBOT",
+        "ts": "1643043754.140000",
+        "thread_ts": "1642847418.133800",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "b050e262-92dc-47f0-9278-614aab624749",
+        "type": "message",
+        "text": "Has anyone else seen some serious keyword volatility over the past 3-4 days? We had 300+ keywords take a hit over the weekend...",
+        "user": "U02VAB2TQ2D",
+        "ts": "1643045500.141400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "643c0c0b809d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2982585709365_643c0c0b809d440d04c8_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa Zehner",
+            "display_name": "Melissa Zehner",
+            "team": "TJE58GTJL",
+            "name": "melissa525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone else seen some serious keyword volatility over the past 3-4 days? We had 300+ keywords take a hit over the weekend..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643045500.141400",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1643055080.144700",
+        "reply_users": [
+            "U02UNK5748M",
+            "U0192P2G8F5",
+            "U02VAB2TQ2D"
+        ],
+        "replies": [
+            {
+                "user": "U02UNK5748M",
+                "ts": "1643046520.141500"
+            },
+            {
+                "user": "U02UNK5748M",
+                "ts": "1643046612.141700"
+            },
+            {
+                "user": "U0192P2G8F5",
+                "ts": "1643051055.144200"
+            },
+            {
+                "user": "U02VAB2TQ2D",
+                "ts": "1643055070.144500"
+            },
+            {
+                "user": "U02VAB2TQ2D",
+                "ts": "1643055080.144700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02GLJM8MST"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd8eb565-fb4c-4476-9983-104c27a0efff",
+        "type": "message",
+        "text": "I've had major volatility over the last few days as well. It's only been with desktop, mobile has been holding steady.",
+        "user": "U02UNK5748M",
+        "ts": "1643046520.141500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gf2eddd3702c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2eddd3702c12620de3ba1ad337d8433.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Croft",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "gofastparts",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P16",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've had major volatility over the last few days as well. It's only been with desktop, mobile has been holding steady."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643045500.141400",
+        "parent_user_id": "U02VAB2TQ2D"
+    },
+    {
+        "client_msg_id": "e03e4ea7-721a-4bd6-ae31-6221c02c1eba",
+        "type": "message",
+        "text": "From Semrush on the 19th: *\"Semrush Sensor shows Very High activity for the US desktop database\"*",
+        "user": "U02UNK5748M",
+        "ts": "1643046612.141700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gf2eddd3702c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f2eddd3702c12620de3ba1ad337d8433.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Croft",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "gofastparts",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From Semrush on the 19th:"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \"Semrush Sensor shows Very High activity for the US desktop database\"",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643045500.141400",
+        "parent_user_id": "U02VAB2TQ2D"
+    },
+    {
+        "client_msg_id": "B2DC45BD-D6D9-46D2-B1ED-7BDCB42911F9",
+        "type": "message",
+        "text": "Wonder if it's related to what Callahan Peel posted in this channel last week- 20 page 1 results being tested for desktop",
+        "user": "U0192P2G8F5",
+        "ts": "1643051055.144200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f2e0b48d2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1293898117559_26f2e0b48d2a48775c08_72.jpg",
+            "first_name": "Misty",
+            "real_name": "Misty Harper",
+            "display_name": "Misty Harper",
+            "team": "TJE58GTJL",
+            "name": "mharpersem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=YyLa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wonder if it's related to what Callahan Peel posted in this channel last week- 20 page 1 results being tested for desktop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643045500.141400",
+        "parent_user_id": "U02VAB2TQ2D",
+        "reactions": [
+            {
+                "name": "brain",
+                "users": [
+                    "U02VAB2TQ2D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb01c116-283e-4d05-a7a1-a090ef0081e4",
+        "type": "message",
+        "text": "Oooh, interesting take, Misty! And yes, desktop is where the volatility is for sure. :grimacing:",
+        "user": "U02VAB2TQ2D",
+        "ts": "1643055070.144500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "643c0c0b809d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2982585709365_643c0c0b809d440d04c8_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa Zehner",
+            "display_name": "Melissa Zehner",
+            "team": "TJE58GTJL",
+            "name": "melissa525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oooh, interesting take, Misty! And yes, desktop is where the volatility is for sure. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643045500.141400",
+        "parent_user_id": "U02VAB2TQ2D"
+    },
+    {
+        "client_msg_id": "d9d5320e-b0c6-4475-b819-13d09a7519f8",
+        "type": "message",
+        "text": "Glad I'm not the only one-? lol",
+        "user": "U02VAB2TQ2D",
+        "ts": "1643055080.144700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "643c0c0b809d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2982585709365_643c0c0b809d440d04c8_72.jpg",
+            "first_name": "Melissa",
+            "real_name": "Melissa Zehner",
+            "display_name": "Melissa Zehner",
+            "team": "TJE58GTJL",
+            "name": "melissa525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Glad I'm not the only one-? lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643045500.141400",
+        "parent_user_id": "U02VAB2TQ2D"
+    },
+    {
+        "client_msg_id": "9d97fdb7-34eb-4ae3-b63f-53e5c00a2102",
+        "type": "message",
+        "text": "Thank you all for your answers. Very illuminating. I initially thought to leave them as well, but after 1 year of working on the website, the results are very slow. That might be a consequence of other factors as well though so I guess I'll just have to try other things.",
+        "user": "U02GY5WTFQU",
+        "ts": "1643092911.145300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "db2f8c78b653",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-08\/2815909637284_db2f8c78b6538451ee73_72.png",
+            "first_name": "Bogdan",
+            "real_name": "Bogdan Petre Minuț",
+            "display_name": "Bogdan Petre Minuț",
+            "team": "TJE58GTJL",
+            "name": "bogdan328",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ys3OP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you all for your answers. Very illuminating. I initially thought to leave them as well, but after 1 year of working on the website, the results are very slow. That might be a consequence of other factors as well though so I guess I'll just have to try other things."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642762403.114700",
+        "parent_user_id": "U02GY5WTFQU"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "c1187a3d-bcf3-41dc-bd8b-c5592723e1ed",
+        "type": "message",
+        "text": "GREAT catch",
+        "user": "UUXMCJQ15",
+        "ts": "1591843773.076700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MrUl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GREAT catch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591650466.070000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "704cfad9-a552-41a8-aa10-432e6f77c4ab",
+        "type": "message",
+        "text": "Thanks for your generosity in explaining it <@UUVRCGJV6>.",
+        "user": "UUXMCJQ15",
+        "ts": "1591843794.076900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXMCJQ15",
+            "ts": "1591843886.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KR0Gc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for your generosity in explaining it "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUVRCGJV6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591650466.070000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "UUVRCGJV6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

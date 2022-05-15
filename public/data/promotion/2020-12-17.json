@@ -1,0 +1,447 @@
+[
+    {
+        "client_msg_id": "d4a325e8-1143-42b1-a4b3-e5f33c926d97",
+        "type": "message",
+        "text": "Great article, <@U014PRHQUQ2>",
+        "user": "U01EB7M4REJ",
+        "ts": "1608212961.237400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "639d5c928d95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1493705625270_639d5c928d95d809a048_72.jpg",
+            "first_name": "John",
+            "real_name": "John Yarbrough",
+            "display_name": "John Yarbrough",
+            "team": "TJE58GTJL",
+            "name": "yarbrough.johnrichard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3uv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great article, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606319849.175900",
+        "parent_user_id": "U014PRHQUQ2"
+    },
+    {
+        "client_msg_id": "86b0af98-ec1f-4843-a77c-bc8a4c8a45ae",
+        "type": "message",
+        "text": "Thanks <@U01EB7M4REJ>!",
+        "user": "U014PRHQUQ2",
+        "ts": "1608214506.238600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HLn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EB7M4REJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606319849.175900",
+        "parent_user_id": "U014PRHQUQ2"
+    },
+    {
+        "client_msg_id": "1fd7d623-8cdd-4fb0-89b8-59ab20864392",
+        "type": "message",
+        "text": "We just dropped our <https:\/\/webflow.com\/year-in-review\/2020|Year in Review> site for Webflow. I love year in review sites. What other ones have you all seen this year that you liked?\n\n(it was a challenge to frame it this year in light of **_gestures**_ everything)",
+        "user": "U01DE3REJUC",
+        "ts": "1608232372.241700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9f170d9ea937",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-20\/3126124486838_9f170d9ea937de1692b5_72.png",
+            "first_name": "Mischa",
+            "real_name": "Mischa Vaughn",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mischasinbox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01DE3REJUC",
+            "ts": "1608232379.000000"
+        },
+        "attachments": [
+            {
+                "title": "Webflow in 2020",
+                "title_link": "https:\/\/webflow.com\/year-in-review\/2020",
+                "text": "It’s been the longest year, but here is a list of what we are grateful for in 2020.",
+                "fallback": "Webflow in 2020",
+                "image_url": "https:\/\/assets.website-files.com\/5fce83e8a9b385cc18916df8\/5fda2c8599d26d922fde5012_EOY-OG-Final_v2.jpg",
+                "from_url": "https:\/\/webflow.com\/year-in-review\/2020",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 105217,
+                "service_icon": "https:\/\/webflow.com\/favicon.ico",
+                "service_name": "webflow.com",
+                "id": 1,
+                "original_url": "https:\/\/webflow.com\/year-in-review\/2020"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B8UJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We just dropped our "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/webflow.com\/year-in-review\/2020",
+                                "text": "Year in Review"
+                            },
+                            {
+                                "type": "text",
+                                "text": " site for Webflow. I love year in review sites. What other ones have you all seen this year that you liked?\n\n(it was a challenge to frame it this year in light of **"
+                            },
+                            {
+                                "type": "text",
+                                "text": "gestures** ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "everything)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608232372.241700",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1608594165.246400",
+        "reply_users": [
+            "U01H58AMEAD",
+            "U01DE3REJUC",
+            "U019LRFAC7Q",
+            "U019P0ADPCH",
+            "U01GSR8FQSX"
+        ],
+        "replies": [
+            {
+                "user": "U01H58AMEAD",
+                "ts": "1608233108.242100"
+            },
+            {
+                "user": "U01DE3REJUC",
+                "ts": "1608233718.242500"
+            },
+            {
+                "user": "U019LRFAC7Q",
+                "ts": "1608242698.243000"
+            },
+            {
+                "user": "U01DE3REJUC",
+                "ts": "1608246995.243800"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1608485871.244400"
+            },
+            {
+                "user": "U01GSR8FQSX",
+                "ts": "1608594165.246400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01H87WF448",
+                    "U01H58AMEAD",
+                    "U012GHRAHDK",
+                    "U01FUP6AMEZ",
+                    "URL9Z88MR",
+                    "U017M677P18"
+                ],
+                "count": 6
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U014QJ54630",
+                    "U01GSR8FQSX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01A4DV8W0J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0212475d-8775-45fc-98e4-621fc02fb20f",
+        "type": "message",
+        "text": "<@U01DE3REJUC> congrats. This is very well done. It made me feel good about 2020 :slightly_smiling_face: and think happy thoughts for a few minutes :clap:",
+        "user": "U01H58AMEAD",
+        "ts": "1608233108.242100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aa39c35317a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-14\/1570897356021_aa39c35317a949f9c6d7_72.jpg",
+            "first_name": "Jonas",
+            "real_name": "Jonas Fischer",
+            "display_name": "joNas",
+            "team": "TJE58GTJL",
+            "name": "jonas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vmV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01DE3REJUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " congrats. This is very well done. It made me feel good about 2020 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and think happy thoughts for a few minutes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608232372.241700",
+        "parent_user_id": "U01DE3REJUC"
+    },
+    {
+        "client_msg_id": "8e77a4c3-5fb5-4745-9b61-598dc709eea1",
+        "type": "message",
+        "text": "thanks <@U01H58AMEAD>!",
+        "user": "U01DE3REJUC",
+        "ts": "1608233718.242500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9f170d9ea937",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-20\/3126124486838_9f170d9ea937de1692b5_72.png",
+            "first_name": "Mischa",
+            "real_name": "Mischa Vaughn",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mischasinbox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CjWM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01H58AMEAD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608232372.241700",
+        "parent_user_id": "U01DE3REJUC"
+    },
+    {
+        "client_msg_id": "293e0fd2-36df-4d52-81b5-edf2be390d4b",
+        "type": "message",
+        "text": "<@U01DE3REJUC> You've got to tell us the story behind the intermission! It's beautiful, thank you for sharing :slightly_smiling_face:",
+        "user": "U019LRFAC7Q",
+        "ts": "1608242698.243000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "eb94b137d9fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-31\/1333802808755_eb94b137d9fd1075a8c8_72.jpg",
+            "first_name": "",
+            "real_name": "Cyndy Willis-Chun",
+            "display_name": "Cyndy Willis-Chun",
+            "team": "TJE58GTJL",
+            "name": "cyndy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7CJqy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01DE3REJUC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You've got to tell us the story behind the intermission! It's beautiful, thank you for sharing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608232372.241700",
+        "parent_user_id": "U01DE3REJUC"
+    },
+    {
+        "client_msg_id": "A09C55E3-7671-44AA-93D9-2CB0088E2EBE",
+        "type": "message",
+        "text": "<@U019LRFAC7Q> an idea from a designer and we love baby yoda. Do I have to say more?",
+        "user": "U01DE3REJUC",
+        "ts": "1608246995.243800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9f170d9ea937",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-20\/3126124486838_9f170d9ea937de1692b5_72.png",
+            "first_name": "Mischa",
+            "real_name": "Mischa Vaughn",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mischasinbox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3hQd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U019LRFAC7Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " an idea from a designer and we love baby yoda. Do I have to say more?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608232372.241700",
+        "parent_user_id": "U01DE3REJUC",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U019LRFAC7Q",
+                    "URL9Z88MR"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

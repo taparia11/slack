@@ -1,0 +1,152 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1641215844.144200",
+        "thread_ts": "1641215844.144200",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1641260599.145500",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02S47AR41E"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1641235588.145100"
+            },
+            {
+                "user": "U02S47AR41E",
+                "ts": "1641260599.145500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1641260599.145500"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*A Network for Grateful Living is hiring a Content Strategist (Hadley, MA, USA)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/221652-content-strategist>",
+        "ts": "1641227739.144900",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "thread_ts": "1641227739.144900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1641348939.150700",
+        "reply_users": [
+            "U02TDTBU2PJ",
+            "U02Q8U5T7TP"
+        ],
+        "replies": [
+            {
+                "user": "U02TDTBU2PJ",
+                "ts": "1641333477.150400"
+            },
+            {
+                "user": "U02Q8U5T7TP",
+                "ts": "1641348939.150700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8def0516-47da-4c5f-831d-74b1af1c614e",
+        "type": "message",
+        "text": "hi <@U02S47AR41E> just heads up this channel is just a feed from the job board",
+        "user": "UJG9WTEKG",
+        "ts": "1641235588.145100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02S47AR41E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just heads up this channel is just a feed from the job board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641215844.144200",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "1acfb474-b1b2-4a90-b51f-92dedc272970",
+        "type": "message",
+        "text": "Ah! Got you I’ll do it that way, thanks in advance.",
+        "user": "U02S47AR41E",
+        "ts": "1641260599.145500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3e23b909ddc3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-20\/2877164726417_3e23b909ddc3742da446_72.jpg",
+            "first_name": "Linette",
+            "real_name": "Linette Gomez",
+            "display_name": "Linette Gomez",
+            "team": "TJE58GTJL",
+            "name": "linette.gomez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kaqGS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah! Got you I’ll do it that way, thanks in advance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641215844.144200",
+        "parent_user_id": "USLACKBOT"
+    }
+]

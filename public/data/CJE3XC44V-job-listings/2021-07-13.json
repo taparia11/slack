@@ -1,0 +1,428 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Crossbeam is hiring a Content Marketing Manager* :rocket:\n\n*To learn more, check out their listing on the job board:* <https:\/\/jobs.superpath.co\/job\/131310-content-marketing-manager>",
+        "ts": "1626183224.096700",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "thread_ts": "1626183224.096700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1626296109.105200",
+        "reply_users": [
+            "UJE5LQ2JC",
+            "UKAK6J1NY"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1626277715.102400"
+            },
+            {
+                "user": "UKAK6J1NY",
+                "ts": "1626296109.105200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UJE5LQ2JC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1626190409.097900",
+        "thread_ts": "1626190409.097900",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1626202896.100400",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U016Q3T877S"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1626200250.099400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1626200263.099600"
+            },
+            {
+                "user": "U016Q3T877S",
+                "ts": "1626200696.100000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1626202896.100400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626202896.100400"
+    },
+    {
+        "client_msg_id": "f36f97c9-1e85-4001-8975-bd34529b4bd0",
+        "type": "message",
+        "text": "<@U016Q3T877S> mind posting this in <#C021RFDHEMD|all-things-freelance>?",
+        "user": "UJG9WTEKG",
+        "ts": "1626200250.099400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sQOtT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016Q3T877S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mind posting this in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C021RFDHEMD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190409.097900",
+        "parent_user_id": "U016Q3T877S"
+    },
+    {
+        "client_msg_id": "c6d8a634-1be6-4e3c-8c13-d4b3e379e111",
+        "type": "message",
+        "text": "will remove from here. this is just a feed from the job board.",
+        "user": "UJG9WTEKG",
+        "ts": "1626200263.099600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will remove from here. this is just a feed from the job board."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190409.097900",
+        "parent_user_id": "U016Q3T877S",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U016Q3T877S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81b07306-ee4e-494c-a103-b1ed4fbaab9d",
+        "type": "message",
+        "text": "Can you give me access to that channel?",
+        "user": "U016Q3T877S",
+        "ts": "1626200696.100000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d5269f0e0f10",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-25\/1229969750768_d5269f0e0f10973b520c_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Barrett",
+            "display_name": "Andrew Barrett",
+            "team": "TJE58GTJL",
+            "name": "andrewbarrett254",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lWfC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you give me access to that channel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190409.097900",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "c9aaaac2-ff80-4b1c-9e01-ecc29c4b63d4",
+        "type": "message",
+        "text": "done!",
+        "user": "UJG9WTEKG",
+        "ts": "1626202896.100400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOVD6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "done!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190409.097900",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Pry is hiring a Finance Content Writer* :rocket:\n\n*To learn more, check out their listing on the job board:* <https:\/\/jobs.superpath.co\/job\/131489-finance-content-writer>",
+        "ts": "1626213034.100600",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Advance B2B is hiring a SaaS Content Marketing Strategist* :rocket:\n\n*To learn more, check out their listing on the job board:* <https:\/\/jobs.superpath.co\/job\/131732-saas-content-marketing-strategist>",
+        "ts": "1626244945.100700",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "thread_ts": "1626244945.100700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1626257690.101900",
+        "reply_users": [
+            "UJFE71U21",
+            "U02280S1Q8P"
+        ],
+        "replies": [
+            {
+                "user": "UJFE71U21",
+                "ts": "1626245497.101600"
+            },
+            {
+                "user": "U02280S1Q8P",
+                "ts": "1626257690.101900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "UJFE71U21",
+                    "UJG9WTEKG",
+                    "UQ3Q7SQ6A"
+                ],
+                "count": 3
+            },
+            {
+                "name": "mega",
+                "users": [
+                    "UJFE71U21",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "UJFE71U21",
+                    "U0170B9JA2C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "UJFE71U21",
+                    "U02280S1Q8P"
+                ],
+                "count": 2
+            },
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "UJFE71U21"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "UJFE71U21",
+                    "U024D3CP77U"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "UJFE71U21"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flag-fi",
+                "users": [
+                    "UJFE71U21"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6689c05d-a9cb-4b66-81e6-a6e1e65bed1f",
+        "type": "message",
+        "text": "For any questions about this, me and <@U02280S1Q8P> are here to help :wave: :blush:",
+        "user": "UJFE71U21",
+        "ts": "1626245497.101600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7575fca5e1d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-12\/2256439682582_7575fca5e1d64965b007_72.jpg",
+            "first_name": "Sari",
+            "real_name": "Sari Venäläinen",
+            "display_name": "Sari Venäläinen",
+            "team": "TJE58GTJL",
+            "name": "sari",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6sR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For any questions about this, me and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02280S1Q8P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are here to help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626244945.100700"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557047087.000200",
+        "user": "UJ36Q2ZRQ",
+        "text": "<@UJ36Q2ZRQ> has joined the channel"
+    },
+    {
+        "client_msg_id": "9e9bddd4-4783-40ea-9ac7-ba9b4f85e26d",
+        "type": "message",
+        "text": "Hey :wave: I'm Kym, I head up marketing at <http:\/\/Ghost.org|Ghost.org> while travelling full-time!",
+        "user": "UJ36Q2ZRQ",
+        "ts": "1557047168.001100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb8e98952305",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65b8e98952305f0ae0f90c7439718680.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Kym",
+            "real_name": "Kym Ellis",
+            "display_name": "Kym",
+            "team": "TJE58GTJL",
+            "name": "kym",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "UJG9WTEKG",
+                    "UJFCX0N3X",
+                    "UJ4QFBMU2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557086421.000200",
+        "user": "UJENVKC77",
+        "text": "<@UJENVKC77> has joined the channel"
+    },
+    {
+        "client_msg_id": "294662c5-f0dc-470e-994c-be947a652585",
+        "type": "message",
+        "text": "Hi!!! I’m a VP, Creative at a content marketing agency where I once used to work side-by-side with <@UJG9WTEKG>. Saw his tweet about this community he created and thought I’d check it out!",
+        "user": "UJENVKC77",
+        "ts": "1557086539.001000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e5c0244cbf51",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-05\/628983397622_e5c0244cbf51cf3f70f3_72.jpg",
+            "first_name": "Ricky",
+            "real_name": "Ricky Ribeiro",
+            "display_name": "Ricky Ribeiro",
+            "team": "TJE58GTJL",
+            "name": "ricky.ribeiro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557086539.001000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1557243570.025100",
+        "reply_users": [
+            "UJG9WTEKG",
+            "UJENVKC77"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1557157128.003700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1557157157.003900"
+            },
+            {
+                "user": "UJENVKC77",
+                "ts": "1557243570.025100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1557243570.025100"
+    }
+]

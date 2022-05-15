@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "7a53e06d-197c-4cb7-8288-45e2c0f054ab",
+        "type": "message",
+        "text": "If you have FTP access, you can go into the \/plugins\/ directory of WordPress, and just rename the Yoast folder - like just add a number or something.\n\nThat will disable the plugin so you should then be able to access everything again - provided the plugin is the cause.\n\nYou can then uninstall and reinstall.",
+        "user": "U0107Q25BRT",
+        "ts": "1593900290.135200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7f4131e47586",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-16\/3246028628310_7f4131e47586ddac13f6_72.jpg",
+            "first_name": "Charles",
+            "real_name": "Charles Costa",
+            "display_name": "Charles Costa",
+            "team": "TJE58GTJL",
+            "name": "charles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0107Q25BRT",
+            "ts": "1593900322.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "10JRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have FTP access, you can go into the \/plugins\/ directory of WordPress, and just rename the Yoast folder - like just add a number or something.\n\nThat will disable the plugin so you should then be able to access everything again - provided the plugin is the cause.\n\nYou can then uninstall and reinstall."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593531143.126700",
+        "parent_user_id": "U010JU2GTND"
+    }
+]

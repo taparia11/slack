@@ -1,0 +1,282 @@
+[
+    {
+        "client_msg_id": "224c4a02-3dea-4275-a177-eee34287eb70",
+        "type": "message",
+        "text": "I would love a nice <https:\/\/bocogear.com\/custom-technical-trucker-hats\/|running trucker hat>",
+        "user": "U01GGQMG6HW",
+        "ts": "1634305257.219400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "452a7d7f7d7b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-30\/1537252225731_452a7d7f7d7b0e461def_72.jpg",
+            "first_name": "Drew",
+            "real_name": "Drew Deubner",
+            "display_name": "Drew Deubner",
+            "team": "TJE58GTJL",
+            "name": "ddeubner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BOCO Gear Custom Hats and Athletic Gear",
+                "title": "Custom Technical Trucker Hats - BOCO Gear Custom Hats and Athletic Gear",
+                "title_link": "https:\/\/bocogear.com\/custom-technical-trucker-hats\/",
+                "fallback": "BOCO Gear Custom Hats and Athletic Gear: Custom Technical Trucker Hats - BOCO Gear Custom Hats and Athletic Gear",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "13 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/bocogear.com\/custom-technical-trucker-hats\/",
+                "service_icon": "https:\/\/bocogear.com\/wp-content\/uploads\/2021\/08\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/bocogear.com\/custom-technical-trucker-hats\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+8gT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would love a nice "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bocogear.com\/custom-technical-trucker-hats\/",
+                                "text": "running trucker hat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634143110.204300",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "8a22720c-1a67-4446-b25c-943b348ae885",
+        "type": "message",
+        "text": "I'm in a bit of a bind with Asana. Right now, we manage all content output with Asana, and I have a company-facing GCal set up where I manually plot out what's going live that week. Of course, deadlines shift, things don't go live, and people are confused.\n\nI want to sync _just the publish dates_ from an Asana board to a GCal. <https:\/\/asana.com\/guide\/help\/api\/calendar-sync|This seems possible>, but I don't want all the behind-the-scenes steps (write, edit, design, etc) to end up on the calendar—just what's going live for the week.",
+        "user": "U01GGQMG6HW",
+        "ts": "1634305515.222700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "452a7d7f7d7b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-30\/1537252225731_452a7d7f7d7b0e461def_72.jpg",
+            "first_name": "Drew",
+            "real_name": "Drew Deubner",
+            "display_name": "Drew Deubner",
+            "team": "TJE58GTJL",
+            "name": "ddeubner",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wbLW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in a bit of a bind with Asana. Right now, we manage all content output with Asana, and I have a company-facing GCal set up where I manually plot out what's going live that week. Of course, deadlines shift, things don't go live, and people are confused.\n\nI want to sync "
+                            },
+                            {
+                                "type": "text",
+                                "text": "just the publish dates",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " from an Asana board to a GCal. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/asana.com\/guide\/help\/api\/calendar-sync",
+                                "text": "This seems possible"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", but I don't want all the behind-the-scenes steps (write, edit, design, etc) to end up on the calendar—just what's going live for the week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634305515.222700",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1634665212.238500",
+        "reply_users": [
+            "U016BDEQ40J",
+            "U01EB7M4REJ",
+            "U01GGQMG6HW"
+        ],
+        "replies": [
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1634325912.224900"
+            },
+            {
+                "user": "U01EB7M4REJ",
+                "ts": "1634334237.225100"
+            },
+            {
+                "user": "U01GGQMG6HW",
+                "ts": "1634665212.238500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0216EN5J80"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c00563c-f415-4f6d-9348-429ac713d01c",
+        "type": "message",
+        "text": "oh i love these hats",
+        "user": "UJG9WTEKG",
+        "ts": "1634312944.224300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vtucb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh i love these hats"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634143110.204300",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "2ec6b821-3e33-45a3-b939-6cc14e911239",
+        "type": "message",
+        "text": "I set up a Zapier step where a task and task date only gets pushed to Gcal if a specific task has a specific tag “On Calendar.” I don’t apply that tag to my subtask only the parent task.",
+        "user": "U016BDEQ40J",
+        "ts": "1634325912.224900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tN7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I set up a Zapier step where a task and task date only gets pushed to Gcal if a specific task has a specific tag “On Calendar.” I don’t apply that tag to my subtask only the parent task."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634305515.222700",
+        "parent_user_id": "U01GGQMG6HW"
+    },
+    {
+        "client_msg_id": "2b27ede0-5189-477e-b92d-e57c13fd4674",
+        "type": "message",
+        "text": "^ we use Wrike but had the same issue, which we resolved using Patrick’s workaround. It’s not perfect but gets the job done",
+        "user": "U01EB7M4REJ",
+        "ts": "1634334237.225100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "639d5c928d95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1493705625270_639d5c928d95d809a048_72.jpg",
+            "first_name": "John",
+            "real_name": "John Yarbrough",
+            "display_name": "John Yarbrough",
+            "team": "TJE58GTJL",
+            "name": "yarbrough.johnrichard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01EB7M4REJ",
+            "ts": "1634334259.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "omH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^ we use Wrike but had the same issue, which we resolved using Patrick’s workaround. It’s not perfect but gets the job done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634305515.222700",
+        "parent_user_id": "U01GGQMG6HW"
+    }
+]

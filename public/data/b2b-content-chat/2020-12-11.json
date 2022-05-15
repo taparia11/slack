@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "9960ebe6-eb94-476c-880e-b6ef6cd60f81",
+        "type": "message",
+        "text": "This is great! Just subscribed :love_letter:",
+        "user": "UJ2MPBP7V",
+        "ts": "1607714383.099300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c52e31dec26d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-03\/628025237031_c52e31dec26d7abfd5dd_72.jpg",
+            "first_name": "Janet",
+            "real_name": "Janet Choi",
+            "display_name": "Janet",
+            "team": "TJE58GTJL",
+            "name": "janet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YEt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is great! Just subscribed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "love_letter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607528924.095300",
+        "parent_user_id": "U017WRJTKF1"
+    },
+    {
+        "client_msg_id": "8a6cb03b-0203-4a1a-b79a-c86da75888e2",
+        "type": "message",
+        "text": "<@U01FUP6AMEZ> and <@UJ2MPBP7V>, yay!",
+        "user": "U017WRJTKF1",
+        "ts": "1607720442.099700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZBdlV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01FUP6AMEZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ2MPBP7V"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", yay!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607528924.095300",
+        "parent_user_id": "U017WRJTKF1"
+    }
+]

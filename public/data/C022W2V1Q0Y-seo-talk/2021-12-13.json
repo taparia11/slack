@@ -1,0 +1,287 @@
+[
+    {
+        "client_msg_id": "FB643C1E-8488-445B-B1AB-621FA9FE37C9",
+        "type": "message",
+        "text": "I wouldn't recommend going with anything that doesn't live on a site that you own. Wordpress is free once you set up hosting and your domain, so I would recommend going that route.",
+        "user": "U02A8UR3Z60",
+        "ts": "1639398299.363700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PLevy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn't recommend going with anything that doesn't live on a site that you own. Wordpress is free once you set up hosting and your domain, so I would recommend going that route."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639220964.357100",
+        "parent_user_id": "U02CUMQBP9R",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02PSQ1PMUN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c545d63-5799-47d7-bcce-ecab60fd92d5",
+        "type": "message",
+        "text": "Hello. Question for everyone who is smarter than me at SEO:\n\nI have a page on my website that I 301 redirected about a year ago because the URL was changed. Now, the page's old URL is causing problems with the site's internal linking health. Should I permanently redirect the page in the sitemap to remove the old URL completely? There is not much traffic that comes from the old URL (if any at all). But some people might have it bookmarked so they'd be 401'ed.\n\nAlternatively, if anyone knows how I can go edit the page of a redirected URL in Craft CMS, that would help too. Thanks in advance!",
+        "user": "U023Q8E7MNE",
+        "ts": "1639425519.373000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d10b67c0be5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-09\/2154037287843_d10b67c0be5fd16cb51e_72.jpg",
+            "first_name": "Rachel",
+            "real_name": "Rachel Cribby",
+            "display_name": "Rachel Cribby she\/her (EST)",
+            "team": "TJE58GTJL",
+            "name": "rachelcribby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hdkk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello. Question for everyone who is smarter than me at SEO:\n\nI have a page on my website that I 301 redirected about a year ago because the URL was changed. Now, the page's old URL is causing problems with the site's internal linking health. Should I permanently redirect the page in the sitemap to remove the old URL completely? There is not much traffic that comes from the old URL (if any at all). But some people might have it bookmarked so they'd be 401'ed.\n\nAlternatively, if anyone knows how I can go edit the page of a redirected URL in Craft CMS, that would help too. Thanks in advance!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639425519.373000",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1639431951.376100",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U023Q8E7MNE",
+            "U016NBFS16Y"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1639426361.373100"
+            },
+            {
+                "user": "U023Q8E7MNE",
+                "ts": "1639428065.373300"
+            },
+            {
+                "user": "U016NBFS16Y",
+                "ts": "1639431876.375300"
+            },
+            {
+                "user": "U023Q8E7MNE",
+                "ts": "1639431951.376100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d05205e0-ae00-4768-a6ca-1975f97bfb3a",
+        "type": "message",
+        "text": "What do you mean by the site's internal linking \"health?\" Is this from a tool you're using?",
+        "user": "UUXMCJQ15",
+        "ts": "1639426361.373100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=WG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you mean by the site's internal linking \"health?\" Is this from a tool you're using?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639425519.373000",
+        "parent_user_id": "U023Q8E7MNE"
+    },
+    {
+        "client_msg_id": "d2d14346-8a6f-4470-b0b1-e287856b1a40",
+        "type": "message",
+        "text": "SEMRush language, yeah. I'm trying to work out a plan for the internal linking structure because it's a bit of a mess and SEMRush is flagging a lot of internal links that are on the old URL",
+        "user": "U023Q8E7MNE",
+        "ts": "1639428065.373300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d10b67c0be5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-09\/2154037287843_d10b67c0be5fd16cb51e_72.jpg",
+            "first_name": "Rachel",
+            "real_name": "Rachel Cribby",
+            "display_name": "Rachel Cribby she\/her (EST)",
+            "team": "TJE58GTJL",
+            "name": "rachelcribby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ydX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SEMRush language, yeah. I'm trying to work out a plan for the internal linking structure because it's a bit of a mess and SEMRush is flagging a lot of internal links that are on the old URL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639425519.373000",
+        "parent_user_id": "U023Q8E7MNE"
+    },
+    {
+        "client_msg_id": "B88C8E3A-7BA2-48E7-A5DF-A5FB99613AF5",
+        "type": "message",
+        "text": "I'd definitely go in and update the old links manually. It sounds like this is the issue. They count as a redirect chain and loose the internal linking power. ",
+        "user": "U016NBFS16Y",
+        "ts": "1639431876.375300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dc55ef79eca3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-10\/2813445724023_dc55ef79eca31bc399fa_72.jpg",
+            "first_name": "Lucian",
+            "real_name": "Lucian Florian",
+            "display_name": "Lucian Florian",
+            "team": "TJE58GTJL",
+            "name": "contact348",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd definitely go in and update the old links manually. It sounds like this is the issue. They count as a redirect chain and loose the internal linking power. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639425519.373000",
+        "parent_user_id": "U023Q8E7MNE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U023Q8E7MNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F2BE2DCB-35E1-4C0D-82B2-0253152BD9E8",
+        "type": "message",
+        "text": "That was my concern. Ill go into the site map and do a permenant switch! Thanks!",
+        "user": "U023Q8E7MNE",
+        "ts": "1639431951.376100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d10b67c0be5f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-09\/2154037287843_d10b67c0be5fd16cb51e_72.jpg",
+            "first_name": "Rachel",
+            "real_name": "Rachel Cribby",
+            "display_name": "Rachel Cribby she\/her (EST)",
+            "team": "TJE58GTJL",
+            "name": "rachelcribby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eEmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That was my concern. Ill go into the site map and do a permenant switch! Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639425519.373000",
+        "parent_user_id": "U023Q8E7MNE"
+    }
+]

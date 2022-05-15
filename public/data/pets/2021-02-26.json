@@ -1,0 +1,893 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614379706.000200",
+        "user": "UJG9WTEKG",
+        "text": "<@UJG9WTEKG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1614379707.000300",
+        "user": "UJG9WTEKG",
+        "text": "set the channel description: bc pets make us happy",
+        "purpose": "bc pets make us happy"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614379758.000500",
+        "user": "UN3HSJ5LY",
+        "text": "<@UN3HSJ5LY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614379784.000700",
+        "user": "U011UJX75PE",
+        "text": "<@U011UJX75PE> has joined the channel"
+    },
+    {
+        "client_msg_id": "d15df7a2-b2f4-4fbc-8ace-878f818a501f",
+        "type": "message",
+        "text": "<@U0191L4MMC4>",
+        "user": "U011UJX75PE",
+        "ts": "1614379790.001100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Adf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0191L4MMC4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614379792.001300",
+        "user": "UUJBMNRNF",
+        "text": "<@UUJBMNRNF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614379794.001500",
+        "user": "U0191L4MMC4",
+        "text": "<@U0191L4MMC4> has joined the channel",
+        "inviter": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "9e7f4805-c58d-4b93-bf76-02181f12f892",
+        "type": "message",
+        "text": "doing a week upstate <https:\/\/www.instagram.com\/p\/CLvaJk-Lskd\/>",
+        "user": "U011UJX75PE",
+        "ts": "1614379818.001800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Instagram",
+                "service_url": "https:\/\/www.instagram.com\/",
+                "author_name": "smalter",
+                "thumb_url": "https:\/\/scontent.cdninstagram.com\/v\/t51.2885-15\/e35\/s480x480\/153332372_1036594266832291_4062572263419294409_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_ohc=Td5OGOtIgogAX-aZKCQ&tp=1&oh=44d8c6f229f28299731b13176cfd24b7&oe=60625B99",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "Instagram Photo: ",
+                "image_url": "https:\/\/scontent.cdninstagram.com\/v\/t51.2885-15\/e35\/s480x480\/153332372_1036594266832291_4062572263419294409_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_ohc=Td5OGOtIgogAX-aZKCQ&tp=1&oh=44d8c6f229f28299731b13176cfd24b7&oe=60625B99",
+                "image_width": 480,
+                "image_height": 360,
+                "from_url": "https:\/\/www.instagram.com\/p\/CLvaJk-Lskd\/",
+                "image_bytes": 41732,
+                "id": 1,
+                "original_url": "https:\/\/www.instagram.com\/p\/CLvaJk-Lskd\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/63F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "doing a week upstate "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/p\/CLvaJk-Lskd\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UN3HSJ5LY",
+                    "U01P4PZ90R3",
+                    "U01M43WTCQ4",
+                    "U01FUP6AMEZ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d794c6d-2b3a-4191-8d1a-fd9a845f3d54",
+        "type": "message",
+        "text": "yes, that's me",
+        "user": "U011UJX75PE",
+        "ts": "1614379851.002200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, that's me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fedf8e15-a6b9-4df8-bb2d-278329ef575d",
+        "type": "message",
+        "text": "you can confirm by looking at my avatar",
+        "user": "U011UJX75PE",
+        "ts": "1614379856.002400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GE+3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can confirm by looking at my avatar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "if you look closely theres a baby in there too",
+        "files": [
+            {
+                "id": "F01Q9CE7PQQ",
+                "created": 1614379965,
+                "timestamp": 1614379965,
+                "name": "594D68E9-AFC1-4C40-8253-8C29E4D90FBB.jpeg",
+                "title": "594D68E9-AFC1-4C40-8253-8C29E4D90FBB.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJG9WTEKG",
+                "editable": false,
+                "size": 3791778,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01Q9CE7PQQ\/594d68e9-afc1-4c40-8253-8c29e4d90fbb.jpeg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01Q9CE7PQQ\/download\/594d68e9-afc1-4c40-8253-8c29e4d90fbb.jpeg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_64.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_80.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_360.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_480.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_160.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_720.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_800.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_960.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01Q9CE7PQQ-b91c825a1d\/594d68e9-afc1-4c40-8253-8c29e4d90fbb_1024.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADB6tETwR+NOZQB1T8KqqSBhSQe9Jj3quYVixuUd1oBU9Dmq3m7Dt4P4U4YOf6UcwrFhdrfxAfWglB\/GDUBbYpxz9abHhhzjPvRzBYUL8pz940pXKgZAarDQoqZyCf8AaOKbuCp8pUHtgc1JRSuE2OCecjvVmOADAziorjLkFjkhT1NDCczFN2eM5PpQBY8uPuS3sBTlQDhUA+vNFvGfKUt94jkmpCccD86AKdPc7Iyw6j1plOm\/1DfSgBLQb2Zm5I6ZpsrsbnGcc44p9j0f6ion\/wCPr\/gVAGgflG0dBwKYae\/3j9ajNID\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJG9WTEKG\/F01Q9CE7PQQ\/594d68e9-afc1-4c40-8253-8c29e4d90fbb.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F01Q9CE7PQQ-66d1e57b65",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UJG9WTEKG",
+        "display_as_bot": false,
+        "ts": "1614379986.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cCM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you look closely theres a baby in there too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614379986.002800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1614386637.006400",
+        "reply_users": [
+            "U011UJX75PE",
+            "UUJBMNRNF"
+        ],
+        "replies": [
+            {
+                "user": "U011UJX75PE",
+                "ts": "1614381243.004700"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1614386637.006400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1614386637.006400",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UN3HSJ5LY",
+                    "U013P4Q9YTU",
+                    "U01P4PZ90R3",
+                    "U0191L4MMC4",
+                    "UUVC0LK2Q",
+                    "U011Q6ZP6KU",
+                    "U01FUP6AMEZ"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614379986.003200",
+        "user": "U01J3FQA3ML",
+        "text": "<@U01J3FQA3ML> has joined the channel"
+    },
+    {
+        "client_msg_id": "a000601b-c091-4902-9eba-affa6203a6fc",
+        "type": "message",
+        "text": "This is already the best channel",
+        "user": "UN3HSJ5LY",
+        "ts": "1614380004.003500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b45e1be4e7a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-01\/1041577778165_b45e1be4e7a13bd56cf9_72.jpg",
+            "first_name": "Rease",
+            "real_name": "Rease Kirchner",
+            "display_name": "Rease Kirchner",
+            "team": "TJE58GTJL",
+            "name": "rease",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u1M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is already the best channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Here's Dobby hard at work.",
+        "files": [
+            {
+                "id": "F01P4Q7RXGX",
+                "created": 1614380010,
+                "timestamp": 1614380010,
+                "name": "IMG_5639.JPG",
+                "title": "IMG_5639.JPG",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UN3HSJ5LY",
+                "editable": false,
+                "size": 378640,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01P4Q7RXGX\/img_5639.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01P4Q7RXGX\/download\/img_5639.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_64.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_80.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_360.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 194,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_480.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 258,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_160.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_720.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 387,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_800.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1487,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_960.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 517,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01P4Q7RXGX-c4dff3f41d\/img_5639_1024.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 551,
+                "thumb_1024_h": 1024,
+                "original_w": 1188,
+                "original_h": 2208,
+                "thumb_tiny": "AwAwABmV40jK\/LjPTDEUMGVSxLrgf3s0XJWVV2upwcHBpHkxbEOQWAxx3qW0OxKTkD6UUxW3AHBH1p24VmUVGZf4VAHoBTfMQfd5B6imAEAKetKts5GVBNUBNHcRgbSSB24qx5kP\/PQVQa3kUjIxn1NSeSv99qehLVx6qG7\/AKVL5hjCrxnHNQK2zpSnLNu2k8dfSpRRLhZDkZBNL5J9qi3hFLHoKj+3\/wCyfzp2uFz\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UN3HSJ5LY\/F01P4Q7RXGX\/img_5639.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F01P4Q7RXGX-4075025786",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UN3HSJ5LY",
+        "display_as_bot": false,
+        "ts": "1614380019.003700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rsd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's Dobby hard at work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01P4PZ90R3",
+                    "UJG9WTEKG",
+                    "U011Q6ZP6KU",
+                    "U01FUP6AMEZ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614380146.004100",
+        "user": "U01KH3P18RZ",
+        "text": "<@U01KH3P18RZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614380337.004300",
+        "user": "U0166H7KUAZ",
+        "text": "<@U0166H7KUAZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614380721.004600",
+        "user": "U01L8LM4TU2",
+        "text": "<@U01L8LM4TU2> has joined the channel"
+    },
+    {
+        "client_msg_id": "de45d757-a9f8-488e-82ad-a780ab2e508d",
+        "type": "message",
+        "text": "we don't care about your baby here in <#C01PKP5C8R1|pets>",
+        "user": "U011UJX75PE",
+        "ts": "1614381243.004700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LtDlz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we don't care about your baby here in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C01PKP5C8R1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614379986.002800",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UUJBMNRNF",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614381720.005000",
+        "user": "U01CHG34668",
+        "text": "<@U01CHG34668> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614382123.005200",
+        "user": "U01L6NE17PA",
+        "text": "<@U01L6NE17PA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614382274.005400",
+        "user": "U013P4Q9YTU",
+        "text": "<@U013P4Q9YTU> has joined the channel"
+    },
+    {
+        "client_msg_id": "E9572E47-377E-4F73-B5FF-98C9B4A8B3CF",
+        "type": "message",
+        "text": "That's precious. I used to love wearing my daughter around. ",
+        "user": "UUJBMNRNF",
+        "ts": "1614386637.006400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ibz=I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's precious. I used to love wearing my daughter around. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614379986.002800",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614387473.006800",
+        "user": "U011QQDDSJV",
+        "text": "<@U011QQDDSJV> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614387807.007000",
+        "user": "U01HY3C4Q6Q",
+        "text": "<@U01HY3C4Q6Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614389588.007200",
+        "user": "U015B88C4CA",
+        "text": "<@U015B88C4CA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01PGQ5RUUV",
+                "created": 1614389677,
+                "timestamp": 1614389677,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U015B88C4CA",
+                "editable": false,
+                "size": 371589,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01PGQ5RUUV\/image_from_ios.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01PGQ5RUUV\/download\/image_from_ios.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_64.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_80.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_360.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_480.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_160.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_720.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_800.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_960.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGQ5RUUV-3e4e959af1\/image_from_ios_1024.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSSVSZiFHUZqJ0YfeU1YkJEqn1yKiZmJI3EUAQ5FOzxUAkBYfyqcKD0pgGaM0bD60bG9aLgTXLbB77siqxLkFjxx0qaUmVTxyKrSNIY8en50hq3UhVyGyOoq0JA204wMc8d6qY\/Op4lcAkUXEW15GRzRioNw7oM0ZX+4PzougsywFxwo+po2DduHpgj1qQAY4pp9qyuaFbyAZc4wtWQoAxjinDn60AEdaG7gRmEE5FJ5FTUfhRcLH\/\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U015B88C4CA\/F01PGQ5RUUV\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F01PGQ5RUUV-e7be692721",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U015B88C4CA",
+        "display_as_bot": false,
+        "ts": "1614389682.007300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBnY",
+                "elements": []
+            }
+        ],
+        "client_msg_id": "9F1E40B0-80AC-4CE0-9AD5-58A3890781FC"
+    },
+    {
+        "client_msg_id": "E9EA9435-0609-435A-8A50-16A1EFFB3B84",
+        "type": "message",
+        "text": "My cat has started sitting on the printer under my desk. ",
+        "user": "U015B88C4CA",
+        "ts": "1614389725.008700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U015B88C4CA",
+            "ts": "1614549252.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WN7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My cat has started sitting on the printer under my desk. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01P4PZ90R3",
+                    "U01HY3C4Q6Q",
+                    "U01KH3P18RZ",
+                    "UJG9WTEKG",
+                    "U01J3FQA3ML",
+                    "UNGMG4005",
+                    "U01FUP6AMEZ"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614391965.009200",
+        "user": "U01P4PZ90R3",
+        "text": "<@U01P4PZ90R3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Love this! This is my little guy Griffin and all the blankets he has claimed as his own. ",
+        "files": [
+            {
+                "id": "F01PGRG6JUV",
+                "created": 1614392047,
+                "timestamp": 1614392047,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01P4PZ90R3",
+                "editable": false,
+                "size": 381237,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01PGRG6JUV\/image_from_ios.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01PGRG6JUV\/download\/image_from_ios.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_64.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_80.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_360.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 273,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_480.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 364,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_160.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_720.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 547,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_800.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1054,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_960.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 729,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01PGRG6JUV-ede98f1253\/image_from_ios_1024.jpg?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 778,
+                "thumb_1024_h": 1024,
+                "original_w": 2357,
+                "original_h": 3104,
+                "thumb_tiny": "AwAwACSvuGKadvpSZpKADkHKnFXrfa6iTblicGqKjd0qe0crKy9sUgLhRMnKijZH\/cH5UKx5yAfel3H+7+tIZlmmq21j\/OphbyEZ27R6niq5GScHIqhFlZh93AApIMiQvg9ajjU+vAqbzPlGKQydZAoPPU5p3mj1qLBI+7ml2n+7SAmmAMTDOMis5UIzkVbmJyB2xUdMCJV45pQOPT2pzcGkzQAmGPejaaXn1FH4j86AP\/\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01P4PZ90R3\/F01PGRG6JUV\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F01PGRG6JUV-458189b76d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U01P4PZ90R3",
+        "display_as_bot": false,
+        "ts": "1614392112.010400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love this! This is my little guy Griffin and all the blankets he has claimed as his own. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "E819FC3D-6437-486D-A3C5-B952566BC922",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF",
+                    "UJG9WTEKG",
+                    "U015B88C4CA",
+                    "UN3HSJ5LY",
+                    "U01FUP6AMEZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614393102.010800",
+        "user": "U018BH9FT3L",
+        "text": "<@U018BH9FT3L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1614407776.000200",
+        "user": "UJG4WTGKS",
+        "text": "<@UJG4WTGKS> has joined the channel"
+    }
+]

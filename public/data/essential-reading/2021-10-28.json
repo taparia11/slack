@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1635410405.010000",
+        "thread_ts": "1635410405.010000",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1635439984.010800",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1635439984.010800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1635439984.010800"
+    },
+    {
+        "client_msg_id": "5359efdf-db95-42c9-a8e7-e6e22dd46d13",
+        "type": "message",
+        "text": "<@U02CRMLF161> can you move this to <#C012AUSC85C|promotion>? we reserve this channel for sharing stuff that other folks have written",
+        "user": "UJG9WTEKG",
+        "ts": "1635439984.010800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CRMLF161"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? we reserve this channel for sharing stuff that other folks have written"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635410405.010000",
+        "parent_user_id": "USLACKBOT"
+    }
+]

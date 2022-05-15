@@ -1,0 +1,349 @@
+[
+    {
+        "client_msg_id": "cbb9e7fa-b242-46db-82b2-ca27f0f770c7",
+        "type": "message",
+        "text": "fwiw - I just tried out LSI Graph and got some weird results back (that look like term confusion)",
+        "user": "UJE5LARL0",
+        "ts": "1646227656.005909",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRxTi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fwiw - I just tried out LSI Graph and got some weird results back (that look like term confusion)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646152436.385129",
+        "parent_user_id": "U024K88ECFN",
+        "reactions": [
+            {
+                "name": "-1::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24d360c1-e3d8-4304-a109-84a5aad03c3f",
+        "type": "message",
+        "text": "Also - how different is \"LSI Keywords\" from \"People Also Search For\"",
+        "user": "UJE5LARL0",
+        "ts": "1646227709.060669",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=d2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also - how different is \"LSI Keywords\" from \"People Also Search For\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646152436.385129",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "843c9ee3-4b73-4650-be14-11d7d843996a",
+        "type": "message",
+        "text": "<@UJE5LARL0> Okay, good to know. I'm feeling like it's not the right call for what they need.\n\nLSI keywords technically include both keyword variants _and_ words or phrases related to the primary keyword (not just synonyms or matching terms). People Also Search For keywords are helpful as well, but often those related search queries require their own pages.",
+        "user": "U024K88ECFN",
+        "ts": "1646230662.726199",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wzf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LARL0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Okay, good to know. I'm feeling like it's not the right call for what they need.\n\nLSI keywords technically include both keyword variants "
+                            },
+                            {
+                                "type": "text",
+                                "text": "and",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " words or phrases related to the primary keyword (not just synonyms or matching terms). People Also Search For keywords are helpful as well, but often those related search queries require their own pages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646152436.385129",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "3ef11c35-7326-4471-be8f-4147ec66c799",
+        "type": "message",
+        "text": "<@U032V06GP38> Thank you for that! I'll take a look.",
+        "user": "U024K88ECFN",
+        "ts": "1646230669.979119",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U032V06GP38"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you for that! I'll take a look."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646152436.385129",
+        "parent_user_id": "U024K88ECFN"
+    },
+    {
+        "client_msg_id": "c8092d0a-db7d-4b3b-940a-12b93930186c",
+        "type": "message",
+        "text": "Thanks for the tips everyone! Hadn't heard of contentbird yet. Will check that out.",
+        "user": "U02J7DM81AQ",
+        "ts": "1646233622.922849",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb47e412d680",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b47e412d680490c17c4ca22271a9e55b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Sofie",
+            "real_name": "Sofie Couwenbergh",
+            "display_name": "Sofie Couwenbergh",
+            "team": "TJE58GTJL",
+            "name": "sofie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02J7DM81AQ",
+            "ts": "1646236507.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ZWdM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the tips everyone! Hadn't heard of contentbird yet. Will check that out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646130229.544159",
+        "parent_user_id": "U02J7DM81AQ"
+    },
+    {
+        "client_msg_id": "6bd6e9a3-4be9-41d7-95d6-1aef3abf1b04",
+        "type": "message",
+        "text": "Heya <@U02C68DM1K4>. There are quite a few tools out there, but they can be a bit disparate, unless they offer API integration. <@U027V14CNHF> has built out Narrato, which is next level in content ops management. You can even pay your freelance writers from within Narrato. I'd defo check it out!",
+        "user": "U01V7CQF8LC",
+        "ts": "1646288482.668819",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ac9c0196fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-21\/2000020000481_f9ac9c0196fd1a4eefd5_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Heyns",
+            "display_name": "Brett",
+            "team": "TJE58GTJL",
+            "name": "brettheyns",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NN\/j2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heya "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02C68DM1K4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". There are quite a few tools out there, but they can be a bit disparate, unless they offer API integration. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U027V14CNHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has built out Narrato, which is next level in content ops management. You can even pay your freelance writers from within Narrato. I'd defo check it out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646085838.173069",
+        "parent_user_id": "U02C68DM1K4",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U027V14CNHF",
+                    "U02C68DM1K4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d06d722d-6570-4858-b113-6953edbba343",
+        "type": "message",
+        "text": "You can also check out <http:\/\/www.jenni.ai|www.jenni.ai>\nPretty powerful in generating SEO optimized content outlines\/briefs.",
+        "user": "U01V7CQF8LC",
+        "ts": "1646288619.267069",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ac9c0196fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-21\/2000020000481_f9ac9c0196fd1a4eefd5_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Heyns",
+            "display_name": "Brett",
+            "team": "TJE58GTJL",
+            "name": "brettheyns",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can also check out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.jenni.ai",
+                                "text": "www.jenni.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPretty powerful in generating SEO optimized content outlines\/briefs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646152436.385129",
+        "parent_user_id": "U024K88ECFN"
+    }
+]

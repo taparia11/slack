@@ -1,0 +1,513 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> happy tuesday folks!\nhope you had a good weekend, maybe even a long one if you’re in the states. a few things for you this week:\n• i’m helping homefield hire a director of content for its health &amp; wellness vertical. interested or know someone? details here :point_right: <https:\/\/superpath.co\/job\/6676-director-of-content-homefield|Director of Content @ Homefield> (if you refer a good candidate, i’ll send you some superpath swag)\n• bump on last week’s new blog post + an audio version :point_right: <https:\/\/superpath.co\/blog\/the-7-skills-that-help-content-marketers-thrive-at-work|The 7 Skills That Help Content Marketers Thrive at Work>\n• <@UUXMKMA0P> is our latest podcast guest. we talk about his journey from marketing to management :point_right: <https:\/\/superpath.co\/blog\/episode-19-ty-magnin-on-marketing-leadership-and-management|Episode 19: Ty Magnin on marketing leadership and management>\n• <@U019E2RJD9Q> is our next AMA guest. he’s a longtime content agency founder pivoting to software. look for more details in the coming days.\n• I made a small update to the community guidelines about soliciting in the slack community. <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit|you can read it here>.\nAnd for Superpath Pro members:\n• We just launched a new course :point_right: <https:\/\/click.convertkit-mail2.com\/o8u6x3xdq5uqhpvlvxsv\/dpheh0hqzxv4ersm\/aHR0cHM6Ly9wcm8uc3VwZXJwYXRoLmNvL2NvdXJzZXMvaG93LXRvLW1hdGNoLXlvdXItY29udGVudC1zdHJhdGVneS10by15b3VyLWJ1c2luZXNzLW1vZGVsLzU0NDYyMC1kZWZhdWx0LXNlY3Rpb24vMTU3Mjk5MS1ob3ctdG8tbWF0Y2gteW91ci1jb250ZW50LXN0cmF0ZWd5LXRvLXlvdXItYnVzaW5lc3MtbW9kZWw=|How to Match Your Content Strategy to Your Business Model>\n• I asked if folks wanted a private Slack channel and, overwhelmingly, the answer was “yes.” Look for an email invite. \n• Office hours with Journal’s Sam DeBrule is next Wednesday. Will send more details in a separate email.\nhave a great week!\nJimmy",
+        "upload": false,
+        "user": "UJG9WTEKG",
+        "ts": "1606843065.185700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H3R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " happy tuesday folks!\nhope you had a good weekend, maybe even a long one if you’re in the states. a few things for you this week:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "i’m helping homefield hire a director of content for its health & wellness vertical. interested or know someone? details here "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "point_right"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/job\/6676-director-of-content-homefield",
+                                        "text": "Director of Content @ Homefield"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (if you refer a good candidate, i’ll send you some superpath swag)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "bump on last week’s new blog post + an audio version "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "point_right"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/blog\/the-7-skills-that-help-content-marketers-thrive-at-work",
+                                        "text": "The 7 Skills That Help Content Marketers Thrive at Work"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "UUXMKMA0P"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is our latest podcast guest. we talk about his journey from marketing to management "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "point_right"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/superpath.co\/blog\/episode-19-ty-magnin-on-marketing-leadership-and-management",
+                                        "text": "Episode 19: Ty Magnin on marketing leadership and management"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U019E2RJD9Q"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " is our next AMA guest. he’s a longtime content agency founder pivoting to software. look for more details in the coming days."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I made a small update to the community guidelines about soliciting in the slack community. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit",
+                                        "text": "you can read it here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And for Superpath Pro members:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We just launched a new course "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "point_right"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/click.convertkit-mail2.com\/o8u6x3xdq5uqhpvlvxsv\/dpheh0hqzxv4ersm\/aHR0cHM6Ly9wcm8uc3VwZXJwYXRoLmNvL2NvdXJzZXMvaG93LXRvLW1hdGNoLXlvdXItY29udGVudC1zdHJhdGVneS10by15b3VyLWJ1c2luZXNzLW1vZGVsLzU0NDYyMC1kZWZhdWx0LXNlY3Rpb24vMTU3Mjk5MS1ob3ctdG8tbWF0Y2gteW91ci1jb250ZW50LXN0cmF0ZWd5LXRvLXlvdXItYnVzaW5lc3MtbW9kZWw=",
+                                        "text": "How to Match Your Content Strategy to Your Business Model"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I asked if folks wanted a private Slack channel and, overwhelmingly, the answer was “yes.” Look for an email invite. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Office hours with Journal’s Sam DeBrule is next Wednesday. Will send more details in a separate email."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have a great week!\nJimmy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1606843147.000000"
+        },
+        "client_msg_id": "fedc33c2-105b-481b-b5c8-ca524bdcb8d7",
+        "thread_ts": "1606843065.185700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1606877949.192100",
+        "reply_users": [
+            "U011Y3YMBUM",
+            "U01A4KX71HR",
+            "U019E2RJD9Q"
+        ],
+        "replies": [
+            {
+                "user": "U011Y3YMBUM",
+                "ts": "1606843314.187300"
+            },
+            {
+                "user": "U01A4KX71HR",
+                "ts": "1606876193.189500"
+            },
+            {
+                "user": "U019E2RJD9Q",
+                "ts": "1606876780.191600"
+            },
+            {
+                "user": "U01A4KX71HR",
+                "ts": "1606877949.192100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1606877949.192100",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U018GQU80NL",
+                    "U011QQDDSJV",
+                    "U014S1BE6NT",
+                    "UJE5LQ2JC",
+                    "U019E2RJD9Q",
+                    "U01A7RL91JN",
+                    "UV5TB6FQW",
+                    "U01704F04QH",
+                    "U01GGQMG6HW",
+                    "UUXMKMA0P",
+                    "UJ420S7MG",
+                    "U0192P2G8F5",
+                    "U016Z38U5QF",
+                    "U01A4KX71HR",
+                    "U015DN5PUAD",
+                    "U01CWDCHGQM",
+                    "UJ2MPBP7V",
+                    "U015B88C4CA",
+                    "UPWK0KJE9",
+                    "U015E0ZF87Q"
+                ],
+                "count": 20
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U012UL77GUT",
+                    "U016Z38U5QF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1606843079.185800",
+        "user": "UJG9WTEKG",
+        "text": "set the channel topic: Community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "topic": "Community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "here are the community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "user": "USLACKBOT",
+        "ts": "1606843081.186000"
+    },
+    {
+        "client_msg_id": "e30ad3e1-d012-48a0-a6b5-404c82b869b6",
+        "type": "message",
+        "text": "<@UJG9WTEKG> this is an awesome lineup.",
+        "user": "U011Y3YMBUM",
+        "ts": "1606843314.187300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2d8364838e7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d8364838e782c565c80a0e9090c30f9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "mischashankerman",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mischashankerman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qzmpS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is an awesome lineup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606843065.185700",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf562694-6fed-4bdf-acbb-b1f20c9ee7c9",
+        "type": "message",
+        "text": "Read Kane's responses to a couple of questions (about B2B vs B2C content and freelancer rates). Really shows his industry knowledge and that he has a ton of hard won insights from the trenches. Looking forward to his AMA :-)",
+        "user": "U01A4KX71HR",
+        "ts": "1606876193.189500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "938183dd6c69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1374749543888_938183dd6c69ee31ae89_72.jpg",
+            "first_name": "Aditya",
+            "real_name": "Aditya Tejas",
+            "display_name": "Aditya",
+            "team": "TJE58GTJL",
+            "name": "adityatejas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01A4KX71HR",
+            "ts": "1606876291.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Read Kane's responses to a couple of questions (about B2B vs B2C content and freelancer rates). Really shows his industry knowledge and that he has a ton of hard won insights from the trenches. Looking forward to his AMA :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606843065.185700",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "D17937E6-913C-4C2E-9DF2-D5633F1420CF",
+        "type": "message",
+        "text": "<@U01A4KX71HR> thanks for the kind words :pray: \n\nIf you do content marketing long enough you’ll make every mistake once, so, happy to share whatever hard earned lessons I’ve accumulated :joy:",
+        "user": "U019E2RJD9Q",
+        "ts": "1606876780.191600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bcebee72c9b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1513766373124_bcebee72c9b4c4fba078_72.jpg",
+            "first_name": "Kane",
+            "real_name": "Kane Jamison",
+            "display_name": "Kane Jamison",
+            "team": "TJE58GTJL",
+            "name": "kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01A4KX71HR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for the kind words "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you do content marketing long enough you’ll make every mistake once, so, happy to share whatever hard earned lessons I’ve accumulated "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606843065.185700",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U01A4KX71HR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U01A4KX71HR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01A4KX71HR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "603785d8-ed7c-4cd6-9176-52747a5b6e87",
+        "type": "message",
+        "text": "Really looking forward to your AMA now :-)",
+        "user": "U01A4KX71HR",
+        "ts": "1606877949.192100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "938183dd6c69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1374749543888_938183dd6c69ee31ae89_72.jpg",
+            "first_name": "Aditya",
+            "real_name": "Aditya Tejas",
+            "display_name": "Aditya",
+            "team": "TJE58GTJL",
+            "name": "adityatejas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really looking forward to your AMA now :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606843065.185700",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

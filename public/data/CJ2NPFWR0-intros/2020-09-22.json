@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "2da54678-1031-452c-8f64-68727700f5d6",
+        "type": "message",
+        "text": "Hello to a fellow Austinite!",
+        "user": "U016AG4A2G2",
+        "ts": "1600783668.028800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "11a48b9b2620",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-22\/1403402335920_11a48b9b26202d48f6a5_72.png",
+            "first_name": "Victoria",
+            "real_name": "Victoria Fryer",
+            "display_name": "Victoria Fryer",
+            "team": "TJE58GTJL",
+            "name": "vcfryer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAxo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello to a fellow Austinite!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600713653.021500",
+        "parent_user_id": "U01AR2N7XJP",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01AR2N7XJP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f6dbaf9-926e-4436-ae40-e2335d915166",
+        "type": "message",
+        "text": "Nice to meet you, <@U01BLESB996>! How long have you been at Policygenius? I had a great experience when I researched and switched my life insurance earlier this year.",
+        "user": "U01A0BPDS1X",
+        "ts": "1600808047.029700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "78b98c067e84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-28\/1323594502662_78b98c067e8459e3f176_72.jpg",
+            "first_name": "Trevor",
+            "real_name": "Trevor Wallis",
+            "display_name": "Trevor Wallis",
+            "team": "TJE58GTJL",
+            "name": "trevor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V=vb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice to meet you, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BLESB996"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! How long have you been at Policygenius? I had a great experience when I researched and switched my life insurance earlier this year."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600715114.025700",
+        "parent_user_id": "U01BLESB996"
+    }
+]

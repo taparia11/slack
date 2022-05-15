@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1645804775.806969",
+        "thread_ts": "1645804775.806969",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1645804857.617479",
+        "reply_users": [
+            "U02F1GK6U6B"
+        ],
+        "replies": [
+            {
+                "user": "U02F1GK6U6B",
+                "ts": "1645804857.617479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f7e227d8-2220-4902-a751-fc2cc1bb8b8c",
+        "type": "message",
+        "text": "Hi Stacey,\nThis channel is for the jobs posted on <http:\/\/Superpath.com|Superpath.com>\nYou can maybe post this elsewhere or ask Jimmy if you can put this on the Superpath job board",
+        "user": "U02F1GK6U6B",
+        "ts": "1645804857.617479",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b77d6f7d6c82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/3004677185921_b77d6f7d6c82fd929faa_72.jpg",
+            "first_name": "Nneka",
+            "real_name": "Nneka Otika",
+            "display_name": "Nneka Otika",
+            "team": "TJE58GTJL",
+            "name": "nnekaotika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZzY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Stacey,\nThis channel is for the jobs posted on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Superpath.com",
+                                "text": "Superpath.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nYou can maybe post this elsewhere or ask Jimmy if you can put this on the Superpath job board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645804775.806969",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

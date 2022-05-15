@@ -1,0 +1,452 @@
+[
+    {
+        "client_msg_id": "290b7a14-8fa3-4bf0-a4c6-6c28fda7b701",
+        "type": "message",
+        "text": "Second this :point_up_2:",
+        "user": "U01MW6DPU72",
+        "ts": "1632317244.101500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2ab21f412c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2ab21f412c3215ee2b3c2994772c589e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Araminta",
+            "real_name": "Araminta Robertson",
+            "display_name": "Araminta Robertson",
+            "team": "TJE58GTJL",
+            "name": "robertsona98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6FU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Second this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632233136.093400",
+        "parent_user_id": "U012DRHAC2X"
+    },
+    {
+        "client_msg_id": "219e184a-8c22-4d28-95e4-1ecebde96cf3",
+        "type": "message",
+        "text": "What all-star articles do you have bookmarked or read\/share with coworkers _multiple_ times?\n\nDoesn't have to be about marketing, for example I find myself constantly coming back to <https:\/\/medium.com\/mind-cafe\/this-morning-routine-will-save-you-20-hours-per-week-a05c68b8e73c|this article> on morning routines.",
+        "user": "U01UH938DQC",
+        "ts": "1632325293.103700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e98b94a5af83",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-27\/2012173945124_e98b94a5af83dd0d00b1_72.png",
+            "first_name": "PJ",
+            "real_name": "PJ Howland",
+            "display_name": "PJ Howland",
+            "team": "TJE58GTJL",
+            "name": "peejay0911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "This Morning Routine will Save You 20+ Hours Per Week",
+                "title_link": "https:\/\/medium.com\/mind-cafe\/this-morning-routine-will-save-you-20-hours-per-week-a05c68b8e73c",
+                "text": "Your first three hours will make or break you.",
+                "fallback": "Medium: This Morning Routine will Save You 20+ Hours Per Week",
+                "image_url": "https:\/\/miro.medium.com\/max\/1000\/1*SNUuX2lLn3-UJvgdfoyVLg.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "11 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1611084215,
+                "from_url": "https:\/\/medium.com\/mind-cafe\/this-morning-routine-will-save-you-20-hours-per-week-a05c68b8e73c",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 138953,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/mind-cafe\/this-morning-routine-will-save-you-20-hours-per-week-a05c68b8e73c"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pby",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What all-star articles do you have bookmarked or read\/share with coworkers "
+                            },
+                            {
+                                "type": "text",
+                                "text": "multiple",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " times?\n\nDoesn't have to be about marketing, for example I find myself constantly coming back to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/mind-cafe\/this-morning-routine-will-save-you-20-hours-per-week-a05c68b8e73c",
+                                "text": "this article"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on morning routines."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U025H70LG86"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56d22157-86d9-46eb-90ca-b21f6c85baea",
+        "type": "message",
+        "text": "Great, great piece by <@U027UPGQVV0> of Animalz. \n\nMy key takeaway (something I talked with a teammate on a client's piece this morning):\n\n[With excessive focus on being data-driven] The end result is content that bears all the hallmarks of research—seemingly surprising statistics, clearly cited claims, quotes from people with relevant credentials—without managing to persuade the reader that the conclusions drawn from the research are worthwhile. Evidence-gathering is reduced to a paint-by-numbers exercise.\"\n\n<https:\/\/www.animalz.co\/blog\/bad-content\/|https:\/\/www.animalz.co\/blog\/bad-content\/>\n\nWhen a content marketing agency founder (like me) shares and raves for a competitor's work, you know it's truly an essential read. Excellent work, Ryan.",
+        "user": "UUVRX9C13",
+        "ts": "1632329696.109400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vAO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great, great piece by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U027UPGQVV0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " of Animalz. \n\nMy key takeaway (something I talked with a teammate on a client's piece this morning):\n\n[With excessive focus on being data-driven] The end result is content that bears all the hallmarks of research—seemingly surprising statistics, clearly cited claims, quotes from people with relevant credentials—without managing to persuade the reader that the conclusions drawn from the research are worthwhile. Evidence-gathering is reduced to a paint-by-numbers exercise.\"\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.animalz.co\/blog\/bad-content\/",
+                                "text": "https:\/\/www.animalz.co\/blog\/bad-content\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWhen a content marketing agency founder (like me) shares and raves for a competitor's work, you know it's truly an essential read. Excellent work, Ryan."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632329696.109400",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1636654546.051300",
+        "reply_users": [
+            "U028781SL6P",
+            "U020PD12B0B",
+            "U02CCU35W0L",
+            "UJ3K7N8GJ",
+            "U02DXE71ALR",
+            "UUVRX9C13",
+            "U02JE98TD5L"
+        ],
+        "replies": [
+            {
+                "user": "U028781SL6P",
+                "ts": "1632344488.110600"
+            },
+            {
+                "user": "U020PD12B0B",
+                "ts": "1632388408.112700"
+            },
+            {
+                "user": "U02CCU35W0L",
+                "ts": "1632850764.126400"
+            },
+            {
+                "user": "UJ3K7N8GJ",
+                "ts": "1632905062.126900"
+            },
+            {
+                "user": "U02DXE71ALR",
+                "ts": "1632945102.130500"
+            },
+            {
+                "user": "UUVRX9C13",
+                "ts": "1632987608.131000"
+            },
+            {
+                "user": "U02JE98TD5L",
+                "ts": "1636651122.049300"
+            },
+            {
+                "user": "UJ3K7N8GJ",
+                "ts": "1636654442.049800"
+            },
+            {
+                "user": "U02JE98TD5L",
+                "ts": "1636654546.051300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01AHL8AGBB",
+                    "U028781SL6P",
+                    "U01A827PTTM",
+                    "U020PD12B0B",
+                    "U02G1JY459N",
+                    "U02EQTBHEP9",
+                    "U0293KR1KD2",
+                    "U020HS8D4TX",
+                    "U02JE98TD5L"
+                ],
+                "count": 9
+            },
+            {
+                "name": "300",
+                "users": [
+                    "U02CCU35W0L",
+                    "U02JE98TD5L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXE71ALR",
+                    "U02JE98TD5L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af479f3d-6f45-4ebe-9529-557ec63a2324",
+        "type": "message",
+        "text": "content that coverts\n\nbtw I haven't heard good things about everybody writes... any tips?",
+        "user": "U02CRM0NRM3",
+        "ts": "1632342874.110100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2143b4d642e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-02\/2675217471109_2143b4d642e06146777d_72.jpg",
+            "first_name": "Francesco",
+            "real_name": "Francesco",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "francesco.pazzaglia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "content that coverts\n\nbtw I haven't heard good things about everybody writes... any tips?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632233136.093400",
+        "parent_user_id": "U012DRHAC2X"
+    },
+    {
+        "client_msg_id": "11818044-a164-4be8-a9b5-0bd8d4e301fb",
+        "type": "message",
+        "text": "it would be great to know the best books on storytelling",
+        "user": "U02CRM0NRM3",
+        "ts": "1632342897.110300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2143b4d642e0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-02\/2675217471109_2143b4d642e06146777d_72.jpg",
+            "first_name": "Francesco",
+            "real_name": "Francesco",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "francesco.pazzaglia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xnc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it would be great to know the best books on storytelling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632233136.093400",
+        "parent_user_id": "U012DRHAC2X"
+    },
+    {
+        "client_msg_id": "ee0eb7be-5480-4053-8ca4-9d734ece794e",
+        "type": "message",
+        "text": "One of my teammates shared that just this morning. Agreed, it's a great read! It ended up taking me down a rabbit trail where I discovered a couple more gems:\n\n<https:\/\/www.animalz.co\/blog\/bottom-line-up-front\/>\n\nand\n\n<https:\/\/www.intercom.com\/blog\/in-praise-of-editing\/>",
+        "user": "U028781SL6P",
+        "ts": "1632344488.110600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g41ac1ffd120",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41ac1ffd1207aded3151077fb8f4f11e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Zachary",
+            "real_name": "Zachary Totah",
+            "display_name": "Zachary Totah",
+            "team": "TJE58GTJL",
+            "name": "zachary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Inside Intercom",
+                "title": "In praise of editing",
+                "title_link": "https:\/\/www.intercom.com\/blog\/in-praise-of-editing\/",
+                "text": "Editing is one of the most under-appreciated skills at a startup. At Intercom, we've put a solid editorial process in place to get the most out of writers.",
+                "fallback": "Inside Intercom: In praise of editing",
+                "image_url": "https:\/\/blog.intercomassets.com\/blog\/wp-content\/uploads\/2016\/08\/How_We_Edit_At_Intercom_Logo-1.jpg.optimal.jpg",
+                "image_width": 528,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Geoffrey Keating",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "4 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1472572222,
+                "from_url": "https:\/\/www.intercom.com\/blog\/in-praise-of-editing\/",
+                "image_bytes": 243745,
+                "service_icon": "https:\/\/blog.intercomassets.com\/blog\/wp-content\/uploads\/2018\/10\/cropped-cropped-site-icon-2-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.intercom.com\/blog\/in-praise-of-editing\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qhf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One of my teammates shared that just this morning. Agreed, it's a great read! It ended up taking me down a rabbit trail where I discovered a couple more gems:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.animalz.co\/blog\/bottom-line-up-front\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nand\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.intercom.com\/blog\/in-praise-of-editing\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632329696.109400",
+        "parent_user_id": "UUVRX9C13",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUVRX9C13",
+                    "U02EQTBHEP9",
+                    "U02E02NL6GM"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

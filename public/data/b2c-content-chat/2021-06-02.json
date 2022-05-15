@@ -1,0 +1,164 @@
+[
+    {
+        "client_msg_id": "6ce038ee-797c-4b41-8dd1-589653df5e5f",
+        "type": "message",
+        "text": "How do y’all research your consumer audience? Do you have a process or method you follow?",
+        "user": "U01KH3P18RZ",
+        "ts": "1622673708.019900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do y’all research your consumer audience? Do you have a process or method you follow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622673708.019900",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1623053393.028500",
+        "reply_users": [
+            "U0169509JG5",
+            "U01KH3P18RZ",
+            "U017WRJTKF1"
+        ],
+        "replies": [
+            {
+                "user": "U0169509JG5",
+                "ts": "1622701869.020300"
+            },
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1622731745.021800"
+            },
+            {
+                "user": "U0169509JG5",
+                "ts": "1622764480.022600"
+            },
+            {
+                "user": "U0169509JG5",
+                "ts": "1622764503.022800"
+            },
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1622770523.023200"
+            },
+            {
+                "user": "U0169509JG5",
+                "ts": "1622770736.023500"
+            },
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1622829742.027200"
+            },
+            {
+                "user": "U0169509JG5",
+                "ts": "1623053393.028500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "741ba669-d1fb-4232-a620-1f635fa8b3de",
+        "type": "message",
+        "text": "• *External market research:* Our product team got an  agency to conduct market research and create a user journey &amp; user personas. We’ve got 4x persona descriptions in a document.\n• *Combining multiple owned data sources:* We combined Salesforce conversion demographic data with Facebook lookalike audiences, as well as some user surveys sent via email (among a few other things) and eventually came up with 7 main personas that are more calibrated to content. There was an amazing MozCon talk about using your owned data from 2020, if you happened to attend! That’s where we based a lot of this from. I may have some notes, if you’d like I can send em to you.\n• We refer to charts of Salesforce data to check which persona is most relevant for the product category we’re featuring (ie course subject).",
+        "user": "U0169509JG5",
+        "ts": "1622701869.020300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gab6edc71f75",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ab6edc71f75966ffe45a1131a9e230c8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "Adele Cochrane",
+            "display_name": "Adele Cochrane",
+            "team": "TJE58GTJL",
+            "name": "adele",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrb",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "External market research: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Our product team got an  agency to conduct market research and create a user journey & user personas. We’ve got 4x persona descriptions in a document."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Combining multiple owned data sources: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "We combined Salesforce conversion demographic data with Facebook lookalike audiences, as well as some user surveys sent via email (among a few other things) and eventually came up with 7 main personas that are more calibrated to content. There was an amazing MozCon talk about using your owned data from 2020, if you happened to attend! That’s where we based a lot of this from. I may have some notes, if you’d like I can send em to you."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "We refer to charts of Salesforce data to check which persona is most relevant for the product category we’re featuring (ie course subject)."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622673708.019900",
+        "parent_user_id": "U01KH3P18RZ"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "37f029a5-52a3-46e2-8ea2-9e22a0680812",
+        "type": "message",
+        "text": "This is awesome <@UUJBX62G3>!",
+        "user": "UL2E0QVB3",
+        "ts": "1591330048.186700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge9a383c24eb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/46e9a383c24ebc58aff0a71a2925d006.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Taru",
+            "real_name": "Taru",
+            "display_name": "Taru",
+            "team": "TJE58GTJL",
+            "name": "taru.bhargav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kcp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is awesome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUJBX62G3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586466985.021800",
+        "parent_user_id": "UUJBX62G3",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBX62G3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "74fa0329-38f6-4b2b-a35b-c9da276a4481",
+        "type": "message",
+        "text": "<@UJ2N9A3GT> Very cool!",
+        "user": "U015B88C4CA",
+        "ts": "1607523564.220300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aMQq1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ2N9A3GT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Very cool!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607452307.210700",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "UJ2N9A3GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b013ced-ce90-4fb2-8f61-bd29c4ab77d9",
+        "type": "message",
+        "text": "<@UJ2N9A3GT> nice!",
+        "user": "UJG9WTEKG",
+        "ts": "1607536411.221200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ2N9A3GT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607452307.210700",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

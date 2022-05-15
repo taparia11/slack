@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "E4AD95C0-420F-4832-8860-F119223A4D15",
+        "type": "message",
+        "text": "I’d definitely look at Grow and Convert if you haven’t already done so. They also have a course with some great tips for hiring writers. ",
+        "user": "U016NBFS16Y",
+        "ts": "1631962089.148800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dc55ef79eca3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-10\/2813445724023_dc55ef79eca31bc399fa_72.jpg",
+            "first_name": "Lucian",
+            "real_name": "Lucian Florian",
+            "display_name": "Lucian Florian",
+            "team": "TJE58GTJL",
+            "name": "contact348",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KPv77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d definitely look at Grow and Convert if you haven’t already done so. They also have a course with some great tips for hiring writers. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631908409.146200",
+        "parent_user_id": "U0293KR1KD2",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0293KR1KD2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad8f9c72-ae7c-43bf-b5c3-7e864ea41920",
+        "type": "message",
+        "text": "Hi everyone, a technical question related to SEO. We recently updated our service pages on the website (built on wordpress). We are using a background image for the top section of the page where the main heading, subheading and a couple of call to actions are displayed. The background image doesn't resize well for mobile but it looks good on desktop. So we decided to clone that section, remove the background and display it on mobile. So now the original section is displayed only on desktop, tablet landscape and the cloned section is displayed only on mobile.\n\nThe doubt I have is, when we cloned the section, there are now two H1 headings of the same name, one that's displayed only on desktop and another only on mobile. Do you think that's okay with regards to SEO or should I try something else?",
+        "user": "U02ESMECH7A",
+        "ts": "1632022840.154700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7ac9ec09872e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-10\/2503663150544_7ac9ec09872efe23926a_72.jpg",
+            "first_name": "Sudheer",
+            "real_name": "Sudheer",
+            "display_name": "Sudheer",
+            "team": "TJE58GTJL",
+            "name": "paturi.subs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZlCQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, a technical question related to SEO. We recently updated our service pages on the website (built on wordpress). We are using a background image for the top section of the page where the main heading, subheading and a couple of call to actions are displayed. The background image doesn't resize well for mobile but it looks good on desktop. So we decided to clone that section, remove the background and display it on mobile. So now the original section is displayed only on desktop, tablet landscape and the cloned section is displayed only on mobile.\n\nThe doubt I have is, when we cloned the section, there are now two H1 headings of the same name, one that's displayed only on desktop and another only on mobile. Do you think that's okay with regards to SEO or should I try something else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632022840.154700",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1632122575.156600",
+        "reply_users": [
+            "U01TBAF98H0",
+            "UUXMCJQ15",
+            "U02DJRAHUBV"
+        ],
+        "replies": [
+            {
+                "user": "U01TBAF98H0",
+                "ts": "1632026699.154800"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1632053832.156200"
+            },
+            {
+                "user": "U02DJRAHUBV",
+                "ts": "1632122575.156600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0a7db13e-50f6-46dd-8228-d22ae887d191",
+        "type": "message",
+        "text": "Hey Sudheer. In this case I'd recommend making the desktop version not an H1 but just styled text. Reserve the H1 for the mobile header so you only have 1. Google indexes mobile first so that's the more important one. \n\nHope this helps. Good luck!",
+        "user": "U01TBAF98H0",
+        "ts": "1632026699.154800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "15d164b5a11a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2587354369845_15d164b5a11a045edaa9_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Borge",
+            "display_name": "Justin Borge",
+            "team": "TJE58GTJL",
+            "name": "justin952",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5PY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Sudheer. In this case I'd recommend making the desktop version not an H1 but just styled text. Reserve the H1 for the mobile header so you only have 1. Google indexes mobile first so that's the more important one. \n\nHope this helps. Good luck!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632022840.154700",
+        "parent_user_id": "U02ESMECH7A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02ESMECH7A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U026R1895QV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

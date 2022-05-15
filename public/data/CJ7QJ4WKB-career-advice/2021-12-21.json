@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "b82430f3-e28a-45c1-b92f-35475db846aa",
+        "type": "message",
+        "text": "Thanks <@U02GYR8TM96>!",
+        "user": "UUXMCJQ15",
+        "ts": "1640107753.360200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Inr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02GYR8TM96"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639779582.348600",
+        "parent_user_id": "UUH2C52DQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02GYR8TM96"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

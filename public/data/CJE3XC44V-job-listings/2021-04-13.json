@@ -1,0 +1,235 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1618324185.072500",
+        "thread_ts": "1618324185.072500",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1618331480.073600",
+        "reply_users": [
+            "ULJBEFSJJ",
+            "UUKNSLX9P",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1618324351.072800"
+            },
+            {
+                "user": "UUKNSLX9P",
+                "ts": "1618324383.073000"
+            },
+            {
+                "user": "UUKNSLX9P",
+                "ts": "1618324388.073200"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1618331480.073600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618331480.073600",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01TB1SDD61",
+                    "UJF3431EG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdb67a4c-1458-4945-9ea2-47bc3a94fdac",
+        "type": "message",
+        "text": "I'm in another Slack that's primarily Toronto-based — did you want me to share it there?",
+        "user": "ULJBEFSJJ",
+        "ts": "1618324351.072800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c90kW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in another Slack that's primarily Toronto-based — did you want me to share it there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324185.072500",
+        "parent_user_id": "UUKNSLX9P"
+    },
+    {
+        "client_msg_id": "feaf39f8-b601-41e5-989d-f7209d5f4b2c",
+        "type": "message",
+        "text": "Ouh, mind sharing the name? I feel like I should be part of it!",
+        "user": "UUKNSLX9P",
+        "ts": "1618324383.073000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge4d7f5bd91d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4d7f5bd91da1df74fcdb33d42f21121.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Eilis",
+            "real_name": "Eilis McCann",
+            "display_name": "Eilis McCann",
+            "team": "TJE58GTJL",
+            "name": "e.mccann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vhCOA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ouh, mind sharing the name? I feel like I should be part of it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324185.072500",
+        "parent_user_id": "UUKNSLX9P",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "ULJBEFSJJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59826bb0-744f-43ee-b7dd-c50fc406ab76",
+        "type": "message",
+        "text": "thanks <@ULJBEFSJJ>!",
+        "user": "UUKNSLX9P",
+        "ts": "1618324388.073200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge4d7f5bd91d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4d7f5bd91da1df74fcdb33d42f21121.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Eilis",
+            "real_name": "Eilis McCann",
+            "display_name": "Eilis McCann",
+            "team": "TJE58GTJL",
+            "name": "e.mccann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHLg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "ULJBEFSJJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324185.072500",
+        "parent_user_id": "UUKNSLX9P"
+    },
+    {
+        "client_msg_id": "4b8c699f-5e0d-4e9c-b6bd-81afa5113969",
+        "type": "message",
+        "text": "<@UUKNSLX9P> we recently started charging a small fee to post in the channel. i'll remove this post but would love to see it back up here! if you want to post, just use this link: <https:\/\/superpath.co\/blog\/slack-jobs>",
+        "user": "UJG9WTEKG",
+        "ts": "1618331480.073600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SVm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUKNSLX9P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we recently started charging a small fee to post in the channel. i'll remove this post but would love to see it back up here! if you want to post, just use this link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/slack-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324185.072500",
+        "parent_user_id": "UUKNSLX9P"
+    }
+]

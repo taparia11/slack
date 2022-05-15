@@ -1,0 +1,271 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1621336031.000900",
+        "thread_ts": "1621336031.000900",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1621439635.005100",
+        "reply_users": [
+            "U01B8FNUWRK",
+            "U01CH61LAVB",
+            "UJG9WTEKG",
+            "U0151JC8ASE"
+        ],
+        "replies": [
+            {
+                "user": "U01B8FNUWRK",
+                "ts": "1621356780.001200"
+            },
+            {
+                "user": "U01CH61LAVB",
+                "ts": "1621358668.001500"
+            },
+            {
+                "user": "U01B8FNUWRK",
+                "ts": "1621359640.001900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1621439609.004800"
+            },
+            {
+                "user": "U0151JC8ASE",
+                "ts": "1621439635.005100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621439635.005100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Tuff is hiring a Content and Search Marketing Manager* :rocket:\n\n*To learn more, check out their listing on the job board:* <https:\/\/jobs.superpath.co\/job\/82405-content-and-search-marketing-manager>",
+        "ts": "1621355194.001100",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pizza",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21369456-6a9c-4466-979b-ee2e824886bc",
+        "type": "message",
+        "text": "<@U0151JC8ASE>, talk to <@U01CH61LAVB>. He runs <http:\/\/uSERP.io|uSERP.io> and he's the right guy to help you here.",
+        "user": "U01B8FNUWRK",
+        "ts": "1621356780.001200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a3ab825f6110",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-24\/1386090918259_a3ab825f611075cc2d61_72.jpg",
+            "first_name": "Shadrack",
+            "real_name": "Shadrack",
+            "display_name": "Shadrack",
+            "team": "TJE58GTJL",
+            "name": "shadrack552",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01B8FNUWRK",
+            "ts": "1621356815.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6d5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0151JC8ASE"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", talk to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01CH61LAVB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". He runs "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/uSERP.io",
+                                "text": "uSERP.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and he's the right guy to help you here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621336031.000900",
+        "parent_user_id": "U0151JC8ASE"
+    },
+    {
+        "client_msg_id": "ddd1403f-abdf-4df4-8ff3-3fb9207ad06b",
+        "type": "message",
+        "text": "Thanks so much <@U01B8FNUWRK>! I appreciate you!\n\n<@U0151JC8ASE> I'd love to chat more about this with you. We specialize in this, and in particular, SaaS coverage!",
+        "user": "U01CH61LAVB",
+        "ts": "1621358668.001500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9e356db95936",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-14\/1434458448788_9e356db959364abf09b5_72.jpg",
+            "first_name": "Jeremy",
+            "real_name": "Jeremy Moser",
+            "display_name": "Jeremy Moser",
+            "team": "TJE58GTJL",
+            "name": "jeremy320",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/EE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks so much "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01B8FNUWRK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I appreciate you!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0151JC8ASE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'd love to chat more about this with you. We specialize in this, and in particular, SaaS coverage!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621336031.000900",
+        "parent_user_id": "U0151JC8ASE"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*SingleCare is hiring a Freelance Writer* :rocket:\n\n*This is a freelance role.*\n\n*What's the deal?* \n\nWe’re seeking a writer who can analyze survey results and write an article about the insights. This typically be 1 post a month to support our original research efforts. This is a remote freelance role open to people who can work in the US. \n\n*Learn more and apply here:* <https:\/\/bit.ly\/2RtZJKn>\n\n&lt;@&gt;",
+        "ts": "1621359143.001700",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Stats writer job description",
+                "title_link": "https:\/\/bit.ly\/2RtZJKn",
+                "text": "About SingleCare: SingleCare is a free prescription discount service based in the United States. Since 2015, SingleCare has helped millions of consumers save on their prescription drug costs. In addition to providing free coupons for thousands of prescription drugs, SingleCare also publishes hea...",
+                "fallback": "Google Docs: Stats writer job description",
+                "image_url": "https:\/\/lh4.googleusercontent.com\/MR3ndZ9jIbwwgT3aecKN1Bef4257ViCdgP5H1_oyPkNAK-7gO75RPZdFMNZcakbVwFyVF_8t99fD8w",
+                "image_width": 193,
+                "image_height": 250,
+                "from_url": "https:\/\/bit.ly\/2RtZJKn",
+                "image_bytes": 139176,
+                "service_icon": "https:\/\/ssl.gstatic.com\/docs\/documents\/images\/kix-favicon7.ico",
+                "id": 1,
+                "original_url": "https:\/\/bit.ly\/2RtZJKn"
+            }
+        ],
+        "edited": {
+            "user": "B0199MPQELR",
+            "ts": "1621359145.000000"
+        }
+    },
+    {
+        "client_msg_id": "824b18ea-6417-4aec-8eb7-44b7ff27cc23",
+        "type": "message",
+        "text": "You're welcome :blush:",
+        "user": "U01B8FNUWRK",
+        "ts": "1621359640.001900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a3ab825f6110",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-24\/1386090918259_a3ab825f611075cc2d61_72.jpg",
+            "first_name": "Shadrack",
+            "real_name": "Shadrack",
+            "display_name": "Shadrack",
+            "team": "TJE58GTJL",
+            "name": "shadrack552",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QZu0u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're welcome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621336031.000900",
+        "parent_user_id": "U0151JC8ASE"
+    }
+]

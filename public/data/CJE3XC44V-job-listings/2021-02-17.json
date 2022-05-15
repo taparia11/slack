@@ -1,0 +1,298 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1613552074.158200",
+        "thread_ts": "1613552074.158200",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1613582588.159100",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1613582573.158900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1613582588.159100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1613582588.159100",
+        "reactions": [
+            {
+                "name": "white_heart",
+                "users": [
+                    "U01A4DV8W0J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Workiva is hiring a Freelancers* :rocket:\n\n*This is a freelance role.*\n\n*What's the deal?* \n\nHey! Looking for a few freelancers to help out our content team at [Workiva](<http:\/\/workiva.com>) — we invite content creators of all stripes, but especially looking for those with experience in the following:\n\n1. Conversion — demo request pages, etc.\n2. Case studies — we provide the interview, you provide the case study\n3. Marketing collateral — datasheets, etc.\n\nWe’re based in central time, so would lean toward someone with overlapping work time. Otherwise entirely remote!\n\nPlease reach out if you have any questions!\n\n\n\n*To apply, send an email to:* `<mailto:drew.deubner@workiva.com|drew.deubner@workiva.com>`",
+        "ts": "1613581772.158600",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":space_invader:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f47e.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "client_msg_id": "7286aef8-491b-4d11-9d1f-df14719c56f2",
+        "type": "message",
+        "text": "hi <@U01L0GRC37A> we recently started charging a small fee for this channel. details here: <https:\/\/superpath.co\/blog\/slack-jobs>",
+        "user": "UJG9WTEKG",
+        "ts": "1613582573.158900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ScH7N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01L0GRC37A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we recently started charging a small fee for this channel. details here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/slack-jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613552074.158200",
+        "parent_user_id": "U01L0GRC37A"
+    },
+    {
+        "client_msg_id": "0740476c-ba6d-4887-b6f8-6846f3e228d3",
+        "type": "message",
+        "text": "i'll remove this post but would love to see this listing here!",
+        "user": "UJG9WTEKG",
+        "ts": "1613582588.159100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zwt0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'll remove this post but would love to see this listing here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613552074.158200",
+        "parent_user_id": "U01L0GRC37A"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Megawatt Content Marketing is hiring a B2B Tech Content Strategist* :rocket:\n\n*This is a full-time role.*\n\n*What's the deal?* \n\n## At Megawatt, Content Marketing Strategists are the heart and soul of our teams. While managing teams of writers and editors, Content Marketing Strategists also develop content strategy, produce content, and proactively manage client relationships—while working to stay on the cutting edge of marketing and content marketing trends. \n## \n## **The ideal Content Marketing Strategists will have experience in three areas: **\n1. **Writing stellar marketing and sales content for B2B tech**\n2. **Managing client accounts and keeping clients happy**\n3. **Developing and executing content strategies**. \n## \n\n\n*To apply, send an email to:* `<mailto:hiring@megawattcontent.com|hiring@megawattcontent.com>`",
+        "ts": "1613584618.159500",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":space_invader:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f47e.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*The Exercise Coach is hiring a Content Writer to turn Podcasts into High Value Content* :rocket:\n\n*This is a freelance role.*\n\n*What's the deal?* \n\nWe have 13 episodes of our podcast \"Strength Changes Everything\" published. We're looking for a content writer to take these fact-filled podcasts and produce high quality blog posts\/pages on <http:\/\/ExerciseCoach.com|ExerciseCoach.com> for SEO content and driving in qualified prospects to our cutting edge fitness concept studios.\n\nWe are reimagining our voice. We want to start producing insightful, valuable information to attract SERP traffic and convert them into leads. This means written content, listicles, infographics, and more. To start, we want help converting our podcasts into content. We do NOT want podcast-specific recaps (we already have that with show notes listed for each episode). Instead, we want clear, focused articles with SEO'd titles, that educate the prospect. Think of these as long-term content posted to our site.\n\nIf this sounds up your alley, here's what I want you to do!\n\n1.) Send me an email (<mailto:c.stanton@exercisecoach.com|c.stanton@exercisecoach.com>) with the subject line \"I'm the Content Marketer you've been dreaming of!\"\n2.) In the email, tell me about an experience you have that is similar to what we're requesting. \n3.) Share 2 writing samples. If they're in health and fitness, even better!\n4.) Answer these two questions:\n-- a.)  What about this job post is making you want to apply? Be honest! \n-- b.) If we met in 2 years from today and you were THRILLED about your life, both personally and professionally, what would you be doing? Where would you be living? Tell us this in 3-5 sentences with enough detail for us to taste your excitement. It would be a dream come true if we could help make your dream come true.\n\nThe best candidates will be given a paid test to transform 1-2 podcast episodes into content. If we like whatcha cook up, we'll offer you the rest, plus potential other content work (like our email newsletter, additional website content, and more!)\n\n\n*To apply, send an email to:* `<mailto:c.stanton@exercisecoach.com|c.stanton@exercisecoach.com>`",
+        "ts": "1613599483.159900",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":space_invader:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f47e.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "thread_ts": "1613599483.159900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1614362891.017700",
+        "reply_users": [
+            "U01MV98FQAY",
+            "U01A3TF6X6C"
+        ],
+        "replies": [
+            {
+                "user": "U01MV98FQAY",
+                "ts": "1613599987.160000"
+            },
+            {
+                "user": "U01A3TF6X6C",
+                "ts": "1614362891.017700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01MV98FQAY",
+                    "U01A3TF6X6C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U01MV98FQAY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6bb8eb01-f501-45ad-9965-8bfea5ec2fe9",
+        "type": "message",
+        "text": "Slack me with any questions. The podcast episodes are at <http:\/\/SubscribeToStrength.com|SubscribeToStrength.com>",
+        "user": "U01MV98FQAY",
+        "ts": "1613599987.160000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g85f4862899d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/85f4862899d8f187def5082489c70db5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Casey",
+            "real_name": "Casey Stanton",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "casey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gh0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Slack me with any questions. The podcast episodes are at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/SubscribeToStrength.com",
+                                "text": "SubscribeToStrength.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613599483.159900",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01A3TF6X6C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1613633357.166800",
+        "thread_ts": "1613633357.166800",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1613759434.179500",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U015M064Q67"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1613665980.173900"
+            },
+            {
+                "user": "U015M064Q67",
+                "ts": "1613738795.177900"
+            },
+            {
+                "user": "U015M064Q67",
+                "ts": "1613738976.178100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1613752361.178800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1613759434.179500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1613759434.179500"
+    }
+]

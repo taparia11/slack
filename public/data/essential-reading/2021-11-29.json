@@ -1,0 +1,313 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1638220853.106400",
+        "thread_ts": "1638220853.106400",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1638226923.108000",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02NQPW4LES"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1638221486.107200"
+            },
+            {
+                "user": "U02NQPW4LES",
+                "ts": "1638223056.107600"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1638226923.108000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1638226923.108000"
+    },
+    {
+        "client_msg_id": "0af855e8-3048-4d17-84f4-26cc2bc72bc8",
+        "type": "message",
+        "text": "hmm i just took a look and can't track it down",
+        "user": "UJG9WTEKG",
+        "ts": "1638221367.106700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bg6\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm i just took a look and can't track it down"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637830748.094500",
+        "parent_user_id": "U019MUQ6QKV",
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U019MUQ6QKV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "601d5f42-6b09-411e-8e45-fd45b13387f5",
+        "type": "message",
+        "text": "<@U02CUMQBP9R> can you move this to <#C012AUSC85C|promotion>? this channel is just for sharing things other folks have written. thx!",
+        "user": "UJG9WTEKG",
+        "ts": "1638221415.106900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2hxfy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CUMQBP9R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? this channel is just for sharing things other folks have written. thx!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638172554.095300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "251ea05f-2548-41c6-af2d-8a3afc022c95",
+        "type": "message",
+        "text": "<@U02NQPW4LES> can you move to <#C012AUSC85C|promotion>? this channel is just sharing things other folks have created",
+        "user": "UJG9WTEKG",
+        "ts": "1638221486.107200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V63F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02NQPW4LES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? this channel is just sharing things other folks have created"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638220853.106400",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "237ce46d-ca0a-48e4-9c50-63a56594ee85",
+        "type": "message",
+        "text": "I was sharing a book review of someone elses book that I thought would be helpful...I take it that doesn't count? I was not promoting my business.",
+        "user": "U02NQPW4LES",
+        "ts": "1638223056.107600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a8c77a7dfb50",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-29\/2782041788804_a8c77a7dfb50afb48374_72.jpg",
+            "first_name": "Steven",
+            "real_name": "Steven Burkhart",
+            "display_name": "Steven - Burkhart Creative Agency",
+            "team": "TJE58GTJL",
+            "name": "steven310",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02NQPW4LES",
+            "ts": "1638223072.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oon",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was sharing a book review of someone elses book that I thought would be helpful...I take it that doesn't count? I was not promoting my business."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638220853.106400",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "8a2737f6-4e5c-4564-8a0f-2634772dc14e",
+        "type": "message",
+        "text": "will shoot you a dm",
+        "user": "UJG9WTEKG",
+        "ts": "1638226923.108000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tr4Ic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will shoot you a dm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638220853.106400",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "58060cae-124e-475c-8c24-23c8342455de",
+        "type": "message",
+        "text": "following as well",
+        "user": "U01RH6ADSGH",
+        "ts": "1638230452.108200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "789f2de540ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1854801388211_789f2de540ae2cab1ffc_72.jpg",
+            "first_name": "Finn",
+            "real_name": "Finn Melanson",
+            "display_name": "Finn Melanson",
+            "team": "TJE58GTJL",
+            "name": "finnmelanson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1Ok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "following as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637830748.094500",
+        "parent_user_id": "U019MUQ6QKV"
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "468a1655-86f4-40d0-b1a7-ed0be2b7dac8",
+        "type": "message",
+        "text": "Count me in :smile:",
+        "user": "UJJELJPNH",
+        "ts": "1606136503.055400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d7c0796969e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2512204757622_d7c0796969e7e10042d0_72.png",
+            "first_name": "Archita",
+            "real_name": "Archita Sharma",
+            "display_name": "Archita Sharma",
+            "team": "TJE58GTJL",
+            "name": "mearchita",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AZOOf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Count me in "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605276427.034400",
+        "parent_user_id": "U015XHF0RE0"
+    },
+    {
+        "client_msg_id": "912381ac-6fea-44cd-bb39-7d3fecfed5ed",
+        "type": "message",
+        "text": "Count me in too",
+        "user": "UNYCBFQF9",
+        "ts": "1606149712.056500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cee4405410f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-02\/774641640529_cee4405410f99d90f090_72.jpg",
+            "first_name": "Nissar",
+            "real_name": "Nissar Ahamed",
+            "display_name": "Nissar Ahamed",
+            "team": "TJE58GTJL",
+            "name": "nissar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTXxi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Count me in too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605276427.034400",
+        "parent_user_id": "U015XHF0RE0"
+    },
+    {
+        "client_msg_id": "a28100c4-7e10-4acb-8ab9-3e484d0acad6",
+        "type": "message",
+        "text": "<@UV5H19LNT> let’s join in too?",
+        "user": "UUVC0EX8C",
+        "ts": "1606157935.057200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxWzL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UV5H19LNT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " let’s join in too?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605276427.034400",
+        "parent_user_id": "U015XHF0RE0",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV5H19LNT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1606157941.057500",
+        "user": "UV5H19LNT",
+        "text": "<@UV5H19LNT> has joined the channel",
+        "inviter": "UUVC0EX8C"
+    }
+]

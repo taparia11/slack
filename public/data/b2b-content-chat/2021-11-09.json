@@ -1,0 +1,753 @@
+[
+    {
+        "client_msg_id": "544e9afb-fce8-4020-b55a-3077bc2820cc",
+        "type": "message",
+        "text": "<@U02CT835FK4> can you move this over to guest posts?",
+        "user": "UJG9WTEKG",
+        "ts": "1636475411.108400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1Jv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CT835FK4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this over to guest posts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636431136.104200",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "94a96e46-ea8f-476d-9aa4-2d7ac0268cc4",
+        "type": "message",
+        "text": "Hi :wave:, I'm doing 15-minute video interviews with B2B content marketers and would love to have some of the Superpath community on the show.\nWe'll be sharing out the interviews across all our channels\n\nquick overview\n• no prep needed \n• won't be live, so no stress\n• 10 content questions \n• we'll share on all our channels (eg example on <https:\/\/www.linkedin.com\/posts\/rosscranwell_madewithmilk-eventmarketing-eventprofessionals-activity-6846071035121422336-r4zI|Linkedin>) \nif you are up for a bit of free promo - drop your name in this google doc\n<https:\/\/forms.gle\/wP5xRmUKLKtbbdLC8>",
+        "user": "U02D77QUE8H",
+        "ts": "1636475456.109000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aa8f4c497a05",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2538664638272_aa8f4c497a05cf6fa2a6_72.jpg",
+            "first_name": "Ross",
+            "real_name": "Ross Cranwell",
+            "display_name": "Ross Cranwell",
+            "team": "TJE58GTJL",
+            "name": "ross393",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/wP5xRmUKLKtbbdLC8",
+                "service_name": "Google Docs",
+                "title": "Content Marketing Interview",
+                "title_link": "https:\/\/forms.gle\/wP5xRmUKLKtbbdLC8",
+                "text": "15-minute interview (no prep needed) to be shared out on all Milk Video marketing channels",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/_gOaeFQYicSzqMPmNr5K0cHz4RIiL_GKpo6Qcvg91BAiO6TdwG9WHQS_B1VSJHLRXPBYvvtsDm8",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 24647,
+                "fallback": "Google Docs: Content Marketing Interview",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/wP5xRmUKLKtbbdLC8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lPq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I'm doing 15-minute video interviews with B2B content marketers and would love to have some of the Superpath community on the show.\nWe'll be sharing out the interviews across all our channels\n\nquick overview\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "no prep needed "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "won't be live, so no stress"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10 content questions "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "we'll share on all our channels (eg example on "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/posts\/rosscranwell_madewithmilk-eventmarketing-eventprofessionals-activity-6846071035121422336-r4zI",
+                                        "text": "Linkedin"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nif you are up for a bit of free promo - drop your name in this google doc\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/wP5xRmUKLKtbbdLC8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636475456.109000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1636571394.123900",
+        "reply_users": [
+            "U02D77QUE8H"
+        ],
+        "replies": [
+            {
+                "user": "U02D77QUE8H",
+                "ts": "1636571394.123900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02ADS3DDFF",
+                    "UJG24P8P6",
+                    "U02D77QUE8H",
+                    "U02GXA3PWC9",
+                    "U02F1GK6U6B",
+                    "U02BTBBH887",
+                    "U02B60T1W83",
+                    "U02J7DM81AQ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U029CTQ5X6Y",
+                    "U02DT0SNUKC",
+                    "UJG9WTEKG",
+                    "U01MM4EAC69"
+                ],
+                "count": 4
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02L06T4MM2",
+                    "U02GKTN1NDC",
+                    "UJG9WTEKG",
+                    "U02JE98TD5L",
+                    "UU07F98SJ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "UU07F98SJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bff1a527-e46d-4bac-a635-44aa776dc2d4",
+        "type": "message",
+        "text": "need a list of ideas at the ready when the CEO asks if they can help with content :sweat_smile:",
+        "user": "UJG24P8P6",
+        "ts": "1636475577.110000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ztR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "need a list of ideas at the ready when the CEO asks if they can help with content "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636475577.110000",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1636559877.115600",
+        "reply_users": [
+            "U01ANAZTZTK",
+            "UJG24P8P6",
+            "U02B60T1W83"
+        ],
+        "replies": [
+            {
+                "user": "U01ANAZTZTK",
+                "ts": "1636476207.110400"
+            },
+            {
+                "user": "U01ANAZTZTK",
+                "ts": "1636476352.110700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1636477753.112700"
+            },
+            {
+                "user": "U02B60T1W83",
+                "ts": "1636559877.115600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d800bea2-319f-49bd-9b65-41b2013eb4bc",
+        "type": "message",
+        "text": "1. Find which customers they have awesome relationships with and ask for case studies\/interviews for blogs - our CEO has really strong relationships with some of our largest clients and can get a \"Yes\" on asks more often than our Customer Success team can. \n2. Interview the CEO on something about your business that makes you a good partner - I ghost wrote a blog from our CEO once about why they placed weight in growing the CS team as a young startup that we use in late stage deals. \n3. Ask for them to post on Linkedin - our CEO actually lets us use his Linkedin login to share content - oftentimes its us writing a post that doesn't actually link to the blog put post a mini-version that engages his feed. \n4. Do a quick video for social - we do this especially around product launches! \n5. If they have industry expertise, interview them! Our CEO is always super productive on planes because he can't take meetings and calls, so if I know he's traveling I give him a topic for him to just brain dump into a word doc, particularly when he has expertise on something our clients are dealing with that I might not be as well versed in ",
+        "user": "U01ANAZTZTK",
+        "ts": "1636476207.110400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ef5727669c45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1349771386962_ef5727669c45c9f60612_72.jpg",
+            "first_name": "Theresa",
+            "real_name": "Theresa Hebert",
+            "display_name": "Theresa Hebert",
+            "team": "TJE58GTJL",
+            "name": "theresa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ANAZTZTK",
+            "ts": "1636476312.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "66JM",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Find which customers they have awesome relationships with and ask for case studies\/interviews for blogs - our CEO has really strong relationships with some of our largest clients and can get a \"Yes\" on asks more often than our Customer Success team can. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Interview the CEO on something about your business that makes you a good partner - I ghost wrote a blog from our CEO once about why they placed weight in growing the CS team as a young startup that we use in late stage deals. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ask for them to post on Linkedin - our CEO actually lets us use his Linkedin login to share content - oftentimes its us writing a post that doesn't actually link to the blog put post a mini-version that engages his feed. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Do a quick video for social - we do this especially around product launches! "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If they have industry expertise, interview them! Our CEO is always super productive on planes because he can't take meetings and calls, so if I know he's traveling I give him a topic for him to just brain dump into a word doc, particularly when he has expertise on something our clients are dealing with that I might not be as well versed in "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636475577.110000",
+        "parent_user_id": "UJG24P8P6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02CUMU0PMG",
+                    "UJG24P8P6",
+                    "UUXMC3ZFH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f065b0a3-aaf7-407e-8ba7-76112ede34d6",
+        "type": "message",
+        "text": "This is the blog for #2: <https:\/\/www.quorum.us\/blog\/customer-success-business-investment\/>",
+        "user": "U01ANAZTZTK",
+        "ts": "1636476352.110700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ef5727669c45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1349771386962_ef5727669c45c9f60612_72.jpg",
+            "first_name": "Theresa",
+            "real_name": "Theresa Hebert",
+            "display_name": "Theresa Hebert",
+            "team": "TJE58GTJL",
+            "name": "theresa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.quorum.us\/blog\/customer-success-business-investment\/",
+                "service_name": "Quorum",
+                "title": "Why Customer Success is a Worthwhile Business Investment",
+                "title_link": "https:\/\/www.quorum.us\/blog\/customer-success-business-investment\/",
+                "text": "People don’t usually have a positive impression of customer service. It brings up memories of waiting on hold forever, being passed from person to person before getting an answer, and then having that answer be unclear or not solve the problem because it was pulled from a script or bot. However, survey statistics from Zendesk […]",
+                "thumb_url": "https:\/\/quorum-media.s3.amazonaws.com\/media\/blog\/2019-11-11T151329.690977_IMG_6828_2.jpg",
+                "thumb_width": 800,
+                "thumb_height": 511,
+                "fallback": "Quorum: Why Customer Success is a Worthwhile Business Investment",
+                "service_icon": "https:\/\/www.quorum.us\/wp-content\/themes\/Quorum-Theme\/dist\/images\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.quorum.us\/blog\/customer-success-business-investment\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hh7o2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the blog for #2: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.quorum.us\/blog\/customer-success-business-investment\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636475577.110000",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "f102e154-94a4-4098-a1e4-123fbe8c8286",
+        "type": "message",
+        "text": "Our product has a relatively long sales cycle (~3 months) and we close a lot of business in Q4 as budgets need to be spent before they reset in the new year, so our team is really focused on closing business right now rather than putting as much emphasis on new leads. Anyone have good content strategies they can share for helping drive to close?",
+        "user": "U01ANAZTZTK",
+        "ts": "1636476402.111900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ef5727669c45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1349771386962_ef5727669c45c9f60612_72.jpg",
+            "first_name": "Theresa",
+            "real_name": "Theresa Hebert",
+            "display_name": "Theresa Hebert",
+            "team": "TJE58GTJL",
+            "name": "theresa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RlDpV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our product has a relatively long sales cycle (~3 months) and we close a lot of business in Q4 as budgets need to be spent before they reset in the new year, so our team is really focused on closing business right now rather than putting as much emphasis on new leads. Anyone have good content strategies they can share for helping drive to close?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636476402.111900",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1636488113.113800",
+        "reply_users": [
+            "U029CTQ5X6Y",
+            "U02J57LDSTU",
+            "UUXMCJQ15"
+        ],
+        "replies": [
+            {
+                "user": "U029CTQ5X6Y",
+                "ts": "1636477384.112400"
+            },
+            {
+                "user": "U02J57LDSTU",
+                "ts": "1636479557.113100"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1636488113.113800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "38cf5b8c-a785-4d28-a5db-2677ee7ee1c8",
+        "type": "message",
+        "text": "What we do with a lot of clients is create content collateral for the secondary stakeholders.\n\nFor example, say the primary buyer is a Director of Engineering, but the implementation engineer is a hands-on devops person.\n\nWe create lower-level tutorials\/integration guides\/installation docs to help get those secondary decision makers on our side.\n\nObviously my example is from one industry, but you get the idea.",
+        "user": "U029CTQ5X6Y",
+        "ts": "1636477384.112400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4d1afd4712b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2312909469026_4d1afd4712b9f77f1af8_72.jpg",
+            "first_name": "Karl",
+            "real_name": "Karl Hughes",
+            "display_name": "Karl (Draft.dev)",
+            "team": "TJE58GTJL",
+            "name": "khughes.me",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vY\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What we do with a lot of clients is create content collateral for the secondary stakeholders.\n\nFor example, say the primary buyer is a Director of Engineering, but the implementation engineer is a hands-on devops person.\n\nWe create lower-level tutorials\/integration guides\/installation docs to help get those secondary decision makers on our side.\n\nObviously my example is from one industry, but you get the idea."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636476402.111900",
+        "parent_user_id": "U01ANAZTZTK",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJG24P8P6",
+                    "U02ME7MGZ2P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "afe71456-c453-4413-a9f7-f13d951db4bc",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "UJG24P8P6",
+        "ts": "1636477753.112700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+YW5R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636475577.110000",
+        "parent_user_id": "UJG24P8P6"
+    },
+    {
+        "client_msg_id": "f08e1b4a-3930-4e5c-84f1-95ac4af98ac3",
+        "type": "message",
+        "text": "Same. We look at it from a buyer enablement perspective and fill in content gaps that may help progress decisioning\/approval within the buying constellation. Value models and other similar materials are also really effective if you have the data and wherewithal\/support to produce them. Seeing the actual economic impact can get folks to yes really quickly.",
+        "user": "U02J57LDSTU",
+        "ts": "1636479557.113100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b9383280f975",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-19\/2646757776304_b9383280f975a4fc60c5_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Kane",
+            "display_name": "Peter Kane",
+            "team": "TJE58GTJL",
+            "name": "pkane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same. We look at it from a buyer enablement perspective and fill in content gaps that may help progress decisioning\/approval within the buying constellation. Value models and other similar materials are also really effective if you have the data and wherewithal\/support to produce them. Seeing the actual economic impact can get folks to yes really quickly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636476402.111900",
+        "parent_user_id": "U01ANAZTZTK"
+    },
+    {
+        "client_msg_id": "bbb113fe-d077-401e-b6a8-04b5bfc543af",
+        "type": "message",
+        "text": "I will",
+        "user": "U02CT835FK4",
+        "ts": "1636487982.113500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fc1a6cf8ab12",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-31\/2446180730724_fc1a6cf8ab12798c9aaf_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Akujuo",
+            "display_name": "Victor Akujuo",
+            "team": "TJE58GTJL",
+            "name": "victorakujuo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6udfx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636431136.104200",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "e6f67733-7541-4c47-a383-3ac47d1c486d",
+        "type": "message",
+        "text": "3S strategy - talk to sales, success and support. Get a strong idea of things that are coming up unprompted on 3+ calls in the last few weeks. Dig into Gong if you have it. Talk to new customers to find out why they signed up.",
+        "user": "UUXMCJQ15",
+        "ts": "1636488113.113800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vn=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3S strategy - talk to sales, success and support. Get a strong idea of things that are coming up unprompted on 3+ calls in the last few weeks. Dig into Gong if you have it. Talk to new customers to find out why they signed up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636476402.111900",
+        "parent_user_id": "U01ANAZTZTK"
+    }
+]

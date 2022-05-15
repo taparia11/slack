@@ -1,0 +1,428 @@
+[
+    {
+        "client_msg_id": "232390b8-ff91-4688-a8ba-0e10cb7043d3",
+        "type": "message",
+        "text": "<@U021QMNMQ68> Awesome, thanks!",
+        "user": "U02AG6CGR3L",
+        "ts": "1629966967.000700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4be561b387bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2385295453174_4be561b387bc0f9ba3be_72.jpg",
+            "first_name": "Ramin",
+            "real_name": "Ramin Assemi",
+            "display_name": "Ramin",
+            "team": "TJE58GTJL",
+            "name": "ramin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U021QMNMQ68"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Awesome, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629891652.158500",
+        "parent_user_id": "U02AG6CGR3L"
+    },
+    {
+        "client_msg_id": "a7ab7ade-a6b4-4254-b692-50ab4e22acbc",
+        "type": "message",
+        "text": "I feel like this will have been covered at some point, but not finding anything in search. Part of my upcoming content production budget includes downloadable templates (meeting agenda templates, personnel evaluations, etc.).\n\nI'm intrigued by the idea of creating an interactive tool where the user fills out a form all their details\/needs, and the tool spits out a customized PDF (or sends it to them via email).\n\nIdeally something that's low-cost (but high quality). We've evaluated bigger platforms, but the learning curve and cost commitment are too much for me.\n\nDoes anyone have any suggestions?",
+        "user": "U01QV2VLNMQ",
+        "ts": "1630008785.001500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "976f82b97727",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-11\/1871926361296_976f82b9772778d8200d_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Palmer",
+            "display_name": "Josh Palmer",
+            "team": "TJE58GTJL",
+            "name": "joshuaepalmer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Id",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like this will have been covered at some point, but not finding anything in search. Part of my upcoming content production budget includes downloadable templates (meeting agenda templates, personnel evaluations, etc.).\n\nI'm intrigued by the idea of creating an interactive tool where the user fills out a form all their details\/needs, and the tool spits out a customized PDF (or sends it to them via email).\n\nIdeally something that's low-cost (but high quality). We've evaluated bigger platforms, but the learning curve and cost commitment are too much for me.\n\nDoes anyone have any suggestions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630008785.001500",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1630075213.006500",
+        "reply_users": [
+            "U019E2RJD9Q",
+            "U01694YQ3FX",
+            "U02AG6CGR3L",
+            "U01QV2VLNMQ"
+        ],
+        "replies": [
+            {
+                "user": "U019E2RJD9Q",
+                "ts": "1630009691.001600"
+            },
+            {
+                "user": "U01694YQ3FX",
+                "ts": "1630009954.002000"
+            },
+            {
+                "user": "U01694YQ3FX",
+                "ts": "1630009970.002300"
+            },
+            {
+                "user": "U02AG6CGR3L",
+                "ts": "1630026623.003000"
+            },
+            {
+                "user": "U01694YQ3FX",
+                "ts": "1630073206.003800"
+            },
+            {
+                "user": "U01QV2VLNMQ",
+                "ts": "1630073367.004200"
+            },
+            {
+                "user": "U01QV2VLNMQ",
+                "ts": "1630073389.004400"
+            },
+            {
+                "user": "U01694YQ3FX",
+                "ts": "1630073431.005200"
+            },
+            {
+                "user": "U01694YQ3FX",
+                "ts": "1630073722.006100"
+            },
+            {
+                "user": "U01QV2VLNMQ",
+                "ts": "1630075213.006500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b6b344e1-41f8-48ef-8924-012a6d571526",
+        "type": "message",
+        "text": "I'd guess you probably want a structure like Form &gt; Zapier &gt; Output?\n\nThere are a few Zapier tools that will place text into a PDF template for you - eg <https:\/\/zapier.com\/apps\/pdffiller\/integrations>\n\nBenefit here is (A) forms are easy to deploy and easy to complete on any CMS type and (B) non-developers should be able to maintain the workflow if it needs to be adjusted (and it almost certainly require a little maintenance).",
+        "user": "U019E2RJD9Q",
+        "ts": "1630009691.001600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bcebee72c9b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1513766373124_bcebee72c9b4c4fba078_72.jpg",
+            "first_name": "Kane",
+            "real_name": "Kane Jamison",
+            "display_name": "Kane Jamison",
+            "team": "TJE58GTJL",
+            "name": "kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd guess you probably want a structure like Form > Zapier > Output?\n\nThere are a few Zapier tools that will place text into a PDF template for you - eg "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zapier.com\/apps\/pdffiller\/integrations"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBenefit here is (A) forms are easy to deploy and easy to complete on any CMS type and (B) non-developers should be able to maintain the workflow if it needs to be adjusted (and it almost certainly require a little maintenance)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630008785.001500",
+        "parent_user_id": "U01QV2VLNMQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUJBMNRNF",
+                    "U01QV2VLNMQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90e398b2-dfa4-4430-ae7e-77e4387bd8f2",
+        "type": "message",
+        "text": "I made this custom for wordpress, but it took a few months to build and not the cheapest…cheaper than an annual software contract <https:\/\/loopio.com\/rfp-process-grader\/>",
+        "user": "U01694YQ3FX",
+        "ts": "1630009954.002000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "03abaa69448c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1213255157093_03abaa69448c4cc77e77_72.jpg",
+            "first_name": "Jillian",
+            "real_name": "Jillian Wood",
+            "display_name": "Jillian Wood",
+            "team": "TJE58GTJL",
+            "name": "jillswood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Loopio's RFP Process Grader Tool for Response Teams",
+                "title_link": "https:\/\/loopio.com\/rfp-process-grader\/",
+                "text": "Find out how your response performance compares to others, based on 12 research-backed benchmarks. See your score in minutes.",
+                "fallback": "Loopio's RFP Process Grader Tool for Response Teams",
+                "image_url": "https:\/\/loopio.com\/wp-content\/uploads\/2021\/05\/rfp-grader-social-share-image.png",
+                "from_url": "https:\/\/loopio.com\/rfp-process-grader\/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 51221,
+                "service_icon": "https:\/\/loopio.com\/favicon.ico",
+                "service_name": "loopio.com",
+                "id": 1,
+                "original_url": "https:\/\/loopio.com\/rfp-process-grader\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I made this custom for wordpress, but it took a few months to build and not the cheapest…cheaper than an annual software contract "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/loopio.com\/rfp-process-grader\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630008785.001500",
+        "parent_user_id": "U01QV2VLNMQ",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AG6CGR3L",
+                    "U01QV2VLNMQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UUJBMNRNF",
+                    "U01QV2VLNMQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1834acc4-bb70-45bc-848b-eb89519e74ea",
+        "type": "message",
+        "text": "this was less a template and more an indepth, downloadable report you get based on each question",
+        "user": "U01694YQ3FX",
+        "ts": "1630009970.002300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "03abaa69448c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1213255157093_03abaa69448c4cc77e77_72.jpg",
+            "first_name": "Jillian",
+            "real_name": "Jillian Wood",
+            "display_name": "Jillian Wood",
+            "team": "TJE58GTJL",
+            "name": "jillswood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q7eKv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this was less a template and more an indepth, downloadable report you get based on each question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630008785.001500",
+        "parent_user_id": "U01QV2VLNMQ"
+    },
+    {
+        "client_msg_id": "ec0dad4e-cf01-4d8c-8d3d-0e37acfb0c2c",
+        "type": "message",
+        "text": "Agree with the vote for Content Harmony. <@U019E2RJD9Q> is on it and super helpful too! :blush:",
+        "user": "U01TEA7AGP9",
+        "ts": "1630011579.002600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bf90e76ebf16",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2406292166641_bf90e76ebf163bf7e390_72.jpg",
+            "first_name": "cheri",
+            "real_name": "cheri magnuson",
+            "display_name": "cheri magnuson",
+            "team": "TJE58GTJL",
+            "name": "cherimagnuson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8Uc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agree with the vote for Content Harmony. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U019E2RJD9Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is on it and super helpful too! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629277336.119100",
+        "parent_user_id": "U0216ELKLQY",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0216ELKLQY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d862318e-f5be-4ad3-9452-4e5c1fc665a5",
+        "type": "message",
+        "text": "<@U01694YQ3FX> That grader is top-notch! :clap:",
+        "user": "U02AG6CGR3L",
+        "ts": "1630026623.003000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4be561b387bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2385295453174_4be561b387bc0f9ba3be_72.jpg",
+            "first_name": "Ramin",
+            "real_name": "Ramin Assemi",
+            "display_name": "Ramin",
+            "team": "TJE58GTJL",
+            "name": "ramin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02AG6CGR3L",
+            "ts": "1630026642.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8omz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01694YQ3FX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " That grader is top-notch! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630008785.001500",
+        "parent_user_id": "U01QV2VLNMQ"
+    }
+]

@@ -1,0 +1,412 @@
+[
+    {
+        "client_msg_id": "5c43538e-801f-4ff2-9f64-974124bcc28f",
+        "type": "message",
+        "text": "In another slack community I’m in, the admin has a locked channel for announcements, where the community can only read\/comment on posts from admins. It’s a nice way to sticky guidelines and do any reminders. Something to consider :slightly_smiling_face:",
+        "user": "UUVC9HJTE",
+        "ts": "1583836947.244700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "243e712f81bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/969140406898_243e712f81bc05c4c428_72.jpg",
+            "first_name": "Nina",
+            "real_name": "Nina P",
+            "display_name": "Nina P",
+            "team": "TJE58GTJL",
+            "name": "nina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUVC9HJTE",
+            "ts": "1583837115.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxMel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In another slack community I’m in, the admin has a locked channel for announcements, where the community can only read\/comment on posts from admins. It’s a nice way to sticky guidelines and do any reminders. Something to consider "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bc9ca48-5b21-4e8a-ae44-c44d4d7a4660",
+        "type": "message",
+        "text": "We recently formalized our \"rules of the road\" for our 4000+ Slack group. Some of these sound pretty stern, but they all come from long-time community members and norms that have evolved over the past 3 years. <https:\/\/docs.getdbt.com\/docs\/slack-rules-of-the-road>",
+        "user": "UJG12DM1V",
+        "ts": "1583837213.245000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG12DM1V",
+            "ts": "1583837218.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FtR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We recently formalized our \"rules of the road\" for our 4000+ Slack group. Some of these sound pretty stern, but they all come from long-time community members and norms that have evolved over the past 3 years. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.getdbt.com\/docs\/slack-rules-of-the-road"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "cfb04a22-ca3b-4afe-b151-089cc16bc040",
+        "type": "message",
+        "text": "<@UJG9WTEKG> i used to run a 600+ founders-only community back in the day, happy to help with creating rules so this community can run smoothly too \/ prevent any ambiguity in how things should work, DM me if you’d like my 2 cents :wink:",
+        "user": "UUVC0EX8C",
+        "ts": "1583841903.245400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUVC0EX8C",
+            "ts": "1583841916.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/vy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i used to run a 600+ founders-only community back in the day, happy to help with creating rules so this community can run smoothly too \/ prevent any ambiguity in how things should work, DM me if you’d like my 2 cents "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "94930ee2-3c59-4d29-9c01-ebc58904edbf",
+        "type": "message",
+        "text": "I use Todoist for all my personal stuff!",
+        "user": "UJG24P8P6",
+        "ts": "1583855793.247400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wb0+=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I use Todoist for all my personal stuff!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583341848.112800",
+        "parent_user_id": "UUKNHRX41"
+    },
+    {
+        "client_msg_id": "2fca1396-9db4-4d69-88cb-4dd6cca4bb8a",
+        "type": "message",
+        "text": "<@UJG12DM1V> these are great, definitely going to borrow from this",
+        "user": "UJG9WTEKG",
+        "ts": "1583857494.247600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG12DM1V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " these are great, definitely going to borrow from this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "13ecefb7-015c-48ce-8aea-44ba60289476",
+        "type": "message",
+        "text": "<@UUVC0EX8C> thank you will do!",
+        "user": "UJG9WTEKG",
+        "ts": "1583857503.247800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9jqd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUVC0EX8C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thank you will do!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "0ee82fc3-3906-4e6d-a053-99c297ff88b4",
+        "type": "message",
+        "text": "Also including in the guidelines that racism, sexism and other forms of discrimination will not be tolerated.",
+        "user": "UUZRUDC8L",
+        "ts": "1583860276.248100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc4faf00ca46",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c4faf00ca46e8d27fa2e4a54b77dfb1c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Bronwyn",
+            "display_name": "Bronwyn",
+            "team": "TJE58GTJL",
+            "name": "bronwyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also including in the guidelines that racism, sexism and other forms of discrimination will not be tolerated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UUH2EB134",
+                    "UJG9WTEKG",
+                    "UJ2N9A3GT",
+                    "UV5H19LNT",
+                    "UM9NER5JR"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UUJBUK6LT",
+                    "UJG9WTEKG",
+                    "UUH2ESL66"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cf5b469-75cd-4f70-a0ae-bb95b906f758",
+        "type": "message",
+        "text": "Anyone have any examples they love of in-post CTAs?",
+        "user": "UJE5LARL0",
+        "ts": "1583870714.249900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kU7m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone have any examples they love of in-post CTAs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583870714.249900",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1584975852.334700",
+        "reply_users": [
+            "UUXMCJQ15",
+            "UJE5LARL0",
+            "UMQASRN1W"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1583959536.252100"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1584106326.253800"
+            },
+            {
+                "user": "UMQASRN1W",
+                "ts": "1584975852.334700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

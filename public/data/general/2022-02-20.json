@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "c2f99327-5f2d-4132-a978-8fb38271ddc9",
+        "type": "message",
+        "text": "Hi <@U033MEHFJ2J> I enjoy <https:\/\/open.spotify.com\/show\/1iEE4UUo6GHIcjX8T8fLnk|Saas Marketing Superstars> on Spotify. they interview some great content leaders. I hope you find it as inspiring as I have.",
+        "user": "U02AW2035U7",
+        "ts": "1645422310.736139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "86e92327828b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-17\/2411088238832_86e92327828b8bc29dd0_72.jpg",
+            "first_name": "Marilyn",
+            "real_name": "Marilyn Lopez",
+            "display_name": "Marilyn Lopez",
+            "team": "TJE58GTJL",
+            "name": "marilyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/open.spotify.com\/show\/1iEE4UUo6GHIcjX8T8fLnk",
+                "audio_html": "<iframe width=\"100%\" height=\"152\" title=\"Spotify Embed: SaaS Marketing Superstars\" style=\"[object Object]\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https:\/\/open.spotify.com\/embed\/show\/1iEE4UUo6GHIcjX8T8fLnk?utm_source=oembed\"><\/iframe>",
+                "audio_html_width": 456,
+                "audio_html_height": 152,
+                "thumb_url": "https:\/\/i.scdn.co\/image\/ab67656300005f1fdbbd08922e9cca224859a2ba",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/show\/1iEE4UUo6GHIcjX8T8fLnk",
+                "fallback": "Spotify Audio: SaaS Marketing Superstars",
+                "title": "SaaS Marketing Superstars",
+                "title_link": "https:\/\/open.spotify.com\/show\/1iEE4UUo6GHIcjX8T8fLnk",
+                "service_name": "Spotify",
+                "service_url": "https:\/\/spotify.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U033MEHFJ2J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I enjoy "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/show\/1iEE4UUo6GHIcjX8T8fLnk",
+                                "text": "Saas Marketing Superstars"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on Spotify. they interview some great content leaders. I hope you find it as inspiring as I have."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645232189.061259",
+        "parent_user_id": "U033MEHFJ2J",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U033MEHFJ2J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b28f769-bef4-46e2-b3e0-81db72973ea3",
+        "type": "message",
+        "text": "Not sure if relevant then, but the ones that I like are for example <https:\/\/www.canva.com\/designschool\/|Canva> or <https:\/\/academy.intercom.com\/|Intercom>. But those are mostly academies, not help centres.",
+        "user": "U02V46B3JRX",
+        "ts": "1645427053.371959",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c2161f379900",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-20\/2976600316485_c2161f379900e9a2349b_72.jpg",
+            "first_name": "Alena",
+            "real_name": "Alena",
+            "display_name": "Alena",
+            "team": "TJE58GTJL",
+            "name": "alena",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FhICh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if relevant then, but the ones that I like are for example "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.canva.com\/designschool\/",
+                                "text": "Canva"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/academy.intercom.com\/",
+                                "text": "Intercom"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". But those are mostly academies, not help centres."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645122057.004179",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

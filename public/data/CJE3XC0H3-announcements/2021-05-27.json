@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "ff40a5f7-7100-4fa0-a39f-fb9239369f04",
+        "type": "message",
+        "text": "Hey Jimmy, I know my team would love to see a b2c-focused content chat! Counterintuitively, I find it’s sometimes harder to find high-quality info on b2c content creation + strategy :face_with_cowboy_hat:",
+        "user": "U0169509JG5",
+        "ts": "1622100769.053500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gab6edc71f75",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ab6edc71f75966ffe45a1131a9e230c8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "",
+            "real_name": "Adele Cochrane",
+            "display_name": "Adele Cochrane",
+            "team": "TJE58GTJL",
+            "name": "adele",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RRJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Jimmy, I know my team would love to see a b2c-focused content chat! Counterintuitively, I find it’s sometimes harder to find high-quality info on b2c content creation + strategy "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_cowboy_hat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621956209.045500",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01TBAF98H0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DB95B525-4778-4F1C-9FB3-A8C7DC88E0C2",
+        "type": "message",
+        "text": "Great idea I’ll make one <@U0169509JG5> ",
+        "user": "UJG9WTEKG",
+        "ts": "1622128021.054000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VhAe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great idea I’ll make one "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0169509JG5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621956209.045500",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "U0169509JG5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "BA374D02-FB9E-463B-A2F1-BF61615CE8D3",
+        "type": "message",
+        "text": "Did you continue to use webflow <@UJE5LARL0> or gone for something else. I've tried webflow and couldn't really get along with it ",
+        "user": "U02CTCZEL3E",
+        "ts": "1646476504.414819",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g3beeb2d18df",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3beeb2d18dfb62c4a48be52d8c8931d0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Craig",
+            "real_name": "Craig Dennis",
+            "display_name": "Craig",
+            "team": "TJE58GTJL",
+            "name": "craigdennis1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iA4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you continue to use webflow "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LARL0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or gone for something else. I've tried webflow and couldn't really get along with it "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646332163.835269",
+        "parent_user_id": "U0351MPHFPW"
+    },
+    {
+        "client_msg_id": "fdbc1eb9-0ef3-44e9-b273-ac53f4070243",
+        "type": "message",
+        "text": "<@U02CTCZEL3E> no - I ditched it for a static site generator",
+        "user": "UJE5LARL0",
+        "ts": "1646478933.642449",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02CTCZEL3E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no - I ditched it for a static site generator"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646332163.835269",
+        "parent_user_id": "U0351MPHFPW"
+    }
+]

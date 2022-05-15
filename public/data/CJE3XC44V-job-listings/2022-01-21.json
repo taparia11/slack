@@ -1,0 +1,203 @@
+[
+    {
+        "client_msg_id": "ae7c82d6-9ee8-46a2-80c1-ddc575687858",
+        "type": "message",
+        "text": "<@U01GLCVCT89>\n\nI sent you a DM",
+        "user": "U02Q8U5T7TP",
+        "ts": "1642762165.032600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6ac00fe7f7de",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-15\/3395185200147_6ac00fe7f7de679b0f41_72.jpg",
+            "first_name": "Johelski",
+            "real_name": "Johelski",
+            "display_name": "johelski",
+            "team": "TJE58GTJL",
+            "name": "ajayijohel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+zpZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01GLCVCT89"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI sent you a DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642696337.029700"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": ":star: _new featured role_ :star:\n---\n*Verblio is hiring a Senior Manager of Customer Experience (Denver, CO, USA)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/229245-senior-manager-of-customer-experience>",
+        "ts": "1642785132.033400",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":sunglasses:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f60e.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1642788886.034800",
+        "thread_ts": "1642788886.034800",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1642790489.035000",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1642790489.035000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1642790489.035000"
+    },
+    {
+        "client_msg_id": "674d72bf-310e-42c9-a336-631ad20dbd56",
+        "type": "message",
+        "text": "hi <@U02TTF33S3W> this channel is just a feed from the job board. if this is full-time, you can post here → <http:\/\/superpath.co\/jobs|superpath.co\/jobs> or if it's freelance you can post in <#C021RFDHEMD|all-things-freelance>",
+        "user": "UJG9WTEKG",
+        "ts": "1642790489.035000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ldh0A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02TTF33S3W"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this channel is just a feed from the job board. if this is full-time, you can post here → "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/superpath.co\/jobs",
+                                "text": "superpath.co\/jobs"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or if it's freelance you can post in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C021RFDHEMD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642788886.034800",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02TTF33S3W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Foresight Insurance is hiring a Content Marketing Manager (Remote)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/229337-content-marketing-manager>",
+        "ts": "1642809098.035500",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "thread_ts": "1642809098.035500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1644268904.317709",
+        "reply_users": [
+            "UN29JC48H"
+        ],
+        "replies": [
+            {
+                "user": "UN29JC48H",
+                "ts": "1644268904.317709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": ":star: _new featured role_ :star:\n---\n*Omniscient Digital is hiring a Managing Editor :tv: (United States)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/213553-managing-editor>",
+        "ts": "1642814148.035600",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":sunglasses:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f60e.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": ":star: _new featured role_ :star:\n---\n*Exponent is hiring a Freelance Content Writer (CA, USA)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/229409-freelance-content-writer>",
+        "ts": "1642817879.035700",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":sunglasses:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f60e.png"
+        },
+        "bot_id": "B0199MPQELR"
+    }
+]

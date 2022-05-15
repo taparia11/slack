@@ -1,0 +1,475 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1644326677.315159",
+        "thread_ts": "1644326677.315159",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1644335927.426409",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1644335927.426409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1644335927.426409",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0320CENNGK",
+                    "U032Q4CT9G8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be754db7-1b05-470c-8975-37fdd67d86fa",
+        "type": "message",
+        "text": "<@U01EBT43ERH> can you move this to promotion?",
+        "user": "UJG9WTEKG",
+        "ts": "1644335927.426409",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nq3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EBT43ERH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move this to promotion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644326677.315159",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "36687f33-de98-4186-ba11-2ef583530e06",
+        "type": "message",
+        "text": "start a community (i'm half kidding)",
+        "user": "UJG9WTEKG",
+        "ts": "1644335960.406629",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "start a community (i'm half kidding)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644232940.661959",
+        "parent_user_id": "U031FGHH00M",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U02Q5J6H7NC",
+                    "U031FGHH00M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9eca05eb-6214-48a4-b97d-d4c4bb5d8f5b",
+        "type": "message",
+        "text": "<@U029CTQ5X6Y> do you mind moving to promotion?",
+        "user": "UJG9WTEKG",
+        "ts": "1644335984.993749",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cPe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U029CTQ5X6Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you mind moving to promotion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644255346.067919",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5179e663-4580-4261-a80a-8e7493c74aea",
+        "type": "message",
+        "text": "Hey everyone!\nI'm looking to speak to an eCommerce SMS marketing expert for an article I'm writing. Please DM if you're one or know someone. Would be super helpful!",
+        "user": "U02DYMPDNS0",
+        "ts": "1644352289.391099",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a9966a823181",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2493084355616_a9966a8231812bc7dc38_72.jpg",
+            "first_name": "Komal",
+            "real_name": "Komal Ahuja",
+            "display_name": "Komal Ahuja",
+            "team": "TJE58GTJL",
+            "name": "komal.ahuja7372",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nOtzM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone!\nI'm looking to speak to an eCommerce SMS marketing expert for an article I'm writing. Please DM if you're one or know someone. Would be super helpful!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcac790f-74c2-4f0a-812c-55761cbf8bed",
+        "type": "message",
+        "text": "Hi guys. I'm looking to guest post for a few B2B\/ SaaS brands. Anybody receiving guest posts?",
+        "user": "U0301QW3FR7",
+        "ts": "1644355194.104909",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "389ac66213e5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2984831694710_389ac66213e50aa861e3_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Agyeibea Kumi",
+            "display_name": "Esther Kumi",
+            "team": "TJE58GTJL",
+            "name": "kumiagyeibea",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi guys. I'm looking to guest post for a few B2B\/ SaaS brands. Anybody receiving guest posts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1644355195.211649"
+    },
+    {
+        "client_msg_id": "5e54ea03-83ac-4dc2-8448-f50605f60bd3",
+        "type": "message",
+        "text": "Don’t worry <@U0301QW3FR7> I always called women and girls “guys”. It’s only recently that this is now off limits. I even call my daughters guys. I can see now how it’s pejorative but never noticed before. We always said ‘hey guys’ to women before!",
+        "user": "U032D0T39QR",
+        "ts": "1644356829.400799",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5e43324317aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3067799456070_5e43324317aab3a79c72_72.jpg",
+            "first_name": "Chauncey",
+            "real_name": "Chauncey Zalkin",
+            "display_name": "Chauncey Zalkin",
+            "team": "TJE58GTJL",
+            "name": "chaunceyzalkin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don’t worry "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0301QW3FR7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I always called women and girls “guys”. It’s only recently that this is now off limits. I even call my daughters guys. I can see now how it’s pejorative but never noticed before. We always said ‘hey guys’ to women before!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644356829.400799",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1644404551.653429",
+        "reply_users": [
+            "U032J4JB40Z",
+            "USLACKBOT"
+        ],
+        "replies": [
+            {
+                "user": "U032J4JB40Z",
+                "ts": "1644404550.791949"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1644404551.653429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1644356830.914279"
+    },
+    {
+        "client_msg_id": "7fb2652c-257a-49c3-a554-93995cc5d07b",
+        "type": "message",
+        "text": "Thank you for the kind words Chauncey. I'll keep Slackbot's recommendation in mind",
+        "user": "U0301QW3FR7",
+        "ts": "1644356924.430349",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "389ac66213e5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/2984831694710_389ac66213e50aa861e3_72.jpg",
+            "first_name": "Esther",
+            "real_name": "Esther Agyeibea Kumi",
+            "display_name": "Esther Kumi",
+            "team": "TJE58GTJL",
+            "name": "kumiagyeibea",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKFX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for the kind words Chauncey. I'll keep Slackbot's recommendation in mind"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U032D0T39QR",
+                    "U032Q4CT9G8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5871d1a2-44fe-43a2-9249-b0173a2a6359",
+        "type": "message",
+        "text": "1. One of the best ways to get more UGC is to share UGC! This tells your audience what you're looking for, and 64% of consumers say that they are more likely to share UGC about brands they like if the brand is already sharing UGC (according to <https:\/\/www.go.tintup.com\/state-of-ugc-report-2022|TINT's State of UGC report>). You may have to start with UGC that's subpar in quality, or by hiring influencers. Basically - gotta start somewhere to get the ball rolling and get more and better UGC down the road.\n2. Another great way is contests where submitting a content piece is the contest entry. The majority of consumers report that they do participate in contests and wish the brands they liked held more.\n3. And the easiest way is to just ask! If you don't ask, you don't get. :slightly_smiling_face:",
+        "user": "U031FGLGPC5",
+        "ts": "1644378005.379499",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b93838f1b837",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3089597203505_b93838f1b83792a0714d_72.jpg",
+            "first_name": "Olivia",
+            "real_name": "Olivia Lucero",
+            "display_name": "Olivia Lucero",
+            "team": "TJE58GTJL",
+            "name": "olivialucero13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.go.tintup.com\/state-of-ugc-report-2022",
+                "image_url": "https:\/\/www.go.tintup.com\/hubfs\/TINT%20SOUGC%202022%20WEBSITE%20%281200%20x%20628%20px%29.png#keepProtocol",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 563634,
+                "service_icon": "https:\/\/www.go.tintup.com\/hubfs\/tintupimage\/favicon-32x32.png",
+                "id": 1,
+                "original_url": "https:\/\/www.go.tintup.com\/state-of-ugc-report-2022",
+                "fallback": "State of User-Generated Content 2022 - TINT",
+                "text": "Download the 2022 TINT State of User-Generated Content report to learn the themes and insights shaping UGC, social, and the future of marketing.",
+                "title": "State of User-Generated Content 2022 - TINT",
+                "title_link": "https:\/\/www.go.tintup.com\/state-of-ugc-report-2022",
+                "service_name": "go.tintup.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Vls",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "One of the best ways to get more UGC is to share UGC! This tells your audience what you're looking for, and 64% of consumers say that they are more likely to share UGC about brands they like if the brand is already sharing UGC (according to "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.go.tintup.com\/state-of-ugc-report-2022",
+                                        "text": "TINT's State of UGC report"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "). You may have to start with UGC that's subpar in quality, or by hiring influencers. Basically - gotta start somewhere to get the ball rolling and get more and better UGC down the road."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. Another great way is contests where submitting a content piece is the contest entry. The majority of consumers report that they do participate in contests and wish the brands they liked held more.\n3. And the easiest way is to just ask! If you don't ask, you don't get. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644232940.661959",
+        "parent_user_id": "U031FGHH00M",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U031FGHH00M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1644136453.944119",
+        "thread_ts": "1644136453.944119",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1644160516.119799",
+        "reply_users": [
+            "U02GMMQ281W",
+            "U02HMEVKSQN"
+        ],
+        "replies": [
+            {
+                "user": "U02GMMQ281W",
+                "ts": "1644159089.476509"
+            },
+            {
+                "user": "U02HMEVKSQN",
+                "ts": "1644160516.119799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d319ab07-17d2-4048-93ee-12a3d8aa0e1f",
+        "type": "message",
+        "text": "This is a channel for only superpath job listings. You will want to post this ins all things freelance or hire me",
+        "user": "U02GMMQ281W",
+        "ts": "1644159089.476509",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1131d2dfd73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2589760574406_e1131d2dfd73f2e7db3e_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda S.",
+            "display_name": "Amanda",
+            "team": "TJE58GTJL",
+            "name": "theglamtechie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02GMMQ281W",
+            "ts": "1644159113.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SP6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a channel for only superpath job listings. You will want to post this ins all things freelance or hire me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644136453.944119",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "text": "Thank you for the clarification",
+        "user": "U02HMEVKSQN",
+        "ts": "1644160516.119799",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g65640ad7148",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/65640ad7148e8f6ba75ac96bd463faef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Emmanuel",
+            "real_name": "Emmanuel",
+            "display_name": "Emmanuel",
+            "team": "TJE58GTJL",
+            "name": "emcie4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1644136453.944119",
+        "parent_user_id": "USLACKBOT"
+    }
+]

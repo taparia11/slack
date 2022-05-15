@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "a9495758-4b59-4d22-823e-69abd7e37468",
+        "type": "message",
+        "text": "Has anyone used <https:\/\/www.plannuh.com\/product\/|Plannuh>? Looks like it could be pretty useful to track campaigns and ROI :eyes:",
+        "user": "ULJBEFSJJ",
+        "ts": "1626871790.271000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "ULJBEFSJJ",
+            "ts": "1626871825.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Plannuh",
+                "title": "Marketing Performance Management Software - Plannuh",
+                "title_link": "https:\/\/www.plannuh.com\/product\/",
+                "text": "Plannuh helps you build and manage marketing goals, plans, campaigns, budget &amp; ROI all in one place for visibility, efficiency, and agility.",
+                "fallback": "Plannuh: Marketing Performance Management Software - Plannuh",
+                "from_url": "https:\/\/www.plannuh.com\/product\/",
+                "service_icon": "https:\/\/www.plannuh.com\/wp-content\/uploads\/2020\/06\/cropped-plannuh-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.plannuh.com\/product\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone used "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.plannuh.com\/product\/",
+                                "text": "Plannuh"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Looks like it could be pretty useful to track campaigns and ROI "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U012UL77GUT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

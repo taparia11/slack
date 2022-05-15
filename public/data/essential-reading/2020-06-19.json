@@ -1,0 +1,402 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592579875.000200",
+        "user": "UJG9WTEKG",
+        "text": "<@UJG9WTEKG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1592579876.000300",
+        "user": "UJG9WTEKG",
+        "text": "set the channel description: share stuff you’re reading (on any topic)",
+        "purpose": "share stuff you’re reading (on any topic)"
+    },
+    {
+        "client_msg_id": "6a8d77b9-6349-45f2-96a4-647796adb0f7",
+        "type": "message",
+        "text": "<https:\/\/www.supercast.com\/blog\/joe-rogan-got-ripped-off>",
+        "user": "UJG9WTEKG",
+        "ts": "1592580000.000500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Joe Rogan Got Ripped Off",
+                "title_link": "https:\/\/www.supercast.com\/blog\/joe-rogan-got-ripped-off",
+                "text": "How Spotify tricked him into giving up billions",
+                "fallback": "Joe Rogan Got Ripped Off",
+                "image_url": "https:\/\/assets.website-files.com\/5d2d9901b4a76deb21397a39\/5ec80480c4e0062c38c4e0a1_Zinf036E.jpg-large.jpeg",
+                "from_url": "https:\/\/www.supercast.com\/blog\/joe-rogan-got-ripped-off",
+                "image_width": 436,
+                "image_height": 250,
+                "image_bytes": 214937,
+                "service_name": "supercast.com",
+                "id": 1,
+                "original_url": "https:\/\/www.supercast.com\/blog\/joe-rogan-got-ripped-off"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lkDqU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.supercast.com\/blog\/joe-rogan-got-ripped-off"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592580000.000500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1593713423.024600",
+        "reply_users": [
+            "UJG9WTEKG",
+            "UUVS674PP",
+            "U0166H7KUAZ"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1592580010.000700"
+            },
+            {
+                "user": "UUVS674PP",
+                "ts": "1592740227.013100"
+            },
+            {
+                "user": "U0166H7KUAZ",
+                "ts": "1593713423.024600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1593713423.024600"
+    },
+    {
+        "client_msg_id": "aeb8e9dc-830d-4147-b5ce-5b3b644245e0",
+        "type": "message",
+        "text": "super interesting argument for owning your own audience",
+        "user": "UJG9WTEKG",
+        "ts": "1592580010.000700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hTQsX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "super interesting argument for owning your own audience"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592580000.000500",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580116.001000",
+        "user": "UJWJLLD63",
+        "text": "<@UJWJLLD63> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580123.001200",
+        "user": "U0133FVJ64B",
+        "text": "<@U0133FVJ64B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580124.001400",
+        "user": "UUH28KQPL",
+        "text": "<@UUH28KQPL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580217.001600",
+        "user": "U014PRHQUQ2",
+        "text": "<@U014PRHQUQ2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580228.001800",
+        "user": "U010UHR7PED",
+        "text": "<@U010UHR7PED> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580252.002000",
+        "user": "U0146DAB5QE",
+        "text": "<@U0146DAB5QE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580265.002200",
+        "user": "U0113AV4895",
+        "text": "<@U0113AV4895> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580266.002400",
+        "user": "U0154G6AYF8",
+        "text": "<@U0154G6AYF8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580421.002600",
+        "user": "U015E3ME72R",
+        "text": "<@U015E3ME72R> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580488.002800",
+        "user": "UR1QZ74V6",
+        "text": "<@UR1QZ74V6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580498.003000",
+        "user": "U010CH02CMP",
+        "text": "<@U010CH02CMP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580815.003200",
+        "user": "U011UJX75PE",
+        "text": "<@U011UJX75PE> has joined the channel"
+    },
+    {
+        "client_msg_id": "4906d860-0dd4-4c5f-92eb-ea89277bd70c",
+        "type": "message",
+        "text": ":the_horns:",
+        "user": "U011UJX75PE",
+        "ts": "1592580820.003400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3YY+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "the_horns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580863.003600",
+        "user": "US3TA64RE",
+        "text": "<@US3TA64RE> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580889.003800",
+        "user": "UUVC0LK2Q",
+        "text": "<@UUVC0LK2Q> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592580904.004000",
+        "user": "U014ZKC177G",
+        "text": "<@U014ZKC177G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592581174.004200",
+        "user": "UN227ML2H",
+        "text": "<@UN227ML2H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592582028.004400",
+        "user": "UMFSZ8JHL",
+        "text": "<@UMFSZ8JHL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592582042.004600",
+        "user": "UN9CGN894",
+        "text": "<@UN9CGN894> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1592582541.004800",
+        "user": "UJDRK6E4C",
+        "text": "<@UJDRK6E4C> has joined the channel"
+    },
+    {
+        "client_msg_id": "9F9ABB8A-3708-4F69-B6BC-6AF30EB27808",
+        "type": "message",
+        "text": "This is a tweet that regrettably leads to an article behind a paywall. But I believe it’s got a message worth sharing and, if your audience has an appetite for this topics, spreading. \n\n<https:\/\/twitter.com\/justmrphillips\/status\/1273698697914671104?s=21|https:\/\/twitter.com\/justmrphillips\/status\/1273698697914671104?s=21>\n\nSan Francisco Chronicle’s Justin Phillips highlights the unintended consequences of the sudden support of black-owned businesses in the Bay Area, saying “Hidden within the new adoration white people are giving black businesses is an unspoken power. Where they spend money, what they deem worth saving through this pandemic, will be what represents black Bay Area culture in the months and years to come.” I wouldn’t be surprised to hear this isn’t isolated to N. California. ",
+        "user": "UUH2EB134",
+        "ts": "1592627568.012400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/JustMrPhillips|@JustMrPhillips>: Hidden within the new adoration white people are giving black businesses is an unspoken power. Where they spend $$$, what they deem worth saving right now will be what represents black Bay Area culture in the future. \n\nThis is worth talking about. \n<https:\/\/www.sfchronicle.com\/opinion\/article\/Here-s-the-problem-with-white-people-spending-15350021.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&amp;utm_source=t.co&amp;utm_medium=referral>",
+                "ts": 1592508408,
+                "author_name": "Justin Phillips",
+                "author_link": "https:\/\/twitter.com\/JustMrPhillips\/status\/1273698697914671104",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1027005390532177920\/p-Fz4rjv_normal.jpg",
+                "author_subname": "@JustMrPhillips",
+                "text": "Hidden within the new adoration white people are giving black businesses is an unspoken power. Where they spend $$$, what they deem worth saving right now will be what represents black Bay Area culture in the future. \n\nThis is worth talking about. \n<https:\/\/www.sfchronicle.com\/opinion\/article\/Here-s-the-problem-with-white-people-spending-15350021.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&amp;utm_source=t.co&amp;utm_medium=referral>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/justmrphillips\/status\/1273698697914671104?s=21",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/justmrphillips\/status\/1273698697914671104?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uuMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a tweet that regrettably leads to an article behind a paywall. But I believe it’s got a message worth sharing and, if your audience has an appetite for this topics, spreading. \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/justmrphillips\/status\/1273698697914671104?s=21",
+                                "text": "https:\/\/twitter.com\/justmrphillips\/status\/1273698697914671104?s=21"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSan Francisco Chronicle’s Justin Phillips highlights the unintended consequences of the sudden support of black-owned businesses in the Bay Area, saying “Hidden within the new adoration white people are giving black businesses is an unspoken power. Where they spend money, what they deem worth saving through this pandemic, will be what represents black Bay Area culture in the months and years to come.” I wouldn’t be surprised to hear this isn’t isolated to N. California. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592627568.012400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1593788448.027400",
+        "reply_users": [
+            "U011UJX75PE",
+            "U0161DQ93HV"
+        ],
+        "replies": [
+            {
+                "user": "U011UJX75PE",
+                "ts": "1593087975.018100"
+            },
+            {
+                "user": "U0161DQ93HV",
+                "ts": "1593788448.027400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U011UJX75PE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

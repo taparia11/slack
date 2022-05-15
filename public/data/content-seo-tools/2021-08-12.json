@@ -1,0 +1,654 @@
+[
+    {
+        "client_msg_id": "9036121f-5a5d-4aee-8990-6920c8c6f36e",
+        "type": "message",
+        "text": "I switched from Clearscope to Frase and really enjoy working with it! Plus, the  Google Doc integration (still in beta, I believe) is awesome :slightly_smiling_face:",
+        "user": "U029R7ANH41",
+        "ts": "1628781976.067000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "40ce364c7f61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-12\/2375020156611_40ce364c7f617b9b0353_72.jpg",
+            "first_name": "Aubrey",
+            "real_name": "Aubrey Nekvinda",
+            "display_name": "Aubrey Nekvinda",
+            "team": "TJE58GTJL",
+            "name": "aubrey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I switched from Clearscope to Frase and really enjoy working with it! Plus, the  Google Doc integration (still in beta, I believe) is awesome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628672561.060700",
+        "parent_user_id": "U012GHRAHDK",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U012GHRAHDK",
+                    "U0287DCG133"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0136c08a-ac51-482f-bbba-ab15289bb9d6",
+        "type": "message",
+        "text": "i've run into a GA issue where our subdomain trakcing is messed up. <http:\/\/superpath.co\/|superpath.co\/> and <http:\/\/jobs.superpath.co\/|jobs.superpath.co\/> both appear only as \"\/\" so i can't tell the difference between the two. anyone else run into this before?",
+        "user": "UJG9WTEKG",
+        "ts": "1628794339.068000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i've run into a GA issue where our subdomain trakcing is messed up. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/superpath.co\/",
+                                "text": "superpath.co\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jobs.superpath.co\/",
+                                "text": "jobs.superpath.co\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " both appear only as \"\/\" so i can't tell the difference between the two. anyone else run into this before?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628794339.068000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1628908990.103900",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U012GHRAHDK",
+            "UPZ4VTLJE",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1628815259.071800"
+            },
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1628815842.073800"
+            },
+            {
+                "user": "UPZ4VTLJE",
+                "ts": "1628825185.074200"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1628873028.079500"
+            },
+            {
+                "user": "U012GHRAHDK",
+                "ts": "1628908990.103900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1628908990.103900"
+    },
+    {
+        "client_msg_id": "cd4b0adc-5faf-4ce4-a8be-f5522ee5ca44",
+        "type": "message",
+        "text": "*Medium to blog transfer of posts*\nDoes anyone know whether I can move (copy) Medium posts to my own blog and then delete them from Medium without (SEO) repercussions for my blog? I don't care about the original Medium Google ranking. Still, I want to make sure Google doesn't somehow remember that the post was published on Medium first and therefore ignores or penalizes the version on my blog.",
+        "user": "U01HBGYE7G9",
+        "ts": "1628815065.070300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gb6c5f11778d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b6c5f11778dbbed8509d27ae3314a63f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Tim Metz",
+            "display_name": "Tim Metz",
+            "team": "TJE58GTJL",
+            "name": "tim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "16R7B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Medium to blog transfer of posts",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDoes anyone know whether I can move (copy) Medium posts to my own blog and then delete them from Medium without (SEO) repercussions for my blog? I don't care about the original Medium Google ranking. Still, I want to make sure Google doesn't somehow remember that the post was published on Medium first and therefore ignores or penalizes the version on my blog."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628815065.070300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1628818184.074000",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U01U4QYEXBJ"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1628815200.071000"
+            },
+            {
+                "user": "U01U4QYEXBJ",
+                "ts": "1628818184.074000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "B5680B50-9952-45F3-9AA7-063F1DC46583",
+        "type": "message",
+        "text": "Add them to your blog and set the canonical tag on Medium to that new blog post. Win\/win.",
+        "user": "UUXMCJQ15",
+        "ts": "1628815200.071000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wOjV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Add them to your blog and set the canonical tag on Medium to that new blog post. Win\/win."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628815065.070300",
+        "parent_user_id": "U01HBGYE7G9",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U01AHL8AGBB",
+                    "U01G7PRL3HQ",
+                    "U01KH3P18RZ",
+                    "U019N7Y0EBT",
+                    "U019P0ADPCH"
+                ],
+                "count": 5
+            },
+            {
+                "name": "point_up_2::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U01HBGYE7G9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6A0A7C8B-21C1-4C94-AAEE-DFA81E795C40",
+        "type": "message",
+        "text": "Yeah. I’ve set up cross domain tracking before to get a better view with subdomains.",
+        "user": "UUXMCJQ15",
+        "ts": "1628815259.071800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gs5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah. I’ve set up cross domain tracking before to get a better view with subdomains."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628794339.068000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "66AA84A5-3753-4975-A3C3-382A9EB9349B",
+        "type": "message",
+        "text": "Yup! About 25% of the price, too.",
+        "user": "UUXMCJQ15",
+        "ts": "1628815283.072400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/pCb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup! About 25% of the price, too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628672561.060700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "35A754D9-AF58-45E9-BB56-FBA577C4C891",
+        "type": "message",
+        "text": "<@U012GHRAHDK> I can also get you 25% off the first 3 months of Frase if budget is a concern :raised_hands:",
+        "user": "UUXMCJQ15",
+        "ts": "1628815348.073200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUXMCJQ15",
+            "ts": "1628815365.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "imdz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012GHRAHDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can also get you 25% off the first 3 months of Frase if budget is a concern "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628672561.060700",
+        "parent_user_id": "U012GHRAHDK",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U012GHRAHDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e6c869e-a7fa-4b4c-b8cf-16546c730025",
+        "type": "message",
+        "text": "You're the best. Yet to decide on this as but I'll definitely take you up on that offer! :grin:",
+        "user": "U012GHRAHDK",
+        "ts": "1628815798.073600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4x4i8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're the best. Yet to decide on this as but I'll definitely take you up on that offer! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628672561.060700",
+        "parent_user_id": "U012GHRAHDK"
+    },
+    {
+        "client_msg_id": "896e342c-8295-4ecd-bda7-67be38113a42",
+        "type": "message",
+        "text": "Are they on different GA properties?",
+        "user": "U012GHRAHDK",
+        "ts": "1628815842.073800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba0c4534568",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3401585222352_8ba0c45345680ce088ab_72.jpg",
+            "first_name": "Deb",
+            "real_name": "Deb Mukherjee",
+            "display_name": "Deb Mukherjee",
+            "team": "TJE58GTJL",
+            "name": "debdut94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xogSn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are they on different GA properties?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628794339.068000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "5abde090-a24a-49ec-b3d4-01a2a5e66fe2",
+        "type": "message",
+        "text": "Would that be considered a distribution tactic?",
+        "user": "U01U4QYEXBJ",
+        "ts": "1628818184.074000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "663eb11e79f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-25\/2556102616672_663eb11e79f303963afd_72.jpg",
+            "first_name": "Barb",
+            "real_name": "Barb Davids",
+            "display_name": "Barb Davids",
+            "team": "TJE58GTJL",
+            "name": "barb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TqV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would that be considered a distribution tactic?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628815065.070300",
+        "parent_user_id": "U01HBGYE7G9"
+    },
+    {
+        "client_msg_id": "f22dc80d-4abf-427b-b0d1-4a6812a5b493",
+        "type": "message",
+        "text": "Have you set up the filter to combine the host name and request URl? <http:\/\/stony.me\/practical-google-analytics-creating-a-filter-to-show-full-url-in-reports-in-google-analytics\/>",
+        "user": "UPZ4VTLJE",
+        "ts": "1628825185.074200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c99b7b58614",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-04\/2587988620704_5c99b7b58614943546f4_72.jpg",
+            "first_name": "",
+            "real_name": "Gary Magnone",
+            "display_name": "Gary Magnone",
+            "team": "TJE58GTJL",
+            "name": "gary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tony's blog",
+                "title": "Creating a Filter to Show Full URL in Reports in Google Analytics - Tony's blog",
+                "title_link": "http:\/\/stony.me\/practical-google-analytics-creating-a-filter-to-show-full-url-in-reports-in-google-analytics\/",
+                "text": "How to show the domain part of a URL in Google Analytics? If you prefer to see a full URL instead of a Request URL, the best way to do so is to create an Advanced filter.",
+                "fallback": "Tony's blog: Creating a Filter to Show Full URL in Reports in Google Analytics - Tony's blog",
+                "thumb_url": "http:\/\/stony.me\/wp-content\/uploads\/2015\/11\/practical-google-analytics-creating-a-filter-to-show-full-url-in-reports-in-google-analytics-featured.jpg",
+                "ts": 1446844698,
+                "from_url": "http:\/\/stony.me\/practical-google-analytics-creating-a-filter-to-show-full-url-in-reports-in-google-analytics\/",
+                "thumb_width": 700,
+                "thumb_height": 400,
+                "service_icon": "http:\/\/stony.me\/wp-content\/uploads\/2015\/05\/readme-logo.png",
+                "id": 1,
+                "original_url": "http:\/\/stony.me\/practical-google-analytics-creating-a-filter-to-show-full-url-in-reports-in-google-analytics\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u9S6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you set up the filter to combine the host name and request URl? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/stony.me\/practical-google-analytics-creating-a-filter-to-show-full-url-in-reports-in-google-analytics\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628794339.068000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U01P13NTGG6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e47b05b-eb56-4803-b5d7-bb405a8a8895",
+        "type": "message",
+        "text": "Great conversation everyone. Are these these usable for ebook \/white paper outlines if SEO isn't a top priority? Or are they really only worthwhile for articles\/blogs? Any recos for ebook or white pair tools is that us the case?",
+        "user": "U01SP0Z5D33",
+        "ts": "1628825217.074500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "828b75c9a94f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-13\/2836757982275_828b75c9a94f85c85f9a_72.jpg",
+            "first_name": "Mark",
+            "real_name": "Mark Burdon",
+            "display_name": "Mark Burdon",
+            "team": "TJE58GTJL",
+            "name": "mburdon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "55J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great conversation everyone. Are these these usable for ebook \/white paper outlines if SEO isn't a top priority? Or are they really only worthwhile for articles\/blogs? Any recos for ebook or white pair tools is that us the case?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628672561.060700",
+        "parent_user_id": "U012GHRAHDK"
+    }
+]

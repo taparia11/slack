@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "03A1EC9E-A26C-4E64-8317-7D0155D9A0CD",
+        "type": "message",
+        "text": "Awesome. Just sent!",
+        "user": "UUJBMNRNF",
+        "ts": "1593542635.436300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHwp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome. Just sent!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593458008.431300",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "d8367c8c-52af-4381-a356-18ccf24c713d",
+        "type": "message",
+        "text": "so much great feedback! it was designed to be anonymous so i won’t share it all but a few things came up multiple times:\n• themed chats\n• AMAs\n• exclusive channels\ni will give each of these some thought and follow up in the next week or so",
+        "user": "UJG9WTEKG",
+        "ts": "1593553048.436700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "anm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so much great feedback! it was designed to be anonymous so i won’t share it all but a few things came up multiple times:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "themed chats"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AMAs"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "exclusive channels"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i will give each of these some thought and follow up in the next week or so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593458008.431300",
+        "parent_user_id": "UJG9WTEKG"
+    }
+]

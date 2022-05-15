@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1633165754.108300",
+        "thread_ts": "1633165754.108300",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1633190188.108400",
+        "reply_users": [
+            "U016BDEQ40J"
+        ],
+        "replies": [
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1633190188.108400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U024BJNTBC0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d2c6c5d-a590-4644-91fd-9bd972e27e72",
+        "type": "message",
+        "text": "Just a friendly tip: if a guy with a job asks you to DM him, I suggest following his request and DMing him.\n\nThis same tip can be applied to other job applications too. Employers have a process for a reason, and you generally get better results by following the process they lay out.",
+        "user": "U016BDEQ40J",
+        "ts": "1633190188.108400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U016BDEQ40J",
+            "ts": "1633190315.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a friendly tip: if a guy with a job asks you to DM him, I suggest following his request and DMing him.\n\nThis same tip can be applied to other job applications too. Employers have a process for a reason, and you generally get better results by following the process they lay out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633165754.108300",
+        "parent_user_id": "USLACKBOT"
+    }
+]

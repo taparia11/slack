@@ -1,0 +1,763 @@
+[
+    {
+        "client_msg_id": "83e8c258-a140-4774-a738-6bbced85b47b",
+        "type": "message",
+        "text": "<@UJDPMTREY> I was wondering if a site is built using React but deploys static HTML webpages, will there be any negative impact on SEO vs a standard HTML-based CMS?",
+        "user": "U01G79EAZ43",
+        "ts": "1608196009.238700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g462385f7aa6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/462385f7aa69182538a137ee2c83add5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Nelson Jordan",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "nelson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJDPMTREY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I was wondering if a site is built using React but deploys static HTML webpages, will there be any negative impact on SEO vs a standard HTML-based CMS?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608124293.235900",
+        "parent_user_id": "U01G79EAZ43"
+    },
+    {
+        "client_msg_id": "8f6005c6-e4af-42ae-afdf-abceec8767b5",
+        "type": "message",
+        "text": "<@U019P0ADPCH> Maybe try Niya Dragova at <http:\/\/candor.co|candor.co>? (I have no affiliation with her.)",
+        "user": "U0162CX5SH1",
+        "ts": "1608214200.238900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "926d01f60259",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-26\/1193124277575_926d01f60259882ef601_72.jpg",
+            "first_name": "Kate",
+            "real_name": "Kate Cooper",
+            "display_name": "Kate Cooper",
+            "team": "TJE58GTJL",
+            "name": "kate",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/AR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U019P0ADPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Maybe try Niya Dragova at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/candor.co",
+                                "text": "candor.co"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? (I have no affiliation with her.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608190422.238600",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "878ed799-21e9-46c3-a06d-892fc81c7734",
+        "type": "message",
+        "text": "google has no inherent prejudice against React or JS-heavy sites.\n\nstatic HTML means what google crawls = the important content of the page, whereas the JS-heavy stuff means that google doesn't have a sense of what it should serve the page for before it completes that secondary step of rendering all the JS.\n\nso, as long as google sees the content as static HTML when it crawls, i don't see why it should really care about anything that happens beforehand.\n\nchecking GSC to see what googlebot sees is a good way to ensure that the crawler is seeing what you expect it to. google has definitely gotten a lot better with JS over the years. do note that they're ahead of other search engines, so if your site gets a ton of traffic from, say, users who are forced to use Bing, performance may not be quite as good (if rendering the JS is necessary to understand the page).",
+        "user": "UJDPMTREY",
+        "ts": "1608214727.239100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1608214766.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "budqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "google has no inherent prejudice against React or JS-heavy sites.\n\nstatic HTML means what google crawls = the important content of the page, whereas the JS-heavy stuff means that google doesn't have a sense of what it should serve the page for before it completes that secondary step of rendering all the JS.\n\nso, as long as google sees the content as static HTML when it crawls, i don't see why it should really care about anything that happens beforehand.\n\nchecking GSC to see what googlebot sees is a good way to ensure that the crawler is seeing what you expect it to. google has definitely gotten a lot better with JS over the years. do note that they're ahead of other search engines, so if your site gets a ton of traffic from, say, users who are forced to use Bing, performance may not be quite as good (if rendering the JS is necessary to understand the page)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608124293.235900",
+        "parent_user_id": "U01G79EAZ43"
+    },
+    {
+        "client_msg_id": "662ea6fc-b36a-4a7f-9deb-a9579a4fdfb6",
+        "type": "message",
+        "text": "if you're deploying this as a templated solution for hundreds or thousands of product pages, it could be an interesting test if you're able to push the content out in several forms (static HTML, unrendered, pre-rendered, etc.)\n\nwhatever google tells you _should_ work is usually a idealized version of what does happen, to say nothing of the 5% of sites that get screwed by an incredible yet imperfect algorithm (i.e. best practices don't always hold up).",
+        "user": "UJDPMTREY",
+        "ts": "1608214843.239500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1608215023.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lkCNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you're deploying this as a templated solution for hundreds or thousands of product pages, it could be an interesting test if you're able to push the content out in several forms (static HTML, unrendered, pre-rendered, etc.)\n\nwhatever google tells you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "should ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "work is usually a idealized version of what does happen, to say nothing of the 5% of sites that get screwed by an incredible yet imperfect algorithm (i.e. best practices don't always hold up)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608124293.235900",
+        "parent_user_id": "U01G79EAZ43"
+    },
+    {
+        "client_msg_id": "33857143-4629-4B19-AE52-FEC9E7D8C9D0",
+        "type": "message",
+        "text": "Fantastic, thanks Derek. Very comprehensive answer and it should help to reassure my clients so I appreciate it!",
+        "user": "U01G79EAZ43",
+        "ts": "1608215588.241200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g462385f7aa6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/462385f7aa69182538a137ee2c83add5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Nelson Jordan",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "nelson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q\/Yt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fantastic, thanks Derek. Very comprehensive answer and it should help to reassure my clients so I appreciate it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608124293.235900",
+        "parent_user_id": "U01G79EAZ43",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJDPMTREY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c895093-6df8-422f-82fc-e28b91ac4eac",
+        "type": "message",
+        "text": "<@U0162CX5SH1> Thanks, Kate!",
+        "user": "U019P0ADPCH",
+        "ts": "1608216653.241400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RhDny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0162CX5SH1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks, Kate!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608190422.238600",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0162CX5SH1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60c67303-f3f3-4c66-ba95-7e9b76064041",
+        "type": "message",
+        "text": "Had the pleasure of going deep with <@UJG9WTEKG> on my podcast to hear what he’s learned from growing this unique community.\n\nMy biggest takeaway:\nGreat writing skills + leveraged business skills (management, strategy, etc.) = healthy content career\n\n<https:\/\/stewarthillhouse.com\/jimmy-daly\/|Take a listen or read the other takeaways>",
+        "user": "U017M677P18",
+        "ts": "1608218532.245100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbfe60456428",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfe604564282080566b2db93c2271d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Stewart Hillhouse",
+            "display_name": "Stewart Hillhouse",
+            "team": "TJE58GTJL",
+            "name": "stewart.hillhouse",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Stewart Hillhouse",
+                "title": "The Path To Making $100K+ As A Content Marketer with Jimmy Daly",
+                "title_link": "https:\/\/stewarthillhouse.com\/jimmy-daly\/",
+                "text": "The job of a content marketer is not to write blog posts. Your job is to support the business. Jimmy Daly joins Stewart Hillhouse on Top Of Mind Podcast",
+                "fallback": "Stewart Hillhouse: The Path To Making $100K+ As A Content Marketer with Jimmy Daly",
+                "image_url": "https:\/\/stewarthillhouse.com\/content\/images\/2020\/12\/Social-Template.001-7.jpeg",
+                "image_width": 476,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Stewart Hillhouse",
+                        "short": true
+                    },
+                    {
+                        "title": "Filed under",
+                        "value": "Top Of Mind Podcast",
+                        "short": true
+                    }
+                ],
+                "ts": 1608080542,
+                "from_url": "https:\/\/stewarthillhouse.com\/jimmy-daly\/",
+                "image_bytes": 158565,
+                "service_icon": "https:\/\/stewarthillhouse.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/stewarthillhouse.com\/jimmy-daly\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z2eLn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Had the pleasure of going deep with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on my podcast to hear what he’s learned from growing this unique community.\n\nMy biggest takeaway:\nGreat writing skills + leveraged business skills (management, strategy, etc.) = healthy content career\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stewarthillhouse.com\/jimmy-daly\/",
+                                "text": "Take a listen or read the other takeaways"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608218532.245100",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1610132840.280400",
+        "reply_users": [
+            "U015HDJKZM2",
+            "UJG9WTEKG",
+            "U017M677P18",
+            "U01D0FSPDV4",
+            "U01CVQ02E5S"
+        ],
+        "replies": [
+            {
+                "user": "U015HDJKZM2",
+                "ts": "1608227880.247800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1608231211.248600"
+            },
+            {
+                "user": "U017M677P18",
+                "ts": "1608232265.248900"
+            },
+            {
+                "user": "U01D0FSPDV4",
+                "ts": "1608463523.250000"
+            },
+            {
+                "user": "U01CVQ02E5S",
+                "ts": "1609679632.271500"
+            },
+            {
+                "user": "U017M677P18",
+                "ts": "1610132840.280400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1610132840.280400",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01CSFHKLQP",
+                    "UJG9WTEKG",
+                    "U01CGUT2HH6",
+                    "U015HDJKZM2",
+                    "U01D0FSPDV4",
+                    "U015B88C4CA",
+                    "U01EY30FH2R"
+                ],
+                "count": 7
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01GGQMG6HW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fb98bf5-45b0-4c78-88fe-1a52a1c0014b",
+        "type": "message",
+        "text": "i hope it works for them.\n\nat the end of the day, google is looking for sites it can trust, and one measure of that is consistent and comprehensive access to site content, so if their deployment is buggy, that will be a problem.\n\nsimilarly, if every other site they're competing against is a \"basic\" HTML site, that _could_ also be a problem, simply because google feels a _slight_ bit better about its ability to understand the content on those sites.\n\nbut it may not matter at all.\n\nthe risk for google is serving something to users that users don't like, which makes users less loyal to google, which reduces google's search marketshare, which reduces the number of people exposed to their ads (the dominant source of their revenue).\n\ngoogle will tell you it doesn't matter and that they've solved for JS-heavy sites, but with SEO, you never really know until you put something out there.",
+        "user": "UJDPMTREY",
+        "ts": "1608222016.245400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1608222077.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zd8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i hope it works for them.\n\nat the end of the day, google is looking for sites it can trust, and one measure of that is consistent and comprehensive access to site content, so if their deployment is buggy, that will be a problem.\n\nsimilarly, if every other site they're competing against is a \"basic\" HTML site, that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "could",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " also be a problem, simply because google feels a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "slight",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " bit"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "better about its ability to understand the content on those sites.\n\nbut it may not matter at all.\n\nthe risk for google is serving something to users that users don't like, which makes users less loyal to google, which reduces google's search marketshare, which reduces the number of people exposed to their ads (the dominant source of their revenue).\n\ngoogle will tell you it doesn't matter and that they've solved for JS-heavy sites, but with SEO, you never really know until you put something out there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608124293.235900",
+        "parent_user_id": "U01G79EAZ43",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01G79EAZ43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "196baf45-741e-43e7-8195-04b58c100833",
+        "type": "message",
+        "text": "Thanks, I'll let you know. We're just gearing up and they're not clients yet, so it'll be a long time before we know the answer!",
+        "user": "U01G79EAZ43",
+        "ts": "1608222124.246000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g462385f7aa6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/462385f7aa69182538a137ee2c83add5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Nelson Jordan",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "nelson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rlV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, I'll let you know. We're just gearing up and they're not clients yet, so it'll be a long time before we know the answer!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608124293.235900",
+        "parent_user_id": "U01G79EAZ43",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJDPMTREY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c522df48-5f91-43a6-92f0-660e3a91483e",
+        "type": "message",
+        "text": "there are tons of resources out there on this topic, too---including lots of dev-targeted content on how to build SEO-friendly React sites",
+        "user": "UJDPMTREY",
+        "ts": "1608222165.246300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T5aj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there are tons of resources out there on this topic, too---including lots of dev-targeted content on how to build SEO-friendly React sites"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608124293.235900",
+        "parent_user_id": "U01G79EAZ43"
+    },
+    {
+        "client_msg_id": "2f899937-2ac7-4358-a9ec-02c658f8975e",
+        "type": "message",
+        "text": "Thanks for the heads up. Will definitely give this a listen. Also now following you on Twitter, <@U017M677P18>.",
+        "user": "U015HDJKZM2",
+        "ts": "1608227880.247800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "aed54987a896",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-12\/1180335660085_aed54987a896e3bce76d_72.jpg",
+            "first_name": "Jeff",
+            "real_name": "Jeff Green",
+            "display_name": "Jeff",
+            "team": "TJE58GTJL",
+            "name": "jeffreyalangreen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KoXBT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the heads up. Will definitely give this a listen. Also now following you on Twitter, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017M677P18"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608218532.245100",
+        "parent_user_id": "U017M677P18",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U017M677P18"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d895253-62de-4842-b28e-1107678d2f21",
+        "type": "message",
+        "text": "thanks <@U017M677P18>!",
+        "user": "UJG9WTEKG",
+        "ts": "1608231211.248600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017M677P18"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608218532.245100",
+        "parent_user_id": "U017M677P18"
+    },
+    {
+        "client_msg_id": "6adc7457-3f70-458b-94cf-8f57c360c7a9",
+        "type": "message",
+        "text": "Appreciate you taking the time Jimmy!",
+        "user": "U017M677P18",
+        "ts": "1608232265.248900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbfe60456428",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bfe604564282080566b2db93c2271d1a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Stewart Hillhouse",
+            "display_name": "Stewart Hillhouse",
+            "team": "TJE58GTJL",
+            "name": "stewart.hillhouse",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BR4Qz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Appreciate you taking the time Jimmy!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608218532.245100",
+        "parent_user_id": "U017M677P18"
+    }
+]

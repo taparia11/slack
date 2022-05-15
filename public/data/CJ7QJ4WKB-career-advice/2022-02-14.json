@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "F72CFFB6-39CB-41B9-9D80-289AAF26C3FE",
+        "type": "message",
+        "text": "Hey bot, I said “guys” and “gals”",
+        "user": "U02V08HJB8D",
+        "ts": "1644908175.194229",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g88dcc84c74c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88dcc84c74c357cffae890c85c3ce507.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Kazinik",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benkpresents",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JeeAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey bot, I said “guys” and “gals”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644797027.430649",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1644908209.361409",
+        "thread_ts": "1644797027.430649",
+        "parent_user_id": "USLACKBOT"
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "4f2a60cf-b2a0-48ed-b9f0-e06c861d9ac1",
+        "type": "message",
+        "text": "These notes are great! <@U02333AMCUW> Thanks for organizing <@U019F15SA7Q>!",
+        "user": "U02LW151M27",
+        "ts": "1638609055.349000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae4d7bb52f2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-11\/2695969577799_ae4d7bb52f2ac8b52b1d_72.png",
+            "first_name": "Sarang",
+            "real_name": "Sarang Padhye",
+            "display_name": "Sarang",
+            "team": "TJE58GTJL",
+            "name": "sarang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nwj+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These notes are great! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02333AMCUW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for organizing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U019F15SA7Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638307322.268100",
+        "parent_user_id": "U019F15SA7Q"
+    },
+    {
+        "client_msg_id": "ecedb997-3e58-40a4-9f2e-d069348e4d6a",
+        "type": "message",
+        "text": "I like Chris at Fenwick's email newsletter. It doesn't come out very often, but the content is really good. <https:\/\/www.fenwick.media\/newsletter>",
+        "user": "U02M83NQ10U",
+        "ts": "1638673541.349300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "87c168f85c64",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-12\/2720180260115_87c168f85c64b058a6b7_72.jpg",
+            "first_name": "Linsey",
+            "real_name": "Linsey Knerl",
+            "display_name": "Linsey Knerl",
+            "team": "TJE58GTJL",
+            "name": "linsey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.fenwick.media\/newsletter",
+                "service_name": "Fenwick",
+                "title": "Letters - Workplace Writing Wisdom, Bimonthly — Fenwick",
+                "title_link": "https:\/\/www.fenwick.media\/newsletter",
+                "text": "Learn how to write clearly and precisely at work despite the committees, deadlines, and eleventh-hour \"What if we added this unrelated idea?\" edits.",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/5ea9bb3849e9e360a2f6ee7c\/t\/5f0f1c6a79fee81c376a5d7b\/1594825836047\/Screen+Shot+2020-07-15+at+11.08.16+AM.png?format=1500w",
+                "thumb_width": 800,
+                "thumb_height": 567,
+                "fallback": "Fenwick: Letters - Workplace Writing Wisdom, Bimonthly — Fenwick",
+                "service_icon": "https:\/\/static1.squarespace.com\/static\/5ea9bb3849e9e360a2f6ee7c\/t\/5f0793dbb5425479942b3bca\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.fenwick.media\/newsletter"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like Chris at Fenwick's email newsletter. It doesn't come out very often, but the content is really good. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fenwick.media\/newsletter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1638556685.338200",
+        "parent_user_id": "U02GA73RSHK",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02GA73RSHK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

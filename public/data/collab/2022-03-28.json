@@ -1,0 +1,370 @@
+[
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "hold on there! we don't allow link swaps in this group and will delete any posts offering them. please take a look at our community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit?usp=sharing>",
+        "user": "USLACKBOT",
+        "ts": "1648453755.991939"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1648468446.306299",
+        "thread_ts": "1648468446.306299",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1648473024.491279",
+        "reply_users": [
+            "UJJFDTN8G",
+            "U03157NSKRU"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1648470708.771239"
+            },
+            {
+                "user": "U03157NSKRU",
+                "ts": "1648473024.491279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c61d1376-f2bf-4d78-be58-7994269c14be",
+        "type": "message",
+        "text": "See above post.",
+        "user": "UJJFDTN8G",
+        "ts": "1648470708.771239",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See above post."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648468446.306299",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "e058ec73-9e37-4b7d-902f-37ed4b63ea41",
+        "type": "message",
+        "text": "Sorry.",
+        "user": "U03157NSKRU",
+        "ts": "1648473024.491279",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "72651367eb1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-03\/3063556864721_72651367eb1af29805bf_72.jpg",
+            "first_name": "Nibedita",
+            "real_name": "Nibedita Pradhan",
+            "display_name": "Nibedita Pradhan",
+            "team": "TJE58GTJL",
+            "name": "np.pradhan1996",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648468446.306299",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "bot_id": "B023BC3A2UV",
+        "type": "message",
+        "text": "_[sponsored]_ shoutout to Terkel (:wave: <@U033MEHFJ2J>) for supporting this community! Terkel is a HARO alternative that spares writers from fielding pitches, selecting insights, and notifying panelists of publication. Just ask a question, and receive a ready-to-be-published article featuring diverse insights from vetted experts. learn more :point_right: <https:\/\/terkel.io\/publishing>",
+        "user": "UJG9WTEKG",
+        "ts": "1648479601.488079",
+        "team": "TJE58GTJL",
+        "bot_profile": {
+            "id": "B023BC3A2UV",
+            "app_id": "AL3SX1B6J",
+            "name": "Send It Later",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_72.png"
+            },
+            "deleted": false,
+            "updated": 1622231340,
+            "team_id": "TJE58GTJL"
+        },
+        "edited": {
+            "user": "B023BC3A2UV",
+            "ts": "1648479604.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/terkel.io\/publishing",
+                "service_icon": "https:\/\/terkel.io\/assets\/images\/terkel.png",
+                "id": 1,
+                "original_url": "https:\/\/terkel.io\/publishing",
+                "fallback": "Terkel: Decentralized Q&amp;A Site Connecting Brands With Insights",
+                "text": "Terkel is a knowledge platform that connects brands with expert insights. Answer questions, and get featured in articles.",
+                "title": "Terkel: Decentralized Q&amp;A Site Connecting Brands With Insights",
+                "title_link": "https:\/\/terkel.io\/publishing",
+                "service_name": "terkel.io"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U036CBD312S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01J3L8CJRL",
+                    "U02SHF57GQN",
+                    "U01PLSB4EKD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deb3b5fb-df4c-48d4-9fe2-3076166b651e",
+        "type": "message",
+        "text": "Hey everyone, This is a reminder that I’m creating a few articles for the Terkel Blog (<https:\/\/blog.terkel.io\/online-journalism-challenges\/|example>) and need some insights from marketers. :blob-wave:\n\nHere are the links where you can submit a quote.\n\/\/ <https:\/\/terkel.io\/publicQuestion\/1806\/4-6%20Sentences|List and elaborate on one thing a marketing consultant does?> [Due 4\/1]\n\/\/ <https:\/\/terkel.io\/publicQuestion\/1808\/4-6%20Sentences|What is one tip for reaching out to influencers?> [Due 4\/1]\n\/\/ <https:\/\/terkel.io\/publicQuestion\/1809\/4-6%20Sentences|What is one catchy word that starts with \"B\" that could be used in an email subject line?> [Due 4\/1]\n\nOnce you submit a quote, please fill out a profile so I can properly attribute your quote and include your company url and headshot in the article. Thanks!!",
+        "user": "U036CBD312S",
+        "ts": "1648499769.944149",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8f14d17c2af7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-10\/3223060295970_8f14d17c2af7c2fcaba5_72.png",
+            "first_name": "Adrian",
+            "real_name": "Adrian James",
+            "display_name": "Adrian James",
+            "team": "TJE58GTJL",
+            "name": "adrian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Mez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, This is a reminder that I’m creating a few articles for the Terkel Blog ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.terkel.io\/online-journalism-challenges\/",
+                                "text": "example"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") and need some insights from marketers. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blob-wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHere are the links where you can submit a quote.\n\/\/ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/terkel.io\/publicQuestion\/1806\/4-6%20Sentences",
+                                "text": "List and elaborate on one thing a marketing consultant does?"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [Due 4\/1]\n\/\/ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/terkel.io\/publicQuestion\/1808\/4-6%20Sentences",
+                                "text": "What is one tip for reaching out to influencers?"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [Due 4\/1]\n\/\/ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/terkel.io\/publicQuestion\/1809\/4-6%20Sentences",
+                                "text": "What is one catchy word that starts with \"B\" that could be used in an email subject line?"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [Due 4\/1]\n\nOnce you submit a quote, please fill out a profile so I can properly attribute your quote and include your company url and headshot in the article. Thanks!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b910731-cee0-4dc4-bb06-8b4685a33c76",
+        "type": "message",
+        "text": "Hi everyone, I'm writing an article on 'Conversational AI: Detrimental or Beneficial to Your Agents?' I'm looking for a customer support specialist to get the answer to the following queries.\n1) How is conversational AI being used in customer support?\n2) Examples of awesome customer support chatbots\n3) How are chatbots beneficial for customer service agents?\n4) What different challenges do support agents face?\n5) Why conversational AI may seem detrimental to agent employment and established support processes.\n6) Anything else that you want to add.\n I'm happy to link back to your site, and feel free to DM me if you have any questions.",
+        "user": "U01J84U3SQ6",
+        "ts": "1648519529.718129",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gdab1d2a41e5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dab1d2a41e573a329156be15739aa21a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Soare",
+            "real_name": "Soare",
+            "display_name": "Kesar",
+            "team": "TJE58GTJL",
+            "name": "fu65745",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZ9e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, I'm writing an article on 'Conversational AI: Detrimental or Beneficial to Your Agents?' I'm looking for a customer support specialist to get the answer to the following queries.\n1) How is conversational AI being used in customer support?\n2) Examples of awesome customer support chatbots\n3) How are chatbots beneficial for customer service agents?\n4) What different challenges do support agents face?\n5) Why conversational AI may seem detrimental to agent employment and established support processes.\n6) Anything else that you want to add.\n I'm happy to link back to your site, and feel free to DM me if you have any questions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efccb1e5-00ae-435e-855f-60c61da1ab0d",
+        "type": "message",
+        "text": "Any SMBs or side hustlers in here using Instagram to do business and would be up for me quoting them in an article?\n\nDM if interested",
+        "user": "U034DAJUU0Z",
+        "ts": "1648522477.505829",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "946e67d51d20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-21\/3136774449859_946e67d51d2055a5ca44_72.png",
+            "first_name": "Paul",
+            "real_name": "Paul Woodland",
+            "display_name": "Paul",
+            "team": "TJE58GTJL",
+            "name": "writer303",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B5gg8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any SMBs or side hustlers in here using Instagram to do business and would be up for me quoting them in an article?\n\nDM if interested"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "912cc5a1-4e61-4f6e-9594-5d3e87517caf",
+        "type": "message",
+        "text": "Hey everyone I'm writing a blog on how sales team looks like in the plg environment? I would like to have some insights on this from sales professionals of SaaS industry.  (Due date 15.April.2022)",
+        "user": "U02HD0L8HAP",
+        "ts": "1648532671.584239",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "675c42a91f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-10\/2928364816754_675c42a91f6571f4ac6b_72.jpg",
+            "first_name": "Aanchal",
+            "real_name": "Aanchal Parmar",
+            "display_name": "Aanchal Parmar",
+            "team": "TJE58GTJL",
+            "name": "aanywrites",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C8jd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone I'm writing a blog on how sales team looks like in the plg environment? I would like to have some insights on this from sales professionals of SaaS industry.  (Due date 15.April.2022)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

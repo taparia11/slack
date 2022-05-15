@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "f62fee0b-7745-4705-b29a-7758b1c6ab74",
+        "type": "message",
+        "text": "In the U.S., \"guys\" is pretty gender neutral.\n\nNot for the Slackbot, I guess.",
+        "user": "U031E6SRNCU",
+        "ts": "1644604146.449449",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g13122fdf375",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/13122fdf37524a43a2385985c4269fe8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Patty",
+            "real_name": "Patty Johnson",
+            "display_name": "Patty Johnson-Vazquez",
+            "team": "TJE58GTJL",
+            "name": "pattynjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qut2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the U.S., \"guys\" is pretty gender neutral.\n\nNot for the Slackbot, I guess."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643675006.631109",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U02QKGDCCB0",
+                    "U02D4EN1LP4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1644604160.323689",
+        "thread_ts": "1643675006.631109",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "e80e257e-36ed-480d-85db-8883896cb2a9",
+        "type": "message",
+        "text": "I really love your color scheme and the theme of your services. A few thoughts:\n\n• The frozen navigation menu limited the space I had to consume your content.\n• Your headshots were pixelated. So you need to upload higher resolution photos.\n• Your font sizes were too large in some areas, making it hard to follow.",
+        "user": "U031E6SRNCU",
+        "ts": "1644604322.069779",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g13122fdf375",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/13122fdf37524a43a2385985c4269fe8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Patty",
+            "real_name": "Patty Johnson",
+            "display_name": "Patty Johnson-Vazquez",
+            "team": "TJE58GTJL",
+            "name": "pattynjohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U031E6SRNCU",
+            "ts": "1644604379.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "whg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really love your color scheme and the theme of your services. A few thoughts:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The frozen navigation menu limited the space I had to consume your content."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Your headshots were pixelated. So you need to upload higher resolution photos."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Your font sizes were too large in some areas, making it hard to follow."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643645927.854309",
+        "parent_user_id": "U02L6AMG3GV"
+    }
+]

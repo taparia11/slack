@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1587762740.000600",
+        "user": "UKEB29JGH",
+        "text": "<@UKEB29JGH> has joined the channel"
+    },
+    {
+        "client_msg_id": "2ac8ec42-6b7f-47ca-bbb9-c97877bc64ae",
+        "type": "message",
+        "text": "Hi, how is everyone coping? Where are you currently sheltering? I’m on the Upper East Side.",
+        "user": "UKEB29JGH",
+        "ts": "1587763398.001100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gcdd18d6da15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4bcdd18d6da158fe8a3b3488d3c79723.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Phillips",
+            "display_name": "Marc Phillips",
+            "team": "TJE58GTJL",
+            "name": "marcphillips817",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TVP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, how is everyone coping? Where are you currently sheltering? I’m on the Upper East Side."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587763398.001100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1587916473.001400",
+        "reply_users": [
+            "U012R27LRJ8"
+        ],
+        "replies": [
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1587916473.001400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

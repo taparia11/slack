@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "92f79444-afa2-4054-963d-9be2786e5200",
+        "type": "message",
+        "text": "nice <@U01A4KX71HR>!",
+        "user": "U011UJX75PE",
+        "ts": "1606844591.283000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/hqy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A4KX71HR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606722653.277300",
+        "parent_user_id": "U01A4KX71HR",
+        "reactions": [
+            {
+                "name": "pray::skin-tone-3",
+                "users": [
+                    "U01A4KX71HR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

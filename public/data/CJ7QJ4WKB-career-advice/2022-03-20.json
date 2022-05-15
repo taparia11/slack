@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "88F4EED9-9D6A-4605-BE45-3E05165DCE6F",
+        "type": "message",
+        "text": "there are many many things to take into account than just the salary\n\nthink about your professional and personal growth, your mental health and wellbeing, and your life\/work balance ",
+        "user": "U02QWSD3BSM",
+        "ts": "1647769146.682589",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "324c6d0b067a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-13\/2858834074192_324c6d0b067a7ae7d44f_72.png",
+            "first_name": "Carlos",
+            "real_name": "Carlos",
+            "display_name": "Carlos",
+            "team": "TJE58GTJL",
+            "name": "carlos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCtDo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there are many many things to take into account than just the salary\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "think about your professional and personal growth, your mental health and wellbeing, and your life\/work balance "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647609882.217799",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U035JHT54EB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "did someone say salary? here's some data that might be helpful. <https:\/\/superpath.co\/blog\/content-marketing-salary-report>",
+        "user": "USLACKBOT",
+        "ts": "1647769183.723659",
+        "attachments": [
+            {
+                "from_url": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/609d9c530fe0402cfde14a9c\/t\/61d76e005dd5ad7b9ebc6932\/1641508361386\/superpath+salary.jpg?format=1500w",
+                "thumb_width": 1052,
+                "thumb_height": 751,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/609d9c530fe0402cfde14a9c\/e34ef9bd-2724-4781-88fd-e8cba90125ef\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "fallback": "Your Content Career Headquarters: How Much Money Do Content Marketer's Make? (2022 Salary Report) — Your Content Career Headquarters",
+                "text": "The average content marketing salary is $93,725. Check out our salary report for more detailed data on job titles, experience and pay discrepancies.",
+                "title": "How Much Money Do Content Marketer's Make? (2022 Salary Report) — Your Content Career Headquarters",
+                "title_link": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "service_name": "Your Content Career Headquarters"
+            }
+        ],
+        "thread_ts": "1647609882.217799",
+        "parent_user_id": "USLACKBOT"
+    }
+]

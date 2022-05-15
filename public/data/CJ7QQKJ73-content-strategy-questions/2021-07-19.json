@@ -1,0 +1,645 @@
+[
+    {
+        "client_msg_id": "86d8118a-3b60-4b76-a961-8f76d3cc4f1d",
+        "type": "message",
+        "text": "Thank you, <@UJ95A9M6V>. I'll take a look.",
+        "user": "UUVRX9C13",
+        "ts": "1626706076.100900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zkn=S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ95A9M6V"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I'll take a look."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626373832.093300",
+        "parent_user_id": "UUVRX9C13",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJ95A9M6V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23f1c0c1-7ce9-4849-a7af-1804c5f397dd",
+        "type": "message",
+        "text": "<@U01BLESB996> I'd be interested to hear more about your motivation to do this. I have thought about something similar after thinking about the effects it could have. For example I like the idea of the Forbes councils which lend certain authors additional credibility.",
+        "user": "U015VEN5XT8",
+        "ts": "1626708665.101100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cc4c48eaeb35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-25\/1191656062519_cc4c48eaeb3537298b45_72.png",
+            "first_name": "Robert",
+            "real_name": "Robert Weller",
+            "display_name": "Robert Weller",
+            "team": "TJE58GTJL",
+            "name": "toushenne_cmcg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cW0wU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BLESB996"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'd be interested to hear more about your motivation to do this. I have thought about something similar after thinking about the effects it could have. For example I like the idea of the Forbes councils which lend certain authors additional credibility."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625758089.028800",
+        "parent_user_id": "U01BLESB996"
+    },
+    {
+        "client_msg_id": "edb8fc20-efcc-4253-b85d-227704b8c0f6",
+        "type": "message",
+        "text": "Hi hi! We are refreshing some old blog posts to improve\/expand the content and targeting and I was wondering how you all have handled refreshes when it comes to timestamps. I can't seem to find a \"best practice\" but curious if y'all have. Do you:\n1. Leave the post date as the original publish date\n2. Update to the date that you are publishing the new version\n3. Leave the original date and add a \"This post was updated on x date\" note within the article copy\n4. Another option I'm not thinking of on the top of my head\nTIA!! :sparkles:",
+        "user": "U020HB0P648",
+        "ts": "1626727533.107500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga4772bc4af2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4772bc4af206623e87f7ae8b66b28af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Jenna",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jenna.larsson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fwg31",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi hi! We are refreshing some old blog posts to improve\/expand the content and targeting and I was wondering how you all have handled refreshes when it comes to timestamps. I can't seem to find a \"best practice\" but curious if y'all have. Do you:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Leave the post date as the original publish date"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Update to the date that you are publishing the new version"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Leave the original date and add a \"This post was updated on x date\" note within the article copy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Another option I'm not thinking of on the top of my head"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TIA!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626727533.107500",
+        "reply_count": 11,
+        "reply_users_count": 9,
+        "latest_reply": "1628107043.045200",
+        "reply_users": [
+            "U01FUP6AMEZ",
+            "U024K88ECFN",
+            "UUH2EB134",
+            "U020HB0P648",
+            "U01G7PRL3HQ",
+            "UJJFDTN8G",
+            "U019P0ADPCH",
+            "U01359VV0AF",
+            "U023M662VPF"
+        ],
+        "replies": [
+            {
+                "user": "U01FUP6AMEZ",
+                "ts": "1626727945.107700"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1626728009.108000"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1626728075.108300"
+            },
+            {
+                "user": "U020HB0P648",
+                "ts": "1626729192.108500"
+            },
+            {
+                "user": "U01G7PRL3HQ",
+                "ts": "1626734865.108800"
+            },
+            {
+                "user": "U020HB0P648",
+                "ts": "1626736159.109700"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1626763496.110000"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1626773730.120500"
+            },
+            {
+                "user": "U01359VV0AF",
+                "ts": "1626788353.120700"
+            },
+            {
+                "user": "U020HB0P648",
+                "ts": "1626808661.126400"
+            },
+            {
+                "user": "U023M662VPF",
+                "ts": "1628107043.045200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01D8FBLN8Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7f586cc-6db8-4022-bf26-dcabb1814a0d",
+        "type": "message",
+        "text": "usually do #3",
+        "user": "U01FUP6AMEZ",
+        "ts": "1626727945.107700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "128762c3ea3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-01\/1527137254583_128762c3ea3f3d65d19b_72.jpg",
+            "first_name": "Joanna",
+            "real_name": "Joanna Rutter",
+            "display_name": "Joanna Rutter",
+            "team": "TJE58GTJL",
+            "name": "rutterjoanna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XH\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "usually do #3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626727533.107500",
+        "parent_user_id": "U020HB0P648",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U020HB0P648"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8cc7d5f6-84b6-4c48-8450-195ca87bd8ab",
+        "type": "message",
+        "text": "Hey Jenna! I've tried things on multiple client sites to see what works. Here's what DOES seem to work:\n\n1. Changing the code to display the date as whatever date the post was most recently updated (rather than changing the original post date), OR\n2. Changing the post date to the new date\nHere's what DOES NOT work:\n\n1. Putting BOTH a \"published on\" and \"updated on\" date on the post (for some reason, Google just ends up pulling the publish date for display on the SERP\n2. #3 above (not a problem for your readers, but Google will still just keep displaying the original publish date on SERPs where the article date is relevant)",
+        "user": "U024K88ECFN",
+        "ts": "1626728009.108000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "htY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Jenna! I've tried things on multiple client sites to see what works. Here's what DOES seem to work:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Changing the code to display the date as whatever date the post was most recently updated (rather than changing the original post date), OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Changing the post date to the new date"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nHere's what DOES NOT work:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Putting BOTH a \"published on\" and \"updated on\" date on the post (for some reason, Google just ends up pulling the publish date for display on the SERP"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "#3 above (not a problem for your readers, but Google will still just keep displaying the original publish date on SERPs where the article date is relevant)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626727533.107500",
+        "parent_user_id": "U020HB0P648",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U020HB0P648"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5fdd4de-b363-4144-934e-a4faf60c60d7",
+        "type": "message",
+        "text": "Agreed on updating the publish date — although I personally won't do it if the changes were insignificant.",
+        "user": "UUH2EB134",
+        "ts": "1626728075.108300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "958Kp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed on updating the publish date — although I personally won't do it if the changes were insignificant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626727533.107500",
+        "parent_user_id": "U020HB0P648"
+    },
+    {
+        "client_msg_id": "b90c3c4d-d2e9-4616-9c86-3bb23a94be1d",
+        "type": "message",
+        "text": "Thank you all! Very helpful. I was leaning towards updating the publish date since the updates are pretty significant and would love readers to understand this is new and relevant information. Appreciate the insights!",
+        "user": "U020HB0P648",
+        "ts": "1626729192.108500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga4772bc4af2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4772bc4af206623e87f7ae8b66b28af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Jenna",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jenna.larsson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNygP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you all! Very helpful. I was leaning towards updating the publish date since the updates are pretty significant and would love readers to understand this is new and relevant information. Appreciate the insights!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626727533.107500",
+        "parent_user_id": "U020HB0P648"
+    },
+    {
+        "client_msg_id": "c4ebd44d-a5cb-4079-8c98-503bf6af67b1",
+        "type": "message",
+        "text": "Someone asked this here last week too! I would suggest updating the publish date *manually.* We did it automatically and ended up accidentally updating a bunch of old articles to look \"new\" just because we fixed a broken link or image in a post. But then we ended up with company news stories that looked like they were updated in 2021. :man-facepalming:",
+        "user": "U01G7PRL3HQ",
+        "ts": "1626734865.108800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9723d9fab333",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-04\/1575670486368_9723d9fab333bb41974e_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "Eric Doty",
+            "team": "TJE58GTJL",
+            "name": "eric.doty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bjf3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Someone asked this here last week too! I would suggest updating the publish date "
+                            },
+                            {
+                                "type": "text",
+                                "text": "manually. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "We did it automatically and ended up accidentally updating a bunch of old articles to look \"new\" just because we fixed a broken link or image in a post. But then we ended up with company news stories that looked like they were updated in 2021. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-facepalming"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626727533.107500",
+        "parent_user_id": "U020HB0P648"
+    },
+    {
+        "client_msg_id": "CC6DAB0E-98CC-4AC4-BC48-61D664266C9F",
+        "type": "message",
+        "text": "<@U01G7PRL3HQ> excellent call! Would love to avoid that haha. Thanks for sharing ",
+        "user": "U020HB0P648",
+        "ts": "1626736159.109700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga4772bc4af2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4772bc4af206623e87f7ae8b66b28af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Jenna",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jenna.larsson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1sGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01G7PRL3HQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " excellent call! Would love to avoid that haha. Thanks for sharing "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626727533.107500",
+        "parent_user_id": "U020HB0P648"
+    },
+    {
+        "client_msg_id": "5832cccb-bb7b-444c-bf24-c0d0ca99ded9",
+        "type": "message",
+        "text": "I don't use a date on any of my posts. Never had a negative experience. But also can't attribute it to growth as several other things had been happening at the same time.\n\nThe obvious benefit is your post will never look out of date on the SERPs so you won't lose clicks to \"newer\" articles.",
+        "user": "UJJFDTN8G",
+        "ts": "1626763496.110000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vkQ87",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't use a date on any of my posts. Never had a negative experience. But also can't attribute it to growth as several other things had been happening at the same time.\n\nThe obvious benefit is your post will never look out of date on the SERPs so you won't lose clicks to \"newer\" articles."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626727533.107500",
+        "parent_user_id": "U020HB0P648"
+    }
+]

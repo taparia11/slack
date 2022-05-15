@@ -1,0 +1,953 @@
+[
+    {
+        "client_msg_id": "b5d5bdb3-1eab-4199-953d-53570eb3a85f",
+        "type": "message",
+        "text": "Hey peeps! another #BackToBasics question! I recently started a new role &amp; was given carte blanche, which is making me rethink a few of my practices...\n\nHow would you note the performance of a blog post? Traffic, time on page, bounce, exit after a week? after a month? What time period makes sense?\n\nWhat other metrics are you looking at? (I'm looking at low hanging fruit kind of metrics, I don't have the ability to set custom things up in GA right now).\n\nHow are you collecting this data? Don't laugh, but I got into the habit of plugging the numbers from GA into a spreadsheet every week. I like this method, but people tend to scoff when they realize how much manual effort is involved in doing that.\n\nI am not a very analytical person, I'm a creative writer at heart turned content marketer. Who can relate? :joy:",
+        "user": "UN3EHV8RK",
+        "ts": "1582633889.008900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab4371126c14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/891384144997_ab4371126c14a2928222_72.png",
+            "first_name": "Helene",
+            "real_name": "Helene Fleischer",
+            "display_name": "Helene Fleischer",
+            "team": "TJE58GTJL",
+            "name": "fleischerhg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eo7P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey peeps! another #BackToBasics question! I recently started a new role & was given carte blanche, which is making me rethink a few of my practices...\n\nHow would you note the performance of a blog post? Traffic, time on page, bounce, exit after a week? after a month? What time period makes sense?\n\nWhat other metrics are you looking at? (I'm looking at low hanging fruit kind of metrics, I don't have the ability to set custom things up in GA right now).\n\nHow are you collecting this data? Don't laugh, but I got into the habit of plugging the numbers from GA into a spreadsheet every week. I like this method, but people tend to scoff when they realize how much manual effort is involved in doing that.\n\nI am not a very analytical person, I'm a creative writer at heart turned content marketer. Who can relate? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "reply_count": 11,
+        "reply_users_count": 6,
+        "latest_reply": "1583346917.092100",
+        "reply_users": [
+            "UJJFDTN8G",
+            "UN3EHV8RK",
+            "UMFSZ8JHL",
+            "UL2E0QVB3",
+            "UJ3K7N8GJ",
+            "UUVRWLDJ9"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1582635234.009000"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1582635286.009200"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1582635318.009400"
+            },
+            {
+                "user": "UN3EHV8RK",
+                "ts": "1582637523.009600"
+            },
+            {
+                "user": "UN3EHV8RK",
+                "ts": "1582637645.009800"
+            },
+            {
+                "user": "UMFSZ8JHL",
+                "ts": "1582657720.018100"
+            },
+            {
+                "user": "UL2E0QVB3",
+                "ts": "1582677868.018300"
+            },
+            {
+                "user": "UMFSZ8JHL",
+                "ts": "1582682112.018500"
+            },
+            {
+                "user": "UJ3K7N8GJ",
+                "ts": "1582883870.031200"
+            },
+            {
+                "user": "UN3EHV8RK",
+                "ts": "1582899310.032400"
+            },
+            {
+                "user": "UUVRWLDJ9",
+                "ts": "1583346917.092100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "04954f5b-c095-4b62-adc9-a959cd51a955",
+        "type": "message",
+        "text": "the time period question has to be specific to each blog post.\n\nWe have time-based posts when something is trending or building up to an event (Microsoft Ignite or Slack Frontiers)\n\nWe also have evergreen posts like \"Best Microsoft Teams Integrations\" which will last the lifetime of Microsoft Teams.",
+        "user": "UJJFDTN8G",
+        "ts": "1582635234.009000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IzY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the time period question has to be specific to each blog post.\n\nWe have time-based posts when something is trending or building up to an event (Microsoft Ignite or Slack Frontiers)\n\nWe also have evergreen posts like \"Best Microsoft Teams Integrations\" which will last the lifetime of Microsoft Teams."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "client_msg_id": "98777864-0895-42ed-9640-17479da0ac1f",
+        "type": "message",
+        "text": "I would advise learning how to setup basic custom things in GA. It will make your job easier when it comes to reporting. I didn't do this when I started at Mio and I would be so much better at my job if I did.",
+        "user": "UJJFDTN8G",
+        "ts": "1582635286.009200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would advise learning how to setup basic custom things in GA. It will make your job easier when it comes to reporting. I didn't do this when I started at Mio and I would be so much better at my job if I did."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "client_msg_id": "6ff90c6f-8584-4ddf-9db9-829a442a4015",
+        "type": "message",
+        "text": "I'm also a writer turned marketer - my advice is to become a marketer now, not later when you have to.",
+        "user": "UJJFDTN8G",
+        "ts": "1582635318.009400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9M3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm also a writer turned marketer - my advice is to become a marketer now, not later when you have to."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "client_msg_id": "a5f4d805-5c33-41f0-aeaf-4df1b84024ef",
+        "type": "message",
+        "text": "I hear you, thanks!",
+        "user": "UN3EHV8RK",
+        "ts": "1582637523.009600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab4371126c14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/891384144997_ab4371126c14a2928222_72.png",
+            "first_name": "Helene",
+            "real_name": "Helene Fleischer",
+            "display_name": "Helene Fleischer",
+            "team": "TJE58GTJL",
+            "name": "fleischerhg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nkMkB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hear you, thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "client_msg_id": "748d1450-0e72-4746-aa93-95cfa380a645",
+        "type": "message",
+        "text": "Been a marketer for almost half a decade, but this is one of the ~(many)~ last frontiers for me lol!",
+        "user": "UN3EHV8RK",
+        "ts": "1582637645.009800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab4371126c14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/891384144997_ab4371126c14a2928222_72.png",
+            "first_name": "Helene",
+            "real_name": "Helene Fleischer",
+            "display_name": "Helene Fleischer",
+            "team": "TJE58GTJL",
+            "name": "fleischerhg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UN3EHV8RK",
+            "ts": "1582637818.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Been a marketer for almost half a decade, but this is one of the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "(many) ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "last frontiers for me lol!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "client_msg_id": "489ddfcc-8ee4-4dac-92f3-587211c9c435",
+        "type": "message",
+        "text": "Has anybody (desperately looking for someone) had any success with the medium partner program? I've read different suggestions of what gets monetized and what doesn't but it doesn't reflect my posts.\n\nFor example, this post (<https:\/\/medium.com\/@dominickent\/the-worst-linkedin-connection-requests-ba586798a1bb>) got 2,000 views in the first 3 days and earned me a whopping total of $0.00\nBut, this post (<https:\/\/medium.com\/a-football-life\/a-football-life-awards-2019-9c81b7b25dec>) has 46 views ever and earned me $6.64\n\nI'm not too concerned about earning money from medium (though it would be nice). However, I am baffled whatever monetizes it.",
+        "user": "UJJFDTN8G",
+        "ts": "1582643169.012800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "The Worst LinkedIn Connection Requests",
+                "title_link": "https:\/\/medium.com\/@dominickent\/the-worst-linkedin-connection-requests-ba586798a1bb",
+                "text": "LinkedIn should be the ultimate business social network.",
+                "fallback": "Medium: The Worst LinkedIn Connection Requests",
+                "image_url": "https:\/\/miro.medium.com\/max\/1050\/1*U5jHQV0WFhGj4JWg-FJKkw.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1582461992,
+                "from_url": "https:\/\/medium.com\/@dominickent\/the-worst-linkedin-connection-requests-ba586798a1bb",
+                "image_width": 377,
+                "image_height": 250,
+                "image_bytes": 39918,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@dominickent\/the-worst-linkedin-connection-requests-ba586798a1bb"
+            },
+            {
+                "service_name": "Medium",
+                "title": "A Football Life Awards 2019",
+                "title_link": "https:\/\/medium.com\/a-football-life\/a-football-life-awards-2019-9c81b7b25dec",
+                "text": "We’ve got 6 awards to hand out to some of the best and worst footballers of 2019. Read on to see who scooped our prizes!",
+                "fallback": "Medium: A Football Life Awards 2019",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*nZorU2ZUgSI1_kPQkXyFqQ.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1577724218,
+                "from_url": "https:\/\/medium.com\/a-football-life\/a-football-life-awards-2019-9c81b7b25dec",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 892441,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 2,
+                "original_url": "https:\/\/medium.com\/a-football-life\/a-football-life-awards-2019-9c81b7b25dec"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HX0H7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anybody (desperately looking for someone) had any success with the medium partner program? I've read different suggestions of what gets monetized and what doesn't but it doesn't reflect my posts.\n\nFor example, this post ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@dominickent\/the-worst-linkedin-connection-requests-ba586798a1bb"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") got 2,000 views in the first 3 days and earned me a whopping total of $0.00\nBut, this post ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/a-football-life\/a-football-life-awards-2019-9c81b7b25dec"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") has 46 views ever and earned me $6.64\n\nI'm not too concerned about earning money from medium (though it would be nice). However, I am baffled whatever monetizes it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582643169.012800",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1585616047.059700",
+        "reply_users": [
+            "UJJFDTN8G",
+            "UJG24P8P6",
+            "UJKGTUJJ2",
+            "UKL0BFLTX"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1582643190.013000"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1582646008.015000"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1582646308.017200"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1582646331.017400"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1582647312.017700"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1582647355.017900"
+            },
+            {
+                "user": "UJKGTUJJ2",
+                "ts": "1582824951.025600"
+            },
+            {
+                "user": "UKL0BFLTX",
+                "ts": "1585616047.059700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b2ab45e1-abd1-4123-a75a-5dfda9cd4880",
+        "type": "message",
+        "text": "Sidenote, the latter is attached to a publication but I haven't read that this should make a difference.",
+        "user": "UJJFDTN8G",
+        "ts": "1582643190.013000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ko",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sidenote, the latter is attached to a publication but I haven't read that this should make a difference."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582643169.012800",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "6d4a420f-08f1-4feb-b5fd-86a6eb9fd127",
+        "type": "message",
+        "text": "Yes, I have some experience with this, though I'm no expert. I did alright on Medium, gave it up 2 years ago and am trying to get back in it. I've asked a couple fo the key people and this is what they told me:\n1. Submit to popular pubs to get curated\n2. Only views inside Medium count for payment. External views don't matter\n3. Consistency is key (just like content marketing) to build an audience\n4. Think copywriting over content marketing...your headlines probably matter more. Your anecdotes matter more. Your storytelling matters more",
+        "user": "UJG24P8P6",
+        "ts": "1582646008.015000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I have some experience with this, though I'm no expert. I did alright on Medium, gave it up 2 years ago and am trying to get back in it. I've asked a couple fo the key people and this is what they told me:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Submit to popular pubs to get curated"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Only views inside Medium count for payment. External views don't matter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Consistency is key (just like content marketing) to build an audience"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Think copywriting over content marketing...your headlines probably matter more. Your anecdotes matter more. Your storytelling matters more"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582643169.012800",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "b272817f-c6ad-4e50-9c4a-e879eca86ce5",
+        "type": "message",
+        "text": "Would like your opinion on this...How do you create content to go upstream and downstream within the same domain? I have a potential client who is trying to tackle B2C &amp; B2B at the same time thru 2 different product offerings\n\nI'm thinking of evergreen search for B2C and bottom funnel, sales-enablement type content to target specific accounts on the B2B side\n\nThoughts?",
+        "user": "UJG24P8P6",
+        "ts": "1582646175.017100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG24P8P6",
+            "ts": "1582647236.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iY7UC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would like your opinion on this...How do you create content to go upstream and downstream within the same domain? I have a potential client who is trying to tackle B2C & B2B at the same time thru 2 different product offerings\n\nI'm thinking of evergreen search for B2C and bottom funnel, sales-enablement type content to target specific accounts on the B2B side\n\nThoughts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5395833d-1098-4158-a455-a029837ec2b7",
+        "type": "message",
+        "text": "Only views inside Medium count for payment. External views don't matter - i have 0 internal views on my paid posts :\/",
+        "user": "UJJFDTN8G",
+        "ts": "1582646308.017200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1=G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only views inside Medium count for payment. External views don't matter - i have 0 internal views on my paid posts :\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582643169.012800",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "3be46dad-e6fc-4e2b-85d0-606f780bafce",
+        "type": "message",
+        "text": "Submit to popular pubs to get curated - is this just for the sharing element? Rather than you get paid (more) if you're included in a pub.",
+        "user": "UJJFDTN8G",
+        "ts": "1582646331.017400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ndjNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Submit to popular pubs to get curated - is this just for the sharing element? Rather than you get paid (more) if you're included in a pub."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582643169.012800",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "5b387ff4-748e-4ff0-8ac2-420917f3faf3",
+        "type": "message",
+        "text": "Curators are independent of publications, but they often curate from a certain set of publications (seems automatic? So I don't know...) With curation, you'll get on the homepage of more readers",
+        "user": "UJG24P8P6",
+        "ts": "1582647312.017700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PEd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Curators are independent of publications, but they often curate from a certain set of publications (seems automatic? So I don't know...) With curation, you'll get on the homepage of more readers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582643169.012800",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "bb0ccad6-27de-4950-9692-e7bb40bab35b",
+        "type": "message",
+        "text": "For example, I run a publication with more than 16k followers....which mattered 2 years ago. Now  my publication is inconsistent and my pub isn't one of the curated ones",
+        "user": "UJG24P8P6",
+        "ts": "1582647355.017900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zWBf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For example, I run a publication with more than 16k followers....which mattered 2 years ago. Now  my publication is inconsistent and my pub isn't one of the curated ones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582643169.012800",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "d22b2b29-d8c5-4b0c-8afd-0c0b775a1e96",
+        "type": "message",
+        "text": "You could also break down traffic by source\/medium, so you can track which promotion channels are working for what kinds of content.\n\nI also track keyword rankings for all our articles and how they fluctuate over time.",
+        "user": "UMFSZ8JHL",
+        "ts": "1582657720.018100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "677438c74ffb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-13\/1059579937378_677438c74ffb76a6f414_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Rius",
+            "display_name": "Anton",
+            "team": "TJE58GTJL",
+            "name": "antonrius",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U0W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You could also break down traffic by source\/medium, so you can track which promotion channels are working for what kinds of content.\n\nI also track keyword rankings for all our articles and how they fluctuate over time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "client_msg_id": "c54d9b5d-982d-4594-8f61-c2abd3c24f66",
+        "type": "message",
+        "text": "Interesting <@UMFSZ8JHL> how do you do that? The keyword thingy. Is there a method you can share?",
+        "user": "UL2E0QVB3",
+        "ts": "1582677868.018300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge9a383c24eb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/46e9a383c24ebc58aff0a71a2925d006.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Taru",
+            "real_name": "Taru",
+            "display_name": "Taru",
+            "team": "TJE58GTJL",
+            "name": "taru.bhargav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PfRy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMFSZ8JHL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how do you do that? The keyword thingy. Is there a method you can share?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    },
+    {
+        "client_msg_id": "75036b8b-5769-4579-b59d-19b89f9096df",
+        "type": "message",
+        "text": "Hi <@UL2E0QVB3>, it's using a tool like SEMRush or ahrefs. I prefer the latter. You can either track specific keywords or you can track specific pages to see keywords and how much traffic is generated from them.\n\nHere's a demo video. the feature I'm talking about is at 1:16-1:38 <https:\/\/ahrefs.com\/site-explorer>\n\nThe drawback is price—it may be prohibitive if you have a small budget to work with—but if you're focused on SEO, it's a great tool for both research and tracking.",
+        "user": "UMFSZ8JHL",
+        "ts": "1582682112.018500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "677438c74ffb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-13\/1059579937378_677438c74ffb76a6f414_72.jpg",
+            "first_name": "Anton",
+            "real_name": "Anton Rius",
+            "display_name": "Anton",
+            "team": "TJE58GTJL",
+            "name": "antonrius",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Site Explorer by Ahrefs: Competitive Analysis Tool For SEO",
+                "title_link": "https:\/\/ahrefs.com\/site-explorer",
+                "text": "Site Explorer runs on a huge database of 12 trillion links and 402 million tracked keywords to give you the most complete SEO data about any website or URL",
+                "fallback": "Site Explorer by Ahrefs: Competitive Analysis Tool For SEO",
+                "image_url": "https:\/\/cdn.ahrefs.com\/images\/ahrefs-logo.jpg",
+                "from_url": "https:\/\/ahrefs.com\/site-explorer",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 15805,
+                "service_icon": "https:\/\/ahrefs.com\/favicon.ico",
+                "service_name": "ahrefs.com",
+                "id": 1,
+                "original_url": "https:\/\/ahrefs.com\/site-explorer"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jiq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UL2E0QVB3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", it's using a tool like SEMRush or ahrefs. I prefer the latter. You can either track specific keywords or you can track specific pages to see keywords and how much traffic is generated from them.\n\nHere's a demo video. the feature I'm talking about is at 1:16-1:38 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ahrefs.com\/site-explorer"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe drawback is price—it may be prohibitive if you have a small budget to work with—but if you're focused on SEO, it's a great tool for both research and tracking."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582633889.008900",
+        "parent_user_id": "UN3EHV8RK"
+    }
+]

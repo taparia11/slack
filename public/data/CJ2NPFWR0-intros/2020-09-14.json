@@ -1,0 +1,362 @@
+[
+    {
+        "client_msg_id": "4C696715-F085-48B8-97D3-B3D062EAB8C3",
+        "type": "message",
+        "text": "welcome <@U01AFDSKUUT> ! ",
+        "user": "UJG9WTEKG",
+        "ts": "1600099547.445100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNo76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AFDSKUUT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599974524.439300",
+        "parent_user_id": "U01AFDSKUUT"
+    },
+    {
+        "client_msg_id": "98837664-7c1e-49e3-af42-a513143965c6",
+        "type": "message",
+        "text": "Hello everyone, I'm Sanyam Sharma, you can call me Sam. I'm a freelance content writer from India. I prefer writing long form content. It's really good to have connected with you all and be a part of this group. I wish you a healthy and happy life.",
+        "user": "U01B0CKSSSV",
+        "ts": "1600109787.449200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12bcd65bcbf2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-15\/1368687215700_12bcd65bcbf200937cce_72.jpg",
+            "first_name": "Sanyam",
+            "real_name": "Sanyam Sharma",
+            "display_name": "Sam",
+            "team": "TJE58GTJL",
+            "name": "sanyam02sharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01B0CKSSSV",
+            "ts": "1600109873.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8oK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone, I'm Sanyam Sharma, you can call me Sam. I'm a freelance content writer from India. I prefer writing long form content. It's really good to have connected with you all and be a part of this group. I wish you a healthy and happy life."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600109787.449200",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1600331743.477700",
+        "reply_users": [
+            "URKQ7L6H3",
+            "U01B0CKSSSV",
+            "U017EE4FAQN",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "URKQ7L6H3",
+                "ts": "1600110188.450100"
+            },
+            {
+                "user": "U01B0CKSSSV",
+                "ts": "1600110304.450300"
+            },
+            {
+                "user": "U017EE4FAQN",
+                "ts": "1600139671.452800"
+            },
+            {
+                "user": "U01B0CKSSSV",
+                "ts": "1600143761.453100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1600296429.475600"
+            },
+            {
+                "user": "U01B0CKSSSV",
+                "ts": "1600331743.477700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1600331743.477700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URKQ7L6H3",
+                    "U012YJ35BML",
+                    "U015HDJKZM2",
+                    "U019TPL0TL3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "U014UBPTJ0N",
+                    "U017P9D6Y2G",
+                    "U01AHL8AGBB",
+                    "U0192P2G8F5",
+                    "U01B0CKSSSV",
+                    "U01AFDSKUUT",
+                    "U0109RH7U00",
+                    "U015B88C4CA",
+                    "UNGMG4005",
+                    "U016HJRC77E",
+                    "U018T8D2AK1"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1600109790.449300",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01B0CKSSSV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "504dc253-0340-4a43-87ab-92ec9a469e84",
+        "type": "message",
+        "text": "My man! Welcome",
+        "user": "URKQ7L6H3",
+        "ts": "1600110188.450100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "702ce44f6ef1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-11\/858347550515_702ce44f6ef1deb309db_72.jpg",
+            "first_name": "",
+            "real_name": "Todd E Jones",
+            "display_name": "Todd E Jones",
+            "team": "TJE58GTJL",
+            "name": "copyflightco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "knseN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My man! Welcome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600109787.449200",
+        "parent_user_id": "U01B0CKSSSV"
+    },
+    {
+        "client_msg_id": "e43c5e9a-0b8d-49e5-b98b-cf793dd29483",
+        "type": "message",
+        "text": "<@URKQ7L6H3> Thank you Todd for adding me to such a wonderful group of people. I'll forever be grateful for this.",
+        "user": "U01B0CKSSSV",
+        "ts": "1600110304.450300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12bcd65bcbf2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-15\/1368687215700_12bcd65bcbf200937cce_72.jpg",
+            "first_name": "Sanyam",
+            "real_name": "Sanyam Sharma",
+            "display_name": "Sam",
+            "team": "TJE58GTJL",
+            "name": "sanyam02sharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9e=8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URKQ7L6H3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you Todd for adding me to such a wonderful group of people. I'll forever be grateful for this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600109787.449200",
+        "parent_user_id": "U01B0CKSSSV",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "URKQ7L6H3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "167f0928-3c2c-42a1-85eb-b79e68604c90",
+        "type": "message",
+        "text": "Welcome!",
+        "user": "U017EE4FAQN",
+        "ts": "1600139671.452800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9de22e10fee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1408795861474_9de22e10fee629f5a440_72.png",
+            "first_name": "",
+            "real_name": "Steve Seg",
+            "display_name": "Steve Seg",
+            "team": "TJE58GTJL",
+            "name": "sevyatar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohfZq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600109787.449200",
+        "parent_user_id": "U01B0CKSSSV",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01B0CKSSSV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26902392-8676-4ec9-9c54-6d79b70e9559",
+        "type": "message",
+        "text": "Thanks <@U017EE4FAQN>",
+        "user": "U01B0CKSSSV",
+        "ts": "1600143761.453100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12bcd65bcbf2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-15\/1368687215700_12bcd65bcbf200937cce_72.jpg",
+            "first_name": "Sanyam",
+            "real_name": "Sanyam Sharma",
+            "display_name": "Sam",
+            "team": "TJE58GTJL",
+            "name": "sanyam02sharma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOs1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017EE4FAQN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600109787.449200",
+        "parent_user_id": "U01B0CKSSSV"
+    }
+]

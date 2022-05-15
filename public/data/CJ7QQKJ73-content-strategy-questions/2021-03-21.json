@@ -1,0 +1,316 @@
+[
+    {
+        "client_msg_id": "e4c04ac8-904b-4500-a96b-0c6cb9b091ff",
+        "type": "message",
+        "text": "Hi friends! Can anyone help me connect with Go Daddy content team? :pray:",
+        "user": "UL2E0QVB3",
+        "ts": "1616373556.076300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge9a383c24eb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/46e9a383c24ebc58aff0a71a2925d006.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Taru",
+            "real_name": "Taru",
+            "display_name": "Taru",
+            "team": "TJE58GTJL",
+            "name": "taru.bhargav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi friends! Can anyone help me connect with Go Daddy content team? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b0e1878-f065-4302-829f-4c33a36b8557",
+        "type": "message",
+        "text": "Does anyone have any insight on potential SEO improvement of hosting content on a subdirectory (<http:\/\/example.com\/blog|example.com\/blog>) over a subdomain (<http:\/\/blog.example.com|blog.example.com>)?",
+        "user": "UUVRBN6UQ",
+        "ts": "1616374917.079300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ba3146f9d55a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-15\/1854619529206_ba3146f9d55a09ddfe7c_72.jpg",
+            "first_name": "Bogar",
+            "real_name": "Bogar Alonso",
+            "display_name": "Bogar",
+            "team": "TJE58GTJL",
+            "name": "bogar.alonso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3nCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have any insight on potential SEO improvement of hosting content on a subdirectory ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/blog",
+                                "text": "example.com\/blog"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") over a subdomain ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/blog.example.com",
+                                "text": "blog.example.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616374917.079300",
+        "reply_count": 11,
+        "reply_users_count": 6,
+        "latest_reply": "1616512498.138000",
+        "reply_users": [
+            "UUJBMNRNF",
+            "U01P13NTGG6",
+            "UJJFDTN8G",
+            "U01S58MDDV2",
+            "UUXMCJQ15",
+            "UUVRBN6UQ"
+        ],
+        "replies": [
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1616376844.081200"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1616383746.081400"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1616384035.081700"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1616398500.082000"
+            },
+            {
+                "user": "U01S58MDDV2",
+                "ts": "1616404042.084300"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1616420063.090600"
+            },
+            {
+                "user": "UUVRBN6UQ",
+                "ts": "1616424770.096500"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1616425491.096700"
+            },
+            {
+                "user": "UUVRBN6UQ",
+                "ts": "1616428940.098600"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1616500720.129100"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1616512498.138000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6A9D4F96-4CD8-4EC0-9115-7562A057477C",
+        "type": "message",
+        "text": "Subdomains are like an entirely different domain. Domain authority is completely different. So, if you want to maintain any authority you have, use \/blog.",
+        "user": "UUJBMNRNF",
+        "ts": "1616376844.081200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Subdomains are like an entirely different domain. Domain authority is completely different. So, if you want to maintain any authority you have, use \/blog."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616374917.079300",
+        "parent_user_id": "UUVRBN6UQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUVRBN6UQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d27d5345-73be-4abd-bddb-f514e887f52d",
+        "type": "message",
+        "text": "Patrick Stox over at Ahrefs recently published this piece on the whole <https:\/\/ahrefs.com\/blog\/subdomain-vs-subfolder\/|subdomain vs subfolder debate>.",
+        "user": "U01P13NTGG6",
+        "ts": "1616383746.081400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SEO Blog by Ahrefs",
+                "title": "Subdomain vs. Subfolder, Is One Better Than the Other for SEO?",
+                "title_link": "https:\/\/ahrefs.com\/blog\/subdomain-vs-subfolder\/",
+                "text": "Don't make any changes before you read this.",
+                "fallback": "SEO Blog by Ahrefs: Subdomain vs. Subfolder, Is One Better Than the Other for SEO?",
+                "image_url": "https:\/\/ahrefs.com\/blog\/wp-content\/uploads\/2021\/03\/fb-subdomain-vs-subfolder.png",
+                "image_width": 485,
+                "image_height": 250,
+                "ts": 1615305634,
+                "from_url": "https:\/\/ahrefs.com\/blog\/subdomain-vs-subfolder\/",
+                "image_bytes": 56866,
+                "service_icon": "https:\/\/ahrefs.com\/blog\/wp-content\/themes\/Ahrefs-4\/images\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/ahrefs.com\/blog\/subdomain-vs-subfolder\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Patrick Stox over at Ahrefs recently published this piece on the whole "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ahrefs.com\/blog\/subdomain-vs-subfolder\/",
+                                "text": "subdomain vs subfolder debate"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616374917.079300",
+        "parent_user_id": "UUVRBN6UQ"
+    },
+    {
+        "client_msg_id": "2d641ad7-795c-457b-bfbf-25ca8de7d6c8",
+        "type": "message",
+        "text": "Between that article, his comments in Traffic Think Tank and on Twitter, his basic synopsis is that it doesn’t matter so long as you treat the subdomain like you would a subfolder with internal linking in articles, navigation, etc. on the main domain (e.g. the way HubSpot does with their own content).\n\nThis has been our experience as well. The primary reason we like having things in a subfolder is purely for analytical purposes.",
+        "user": "U01P13NTGG6",
+        "ts": "1616384035.081700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3sc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Between that article, his comments in Traffic Think Tank and on Twitter, his basic synopsis is that it doesn’t matter so long as you treat the subdomain like you would a subfolder with internal linking in articles, navigation, etc. on the main domain (e.g. the way HubSpot does with their own content).\n\nThis has been our experience as well. The primary reason we like having things in a subfolder is purely for analytical purposes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616374917.079300",
+        "parent_user_id": "UUVRBN6UQ"
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "client_msg_id": "5c21d5a3-143f-4761-9d43-e230e30c78eb",
+        "type": "message",
+        "text": "Hey all! :wave: Sorry I haven't been as active as I'd like in here! Just putting in a quick call-out; any B2B copywriters with CX (and ideally BPO) experience up for an eBook project?",
+        "user": "U010TLNTG21",
+        "ts": "1593773659.420100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ccbd0f35ccae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029792349831_ccbd0f35ccaeee9bf9de_72.jpg",
+            "first_name": "Dani",
+            "real_name": "Dani Juson",
+            "display_name": "Dani Juson",
+            "team": "TJE58GTJL",
+            "name": "dani",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Gt3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sorry I haven't been as active as I'd like in here! Just putting in a quick call-out; any B2B copywriters with CX (and ideally BPO) experience up for an eBook project?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593773659.420100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1593803095.420800",
+        "reply_users": [
+            "U015VEN5XT8",
+            "U0107Q25BRT"
+        ],
+        "replies": [
+            {
+                "user": "U015VEN5XT8",
+                "ts": "1593776646.420200"
+            },
+            {
+                "user": "U0107Q25BRT",
+                "ts": "1593803095.420800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U013L0U4YSU",
+                    "UJG9WTEKG",
+                    "U0107Q25BRT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84e427bd-82ce-4241-8d85-01973a0cd1fc",
+        "type": "message",
+        "text": "Hey <@U010TLNTG21>, want to send me a dm?",
+        "user": "U015VEN5XT8",
+        "ts": "1593776646.420200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cc4c48eaeb35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-25\/1191656062519_cc4c48eaeb3537298b45_72.png",
+            "first_name": "Robert",
+            "real_name": "Robert Weller",
+            "display_name": "Robert Weller",
+            "team": "TJE58GTJL",
+            "name": "toushenne_cmcg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cW05z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010TLNTG21"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", want to send me a dm?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593773659.420100",
+        "parent_user_id": "U010TLNTG21"
+    },
+    {
+        "client_msg_id": "c04bc00e-ec78-404e-a7ce-27b4589c2ce1",
+        "type": "message",
+        "text": "Hey <@U010TLNTG21> I'd be glad to chat. My portfolio is at <http:\/\/CharlesCosta.net|CharlesCosta.net>",
+        "user": "U0107Q25BRT",
+        "ts": "1593803095.420800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7f4131e47586",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-16\/3246028628310_7f4131e47586ddac13f6_72.jpg",
+            "first_name": "Charles",
+            "real_name": "Charles Costa",
+            "display_name": "Charles Costa",
+            "team": "TJE58GTJL",
+            "name": "charles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCfw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010TLNTG21"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'd be glad to chat. My portfolio is at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/CharlesCosta.net",
+                                "text": "CharlesCosta.net"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593773659.420100",
+        "parent_user_id": "U010TLNTG21"
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "client_msg_id": "9b8cc1cf-cd01-4334-9dd4-c6c49134791a",
+        "type": "message",
+        "text": "unfortunately, this Slack space doesn't save history so examples shared would be lost in a month",
+        "user": "UJ4A0H534",
+        "ts": "1604680116.072200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ea8df1b58529",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-07\/627235760020_ea8df1b5852909475c1a_72.jpg",
+            "first_name": "Seema",
+            "real_name": "Seema Nayak",
+            "display_name": "Seema",
+            "team": "TJE58GTJL",
+            "name": "cma.nayak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ONq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "unfortunately, this Slack space doesn't save history so examples shared would be lost in a month"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604602702.070400",
+        "parent_user_id": "U01E1LMJUQY",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U01E1LMJUQY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2432AF7C-D607-4FAC-848D-A7019D4FC0B1",
+        "type": "message",
+        "text": "Thanks for the heads up <@UJ4A0H534>! What do people recommend instead??",
+        "user": "U01E1LMJUQY",
+        "ts": "1604683730.073300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b4ba4b86fb94",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-26\/1460022920612_b4ba4b86fb940a9d2b1e_72.jpg",
+            "first_name": "Nikhil",
+            "real_name": "Nikhil Venkatesa",
+            "display_name": "Nikhil Venkatesa",
+            "team": "TJE58GTJL",
+            "name": "nikhil.venkatesa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YnIY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the heads up "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ4A0H534"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! What do people recommend instead??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604602702.070400",
+        "parent_user_id": "U01E1LMJUQY"
+    },
+    {
+        "client_msg_id": "3510e815-80a7-46cf-bbbf-75ef54aa1233",
+        "type": "message",
+        "text": "Something like a Feedly might work. Or a form based Airtable for input with a public facing table? :thinking_face:",
+        "user": "U01AHL8AGBB",
+        "ts": "1604688013.073500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "spqaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Something like a Feedly might work. Or a form based Airtable for input with a public facing table? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604602702.070400",
+        "parent_user_id": "U01E1LMJUQY"
+    }
+]

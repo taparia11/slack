@@ -1,0 +1,663 @@
+[
+    {
+        "client_msg_id": "e4343558-9409-4653-9241-2e241c60e629",
+        "type": "message",
+        "text": "Looking for a suggestion: for some reasons, we are _migrating_ (moving) our blog articles from \/blog to \/resources section applying 301 re-direct. Example:\n    ◦ \/blog\/article-1    will be now →    \/resources\/article-1\n    ◦ \/blog\/article-2    will be now →    \/resources\/article-2 ... and so on...\nDo I then also need to *update* the existing *internal* *links* to new URLs?:thinking_face: we will have 301 re-direct so I guess updating internal links won't be required.\n&gt; Has anyone carried out such migrations? Are there any *dos and don'ts* which I have to keep in mind during migration to ensure no impact on SEO traffic?\nThanks :slightly_smiling_face:",
+        "user": "U02728VQ001",
+        "ts": "1626774126.206600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ca619816d44a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-20\/2277751032359_ca619816d44a9a01d7c0_72.jpg",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "TJE58GTJL",
+            "name": "hackershubham",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ti7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking for a suggestion: for some reasons, we are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "migrating",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (moving) our blog articles from \/blog to \/resources section applying 301 re-direct. Example:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\/blog\/article-1    will be now →    \/resources\/article-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\/blog\/article-2    will be now →    \/resources\/article-2 ... and so on..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nDo I then also need to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "update",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " the existing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "internal",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "links",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to new URLs?"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we will have 301 re-direct so I guess updating internal links won't be required.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone carried out such migrations? Are there any "
+                            },
+                            {
+                                "type": "text",
+                                "text": "dos and don'ts",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which I have to keep in mind during migration to ensure no impact on SEO traffic?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1626874440.213600",
+        "reply_users": [
+            "UUKNSAKUH",
+            "U014PRHQUQ2",
+            "U02728VQ001",
+            "U022P09NXS7",
+            "U024K88ECFN",
+            "U020HB0P648"
+        ],
+        "replies": [
+            {
+                "user": "UUKNSAKUH",
+                "ts": "1626774250.206700"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1626780522.206900"
+            },
+            {
+                "user": "U02728VQ001",
+                "ts": "1626782479.207300"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1626785178.207500"
+            },
+            {
+                "user": "U022P09NXS7",
+                "ts": "1626794801.208300"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1626808659.208600"
+            },
+            {
+                "user": "U020HB0P648",
+                "ts": "1626828300.212800"
+            },
+            {
+                "user": "U02728VQ001",
+                "ts": "1626844179.213200"
+            },
+            {
+                "user": "U020HB0P648",
+                "ts": "1626874440.213600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7ae3aecc-1a6e-4f9e-aaec-9dcd444074af",
+        "type": "message",
+        "text": "I prefer to avoid internal link redirects so gradually, to update them, but I’ve always been pampered by developers writing a script to do that quickly for all pages.",
+        "user": "UUKNSAKUH",
+        "ts": "1626774250.206700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c1fd638514",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/975112902481_22c1fd63851461dc68d6_72.jpg",
+            "first_name": "Kal",
+            "real_name": "Kal Dimitrov",
+            "display_name": "Kal Dimitrov",
+            "team": "TJE58GTJL",
+            "name": "kaloyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I prefer to avoid internal link redirects so gradually, to update them, but I’ve always been pampered by developers writing a script to do that quickly for all pages."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "parent_user_id": "U02728VQ001",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02728VQ001"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19392f32-fb70-456d-b5ee-2d5898c7713d",
+        "type": "message",
+        "text": "Yes, update the redirects. Don’t take any risks SEO-wise, and give visitors better page load times",
+        "user": "U014PRHQUQ2",
+        "ts": "1626780522.206900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, update the redirects. Don’t take any risks SEO-wise, and give visitors better page load times"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "parent_user_id": "U02728VQ001",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02728VQ001",
+                    "U01G7PRL3HQ",
+                    "U021TAHP6TB"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "611d8741-6541-483c-982e-a8d605eaf0ae",
+        "type": "message",
+        "text": "Thanks <@U014PRHQUQ2>! Wouldn't 301 redirect pass the authority to the new pages?:thinking_face: We migrated 2 pages last month and there has been no negative impact so far.",
+        "user": "U02728VQ001",
+        "ts": "1626782479.207300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ca619816d44a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-20\/2277751032359_ca619816d44a9a01d7c0_72.jpg",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "TJE58GTJL",
+            "name": "hackershubham",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48qVH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Wouldn't 301 redirect pass the authority to the new pages?"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We migrated 2 pages last month and there has been no negative impact so far."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "parent_user_id": "U02728VQ001"
+    },
+    {
+        "client_msg_id": "c1ff3805-5017-4cf0-a75f-8349c107ba58",
+        "type": "message",
+        "text": "it _should_, but whenever I can avoid taking chances I do",
+        "user": "U014PRHQUQ2",
+        "ts": "1626785178.207500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U014PRHQUQ2",
+            "ts": "1626785189.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Wi9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "should",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", but whenever I can avoid taking chances I do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "parent_user_id": "U02728VQ001",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02728VQ001"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b23d431e-5817-4d6c-b13e-0f6865002dcd",
+        "type": "message",
+        "text": "Do you know why they're making the change?\n\nI have a colleague advocating for \/resource too. Trying to avoid this headache :slightly_smiling_face:",
+        "user": "U022P09NXS7",
+        "ts": "1626794801.208300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "170fba6adfb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-24\/2121083945088_170fba6adfb0a1393ccf_72.jpg",
+            "first_name": "Tiffany",
+            "real_name": "Tiffany Smith",
+            "display_name": "Tiffany Smith",
+            "team": "TJE58GTJL",
+            "name": "tiffanysmithmarcomm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSvZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you know why they're making the change?\n\nI have a colleague advocating for \/resource too. Trying to avoid this headache "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "parent_user_id": "U02728VQ001"
+    },
+    {
+        "client_msg_id": "d281107d-ac2e-45ba-aca4-bd18b1421ba7",
+        "type": "message",
+        "text": "We've done internal redirects for these situations in the past. FYI, I would expect a ~30% drop to traffic for those pages temporarily. The 301s do pass authority but Google doesn't love new URL structure on a large scale so it'll probably result in a temporary loss. We've seen 6 weeks to 6 months before in terms of getting that traffic back.",
+        "user": "U024K88ECFN",
+        "ts": "1626808659.208600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+r7X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We've done internal redirects for these situations in the past. FYI, I would expect a ~30% drop to traffic for those pages temporarily. The 301s do pass authority but Google doesn't love new URL structure on a large scale so it'll probably result in a temporary loss. We've seen 6 weeks to 6 months before in terms of getting that traffic back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "parent_user_id": "U02728VQ001",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U01P13NTGG6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hushed",
+                "users": [
+                    "U02728VQ001"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0AB34960-DFDE-43FC-8C13-EF09C28CF7C7",
+        "type": "message",
+        "text": "I second <@U022P09NXS7>’s question if you have more insight! This was actually a discussion my team was having recently to move some of the more evergreen “how to\/what is” blogs to a resources section. Ultimately still determining whether it is worth the big overhaul or if we will just being more prominence to those particular blogs elsewhere. ",
+        "user": "U020HB0P648",
+        "ts": "1626828300.212800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga4772bc4af2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a4772bc4af206623e87f7ae8b66b28af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Jenna",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jenna.larsson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U020HB0P648",
+            "ts": "1626828317.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTCjO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I second "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022P09NXS7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s question if you have more insight! This was actually a discussion my team was having recently to move some of the more evergreen “how to\/what is” blogs to a resources section. Ultimately still determining whether it is worth the big overhaul or if we will just being more prominence to those particular blogs elsewhere. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "parent_user_id": "U02728VQ001"
+    },
+    {
+        "client_msg_id": "260648ca-3038-4c24-b09f-6014b53855f6",
+        "type": "message",
+        "text": "Thanks <@U024K88ECFN>! <@U022P09NXS7>, <@U020HB0P648> - we are redirecting to \/resources section as we are updating the blog template and and our existing CMS doesn't support it.",
+        "user": "U02728VQ001",
+        "ts": "1626844179.213200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ca619816d44a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-20\/2277751032359_ca619816d44a9a01d7c0_72.jpg",
+            "first_name": "Shubham",
+            "real_name": "Shubham",
+            "display_name": "Shubham",
+            "team": "TJE58GTJL",
+            "name": "hackershubham",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OCFzF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U024K88ECFN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022P09NXS7"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U020HB0P648"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - we are redirecting to \/resources section as we are updating the blog template and and our existing CMS doesn't support it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626774126.206600",
+        "parent_user_id": "U02728VQ001",
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U024K88ECFN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

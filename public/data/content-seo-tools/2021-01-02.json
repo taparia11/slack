@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "743B7D9A-04EE-4CBA-B4B0-BBB9519D0452",
+        "type": "message",
+        "text": "Was it Journal?",
+        "user": "U0192P2G8F5",
+        "ts": "1609616755.206400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f2e0b48d2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1293898117559_26f2e0b48d2a48775c08_72.jpg",
+            "first_name": "Misty",
+            "real_name": "Misty Harper",
+            "display_name": "Misty Harper",
+            "team": "TJE58GTJL",
+            "name": "mharpersem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3YX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Was it Journal?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609436097.204400",
+        "parent_user_id": "U01BLESB996"
+    },
+    {
+        "client_msg_id": "6F54BC0B-12A2-4023-B681-802FC03A0933",
+        "type": "message",
+        "text": "Checked Journal’s site and it’s a productivity tool, so that may not be the one you were thinking of- <https:\/\/usejournal.com|https:\/\/usejournal.com>",
+        "user": "U0192P2G8F5",
+        "ts": "1609616864.207700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "26f2e0b48d2a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1293898117559_26f2e0b48d2a48775c08_72.jpg",
+            "first_name": "Misty",
+            "real_name": "Misty Harper",
+            "display_name": "Misty Harper",
+            "team": "TJE58GTJL",
+            "name": "mharpersem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Journal - Bring your projects to life.",
+                "title_link": "https:\/\/usejournal.com\/",
+                "text": "Journal is a productivity tool designed to keep your projects moving forward and your head clear.",
+                "fallback": "Journal - Bring your projects to life.",
+                "image_url": "https:\/\/assets.usejournal.com\/social\/facebook.jpg",
+                "from_url": "https:\/\/usejournal.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 270093,
+                "service_name": "usejournal.com",
+                "id": 1,
+                "original_url": "https:\/\/usejournal.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/iIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Checked Journal’s site and it’s a productivity tool, so that may not be the one you were thinking of- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/usejournal.com",
+                                "text": "https:\/\/usejournal.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609436097.204400",
+        "parent_user_id": "U01BLESB996"
+    }
+]

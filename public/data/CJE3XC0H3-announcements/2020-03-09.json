@@ -1,0 +1,1424 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1583760137.226200",
+        "thread_ts": "1583760137.226200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1583788108.232000",
+        "reply_users": [
+            "UUZRUDC8L"
+        ],
+        "replies": [
+            {
+                "user": "UUZRUDC8L",
+                "ts": "1583788108.232000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1583788108.232000"
+    },
+    {
+        "client_msg_id": "93d7252a-9b6d-470e-b965-d6d4d450c999",
+        "type": "message",
+        "text": "Hey Dave, could please not use the @ here for new posts? I'm on notification overload :slightly_smiling_face: But want to stay tuned into this channel and look at it when I have time.",
+        "user": "UJG12DM1V",
+        "ts": "1583760209.227200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOt9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Dave, could please not use the @ here for new posts? I'm on notification overload "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " But want to stay tuned into this channel and look at it when I have time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1583792295.237300",
+        "reply_users": [
+            "UUVC0K5BN",
+            "UUZRUDC8L",
+            "URAV154AV",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UUVC0K5BN",
+                "ts": "1583760247.227400"
+            },
+            {
+                "user": "UUZRUDC8L",
+                "ts": "1583776779.229800"
+            },
+            {
+                "user": "UUZRUDC8L",
+                "ts": "1583776789.230000"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1583786711.231200"
+            },
+            {
+                "user": "UUZRUDC8L",
+                "ts": "1583788088.231800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1583789950.232500"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1583789980.232700"
+            },
+            {
+                "user": "UUZRUDC8L",
+                "ts": "1583790206.233600"
+            },
+            {
+                "user": "UUVC0K5BN",
+                "ts": "1583792295.237300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1583792295.237300",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULJBEFSJJ",
+                    "UUVC5QGA0",
+                    "UJ420S7MG",
+                    "UJG9WTEKG",
+                    "UQRC13JTY",
+                    "UUH28N3U2",
+                    "UUVS674PP"
+                ],
+                "count": 7
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UUVRC8PS4",
+                    "UUVC5QGA0",
+                    "UMFSZ8JHL",
+                    "UJG9WTEKG",
+                    "UKQLFSX7H",
+                    "UUH28N3U2"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UJJFDTN8G",
+                    "UJ420S7MG",
+                    "UUH28N3U2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97b25fd7-0ab8-4bfd-ac89-b75e0fa30dac",
+        "type": "message",
+        "text": "Ooops! Apols :sweat_smile:",
+        "user": "UUVC0K5BN",
+        "ts": "1583760247.227400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c5b1a9711d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972349874145_5c5b1a9711d0aba2549a_72.jpg",
+            "first_name": "dave",
+            "real_name": "dave barton",
+            "display_name": "dave barton",
+            "team": "TJE58GTJL",
+            "name": "dave",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hoZ3S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ooops! Apols "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "dea540d2-bf33-4825-8535-e3bd845beb2d",
+        "type": "message",
+        "text": "Also, is this post about how hot female politicians are more sympathetic? I really can't get onboard with that. Anyone else?",
+        "user": "UUZRUDC8L",
+        "ts": "1583776779.229800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc4faf00ca46",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c4faf00ca46e8d27fa2e4a54b77dfb1c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Bronwyn",
+            "display_name": "Bronwyn",
+            "team": "TJE58GTJL",
+            "name": "bronwyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, is this post about how hot female politicians are more sympathetic? I really can't get onboard with that. Anyone else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "UJG12DM1V",
+                    "UUH28N3U2",
+                    "UUKNRAD4Z",
+                    "UUH2ESL66",
+                    "UUQ0C0ZUH"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ad7c246-2f52-44d8-8461-8d62dc548f5e",
+        "type": "message",
+        "text": "Also hi, I'm new to this channel. :joy:",
+        "user": "UUZRUDC8L",
+        "ts": "1583776789.230000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc4faf00ca46",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c4faf00ca46e8d27fa2e4a54b77dfb1c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Bronwyn",
+            "display_name": "Bronwyn",
+            "team": "TJE58GTJL",
+            "name": "bronwyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also hi, I'm new to this channel. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "60398017-4f8e-4b04-a88b-14d61d79ea6d",
+        "type": "message",
+        "text": "Interesting piece - <https:\/\/twitter.com\/mekosoff\/status\/1237002599628451840?s=20>",
+        "user": "UJE5LARL0",
+        "ts": "1583781505.230900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mekosoff|@mekosoff>: my first piece for <https:\/\/twitter.com\/MRKR|@MRKR>: a reported meditation on the state of all those startups that advertise on podcasts and the subway <https:\/\/marker.medium.com\/why-all-the-warby-parker-clones-are-now-imploding-44bfcc70a00c>",
+                "ts": 1583759376,
+                "author_name": "maya kosoff",
+                "author_link": "https:\/\/twitter.com\/mekosoff\/status\/1237002599628451840",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1230646488738516994\/vDx972OD_normal.jpg",
+                "author_subname": "@mekosoff",
+                "text": "my first piece for <https:\/\/twitter.com\/MRKR|@MRKR>: a reported meditation on the state of all those startups that advertise on podcasts and the subway <https:\/\/marker.medium.com\/why-all-the-warby-parker-clones-are-now-imploding-44bfcc70a00c>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mekosoff\/status\/1237002599628451840?s=20",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mekosoff\/status\/1237002599628451840?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Zud",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting piece - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/mekosoff\/status\/1237002599628451840?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3a3fbf9-5e9f-4b6a-a079-df3ed29d2605",
+        "type": "message",
+        "text": "I can't really say what this post is about. It makes no sense to me.",
+        "user": "URAV154AV",
+        "ts": "1583786711.231200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "090m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't really say what this post is about. It makes no sense to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "5bd474ae-c318-41db-8b5d-4dea9b94ad91",
+        "type": "message",
+        "text": "<@UJG9WTEKG> flagging this as inappropriate",
+        "user": "UUZRUDC8L",
+        "ts": "1583788088.231800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc4faf00ca46",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c4faf00ca46e8d27fa2e4a54b77dfb1c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Bronwyn",
+            "display_name": "Bronwyn",
+            "team": "TJE58GTJL",
+            "name": "bronwyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PnA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " flagging this as inappropriate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULKUFTFPW",
+                    "URAV154AV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec9d140b-ddc8-4b78-a30b-88992d7f4cc4",
+        "type": "message",
+        "text": "<@UJG9WTEKG>",
+        "user": "UUZRUDC8L",
+        "ts": "1583788108.232000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc4faf00ca46",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c4faf00ca46e8d27fa2e4a54b77dfb1c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Bronwyn",
+            "display_name": "Bronwyn",
+            "team": "TJE58GTJL",
+            "name": "bronwyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPYDT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760137.226200",
+        "parent_user_id": "UUVC0K5BN"
+    },
+    {
+        "client_msg_id": "e4e1deb7-d14b-4f9d-8b64-c9e1ce6d32c5",
+        "type": "message",
+        "text": "thank you for the heads up <@UUZRUDC8L>. i agree that this post is in poor taste _and_ that the <#CJE3XC0H3|general> channel is not for promoting your own content. i’m planning to delete that post but not this thread",
+        "user": "UJG9WTEKG",
+        "ts": "1583789950.232500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "693K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you for the heads up "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUZRUDC8L"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". i agree that this post is in poor taste "
+                            },
+                            {
+                                "type": "text",
+                                "text": "and",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CJE3XC0H3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel is not for promoting your own content. i’m planning to delete that post but not this thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "c6bf1b25-f258-43ac-a5e4-d501bc9886b5",
+        "type": "message",
+        "text": "i’ll also post an update in <#CJE3XC0H3|general> and follow up with dave separately",
+        "user": "UJG9WTEKG",
+        "ts": "1583789980.232700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Boo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’ll also post an update in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CJE3XC0H3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and follow up with dave separately"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "86c02474-e0a7-4e58-888e-b0f4b70a05dc",
+        "type": "message",
+        "text": "I so, so appreciate this. :muscle:",
+        "user": "UUZRUDC8L",
+        "ts": "1583790206.233600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc4faf00ca46",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c4faf00ca46e8d27fa2e4a54b77dfb1c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Bronwyn",
+            "display_name": "Bronwyn",
+            "team": "TJE58GTJL",
+            "name": "bronwyn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHT0=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I so, so appreciate this. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJG9WTEKG",
+                    "UUH2ESL66"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "417df552-13f6-432e-8d5b-a9a544067294",
+        "type": "message",
+        "text": "hi all - a quick update:\n• an article posted in the <#CJE3XC0H3|general> channel today was flagged as inappropriate and was removed.\n• please don’t use the <#CJE3XC0H3|general> channel to promote your own content. if people want a channel to promote things, we can definitely create one (but i’m curious to hear if anyone really wants that)\n• this makes me realize that we should put together some community guidelines. if anyone has thoughts on what should be in there, please let me know! i think guidelines will be most effective if they are sourced from the group.\nthank you all for being part of this community!",
+        "user": "UJG9WTEKG",
+        "ts": "1583790217.234000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1583790596.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tHT1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi all - a quick update:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "an article posted in the "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "CJE3XC0H3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " channel today was flagged as inappropriate and was removed."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "please don’t use the "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "CJE3XC0H3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " channel to promote your own content. if people want a channel to promote things, we can definitely create one (but i’m curious to hear if anyone really wants that)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "this makes me realize that we should put together some community guidelines. if anyone has thoughts on what should be in there, please let me know! i think guidelines will be most effective if they are sourced from the group."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you all for being part of this community!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "reply_count": 14,
+        "reply_users_count": 8,
+        "latest_reply": "1583860276.248100",
+        "reply_users": [
+            "UUH2EB134",
+            "UJG9WTEKG",
+            "US22VH405",
+            "UJE5LARL0",
+            "UUVC0EX8C",
+            "UUVC9HJTE",
+            "UJG12DM1V",
+            "UUZRUDC8L"
+        ],
+        "replies": [
+            {
+                "user": "UUH2EB134",
+                "ts": "1583790603.234700"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1583790691.235100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1583790862.235800"
+            },
+            {
+                "user": "US22VH405",
+                "ts": "1583790975.236100"
+            },
+            {
+                "user": "UJE5LARL0",
+                "ts": "1583791509.236300"
+            },
+            {
+                "user": "UUH2EB134",
+                "ts": "1583791558.236500"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1583791919.236900"
+            },
+            {
+                "user": "UUVC0EX8C",
+                "ts": "1583794431.238000"
+            },
+            {
+                "user": "UUVC9HJTE",
+                "ts": "1583836947.244700"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1583837213.245000"
+            },
+            {
+                "user": "UUVC0EX8C",
+                "ts": "1583841903.245400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1583857494.247600"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1583857503.247800"
+            },
+            {
+                "user": "UUZRUDC8L",
+                "ts": "1583860276.248100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1583860276.248100",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUZRUDC8L",
+                    "UUH2EB134",
+                    "UJS103D7S",
+                    "UV5TB6FQW",
+                    "US3NM8ZHT",
+                    "UMFSZ8JHL",
+                    "UUKNRAD4Z",
+                    "UU07F98SJ",
+                    "UQQB74JHH",
+                    "UJDRK6E4C",
+                    "UUXMLB9C7",
+                    "UUY24HLUW",
+                    "UUKNSAKUH",
+                    "UL2E0QVB3",
+                    "URL9Z88MR",
+                    "UJ53ETCLB",
+                    "UL4TUV38B",
+                    "UUH28N3U2",
+                    "UJGJD1TDK",
+                    "UUWUJ11TJ",
+                    "UQRC13JTY",
+                    "UP6K3LYQ7",
+                    "UUVRC8PS4",
+                    "UMU130KPZ"
+                ],
+                "count": 24
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UUVC5QGA0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be7d5ff0-2eec-4b71-ad88-0af75839174f",
+        "type": "message",
+        "text": "I recently joined another similar community and its community guidelines are a separate Slack channel, which helps keep them visible to new members. Just passing along in case it’s worth stealing.",
+        "user": "UUH2EB134",
+        "ts": "1583790603.234700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUH2EB134",
+            "ts": "1583790894.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p1cd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I recently joined another similar community and its community guidelines are a separate Slack channel, which helps keep them visible to new members. Just passing along in case it’s worth stealing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40a31d7d-dd88-4abb-85f4-195f3552af82",
+        "type": "message",
+        "text": "And thank you for being quick to act\/respond\/engage.",
+        "user": "UUH2EB134",
+        "ts": "1583790691.235100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9TJWI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And thank you for being quick to act\/respond\/engage."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "0dca9322-d6b0-420d-8b5a-52af2ed7e8c4",
+        "type": "message",
+        "text": "i like that idea a lot <@UUH2EB134>",
+        "user": "UJG9WTEKG",
+        "ts": "1583790862.235800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cssN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i like that idea a lot "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH2EB134"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "664b6ec4-9058-44f7-bd9c-0bc83d1cd8b1",
+        "type": "message",
+        "text": "I'd like it if you had a promotion channel. I'd like to help others with their promotion and get some help with mine as well.",
+        "user": "US22VH405",
+        "ts": "1583790975.236100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fc2350e82f15",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/893352660166_fc2350e82f1578d3c35a_72.jpg",
+            "first_name": "Divij",
+            "real_name": "Divij Sood",
+            "display_name": "Divij Sood",
+            "team": "TJE58GTJL",
+            "name": "divij_sood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2GXrs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd like it if you had a promotion channel. I'd like to help others with their promotion and get some help with mine as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "deb17686-62bf-4461-9ad7-b88281ce9619",
+        "type": "message",
+        "text": "I'm on the mod team of a large digital marketing slack and they explicitly have a #shameless_promotion channel just as a place to let people post things. Also they have a Friday accomplishments in the main channel which is both self-promo and a nice way to end the week.",
+        "user": "UJE5LARL0",
+        "ts": "1583791509.236300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c284f694e246",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-09\/633465703478_c284f694e24688bc36b1_72.jpg",
+            "first_name": "Michael",
+            "real_name": "Michael Buckbee",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "mike",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gtVY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm on the mod team of a large digital marketing slack and they explicitly have a #shameless_promotion channel just as a place to let people post things. Also they have a Friday accomplishments in the main channel which is both self-promo and a nice way to end the week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "UJ4A0H534"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "caaacc48-63c3-4a53-9dca-a98915f043f9",
+        "type": "message",
+        "text": "+1 to calling it shameless_promotion, as it’ll give folks pause before posting",
+        "user": "UUH2EB134",
+        "ts": "1583791558.236500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 to calling it shameless_promotion, as it’ll give folks pause before posting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UUVC0LK2Q",
+                    "UJG9WTEKG",
+                    "UQQB74JHH",
+                    "ULKUFTFPW",
+                    "UJ2N9A3GT",
+                    "UUVC67604",
+                    "UJS7GK1TP",
+                    "UL2E0QVB3",
+                    "URL9Z88MR",
+                    "ULJBEFSJJ",
+                    "UUVRK10QG",
+                    "UJGJD1TDK"
+                ],
+                "count": 12
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UMQASRN1W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4df1535-5c1f-48ec-85a1-4c05db7ca40f",
+        "type": "message",
+        "text": "love that idea <@UJE5LARL0>",
+        "user": "UJG9WTEKG",
+        "ts": "1583791919.236900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mjZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "love that idea "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LARL0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "c2920b6f-0a9c-42ff-be40-b2456dc83882",
+        "type": "message",
+        "text": "Hmm. Well, didn't expect that kind of response. It certainly wasn't intended to be sexist – more a light-heated critique of politics and organizations using appealing smokescreens to mask their internal machinations. Not convinced this is the community for me. I'll respectfully depart.",
+        "user": "UUVC0K5BN",
+        "ts": "1583792295.237300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c5b1a9711d0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972349874145_5c5b1a9711d0aba2549a_72.jpg",
+            "first_name": "dave",
+            "real_name": "dave barton",
+            "display_name": "dave barton",
+            "team": "TJE58GTJL",
+            "name": "dave",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kB=m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm. Well, didn't expect that kind of response. It certainly wasn't intended to be sexist – more a light-heated critique of politics and organizations using appealing smokescreens to mask their internal machinations. Not convinced this is the community for me. I'll respectfully depart."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583760209.227200",
+        "parent_user_id": "UJG12DM1V",
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "URAV154AV",
+                    "UUQ0C0ZUH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1948cc8-3914-44e6-b4f3-c2c6a3fa82f2",
+        "type": "message",
+        "text": "#shameless-plug sounds better",
+        "user": "UUVC0EX8C",
+        "ts": "1583794431.238000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae54711d9c59",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-25\/1322495497619_ae54711d9c596594a42d_72.jpg",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "aditya698",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#shameless-plug sounds better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583790217.234000",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUH2EB134",
+                    "UJS7GK1TP",
+                    "UUVC5QGA0",
+                    "UUVRK10QG",
+                    "UJGJD1TDK"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b8e7971-ee58-4252-8b2b-dd9b1609c8fb",
+        "type": "message",
+        "text": "Hi Nati, it’s great  to gave you here",
+        "user": "UUJBV15GB",
+        "ts": "1583796766.238600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge6aa49ff497",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e6aa49ff4979854ade9172734767f05b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Tope",
+            "display_name": "Tope",
+            "team": "TJE58GTJL",
+            "name": "tope.longe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=JKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Nati, it’s great  to gave you here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583340696.107100",
+        "parent_user_id": "UUVRC8PS4",
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "UUVRC8PS4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "024fe905-16fd-4445-9df0-602a040b9610",
+        "type": "message",
+        "text": "Joei! :raised_hands: Congrats on the new job!",
+        "user": "UJE6FLEFJ",
+        "ts": "1583800385.243500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc6ef52e2245",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c6ef52e2245358c2ae0b9a02308b7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Brittany Berger",
+            "display_name": "Brittany Berger",
+            "team": "TJE58GTJL",
+            "name": "brittany",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ykz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joei! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Congrats on the new job!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583434878.194500",
+        "parent_user_id": "UUXPJ96EQ",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUXPJ96EQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

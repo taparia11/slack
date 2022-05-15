@@ -1,0 +1,821 @@
+[
+    {
+        "client_msg_id": "c271f701-7ec8-49a0-b10b-faeee5636a72",
+        "type": "message",
+        "text": "I'm not sure this is the right channel for this question, so feel free to correct me if I'm wrong:\n\nFor folks who work with email content, where do you edit and organize all of your email content from across the org? We're sending messages from several different platforms and I'm struggling to get a good line of sight on every single email. Even once i find them all, we can't just edit them inside those platforms (e.g., Hubspot) because stakeholders who don't use those platforms need to be able to weigh in, edit, etc. So I guess my question is two-fold:\n\nWhat tool\/platform do you use to map out your email \"ecosystem\"?\nWhat tool\/platform for you use to edit the emails and serve as your single source of truth for content updates for email? (Bonus points for someone who's coming up with a great solution using a Google Suite product).",
+        "user": "U0162CX5SH1",
+        "ts": "1633340594.273100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "926d01f60259",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-26\/1193124277575_926d01f60259882ef601_72.jpg",
+            "first_name": "Kate",
+            "real_name": "Kate Cooper",
+            "display_name": "Kate Cooper",
+            "team": "TJE58GTJL",
+            "name": "kate",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0162CX5SH1",
+            "ts": "1633340693.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Avw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure this is the right channel for this question, so feel free to correct me if I'm wrong:\n\nFor folks who work with email content, where do you edit and organize all of your email content from across the org? We're sending messages from several different platforms and I'm struggling to get a good line of sight on every single email. Even once i find them all, we can't just edit them inside those platforms (e.g., Hubspot) because stakeholders who don't use those platforms need to be able to weigh in, edit, etc. So I guess my question is two-fold:\n\nWhat tool\/platform do you use to map out your email \"ecosystem\"?\nWhat tool\/platform for you use to edit the emails and serve as your single source of truth for content updates for email? (Bonus points for someone who's coming up with a great solution using a Google Suite product)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633340594.273100",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1633785006.317600",
+        "reply_users": [
+            "U01J85VRKF1",
+            "U0162CX5SH1",
+            "U022NPEBM18",
+            "U02GA73RSHK",
+            "U01M645RCMS"
+        ],
+        "replies": [
+            {
+                "user": "U01J85VRKF1",
+                "ts": "1633348699.285000"
+            },
+            {
+                "user": "U0162CX5SH1",
+                "ts": "1633372772.299100"
+            },
+            {
+                "user": "U022NPEBM18",
+                "ts": "1633434907.299400"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1633447830.299600"
+            },
+            {
+                "user": "U01M645RCMS",
+                "ts": "1633785006.317600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c0926378-8a36-41dd-bd8b-f1fa9b3d1b80",
+        "type": "message",
+        "text": "Great, thank you <@UUXPJ96EQ> :slightly_smiling_face:",
+        "user": "U01CW2WDEEP",
+        "ts": "1633347054.273300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "65ad92ea230b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-20\/1424773407623_65ad92ea230b674b432b_72.png",
+            "first_name": "Yasemin",
+            "real_name": "Yasemin Salman",
+            "display_name": "Yasemin Salman",
+            "team": "TJE58GTJL",
+            "name": "yasemin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7u2x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great, thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXPJ96EQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633026085.239000",
+        "parent_user_id": "U01CW2WDEEP"
+    },
+    {
+        "client_msg_id": "B800D215-290D-4F53-B587-1328364D7AE1",
+        "type": "message",
+        "text": "Okay, I’ve never ran an email ecosystem, just a small part of the emails my company sends out. I used to write sales emails and to get my bosses approval I would write the emails in Google Docs so she could approve, edit, etc, to her hearts content. Then I’d create them in Pardot.\n\nI have a colleague who creates the emails he writes in Pardot and then he sends a proof via email which allows us to take emails line by line and suggest edits or things that need more clarification. It’s not as intuitive as Google Docs, but we only send our main newsletter once a month.\n\nI would say creating a shared Google Drive for everyone who creates emails on your team. You could organize it into folders and even create some simple templates they can use to make it easy to build emails in Google Docs first. Overall, you’ve probably got to do a bit of convincing. Let your team know the importance of taking a step back and creating systems around email sends. You’ve also got to be available. Let your team know when to turn in email copy by to ensure that you and other stakeholders have a chance to edit and approve.",
+        "user": "U01J85VRKF1",
+        "ts": "1633348699.285000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6014791c8384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-11\/2168802380004_6014791c8384d642d727_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda Cross",
+            "display_name": "Amanda Cross",
+            "team": "TJE58GTJL",
+            "name": "amanda867",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LurM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, I’ve never ran an email ecosystem, just a small part of the emails my company sends out. I used to write sales emails and to get my bosses approval I would write the emails in Google Docs so she could approve, edit, etc, to her hearts content. Then I’d create them in Pardot.\n\nI have a colleague who creates the emails he writes in Pardot and then he sends a proof via email which allows us to take emails line by line and suggest edits or things that need more clarification. It’s not as intuitive as Google Docs, but we only send our main newsletter once a month.\n\nI would say creating a shared Google Drive for everyone who creates emails on your team. You could organize it into folders and even create some simple templates they can use to make it easy to build emails in Google Docs first. Overall, you’ve probably got to do a bit of convincing. Let your team know the importance of taking a step back and creating systems around email sends. You’ve also got to be available. Let your team know when to turn in email copy by to ensure that you and other stakeholders have a chance to edit and approve."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633340594.273100",
+        "parent_user_id": "U0162CX5SH1"
+    },
+    {
+        "client_msg_id": "173E40E5-3626-4A91-8E24-86581DDFC246",
+        "type": "message",
+        "text": "Does anyone know of a great AI-powered editing tool?\n\nI know Grammarly for the basics and plagiarism, but I’m wondering if it’s possible to do higher-level structural edits with a tool? We have in-house developmental editors and I’d like to work on making them more effective.",
+        "user": "U029CTQ5X6Y",
+        "ts": "1633351311.287200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4d1afd4712b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2312909469026_4d1afd4712b9f77f1af8_72.jpg",
+            "first_name": "Karl",
+            "real_name": "Karl Hughes",
+            "display_name": "Karl (Draft.dev)",
+            "team": "TJE58GTJL",
+            "name": "khughes.me",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yfs4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone know of a great AI-powered editing tool?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI know Grammarly for the basics and plagiarism, but I’m wondering if it’s possible to do higher-level structural edits with a tool? We have in-house developmental editors and I’d like to work on making them more effective."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633351311.287200",
+        "reply_count": 10,
+        "reply_users_count": 5,
+        "latest_reply": "1635215580.053300",
+        "reply_users": [
+            "U02GD7E7CR0",
+            "U029CTQ5X6Y",
+            "U01EJ7VE9FD",
+            "U02GA73RSHK",
+            "U027V14CNHF"
+        ],
+        "replies": [
+            {
+                "user": "U02GD7E7CR0",
+                "ts": "1633352625.294300"
+            },
+            {
+                "user": "U029CTQ5X6Y",
+                "ts": "1633353869.294700"
+            },
+            {
+                "user": "U01EJ7VE9FD",
+                "ts": "1633354980.295000"
+            },
+            {
+                "user": "U029CTQ5X6Y",
+                "ts": "1633355303.295200"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1633448045.300000"
+            },
+            {
+                "user": "U029CTQ5X6Y",
+                "ts": "1633461089.300400"
+            },
+            {
+                "user": "U02GA73RSHK",
+                "ts": "1633461253.300700"
+            },
+            {
+                "user": "U027V14CNHF",
+                "ts": "1635215287.052900"
+            },
+            {
+                "user": "U029CTQ5X6Y",
+                "ts": "1635215373.053100"
+            },
+            {
+                "user": "U027V14CNHF",
+                "ts": "1635215580.053300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6eff574e-5c69-42a8-9baa-ec289fc06f69",
+        "type": "message",
+        "text": "Truthfully? I just hang out here and read smart newsletters that open my mind to new ideas.",
+        "user": "UUXMCJQ15",
+        "ts": "1633351594.288100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5qRY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Truthfully? I just hang out here and read smart newsletters that open my mind to new ideas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633327203.272700",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U017WRJTKF1",
+                    "U019P0ADPCH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3bc94d80-49eb-4cfc-9588-9990a45ee1e6",
+        "type": "message",
+        "text": "probably an obvious suggestion, but I've always found Hemingway Editor to be useful for this",
+        "user": "U02GD7E7CR0",
+        "ts": "1633352625.294300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "0910263383e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-02\/2561681153524_0910263383e31466eaf3_72.jpg",
+            "first_name": "Arron",
+            "real_name": "Arron Westbrook",
+            "display_name": "Arron Westbrook",
+            "team": "TJE58GTJL",
+            "name": "arron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3BuXR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "probably an obvious suggestion, but I've always found Hemingway Editor to be useful for this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633351311.287200",
+        "parent_user_id": "U029CTQ5X6Y",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01AU94TABA",
+                    "UNA88V285",
+                    "U02GGFE8GDP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U029CTQ5X6Y"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3ee2575-0fde-44c5-a038-601991f5876f",
+        "type": "message",
+        "text": "That's good too for wording, but I don't think it really gets structural issues.\n\nMaybe I should check again. Been a while since I tried it.",
+        "user": "U029CTQ5X6Y",
+        "ts": "1633353869.294700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4d1afd4712b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2312909469026_4d1afd4712b9f77f1af8_72.jpg",
+            "first_name": "Karl",
+            "real_name": "Karl Hughes",
+            "display_name": "Karl (Draft.dev)",
+            "team": "TJE58GTJL",
+            "name": "khughes.me",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXqn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's good too for wording, but I don't think it really gets structural issues.\n\nMaybe I should check again. Been a while since I tried it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633351311.287200",
+        "parent_user_id": "U029CTQ5X6Y"
+    },
+    {
+        "client_msg_id": "1eca5f96-0a6e-4801-a4f8-0eb0e6e6dff0",
+        "type": "message",
+        "text": "i don't think there is any AI that is capable of this, since \"AI\" doesn't actually understand structure",
+        "user": "U01EJ7VE9FD",
+        "ts": "1633354980.295000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/lIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i don't think there is any AI that is capable of this, since \"AI\" doesn't actually understand structure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633351311.287200",
+        "parent_user_id": "U029CTQ5X6Y"
+    },
+    {
+        "client_msg_id": "f4a26616-e427-4bc1-a9ba-b753648777da",
+        "type": "message",
+        "text": "That's what I was afraid of. Just figured I would ask around.",
+        "user": "U029CTQ5X6Y",
+        "ts": "1633355303.295200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4d1afd4712b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2312909469026_4d1afd4712b9f77f1af8_72.jpg",
+            "first_name": "Karl",
+            "real_name": "Karl Hughes",
+            "display_name": "Karl (Draft.dev)",
+            "team": "TJE58GTJL",
+            "name": "khughes.me",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sex2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's what I was afraid of. Just figured I would ask around."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633351311.287200",
+        "parent_user_id": "U029CTQ5X6Y"
+    },
+    {
+        "client_msg_id": "ac76d2d0-93da-4879-9672-6e663cdeeebd",
+        "type": "message",
+        "text": "Note that you do have to put in your credit card info to get the free account",
+        "user": "U02643EMUBD",
+        "ts": "1633360597.295600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "03118f83ffdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-30\/2459728295136_03118f83ffdc34c00422_72.jpg",
+            "first_name": "",
+            "real_name": "David Mantel",
+            "display_name": "David Mantel",
+            "team": "TJE58GTJL",
+            "name": "davidmantel11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZC9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note that you do have to put in your credit card info to get the free account"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630509502.060700",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "842cd406-3323-4996-9337-ccee00886ea9",
+        "type": "message",
+        "text": "Have a client running into an issue where a handful of pages are no longer indexed and they don't know why. In Search Console it's showing \"No: 'noindex' detected in 'X-Robots-Tag' http header\".  I don't see that tag enabled going into their PHP file in WordPress or SEO plugin settings. Does anyone have a consultant they can recommend who can troubleshoot this further?",
+        "user": "U0166H7KUAZ",
+        "ts": "1633366213.297300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f58be1456496",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-29\/1197308509671_f58be1456496f374b7ea_72.jpg",
+            "first_name": "",
+            "real_name": "Phillip Paquette",
+            "display_name": "Phillip Paquette",
+            "team": "TJE58GTJL",
+            "name": "phillippaquette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have a client running into an issue where a handful of pages are no longer indexed and they don't know why. In Search Console it's showing \"No: 'noindex' detected in 'X-Robots-Tag' http header\".  I don't see that tag enabled going into their PHP file in WordPress or SEO plugin settings. Does anyone have a consultant they can recommend who can troubleshoot this further?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633366213.297300",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1634156357.344600",
+        "reply_users": [
+            "UUXMCJQ15",
+            "U01NW9AE6CV",
+            "U0166H7KUAZ"
+        ],
+        "replies": [
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1633366617.297600"
+            },
+            {
+                "user": "U01NW9AE6CV",
+                "ts": "1633807500.317800"
+            },
+            {
+                "user": "U0166H7KUAZ",
+                "ts": "1634080021.333600"
+            },
+            {
+                "user": "U01NW9AE6CV",
+                "ts": "1634155125.343800"
+            },
+            {
+                "user": "U0166H7KUAZ",
+                "ts": "1634156282.344400"
+            },
+            {
+                "user": "U01NW9AE6CV",
+                "ts": "1634156357.344600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "98ca4406-a3e8-4490-af1e-c2aa90290357",
+        "type": "message",
+        "text": "ah <@U02643EMUBD> good to know, sorry i didn't realize that",
+        "user": "UJG9WTEKG",
+        "ts": "1633366336.297400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tXp2O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02643EMUBD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good to know, sorry i didn't realize that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630509502.060700",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02643EMUBD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad3fcf17-4b25-4970-a06f-8da9a7bab086",
+        "type": "message",
+        "text": ":wave:  Happy to chat <@U0166H7KUAZ>.",
+        "user": "UUXMCJQ15",
+        "ts": "1633366617.297600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQte1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Happy to chat "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0166H7KUAZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633366213.297300",
+        "parent_user_id": "U0166H7KUAZ"
+    },
+    {
+        "client_msg_id": "3f418649-f27f-4b2f-a601-168c164e791d",
+        "type": "message",
+        "text": "The Tilt newsletter",
+        "user": "UPZ4VTLJE",
+        "ts": "1633369245.298000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c99b7b58614",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-04\/2587988620704_5c99b7b58614943546f4_72.jpg",
+            "first_name": "",
+            "real_name": "Gary Magnone",
+            "display_name": "Gary Magnone",
+            "team": "TJE58GTJL",
+            "name": "gary",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5I0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Tilt newsletter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633327203.272700",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U019P0ADPCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bedf81c4-69ee-4a1e-b059-9e48c1c9ba3c",
+        "type": "message",
+        "text": "Thanks, <@U01J85VRKF1> . This was really helpful.",
+        "user": "U0162CX5SH1",
+        "ts": "1633372772.299100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "926d01f60259",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-26\/1193124277575_926d01f60259882ef601_72.jpg",
+            "first_name": "Kate",
+            "real_name": "Kate Cooper",
+            "display_name": "Kate Cooper",
+            "team": "TJE58GTJL",
+            "name": "kate",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0162CX5SH1",
+            "ts": "1633372783.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vwq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01J85VRKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . This was really helpful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633340594.273100",
+        "parent_user_id": "U0162CX5SH1"
+    }
+]

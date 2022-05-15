@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "6ec5301d-21fe-4f1f-b9d8-02122d1fd172",
+        "type": "message",
+        "text": "Hey <@U0371R84TUY> :wave:\n\nThis channel is just for the Superpath bot’s job listings; if you’d like, I’d recommend posting this instead in the <#C012AUSC85C|promotion> and maybe even <#CKRJX5U5A|collab> channels",
+        "user": "U02CT7VCMKM",
+        "ts": "1647010907.020709",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xuq2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0371R84TUY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis channel is just for the Superpath bot’s job listings; if you’d like, I’d recommend posting this instead in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and maybe even "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKRJX5U5A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646969294.271989",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0371R84TUY",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

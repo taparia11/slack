@@ -1,0 +1,252 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1634751460.178200",
+        "thread_ts": "1634751460.178200",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1634755385.178900",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02JUMB4789"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634755366.178600"
+            },
+            {
+                "user": "U02JUMB4789",
+                "ts": "1634755385.178900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1634755385.178900"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*<http:\/\/Wordpress.com|Wordpress.com> is hiring a Developer Content Marketing Editor (San Francisco, CA, USA)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/194377-developer-content-marketing-editor>",
+        "ts": "1634752477.178400",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*<http:\/\/Wordpress.com|Wordpress.com> is hiring a Content Marketing Editor (San Francisco, CA, USA)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/194376-content-marketing-editor>",
+        "ts": "1634752478.178500",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "client_msg_id": "2c60a805-daf3-4707-9189-ed0e2cde9b55",
+        "type": "message",
+        "text": "<@U02JUMB4789> we run all jobs through the job board. this channel is just a feed. will shoot you a dm!",
+        "user": "UJG9WTEKG",
+        "ts": "1634755366.178600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KuZu9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02JUMB4789"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we run all jobs through the job board. this channel is just a feed. will shoot you a dm!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634751460.178200",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "b9e3243a-94f1-4e80-8c7d-088825b0bb21",
+        "type": "message",
+        "text": "ahhh, thanks <@UJG9WTEKG>",
+        "user": "U02JUMB4789",
+        "ts": "1634755385.178900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "21ca9780f2d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-20\/2625149025157_21ca9780f2d62d07a661_72.jpg",
+            "first_name": "Danny",
+            "real_name": "Danny Greer",
+            "display_name": "Danny Greer",
+            "team": "TJE58GTJL",
+            "name": "danny",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PDN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahhh, thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634751460.178200",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1634755561.179200",
+        "thread_ts": "1634755561.179200",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1634755621.179400",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1634755621.179400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1634755621.179400"
+    },
+    {
+        "client_msg_id": "e36b3d13-afbe-4037-9397-7a71980b6fde",
+        "type": "message",
+        "text": "<@U02DJAN6GKA> this channel is just a feed frm the job board. will shoot you a dm!",
+        "user": "UJG9WTEKG",
+        "ts": "1634755621.179400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ew+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DJAN6GKA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this channel is just a feed frm the job board. will shoot you a dm!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634755561.179200",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Chatty is hiring a Freelance Content Editor (Remote)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/194585-freelance-content-editor>",
+        "ts": "1634790095.000300",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "thread_ts": "1634790095.000300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1634835538.001700",
+        "reply_users": [
+            "UJ7R3QGSV"
+        ],
+        "replies": [
+            {
+                "user": "UJ7R3QGSV",
+                "ts": "1634835538.001700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "partyparrot",
+                "users": [
+                    "UJG9WTEKG",
+                    "UJ7R3QGSV",
+                    "UN227ML2H",
+                    "U01PXN2LGAK"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

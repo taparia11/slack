@@ -1,0 +1,307 @@
+[
+    {
+        "client_msg_id": "3a030a5b-94b9-4b1e-b92b-dbb8ac306379",
+        "type": "message",
+        "text": "Hi <@U02LGA1L5L0>! Not to step on <@UJG9WTEKG>’s toes, but just to let you know that this channel is primarily for the automated bot's job listings. I think you should be able to post this in either <#C021RFDHEMD|all-things-freelance> or maybe even <#C012AUSC85C|promotion>, however!",
+        "user": "U02CT7VCMKM",
+        "ts": "1636383315.045000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXhUF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02LGA1L5L0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Not to step on "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s toes, but just to let you know that this channel is primarily for the automated bot's job listings. I think you should be able to post this in either "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C021RFDHEMD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or maybe even "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", however!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636305150.044900",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f32088d5-8190-4628-9097-a0bb1df9150b",
+        "type": "message",
+        "text": "Hey, thanks for the notice. I did not realize at first.",
+        "user": "U02LGA1L5L0",
+        "ts": "1636383640.045300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8f13808b4d44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-02\/2699584906896_8f13808b4d44f1dc2527_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Zubkov",
+            "display_name": "Aleksandr Zubkov",
+            "team": "TJE58GTJL",
+            "name": "zubkovmedia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pPJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, thanks for the notice. I did not realize at first."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636305150.044900",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "660825bc-b54d-4276-a8f2-86e132031fc9",
+        "type": "message",
+        "text": "No worries! Just wanted to let you know :slightly_smiling_face:",
+        "user": "U02CT7VCMKM",
+        "ts": "1636383675.045500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5373a9a3cd0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-11\/3241031679585_5373a9a3cd0a22894b60_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Woehlke",
+            "display_name": "Jake Woehlke",
+            "team": "TJE58GTJL",
+            "name": "jake.woehlke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9KK\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries! Just wanted to let you know "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636305150.044900",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02LGA1L5L0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Megawatt is hiring a B2B Tech Account Manager and Strategist (Remote)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/202037-b2b-tech-account-manager-and-strategist>",
+        "ts": "1636388552.045900",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":partying_face:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f973.png"
+        },
+        "bot_id": "B0199MPQELR"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1636393626.046300",
+        "thread_ts": "1636393626.046300",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1636494086.048000",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U02LBR37ZEF",
+            "URAV154AV"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1636395281.046600"
+            },
+            {
+                "user": "U02LBR37ZEF",
+                "ts": "1636439566.047100"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1636494086.048000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1636494086.048000"
+    },
+    {
+        "client_msg_id": "d893be21-6472-40c6-83c4-635e39ca2614",
+        "type": "message",
+        "text": "<@U02LBR37ZEF> just fyi this channel is just a feed from the job board",
+        "user": "UJG9WTEKG",
+        "ts": "1636395281.046600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DP6f8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02LBR37ZEF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just fyi this channel is just a feed from the job board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636393626.046300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "813b7a39-264d-47de-b1d4-51afc1fc8f18",
+        "type": "message",
+        "text": "ok, a bit confusing then",
+        "user": "U02LBR37ZEF",
+        "ts": "1636439566.047100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4c1011cfc87c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-07\/2699013612164_4c1011cfc87c37e4cbb2_72.jpg",
+            "first_name": "Alina",
+            "real_name": "Alina Moskalova",
+            "display_name": "Alina Moskalova",
+            "team": "TJE58GTJL",
+            "name": "alina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cpl8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, a bit confusing then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636393626.046300",
+        "parent_user_id": "USLACKBOT"
+    }
+]

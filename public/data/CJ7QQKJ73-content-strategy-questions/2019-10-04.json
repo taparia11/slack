@@ -1,0 +1,764 @@
+[
+    {
+        "client_msg_id": "d9ce6471-3d95-412f-af4d-09bffc687e30",
+        "type": "message",
+        "text": "Hey marketers!\nDoes anyone know if there's a way of splitting Branded (organic) traffic from Non-branded (organic) traffic in Google Analytics?",
+        "user": "UJFCMA7V3",
+        "ts": "1570207577.099200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1b787dc70913",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629653306006_1b787dc709138a1ded37_72.jpg",
+            "first_name": "Allan",
+            "real_name": "Allan Formigoni",
+            "display_name": "Allan Formigoni",
+            "team": "TJE58GTJL",
+            "name": "allan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570207577.099200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1570211259.099500",
+        "reply_users": [
+            "UN3EHV8RK",
+            "UJDPMTREY"
+        ],
+        "replies": [
+            {
+                "user": "UN3EHV8RK",
+                "ts": "1570209651.099300"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1570211259.099500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8f08bbfb-cc42-48d0-af21-97c34085d93d",
+        "type": "message",
+        "text": "using UTM links?",
+        "user": "UN3EHV8RK",
+        "ts": "1570209651.099300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ab4371126c14",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-02\/891384144997_ab4371126c14a2928222_72.png",
+            "first_name": "Helene",
+            "real_name": "Helene Fleischer",
+            "display_name": "Helene Fleischer",
+            "team": "TJE58GTJL",
+            "name": "fleischerhg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570207577.099200",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "4b45d2e1-ae59-4ecc-84d0-ca8c0971512e",
+        "type": "message",
+        "text": "Not really, no.\n\nSome 99%+ of your Keyword data in GA will be \"(not provided),\" and connecting Google Search Console still doesn't allow you to do much in GA with the Query data it imports.\n\nSo, if the goal is track the on-site behavior of users who run a brand query, good luck. (If you just want to measure changes to the quantity of users who come to the site via brand queries, that's far easier.)\n\nLooking at GSC, you could estimate the _percentage_ of users landing on a certain page(s) that come via brand queries, but I'm not sure how useful that would be.\n\nFor example, if you know that 83% of users who land on the homepage, about, or contact pages get there via a brand query, you can track that audience, but there's a range of intent in there.\n\nI have heard of people adding UTM parameters to their URL in Google My Business. That would identify a subset of brand-query users on the site.",
+        "user": "UJDPMTREY",
+        "ts": "1570211259.099500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1570211318.000000"
+        },
+        "thread_ts": "1570207577.099200",
+        "parent_user_id": "UJFCMA7V3"
+    },
+    {
+        "client_msg_id": "e5848aff-b387-467a-93f8-21ab31f9eb20",
+        "type": "message",
+        "text": "I have a very stupid question that will reveal how rusty I've become on GA :flushed: How are visits from your own blog tracked in GA? Is that considered referral traffic?",
+        "user": "UJG12DM1V",
+        "ts": "1570220578.100700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "reply_count": 22,
+        "reply_users_count": 3,
+        "latest_reply": "1570223151.105700",
+        "reply_users": [
+            "UJG9WTEKG",
+            "UJG12DM1V",
+            "UJDPMTREY"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570220625.100800"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1570220662.101000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570220692.101200"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1570220765.101400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570220799.101600"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570220827.101800"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570220962.102000"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1570220973.102200"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570221086.102400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570221099.102600"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570221110.102900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570221120.103100"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1570221177.103300"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570221245.103500"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570221282.103700"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570221308.103900"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1570221349.104100"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1570221729.104300"
+            },
+            {
+                "user": "UJG12DM1V",
+                "ts": "1570221807.104500"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1570222713.104700"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1570222732.104900"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1570223151.105700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1570223151.105700"
+    },
+    {
+        "client_msg_id": "bd9bc059-3fc3-44a6-95e7-24f6888c8f36",
+        "type": "message",
+        "text": "are those visits coming from a subdomain? e.g. <http:\/\/blog.company.com|blog.company.com> sending traffic to <http:\/\/company.com|company.com>",
+        "user": "UJG9WTEKG",
+        "ts": "1570220625.100800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "24a12985-3d97-4514-8982-24edeafa161b",
+        "type": "message",
+        "text": "yes. exactly that",
+        "user": "UJG12DM1V",
+        "ts": "1570220662.101000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "11652fed-c613-4453-a56b-c04dbfac33e2",
+        "type": "message",
+        "text": "ok so it depends how your GA is setup. if the root domain and subdomain exist in the same GA view, there won’t be any referral traffic",
+        "user": "UJG9WTEKG",
+        "ts": "1570220692.101200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "e0ca393d-751e-4924-b495-0720042cfba2",
+        "type": "message",
+        "text": "They are not in the same GA view",
+        "user": "UJG12DM1V",
+        "ts": "1570220765.101400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "7d80dd82-ffed-4c1f-9ed2-6bf36bfee5b3",
+        "type": "message",
+        "text": "it may show as referral traffic in the same way a referral would appear from any other site",
+        "user": "UJG9WTEKG",
+        "ts": "1570220799.101600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "20a045ba-1f80-475c-b7e3-2a1f68a7a1e4",
+        "type": "message",
+        "text": "or it may just be direct traffic (this is how ours works on <http:\/\/animalz.com|animalz.com> and <http:\/\/revive.animalz.co|revive.animalz.co>, it’s super frustrating)",
+        "user": "UJG9WTEKG",
+        "ts": "1570220827.101800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "590bcf2b-b314-49dc-a3d8-83bd6af329f5",
+        "type": "message",
+        "text": "i’m sure there is a way to fix this but i haven’t figured it out yet",
+        "user": "UJG9WTEKG",
+        "ts": "1570220962.102000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "5ede18e9-02fe-4e17-a715-2a5b135ab0a9",
+        "type": "message",
+        "text": "wait...so if it's rolling into direct...there's no way to tell how much traffic is coming from the blog??",
+        "user": "UJG12DM1V",
+        "ts": "1570220973.102200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "20b109b9-b5bd-4b22-9cf4-00173a756fa6",
+        "type": "message",
+        "text": "not in a precise way bc it gets lumped in with other direct",
+        "user": "UJG9WTEKG",
+        "ts": "1570221086.102400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "add9d774-a19f-4963-a724-b3692afab4d3",
+        "type": "message",
+        "text": "<https:\/\/support.google.com\/analytics\/answer\/1034342?hl=en>",
+        "user": "UJG9WTEKG",
+        "ts": "1570221099.102600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Set up cross-domain measurement (analytics.js) - Analytics Help",
+                "title_link": "https:\/\/support.google.com\/analytics\/answer\/1034342?hl=en",
+                "text": "Cross-domain measurement makes it possible for Analytics to see sessions on two related sites (such as an ecommerce site and a separate shopping cart site) as a single session. This is sometimes calle",
+                "fallback": "Set up cross-domain measurement (analytics.js) - Analytics Help",
+                "from_url": "https:\/\/support.google.com\/analytics\/answer\/1034342?hl=en",
+                "service_icon": "https:\/\/support.google.com\/favicon.ico",
+                "service_name": "support.google.com",
+                "id": 1,
+                "original_url": "https:\/\/support.google.com\/analytics\/answer\/1034342?hl=en"
+            }
+        ],
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "335ad8a7-0d35-40a3-a4c9-f6aec6cd71e9",
+        "type": "message",
+        "text": "that’s how google recommends setting up cross domain tracking",
+        "user": "UJG9WTEKG",
+        "ts": "1570221110.102900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "98ad0d49-4916-4bab-9594-8dfdc288e6b8",
+        "type": "message",
+        "text": "it’s a little over my head",
+        "user": "UJG9WTEKG",
+        "ts": "1570221120.103100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "f0fa710e-2f6f-47d8-8b0e-33457a0b582d",
+        "type": "message",
+        "text": "hmmm...ty very much! I am shocked it is this hard",
+        "user": "UJG12DM1V",
+        "ts": "1570221177.103300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "9c1d000e-ce1d-446d-ae47-48b0a471bf93",
+        "type": "message",
+        "text": "you might try this:",
+        "user": "UJG9WTEKG",
+        "ts": "1570221245.103500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "04b4fe27-e2c3-4526-89d0-cde3889dd795",
+        "type": "message",
+        "text": "GA admin --&gt; property settings --&gt; tracking info --&gt; referral exclusion list",
+        "user": "UJG9WTEKG",
+        "ts": "1570221282.103700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "0a28c6cf-5d7e-4328-9ae9-eeda5c8203d0",
+        "type": "message",
+        "text": "if you any URLs from your domain on this list, it means that GA is NOT counting them as referrals, just direct",
+        "user": "UJG9WTEKG",
+        "ts": "1570221308.103900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "12c5c5a0-3c87-40e5-9297-1db15555b52d",
+        "type": "message",
+        "text": "ha i just did this on our site and it fixed my problem. thank you for this thread :laughing:",
+        "user": "UJG9WTEKG",
+        "ts": "1570221349.104100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "70be979f-585b-49d7-b1bf-8583978b0394",
+        "type": "message",
+        "text": "ah! very interesting. ty! and Im glad it helped  :smile:",
+        "user": "UJG12DM1V",
+        "ts": "1570221729.104300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "d6021c74-ba05-468f-bfc6-06e1ebb7bf97",
+        "type": "message",
+        "text": "it looks like somebody put our root domain on the exclusion list. So I'm assuming that has the same effect, causing traffic from <http:\/\/blog.website.com|blog.website.com> to also be counted as direct",
+        "user": "UJG12DM1V",
+        "ts": "1570221807.104500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "3faed156-f78b-46cb-85cb-e00732099197",
+        "type": "message",
+        "text": "when set up correctly, a visitor who goes from your blog subdomain to the root domain won't count as direct---it won't initiate a new session at all (the real goal here, i think).\n\nthe source data they bring with them from the subdomain will carry through.",
+        "user": "UJDPMTREY",
+        "ts": "1570222713.104700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    },
+    {
+        "client_msg_id": "dcd2fb1a-dc02-4035-b3ea-4a08414239fd",
+        "type": "message",
+        "text": "gory details from the master: <https:\/\/www.simoahava.com\/analytics\/cross-domain-tracking-across-subdomains\/>",
+        "user": "UJDPMTREY",
+        "ts": "1570222732.104900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Simo Ahava's blog",
+                "title": "Cross-domain Tracking Across Subdomains",
+                "title_link": "https:\/\/www.simoahava.com\/analytics\/cross-domain-tracking-across-subdomains\/",
+                "text": "Quick tip how cross-domain tracking to Google Analytics works across subdomains.",
+                "fallback": "Simo Ahava's blog: Cross-domain Tracking Across Subdomains",
+                "thumb_url": "https:\/\/www.simoahava.com\/images\/simo.png",
+                "from_url": "https:\/\/www.simoahava.com\/analytics\/cross-domain-tracking-across-subdomains\/",
+                "thumb_width": 471,
+                "thumb_height": 454,
+                "service_icon": "https:\/\/www.simoahava.com\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.simoahava.com\/analytics\/cross-domain-tracking-across-subdomains\/"
+            }
+        ],
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJG12DM1V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9BC58617-CFB0-4196-BD33-0ED7C0ADE89B",
+        "type": "message",
+        "text": "Also note that fixing this may decrease total sessions (if they’re in the same view).",
+        "user": "UJDPMTREY",
+        "ts": "1570223151.105700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJDPMTREY",
+            "ts": "1570223236.000000"
+        },
+        "thread_ts": "1570220578.100700",
+        "parent_user_id": "UJG12DM1V"
+    }
+]

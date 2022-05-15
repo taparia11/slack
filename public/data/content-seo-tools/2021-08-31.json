@@ -1,0 +1,594 @@
+[
+    {
+        "client_msg_id": "dcdefb05-c80a-4907-a2ab-3ae235d5be0e",
+        "type": "message",
+        "text": "we had our dev do a custom shortcode",
+        "user": "U01NRLHF3HT",
+        "ts": "1630410073.049700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e5d8f0730364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-22\/1775366437445_e5d8f0730364f08b9818_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Roeder",
+            "display_name": "Laura Roeder",
+            "team": "TJE58GTJL",
+            "name": "laura116",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yVVjO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we had our dev do a custom shortcode"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629746817.128900",
+        "parent_user_id": "U0166H7KUAZ"
+    },
+    {
+        "client_msg_id": "1e78bd48-9b53-47db-8474-06f42e97afba",
+        "type": "message",
+        "text": "Hey folks, I am looking for content editing tools besides Grammarly. It would be great if this editing tool can also catch rehashed or plagiarized content too. Your advice is appreciated! :smiley:",
+        "user": "U02CMCS8KH9",
+        "ts": "1630420173.052100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4b067ff0cbbd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-31\/2437685811699_4b067ff0cbbd104ec008_72.jpg",
+            "first_name": "Riddhima",
+            "real_name": "Riddhima Mathur",
+            "display_name": "mortalbee",
+            "team": "TJE58GTJL",
+            "name": "mathurriddhima1993",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02CMCS8KH9",
+            "ts": "1630420197.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WBPyp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks, I am looking for content editing tools besides Grammarly. It would be great if this editing tool can also catch rehashed or plagiarized content too. Your advice is appreciated! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630420173.052100",
+        "reply_count": 13,
+        "reply_users_count": 9,
+        "latest_reply": "1631038294.119100",
+        "reply_users": [
+            "U01AU94TABA",
+            "U02DARBD76C",
+            "U01CS0V4HFG",
+            "U0166H7KUAZ",
+            "U02D7AMQS4R",
+            "U02CUMCUS9G",
+            "U024K88ECFN",
+            "U02CMCS8KH9",
+            "U01MKHM96BZ"
+        ],
+        "replies": [
+            {
+                "user": "U01AU94TABA",
+                "ts": "1630421470.052800"
+            },
+            {
+                "user": "U02DARBD76C",
+                "ts": "1630423457.053000"
+            },
+            {
+                "user": "U01CS0V4HFG",
+                "ts": "1630425512.053200"
+            },
+            {
+                "user": "U0166H7KUAZ",
+                "ts": "1630426352.053400"
+            },
+            {
+                "user": "U02D7AMQS4R",
+                "ts": "1630454521.057800"
+            },
+            {
+                "user": "U02CUMCUS9G",
+                "ts": "1630501596.059400"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1630509845.061400"
+            },
+            {
+                "user": "U02CMCS8KH9",
+                "ts": "1630559780.083600"
+            },
+            {
+                "user": "U02CMCS8KH9",
+                "ts": "1630559948.083800"
+            },
+            {
+                "user": "U02CMCS8KH9",
+                "ts": "1630560085.084000"
+            },
+            {
+                "user": "U0166H7KUAZ",
+                "ts": "1630591330.086200"
+            },
+            {
+                "user": "U02CMCS8KH9",
+                "ts": "1630644505.095200"
+            },
+            {
+                "user": "U01MKHM96BZ",
+                "ts": "1631038294.119100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U0195U3C7QC",
+                    "UJG9WTEKG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1630420175.052200"
+    },
+    {
+        "client_msg_id": "f3813fb0-396d-4ccf-b754-f18321453605",
+        "type": "message",
+        "text": "For editing, I like HemingwayApp",
+        "user": "U01AU94TABA",
+        "ts": "1630421470.052800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6236aae5a4ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1368396724496_6236aae5a4ffcfa4bf4d_72.jpg",
+            "first_name": "Danielle",
+            "real_name": "Danielle Love",
+            "display_name": "Danielle Love",
+            "team": "TJE58GTJL",
+            "name": "danielle.love",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AM5kG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For editing, I like HemingwayApp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630420173.052100",
+        "parent_user_id": "U02CMCS8KH9",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01AHL8AGBB",
+                    "U02CMCS8KH9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6caec2b3-53d5-488d-b755-bc15e0b498db",
+        "type": "message",
+        "text": "We just tried one our for SEO\/grammar - let me dig and look for the name!",
+        "user": "U02DARBD76C",
+        "ts": "1630423457.053000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g10529b00b64",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/10529b00b64ff2d8cf80f3d485570eb4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Kayla",
+            "real_name": "Kayla Graham",
+            "display_name": "Kayla Graham",
+            "team": "TJE58GTJL",
+            "name": "kayla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BIP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We just tried one our for SEO\/grammar - let me dig and look for the name!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630420173.052100",
+        "parent_user_id": "U02CMCS8KH9"
+    },
+    {
+        "client_msg_id": "e1fc8266-4eb7-41af-a160-562153017561",
+        "type": "message",
+        "text": "I also use Language Tool along Grammarly and Wordtune is amazing for rephrasing\/synonyms",
+        "user": "U01CS0V4HFG",
+        "ts": "1630425512.053200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fbcb1c1ad2f9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-21\/1427783508199_fbcb1c1ad2f9f03ea6b6_72.png",
+            "first_name": "Maria",
+            "real_name": "Maria",
+            "display_name": "Maria",
+            "team": "TJE58GTJL",
+            "name": "maria.stenina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also use Language Tool along Grammarly and Wordtune is amazing for rephrasing\/synonyms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630420173.052100",
+        "parent_user_id": "U02CMCS8KH9",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02AG6CGR3L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02CMCS8KH9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42f16191-5e34-486d-ad55-051c9d2036b2",
+        "type": "message",
+        "text": "I use Hemingway, Grammarly, ProWritingAid, and a text-to-speech reader. There are a few tools though that can check for plagiarism like <https:\/\/smallseotools.com\/plagiarism-checker\/>",
+        "user": "U0166H7KUAZ",
+        "ts": "1630426352.053400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f58be1456496",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-29\/1197308509671_f58be1456496f374b7ea_72.jpg",
+            "first_name": "",
+            "real_name": "Phillip Paquette",
+            "display_name": "Phillip Paquette",
+            "team": "TJE58GTJL",
+            "name": "phillippaquette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Plagiarism Checker - 100% Free Online Plagiarism Detector",
+                "title_link": "https:\/\/smallseotools.com\/plagiarism-checker\/",
+                "text": "Plagiarism checker by SmallSeoTools, 100% free online tool that checks for plagiarism with quick and accurate results. Best plagiarism detector for you.",
+                "fallback": "Plagiarism Checker - 100% Free Online Plagiarism Detector",
+                "thumb_url": "https:\/\/smallseotools.com\/asets\/ogimages\/plagiarism-checker.png",
+                "from_url": "https:\/\/smallseotools.com\/plagiarism-checker\/",
+                "thumb_width": 700,
+                "thumb_height": 350,
+                "service_icon": "https:\/\/smallseotools.com\/apple-touch-icon.png",
+                "service_name": "smallseotools.com",
+                "id": 1,
+                "original_url": "https:\/\/smallseotools.com\/plagiarism-checker\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+VQuj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I use Hemingway, Grammarly, ProWritingAid, and a text-to-speech reader. There are a few tools though that can check for plagiarism like "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/smallseotools.com\/plagiarism-checker\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630420173.052100",
+        "parent_user_id": "U02CMCS8KH9",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0195U3C7QC",
+                    "U02CMCS8KH9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02CMCS8KH9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9da31de-4d6c-4293-a920-dd2c8047ab65",
+        "type": "message",
+        "text": "Thank you! This is so helpful! :pray:",
+        "user": "U0207Q0URQC",
+        "ts": "1630429864.054000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ecf582e4b30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-26\/1998656880197_8ecf582e4b3033ab3de3_72.jpg",
+            "first_name": "Molly",
+            "real_name": "Molly Vorwerck",
+            "display_name": "Molly Vorwerck",
+            "team": "TJE58GTJL",
+            "name": "mvorwerck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9f59",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you! This is so helpful! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630101041.011800",
+        "parent_user_id": "U0207Q0URQC"
+    },
+    {
+        "client_msg_id": "2fadea4b-7e2d-47cd-b5f8-c09dac5292a5",
+        "type": "message",
+        "text": "Are you looking for something that’s not Grammarly specifically? Because I believe Grammarly does have a plagiarism checker. :slightly_smiling_face:",
+        "user": "U02D7AMQS4R",
+        "ts": "1630454521.057800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g04f330a66b9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/04f330a66b966392b2a99ce6a22ca29f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda Natividad",
+            "display_name": "Amanda Natividad",
+            "team": "TJE58GTJL",
+            "name": "amanda.natividad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gti",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you looking for something that’s not Grammarly specifically? Because I believe Grammarly does have a plagiarism checker. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630420173.052100",
+        "parent_user_id": "U02CMCS8KH9"
+    },
+    {
+        "client_msg_id": "a1e6ec79-7a40-44af-8cdd-6b32d094c847",
+        "type": "message",
+        "text": "Looks like MarketMuse changed some of their pricing &amp; now offer a free tier. Try it out if you haven't already (not an affiliate\/not paid by them)",
+        "user": "UJG24P8P6",
+        "ts": "1630456947.058500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TDh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like MarketMuse changed some of their pricing & now offer a free tier. Try it out if you haven't already (not an affiliate\/not paid by them)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630456947.058500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1631629131.157500",
+        "reply_users": [
+            "U02643EMUBD",
+            "UJG24P8P6"
+        ],
+        "replies": [
+            {
+                "user": "U02643EMUBD",
+                "ts": "1631288898.145200"
+            },
+            {
+                "user": "UJG24P8P6",
+                "ts": "1631629131.157500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01NUND5BC5",
+                    "U02681WABA7",
+                    "U014PRHQUQ2",
+                    "U016LHA1BHP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02681WABA7",
+                    "U014PRHQUQ2",
+                    "U015B88C4CA"
+                ],
+                "count": 3
+            },
+            {
+                "name": "partying_face",
+                "users": [
+                    "U014PRHQUQ2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "partygritty",
+                "users": [
+                    "U01AHL8AGBB"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02CMCS8KH9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U02643EMUBD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

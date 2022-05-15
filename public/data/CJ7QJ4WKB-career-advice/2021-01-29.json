@@ -1,0 +1,329 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Planning to ask for a new title at my job and wondering if you guys can help me figure out what I should ask for. I work in marketing & communications on a content team and my current title is Manager of Creative Production. Trying to figure out what the next step would be. Which do you think is better?",
+        "ts": "1611952282.056600",
+        "bot_id": "BULKVG15E",
+        "thread_ts": "1611952282.056600",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1612210962.063000",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U01HP40NNUF",
+            "U01KYJVARBP"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1611953702.057400"
+            },
+            {
+                "user": "U01HP40NNUF",
+                "ts": "1611953914.058000"
+            },
+            {
+                "user": "U01KYJVARBP",
+                "ts": "1612210258.062700"
+            },
+            {
+                "user": "U01HP40NNUF",
+                "ts": "1612210962.063000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1612210962.063000",
+        "blocks": [
+            {
+                "type": "context",
+                "block_id": "BXq",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":bust_in_silhouette: This poll is anonymous. The identity of all responses will be hidden.",
+                        "verbatim": false
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e7aba433-c6cd-4507-9d61-886c0c81676c-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Planning to ask for a new title at my job and wondering if you guys can help me figure out what I should ask for. I work in marketing &amp; communications on a content team and my current title is Manager of Creative Production. Trying to figure out what the next step would be. Which do you think is better?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":house: Go to App Home",
+                                "emoji": true
+                            },
+                            "value": "go_to_app_home",
+                            "url": "slack:\/\/app?team=TJE58GTJL&id=A0HFW7MR6&tab=home"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":bar_chart: Create new Poll",
+                                "emoji": true
+                            },
+                            "value": "create_new_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e7aba433-c6cd-4507-9d61-886c0c81676c-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Senior Manager of Creative Production    `2`\n:heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e7aba433-c6cd-4507-9d61-886c0c81676c-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Associate Director of Creative Production    `23`\n:heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark::heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e7aba433-c6cd-4507-9d61-886c0c81676c-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: Something else!    `1`\n:heavy_check_mark:",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "tFqTc",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U01HP40NNUF> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "BULKVG15E",
+            "ts": "1614659812.000000"
+        }
+    },
+    {
+        "client_msg_id": "aa079834-aa0f-48d5-ad74-6037a68c2e20",
+        "type": "message",
+        "text": "i like tis <@U01HP40NNUF> cool idea",
+        "user": "UJG9WTEKG",
+        "ts": "1611953702.057400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1611953705.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i like tis "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01HP40NNUF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cool idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611952282.056600",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01E92Z2MGE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc1b021b-ef06-48f9-a3ba-ce20602ca828",
+        "type": "message",
+        "text": "<@U01CGUT2HH6>",
+        "user": "UJG9WTEKG",
+        "ts": "1611953722.057700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01CGUT2HH6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611648433.041200",
+        "parent_user_id": "U01704F04QH"
+    },
+    {
+        "client_msg_id": "4b85dfb3-6f09-489f-ad3c-d5c47b129215",
+        "type": "message",
+        "text": "<@UJG9WTEKG> I thought a poll could be a fun way to get advice!",
+        "user": "U01HP40NNUF",
+        "ts": "1611953914.058000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a4cfa92931c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-06\/1623566415316_a4cfa92931c44e846c3c_72.jpg",
+            "first_name": "Allison",
+            "real_name": "Allison Felt",
+            "display_name": "Allison Felt",
+            "team": "TJE58GTJL",
+            "name": "allisonfelt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RPv6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I thought a poll could be a fun way to get advice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611952282.056600",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U018ZNMCC3C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

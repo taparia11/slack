@@ -1,0 +1,296 @@
+[
+    {
+        "client_msg_id": "cef71861-a8a7-4ba0-8ace-14ec119214e0",
+        "type": "message",
+        "text": "<https:\/\/www.searchenginejournal.com\/google-title-links\/422926\/>",
+        "user": "U02DAUAKQNR",
+        "ts": "1634222434.309300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "817819a9cd60",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-07\/2488853574560_817819a9cd60aecc8808_72.jpg",
+            "first_name": "Matthew",
+            "real_name": "Matthew Douglas",
+            "display_name": "Matthew Douglas",
+            "team": "TJE58GTJL",
+            "name": "matthew.douglas7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Search Engine Journal: Google's New Best Practices For Writing Page Titles",
+                "image_url": "https:\/\/cdn.searchenginejournal.com\/wp-content\/uploads\/2021\/10\/google-title-links-6166358d11cd1-sej.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 1609000,
+                "from_url": "https:\/\/www.searchenginejournal.com\/google-title-links\/422926\/",
+                "service_name": "Search Engine Journal",
+                "service_icon": "https:\/\/cdn.searchenginejournal.com\/wp-content\/uploads\/2020\/01\/sej-5e26ffd8aa1d8.png",
+                "title": "Google's New Best Practices For Writing Page Titles",
+                "title_link": "https:\/\/www.searchenginejournal.com\/google-title-links\/422926\/",
+                "text": "New documents from Google offer updated best practices for writing page titles and descriptions.",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Matt Southern",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "3 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1634088429,
+                "id": 1,
+                "original_url": "https:\/\/www.searchenginejournal.com\/google-title-links\/422926\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zchv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.searchenginejournal.com\/google-title-links\/422926\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02J7DM81AQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecea7fbe-9838-451e-a992-a230d583ed0e",
+        "type": "message",
+        "text": "thanks for the tag <@U01NW9AE6CV>, really appreciate it. Hey <@U01M2NNL7GS>, we are a linkbuilding agency specializing in the SaaS and B2B space - <http:\/\/samuraimarketers.com|samuraimarketers.com>, you can reach out to me directly if you wanna discuss more!",
+        "user": "U02FBK7UYQL",
+        "ts": "1634244782.314100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b67abf133a10",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2500811582775_b67abf133a10a3683ea9_72.jpg",
+            "first_name": "shaurya",
+            "real_name": "shaurya jain",
+            "display_name": "Shaurya jain",
+            "team": "TJE58GTJL",
+            "name": "shaurya123jain",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUZ5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks for the tag "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01NW9AE6CV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", really appreciate it. Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01M2NNL7GS"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", we are a linkbuilding agency specializing in the SaaS and B2B space - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/samuraimarketers.com",
+                                "text": "samuraimarketers.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you can reach out to me directly if you wanna discuss more!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634149598.303000",
+        "parent_user_id": "U01M2NNL7GS",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01M2NNL7GS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "247dc78a-78e7-40c0-b317-e4220a45c250",
+        "type": "message",
+        "text": "hi all, what are is everyone using to monitor the traffic to new blog posts \/ pages on a regular basis?\n\nright now i am using google analytics &gt;&gt; behavior &gt;&gt; site content and punching in the slug, but wondering if there is a better way to monitor the traffic to recently created individual pages since it is pretty manual :sweat_smile:",
+        "user": "U02GKTN1NDC",
+        "ts": "1634274825.315900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "cca41336255d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-12\/2586380459574_cca41336255d5ddee32e_72.jpg",
+            "first_name": "Axel",
+            "real_name": "Axel Sukianto",
+            "display_name": "Axel Sukianto",
+            "team": "TJE58GTJL",
+            "name": "axel.sukianto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gM74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi all, what are is everyone using to monitor the traffic to new blog posts \/ pages on a regular basis?\n\nright now i am using google analytics >> behavior >> site content and punching in the slug, but wondering if there is a better way to monitor the traffic to recently created individual pages since it is pretty manual "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634274825.315900",
+        "reply_count": 8,
+        "reply_users_count": 8,
+        "latest_reply": "1634665129.344700",
+        "reply_users": [
+            "U02C37J4X5K",
+            "U01NW9AE6CV",
+            "U01KGTNFLVA",
+            "U016NBFS16Y",
+            "U01P13NTGG6",
+            "U02G414SPC7",
+            "U02GKTN1NDC",
+            "U02J27W7K1B"
+        ],
+        "replies": [
+            {
+                "user": "U02C37J4X5K",
+                "ts": "1634276465.316100"
+            },
+            {
+                "user": "U01NW9AE6CV",
+                "ts": "1634294380.316600"
+            },
+            {
+                "user": "U01KGTNFLVA",
+                "ts": "1634311873.317100"
+            },
+            {
+                "user": "U016NBFS16Y",
+                "ts": "1634313534.323100"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1634343602.324400"
+            },
+            {
+                "user": "U02G414SPC7",
+                "ts": "1634487067.325200"
+            },
+            {
+                "user": "U02GKTN1NDC",
+                "ts": "1634509770.325800"
+            },
+            {
+                "user": "U02J27W7K1B",
+                "ts": "1634665129.344700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02C37J4X5K",
+                    "U02AG6CGR3L",
+                    "U02643EMUBD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73307565-d28b-4349-801b-29701ba071ae",
+        "type": "message",
+        "text": "Hey Axel, I have faced the same routine before, and you are right it's pretty manual. One simple way is to set up a report in Data Studio to filter out traffic and page analytics to individual slugs if you want to monitor performance of distinct posts. So you don't have to manually check every time. And maybe a time filter to look at posts after a certain date (but that could also see traffic to older posts if they perform better). Perhaps others have better ideas.",
+        "user": "U02C37J4X5K",
+        "ts": "1634276465.316100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2a0e0926cbe6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-20\/2521416259889_2a0e0926cbe6892f403b_72.jpg",
+            "first_name": "Suraj",
+            "real_name": "Suraj Karakulath",
+            "display_name": "Suraj Karakulath",
+            "team": "TJE58GTJL",
+            "name": "karakulath.suraj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mKVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Axel, I have faced the same routine before, and you are right it's pretty manual. One simple way is to set up a report in Data Studio to filter out traffic and page analytics to individual slugs if you want to monitor performance of distinct posts. So you don't have to manually check every time. And maybe a time filter to look at posts after a certain date (but that could also see traffic to older posts if they perform better). Perhaps others have better ideas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634274825.315900",
+        "parent_user_id": "U02GKTN1NDC"
+    }
+]

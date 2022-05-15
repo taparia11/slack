@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "ec89d932-4628-489b-ba63-4d7e8eae0cd8",
+        "type": "message",
+        "text": "Michelle! Long time no see! :raised_hands:",
+        "user": "UJE6FLEFJ",
+        "ts": "1585333991.011800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc6ef52e2245",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c6ef52e2245358c2ae0b9a02308b7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Brittany Berger",
+            "display_name": "Brittany Berger",
+            "team": "TJE58GTJL",
+            "name": "brittany",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Michelle! Long time no see! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081037.015800",
+        "parent_user_id": "U0109NWK58A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0109NWK58A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c950a1ba-f19e-46de-98a6-5b917dae207b",
+        "type": "message",
+        "text": "<@UJE6FLEFJ> Brittany! How the heck have you been? Still in NY?",
+        "user": "U0109NWK58A",
+        "ts": "1585335297.012000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d222a5a91274",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-24\/1025305376582_d222a5a912743346de3d_72.png",
+            "first_name": "Michelle",
+            "real_name": "Michelle Brammer",
+            "display_name": "Michelle Brammer",
+            "team": "TJE58GTJL",
+            "name": "mbrammer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1m=\/2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJE6FLEFJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Brittany! How the heck have you been? Still in NY?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585081037.015800",
+        "parent_user_id": "U0109NWK58A"
+    }
+]

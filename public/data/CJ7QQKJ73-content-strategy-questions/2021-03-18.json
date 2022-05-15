@@ -1,0 +1,1355 @@
+[
+    {
+        "client_msg_id": "adfdca28-5afc-4839-9608-5b5f5a96cfce",
+        "type": "message",
+        "text": "Heyyy Everyone, I'm writing on the benefits of web analytics for ecommerce and b2b brands. I'm looking to interview B2B or eCommerce brands\/businesses that use analytics on their website and how it had improved their marketing efforts, it's limitations and the advice they would give companies who want to use web analytics also. Thank you!",
+        "user": "U01JY1S0DUY",
+        "ts": "1616068676.031100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3927387842a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-05\/2239501150661_3927387842a3ac51be08_72.jpg",
+            "first_name": "Vera",
+            "real_name": "Vera Agiang",
+            "display_name": "Vera",
+            "team": "TJE58GTJL",
+            "name": "veraagiang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heyyy Everyone, I'm writing on the benefits of web analytics for ecommerce and b2b brands. I'm looking to interview B2B or eCommerce brands\/businesses that use analytics on their website and how it had improved their marketing efforts, it's limitations and the advice they would give companies who want to use web analytics also. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616068676.031100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1616094222.052800",
+        "reply_users": [
+            "UJJFDTN8G",
+            "U01JY1S0DUY"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1616069027.031200"
+            },
+            {
+                "user": "U01JY1S0DUY",
+                "ts": "1616094222.052800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ab91208c-0d51-482c-a407-e31a56e8944e",
+        "type": "message",
+        "text": "Happy to chat - I heavily rely on analytics for <http:\/\/dispatch.m.io|dispatch.m.io>",
+        "user": "UJJFDTN8G",
+        "ts": "1616069027.031200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+5GL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to chat - I heavily rely on analytics for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dispatch.m.io",
+                                "text": "dispatch.m.io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616068676.031100",
+        "parent_user_id": "U01JY1S0DUY"
+    },
+    {
+        "client_msg_id": "c6d48fd2-8e63-490a-ba04-83cb60570f9d",
+        "type": "message",
+        "text": "Thanks <@U01PJJ5G4CC> appreciate it!",
+        "user": "U01CJ20UN7N",
+        "ts": "1616069076.031400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5171745706ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-10\/1413606794678_5171745706ff4c913d81_72.jpg",
+            "first_name": "Marissa",
+            "real_name": "Marissa Sapega",
+            "display_name": "Marissa Sapega",
+            "team": "TJE58GTJL",
+            "name": "marissa.sapega",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Tq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PJJ5G4CC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " appreciate it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616018028.027500",
+        "parent_user_id": "U01CJ20UN7N"
+    },
+    {
+        "type": "message",
+        "text": "I’m having trouble getting a pile of urls re-crawled from Google Search Console. We pushed a bad site update that marked our blog as “no-index” :skull: Most of the traffic has recovered but I still have ~50 urls that Google hasn’t crawled since submitting a manual request for re-indexing per page and also trying a full verification of the fix (been waiting since March 1st!).\n\nAnyone have any tips?",
+        "files": [
+            {
+                "id": "F01R9G628P9",
+                "created": 1616078837,
+                "timestamp": 1616078837,
+                "name": "Screen Shot 2021-03-18 at 09.41.58.png",
+                "title": "Screen Shot 2021-03-18 at 09.41.58.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UJLQEEVHV",
+                "editable": false,
+                "size": 132349,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01R9G628P9\/screen_shot_2021-03-18_at_09.41.58.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01R9G628P9\/download\/screen_shot_2021-03-18_at_09.41.58.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 228,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 304,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 455,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 506,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 607,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01R9G628P9-46f82075ba\/screen_shot_2021-03-18_at_09.41.58_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 647,
+                "original_w": 1882,
+                "original_h": 1190,
+                "thumb_tiny": "AwAeADDRxk9TS4\/2jSbQTS7RQAtFJijFAC0UmKjWCNWDAHI96AJaKjkiWQgsSMehpY0Ea7Rn8aBlf7YQeUH504Xi90P50v2WP\/a\/Oj7LH\/tfnU6l+4L9rj9G\/KnxzJKSFzkeoqP7LH\/tfnT44UiJK559aepL5eh\/\/9k=",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/UJLQEEVHV\/F01R9G628P9\/screen_shot_2021-03-18_at_09.41.58.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F01R9G628P9-019c4cae85",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UJLQEEVHV",
+        "display_as_bot": false,
+        "ts": "1616078889.032300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+fI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m having trouble getting a pile of urls re-crawled from Google Search Console. We pushed a bad site update that marked our blog as “no-index” "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "skull"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Most of the traffic has recovered but I still have ~50 urls that Google hasn’t crawled since submitting a manual request for re-indexing per page and also trying a full verification of the fix (been waiting since March 1st!).\n\nAnyone have any tips?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1616141130.055000",
+        "reply_users": [
+            "U014PRHQUQ2",
+            "UJLQEEVHV",
+            "UUVRBN6UQ"
+        ],
+        "replies": [
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1616078981.032400"
+            },
+            {
+                "user": "UJLQEEVHV",
+                "ts": "1616079325.032700"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1616079363.032900"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1616079389.033100"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1616079425.033300"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1616079459.033600"
+            },
+            {
+                "user": "UUVRBN6UQ",
+                "ts": "1616082893.051900"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1616084051.052100"
+            },
+            {
+                "user": "UJLQEEVHV",
+                "ts": "1616111867.054300"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1616141130.055000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2d8787e5-93ff-454b-b018-22fe36848c71",
+        "type": "message",
+        "text": "writing the brief version:\n1. make sure these pages have enough internal links\n2. create an XML sitemap specifically for these URLs, and submit it to GSC. Good signal for G to recrawl and reindex, and you can easily track its progress.",
+        "user": "U014PRHQUQ2",
+        "ts": "1616078981.032400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mRV2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "writing the brief version:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "make sure these pages have enough internal links"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "create an XML sitemap specifically for these URLs, and submit it to GSC. Good signal for G to recrawl and reindex, and you can easily track its progress."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJLQEEVHV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20238dfa-b743-45fc-891b-66ebce2244ed",
+        "type": "message",
+        "text": "Thanks <@U014PRHQUQ2>!",
+        "user": "UJLQEEVHV",
+        "ts": "1616079325.032700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga35ac81fd09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d4a35ac81fd0980bcadf93ff471998c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Probert",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jmichaelprobert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p=si",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV"
+    },
+    {
+        "client_msg_id": "f5c0fe81-c7c8-49e1-be4d-5ddea9ca24a5",
+        "type": "message",
+        "text": "Happy to <@UJLQEEVHV>",
+        "user": "U014PRHQUQ2",
+        "ts": "1616079363.032900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJLQEEVHV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV"
+    },
+    {
+        "client_msg_id": "55bd5ad7-4c80-4082-88cd-4ff10cf71761",
+        "type": "message",
+        "text": "getting pages reindexed after they were noindexed is usually a painful process that can take weeks.",
+        "user": "U014PRHQUQ2",
+        "ts": "1616079389.033100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4e615",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "getting pages reindexed after they were noindexed is usually a painful process that can take weeks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV"
+    },
+    {
+        "client_msg_id": "91a847dd-008a-4bc5-8b50-a64e871a32e2",
+        "type": "message",
+        "text": "shameless plug, I co-founded a SEO monitoring platform that catches these bad site updates as they happen — <https:\/\/www.contentkingapp.com\/>.",
+        "user": "U014PRHQUQ2",
+        "ts": "1616079425.033300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ContentKing",
+                "title": "Real-time SEO Auditing and Content Change Tracking - ContentKing",
+                "title_link": "https:\/\/www.contentkingapp.com\/",
+                "text": "ContentKing keeps track of your website 24\/7 so that you can catch unexpected changes and issues before search engines and visitors do. Try it today!",
+                "fallback": "ContentKing: Real-time SEO Auditing and Content Change Tracking - ContentKing",
+                "image_url": "https:\/\/www.contentkingapp.com\/media\/social-cards\/og-en-contentking-default@2x.png",
+                "from_url": "https:\/\/www.contentkingapp.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 133131,
+                "service_icon": "https:\/\/www.contentkingapp.com\/assets\/images\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.contentkingapp.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/S9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "shameless plug, I co-founded a SEO monitoring platform that catches these bad site updates as they happen — "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.contentkingapp.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UJLQEEVHV",
+                    "UUVRBN6UQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43b4ed14-5b10-4870-8863-330179615d2f",
+        "type": "message",
+        "text": "you’re not alone, because we built a business out of it :sweat_smile:",
+        "user": "U014PRHQUQ2",
+        "ts": "1616079459.033600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ivNhE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you’re not alone, because we built a business out of it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "UJLQEEVHV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A571253A-36A1-4FCF-870D-8568332C5691",
+        "type": "message",
+        "text": ":hugging_face::heartbeat::writing_hand:Hello lovely Super Path community! I’ve been noodling over this question for a month now and I’m hoping to get your insight. I’m looking to bring on content support on my team and I’m not sure exactly what to call the role- content manager, copywriter, content specialist? The person will create many different forms of content based on briefs and requests (email copy for nurture and sales cadences, landing page copy, social copy, product—focused enablement material, ad copy, etc.), copy edit\/be the last set of eyes before publication for marketing projects, and also handle some operational marketing tasks like formatting, scheduling, etc. What title do you think best encompasses these tasks? For reference, this is B2B.",
+        "user": "U01D0QXR3E2",
+        "ts": "1616081808.039700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6ad45be77d11",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-09\/1575892751425_6ad45be77d1101c70d93_72.png",
+            "first_name": "Miranda",
+            "real_name": "Miranda Raimon",
+            "display_name": "Miranda Raimon",
+            "team": "TJE58GTJL",
+            "name": "mirandalynnraimon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sgjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heartbeat"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hello lovely Super Path community! I’ve been noodling over this question for a month now and I’m hoping to get your insight. I’m looking to bring on content support on my team and I’m not sure exactly what to call the role- content manager, copywriter, content specialist? The person will create many different forms of content based on briefs and requests (email copy for nurture and sales cadences, landing page copy, social copy, product—focused enablement material, ad copy, etc.), copy edit\/be the last set of eyes before publication for marketing projects, and also handle some operational marketing tasks like formatting, scheduling, etc. What title do you think best encompasses these tasks? For reference, this is B2B."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616081808.039700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1616173262.059300",
+        "reply_users": [
+            "U01J85VRKF1",
+            "UUY2AL9PG"
+        ],
+        "replies": [
+            {
+                "user": "U01J85VRKF1",
+                "ts": "1616082636.048400"
+            },
+            {
+                "user": "UUY2AL9PG",
+                "ts": "1616173262.059300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "901e948d-5813-4d65-8ad9-c88b0f798a96",
+        "type": "message",
+        "text": "Anybody have experience in PR or know good resources for adding PR to client projects? Working on a proposal for a prospect who's interested in getting into online magazines like Wired, etc.",
+        "user": "U01HEQWRG0G",
+        "ts": "1616081955.040600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g102596d1121",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/102596d1121842e322ecc80a0d319be9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Theresa H",
+            "display_name": "Theresa H",
+            "team": "TJE58GTJL",
+            "name": "sam226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anybody have experience in PR or know good resources for adding PR to client projects? Working on a proposal for a prospect who's interested in getting into online magazines like Wired, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616081955.040600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1616186281.072100",
+        "reply_users": [
+            "UQP2SP2BX",
+            "U01HEQWRG0G",
+            "U01JP5NAGKT"
+        ],
+        "replies": [
+            {
+                "user": "UQP2SP2BX",
+                "ts": "1616090855.052500"
+            },
+            {
+                "user": "U01HEQWRG0G",
+                "ts": "1616166331.058000"
+            },
+            {
+                "user": "U01JP5NAGKT",
+                "ts": "1616186281.072100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C9C6FFF1-0949-4B27-B705-89E771637A77",
+        "type": "message",
+        "text": "I did a variety of this last year and I was brought on as a marketing coordinator and content writer. I will say doing that amount of different kinds of content and tasks will inevitably burn out your employee. I was able to shed some of my random duties over time, and I am much happier at work with my new title of content and social media manager. I understand that B2B companies have to often be scrappy, but you are essentially trying to hire for 3-5 roles in one person and that can’t be great for the long-term sanity of whoever you hire. So if you go through with this role, I’d keep an eye on whoever you hire to make sure that they learn great prioritization skills, and that they understand that sometimes some of their job duties will be on the back burner. They are only working 40 hours per week, after all.",
+        "user": "U01J85VRKF1",
+        "ts": "1616082636.048400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6014791c8384",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-11\/2168802380004_6014791c8384d642d727_72.png",
+            "first_name": "Amanda",
+            "real_name": "Amanda Cross",
+            "display_name": "Amanda Cross",
+            "team": "TJE58GTJL",
+            "name": "amanda867",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3CCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did a variety of this last year and I was brought on as a marketing coordinator and content writer. I will say doing that amount of different kinds of content and tasks will inevitably burn out your employee. I was able to shed some of my random duties over time, and I am much happier at work with my new title of content and social media manager. I understand that B2B companies have to often be scrappy, but you are essentially trying to hire for 3-5 roles in one person and that can’t be great for the long-term sanity of whoever you hire. So if you go through with this role, I’d keep an eye on whoever you hire to make sure that they learn great prioritization skills, and that they understand that sometimes some of their job duties will be on the back burner. They are only working 40 hours per week, after all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616081808.039700",
+        "parent_user_id": "U01D0QXR3E2",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01D0QXR3E2",
+                    "U01SEEZG14G",
+                    "U01FC7GNDP1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ab70014-1a2b-40be-9da9-11def8af6073",
+        "type": "message",
+        "text": "<@U014PRHQUQ2> Great tool, just signed up for a trial a moment ago.",
+        "user": "UUVRBN6UQ",
+        "ts": "1616082893.051900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ba3146f9d55a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-15\/1854619529206_ba3146f9d55a09ddfe7c_72.jpg",
+            "first_name": "Bogar",
+            "real_name": "Bogar Alonso",
+            "display_name": "Bogar",
+            "team": "TJE58GTJL",
+            "name": "bogar.alonso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Great tool, just signed up for a trial a moment ago."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV"
+    },
+    {
+        "client_msg_id": "d6562709-c80a-4813-90a0-cf4d41da43a9",
+        "type": "message",
+        "text": "Cool, let me know what you think <@UUVRBN6UQ> :slightly_smiling_face:",
+        "user": "U014PRHQUQ2",
+        "ts": "1616084051.052100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4XCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool, let me know what you think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUVRBN6UQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV"
+    },
+    {
+        "client_msg_id": "983dcb06-6f08-4575-901e-33037172c6a2",
+        "type": "message",
+        "text": "Would they be interested in working with an agency? I've been consulting with 150 Bond and they're great :slightly_smiling_face:",
+        "user": "UQP2SP2BX",
+        "ts": "1616090855.052500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "65369d6479dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1343925719188_65369d6479dd4ecd99f1_72.jpg",
+            "first_name": "",
+            "real_name": "Fiona Lee",
+            "display_name": "Fiona Lee",
+            "team": "TJE58GTJL",
+            "name": "fiona.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fgDk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would they be interested in working with an agency? I've been consulting with 150 Bond and they're great "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616081955.040600",
+        "parent_user_id": "U01HEQWRG0G"
+    },
+    {
+        "client_msg_id": "ad5b6294-0084-4a05-8e27-1b6f5b25f730",
+        "type": "message",
+        "text": "Hi Dom! Thank you for responding. I'd love that. I'll send you a dm now!",
+        "user": "U01JY1S0DUY",
+        "ts": "1616094222.052800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3927387842a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-05\/2239501150661_3927387842a3ac51be08_72.jpg",
+            "first_name": "Vera",
+            "real_name": "Vera Agiang",
+            "display_name": "Vera",
+            "team": "TJE58GTJL",
+            "name": "veraagiang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K21",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Dom! Thank you for responding. I'd love that. I'll send you a dm now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616068676.031100",
+        "parent_user_id": "U01JY1S0DUY"
+    },
+    {
+        "client_msg_id": "0240bacb-12e9-4af8-bba5-9d190c2db600",
+        "type": "message",
+        "text": "I personally like “ideas” or “tricks” depending on the demo",
+        "user": "U01RHT8800N",
+        "ts": "1616095400.053000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "351f898be38f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1874720693426_351f898be38f3e5a6753_72.png",
+            "first_name": "mekkie",
+            "real_name": "mekkie",
+            "display_name": "mekkie",
+            "team": "TJE58GTJL",
+            "name": "mehakbansil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0kebd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I personally like “ideas” or “tricks” depending on the demo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615914423.010500",
+        "parent_user_id": "UUH2EB134"
+    },
+    {
+        "client_msg_id": "c5b9fbca-808f-4289-b03b-2b3d83de9ff5",
+        "type": "message",
+        "text": "Hey y'all. I have a very specific question followed by a more general one :sweat_smile: Does anyone know who I could reach out to on the Animalz team regarding an editing position?\n\nHere's the rub. It's part-time, contract. Is it overkill to want to reach out for these types of roles? Does it matter if the outreach is just to put yourself out there\/connect versus making concrete inquiries into the position? My thought has been that, if you can manage it, it's better if your application isn't faceless. But I've never been on the other side of this equation. Maybe it's really annoying to deal with for low impact hires!",
+        "user": "U01GA58DC79",
+        "ts": "1616095603.053200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "549c7418d213",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-14\/1573737320434_549c7418d2133a509aa1_72.jpg",
+            "first_name": "Alissa",
+            "real_name": "Alissa Anne Pagano",
+            "display_name": "Alissa P",
+            "team": "TJE58GTJL",
+            "name": "apagano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QZIw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey y'all. I have a very specific question followed by a more general one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Does anyone know who I could reach out to on the Animalz team regarding an editing position?\n\nHere's the rub. It's part-time, contract. Is it overkill to want to reach out for these types of roles? Does it matter if the outreach is just to put yourself out there\/connect versus making concrete inquiries into the position? My thought has been that, if you can manage it, it's better if your application isn't faceless. But I've never been on the other side of this equation. Maybe it's really annoying to deal with for low impact hires!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616095603.053200",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1616096799.053800",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1616096737.053600"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1616096799.053800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1616096799.053800"
+    },
+    {
+        "client_msg_id": "53e7f781-6b77-4459-8619-4065243aebfc",
+        "type": "message",
+        "text": "It depends on what things they’ll be designing as a marketing designer. Is it all marketing-related design from brand to blogs to landing pages?—probably best to have them report to someone that is handling all those things\n\nIf it’s more specific to design that’s meant to support content, it might help to have them report to someone in content so they’re not thinking about any of the other stuff",
+        "user": "U01RHT8800N",
+        "ts": "1616095605.053300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "351f898be38f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-18\/1874720693426_351f898be38f3e5a6753_72.png",
+            "first_name": "mekkie",
+            "real_name": "mekkie",
+            "display_name": "mekkie",
+            "team": "TJE58GTJL",
+            "name": "mehakbansil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RHT8800N",
+            "ts": "1616095699.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aiy46",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It depends on what things they’ll be designing as a marketing designer. Is it all marketing-related design from brand to blogs to landing pages?—probably best to have them report to someone that is handling all those things\n\nIf it’s more specific to design that’s meant to support content, it might help to have them report to someone in content so they’re not thinking about any of the other stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615424762.003600",
+        "parent_user_id": "UUJBPA9K5"
+    },
+    {
+        "client_msg_id": "35e8704d-6c5d-4af3-8220-81fbd2059691",
+        "type": "message",
+        "text": "<@UM2A21SJW>!!",
+        "user": "UJG9WTEKG",
+        "ts": "1616096737.053600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UM2A21SJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616095603.053200",
+        "parent_user_id": "U01GA58DC79"
+    },
+    {
+        "client_msg_id": "a6162b7b-8b9a-44bf-b0a3-5138e29f24d3",
+        "type": "message",
+        "text": "i won't speak for animalz but i'd say it's good to reach out. most companies hiring for roles like this want people to formally apply too, but it's good to make the human connection too",
+        "user": "UJG9WTEKG",
+        "ts": "1616096799.053800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zYq1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i won't speak for animalz but i'd say it's good to reach out. most companies hiring for roles like this want people to formally apply too, but it's good to make the human connection too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616095603.053200",
+        "parent_user_id": "U01GA58DC79",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01GA58DC79"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b327ebf3-b4c5-4b4d-861f-0b560764b47f",
+        "type": "message",
+        "text": "<@U014PRHQUQ2> Just uploaded &amp; submitted the tailored sitemap thanks again for your help :slightly_smiling_face: Also working on some enhanced linking.",
+        "user": "UJLQEEVHV",
+        "ts": "1616111867.054300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga35ac81fd09",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d4a35ac81fd0980bcadf93ff471998c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Probert",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "jmichaelprobert",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJLQEEVHV",
+            "ts": "1616111880.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zy+k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Just uploaded & submitted the tailored sitemap thanks again for your help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Also working on some enhanced linking."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616078889.032300",
+        "parent_user_id": "UJLQEEVHV"
+    },
+    {
+        "client_msg_id": "2639CD74-F5BD-40EA-8EFF-1F86B4713AA1",
+        "type": "message",
+        "text": "What is a typical day for a content marketing manager?",
+        "user": "UJ94SJMG9",
+        "ts": "1616134594.054900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd624893248b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4ad624893248b80b687d0842bb26dac1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Abass Sahrawi",
+            "display_name": "Abass Sahrawi",
+            "team": "TJE58GTJL",
+            "name": "nektoublek",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oxp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is a typical day for a content marketing manager?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616134594.054900",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1616430514.099500",
+        "reply_users": [
+            "U016BDEQ40J",
+            "U01QQNU4FSQ"
+        ],
+        "replies": [
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1616159148.055200"
+            },
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1616159175.055400"
+            },
+            {
+                "user": "U016BDEQ40J",
+                "ts": "1616159187.055600"
+            },
+            {
+                "user": "U01QQNU4FSQ",
+                "ts": "1616430514.099500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

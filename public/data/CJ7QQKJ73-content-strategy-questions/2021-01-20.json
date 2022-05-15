@@ -1,0 +1,1158 @@
+[
+    {
+        "client_msg_id": "f9bc463e-c17c-485e-983a-4c9b82aaeed3",
+        "type": "message",
+        "text": "<@U017WRJTKF1> has some excellent tips on her LinkedIn profile :slightly_smiling_face:",
+        "user": "UL4QTFQCT",
+        "ts": "1611133276.101900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "63ae1925b9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-11\/711618038786_63ae1925b9ddf72b3957_72.jpg",
+            "first_name": "Mile",
+            "real_name": "Mile Zivkovic",
+            "display_name": "Mile Zivkovic",
+            "team": "TJE58GTJL",
+            "name": "zivkovic.m.mile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXt9w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has some excellent tips on her LinkedIn profile "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611123963.101500",
+        "parent_user_id": "UUVS5QTM3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U017WRJTKF1",
+                    "UUVS5QTM3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01da8f6c-a1bd-4c65-a705-664c7b5bafd4",
+        "type": "message",
+        "text": "Hey <@UUVS5QTM3> take a look at these two resources (<https:\/\/contentfolks.substack.com\/p\/expert-interviews|1> and <https:\/\/contentfolks.substack.com\/p\/talking-to-customers|2>) with a few questions and examples!",
+        "user": "U017WRJTKF1",
+        "ts": "1611139855.102200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "contentfolks #2: how to interview Subject Matter Experts and create great content",
+                "title_link": "https:\/\/contentfolks.substack.com\/p\/expert-interviews",
+                "text": "A step-by-step process + some questions to get you started. ",
+                "fallback": "contentfolks #2: how to interview Subject Matter Experts and create great content",
+                "image_url": "https:\/\/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\/public\/images\/e1c14739-1b53-49a3-9660-0e1a60e45f72_1759x1089.jpeg",
+                "from_url": "https:\/\/contentfolks.substack.com\/p\/expert-interviews",
+                "image_width": 404,
+                "image_height": 250,
+                "image_bytes": 205762,
+                "service_icon": "https:\/\/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\/public\/images\/41c926b3-0697-4be5-b049-03ce243dfdba\/apple-touch-icon-57x57.png",
+                "service_name": "contentfolks.substack.com",
+                "id": 1,
+                "original_url": "https:\/\/contentfolks.substack.com\/p\/expert-interviews"
+            },
+            {
+                "title": "contentfolks #3: why talking to customers makes you a better content creator",
+                "title_link": "https:\/\/contentfolks.substack.com\/p\/talking-to-customers",
+                "text": "You are not your customer. So what do you do next? ",
+                "fallback": "contentfolks #3: why talking to customers makes you a better content creator",
+                "image_url": "https:\/\/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\/public\/images\/741638c9-a0e8-4936-911b-a7d4753887db_2372x1376.jpeg",
+                "from_url": "https:\/\/contentfolks.substack.com\/p\/talking-to-customers",
+                "image_width": 431,
+                "image_height": 250,
+                "image_bytes": 246225,
+                "service_icon": "https:\/\/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\/public\/images\/41c926b3-0697-4be5-b049-03ce243dfdba\/apple-touch-icon-57x57.png",
+                "service_name": "contentfolks.substack.com",
+                "id": 2,
+                "original_url": "https:\/\/contentfolks.substack.com\/p\/talking-to-customers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kEONt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUVS5QTM3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " take a look at these two resources ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/contentfolks.substack.com\/p\/expert-interviews",
+                                "text": "1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/contentfolks.substack.com\/p\/talking-to-customers",
+                                "text": "2"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") with a few questions and examples!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611123963.101500",
+        "parent_user_id": "UUVS5QTM3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUVS5QTM3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "UUVS5QTM3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "UUVS5QTM3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2196e314-bc84-4fe8-bc09-b718ce12eee9",
+        "type": "message",
+        "text": "Thanks for chiming in <@U019F15SA7Q> — you’re right. I’m hiring for a FT in-house position, but your point about the assignment still stands. I think my initial idea of doing such a time-bound assignment is just wrong because you can’t ask that of someone that doesn’t know your business and target audience like yourself. They will need to do research, iterate etc. So thanks for providing that insight Megan, and <@U016AG4A2G2> <@U012GHRAHDK> <@U01JM79URHV>  <@U016BDEQ40J> <@U01EBT43ERH> <@U014ZN613LM>. :100: :heart:",
+        "user": "U014PRHQUQ2",
+        "ts": "1611144510.102600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yfJxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for chiming in "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U019F15SA7Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " — you’re right. I’m hiring for a FT in-house position, but your point about the assignment still stands. I think my initial idea of doing such a time-bound assignment is just wrong because you can’t ask that of someone that doesn’t know your business and target audience like yourself. They will need to do research, iterate etc. So thanks for providing that insight Megan, and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016AG4A2G2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012GHRAHDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JM79URHV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016BDEQ40J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EBT43ERH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014ZN613LM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611044963.048400",
+        "parent_user_id": "U014PRHQUQ2",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U012GHRAHDK",
+                    "U01EBT43ERH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e966d6fa-f23d-4c45-aaf8-dbf4fb87857c",
+        "type": "message",
+        "text": "I was going to tag you in this, <@U017WRJTKF1>!",
+        "user": "U012UL77GUT",
+        "ts": "1611159888.103100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b74ac315b617",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-30\/1096717172883_b74ac315b61782f0d73c_72.jpg",
+            "first_name": "",
+            "real_name": "Ashly Stewart",
+            "display_name": "Ashly Stewart",
+            "team": "TJE58GTJL",
+            "name": "ashly.stage",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHmG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was going to tag you in this, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611123963.101500",
+        "parent_user_id": "UUVS5QTM3"
+    },
+    {
+        "client_msg_id": "cc4f769d-4c4c-419b-98b9-735063470665",
+        "type": "message",
+        "text": "woop woop <@U012UL77GUT>",
+        "user": "U017WRJTKF1",
+        "ts": "1611160108.103300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LG9V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "woop woop "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012UL77GUT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611123963.101500",
+        "parent_user_id": "UUVS5QTM3"
+    },
+    {
+        "client_msg_id": "9b401a7f-526d-460e-b4d0-e613520e06cc",
+        "type": "message",
+        "text": "SO MUCH GEM thank you everyone I’ll digest and whip something up - thanks <@UU9PKQC7Q> for sharing your talk (watching now) and <@U016V6EHYMA> for the tip on technical SEO (we’ve done an audit that surfaced a bunch of problems but our website dev team is more preoccupied with shipping new pages than fixing issues) and yes <@UUXMCJQ15> there’s 100% education work to be done with my CEO around SEO :smile:",
+        "user": "UUXPJ96EQ",
+        "ts": "1611160764.104400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "02f9c60ded77",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/983808543236_02f9c60ded77b4df1160_72.png",
+            "first_name": "Joei",
+            "real_name": "Joei Chan",
+            "display_name": "Joei Chan",
+            "team": "TJE58GTJL",
+            "name": "joei.chan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Mr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SO MUCH GEM thank you everyone I’ll digest and whip something up - thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UU9PKQC7Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for sharing your talk (watching now) and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016V6EHYMA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the tip on technical SEO (we’ve done an audit that surfaced a bunch of problems but our website dev team is more preoccupied with shipping new pages than fixing issues) and yes "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there’s 100% education work to be done with my CEO around SEO "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611074384.074800",
+        "parent_user_id": "UUXPJ96EQ"
+    },
+    {
+        "client_msg_id": "b92743f2-4bff-4a68-af98-85667340bde9",
+        "type": "message",
+        "text": "<@UUVS5QTM3>, I’ll <https:\/\/www.ercule.co\/good-questions-for-customer-interviews|throw this in here too> – this is an article that’s specifically about interviewing to understand how people are using the product (written by me, lmk if I can answer questions!)",
+        "user": "U013WCZ5GSV",
+        "ts": "1611174211.105600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7ccd0d56b0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1361149389360_b7ccd0d56b0aa7e01022_72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Dunham",
+            "display_name": "Justin Dunham",
+            "team": "TJE58GTJL",
+            "name": "justin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Good questions for customer interviews",
+                "title_link": "https:\/\/www.ercule.co\/good-questions-for-customer-interviews",
+                "text": "How to interview customers and get their words into your content strategy.",
+                "fallback": "Good questions for customer interviews",
+                "image_url": "https:\/\/www.ercule.co\/uploads\/good-questions-for-customer-interviews.png",
+                "from_url": "https:\/\/www.ercule.co\/good-questions-for-customer-interviews",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 392650,
+                "service_icon": "https:\/\/www.ercule.co\/assets\/favicon\/apple-touch-icon.png",
+                "service_name": "ercule.co",
+                "id": 1,
+                "original_url": "https:\/\/www.ercule.co\/good-questions-for-customer-interviews"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUVS5QTM3"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I’ll "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ercule.co\/good-questions-for-customer-interviews",
+                                "text": "throw this in here too"
+                            },
+                            {
+                                "type": "text",
+                                "text": " – this is an article that’s specifically about interviewing to understand how people are using the product (written by me, lmk if I can answer questions!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611123963.101500",
+        "parent_user_id": "UUVS5QTM3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUVS5QTM3",
+                    "U019Y01L1TQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "UUVS5QTM3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9343f29-a219-4ec5-93d9-d43d345aba28",
+        "type": "message",
+        "text": "Perhaps just because I’ve been paying more attention, there are a LOT of content jobs out there! Would love to hear some of your thoughts on how to evaluate companies — what makes a company good to work for, how do you suss that out in the interview process, etc. Also, particularly interested in how to evaluate earlier stage startups on their long-term viability (or at least their viability for advancing your knowledge\/career).",
+        "user": "U016AG4A2G2",
+        "ts": "1611180645.107900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "11a48b9b2620",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-22\/1403402335920_11a48b9b26202d48f6a5_72.png",
+            "first_name": "Victoria",
+            "real_name": "Victoria Fryer",
+            "display_name": "Victoria Fryer",
+            "team": "TJE58GTJL",
+            "name": "vcfryer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R9JPa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perhaps just because I’ve been paying more attention, there are a LOT of content jobs out there! Would love to hear some of your thoughts on how to evaluate companies — what makes a company good to work for, how do you suss that out in the interview process, etc. Also, particularly interested in how to evaluate earlier stage startups on their long-term viability (or at least their viability for advancing your knowledge\/career)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611180645.107900",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1611256621.012000",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U014PRHQUQ2",
+            "U016AG4A2G2"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1611184832.109100"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611216941.003000"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611217064.003200"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611217069.003400"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611217089.003600"
+            },
+            {
+                "user": "U016AG4A2G2",
+                "ts": "1611256621.012000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1611256621.012000",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJG9WTEKG",
+                    "UUVS5QTM3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d90216c-74e5-46da-b0ab-22cdc5612fd6",
+        "type": "message",
+        "text": ":arrow_right: *What’s the best thought leadership content that you’ve seen that isn’t a report or an e-book?* \n\nBackstory I’m working on a thought-leadership idea bank and want to launch least one each quarter. My only reservation is that we launch at least 5 lead magnets each month and if it’s a detailed report kinda asset it derails development. \n\nSo help me here with your bright idea folks!",
+        "user": "UL2E0QVB3",
+        "ts": "1611180882.108500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge9a383c24eb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/46e9a383c24ebc58aff0a71a2925d006.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Taru",
+            "real_name": "Taru",
+            "display_name": "Taru",
+            "team": "TJE58GTJL",
+            "name": "taru.bhargav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CsL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "arrow_right"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "What’s the best thought leadership content that you’ve seen that isn’t a report or an e-book? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBackstory I’m working on a thought-leadership idea bank and want to launch least one each quarter. My only reservation is that we launch at least 5 lead magnets each month and if it’s a detailed report kinda asset it derails development. \n\nSo help me here with your bright idea folks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611180882.108500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1611697286.090900",
+        "reply_users": [
+            "U019F15SA7Q",
+            "UL2E0QVB3"
+        ],
+        "replies": [
+            {
+                "user": "U019F15SA7Q",
+                "ts": "1611204620.000500"
+            },
+            {
+                "user": "UL2E0QVB3",
+                "ts": "1611697286.090900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2da708ff-3e21-4918-8b76-b0184028695b",
+        "type": "message",
+        "text": "I’m a little late to this thread but – I do a lot of writing :slightly_smiling_face:",
+        "user": "U013WCZ5GSV",
+        "ts": "1611181245.108600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7ccd0d56b0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1361149389360_b7ccd0d56b0aa7e01022_72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Dunham",
+            "display_name": "Justin Dunham",
+            "team": "TJE58GTJL",
+            "name": "justin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLNOx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m a little late to this thread but – I do a lot of writing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610479300.447900",
+        "parent_user_id": "U013W71AUMT"
+    },
+    {
+        "client_msg_id": "72492184-ddb3-45bf-b37b-1b93e03f39e0",
+        "type": "message",
+        "text": "<@U01CVQ02E5S> this is something we work with a lot of clients on, is your question about how to help your clients learn how to do this?",
+        "user": "U013WCZ5GSV",
+        "ts": "1611181906.108800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7ccd0d56b0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1361149389360_b7ccd0d56b0aa7e01022_72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Dunham",
+            "display_name": "Justin Dunham",
+            "team": "TJE58GTJL",
+            "name": "justin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04ufQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01CVQ02E5S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is something we work with a lot of clients on, is your question about how to help your clients learn how to do this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610476782.446500",
+        "parent_user_id": "U01CVQ02E5S"
+    },
+    {
+        "client_msg_id": "00ac6c05-f249-429d-8f4f-137ae3a8b1b7",
+        "type": "message",
+        "text": "yes! please let me know bc i can feed this info to the companies who post on our job board",
+        "user": "UJG9WTEKG",
+        "ts": "1611184832.109100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SgK\/k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes! please let me know bc i can feed this info to the companies who post on our job board"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611180645.107900",
+        "parent_user_id": "U016AG4A2G2"
+    },
+    {
+        "client_msg_id": "1c4316b8-ba29-40a2-83fc-35862f2d2f49",
+        "type": "message",
+        "text": "I'm no expert, but having done quite a few of these in the past few months, when I went away from the \"who, what, when, why\" style questioning and started saying, \"tell me about..\", \"can we talk about...\", the quality of the answers went up drastically! I think it frames it as more of a conversation versus an interview, and puts the person you're speaking with more at ease.",
+        "user": "UK3FP4VNZ",
+        "ts": "1611191377.000100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d95bc2f16983",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-11\/1591729735856_d95bc2f169830c8ce953_72.jpg",
+            "first_name": "Michaela",
+            "real_name": "Michaela Mendes",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "michaelamendes616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm no expert, but having done quite a few of these in the past few months, when I went away from the \"who, what, when, why\" style questioning and started saying, \"tell me about..\", \"can we talk about...\", the quality of the answers went up drastically! I think it frames it as more of a conversation versus an interview, and puts the person you're speaking with more at ease."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611123963.101500",
+        "parent_user_id": "UUVS5QTM3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01DEA6F7CH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UUVS5QTM3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "UUVS5QTM3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3e82815-8821-451f-98b7-d677e1975b31",
+        "type": "message",
+        "text": "Hmmm are you using the thought leadership content as a gated piece of content\/lead magnet? Or just producing blog posts that are thought leadership based? You might want to check out this guide Animalz wrote about it: <https:\/\/www.animalz.co\/blog\/thought-leadership-content\/> Some really useful insights that might point you in the right direction. I think the essence of a great thought leadership piece is that it takes real scenarios (case studies, data etc.), and an expert breaks them down with an injection of their own opinion. The key to making these posts succeed is that they typically offer a new viewpoint that nobody else is talking about.",
+        "user": "U019F15SA7Q",
+        "ts": "1611204620.000500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "7f377143f62d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-27\/1327926020370_7f377143f62de595c55b_72.png",
+            "first_name": "Megan",
+            "real_name": "Megan Mahoney",
+            "display_name": "Megan Mahoney",
+            "team": "TJE58GTJL",
+            "name": "megan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Animalz",
+                "title": "Everybody Wants Thought Leadership Content. But How Do You Do It, Exactly? - Animalz",
+                "title_link": "https:\/\/www.animalz.co\/blog\/thought-leadership-content\/",
+                "text": "Thought leadership is powerful, persuasive, and totally misunderstood. Here's our process for getting started.",
+                "fallback": "Animalz: Everybody Wants Thought Leadership Content. But How Do You Do It, Exactly? - Animalz",
+                "image_url": "https:\/\/www.animalz.co\/wp-content\/uploads\/2020\/07\/Everybody-Wants-Thought-Leadership-1-1.png",
+                "image_width": 327,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Katie Parrott",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "14 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1596015559,
+                "from_url": "https:\/\/www.animalz.co\/blog\/thought-leadership-content\/",
+                "image_bytes": 85729,
+                "service_icon": "https:\/\/2l4ff1gokdmn317w442ckjyu-wpengine.netdna-ssl.com\/wp-content\/uploads\/2019\/09\/cropped-animalz-logo-mark-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.animalz.co\/blog\/thought-leadership-content\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cfu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmmm are you using the thought leadership content as a gated piece of content\/lead magnet? Or just producing blog posts that are thought leadership based? You might want to check out this guide Animalz wrote about it: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.animalz.co\/blog\/thought-leadership-content\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Some really useful insights that might point you in the right direction. I think the essence of a great thought leadership piece is that it takes real scenarios (case studies, data etc.), and an expert breaks them down with an injection of their own opinion. The key to making these posts succeed is that they typically offer a new viewpoint that nobody else is talking about."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611180882.108500",
+        "parent_user_id": "UL2E0QVB3",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01DEA6F7CH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UJ48Q1HAP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68b0c8b3-dbff-4465-b1fe-5d4b4ddf6041",
+        "type": "message",
+        "text": "Thank you <@U01EBT43ERH>, <@U017WRJTKF1>, <@U013WCZ5GSV>, <@UK3FP4VNZ>!! Your resources and insights are all so helpful :pray: :smile:",
+        "user": "UUVS5QTM3",
+        "ts": "1611205070.001700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g87a9bfecca7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/87a9bfecca7c069572d61814218cb6de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Fike",
+            "real_name": "Fike",
+            "display_name": "Fike",
+            "team": "TJE58GTJL",
+            "name": "fike.komala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3gD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EBT43ERH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013WCZ5GSV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UK3FP4VNZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! Your resources and insights are all so helpful "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611123963.101500",
+        "parent_user_id": "UUVS5QTM3"
+    },
+    {
+        "client_msg_id": "cb31bc6d-ec2b-4d31-b1ba-9e5af3bc8a6b",
+        "type": "message",
+        "text": "One question. Do you think 60 min is too long for an interview? We thought 30 min is too short to get a useful story out of it, but from what I read in these resources, it's more common to schedule 30 min instead of 60?",
+        "user": "UUVS5QTM3",
+        "ts": "1611205136.001900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g87a9bfecca7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/87a9bfecca7c069572d61814218cb6de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Fike",
+            "real_name": "Fike",
+            "display_name": "Fike",
+            "team": "TJE58GTJL",
+            "name": "fike.komala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUVS5QTM3",
+            "ts": "1611205347.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "37vEI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One question. Do you think 60 min is too long for an interview? We thought 30 min is too short to get a useful story out of it, but from what I read in these resources, it's more common to schedule 30 min instead of 60?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611123963.101500",
+        "parent_user_id": "UUVS5QTM3"
+    },
+    {
+        "client_msg_id": "87F7CED8-F6DB-400A-821A-C234A30E8C4E",
+        "type": "message",
+        "text": "No actually I’m trying to do this personally for my services\/skill set. ",
+        "user": "U01CVQ02E5S",
+        "ts": "1611211678.002800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91fb1bea2fa4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1438887916964_91fb1bea2fa42a24028d_72.jpg",
+            "first_name": "David",
+            "real_name": "David Harrington",
+            "display_name": "Dave H",
+            "team": "TJE58GTJL",
+            "name": "harrington.dw",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VKJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No actually I’m trying to do this personally for my services\/skill set. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610476782.446500",
+        "parent_user_id": "U01CVQ02E5S"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "client_msg_id": "c33d4a63-8fd6-4af2-bc44-7e21a441ee9c",
+        "type": "message",
+        "text": "I’ve only ever used the demo - <https:\/\/cloud.google.com\/natural-language#natural-language-api-demo>. With the API and a decent developer, I’m sure you can automate most things and you won’t have to copy-paste stuff (plus you won’t get hit with a limit if you’ve got enough credits (I think it was charging you depending on usage). Basically, you can analyze parts (paragraphs) or whole articles (I prefer to go over the top 5 results for a certain keyword as well as my article), and usually look at two things mostly: The Entities tab, where from the “entities\/things” below I can get a sense what the article is about or actually, what the NLP tool understands the article to be about. I also look at the categories tab, where I can see whether my article is in the “correct” category. Then if something is way off (completely different entities my article has, that have a very low relevance\/salience score, or the category is not good either), or competitors’ have a better score, I’d be off for some editing\/rewriting. But, as I said, loots of other on-page tools like Frase, Topic, Clearscope, Surfer, Marketmuse have a similar technology (each different, but based on similar kind of stuff).",
+        "user": "UUKNSAKUH",
+        "ts": "1626679595.202500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c1fd638514",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/975112902481_22c1fd63851461dc68d6_72.jpg",
+            "first_name": "Kal",
+            "real_name": "Kal Dimitrov",
+            "display_name": "Kal Dimitrov",
+            "team": "TJE58GTJL",
+            "name": "kaloyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XK0tU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve only ever used the demo - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cloud.google.com\/natural-language#natural-language-api-demo"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". With the API and a decent developer, I’m sure you can automate most things and you won’t have to copy-paste stuff (plus you won’t get hit with a limit if you’ve got enough credits (I think it was charging you depending on usage). Basically, you can analyze parts (paragraphs) or whole articles (I prefer to go over the top 5 results for a certain keyword as well as my article), and usually look at two things mostly: The Entities tab, where from the “entities\/things” below I can get a sense what the article is about or actually, what the NLP tool understands the article to be about. I also look at the categories tab, where I can see whether my article is in the “correct” category. Then if something is way off (completely different entities my article has, that have a very low relevance\/salience score, or the category is not good either), or competitors’ have a better score, I’d be off for some editing\/rewriting. But, as I said, loots of other on-page tools like Frase, Topic, Clearscope, Surfer, Marketmuse have a similar technology (each different, but based on similar kind of stuff)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626382970.196800",
+        "parent_user_id": "U026R1895QV"
+    },
+    {
+        "client_msg_id": "251d3f50-75dc-4b92-9e37-6b0e3c2723c6",
+        "type": "message",
+        "text": "Thanks, Karl. Looks super useful.",
+        "user": "U027V14CNHF",
+        "ts": "1626728707.204000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5679045863a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-13\/2252059551447_5679045863a394fdef5c_72.jpg",
+            "first_name": "Sophia",
+            "real_name": "Sophia Solanki",
+            "display_name": "Sophia (Narrato)",
+            "team": "TJE58GTJL",
+            "name": "sophias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Karl. Looks super useful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626382970.196800",
+        "parent_user_id": "U026R1895QV"
+    },
+    {
+        "client_msg_id": "dcf064d4-6e51-4fad-8dee-2663df00abce",
+        "type": "message",
+        "text": "Country-relevant content is one part, like Kai pointed out.\n\nI’d say another is country-relevant _links_. If you have links from 10k referring domains and 9900 are from the US, 90 are from UK, and 10 are from Canada, that will send a strong SEO signal to Google\n\n_(Come on Kai #3, this is your moment to shine!)_",
+        "user": "U01KH3P18RZ",
+        "ts": "1626733791.204200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01KH3P18RZ",
+            "ts": "1626733809.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "izp2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Country-relevant content is one part, like Kai pointed out.\n\nI’d say another is country-relevant "
+                            },
+                            {
+                                "type": "text",
+                                "text": "links",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If you have links from 10k referring domains and 9900 are from the US, 90 are from UK, and 10 are from Canada, that will send a strong SEO signal to Google\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(Come on Kai #3, this is your moment to shine!)",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626290444.188700",
+        "parent_user_id": "U01MM4EAC69"
+    }
+]

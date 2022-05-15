@@ -1,0 +1,582 @@
+[
+    {
+        "client_msg_id": "1a48fa9f-a517-400a-bdf5-96a1bdaf796b",
+        "type": "message",
+        "text": "When I started my agency, we had a lot of this and as <@UUXMCJQ15> says, the key was saying \"no\" to these clients.\n\nNow we focus on clients who already see the value in content and are simply trying to scale their efforts up with outside help. This has led to much better results.\n\nIt sounds like you don't have enough clients like that coming in the door though, so you might need to find some channels to attract them.",
+        "user": "U029CTQ5X6Y",
+        "ts": "1631090807.194100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4d1afd4712b9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2312909469026_4d1afd4712b9f77f1af8_72.jpg",
+            "first_name": "Karl",
+            "real_name": "Karl Hughes",
+            "display_name": "Karl (Draft.dev)",
+            "team": "TJE58GTJL",
+            "name": "khughes.me",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qT6rR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I started my agency, we had a lot of this and as "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUXMCJQ15"
+                            },
+                            {
+                                "type": "text",
+                                "text": " says, the key was saying \"no\" to these clients.\n\nNow we focus on clients who already see the value in content and are simply trying to scale their efforts up with outside help. This has led to much better results.\n\nIt sounds like you don't have enough clients like that coming in the door though, so you might need to find some channels to attract them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630954239.177900",
+        "parent_user_id": "UJ94SJMG9"
+    },
+    {
+        "client_msg_id": "43685f13-7030-49b7-9642-bf27e8fd54a0",
+        "type": "message",
+        "text": "Hey all has anyone ever built a searchable database before? (On a website... to search resources of vaiourious kinds)",
+        "user": "U02CY29UKK9",
+        "ts": "1631125307.198400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "64301c610536",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-06\/2465109092100_64301c61053691718eec_72.jpg",
+            "first_name": "Hannah",
+            "real_name": "Hannah Silverstein",
+            "display_name": "Hannah Silverstein",
+            "team": "TJE58GTJL",
+            "name": "hannah.silverstein",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9TNSA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey all has anyone ever built a searchable database before? (On a website... to search resources of vaiourious kinds)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1631204405.214500",
+        "reply_users": [
+            "U019E2RJD9Q",
+            "U02CY29UKK9",
+            "UJHT5CHUY"
+        ],
+        "replies": [
+            {
+                "user": "U019E2RJD9Q",
+                "ts": "1631125459.198500"
+            },
+            {
+                "user": "U02CY29UKK9",
+                "ts": "1631125608.198700"
+            },
+            {
+                "user": "U019E2RJD9Q",
+                "ts": "1631126010.198900"
+            },
+            {
+                "user": "U02CY29UKK9",
+                "ts": "1631126012.199100"
+            },
+            {
+                "user": "U02CY29UKK9",
+                "ts": "1631126104.199600"
+            },
+            {
+                "user": "U019E2RJD9Q",
+                "ts": "1631126151.199800"
+            },
+            {
+                "user": "U02CY29UKK9",
+                "ts": "1631126266.200000"
+            },
+            {
+                "user": "UJHT5CHUY",
+                "ts": "1631127520.200200"
+            },
+            {
+                "user": "UJHT5CHUY",
+                "ts": "1631127658.200400"
+            },
+            {
+                "user": "U02CY29UKK9",
+                "ts": "1631204405.214500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6bde777e-946a-426f-be17-a9543f4c949b",
+        "type": "message",
+        "text": "What type of website and what type of searchable content?\n\nEG if you're building a searchable database of custom post types on Wordpress you would probably use one of the common search plugins like <https:\/\/www.relevanssi.com\/|Relevanssi> and then create a custom search widget to search through that post type.\n\nBut it changes a lot depending on your CMS and what type of content you're trying to show.",
+        "user": "U019E2RJD9Q",
+        "ts": "1631125459.198500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bcebee72c9b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1513766373124_bcebee72c9b4c4fba078_72.jpg",
+            "first_name": "Kane",
+            "real_name": "Kane Jamison",
+            "display_name": "Kane Jamison",
+            "team": "TJE58GTJL",
+            "name": "kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRxjm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What type of website and what type of searchable content?\n\nEG if you're building a searchable database of custom post types on Wordpress you would probably use one of the common search plugins like "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.relevanssi.com\/",
+                                "text": "Relevanssi"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and then create a custom search widget to search through that post type.\n\nBut it changes a lot depending on your CMS and what type of content you're trying to show."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9"
+    },
+    {
+        "client_msg_id": "c14d9222-c5c2-4728-8ced-d7ed88ae7f56",
+        "type": "message",
+        "text": "Thanks for the reply Kane \nIts going to be images, articles, books and links..  \nI'm wanting it to be fully integrated into my godaddy website. But open to switching to WordPress if thats better. \n\nReally its the title and just some keyword categories I need to be searchable... not the content itself",
+        "user": "U02CY29UKK9",
+        "ts": "1631125608.198700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "64301c610536",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-06\/2465109092100_64301c61053691718eec_72.jpg",
+            "first_name": "Hannah",
+            "real_name": "Hannah Silverstein",
+            "display_name": "Hannah Silverstein",
+            "team": "TJE58GTJL",
+            "name": "hannah.silverstein",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ljfj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the reply Kane \nIts going to be images, articles, books and links..  \nI'm wanting it to be fully integrated into my godaddy website. But open to switching to WordPress if thats better. \n\nReally its the title and just some keyword categories I need to be searchable... not the content itself"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9"
+    },
+    {
+        "client_msg_id": "98830cd2-5198-40c9-a297-797c65b343ec",
+        "type": "message",
+        "text": "Ahh, yeah a static site builder with GoDaddy or other hosts probably will make it a little bit harder. You could create something like a <https:\/\/programmablesearchengine.google.com\/about\/|Google Custom Search Engine> as the simplest option to add on - you would tell it to index every page within a section of your site.\n\nOther low-code\/no-code options would be creating a Airtable\/Notion list and embedding that on the page. This would be more like a database of 'tiles' that you can filter through on a single page of the site. There are also tools like <https:\/\/www.sheet2site.com\/> that will generate an entire website from a Google Sheet as a similar version of this concept.\n\nOtherwise to do a full blown section of a site you'll have better luck building on top of a CMS like Wordpress or Webflow.",
+        "user": "U019E2RJD9Q",
+        "ts": "1631126010.198900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bcebee72c9b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1513766373124_bcebee72c9b4c4fba078_72.jpg",
+            "first_name": "Kane",
+            "real_name": "Kane Jamison",
+            "display_name": "Kane Jamison",
+            "team": "TJE58GTJL",
+            "name": "kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahh, yeah a static site builder with GoDaddy or other hosts probably will make it a little bit harder. You could create something like a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/programmablesearchengine.google.com\/about\/",
+                                "text": "Google Custom Search Engine"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as the simplest option to add on - you would tell it to index every page within a section of your site.\n\nOther low-code\/no-code options would be creating a Airtable\/Notion list and embedding that on the page. This would be more like a database of 'tiles' that you can filter through on a single page of the site. There are also tools like "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sheet2site.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that will generate an entire website from a Google Sheet as a similar version of this concept.\n\nOtherwise to do a full blown section of a site you'll have better luck building on top of a CMS like Wordpress or Webflow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AUQ0KMGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47c6e1a3-2d7c-456c-91f7-2e28e2a99634",
+        "type": "message",
+        "text": "Like a search engine in a website",
+        "user": "U02CY29UKK9",
+        "ts": "1631126012.199100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "64301c610536",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-06\/2465109092100_64301c61053691718eec_72.jpg",
+            "first_name": "Hannah",
+            "real_name": "Hannah Silverstein",
+            "display_name": "Hannah Silverstein",
+            "team": "TJE58GTJL",
+            "name": "hannah.silverstein",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like a search engine in a website"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9"
+    },
+    {
+        "client_msg_id": "6c1d9240-3c0b-4fc9-a33a-30fef39992b6",
+        "type": "message",
+        "text": "Amazing well arent you mega helpful. \nThank you ever so much.",
+        "user": "U02CY29UKK9",
+        "ts": "1631126104.199600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "64301c610536",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-06\/2465109092100_64301c61053691718eec_72.jpg",
+            "first_name": "Hannah",
+            "real_name": "Hannah Silverstein",
+            "display_name": "Hannah Silverstein",
+            "team": "TJE58GTJL",
+            "name": "hannah.silverstein",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNVc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing well arent you mega helpful. \nThank you ever so much."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9"
+    },
+    {
+        "client_msg_id": "d2f376a4-a29b-4259-a5eb-dbab2bee0968",
+        "type": "message",
+        "text": "Happy to weigh in - good luck with the build!",
+        "user": "U019E2RJD9Q",
+        "ts": "1631126151.199800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bcebee72c9b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1513766373124_bcebee72c9b4c4fba078_72.jpg",
+            "first_name": "Kane",
+            "real_name": "Kane Jamison",
+            "display_name": "Kane Jamison",
+            "team": "TJE58GTJL",
+            "name": "kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ow2O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to weigh in - good luck with the build!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02CY29UKK9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1abb7087-3373-46bb-9dfb-ab4f1abd6b75",
+        "type": "message",
+        "text": "Thank you. Im a total newb.  Got no idea what im doing but know its gotta be done.",
+        "user": "U02CY29UKK9",
+        "ts": "1631126266.200000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "64301c610536",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-06\/2465109092100_64301c61053691718eec_72.jpg",
+            "first_name": "Hannah",
+            "real_name": "Hannah Silverstein",
+            "display_name": "Hannah Silverstein",
+            "team": "TJE58GTJL",
+            "name": "hannah.silverstein",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you. Im a total newb.  Got no idea what im doing but know its gotta be done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9"
+    },
+    {
+        "client_msg_id": "8cb12746-2ec5-4e2d-b623-b24aad7387cf",
+        "type": "message",
+        "text": "Algolia is top-notch for site search: <http:\/\/algolia.com|algolia.com>",
+        "user": "UJHT5CHUY",
+        "ts": "1631127520.200200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9b31c258d041",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1883903218582_9b31c258d041f6de2b99_72.jpg",
+            "first_name": "Scott",
+            "real_name": "Scott Mathson",
+            "display_name": "scottmathson",
+            "team": "TJE58GTJL",
+            "name": "yo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Algolia is top-notch for site search: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/algolia.com",
+                                "text": "algolia.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9"
+    },
+    {
+        "client_msg_id": "03bafd9c-8ca9-45ff-8f86-95e88cc243f7",
+        "type": "message",
+        "text": "Takes a bit of setup, but _well worth it_ in the end - you then own the SE algorithm and can then manage ranking factors, a\/b test results, and a lot more in UI after setup <https:\/\/www.algolia.com\/doc\/integration\/wordpress\/getting-started\/quick-start\/?client=php>",
+        "user": "UJHT5CHUY",
+        "ts": "1631127658.200400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9b31c258d041",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-23\/1883903218582_9b31c258d041f6de2b99_72.jpg",
+            "first_name": "Scott",
+            "real_name": "Scott Mathson",
+            "display_name": "scottmathson",
+            "team": "TJE58GTJL",
+            "name": "yo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZlKz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Takes a bit of setup, but "
+                            },
+                            {
+                                "type": "text",
+                                "text": "well worth it",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the end - you then own the SE algorithm and can then manage ranking factors, a\/b test results, and a lot more in UI after setup "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.algolia.com\/doc\/integration\/wordpress\/getting-started\/quick-start\/?client=php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631125307.198400",
+        "parent_user_id": "U02CY29UKK9",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02CY29UKK9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1631130248.201100",
+        "user": "UJG9WTEKG",
+        "text": "set the channel topic: Welcome to <#CJ7QQKJ73|-content-strategy-questions>! Ask questions in the main channel and use comment threads to offer answers.",
+        "topic": "Welcome to <#CJ7QQKJ73|-content-strategy-questions>! Ask questions in the main channel and use comment threads to offer answers."
+    }
+]

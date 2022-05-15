@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "2F8CE39B-A99D-461F-B5D2-089CB382B710",
+        "type": "message",
+        "text": "Hey, I’d like to apply. Where can I connect with you? ",
+        "user": "UNYNLMEUE",
+        "ts": "1577694771.002600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "719eb15b7857",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-03\/782197457680_719eb15b78573f929379_72.png",
+            "first_name": "Eshan",
+            "real_name": "Eshan",
+            "display_name": "Eshan Pancholi",
+            "team": "TJE58GTJL",
+            "name": "eshan.pancholi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VtbCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, I’d like to apply. Where can I connect with you? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576693018.009200",
+        "parent_user_id": "UPL0XUAG3"
+    },
+    {
+        "client_msg_id": "2d2b3c26-e77f-4a3b-a8fa-3c7693a8c772",
+        "type": "message",
+        "text": "I just opened a role for an events manager on my team: <https:\/\/angel.co\/company\/fishtown-analytics\/jobs\/688926-events-manager>\n\nThe company is called Fishtown Analytics, but this role is producing events for dbt (data build tool) -- our open source product and the growing community around it. There are ~1100 companies using dbt today and over 3000 people in our Slack community.\n\nWe're a small team (&lt;20 people) based in Philadelphia, but are open to hiring anyone in the continental US. We have several remote employees and I managed a remote team at HubSpot so this is a not a \"we'll make you suffer for the luxury of being remote\" situation :slightly_smiling_face:\n\nIf you know someone, I would love to speak with them! If you have questions, don't hesitate to DM me.\n\n:heart:",
+        "user": "UJG12DM1V",
+        "ts": "1577720363.003000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b389ca7fa22c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-20\/2387994825175_b389ca7fa22c18296d7c_72.jpg",
+            "first_name": "Janessa",
+            "real_name": "Janessa Lantz, VP of Marketing at dbt Labs",
+            "display_name": "Janessa",
+            "team": "TJE58GTJL",
+            "name": "janessalantz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "AngelList",
+                "title": "Events Manager at Fishtown Analytics",
+                "title_link": "https:\/\/angel.co\/company\/fishtown-analytics\/jobs\/688926-events-manager",
+                "text": "Fishtown Analytics is hiring a Events Manager in Philadelphia and Remote. At Fishtown Analytics, our mission is to empower... Apply now on AngelList.",
+                "fallback": "AngelList: Events Manager at Fishtown Analytics",
+                "thumb_url": "https:\/\/d1qb2nb5cznatu.cloudfront.net\/startups\/i\/3274622-4b643375b5a5e4a2e9475bb6aa855d99-thumb_jpg.jpg?buster=1497476709",
+                "from_url": "https:\/\/angel.co\/company\/fishtown-analytics\/jobs\/688926-events-manager",
+                "thumb_width": 100,
+                "thumb_height": 100,
+                "id": 1,
+                "original_url": "https:\/\/angel.co\/company\/fishtown-analytics\/jobs\/688926-events-manager"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AukXq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just opened a role for an events manager on my team: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/angel.co\/company\/fishtown-analytics\/jobs\/688926-events-manager"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe company is called Fishtown Analytics, but this role is producing events for dbt (data build tool) -- our open source product and the growing community around it. There are ~1100 companies using dbt today and over 3000 people in our Slack community.\n\nWe're a small team (<20 people) based in Philadelphia, but are open to hiring anyone in the continental US. We have several remote employees and I managed a remote team at HubSpot so this is a not a \"we'll make you suffer for the luxury of being remote\" situation "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf you know someone, I would love to speak with them! If you have questions, don't hesitate to DM me.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQP1YGQ10"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

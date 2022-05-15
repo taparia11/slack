@@ -1,0 +1,1614 @@
+[
+    {
+        "client_msg_id": "5b9f3f84-cbb8-4977-84b1-682132b947c8",
+        "type": "message",
+        "text": "Hi team! I have a couple of old pages that are ranking well on Google but include some SEO faux pas. I want to refresh the content, but am unsure how to handles the trashy URLs. For example: \/top-*18*-tech-companies-*2020.* Does anyone have any recommendations for how to deal with such a URL whilst refreshing the content and maintaining the rankings: Is it super high-risk to just start afresh? Should I put a redirect in or let the old content live? Any input welcome!",
+        "user": "U01DBK8NUCR",
+        "ts": "1618916256.135100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4d3db4287cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-05\/1851509535904_4d3db4287cd41c21873f_72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Skingle",
+            "display_name": "Hannah Skingle",
+            "team": "TJE58GTJL",
+            "name": "hannah.skingle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjP\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi team! I have a couple of old pages that are ranking well on Google but include some SEO faux pas. I want to refresh the content, but am unsure how to handles the trashy URLs. For example: \/top-"
+                            },
+                            {
+                                "type": "text",
+                                "text": "18",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "-tech-companies-"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2020.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Does anyone have any recommendations for how to deal with such a URL whilst refreshing the content and maintaining the rankings: Is it super high-risk to just start afresh? Should I put a redirect in or let the old content live? Any input welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618916256.135100",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1618928350.145500",
+        "reply_users": [
+            "UL4QTFQCT",
+            "U01P13NTGG6",
+            "UJJFDTN8G",
+            "U01DBK8NUCR"
+        ],
+        "replies": [
+            {
+                "user": "UL4QTFQCT",
+                "ts": "1618916335.135200"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1618919183.143200"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1618919375.144800"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1618919668.145100"
+            },
+            {
+                "user": "U01DBK8NUCR",
+                "ts": "1618928350.145500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "864cfb48-0de4-47e7-9d92-af2bea4558c3",
+        "type": "message",
+        "text": "Leave the URL as is and just change the post title and meta to 2021. You’ll lose much more by redirecting to a new post with “2021” in the URL. It may not be much of a loss in SEO juice but still, if you can avoid a redirect, I would do so by all means",
+        "user": "UL4QTFQCT",
+        "ts": "1618916335.135200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "63ae1925b9dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-11\/711618038786_63ae1925b9ddf72b3957_72.jpg",
+            "first_name": "Mile",
+            "real_name": "Mile Zivkovic",
+            "display_name": "Mile Zivkovic",
+            "team": "TJE58GTJL",
+            "name": "zivkovic.m.mile",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hPW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Leave the URL as is and just change the post title and meta to 2021. You’ll lose much more by redirecting to a new post with “2021” in the URL. It may not be much of a loss in SEO juice but still, if you can avoid a redirect, I would do so by all means"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618916256.135100",
+        "parent_user_id": "U01DBK8NUCR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJ7RT1J1X",
+                    "U011QQDDSJV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01EJ7VE9FD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E572D4D3-AB23-46A6-95A0-8EE0E21E26FB",
+        "type": "message",
+        "text": "I wouldn't put years in the URLs at all. Or numbers if it's avoidable. \n\nI've redirected hundreds of thousands of URLs with little to no negative effect—just watch out of redirect chains and update the old URLs throughout the site's internal links to the new one.\n\nOur approach with this content is to take a generic URL like:\n\n• `\/top-tech-companies\/`\nAnd just add the year and number to the title and H1. When the next year rolls around, you create a new page for last years content, something like:\n\n• `\/top-tech-companies\/2020\/`\nAdd that content there, take your generic URL and add your new 2021 refreshed content.\n\nFrom there you can add a bit of UX by internally linking between them in case the reader wants to see historical lists or lands on the old list and wants to see up to date info. ",
+        "user": "U01P13NTGG6",
+        "ts": "1618919183.143200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rpn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn't put years in the URLs at all. Or numbers if it's avoidable. \n\nI've redirected hundreds of thousands of URLs with little to no negative effect—just watch out of redirect chains and update the old URLs throughout the site's internal links to the new one.\n\nOur approach with this content is to take a generic URL like:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\/top-tech-companies\/",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAnd just add the year and number to the title and H1. When the next year rolls around, you create a new page for last years content, something like:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\/top-tech-companies\/2020\/",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAdd that content there, take your generic URL and add your new 2021 refreshed content.\n\nFrom there you can add a bit of UX by internally linking between them in case the reader wants to see historical lists or lands on the old list and wants to see up to date info. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618916256.135100",
+        "parent_user_id": "U01DBK8NUCR"
+    },
+    {
+        "client_msg_id": "ADE4B140-D2E6-4AE7-90E7-09149394646D",
+        "type": "message",
+        "text": "If it's content that wouldn't need to be researched retroactively, then you can just refresh it each year without creating any sort of archive. Kind of the way <https:\/\/www.nerdwallet.com\/best\/credit-cards\/rewards|Nerd Wallet does>. ",
+        "user": "U01P13NTGG6",
+        "ts": "1618919375.144800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NerdWallet",
+                "title": "17 Best Rewards Credit Cards of April 2021 - NerdWallet",
+                "title_link": "https:\/\/www.nerdwallet.com\/best\/credit-cards\/rewards",
+                "text": "Find the right rewards credit card for the way you spend and the type of rewards you're looking for — whether it's cash back, points or miles.",
+                "fallback": "NerdWallet: 17 Best Rewards Credit Cards of April 2021 - NerdWallet",
+                "image_url": "https:\/\/www.nerdwallet.com\/assets\/blog\/wp-content\/uploads\/2018\/04\/cc_rewards-1440x864.jpg",
+                "image_width": 417,
+                "image_height": 250,
+                "from_url": "https:\/\/www.nerdwallet.com\/best\/credit-cards\/rewards",
+                "image_bytes": 134886,
+                "service_icon": "https:\/\/www.nerdwallet.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.nerdwallet.com\/best\/credit-cards\/rewards"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EAY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it's content that wouldn't need to be researched retroactively, then you can just refresh it each year without creating any sort of archive. Kind of the way "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nerdwallet.com\/best\/credit-cards\/rewards",
+                                "text": "Nerd Wallet does"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618916256.135100",
+        "parent_user_id": "U01DBK8NUCR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01TB1SDD61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c12e4cd-6932-4c39-a315-abec03308757",
+        "type": "message",
+        "text": "I go through this with every single client.\n\nIf the URL has traffic or backlinks, just leave it.\n\nIf the page is dead, make a new URL.\n\nSimple :slightly_smiling_face:",
+        "user": "UJJFDTN8G",
+        "ts": "1618919668.145100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBHdJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I go through this with every single client.\n\nIf the URL has traffic or backlinks, just leave it.\n\nIf the page is dead, make a new URL.\n\nSimple "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618916256.135100",
+        "parent_user_id": "U01DBK8NUCR",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01TB1SDD61"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "608e61ac-e95a-4c38-bb01-648c2e6efe46",
+        "type": "message",
+        "text": "this is really helpful, thank you all! :pray:",
+        "user": "U01DBK8NUCR",
+        "ts": "1618928350.145500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4d3db4287cd4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-05\/1851509535904_4d3db4287cd41c21873f_72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Skingle",
+            "display_name": "Hannah Skingle",
+            "team": "TJE58GTJL",
+            "name": "hannah.skingle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gn69",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is really helpful, thank you all! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618916256.135100",
+        "parent_user_id": "U01DBK8NUCR"
+    },
+    {
+        "client_msg_id": "538b43d1-a1a3-452e-8bac-0d25f6e2a6a9",
+        "type": "message",
+        "text": "This is a super interesting (and likely growing) need. I don't know of any companies that do this though :disappointed: but if they suck at it, maybe I should build something that fixes this haha.",
+        "user": "UUKNLUX5X",
+        "ts": "1618930467.145800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8306936f7204",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-10\/994014446278_8306936f720476f732a7_72.jpg",
+            "first_name": "Arina",
+            "real_name": "Arina Kharlamova",
+            "display_name": "arina",
+            "team": "TJE58GTJL",
+            "name": "arina",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7kCn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a super interesting (and likely growing) need. I don't know of any companies that do this though "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but if they suck at it, maybe I should build something that fixes this haha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618847724.115600",
+        "parent_user_id": "U01SMSTUWKY",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01SMSTUWKY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5080ba71-e9cd-405c-aede-bc2c08d71dae",
+        "type": "message",
+        "text": "<@U01H58AMEAD> i asked some writing buddies of mine and there was this one exercise we universally agreed was fun, which is basically making a writing prompt where we contirbute zany\/off the wall ideas for a story and we share the results with each other offline (if you decide to pursue that project)\n\nAnother is an improv-style game where one person starts the story and hands the next “chapter” off to the next person, and so on until someone closes the story out\n\nThese are both fiction-writing exercises, so it won’t help your writers for business writing skills, but it’s an idea",
+        "user": "U016BDEQ40J",
+        "ts": "1618939881.147200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12ed6474ef63",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1200725592375_12ed6474ef63dff47a58_72.png",
+            "first_name": "Patrick",
+            "real_name": "Patrick Icasas",
+            "display_name": "Patrick Icasas",
+            "team": "TJE58GTJL",
+            "name": "patrick631",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01H58AMEAD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i asked some writing buddies of mine and there was this one exercise we universally agreed was fun, which is basically making a writing prompt where we contirbute zany\/off the wall ideas for a story and we share the results with each other offline (if you decide to pursue that project)\n\nAnother is an improv-style game where one person starts the story and hands the next “chapter” off to the next person, and so on until someone closes the story out\n\nThese are both fiction-writing exercises, so it won’t help your writers for business writing skills, but it’s an idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618825976.102700",
+        "parent_user_id": "U01H58AMEAD",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01H58AMEAD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01H58AMEAD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a41e904a-d0a9-43c2-a1af-5f0596563311",
+        "type": "message",
+        "text": "I'm curious how people (across the management--&gt; employee spectrum) feel about mentorship in the workplace. Do you think there's a place for corporate mentorship? And would you rather be mentored by leaders in YOUR org or others?\n\nCurious! :slightly_smiling_face:",
+        "user": "U01MM4EAC69",
+        "ts": "1618940825.148800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZbCR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm curious how people (across the management--> employee spectrum) feel about mentorship in the workplace. Do you think there's a place for corporate mentorship? And would you rather be mentored by leaders in YOUR org or others?\n\nCurious! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618940825.148800",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1618987935.155500",
+        "reply_users": [
+            "U013W748P7T",
+            "U01AU94TABA",
+            "ULJBEFSJJ",
+            "UJJFDTN8G"
+        ],
+        "replies": [
+            {
+                "user": "U013W748P7T",
+                "ts": "1618941682.148900"
+            },
+            {
+                "user": "U01AU94TABA",
+                "ts": "1618942656.149100"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1618944204.149600"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1618944305.149800"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1618987935.155500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ed985680-a59d-4e0e-923c-0758fc7d356b",
+        "type": "message",
+        "text": "I feel like for corporate jobs, it's so much easier to find mentors within your own org than outside. Your direct manager is often the one that's been in your shoes before and so can offer a lot of wisdom and experience. Being in a startup is different, in this case people are often the company expert in their respective fields and people are more responsible for their own learning path and will naturally seek external opinion, help and advice.\n\nBut to answer your question, as a shy introvert, if I were working a corporate job I would definitely look within my own org for \"the person I want to become\" and attach myself to them. I work in a startup though and I'm the most knowledgeable person in the company about many of the things I'm involved in so I had the responsibility to build my support group externally (Slack communities, forums, LinkedIn networking).",
+        "user": "U013W748P7T",
+        "ts": "1618941682.148900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2c52304cc371",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1119879604659_2c52304cc371612f4188_72.jpg",
+            "first_name": "Yaniss",
+            "real_name": "Yaniss Illoul",
+            "display_name": "Yaniss Illoul",
+            "team": "TJE58GTJL",
+            "name": "illoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/75Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like for corporate jobs, it's so much easier to find mentors within your own org than outside. Your direct manager is often the one that's been in your shoes before and so can offer a lot of wisdom and experience. Being in a startup is different, in this case people are often the company expert in their respective fields and people are more responsible for their own learning path and will naturally seek external opinion, help and advice.\n\nBut to answer your question, as a shy introvert, if I were working a corporate job I would definitely look within my own org for \"the person I want to become\" and attach myself to them. I work in a startup though and I'm the most knowledgeable person in the company about many of the things I'm involved in so I had the responsibility to build my support group externally (Slack communities, forums, LinkedIn networking)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618940825.148800",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01MM4EAC69",
+                    "UUH2EB134",
+                    "UUKNLUX5X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "260abc12-bff5-4861-99b4-3017b63269d9",
+        "type": "message",
+        "text": "I'd rather be mentored by people outside my org so I can get perspectives and advice beyond my industry",
+        "user": "U01AU94TABA",
+        "ts": "1618942656.149100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6236aae5a4ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1368396724496_6236aae5a4ffcfa4bf4d_72.jpg",
+            "first_name": "Danielle",
+            "real_name": "Danielle Love",
+            "display_name": "Danielle Love",
+            "team": "TJE58GTJL",
+            "name": "danielle.love",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd rather be mentored by people outside my org so I can get perspectives and advice beyond my industry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618940825.148800",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01MM4EAC69",
+                    "U015B88C4CA",
+                    "UUKNLUX5X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d223767d-a997-431e-b982-917046cc8713",
+        "type": "message",
+        "text": "I think both are important. Having a mentor in your org is good because you know someone has your back and is there to help if you have questions about the org \/ can advocate you with higher levels of management, whereas having a mentor externally can give you a little more perspective on the industry\/won't be involved with any company politics",
+        "user": "ULJBEFSJJ",
+        "ts": "1618944204.149600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think both are important. Having a mentor in your org is good because you know someone has your back and is there to help if you have questions about the org \/ can advocate you with higher levels of management, whereas having a mentor externally can give you a little more perspective on the industry\/won't be involved with any company politics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618940825.148800",
+        "parent_user_id": "U01MM4EAC69"
+    },
+    {
+        "client_msg_id": "6864f70d-3222-40eb-9407-16d711fe44c1",
+        "type": "message",
+        "text": "I think both of them are also especially important for groups who have historically been pushed aside \/ discriminated against in the workplace so that they can feel supported and have a community to turn to if typical organizational power structures aren't working for them",
+        "user": "ULJBEFSJJ",
+        "ts": "1618944305.149800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think both of them are also especially important for groups who have historically been pushed aside \/ discriminated against in the workplace so that they can feel supported and have a community to turn to if typical organizational power structures aren't working for them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618940825.148800",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01MM4EAC69",
+                    "UUKNLUX5X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b59703e-42f9-4915-b68c-7f167d657983",
+        "type": "message",
+        "text": "Is there a best practice when it comes targeting articles to refresh? If you’re looking for the quickest results, is it better to target a top ranking post for refresh to make it even more successful, or is it better to target under preforming posts to bring them back to their former glory?",
+        "user": "UJHBBR59V",
+        "ts": "1618944851.151600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a best practice when it comes targeting articles to refresh? If you’re looking for the quickest results, is it better to target a top ranking post for refresh to make it even more successful, or is it better to target under preforming posts to bring them back to their former glory?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618944851.151600",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1619085310.178300",
+        "reply_users": [
+            "UJ7RT1J1X",
+            "UJHBBR59V",
+            "U01KGTNFLVA",
+            "U014U81TL9K",
+            "UJJFDTN8G",
+            "U011QQDDSJV",
+            "UJ3K7N8GJ"
+        ],
+        "replies": [
+            {
+                "user": "UJ7RT1J1X",
+                "ts": "1618945045.151700"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1618945322.152200"
+            },
+            {
+                "user": "U01KGTNFLVA",
+                "ts": "1618946290.152400"
+            },
+            {
+                "user": "U014U81TL9K",
+                "ts": "1618947843.153200"
+            },
+            {
+                "user": "U014U81TL9K",
+                "ts": "1618947898.153400"
+            },
+            {
+                "user": "UJHBBR59V",
+                "ts": "1618948570.153700"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1618988027.155700"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1619039387.177700"
+            },
+            {
+                "user": "UJ3K7N8GJ",
+                "ts": "1619085310.178300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0eccb075-df71-42d2-af53-297ed8daa376",
+        "type": "message",
+        "text": "I look at:\n• What's ranking 5-11\n• What has the largest base of traffic\n• What has declined in the last 6 months (adjusting for seasonality)\nUsually the intersection of those is the biggest opportunity. Even a small improvement to something on a large base of traffic can mean thousands more people",
+        "user": "UJ7RT1J1X",
+        "ts": "1618945045.151700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3344738d2bc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-17\/1076357263828_3344738d2bc26736e62e_72.jpg",
+            "first_name": "Benyamin",
+            "real_name": "Benyamin Elias",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benyamin.elias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4lqO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I look at:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What's ranking 5-11"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What has the largest base of traffic"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What has declined in the last 6 months (adjusting for seasonality)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nUsually the intersection of those is the biggest opportunity. Even a small improvement to something on a large base of traffic can mean thousands more people"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618944851.151600",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U0166H7KUAZ",
+                    "U017WRJTKF1",
+                    "U014U81TL9K"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4886063f-7494-4b8e-b58b-df5566876b0f",
+        "type": "message",
+        "text": "Amazing, thank you Benyamin!",
+        "user": "UJHBBR59V",
+        "ts": "1618945322.152200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eEn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing, thank you Benyamin!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618944851.151600",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "type": "message",
+        "text": "I'd also look at the top pages receiving organic traffic and look to optimize the middle tier. This report is pulled from SiteBulb (a web crawler) and it usually pairs well with <@UJ7RT1J1X> point on targeting what's ranking 5-11.",
+        "files": [
+            {
+                "id": "F01V9QUTWF3",
+                "created": 1618946270,
+                "timestamp": 1618946270,
+                "name": "Screen Shot 2021-04-20 at 2.17.44 PM.png",
+                "title": "Screen Shot 2021-04-20 at 2.17.44 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01KGTNFLVA",
+                "editable": false,
+                "size": 108536,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01V9QUTWF3\/screen_shot_2021-04-20_at_2.17.44_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01V9QUTWF3\/download\/screen_shot_2021-04-20_at_2.17.44_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 92,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 123,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 185,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 205,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_960.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_960_w": 960,
+                "thumb_960_h": 246,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01V9QUTWF3-02a696d75a\/screen_shot_2021-04-20_at_2.17.44_pm_1024.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 263,
+                "original_w": 2594,
+                "original_h": 666,
+                "thumb_tiny": "AwAMADCog3OAScGhlPm7Qe+Bmmg4ORRk5znn1oH0FkVo32t19qTDDqDQSWOSST70Fi3U5oEGD70mTSkkgAkkDpSdqAP\/2Q==",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01KGTNFLVA\/F01V9QUTWF3\/screen_shot_2021-04-20_at_2.17.44_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F01V9QUTWF3-5d95aa7f98",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01KGTNFLVA",
+        "display_as_bot": false,
+        "ts": "1618946290.152400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xw3t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd also look at the top pages receiving organic traffic and look to optimize the middle tier. This report is pulled from SiteBulb (a web crawler) and it usually pairs well with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ7RT1J1X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " point on targeting what's ranking 5-11."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618944851.151600",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJHBBR59V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9adcdfcf-5bda-43b5-b3a0-c70901f32c19",
+        "type": "message",
+        "text": "I've had success targeting content ranking between 11-20 and moving it onto page 1.",
+        "user": "U014U81TL9K",
+        "ts": "1618947843.153200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e9282cf1c36a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-08\/1926667978071_e9282cf1c36a6d537913_72.jpg",
+            "first_name": "",
+            "real_name": "Ben Sailer",
+            "display_name": "Ben Sailer",
+            "team": "TJE58GTJL",
+            "name": "ben.sailer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yA=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've had success targeting content ranking between 11-20 and moving it onto page 1."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618944851.151600",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "575f681c-3e8a-48c0-a2da-63254b610534",
+        "type": "message",
+        "text": "Though I would also second the suggestion to focus on content ranking 5-11. Those pieces will have a better chance at moving up to 1-3.",
+        "user": "U014U81TL9K",
+        "ts": "1618947898.153400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e9282cf1c36a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-08\/1926667978071_e9282cf1c36a6d537913_72.jpg",
+            "first_name": "",
+            "real_name": "Ben Sailer",
+            "display_name": "Ben Sailer",
+            "team": "TJE58GTJL",
+            "name": "ben.sailer",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Though I would also second the suggestion to focus on content ranking 5-11. Those pieces will have a better chance at moving up to 1-3."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618944851.151600",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJHBBR59V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efcd9507-0826-4e35-bb2f-0dd8db9eae75",
+        "type": "message",
+        "text": "Adding from my research incase others are interested, animalz recommends:\n• Previously had or currently has some recurring organic traffic\n• Has been in decline for at least three consecutive months\n• Accounts for at least 1% of total content traffic (excluding traffic to non-content pages)\n",
+        "user": "UJHBBR59V",
+        "ts": "1618948570.153700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfcf0e904f2d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/36fcf0e904f2d318cab8a3e57c0bf64e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Baggetta",
+            "display_name": "matthew",
+            "team": "TJE58GTJL",
+            "name": "baggetta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gGkz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adding from my research incase others are interested, animalz recommends:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Previously had or currently has some recurring organic traffic"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Has been in decline for at least three consecutive months"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Accounts for at least 1% of total content traffic (excluding traffic to non-content pages)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618944851.151600",
+        "parent_user_id": "UJHBBR59V"
+    },
+    {
+        "client_msg_id": "a42256bc-b2fb-4453-831d-6eba373b72bb",
+        "type": "message",
+        "text": "i’m curious to learn how folks track and manage their legal release forms from clients (think testimonials, logo usage, etc.). is that something your content team oversees the management of, or does your legal team?\n\nwe have multiple lines of business combined with years of requesting releases off-the-cuff — so we have release forms stored in google drive, google forms, and now adobe sign (yay formal e-signatures). moving forward, we will continue to track forms in adobe sign, but we also need to efficiently store + organize our existing hodge podge of releases.\n\nthe idea of having _another_ manual process for our small-and-scrappy content team to manage is daunting, so i’m trying to think on the best way to track these forms in one place with minimum effort. Adobe Sign does not offer folders, nor can you create a public link from the form, so i fear i may have to give in to a download-and-reupload-somewhere-else process for this :weary:",
+        "user": "UU07F98SJ",
+        "ts": "1618950817.154400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "682a72b96df7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-13\/953211117990_682a72b96df75795583f_72.png",
+            "first_name": "Emily",
+            "real_name": "Emily G",
+            "display_name": "Emily G",
+            "team": "TJE58GTJL",
+            "name": "emily.gover",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QWARN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i’m curious to learn how folks track and manage their legal release forms from clients (think testimonials, logo usage, etc.). is that something your content team oversees the management of, or does your legal team?\n\nwe have multiple lines of business combined with years of requesting releases off-the-cuff — so we have release forms stored in google drive, google forms, and now adobe sign (yay formal e-signatures). moving forward, we will continue to track forms in adobe sign, but we also need to efficiently store + organize our existing hodge podge of releases.\n\nthe idea of having "
+                            },
+                            {
+                                "type": "text",
+                                "text": "another",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " manual process for our small-and-scrappy content team to manage is daunting, so i’m trying to think on the best way to track these forms in one place with minimum effort. Adobe Sign does not offer folders, nor can you create a public link from the form, so i fear i may have to give in to a download-and-reupload-somewhere-else process for this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "weary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618950817.154400",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1619194051.218300",
+        "reply_users": [
+            "U01P13NTGG6",
+            "UU07F98SJ"
+        ],
+        "replies": [
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1619003088.156800"
+            },
+            {
+                "user": "UU07F98SJ",
+                "ts": "1619108354.183400"
+            },
+            {
+                "user": "UU07F98SJ",
+                "ts": "1619108459.183600"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1619145836.198700"
+            },
+            {
+                "user": "UU07F98SJ",
+                "ts": "1619191449.216400"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1619194051.218300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "47f79253-0b4e-416f-81f0-134923978a40",
+        "type": "message",
+        "text": "When I do this, I say \"image description in comments\" in the main caption, and then try to move it up to alt text the first time i actually log in after the scheduler publishes it",
+        "user": "UJE6FLEFJ",
+        "ts": "1618955638.154800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc6ef52e2245",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c6ef52e2245358c2ae0b9a02308b7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Brittany Berger",
+            "display_name": "Brittany Berger",
+            "team": "TJE58GTJL",
+            "name": "brittany",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I do this, I say \"image description in comments\" in the main caption, and then try to move it up to alt text the first time i actually log in after the scheduler publishes it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618586478.091000",
+        "parent_user_id": "U01JRC8JPTJ"
+    },
+    {
+        "client_msg_id": "2447eef4-70cc-4201-93d9-a28e3d08c3eb",
+        "type": "message",
+        "text": "Infographic slide decks and guides do really well on Instagram if the brand is already on there!",
+        "user": "UJE6FLEFJ",
+        "ts": "1618955796.155000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc6ef52e2245",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c6ef52e2245358c2ae0b9a02308b7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Brittany Berger",
+            "display_name": "Brittany Berger",
+            "team": "TJE58GTJL",
+            "name": "brittany",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KpLb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Infographic slide decks and guides do really well on Instagram if the brand is already on there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618872159.126900",
+        "parent_user_id": "UL2E0QVB3",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UL2E0QVB3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48bd7b1d-38c9-45d8-b3a7-507341030b25",
+        "type": "message",
+        "text": "When I worked in corporate, inside. When I started marketing, outside.",
+        "user": "UJJFDTN8G",
+        "ts": "1618987935.155500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8CpQw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I worked in corporate, inside. When I started marketing, outside."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618940825.148800",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01MM4EAC69"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8241bfd-31c4-4ae4-9cc1-6dcb93162e80",
+        "type": "message",
+        "text": "When I did my first content refresh, I used Andy Crestodina's blog post as a framework. I've never needed anything else as it worked so well: <https:\/\/www.orbitmedia.com\/blog\/content-marketing-audit\/>",
+        "user": "UJJFDTN8G",
+        "ts": "1618988027.155700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Orbit Media Studios",
+                "title": "How to do a content marketing audit: 8-steps for fixing your content",
+                "title_link": "https:\/\/www.orbitmedia.com\/blog\/content-marketing-audit\/",
+                "text": "How to do a content marketing audit in 8-steps (plus, best practices for fixing your content). Measure and improve your content with these simple tactics.",
+                "fallback": "Orbit Media Studios: How to do a content marketing audit: 8-steps for fixing your content",
+                "image_url": "https:\/\/www.orbitmedia.com\/wp-content\/uploads\/2017\/10\/cm-audit-feat.png",
+                "image_width": 500,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Andy Crestodina",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "14 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1507755181,
+                "from_url": "https:\/\/www.orbitmedia.com\/blog\/content-marketing-audit\/",
+                "image_bytes": 32015,
+                "service_icon": "https:\/\/www.orbitmedia.com\/wp-content\/themes\/orbit-media\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.orbitmedia.com\/blog\/content-marketing-audit\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/O0l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I did my first content refresh, I used Andy Crestodina's blog post as a framework. I've never needed anything else as it worked so well: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.orbitmedia.com\/blog\/content-marketing-audit\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618944851.151600",
+        "parent_user_id": "UJHBBR59V",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJHBBR59V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01TM66SD8C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

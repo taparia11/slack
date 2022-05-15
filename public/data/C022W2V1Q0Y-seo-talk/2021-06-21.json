@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "69f54b54-3e45-4781-a958-c4638fcdcb1e",
+        "type": "message",
+        "text": "I know Ahrefs tells you if you have a featured snippet, image pack, etc., but is there a way to see if you're in a \"people also ask\" section?",
+        "user": "U01MM4EAC69",
+        "ts": "1624297142.121500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01MM4EAC69",
+            "ts": "1624297147.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YBP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know Ahrefs tells you if you have a featured snippet, image pack, etc., but is there a way to see if you're in a \"people also ask\" section?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624297142.121500",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1628020193.017900",
+        "reply_users": [
+            "UUKNSAKUH",
+            "U01MM4EAC69",
+            "U02A8UR3Z60"
+        ],
+        "replies": [
+            {
+                "user": "UUKNSAKUH",
+                "ts": "1624344960.121800"
+            },
+            {
+                "user": "U01MM4EAC69",
+                "ts": "1624363218.122100"
+            },
+            {
+                "user": "U02A8UR3Z60",
+                "ts": "1628019972.017500"
+            },
+            {
+                "user": "U01MM4EAC69",
+                "ts": "1628020097.017700"
+            },
+            {
+                "user": "U02A8UR3Z60",
+                "ts": "1628020193.017900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f06319a7-083a-42e9-a2eb-3367ea48a8c6",
+        "type": "message",
+        "text": "I don’t think it’s possible with Ahrefs specifically, it always greys out the selection when you try to filter it like so. Other tools claim to do so (Advanced Web Rankings for one), but I’ve never tracked them. Given the fact that PAAs are close to infinite, this would present a very difficult situation for any tool.",
+        "user": "UUKNSAKUH",
+        "ts": "1624344960.121800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c1fd638514",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/975112902481_22c1fd63851461dc68d6_72.jpg",
+            "first_name": "Kal",
+            "real_name": "Kal Dimitrov",
+            "display_name": "Kal Dimitrov",
+            "team": "TJE58GTJL",
+            "name": "kaloyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t think it’s possible with Ahrefs specifically, it always greys out the selection when you try to filter it like so. Other tools claim to do so (Advanced Web Rankings for one), but I’ve never tracked them. Given the fact that PAAs are close to infinite, this would present a very difficult situation for any tool."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624297142.121500",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01MM4EAC69"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

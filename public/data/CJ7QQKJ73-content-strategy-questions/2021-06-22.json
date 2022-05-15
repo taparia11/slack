@@ -1,0 +1,442 @@
+[
+    {
+        "bot_id": "B023BC3A2UV",
+        "type": "message",
+        "text": "shout-out to our friends at Vidico (:wave: <@U0223N2BPML>) for supporting this Slack community. Vidico makes high-quality video for companies like spotify, square and many more. if you'd like, <https:\/\/vidico.com\/contact\/book-meeting\/?utm_source=Superpath&amp;utm_medium=Superpath%20Partnership&amp;utm_campaign=Superpath%20Partnership|you can get a free video strategy session here>.",
+        "user": "UJG9WTEKG",
+        "ts": "1624366801.387200",
+        "team": "TJE58GTJL",
+        "bot_profile": {
+            "id": "B023BC3A2UV",
+            "app_id": "AL3SX1B6J",
+            "name": "Send It Later",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-02\/671777182994_a14924be81a633327b73_72.png"
+            },
+            "deleted": false,
+            "updated": 1622231340,
+            "team_id": "TJE58GTJL"
+        },
+        "edited": {
+            "user": "B023BC3A2UV",
+            "ts": "1624366805.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Vidico",
+                "title": "Book a meeting with Team Vidico for stellar video production.",
+                "title_link": "https:\/\/vidico.com\/contact\/book-meeting\/?utm_source=Superpath&utm_medium=Superpath%20Partnership&utm_campaign=Superpath%20Partnership",
+                "text": "Vidico produces stunning video content for brand and businesses around the world. We’ll start with a free strategy call to get you started.",
+                "fallback": "Vidico: Book a meeting with Team Vidico for stellar video production.",
+                "image_url": "https:\/\/mk0vidico8mc77nfxqo9.kinstacdn.com\/app\/uploads\/2019\/05\/intro-section-pic-1.jpg",
+                "from_url": "https:\/\/vidico.com\/contact\/book-meeting\/?utm_source=Superpath&utm_medium=Superpath%20Partnership&utm_campaign=Superpath%20Partnership",
+                "image_width": 274,
+                "image_height": 250,
+                "image_bytes": 45385,
+                "service_icon": "https:\/\/mk0vidico8mc77nfxqo9.kinstacdn.com\/app\/uploads\/2019\/01\/cropped-Favicon-400x400.png",
+                "id": 1,
+                "original_url": "https:\/\/vidico.com\/contact\/book-meeting\/?utm_source=Superpath&amp;utm_medium=Superpath%20Partnership&amp;utm_campaign=Superpath%20Partnership"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "U024K88ECFN",
+                    "UJ420S7MG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C8D09663-ACD6-4AE6-BE24-BEDE0A604546",
+        "type": "message",
+        "text": "Hi all! I’m managing blog and we think some of our traffic is from bots :robot_face: (weird source name, less than 1 second time on page, high BR). Anybody know any best practices for filtering out suspected bot traffic in Google Analytics, other than checking the box “exclude known bots\/crawlers”? Apparently adding a filter for low time on page didn’t work - \nMany thanks! :pray::skin-tone-2:",
+        "user": "U015T6HEA95",
+        "ts": "1624381828.391600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b9b57a6fd6a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-30\/1226169323121_b9b57a6fd6a1aa68c874_72.jpg",
+            "first_name": "Robin",
+            "real_name": "Robin Nichols",
+            "display_name": "Robin Nichols",
+            "team": "TJE58GTJL",
+            "name": "robin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U015T6HEA95",
+            "ts": "1624381857.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mmrp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! I’m managing blog and we think some of our traffic is from bots "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (weird source name, less than 1 second time on page, high BR). Anybody know any best practices for filtering out suspected bot traffic in Google Analytics, other than checking the box “exclude known bots\/crawlers”? Apparently adding a filter for low time on page didn’t work - \nMany thanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624381828.391600",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1624454781.398800",
+        "reply_users": [
+            "U021QMNMQ68",
+            "U01S7MZE3GV",
+            "U01QF8VQFSR",
+            "U01P13NTGG6"
+        ],
+        "replies": [
+            {
+                "user": "U021QMNMQ68",
+                "ts": "1624382020.391900"
+            },
+            {
+                "user": "U01S7MZE3GV",
+                "ts": "1624382674.392200"
+            },
+            {
+                "user": "U01QF8VQFSR",
+                "ts": "1624389448.392900"
+            },
+            {
+                "user": "U01P13NTGG6",
+                "ts": "1624397470.393900"
+            },
+            {
+                "user": "U01S7MZE3GV",
+                "ts": "1624454781.398800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1624381831.391700"
+    },
+    {
+        "client_msg_id": "1240f704-d425-49e9-bf04-adf7c283f923",
+        "type": "message",
+        "text": "Create a filter that only includes traffic from valid hostnames.",
+        "user": "U021QMNMQ68",
+        "ts": "1624382020.391900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "53aeb75f7da2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2041301884215_53aeb75f7da217ae0b1e_72.png",
+            "first_name": "Shahid",
+            "real_name": "Shahid Abbasi",
+            "display_name": "Shahid Abbasi",
+            "team": "TJE58GTJL",
+            "name": "growwithmarketers",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U021QMNMQ68",
+            "ts": "1624382033.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GHOZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Create a filter that only includes traffic from valid hostnames."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624381828.391600",
+        "parent_user_id": "U015T6HEA95",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U015T6HEA95",
+                    "U01TRFJ9J77"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "We had the same thing happen and filtered out the weird source names. Just be careful because you can accidentally filter out everything *but* the bot traffic",
+        "files": [
+            {
+                "id": "F025N2D0ZT8",
+                "created": 1624382611,
+                "timestamp": 1624382611,
+                "name": "Screen Shot 2021-06-22 at 12.23.27 PM.png",
+                "title": "Screen Shot 2021-06-22 at 12.23.27 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01S7MZE3GV",
+                "editable": false,
+                "size": 62965,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025N2D0ZT8\/screen_shot_2021-06-22_at_12.23.27_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F025N2D0ZT8\/download\/screen_shot_2021-06-22_at_12.23.27_pm.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025N2D0ZT8-2e4f0c9b24\/screen_shot_2021-06-22_at_12.23.27_pm_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025N2D0ZT8-2e4f0c9b24\/screen_shot_2021-06-22_at_12.23.27_pm_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025N2D0ZT8-2e4f0c9b24\/screen_shot_2021-06-22_at_12.23.27_pm_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 302,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025N2D0ZT8-2e4f0c9b24\/screen_shot_2021-06-22_at_12.23.27_pm_480.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_480_w": 480,
+                "thumb_480_h": 402,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025N2D0ZT8-2e4f0c9b24\/screen_shot_2021-06-22_at_12.23.27_pm_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025N2D0ZT8-2e4f0c9b24\/screen_shot_2021-06-22_at_12.23.27_pm_720.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_720_w": 720,
+                "thumb_720_h": 604,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F025N2D0ZT8-2e4f0c9b24\/screen_shot_2021-06-22_at_12.23.27_pm_800.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_800_w": 800,
+                "thumb_800_h": 671,
+                "original_w": 866,
+                "original_h": 726,
+                "thumb_tiny": "AwAoADDQJOT978qcAeuT9MUhxk\/KTRtWgB1FJtHpS0AFFFFADWC5yQTSbVbBxTj0Of1poXB4K\/lQA+ikGe9LQAUUUUAB5FM2+6\/lT6YaAHYP94flRhvX9KF6UtACDPc5paKKAP\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U01S7MZE3GV\/F025N2D0ZT8\/screen_shot_2021-06-22_at_12.23.27_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F025N2D0ZT8-e7ccb8fab6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01S7MZE3GV",
+        "display_as_bot": false,
+        "ts": "1624382674.392200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fk7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We had the same thing happen and filtered out the weird source names. Just be careful because you can accidentally filter out everything "
+                            },
+                            {
+                                "type": "text",
+                                "text": "but",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " the bot traffic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U01S7MZE3GV",
+            "ts": "1624382699.000000"
+        },
+        "thread_ts": "1624381828.391600",
+        "parent_user_id": "U015T6HEA95",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U015T6HEA95"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24bd3c4b-0d80-4f53-89da-ffd3cee30df1",
+        "type": "message",
+        "text": "You can also isolate the segment and look at for example screen dimensions. When we suffer from bot traffic it's often with ridiculously small screen resolution, which are relatively easy to filter.",
+        "user": "U01QF8VQFSR",
+        "ts": "1624389448.392900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b0f16e92d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-05\/1927894267811_3b0f16e92d265019d31d_72.jpg",
+            "first_name": "",
+            "real_name": "Jelle Schut",
+            "display_name": "Jelle Schut",
+            "team": "TJE58GTJL",
+            "name": "jelle.schut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9L3Wu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can also isolate the segment and look at for example screen dimensions. When we suffer from bot traffic it's often with ridiculously small screen resolution, which are relatively easy to filter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624381828.391600",
+        "parent_user_id": "U015T6HEA95",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U015T6HEA95",
+                    "U01TRFJ9J77"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00f1c78e-16fa-47bd-bb97-768ac74b0987",
+        "type": "message",
+        "text": "When I've helped clients working on these, we started with JTBD personas and developed the pillars based on the customer journey for each. Not sure if that helps but it was useful &amp; effective.",
+        "user": "UJE6FLEFJ",
+        "ts": "1624396609.393700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc6ef52e2245",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c6ef52e2245358c2ae0b9a02308b7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Brittany Berger",
+            "display_name": "Brittany Berger",
+            "team": "TJE58GTJL",
+            "name": "brittany",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flmMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I've helped clients working on these, we started with JTBD personas and developed the pillars based on the customer journey for each. Not sure if that helps but it was useful & effective."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624291917.381500",
+        "parent_user_id": "U023M662VPF"
+    },
+    {
+        "client_msg_id": "55aed6d1-48ea-44c0-ad9d-69a5ffef5052",
+        "type": "message",
+        "text": "You can also look at session duration. If it’s 0:00:00, it’s typically a bot.",
+        "user": "U01P13NTGG6",
+        "ts": "1624397470.393900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can also look at session duration. If it’s 0:00:00, it’s typically a bot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624381828.391600",
+        "parent_user_id": "U015T6HEA95",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U015T6HEA95",
+                    "U01TRFJ9J77"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

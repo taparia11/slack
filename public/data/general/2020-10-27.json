@@ -1,0 +1,400 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1603791885.050200",
+        "thread_ts": "1603791885.050200",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1603815666.051200",
+        "reply_users": [
+            "U01CVQ02E5S",
+            "URAV154AV",
+            "UUJBMNRNF",
+            "U01AHL8AGBB"
+        ],
+        "replies": [
+            {
+                "user": "U01CVQ02E5S",
+                "ts": "1603802408.050300"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1603805418.050500"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1603815369.051000"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1603815666.051200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5fa6c180-dc83-4f87-bb4a-3e8ec7059c7b",
+        "type": "message",
+        "text": "Sure Alexandra. If I'm enough of a \"technologist\" hopefully.",
+        "user": "U01CVQ02E5S",
+        "ts": "1603802408.050300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91fb1bea2fa4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1438887916964_91fb1bea2fa42a24028d_72.jpg",
+            "first_name": "David",
+            "real_name": "David Harrington",
+            "display_name": "Dave H",
+            "team": "TJE58GTJL",
+            "name": "harrington.dw",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZPgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure Alexandra. If I'm enough of a \"technologist\" hopefully."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603791885.050200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "4a93efc4-6d96-4562-8df9-2639ac0f4765",
+        "type": "message",
+        "text": "Happy to ask my Demand Gen and Marketing Ops manager for you",
+        "user": "URAV154AV",
+        "ts": "1603805418.050500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p4yMq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to ask my Demand Gen and Marketing Ops manager for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603791885.050200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "c8f8c9b1-2507-416c-9124-90961d7f6d1c",
+        "type": "message",
+        "text": "Happy to help",
+        "user": "UUJBMNRNF",
+        "ts": "1603815369.051000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Lm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy to help"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603791885.050200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "121a3d1c-d32e-49b7-a635-bb115e94eba9",
+        "type": "message",
+        "text": "Sign me up :slightly_smiling_face:",
+        "user": "U01AHL8AGBB",
+        "ts": "1603815666.051200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "toIY5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sign me up "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603791885.050200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "58da2a14-dffc-4ecd-88d6-25b12c0e330f",
+        "type": "message",
+        "text": "How do you pick content themes for the year \/ your campaigns?\n\nWe're working on being more coordinated as a marketing team, and just wondering how other people determine how to steer their content ship :ship:",
+        "user": "ULJBEFSJJ",
+        "ts": "1603818228.051800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Xk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How do you pick content themes for the year \/ your campaigns?\n\nWe're working on being more coordinated as a marketing team, and just wondering how other people determine how to steer their content ship "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ship"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603818228.051800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1603828951.056500",
+        "reply_users": [
+            "U01AU94TABA",
+            "U01D0FSPDV4",
+            "U0109RH7U00"
+        ],
+        "replies": [
+            {
+                "user": "U01AU94TABA",
+                "ts": "1603822238.052200"
+            },
+            {
+                "user": "U01D0FSPDV4",
+                "ts": "1603828116.056300"
+            },
+            {
+                "user": "U0109RH7U00",
+                "ts": "1603828951.056500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "94d64a12-000c-4d00-85a2-2cca0fd45841",
+        "type": "message",
+        "text": "We pick content themes that are aligned with our company goals and our business unit goals (I work in B2B)",
+        "user": "U01AU94TABA",
+        "ts": "1603822238.052200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6236aae5a4ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1368396724496_6236aae5a4ffcfa4bf4d_72.jpg",
+            "first_name": "Danielle",
+            "real_name": "Danielle Love",
+            "display_name": "Danielle Love",
+            "team": "TJE58GTJL",
+            "name": "danielle.love",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=eKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We pick content themes that are aligned with our company goals and our business unit goals (I work in B2B)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603818228.051800",
+        "parent_user_id": "ULJBEFSJJ"
+    },
+    {
+        "client_msg_id": "A41B64BB-2395-477E-AD81-CC6E4A0D2EC8",
+        "type": "message",
+        "text": "Base it off of research. Which questions do your customer service and sales teams get asked the most? What do you know customers want to see from your surveys and interviews? What kind of topics are your target and current customers chatting about online? What are your competitors doing - both good and bad - how can you fill the gap? What are online searches pulling up, AnswerThePublic is a good site to check out. ",
+        "user": "U01D0FSPDV4",
+        "ts": "1603828116.056300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a2400926b5ee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-06\/2126742030231_a2400926b5eeb1080f62_72.png",
+            "first_name": "Kirsten",
+            "real_name": "Kirsten Lamb",
+            "display_name": "Kirsten Lamb",
+            "team": "TJE58GTJL",
+            "name": "kirsten",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hZs6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Base it off of research. Which questions do your customer service and sales teams get asked the most? What do you know customers want to see from your surveys and interviews? What kind of topics are your target and current customers chatting about online? What are your competitors doing - both good and bad - how can you fill the gap? What are online searches pulling up, AnswerThePublic is a good site to check out. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603818228.051800",
+        "parent_user_id": "ULJBEFSJJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U017FHMTWRM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41a7cfe7-c1dc-4d94-b3fb-08082f4809aa",
+        "type": "message",
+        "text": "I’m working with our sales team to build out buyer personas and journeys so we have a clear sense for what types of content (and formats) decision-makers and decision-influencers (eg, engineers) will find most useful at each stage.\n\nPersonas get to the common questions, challenges, etc. and site traffic will also offer insights into what topics people find most relevant (whether they become MQLs or not).",
+        "user": "U0109RH7U00",
+        "ts": "1603828951.056500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8260739d9a87",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-18\/997168871314_8260739d9a87acc6a8a3_72.jpg",
+            "first_name": "Jane",
+            "real_name": "Jane O'Hara",
+            "display_name": "Jane O'Hara",
+            "team": "TJE58GTJL",
+            "name": "johara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eIyC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m working with our sales team to build out buyer personas and journeys so we have a clear sense for what types of content (and formats) decision-makers and decision-influencers (eg, engineers) will find most useful at each stage.\n\nPersonas get to the common questions, challenges, etc. and site traffic will also offer insights into what topics people find most relevant (whether they become MQLs or not)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603818228.051800",
+        "parent_user_id": "ULJBEFSJJ"
+    }
+]

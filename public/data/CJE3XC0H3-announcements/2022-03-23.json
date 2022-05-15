@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "834555a3-b2f2-4de1-8351-e2722e60af7e",
+        "type": "message",
+        "text": "Will there be a recording of the content refresh process? I signed up, but unfortunately have another training that can’t be rebooked at the exact same time.",
+        "user": "U032AAX829K",
+        "ts": "1648054790.364439",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ba787921771",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-09\/3086421497716_8ba787921771e8940bfb_72.jpg",
+            "first_name": "Marilyn",
+            "real_name": "Marilyn Starkenberg",
+            "display_name": "Marilyn Starkenberg",
+            "team": "TJE58GTJL",
+            "name": "marilyn.starkenberg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ab=MK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will there be a recording of the content refresh process? I signed up, but unfortunately have another training that can’t be rebooked at the exact same time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647977119.275299",
+        "parent_user_id": "UJG9WTEKG"
+    },
+    {
+        "client_msg_id": "62e5b23c-ac9e-44bf-ac57-244f72ddd992",
+        "type": "message",
+        "text": "<@U032AAX829K> yes will publish later this week",
+        "user": "UJG9WTEKG",
+        "ts": "1648063315.507539",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o3Gk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U032AAX829K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes will publish later this week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647977119.275299",
+        "parent_user_id": "UJG9WTEKG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U032AAX829K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

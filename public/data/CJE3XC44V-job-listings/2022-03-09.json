@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1646820888.023869",
+        "thread_ts": "1646820888.023869",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1646824341.440679",
+        "reply_users": [
+            "U02F1GK6U6B"
+        ],
+        "replies": [
+            {
+                "user": "U02F1GK6U6B",
+                "ts": "1646824341.440679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "did someone say salary? here's some data that might be helpful. <https:\/\/superpath.co\/blog\/content-marketing-salary-report>",
+        "user": "USLACKBOT",
+        "ts": "1646820890.514069",
+        "attachments": [
+            {
+                "from_url": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/609d9c530fe0402cfde14a9c\/t\/61d76e005dd5ad7b9ebc6932\/1641508361386\/superpath+salary.jpg?format=1500w",
+                "thumb_width": 1052,
+                "thumb_height": 751,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/609d9c530fe0402cfde14a9c\/e34ef9bd-2724-4781-88fd-e8cba90125ef\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "fallback": "Your Content Career Headquarters: How Much Money Do Content Marketer's Make? (2022 Salary Report) — Your Content Career Headquarters",
+                "text": "The average content marketing salary is $93,725. Check out our salary report for more detailed data on job titles, experience and pay discrepancies.",
+                "title": "How Much Money Do Content Marketer's Make? (2022 Salary Report) — Your Content Career Headquarters",
+                "title_link": "https:\/\/superpath.co\/blog\/content-marketing-salary-report",
+                "service_name": "Your Content Career Headquarters"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4293d6dc-5d99-4493-aca7-6d108aeaa5ef",
+        "type": "message",
+        "text": "Hi Tooba,\nThis channel is for job postings from the Superpath job board. You should move this to all things freelance channel",
+        "user": "U02F1GK6U6B",
+        "ts": "1646824341.440679",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b77d6f7d6c82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/3004677185921_b77d6f7d6c82fd929faa_72.jpg",
+            "first_name": "Nneka",
+            "real_name": "Nneka Otika",
+            "display_name": "Nneka Otika",
+            "team": "TJE58GTJL",
+            "name": "nnekaotika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P7Afn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Tooba,\nThis channel is for job postings from the Superpath job board. You should move this to all things freelance channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646820888.023869",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": ":star: _new featured role_ :star:\n---\n*Clari is hiring a Content Marketing Manager (Remote, San Francisco Bay Area, CA)* :rocket: \n\nTo learn more, check out their listing on the job board: <https:\/\/jobs.superpath.co\/job\/253340-content-marketing-manager>",
+        "ts": "1646868181.115429",
+        "username": "Superpath Job Bot",
+        "icons": {
+            "emoji": ":sunglasses:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f60e.png"
+        },
+        "bot_id": "B0199MPQELR",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02K16GPXGX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

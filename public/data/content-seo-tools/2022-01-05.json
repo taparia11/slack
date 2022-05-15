@@ -1,0 +1,501 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1641383656.376800",
+        "thread_ts": "1641383656.376800",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1641402903.379600",
+        "reply_users": [
+            "ULJBEFSJJ",
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1641391944.377000"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1641402903.379600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1641402903.379600"
+    },
+    {
+        "client_msg_id": "7924eb72-8265-451f-b932-516f3fac3d63",
+        "type": "message",
+        "text": "hey, since this is neither a content nor seo tool, it doesn't fit in this thread — additionally I'm guessing that you wrote it or are affiliated with the company so it should be posted in promotion instead!",
+        "user": "ULJBEFSJJ",
+        "ts": "1641391944.377000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "57x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey, since this is neither a content nor seo tool, it doesn't fit in this thread — additionally I'm guessing that you wrote it or are affiliated with the company so it should be posted in promotion instead!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641383656.376800",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "68d5b11e-948b-4ec2-869f-d823ed549110",
+        "type": "message",
+        "text": "<@U02NGRJE9U7> please move this over to <#C012AUSC85C|promotion>",
+        "user": "UJG9WTEKG",
+        "ts": "1641402903.379600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IC\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02NGRJE9U7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please move this over to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641383656.376800",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02NGRJE9U7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35dd9c32-cd4e-45a2-b42a-7a3419136378",
+        "type": "message",
+        "text": "Hey everyone! I started using notion to streamline my content management needs for work. \n\nI’ve been wracking my brain trying to create a cohesive workflow revolving around content processes namely different social media posts (podcasts\/video\/thematic posts), blog posts, email.\n\nWould anyone have a free or paid template to share that I can work with?\n\nThanks :)",
+        "user": "U01ALELFPCZ",
+        "ts": "1641403429.381200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gdb1414767d2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/db1414767d20719230e058f3c1993176.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Andrea",
+            "real_name": "Andrea",
+            "display_name": "Andrea",
+            "team": "TJE58GTJL",
+            "name": "andrea.arrizza89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ALELFPCZ",
+            "ts": "1641403868.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "64Rus",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! I started using notion to streamline my content management needs for work. \n\nI’ve been wracking my brain trying to create a cohesive workflow revolving around content processes namely different social media posts (podcasts\/video\/thematic posts), blog posts, email.\n\nWould anyone have a free or paid template to share that I can work with?\n\nThanks :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641403429.381200",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1641433132.000100",
+        "reply_users": [
+            "U01KH3P18RZ",
+            "U01ALELFPCZ",
+            "U02RPKXLL67",
+            "UJE6FLEFJ"
+        ],
+        "replies": [
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1641404383.381400"
+            },
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1641404403.381700"
+            },
+            {
+                "user": "U01ALELFPCZ",
+                "ts": "1641407658.382000"
+            },
+            {
+                "user": "U02RPKXLL67",
+                "ts": "1641412692.382200"
+            },
+            {
+                "user": "UJE6FLEFJ",
+                "ts": "1641433132.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aef13dea-b21c-4c1d-850a-3b5282177995",
+        "type": "message",
+        "text": "Check out this template from Marie Poulin, it’s a great paid content workflow template for the different content types:\n\n<https:\/\/notionmastery.mariepoulin.com\/products\/content-hub>",
+        "user": "U01KH3P18RZ",
+        "ts": "1641404383.381400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/notionmastery.mariepoulin.com\/products\/content-hub",
+                "image_url": "https:\/\/embed.filekitcdn.com\/e\/WspTUQAXBKcBC8PMpL6uC\/vyfPREgLqu6TKTWLhgWRBe",
+                "image_width": 161,
+                "image_height": 250,
+                "image_bytes": 46955,
+                "service_icon": "https:\/\/pages.convertkit.com\/templates\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/notionmastery.mariepoulin.com\/products\/content-hub",
+                "fallback": "Content Hub",
+                "title": "Content Hub",
+                "title_link": "https:\/\/notionmastery.mariepoulin.com\/products\/content-hub",
+                "service_name": "notionmastery.mariepoulin.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5TD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check out this template from Marie Poulin, it’s a great paid content workflow template for the different content types:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/notionmastery.mariepoulin.com\/products\/content-hub"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641403429.381200",
+        "parent_user_id": "U01ALELFPCZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ALELFPCZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e66b11a8-9a14-4d6c-930c-16c85f68be97",
+        "type": "message",
+        "text": "(Disclaimer: I use this for my writing and content creation. It’s solid)",
+        "user": "U01KH3P18RZ",
+        "ts": "1641404403.381700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5oNQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Disclaimer: I use this for my writing and content creation. It’s solid)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641403429.381200",
+        "parent_user_id": "U01ALELFPCZ"
+    },
+    {
+        "client_msg_id": "1adc569e-dd67-4a4d-9491-0e99dd9ec4a9",
+        "type": "message",
+        "text": "Thanks for the recommendation! I've been doing some research for content templates  and came across Marie, reassuring to know it's a  solid one :slightly_smiling_face:",
+        "user": "U01ALELFPCZ",
+        "ts": "1641407658.382000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gdb1414767d2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/db1414767d20719230e058f3c1993176.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Andrea",
+            "real_name": "Andrea",
+            "display_name": "Andrea",
+            "team": "TJE58GTJL",
+            "name": "andrea.arrizza89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUMuM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the recommendation! I've been doing some research for content templates  and came across Marie, reassuring to know it's a  solid one "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641403429.381200",
+        "parent_user_id": "U01ALELFPCZ"
+    },
+    {
+        "client_msg_id": "1941284f-edb8-4172-ae47-36df2cf98ffd",
+        "type": "message",
+        "text": "I created <https:\/\/www.notioneverything.com\/templates\/content-planning|this template for content creation> that’s available on Notion Everything (for free), but they have lots of other content templates there too",
+        "user": "U02RPKXLL67",
+        "ts": "1641412692.382200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2347ca95f594",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-12-27\/2886600947794_2347ca95f594224b56bd_72.jpg",
+            "first_name": "Hillary",
+            "real_name": "Hillary Black",
+            "display_name": "Hillary Black",
+            "team": "TJE58GTJL",
+            "name": "hillary483",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.notioneverything.com\/templates\/content-planning",
+                "image_url": "https:\/\/global-uploads.webflow.com\/5eea51a7e2d10b853f4385b9\/60e6c3d4d7402965daacd98f_5ffed984f7bdb5b5d8fee66d_content-planning-1-0optim0.png",
+                "image_width": 908,
+                "image_height": 250,
+                "image_bytes": 530050,
+                "id": 1,
+                "original_url": "https:\/\/www.notioneverything.com\/templates\/content-planning",
+                "fallback": "Content Planning | Notion Everything",
+                "text": "This Notion content planning template is a one stop shop to organize your ideas for social media, blog and video content by status, develop your posts and keep all of your references (like hashtags and content pillars) and your assets handy in one easy to use dashboard.",
+                "title": "Content Planning | Notion Everything",
+                "title_link": "https:\/\/www.notioneverything.com\/templates\/content-planning",
+                "service_name": "notioneverything.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4sH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I created "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notioneverything.com\/templates\/content-planning",
+                                "text": "this template for content creation"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that’s available on Notion Everything (for free), but they have lots of other content templates there too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641403429.381200",
+        "parent_user_id": "U01ALELFPCZ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ALELFPCZ",
+                    "U02V46B3JRX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd2b824c-0859-40a3-bc0d-0019fa11f1f9",
+        "type": "message",
+        "text": "I have a full content dashboard with templates for documentng strategy, processes, creation, and repurposing! <https:\/\/www.brittanyberger.com\/shop\/content-remix-planner\/>",
+        "user": "UJE6FLEFJ",
+        "ts": "1641433132.000100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc6ef52e2245",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c6ef52e2245358c2ae0b9a02308b7f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Brittany Berger",
+            "display_name": "Brittany Berger",
+            "team": "TJE58GTJL",
+            "name": "brittany",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.brittanyberger.com\/shop\/content-remix-planner\/",
+                "ts": 1539999664,
+                "thumb_url": "https:\/\/www.brittanyberger.com\/wp-content\/uploads\/2021\/03\/content-remix-planner-quick-flipthrough.gif",
+                "thumb_width": 500,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/www.brittanyberger.com\/wp-content\/uploads\/2020\/04\/logo.png",
+                "id": 1,
+                "original_url": "https:\/\/www.brittanyberger.com\/shop\/content-remix-planner\/",
+                "fallback": "Brittany Berger: Content Remix Planner",
+                "text": "Burnout-proof your content marketing operation with The Content Remix PlannerLet me guess:You’re stuck on the constant content treadmill, running straight towards burnout.You’re trying to turn your content team into a smooth marketing machine.But it feels like you have a thousand different calendars and systems to keep up with, not including your sleep schedule (cause this ish is keeping you awake at night).There’s your blog, your email list, and social media profiles you feel like you should be more active on. Then there are the 2 other platforms you know you should be looking at, and you can’t remember the last time you",
+                "title": "Content Remix Planner",
+                "title_link": "https:\/\/www.brittanyberger.com\/shop\/content-remix-planner\/",
+                "service_name": "Brittany Berger",
+                "fields": [
+                    {
+                        "value": "11 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "voZUd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have a full content dashboard with templates for documentng strategy, processes, creation, and repurposing! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.brittanyberger.com\/shop\/content-remix-planner\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641403429.381200",
+        "parent_user_id": "U01ALELFPCZ"
+    }
+]

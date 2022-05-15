@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "0c2acee3-7620-40f5-8712-35f7c586e195",
+        "type": "message",
+        "text": "I'm in Lakewood <@U01TEA7AGP9>! We should do a Superpath meetup one of these days :smile:",
+        "user": "U01NM31CTFU",
+        "ts": "1630274260.005000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "788aae3c46d1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2122915523844_788aae3c46d19c1058da_72.jpg",
+            "first_name": "Maddy",
+            "real_name": "Maddy Osman",
+            "display_name": "Maddy Osman",
+            "team": "TJE58GTJL",
+            "name": "maddy527",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N0IS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm in Lakewood "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01TEA7AGP9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! We should do a Superpath meetup one of these days "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630104813.002500",
+        "parent_user_id": "U02CJS84J1X"
+    },
+    {
+        "client_msg_id": "701FF052-E3FC-4504-90BC-0399235E5832",
+        "type": "message",
+        "text": "<@U01NM31CTFU> good call! Can’t believe we all live so close!",
+        "user": "U01TEA7AGP9",
+        "ts": "1630274376.005700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bf90e76ebf16",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-18\/2406292166641_bf90e76ebf163bf7e390_72.jpg",
+            "first_name": "cheri",
+            "real_name": "cheri magnuson",
+            "display_name": "cheri magnuson",
+            "team": "TJE58GTJL",
+            "name": "cherimagnuson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vsPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01NM31CTFU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good call! Can’t believe we all live so close!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630104813.002500",
+        "parent_user_id": "U02CJS84J1X",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02CJS84J1X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

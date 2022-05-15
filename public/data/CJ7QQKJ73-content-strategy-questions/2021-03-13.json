@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "feec7fb4-887e-4979-a91c-84ddb7fc541f",
+        "type": "message",
+        "text": "<@U012R27LRJ8> emailed you!",
+        "user": "U0188DZQPB8",
+        "ts": "1615665028.043000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a212eadb87bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-11\/1295590126722_a212eadb87bcaf2d6d8d_72.png",
+            "first_name": "Melissa",
+            "real_name": "Melissa Yap",
+            "display_name": "Mel",
+            "team": "TJE58GTJL",
+            "name": "mellie.yap",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dO8k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012R27LRJ8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " emailed you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615486285.013900",
+        "parent_user_id": "U012R27LRJ8"
+    }
+]

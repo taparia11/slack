@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1587767585.138000",
+        "user": "UJG9WTEKG",
+        "text": "set the channel topic: Community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>",
+        "topic": "Community guidelines: <https:\/\/docs.google.com\/document\/d\/15GMUom_zSQZboJE149U9hH6AJeHGQVPMAGibI4DLKeM\/edit>"
+    },
+    {
+        "client_msg_id": "21486eb4-cd0b-4c95-a20c-c8eb7110cd4f",
+        "type": "message",
+        "text": "a number of people have requested a place to promote their own work. i just created <#C012AUSC85C|promotion> for that purpose. let’s keep self-promotion there. also, check the community guides above this message :point_up_2:",
+        "user": "UJG9WTEKG",
+        "ts": "1587767667.139000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "77PyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a number of people have requested a place to promote their own work. i just created "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for that purpose. let’s keep self-promotion there. also, check the community guides above this message "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUVC0LK2Q",
+                    "UJS7GK1TP",
+                    "UUJBX62G3",
+                    "UJFELMVU1",
+                    "U0105JEFJ1F",
+                    "UJHT5CHUY",
+                    "UMX8MPHA6",
+                    "UUVRC8PS4",
+                    "UJG24P8P6",
+                    "UR3A94N4R"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

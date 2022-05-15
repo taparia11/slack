@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "23bf7a2c-ab99-4d0c-8c08-ad4093a6a716",
+        "type": "message",
+        "text": "<!everyone> ama with airtable (<@U01SFN80R26> and <@U01UCANCKPW>) starting over in <#C014P2BJLER|general>!",
+        "user": "UJG9WTEKG",
+        "ts": "1618419622.162500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ama with airtable ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SFN80R26"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01UCANCKPW"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") starting over in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C014P2BJLER"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01CSFHKLQP",
+                    "U014ZK7Q1TP",
+                    "U01SS08T006",
+                    "UL9V1R1D2",
+                    "U01MKHM96BZ",
+                    "U01J84U3SQ6"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

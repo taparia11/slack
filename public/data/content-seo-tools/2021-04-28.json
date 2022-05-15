@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "e50d7dca-d996-40b5-a501-4569ada8bb8b",
+        "type": "message",
+        "text": "<@U01PQFQBGHJ> <@U01M22BGTRA> <@U011QQDDSJV> Our team just used this on behalf of a client yesterday, and it helped us uncover an awesome idea. So excited about this addition!",
+        "user": "U01R7R9RKKQ",
+        "ts": "1619637809.085800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "221bc02221e8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2059174073442_221bc02221e8e8a6d833_72.jpg",
+            "first_name": "",
+            "real_name": "Brianna Arnold",
+            "display_name": "Brianna Arnold",
+            "team": "TJE58GTJL",
+            "name": "barnold",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1pAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01PQFQBGHJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01M22BGTRA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U011QQDDSJV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Our team just used this on behalf of a client yesterday, and it helped us uncover an awesome idea. So excited about this addition!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619556875.082900",
+        "parent_user_id": "U011QQDDSJV",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01M22BGTRA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U01M22BGTRA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c369d9b-ad73-4d4a-8c65-ca44b764522a",
+        "type": "message",
+        "text": "Woooo! Glad to hear it :microscope:\n\nWas there a specific section of the research tab helped? Or just the entire presentation of it? Any parts about the feature that you think we can improve?!",
+        "user": "U01PQFQBGHJ",
+        "ts": "1619637927.086000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c69bcfddf9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-26\/1800445940594_5c69bcfddf9f8cc23bf5_72.jpg",
+            "first_name": "Bernard",
+            "real_name": "Bernard Huang",
+            "display_name": "Bernard Huang",
+            "team": "TJE58GTJL",
+            "name": "bernard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MUI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woooo! Glad to hear it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "microscope"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWas there a specific section of the research tab helped? Or just the entire presentation of it? Any parts about the feature that you think we can improve?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619556875.082900",
+        "parent_user_id": "U011QQDDSJV"
+    }
+]

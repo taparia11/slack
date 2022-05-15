@@ -1,0 +1,673 @@
+[
+    {
+        "client_msg_id": "ed68f9d7-366d-4a76-97a7-7dde4cf5eac1",
+        "type": "message",
+        "text": "thank you!!!",
+        "user": "UUKNSLX9P",
+        "ts": "1608052298.125400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge4d7f5bd91d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4d7f5bd91da1df74fcdb33d42f21121.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Eilis",
+            "real_name": "Eilis McCann",
+            "display_name": "Eilis McCann",
+            "team": "TJE58GTJL",
+            "name": "e.mccann",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xpp7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607696604.089400",
+        "parent_user_id": "UUKNSLX9P"
+    },
+    {
+        "client_msg_id": "a75226d1-da8a-4503-965f-8142f7a01a5c",
+        "type": "message",
+        "text": "Wondering if folks can talk through their team's editing process (not just on content, but other marketing assets would be helpful too)? Right now our VP of marketing is doing a lot of editing as we currently have one person (me) doing content, one on product marketing, one customer marketing, one demand gen and so all are reporting up to the VP, but it's creating a bottleneck. Anyone have a good peer editing process that works for them?",
+        "user": "U01ANAZTZTK",
+        "ts": "1608055555.127200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ef5727669c45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1349771386962_ef5727669c45c9f60612_72.jpg",
+            "first_name": "Theresa",
+            "real_name": "Theresa Hebert",
+            "display_name": "Theresa Hebert",
+            "team": "TJE58GTJL",
+            "name": "theresa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ANAZTZTK",
+            "ts": "1608060200.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RfwZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wondering if folks can talk through their team's editing process (not just on content, but other marketing assets would be helpful too)? Right now our VP of marketing is doing a lot of editing as we currently have one person (me) doing content, one on product marketing, one customer marketing, one demand gen and so all are reporting up to the VP, but it's creating a bottleneck. Anyone have a good peer editing process that works for them?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "reply_count": 10,
+        "reply_users_count": 9,
+        "latest_reply": "1609347012.301400",
+        "reply_users": [
+            "UJ7RT1J1X",
+            "U01EJ7VE9FD",
+            "U016VHZ0ZD5",
+            "U01ANAZTZTK",
+            "URAV154AV",
+            "UJE5LQ2JC",
+            "U01FUP6AMEZ",
+            "URB31QKM4",
+            "UMQASRN1W"
+        ],
+        "replies": [
+            {
+                "user": "UJ7RT1J1X",
+                "ts": "1608055793.127400"
+            },
+            {
+                "user": "U01EJ7VE9FD",
+                "ts": "1608056649.127900"
+            },
+            {
+                "user": "U016VHZ0ZD5",
+                "ts": "1608058071.133700"
+            },
+            {
+                "user": "U01ANAZTZTK",
+                "ts": "1608058152.134000"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1608059689.134200"
+            },
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1608060000.134600"
+            },
+            {
+                "user": "U01FUP6AMEZ",
+                "ts": "1608086076.145600"
+            },
+            {
+                "user": "U01FUP6AMEZ",
+                "ts": "1608086144.145800"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1608129229.146900"
+            },
+            {
+                "user": "UMQASRN1W",
+                "ts": "1609347012.301400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "URB31QKM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b68e15ad-3f9f-41ea-a2ee-0648f6ba1125",
+        "type": "message",
+        "text": "Honestly, I haven't seen peer editing work super well (and this is also the feedback I've gotten from other content leads). Sometimes it catches things like grammar mistakes, but it rarely catches structural problems or challenges with bigger ideas.\n\nI did find that peer edits helped a little with bottlenecking, as long as there were clear timelines and feedback was encouraged. I as the editor had to go back and ask peer editors to review my further edits, which helped with some accountability (because they felt they were on the hook).\n\nIn terms of process, we added a \"peer edit\" stage in Airtable. I would assign the peer editor in advance (at the same time as I assigned the writer). When the writer finished a draft, they would change the stage in Airtable, which triggered a Zap to send an email to the peer editor (including the link to the post and the deadline for edits).",
+        "user": "UJ7RT1J1X",
+        "ts": "1608055793.127400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3344738d2bc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-17\/1076357263828_3344738d2bc26736e62e_72.jpg",
+            "first_name": "Benyamin",
+            "real_name": "Benyamin Elias",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "benyamin.elias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQJfa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Honestly, I haven't seen peer editing work super well (and this is also the feedback I've gotten from other content leads). Sometimes it catches things like grammar mistakes, but it rarely catches structural problems or challenges with bigger ideas.\n\nI did find that peer edits helped a little with bottlenecking, as long as there were clear timelines and feedback was encouraged. I as the editor had to go back and ask peer editors to review my further edits, which helped with some accountability (because they felt they were on the hook).\n\nIn terms of process, we added a \"peer edit\" stage in Airtable. I would assign the peer editor in advance (at the same time as I assigned the writer). When the writer finished a draft, they would change the stage in Airtable, which triggered a Zap to send an email to the peer editor (including the link to the post and the deadline for edits)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "parent_user_id": "U01ANAZTZTK"
+    },
+    {
+        "client_msg_id": "3a422c7f-e05d-4fcd-a58b-51d2e63dd30c",
+        "type": "message",
+        "text": "<@UUJBMNRNF> Thanks I'll definitely check it out!",
+        "user": "UUVS5HWMB",
+        "ts": "1608056197.127600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd1f8257b491",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d1f8257b49114fa53c151fc16077a601.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Anthony Sills",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "anthony760",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TcLhI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUJBMNRNF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks I'll definitely check it out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607958253.122600",
+        "parent_user_id": "UUVS5HWMB",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70f842b9-72a9-4932-bc22-e4b9cd1fd6df",
+        "type": "message",
+        "text": "oh i need to follow this topic. i'm in a similar position to your VP.\n\nour writers mainly do their own editing &amp; proofreading and we provide grammarly. we tried hiring an editor but like <@UJ7RT1J1X> said they just caught minor issues, and wasn't really worth it. so now I just hire writers who are good at self-editing.\n\nfor important pieces or topics that are more vague or i know need more guidance, i add more steps like approving the outline first, doing a final check before it goes live. but for more formulaic pieces, i don't approve everything before it goes live. there's just no time.\n\none thing that helped me was a section on delegation in the book on High Output Management by Andrew Grove where he talks about doing spot-checks like on an assembly line.",
+        "user": "U01EJ7VE9FD",
+        "ts": "1608056649.127900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "df637672d758",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-11\/1487436721750_df637672d7582de2f180_72.jpg",
+            "first_name": "Keri",
+            "real_name": "Keri Lynn Engel",
+            "display_name": "Keri Lynn Engel",
+            "team": "TJE58GTJL",
+            "name": "keri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh i need to follow this topic. i'm in a similar position to your VP.\n\nour writers mainly do their own editing & proofreading and we provide grammarly. we tried hiring an editor but like "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ7RT1J1X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " said they just caught minor issues, and wasn't really worth it. so now I just hire writers who are good at self-editing.\n\nfor important pieces or topics that are more vague or i know need more guidance, i add more steps like approving the outline first, doing a final check before it goes live. but for more formulaic pieces, i don't approve everything before it goes live. there's just no time.\n\none thing that helped me was a section on delegation in the book on High Output Management by Andrew Grove where he talks about doing spot-checks like on an assembly line."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "parent_user_id": "U01ANAZTZTK"
+    },
+    {
+        "client_msg_id": "F36AAFF2-6994-474F-9F3D-C7807E31091A",
+        "type": "message",
+        "text": "Once when I was at a B2B startup, we had a similar problem, and I transitioned into a full-time editing role—but I joined an editing org and got certified, and I already had a few years of learning the company voice. I was in that role for 4 years and it helped the process so much that when I left, they backfilled my role. \n\nIf there’s no room to hire a really good, professionally trained editor, then I would work with the VP directly on how to solve the bottleneck issue. It’s most likely that they don’t have the time or the confidence, and this is a good time to explore options like hiring an editor, using a freelance editor they trust, or doing a peer review as mentioned. But no matter what you do, your VP has to acknowledge they have to let go of how they edit. ",
+        "user": "U016VHZ0ZD5",
+        "ts": "1608058071.133700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c3a4d3793f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-06\/1292262618052_c3a4d3793f345f065330_72.jpg",
+            "first_name": "Samantha",
+            "real_name": "Samantha Finken",
+            "display_name": "Samantha Finken",
+            "team": "TJE58GTJL",
+            "name": "samantha.finken",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U016VHZ0ZD5",
+            "ts": "1608058093.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WoKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Once when I was at a B2B startup, we had a similar problem, and I transitioned into a full-time editing role—but I joined an editing org and got certified, and I already had a few years of learning the company voice. I was in that role for 4 years and it helped the process so much that when I left, they backfilled my role. \n\nIf there’s no room to hire a really good, professionally trained editor, then I would work with the VP directly on how to solve the bottleneck issue. It’s most likely that they don’t have the time or the confidence, and this is a good time to explore options like hiring an editor, using a freelance editor they trust, or doing a peer review as mentioned. But no matter what you do, your VP has to acknowledge they have to let go of how they edit. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "parent_user_id": "U01ANAZTZTK"
+    },
+    {
+        "client_msg_id": "9da67327-bbf0-4382-aaaf-5e97409124b7",
+        "type": "message",
+        "text": "Yes, our VP is definitely on board and is leading the charge to come up with a peer review system! Thanks for all the tips everyone!",
+        "user": "U01ANAZTZTK",
+        "ts": "1608058152.134000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ef5727669c45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1349771386962_ef5727669c45c9f60612_72.jpg",
+            "first_name": "Theresa",
+            "real_name": "Theresa Hebert",
+            "display_name": "Theresa Hebert",
+            "team": "TJE58GTJL",
+            "name": "theresa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, our VP is definitely on board and is leading the charge to come up with a peer review system! Thanks for all the tips everyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "parent_user_id": "U01ANAZTZTK"
+    },
+    {
+        "client_msg_id": "c9149a41-a5ab-4bad-bde9-bcf2f442d010",
+        "type": "message",
+        "text": "It sounds like you’re on the right track - I would summarize and perhaps oversimplify into 2 steps for your VP specifically:\n1. Give the team tools and create processes to get things as good as they can be before they’re published. Part of that might be identifying themes or patterns in your team’s work that often need the most editing, and solving for those things. An outsourced editor won’t necessarily be able to help you nail your message home as sharply as your VP might want, for example. \n2. Establish a safe-to-fail culture where mistakes are not the end of the world. Psychological safety is huge and I find that people actually make more mistakes when they are afraid to fail.",
+        "user": "URAV154AV",
+        "ts": "1608059689.134200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vteU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It sounds like you’re on the right track - I would summarize and perhaps oversimplify into 2 steps for your VP specifically:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Give the team tools and create processes to get things as good as they can be before they’re published. Part of that might be identifying themes or patterns in your team’s work that often need the most editing, and solving for those things. An outsourced editor won’t necessarily be able to help you nail your message home as sharply as your VP might want, for example. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Establish a safe-to-fail culture where mistakes are not the end of the world. Psychological safety is huge and I find that people actually make more mistakes when they are afraid to fail."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "parent_user_id": "U01ANAZTZTK",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01EJ7VE9FD",
+                    "UJE5LQ2JC",
+                    "U016VHZ0ZD5",
+                    "U01ANAZTZTK",
+                    "U01EBT43ERH",
+                    "U012YJ35BML",
+                    "U01AU94TABA",
+                    "URB31QKM4"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9588d83-9261-4bd9-bb44-bc852faa14f5",
+        "type": "message",
+        "text": "Love this thread.",
+        "user": "UJE5LQ2JC",
+        "ts": "1608060000.134600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iTYLW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love this thread."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "parent_user_id": "U01ANAZTZTK",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U019TPL0TL3",
+                    "U012YJ35BML",
+                    "U016LHA1BHP",
+                    "U019P0ADPCH",
+                    "U0166H7KUAZ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c087a78-c70a-476a-94c2-23433cc4ec4a",
+        "type": "message",
+        "text": "Hello, friends! In 2021, I am going to be leading content strategy for my company’s <https:\/\/www.ellevest.com\/learning|“Learn” product pillar> (which exists alongside the investing, banking, and money\/career coaching pillars).\n\nRight now, we think of Learn content as pretty much anything behind our membership paywall, most of it high-effort — 45- or 60-minute webinars and full-fledged email courses. In 2021 I’d also like to explore things like video and downloadable resources\/worksheets. I’d also like to think about whether\/how we want to selectively open some of it to non-members (the public) and use it as a lead gen\/acquisition tool.\n\nIn January, we’ll be working to clarify company and team KPIs. *Which leads me to my question*: Who here has some great resources on creating a KPI-driven educational content strategy? It’s a little different from what we might typically think of as content strategy since it’s not about traffic\/SEO\/selling our product. It’s about engagement and creating value within our actual product offering.",
+        "user": "UVCDN5SQZ",
+        "ts": "1608076273.142500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "46f501e256d6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3053376698566_46f501e256d6e8bdab86_72.png",
+            "first_name": "Deedi",
+            "real_name": "Deedi Brown",
+            "display_name": "Deedi",
+            "team": "TJE58GTJL",
+            "name": "dcboland1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UVCDN5SQZ",
+            "ts": "1608076276.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IbAdv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, friends! In 2021, I am going to be leading content strategy for my company’s "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ellevest.com\/learning",
+                                "text": "“Learn” product pillar"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (which exists alongside the investing, banking, and money\/career coaching pillars).\n\nRight now, we think of Learn content as pretty much anything behind our membership paywall, most of it high-effort — 45- or 60-minute webinars and full-fledged email courses. In 2021 I’d also like to explore things like video and downloadable resources\/worksheets. I’d also like to think about whether\/how we want to selectively open some of it to non-members (the public) and use it as a lead gen\/acquisition tool.\n\nIn January, we’ll be working to clarify company and team KPIs. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Which leads me to my question",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Who here has some great resources on creating a KPI-driven educational content strategy? It’s a little different from what we might typically think of as content strategy since it’s not about traffic\/SEO\/selling our product. It’s about engagement and creating value within our actual product offering."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608076273.142500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1608126541.146300",
+        "reply_users": [
+            "U01881ZL1B6",
+            "U01AHL8AGBB"
+        ],
+        "replies": [
+            {
+                "user": "U01881ZL1B6",
+                "ts": "1608125234.146100"
+            },
+            {
+                "user": "U01AHL8AGBB",
+                "ts": "1608126541.146300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d507a12f-9d18-4476-84d0-f08ad956ccde",
+        "type": "message",
+        "text": "I have built a QA system based on the one I learned at Adwerx, where I have a Zap fire into a Slack channel whenever anyone tags an Asana task with \"QA\". Everyone on my team has been trained to QA assets like blogs and emails for last minute errors, slow loading images, etc. They put the eyes emoji on it to claim the task in Slack, thread their feedback, and check it when it's ready to ship. I think making the process horizontal and claim-able for anyone, vs just owned by one person, frees the process up to move faster. Plus: More perspectives, less mistakes!",
+        "user": "U01FUP6AMEZ",
+        "ts": "1608086076.145600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "128762c3ea3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-01\/1527137254583_128762c3ea3f3d65d19b_72.jpg",
+            "first_name": "Joanna",
+            "real_name": "Joanna Rutter",
+            "display_name": "Joanna Rutter",
+            "team": "TJE58GTJL",
+            "name": "rutterjoanna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0QQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have built a QA system based on the one I learned at Adwerx, where I have a Zap fire into a Slack channel whenever anyone tags an Asana task with \"QA\". Everyone on my team has been trained to QA assets like blogs and emails for last minute errors, slow loading images, etc. They put the eyes emoji on it to claim the task in Slack, thread their feedback, and check it when it's ready to ship. I think making the process horizontal and claim-able for anyone, vs just owned by one person, frees the process up to move faster. Plus: More perspectives, less mistakes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "parent_user_id": "U01ANAZTZTK"
+    },
+    {
+        "client_msg_id": "2bbfc694-3a8d-4007-ad59-12c600a4a440",
+        "type": "message",
+        "text": "This is less for traditional deeper editing and more for \"does this look okay before I publish?\" -- basically makes anyone the publishing approve-er and removes the bottleneck.",
+        "user": "U01FUP6AMEZ",
+        "ts": "1608086144.145800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "128762c3ea3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-01\/1527137254583_128762c3ea3f3d65d19b_72.jpg",
+            "first_name": "Joanna",
+            "real_name": "Joanna Rutter",
+            "display_name": "Joanna Rutter",
+            "team": "TJE58GTJL",
+            "name": "rutterjoanna",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YhN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is less for traditional deeper editing and more for \"does this look okay before I publish?\" -- basically makes anyone the publishing approve-er and removes the bottleneck."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608055555.127200",
+        "parent_user_id": "U01ANAZTZTK"
+    }
+]

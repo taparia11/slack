@@ -1,0 +1,251 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1614961712.060000",
+        "thread_ts": "1614961712.060000",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1614969845.065900",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1614969812.065600"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1614969845.065900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1614969845.065900",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U017XD7H4P7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e5751b2-cb79-4aa3-816b-2be8a45b9257",
+        "type": "message",
+        "text": "Hi Gang!\n\nI’m wondering if anyone here has experience in creating content for a fintech to raise brand awareness and worked with PR folks to help construct brand identity.\n\nI have a very exciting project, a fintech expanding to UK and probably to a few Eastern European Countries in a few months. If you have potential up to 30 hours per month, shoot me a DM :partyparrot:",
+        "user": "U01KT0GGM0S",
+        "ts": "1614964450.064500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "217e6f803494",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1675559919699_217e6f80349417eca8b8_72.jpg",
+            "first_name": "Begum",
+            "real_name": "Begum Kaya",
+            "display_name": "Begum",
+            "team": "TJE58GTJL",
+            "name": "begumkaya94",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkP7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gang!\n\nI’m wondering if anyone here has experience in creating content for a fintech to raise brand awareness and worked with PR folks to help construct brand identity.\n\nI have a very exciting project, a fintech expanding to UK and probably to a few Eastern European Countries in a few months. If you have potential up to 30 hours per month, shoot me a DM "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partyparrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614964450.064500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1615574553.103900",
+        "reply_users": [
+            "U0188DZQPB8"
+        ],
+        "replies": [
+            {
+                "user": "U0188DZQPB8",
+                "ts": "1615574553.103900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U01MW6DPU72",
+                    "U0188DZQPB8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1634b501-5983-444e-a831-6ec455e61846",
+        "type": "message",
+        "text": "<@U01EBT43ERH> i think this post belongs in <#C012AUSC85C|promotion>",
+        "user": "UJG9WTEKG",
+        "ts": "1614969812.065600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRmZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EBT43ERH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i think this post belongs in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614961712.060000",
+        "parent_user_id": "U01EBT43ERH",
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U01EBT43ERH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b399dfca-1cee-4373-939f-1cf3fe17025b",
+        "type": "message",
+        "text": "i'm going to remove from here but feel free to repost there",
+        "user": "UJG9WTEKG",
+        "ts": "1614969845.065900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7Trc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm going to remove from here but feel free to repost there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614961712.060000",
+        "parent_user_id": "U01EBT43ERH"
+    },
+    {
+        "client_msg_id": "79DD5822-B189-4159-9EF5-107C4F00CACC",
+        "type": "message",
+        "text": "Just came across this post and wanted to say I found it helpful, thanks <@U017WRJTKF1> !",
+        "user": "U01P9AQNE77",
+        "ts": "1614998529.067600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8f93d98424b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-26\/3436219747478_8f93d98424b1c96cdebf_72.jpg",
+            "first_name": "Elise",
+            "real_name": "Elise Asanias",
+            "display_name": "Elise Asanias",
+            "team": "TJE58GTJL",
+            "name": "elise.asanias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just came across this post and wanted to say I found it helpful, thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611158445.031200",
+        "parent_user_id": "U017WRJTKF1"
+    }
+]

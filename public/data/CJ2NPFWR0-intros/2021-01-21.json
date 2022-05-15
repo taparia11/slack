@@ -1,0 +1,815 @@
+[
+    {
+        "client_msg_id": "3a4cb5a5-e626-4ceb-9482-c5365b94c54a",
+        "type": "message",
+        "text": "Hey <@U01H8674H8R> welcome :)",
+        "user": "U01B8FNUWRK",
+        "ts": "1611216432.003100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a3ab825f6110",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-24\/1386090918259_a3ab825f611075cc2d61_72.jpg",
+            "first_name": "Shadrack",
+            "real_name": "Shadrack",
+            "display_name": "Shadrack",
+            "team": "TJE58GTJL",
+            "name": "shadrack552",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EVihP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01H8674H8R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " welcome :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611177416.128500",
+        "parent_user_id": "U01H8674H8R"
+    },
+    {
+        "client_msg_id": "b5bdef95-4871-4ffe-8e20-ab025d914fc6",
+        "type": "message",
+        "text": "Hey <@U01JRKC55MW> - just spotted you'd joined! :grin:",
+        "user": "U01G79EAZ43",
+        "ts": "1611225106.003400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g462385f7aa6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/462385f7aa69182538a137ee2c83add5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Nelson Jordan",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "nelson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFGDs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JRKC55MW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - just spotted you'd joined! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609925081.286500",
+        "parent_user_id": "U01JRKC55MW",
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U01JRKC55MW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EF534227-BDD0-41BA-94F0-F75B4C772C27",
+        "type": "message",
+        "text": "Omg i :heart_eyes: this! Was thinking to add something like this to our slack ",
+        "user": "U01JRKC55MW",
+        "ts": "1611225304.004300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "872e7d82d022",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-06\/1608467054070_872e7d82d0229fd587c2_72.png",
+            "first_name": "Rapha",
+            "real_name": "Rapha Allstadt",
+            "display_name": "Raphael Allstadt",
+            "team": "TJE58GTJL",
+            "name": "raphael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LELYT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omg i "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this! Was thinking to add something like this to our slack "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610107645.316200",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "a4725f5c-28c5-4e42-972b-d098aeb4acc3",
+        "type": "message",
+        "text": "Hello folks,\n\nI am Ganesh.\n\nI work for <https:\/\/www.freshworks.com\/|Freshworks> - a SaaS company as a content specialist.\n\nI manage content marketing &amp; demand gen for <https:\/\/www.freshworks.com\/freshcaller-cloud-pbx\/|Freshcaller>, a cloud telephony product of Freshworks.\n\nHappy to be part of this group. Looking forward to learning and sharing my knowledge with you all. :slightly_smiling_face:",
+        "user": "U01KEK5RKPB",
+        "ts": "1611226050.005200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b3db3ec0cd3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-21\/1665919340500_b3db3ec0cd3c1f0da27a_72.jpg",
+            "first_name": "Ganesh",
+            "real_name": "Ganesh Narayan",
+            "display_name": "Ganesh Narayan",
+            "team": "TJE58GTJL",
+            "name": "ganeshnarayan2505",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "A fresh approach to customer engagement",
+                "title_link": "https:\/\/www.freshworks.com\/",
+                "text": "Feature packed product suite for businesses of all sizes. Refreshing cloud software your teams will love. Support | Sales | ITSM | Cloud PBX",
+                "fallback": "A fresh approach to customer engagement",
+                "image_url": "https:\/\/website-assets-fw.freshworks.com\/attachments\/cjwkf54sf005pn9g0vf6vj4mq-og-image-b.full.jpg",
+                "from_url": "https:\/\/www.freshworks.com\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 80364,
+                "service_icon": "https:\/\/www.freshworks.com\/static-assets\/images\/favicon\/fworks.png",
+                "service_name": "freshworks.com",
+                "id": 1,
+                "original_url": "https:\/\/www.freshworks.com\/"
+            },
+            {
+                "title": "Phone System &amp; Call Center Software | Freshcaller",
+                "title_link": "https:\/\/www.freshworks.com\/freshcaller-cloud-pbx\/",
+                "text": "Freshcaller is a cloud-based phone system and call center software suited for on-premise and remote work. Set up IVR, inbound routing, voicemails, and buy virtual phone numbers in 90+ countries.",
+                "fallback": "Phone System &amp; Call Center Software | Freshcaller",
+                "image_url": "https:\/\/website-assets-fw.freshworks.com\/attachments\/cjxyfpeah0ax5lkg0y2ficnur-artboard-6-copy-2-4x.full.png",
+                "from_url": "https:\/\/www.freshworks.com\/freshcaller-cloud-pbx\/",
+                "image_width": 349,
+                "image_height": 250,
+                "image_bytes": 298654,
+                "service_icon": "https:\/\/www.freshworks.com\/static-assets\/images\/favicon\/fworks.png",
+                "service_name": "freshworks.com",
+                "id": 2,
+                "original_url": "https:\/\/www.freshworks.com\/freshcaller-cloud-pbx\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=n6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello folks,\n\nI am Ganesh.\n\nI work for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.freshworks.com\/",
+                                "text": "Freshworks"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - a SaaS company as a content specialist.\n\nI manage content marketing & demand gen for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.freshworks.com\/freshcaller-cloud-pbx\/",
+                                "text": "Freshcaller"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", a cloud telephony product of Freshworks.\n\nHappy to be part of this group. Looking forward to learning and sharing my knowledge with you all. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611226050.005200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1611247735.014600",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1611247735.014600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1611247735.014600",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01GC0BGTNX",
+                    "U012UL77GUT",
+                    "U01J3FQA3ML",
+                    "U012R27LRJ8",
+                    "U01KEK5L39P",
+                    "UL4QTGBGT",
+                    "U01704F04QH"
+                ],
+                "count": 7
+            },
+            {
+                "name": "wave::skin-tone-4",
+                "users": [
+                    "U01EBT43ERH",
+                    "U01BENRM555",
+                    "U012R27LRJ8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a24721e-11d9-413a-91f0-3134ba9936e0",
+        "type": "message",
+        "text": "Hey folks. Glad to be here as most public Slack groups I'm in aren't exactly good :sweat_smile: Someone recommended this place in the B2B bloggers boost Facebook group. I love Animalzs' content and recently found out about Superpath, so excited to dig deeper here.\nAnyway, I mainly do content marketing\/writing at <http:\/\/sugatan.io|sugatan.io> (eCommerce-marketing content) and working freelance for a B2B SaaS client right now doing SEO writing.\nInterested in all things: copywriting, evergreen + authority-driven content, outreach, email marketing, and lots of other stuff. Looking forward to seeing some familiar faces and names here as I'm in quite a lot of other marketing-related Facebook groups too :smile:",
+        "user": "U01KVQWUZQ8",
+        "ts": "1611228763.008400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gbc97c73d122",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc97c73d1224114aad02960834afb6ea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Irakli",
+            "real_name": "Irakli Zviadadze",
+            "display_name": "Irakli",
+            "team": "TJE58GTJL",
+            "name": "irakli.zv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01KVQWUZQ8",
+            "ts": "1611228872.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ma0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks. Glad to be here as most public Slack groups I'm in aren't exactly good "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Someone recommended this place in the B2B bloggers boost Facebook group. I love Animalzs' content and recently found out about Superpath, so excited to dig deeper here.\nAnyway, I mainly do content marketing\/writing at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sugatan.io",
+                                "text": "sugatan.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (eCommerce-marketing content) and working freelance for a B2B SaaS client right now doing SEO writing.\nInterested in all things: copywriting, evergreen + authority-driven content, outreach, email marketing, and lots of other stuff. Looking forward to seeing some familiar faces and names here as I'm in quite a lot of other marketing-related Facebook groups too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611228763.008400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1611247712.014400",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1611247712.014400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1611247712.014400",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01GC0BGTNX",
+                    "U012UL77GUT",
+                    "U01J3FQA3ML",
+                    "U01DEA6F7CH",
+                    "UJG9WTEKG",
+                    "U012R27LRJ8",
+                    "UL4QTGBGT",
+                    "U01FUP6AMEZ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "wave::skin-tone-4",
+                "users": [
+                    "U01EBT43ERH",
+                    "U01BENRM555",
+                    "U012R27LRJ8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "badcb91d-1365-467a-aed8-83b771b78579",
+        "type": "message",
+        "text": "Hey, Folks, glad to join this wonderful group, I came from a Facebook group - B2B bloggers boost. Good to see so many smart and right people in one place.\n\nI'm a Media Relations Coordinator at <http:\/\/TechTimes.com|TechTimes.com> and content-strategist of <http:\/\/Marketbusinessnews.com|Marketbusinessnews.com> (and so many other sites), I would be glad to help or advise any of you. :slightly_smiling_face:",
+        "user": "U01JR6SATRD",
+        "ts": "1611231667.009300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d3d5354e195d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-21\/1660033326962_d3d5354e195dfdfeb80a_72.jpg",
+            "first_name": "",
+            "real_name": "Roy Emmerson",
+            "display_name": "Roy Emmerson",
+            "team": "TJE58GTJL",
+            "name": "roy.emmerson.ca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iPQt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, Folks, glad to join this wonderful group, I came from a Facebook group - B2B bloggers boost. Good to see so many smart and right people in one place.\n\nI'm a Media Relations Coordinator at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/TechTimes.com",
+                                "text": "TechTimes.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and content-strategist of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Marketbusinessnews.com",
+                                "text": "Marketbusinessnews.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (and so many other sites), I would be glad to help or advise any of you. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611231667.009300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1611247696.014100",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1611247696.014100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1611247696.014100",
+        "reactions": [
+            {
+                "name": "wave::skin-tone-4",
+                "users": [
+                    "U01EBT43ERH",
+                    "U01GC0BGTNX",
+                    "U01BENRM555",
+                    "U012UL77GUT",
+                    "U01J3FQA3ML",
+                    "U01G5ED8K0V"
+                ],
+                "count": 6
+            },
+            {
+                "name": "wave",
+                "users": [
+                    "UL4QTGBGT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11b309bb-beba-4a2f-ae2b-50d698589aa8",
+        "type": "message",
+        "text": "I got into computers only because I typed faster. But then I fell in love with it. I was so much in love, that I preferred talking to screens than hearts and minds. Of late, I peeled myself from that comfortable cushion to talk to flesh and blood. And I’m enjoying it. I’m here to share my stories, hear your stories, and be part of your journey in any way possible. (Life played a trick called covid and now I’m talking to people via machines)\nIn my day job, I’m a CTO. I design software for startups and small businesses. DM me if you want to validate design for your startup ideas.\nWhy am I here: Last year, I launched a course, <https:\/\/gravitaswins.com> . I am here to understand how I can market it (via content).\nI blog at <https:\/\/jjude.com>; I am active at <https:\/\/linkedin.com\/in\/jjude> &amp; <https:\/\/twitter.com\/jjude>. Connect with me on those platforms.",
+        "user": "U01K7L8DDUM",
+        "ts": "1611240219.013200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5c871f03528f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-21\/1671592927441_5c871f03528f440d9c2d_72.png",
+            "first_name": "",
+            "real_name": "Joseph",
+            "display_name": "Joseph",
+            "team": "TJE58GTJL",
+            "name": "slack1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Joseph Jude",
+                "title_link": "https:\/\/jjude.com\/",
+                "text": "Build gravitas to win life and career",
+                "fallback": "Joseph Jude",
+                "thumb_url": "https:\/\/cdn.olai.in\/jjude\/jjude.jpg",
+                "from_url": "https:\/\/jjude.com\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_name": "jjude.com",
+                "id": 1,
+                "original_url": "https:\/\/jjude.com"
+            },
+            {
+                "title": "Joseph Jude (@jjude) | Twitter",
+                "title_link": "https:\/\/twitter.com\/jjude",
+                "text": "The latest Tweets from Joseph Jude (@jjude). I help you build competence and confidence. Subscribe now to stand out from the crowd: <https:\/\/t.co\/d3pwPoW0JE>. India",
+                "fallback": "Joseph Jude (@jjude) | Twitter",
+                "from_url": "https:\/\/twitter.com\/jjude",
+                "service_icon": "https:\/\/abs.twimg.com\/icons\/apple-touch-icon-192x192.png",
+                "service_name": "twitter.com",
+                "id": 2,
+                "original_url": "https:\/\/twitter.com\/jjude"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SX6Hr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got into computers only because I typed faster. But then I fell in love with it. I was so much in love, that I preferred talking to screens than hearts and minds. Of late, I peeled myself from that comfortable cushion to talk to flesh and blood. And I’m enjoying it. I’m here to share my stories, hear your stories, and be part of your journey in any way possible. (Life played a trick called covid and now I’m talking to people via machines)\nIn my day job, I’m a CTO. I design software for startups and small businesses. DM me if you want to validate design for your startup ideas.\nWhy am I here: Last year, I launched a course, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gravitaswins.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . I am here to understand how I can market it (via content).\nI blog at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jjude.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "; I am active at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/linkedin.com\/in\/jjude"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/jjude"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Connect with me on those platforms."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611240219.013200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1611247683.013900",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1611247683.013900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1611247683.013900",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U01AHL8AGBB",
+                    "U012UL77GUT",
+                    "U01KEK5L39P",
+                    "UL4QTGBGT",
+                    "U015HDJKZM2",
+                    "U01704F04QH",
+                    "U01J3FQA3ML",
+                    "U012YJ35BML",
+                    "U015B88C4CA"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adb9bcc8-bc43-459a-b72a-3a8d1f4017d1",
+        "type": "message",
+        "text": "welcome <@U01K7L8DDUM>!",
+        "user": "UJG9WTEKG",
+        "ts": "1611247683.013900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yUy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01K7L8DDUM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611240219.013200",
+        "parent_user_id": "U01K7L8DDUM",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U01K7L8DDUM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b59f8502-824c-4ad0-97a7-54adb7a3f697",
+        "type": "message",
+        "text": "welcome aboard!",
+        "user": "UJG9WTEKG",
+        "ts": "1611247696.014100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/RH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome aboard!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611231667.009300",
+        "parent_user_id": "U01JR6SATRD"
+    },
+    {
+        "client_msg_id": "b66a0bfe-8e3d-4ac7-b455-8384c533fce1",
+        "type": "message",
+        "text": "welcome!",
+        "user": "UJG9WTEKG",
+        "ts": "1611247712.014400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRLg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611228763.008400",
+        "parent_user_id": "U01KVQWUZQ8",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01KVQWUZQ8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb084c62-d82e-4098-9f11-56ebef99ad5d",
+        "type": "message",
+        "text": "welcome aboard <@U01KEK5RKPB>!",
+        "user": "UJG9WTEKG",
+        "ts": "1611247735.014600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j6f8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome aboard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KEK5RKPB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611226050.005200",
+        "parent_user_id": "U01KEK5RKPB"
+    }
+]

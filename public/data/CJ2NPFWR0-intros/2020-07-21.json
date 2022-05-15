@@ -1,0 +1,812 @@
+[
+    {
+        "client_msg_id": "1525ccad-9703-4ede-bca8-f2c97d2fc5f5",
+        "type": "message",
+        "text": "Hi there buddy! :smile:",
+        "user": "UJJELJPNH",
+        "ts": "1595325197.045000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d7c0796969e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-22\/2512204757622_d7c0796969e7e10042d0_72.png",
+            "first_name": "Archita",
+            "real_name": "Archita Sharma",
+            "display_name": "Archita Sharma",
+            "team": "TJE58GTJL",
+            "name": "mearchita",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Cg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi there buddy! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593783500.370500",
+        "parent_user_id": "U0161DQQNDV"
+    },
+    {
+        "client_msg_id": "7620a974-9746-4d1d-bb92-463b976f0611",
+        "type": "message",
+        "text": "Hey everyone:wave:, I'm Colin, a writer and content strategist for a fintech company called Sopra. I'm here via <@UJG9WTEKG>'s podcast (which was great btw). I'm keen to learn and help others. I'm also interested in creative strategies for producing webinars that aren't mind-numbingly boring—looking forward to getting to know some of you better:beers:.",
+        "user": "U017SE1LM2M",
+        "ts": "1595344517.052600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b2aa32d4e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1266651044993_e1b2aa32d4e3be16161a_72.png",
+            "first_name": "Colin",
+            "real_name": "Colin Adams",
+            "display_name": "Colin",
+            "team": "TJE58GTJL",
+            "name": "writeme.colin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sgxU=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I'm Colin, a writer and content strategist for a fintech company called Sopra. I'm here via "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJG9WTEKG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s podcast (which was great btw). I'm keen to learn and help others. I'm also interested in creative strategies for producing webinars that aren't mind-numbingly boring—looking forward to getting to know some of you better"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "beers"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595344517.052600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1595359303.062400",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U017SE1LM2M"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1595344592.052700"
+            },
+            {
+                "user": "U017SE1LM2M",
+                "ts": "1595346490.056600"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1595359303.062400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595359303.062400",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U016VHYUM7Z",
+                    "U015B88C4CA",
+                    "U01782907FD",
+                    "U016BDEQ40J",
+                    "U016VHZ0ZD5",
+                    "U012UL77GUT",
+                    "U014FMGRKQA",
+                    "U014S1BE6NT",
+                    "U010CH02CMP",
+                    "UUVC0EX8C",
+                    "UJE5LQ2JC",
+                    "U016ZUJNNRY",
+                    "UJS7GK1TP",
+                    "U015DN66NQ1",
+                    "U0109RH7U00",
+                    "UJG24P8P6",
+                    "UNGMG4005",
+                    "UJ48Q1HAP",
+                    "U015HDJKZM2",
+                    "U011Q6ZP6KU",
+                    "U016Q1JT01G",
+                    "U01AU954YM6"
+                ],
+                "count": 22
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d979f6f-9804-43af-b13c-8acb67e363ed",
+        "type": "message",
+        "text": "welcome aboard <@U017SE1LM2M>!\n\nwhich podcast?",
+        "user": "UJG9WTEKG",
+        "ts": "1595344592.052700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7N1oi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome aboard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017SE1LM2M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nwhich podcast?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595344517.052600",
+        "parent_user_id": "U017SE1LM2M"
+    },
+    {
+        "client_msg_id": "1f654214-132b-459c-899f-df572624d595",
+        "type": "message",
+        "text": "<@U015B88C4CA> Hi there! Love to hear it! It's definitely a fun background to lean on when it comes to navigating client calls :joy:",
+        "user": "U016VHYUM7Z",
+        "ts": "1595344800.053000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "11935b7fe899",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-17\/1248381953442_11935b7fe899c25ff146_72.png",
+            "first_name": "Alison",
+            "real_name": "Alison Haselden",
+            "display_name": "Alison Haselden",
+            "team": "TJE58GTJL",
+            "name": "alisonhaselden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U015B88C4CA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi there! Love to hear it! It's definitely a fun background to lean on when it comes to navigating client calls "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595007090.016300",
+        "parent_user_id": "U016VHYUM7Z"
+    },
+    {
+        "client_msg_id": "81785641-1e1c-4130-b019-00486529c63e",
+        "type": "message",
+        "text": "Thanks! It was this one: <https:\/\/superpath.co\/blog\/sean-blanda-on-learning-or-earning>",
+        "user": "U017SE1LM2M",
+        "ts": "1595346490.056600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e1b2aa32d4e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1266651044993_e1b2aa32d4e3be16161a_72.png",
+            "first_name": "Colin",
+            "real_name": "Colin Adams",
+            "display_name": "Colin",
+            "team": "TJE58GTJL",
+            "name": "writeme.colin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017SE1LM2M",
+            "ts": "1595346553.000000"
+        },
+        "attachments": [
+            {
+                "title": "Superpath",
+                "title_link": "https:\/\/superpath.co\/blog\/sean-blanda-on-learning-or-earning",
+                "text": "Sean Blanda has the perfect LinkedIn profile. He got his start in journalism, has worked for early-stage startups, ran content at several large companies and now runs all marketing Crossbeam. In this episode, we talk about his career to date. He talks about \"learning or earning,\" why every content marketer needs an \"art museum\" and explains common mistakes he sees junior content marketers make. You can follow Sean on Twitter at @SeanBlanda [<https:\/\/twitter.com\/SeanBlanda>]. Subscribe to the Su",
+                "fallback": "Superpath",
+                "from_url": "https:\/\/superpath.co\/blog\/sean-blanda-on-learning-or-earning",
+                "service_name": "superpath.co",
+                "id": 1,
+                "original_url": "https:\/\/superpath.co\/blog\/sean-blanda-on-learning-or-earning"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FXHgI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! It was this one: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/superpath.co\/blog\/sean-blanda-on-learning-or-earning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595344517.052600",
+        "parent_user_id": "U017SE1LM2M"
+    },
+    {
+        "client_msg_id": "439d8c70-5012-48fa-99a9-09567851410a",
+        "type": "message",
+        "text": "Greetings all! My name is Katlin, and I’m thrilled to be here!\n\nI’m a content strategist and writer, based in Charleston, SC. I’m currently shifting from a content director role with a digital agency —&gt; a content marketing position at a k12 education product company. After about 10 years on the agency side, I’m looking forward to honing in on an “in-house” marketing strategy. I’m excited to learn what others in this group are trying (successfully and unsuccessfully!) in the content marketing space. Looking forward to connecting!",
+        "user": "U017DR3FASE",
+        "ts": "1595351048.058100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a586c21d5407",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1266958500929_a586c21d54070cf2f9da_72.jpg",
+            "first_name": "Katlin",
+            "real_name": "Katlin Chadwick",
+            "display_name": "Katlin Chadwick",
+            "team": "TJE58GTJL",
+            "name": "katlinchadwick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K8\/=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Greetings all! My name is Katlin, and I’m thrilled to be here!\n\nI’m a content strategist and writer, based in Charleston, SC. I’m currently shifting from a content director role with a digital agency —> a content marketing position at a k12 education product company. After about 10 years on the agency side, I’m looking forward to honing in on an “in-house” marketing strategy. I’m excited to learn what others in this group are trying (successfully and unsuccessfully!) in the content marketing space. Looking forward to connecting!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595351048.058100",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1595529690.096200",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U01614Q03KR",
+            "UUJBMNRNF",
+            "UNGMG4005",
+            "U017DR3FASE"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1595359671.063100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1595359686.063300"
+            },
+            {
+                "user": "U01614Q03KR",
+                "ts": "1595362176.063700"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1595428873.079600"
+            },
+            {
+                "user": "UNGMG4005",
+                "ts": "1595432559.080000"
+            },
+            {
+                "user": "U017DR3FASE",
+                "ts": "1595529690.096200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595529690.096200",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U016VHZ0ZD5",
+                    "U014FMGRKQA",
+                    "U0166H7KUAZ",
+                    "UL4TUV38B",
+                    "U017SMQGTCH",
+                    "U010JU2GTND",
+                    "U016ZUJNNRY",
+                    "U012UL77GUT",
+                    "U01676BJQ7Q",
+                    "UJG9WTEKG",
+                    "U01614Q03KR",
+                    "U016P3UCK55",
+                    "URKQ7L6H3",
+                    "U015DN66NQ1",
+                    "U016VHYUM7Z",
+                    "U0109RH7U00",
+                    "UUJBMNRNF",
+                    "UNGMG4005",
+                    "U015HDJKZM2",
+                    "U011Q6ZP6KU",
+                    "UJGJD1TDK",
+                    "U01AU954YM6"
+                ],
+                "count": 22
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d82cd46c-4474-4b82-866d-eda9297172a3",
+        "type": "message",
+        "text": "Hey there y'all! I'm Peter Starr, a content strategist and producer currently based in LA.\n I've been deeply involved with   Martech and ecomm across Philly, NYC and now LA. I learn more into the new media production side of things. I've got over 400 webinars under my belt, with my podcast numbers catching up quick. I'm using COVID as an opportunity to build out a few of my own media properties to better fill out my portfolio ( like this one: <https:\/\/bit.ly\/clckwrkpsii>). Feel free to hit me up about project management, automation, AV or any other content topics. Really excited to be here and learn from you all!",
+        "user": "U017AACFP5Y",
+        "ts": "1595352826.060700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1cb3417d82b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1239381888743_1cb3417d82b7a4b5b371_72.png",
+            "first_name": "",
+            "real_name": "Peter Starr Northrop",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "p.s.northrop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U017AACFP5Y",
+            "ts": "1595352832.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+t2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey there y'all! I'm Peter Starr, a content strategist and producer currently based in LA.\n I've been deeply involved with   Martech and ecomm across Philly, NYC and now LA. I learn more into the new media production side of things. I've got over 400 webinars under my belt, with my podcast numbers catching up quick. I'm using COVID as an opportunity to build out a few of my own media properties to better fill out my portfolio ( like this one: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/clckwrkpsii"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Feel free to hit me up about project management, automation, AV or any other content topics. Really excited to be here and learn from you all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595352826.060700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1595381250.064800",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U017AACFP5Y"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1595359649.062800"
+            },
+            {
+                "user": "U017AACFP5Y",
+                "ts": "1595381250.064800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595381250.064800",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U014FMGRKQA",
+                    "U015HDJ8V9A",
+                    "U016BDEQ40J",
+                    "U010JU2GTND",
+                    "U016VHZ0ZD5",
+                    "U012UL77GUT",
+                    "U016ZUJNNRY",
+                    "UJG9WTEKG",
+                    "U015DN66NQ1",
+                    "U013E6Y46BZ",
+                    "UJJELJPNH",
+                    "U01782907FD",
+                    "U0109RH7U00",
+                    "UUJBMNRNF",
+                    "UNGMG4005",
+                    "UJGJD1TDK",
+                    "U01AU954YM6"
+                ],
+                "count": 17
+            },
+            {
+                "name": "partygritty",
+                "users": [
+                    "UJE5LQ2JC",
+                    "U016VHZ0ZD5",
+                    "UJG9WTEKG",
+                    "U01782907FD",
+                    "U011Q6ZP6KU",
+                    "U01AU954YM6"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4d4718e-2c20-405a-b6ad-089d66057373",
+        "type": "message",
+        "text": "nice! <@UJE5LQ2JC> is da best",
+        "user": "UJG9WTEKG",
+        "ts": "1595359303.062400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJE5LQ2JC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is da best"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595344517.052600",
+        "parent_user_id": "U017SE1LM2M",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJE5LQ2JC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9112631-1c08-4869-b2dd-1c0ec05b1b3b",
+        "type": "message",
+        "text": "welcome aboard <@U017AACFP5Y>!",
+        "user": "UJG9WTEKG",
+        "ts": "1595359649.062800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/fk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome aboard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017AACFP5Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595352826.060700",
+        "parent_user_id": "U017AACFP5Y"
+    },
+    {
+        "client_msg_id": "27e27bbf-935c-43ce-b248-5bf460a4268c",
+        "type": "message",
+        "text": "welcome <@U017DR3FASE>!",
+        "user": "UJG9WTEKG",
+        "ts": "1595359671.063100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pK6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017DR3FASE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595351048.058100",
+        "parent_user_id": "U017DR3FASE"
+    },
+    {
+        "client_msg_id": "ba0ad094-8b2a-4371-b3f4-62da2558f4aa",
+        "type": "message",
+        "text": "<@U01614Q03KR> is a longtime k12 content person, might be a good person to connect with",
+        "user": "UJG9WTEKG",
+        "ts": "1595359686.063300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Efa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01614Q03KR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is a longtime k12 content person, might be a good person to connect with"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595351048.058100",
+        "parent_user_id": "U017DR3FASE",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U017DR3FASE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi @Katlin Chadwick. Thanks for the intro @Jimmy Daly. I’d love to connect. ",
+        "user": "U01614Q03KR",
+        "ts": "1595362176.063700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g5f844672840",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5f844672840b94f4822c8537992ee5eb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Corey Murray",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "dcmur21",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1595351048.058100",
+        "parent_user_id": "U017DR3FASE",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U017DR3FASE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1e88f0e-138f-4cd0-9595-edcce0880af4",
+        "type": "message",
+        "text": "Thanks so much for having me! Already a killer first day.",
+        "user": "U017AACFP5Y",
+        "ts": "1595381250.064800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1cb3417d82b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1239381888743_1cb3417d82b7a4b5b371_72.png",
+            "first_name": "",
+            "real_name": "Peter Starr Northrop",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "p.s.northrop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1D8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks so much for having me! Already a killer first day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595352826.060700",
+        "parent_user_id": "U017AACFP5Y"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "4943ca1b-35c3-43e9-a394-1b9f2d231902",
+        "type": "message",
+        "text": "Hey <@U0113AV4895>, you can try Narrato Workspace (<http:\/\/narrato.io|narrato.io>) instead.\n\nYou can have a project per client, and a calendar per project, so it solves your issue of separating out the content calendars for every client\n\nTo give access to calendar to clients, it’s an easy switch on from Workspace settings.",
+        "user": "U022NPEBM18",
+        "ts": "1632714672.216000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g5853f346f4c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5853f346f4c719b06f4805a6be15beb4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Akshay Bhat",
+            "display_name": "Akshay Bhat",
+            "team": "TJE58GTJL",
+            "name": "akshay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0113AV4895"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", you can try Narrato Workspace ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/narrato.io",
+                                "text": "narrato.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") instead.\n\nYou can have a project per client, and a calendar per project, so it solves your issue of separating out the content calendars for every client\n\nTo give access to calendar to clients, it’s an easy switch on from Workspace settings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632502198.211400",
+        "parent_user_id": "U0113AV4895"
+    }
+]

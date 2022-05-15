@@ -1,0 +1,543 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583413435.014600",
+        "user": "UUH28KQPL",
+        "text": "<@UUH28KQPL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583413996.014800",
+        "user": "UUX2D4APN",
+        "text": "<@UUX2D4APN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583424517.015000",
+        "user": "UUXQK1S2C",
+        "text": "<@UUXQK1S2C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583448179.015200",
+        "user": "UUH2ESL66",
+        "text": "<@UUH2ESL66> has joined the channel"
+    },
+    {
+        "client_msg_id": "79D538FD-C4A9-4BDB-8736-39DD7085D77B",
+        "type": "message",
+        "text": "In your view, how is ‘sales content’ different to ‘marketing content?’ And what specific elements does ‘sales content’ include?",
+        "user": "UUXMC3ZFH",
+        "ts": "1583450633.017900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g32741d44912",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/32741d44912ef78f542f28f30f1abf21.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Vranicar",
+            "display_name": "Dave Vranicar",
+            "team": "TJE58GTJL",
+            "name": "dave.vranicar950",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UjyAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In your view, how is ‘sales content’ different to ‘marketing content?’ And what specific elements does ‘sales content’ include?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583450633.017900",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1583858010.000700",
+        "reply_users": [
+            "UUH2ESL66",
+            "URAV154AV",
+            "UUVC0LK2Q",
+            "UUXMC3ZFH"
+        ],
+        "replies": [
+            {
+                "user": "UUH2ESL66",
+                "ts": "1583452534.018000"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1583454236.018600"
+            },
+            {
+                "user": "UUVC0LK2Q",
+                "ts": "1583461921.019100"
+            },
+            {
+                "user": "UUVC0LK2Q",
+                "ts": "1583461947.019500"
+            },
+            {
+                "user": "UUXMC3ZFH",
+                "ts": "1583470807.035300"
+            },
+            {
+                "user": "URAV154AV",
+                "ts": "1583858010.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "755be259-f66a-4902-80e4-fd09ae64dc49",
+        "type": "message",
+        "text": "Hey Dave!\n\nIf I had to boil it down into two short statements, I would say:\n\n*Marketing content* is about attracting an audience through content that's valuable to their goals\/problems\/needs.\n\n*Sales content* is information that supports sales conversations and guides your audience towards making a decision about your solution.\n\nOf course, there's lots of overlap, so it's probably best to think of it more as a continuum than something binary.",
+        "user": "UUH2ESL66",
+        "ts": "1583452534.018000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNTp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Dave!\n\nIf I had to boil it down into two short statements, I would say:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Marketing content",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is about attracting an audience through content that's valuable to their goals\/problems\/needs.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sales content",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is information that supports sales conversations and guides your audience towards making a decision about your solution.\n\nOf course, there's lots of overlap, so it's probably best to think of it more as a continuum than something binary."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583450633.017900",
+        "parent_user_id": "UUXMC3ZFH"
+    },
+    {
+        "client_msg_id": "48069464-f6b5-4644-a7fb-dec37d9e6388",
+        "type": "message",
+        "text": "Yeah, I don't necessarily think that B2B and B2C _sales_ are becoming more alike, at least not when you compare buying hand sanitizer on Amazon to buying enterprise software. It's more that consumers are consumers whether they're at home or work, and they bring expectations around personalization, frictionless experiences, etc. to work with them because they've had such great experiences with consumer brands.",
+        "user": "URAV154AV",
+        "ts": "1583454143.018200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1lma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I don't necessarily think that B2B and B2C "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sales",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " are becoming more alike, at least not when you compare buying hand sanitizer on Amazon to buying enterprise software. It's more that consumers are consumers whether they're at home or work, and they bring expectations around personalization, frictionless experiences, etc. to work with them because they've had such great experiences with consumer brands."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583371094.014100",
+        "parent_user_id": "UUXMC3ZFH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013L0U4YSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d66ae7cf-375c-4ac0-b3f5-f70177482506",
+        "type": "message",
+        "text": "Certainly, having a B2C marketer walk in the door is tricky. But it's not impossible. I've trained a bunch of early-career folks who made the switch and as long as they're coachable and willing to learn, then it's possible!",
+        "user": "URAV154AV",
+        "ts": "1583454183.018400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8m5cw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Certainly, having a B2C marketer walk in the door is tricky. But it's not impossible. I've trained a bunch of early-career folks who made the switch and as long as they're coachable and willing to learn, then it's possible!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583371094.014100",
+        "parent_user_id": "UUXMC3ZFH"
+    },
+    {
+        "client_msg_id": "426f75c9-2482-44a7-9f08-fc575ed8dac3",
+        "type": "message",
+        "text": "I make no distinction. I don't necessarily _agree_ with the name of this channel. :zipper_mouth_face:",
+        "user": "URAV154AV",
+        "ts": "1583454236.018600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yySvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I make no distinction. I don't necessarily "
+                            },
+                            {
+                                "type": "text",
+                                "text": "agree",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the name of this channel. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zipper_mouth_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583450633.017900",
+        "parent_user_id": "UUXMC3ZFH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UUH2ESL66",
+                    "UUVC0LK2Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583455320.019000",
+        "user": "UUKNRAD4Z",
+        "text": "<@UUKNRAD4Z> has joined the channel"
+    },
+    {
+        "client_msg_id": "fc9534a3-ac33-4622-a329-d811dd4d312e",
+        "type": "message",
+        "text": "Ha! You're right! I definitely work on the continuum. Named it too quickly!",
+        "user": "UUVC0LK2Q",
+        "ts": "1583461921.019100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4ec985a26973",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972433803617_4ec985a269734364d461_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Staffel",
+            "display_name": "Rebecca Staffel",
+            "team": "TJE58GTJL",
+            "name": "rstaffel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XrAv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ha! You're right! I definitely work on the continuum. Named it too quickly!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583450633.017900",
+        "parent_user_id": "UUXMC3ZFH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1583461941.019400",
+        "user": "UUVC0LK2Q",
+        "text": "has renamed the channel from \"b2b-sales-content\" to \"b2b-content-discussion\"",
+        "old_name": "b2b-sales-content",
+        "name": "b2b-content-discussion",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b464856-778e-47f4-90d3-68d9c39901c8",
+        "type": "message",
+        "text": "There!",
+        "user": "UUVC0LK2Q",
+        "ts": "1583461947.019500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4ec985a26973",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/972433803617_4ec985a269734364d461_72.jpg",
+            "first_name": "Rebecca",
+            "real_name": "Rebecca Staffel",
+            "display_name": "Rebecca Staffel",
+            "team": "TJE58GTJL",
+            "name": "rstaffel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vD9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583450633.017900",
+        "parent_user_id": "UUXMC3ZFH"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@UUH2ESL66> Thanks for your thoughts on this, Eric. Unlike <@URAV154AV>, I do think there’s a useful distinction between sales content and marketing content, and I’m still struggling to define it. A few important points.\n\nI think sales content is sometimes created for ‘backstage’ use and isn’t intended for customers or prospects to see it. (Examples: playbooks, battle cards, and other sales enablement materials.) I can't think of any marketing content that's created with no intention of sharing it with external audiences. Maybe you can help me here.\n\nSales content is often created for cold outreach (sales prospecting). For cold outreach, it's most effective NOT to look or sound like marketing.\n\nIn contrast, marketing content is usually created for inbound marketing or for nurturing of people who have expressed interest. This is entirely different from content for cold outreach.\n\nFinally, sales content often works best if it's designed for one-to-one use, not for one-to-many. That’s because salespeople almost always work one to one with their accounts and their contacts.  They're usually looking for ways to personalize their messaging.\n\nIn contrast, marketers often work one to many. They're usually trying to find ways to scale their content across many accounts.\n\nI agree with Cassandra that this channel name was a little off. Maybe a more useful channel name here would be B2B Complex Sales or SaaS Enterprise Sales.\n\nThat’s a truly important and interesting distinction, because SaaS enterprise sales are very different than B2B SaaS transactional sales or product-led growth (PLG). Transactional sales require only low involvement of a salesperson, and PLG sales often require none.\n\nEnterprise sales require huge involvement of salespeople. The target markets are usually smaller. The decision process is longer and more complex. Prospects have more questions to answer. More business units or business functions participate in the decision. Risk is a much bigger factor. And on and on. So enterprise sales are entirely different for all these reasons and more.",
+        "user": "UUXMC3ZFH",
+        "ts": "1583470807.035300",
+        "thread_ts": "1583450633.017900",
+        "root": {
+            "client_msg_id": "79D538FD-C4A9-4BDB-8736-39DD7085D77B",
+            "type": "message",
+            "text": "In your view, how is ‘sales content’ different to ‘marketing content?’ And what specific elements does ‘sales content’ include?",
+            "user": "UUXMC3ZFH",
+            "ts": "1583450633.017900",
+            "team": "TJE58GTJL",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UjyAU",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "In your view, how is ‘sales content’ different to ‘marketing content?’ And what specific elements does ‘sales content’ include?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1583450633.017900",
+            "reply_count": 6,
+            "reply_users_count": 4,
+            "latest_reply": "1583858010.000700",
+            "reply_users": [
+                "UUH2ESL66",
+                "URAV154AV",
+                "UUVC0LK2Q",
+                "UUXMC3ZFH"
+            ],
+            "replies": [
+                {
+                    "user": "UUH2ESL66",
+                    "ts": "1583452534.018000"
+                },
+                {
+                    "user": "URAV154AV",
+                    "ts": "1583454236.018600"
+                },
+                {
+                    "user": "UUVC0LK2Q",
+                    "ts": "1583461921.019100"
+                },
+                {
+                    "user": "UUVC0LK2Q",
+                    "ts": "1583461947.019500"
+                },
+                {
+                    "user": "UUXMC3ZFH",
+                    "ts": "1583470807.035300"
+                },
+                {
+                    "user": "URAV154AV",
+                    "ts": "1583858010.000700"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tx93p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUH2ESL66"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for your thoughts on this, Eric. Unlike "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URAV154AV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I do think there’s a useful distinction between sales content and marketing content, and I’m still struggling to define it. A few important points.\n\nI think sales content is sometimes created for ‘backstage’ use and isn’t intended for customers or prospects to see it. (Examples: playbooks, battle cards, and other sales enablement materials.) I can't think of any marketing content that's created with no intention of sharing it with external audiences. Maybe you can help me here.\n\nSales content is often created for cold outreach (sales prospecting). For cold outreach, it's most effective NOT to look or sound like marketing.\n\nIn contrast, marketing content is usually created for inbound marketing or for nurturing of people who have expressed interest. This is entirely different from content for cold outreach.\n\nFinally, sales content often works best if it's designed for one-to-one use, not for one-to-many. That’s because salespeople almost always work one to one with their accounts and their contacts.  They're usually looking for ways to personalize their messaging.\n\nIn contrast, marketers often work one to many. They're usually trying to find ways to scale their content across many accounts.\n\nI agree with Cassandra that this channel name was a little off. Maybe a more useful channel name here would be B2B Complex Sales or SaaS Enterprise Sales.\n\nThat’s a truly important and interesting distinction, because SaaS enterprise sales are very different than B2B SaaS transactional sales or product-led growth (PLG). Transactional sales require only low involvement of a salesperson, and PLG sales often require none.\n\nEnterprise sales require huge involvement of salespeople. The target markets are usually smaller. The decision process is longer and more complex. Prospects have more questions to answer. More business units or business functions participate in the decision. Risk is a much bigger factor. And on and on. So enterprise sales are entirely different for all these reasons and more."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1B88FD5D-5314-4277-9134-9336E943964A",
+        "edited": {
+            "user": "UUXMC3ZFH",
+            "ts": "1583511936.000000"
+        }
+    }
+]

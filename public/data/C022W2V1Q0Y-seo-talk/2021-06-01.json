@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "ce1c32b6-53dd-42a9-90e8-a87a8d912292",
+        "type": "message",
+        "text": "Have you tried the Quick Featured Images plugin? I've used it previously and found it quite useful.\n\n<https:\/\/wordpress.org\/plugins\/quick-featured-images\/>",
+        "user": "U01TBAF98H0",
+        "ts": "1622575886.051400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "15d164b5a11a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2587354369845_15d164b5a11a045edaa9_72.jpg",
+            "first_name": "Justin",
+            "real_name": "Justin Borge",
+            "display_name": "Justin Borge",
+            "team": "TJE58GTJL",
+            "name": "justin952",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WordPress.org",
+                "title": "Quick Featured Images",
+                "title_link": "https:\/\/wordpress.org\/plugins\/quick-featured-images\/",
+                "text": "Your time-saving Swiss army knife for managing tons of featured images within minutes: Set, replace and delete them in bulk, in posts lists and set de …",
+                "fallback": "WordPress.org: Quick Featured Images",
+                "image_url": "https:\/\/ps.w.org\/quick-featured-images\/assets\/banner-1544x500.jpg?rev=2480189",
+                "from_url": "https:\/\/wordpress.org\/plugins\/quick-featured-images\/",
+                "image_width": 772,
+                "image_height": 250,
+                "image_bytes": 102963,
+                "service_icon": "http:\/\/s.w.org\/favicon.ico?2",
+                "id": 1,
+                "original_url": "https:\/\/wordpress.org\/plugins\/quick-featured-images\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJbX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you tried the Quick Featured Images plugin? I've used it previously and found it quite useful.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/plugins\/quick-featured-images\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622415431.046900",
+        "parent_user_id": "UL2E0QVB3"
+    },
+    {
+        "client_msg_id": "4bb8564d-83f0-4a65-b78e-eb3e0d188a10",
+        "type": "message",
+        "text": "Thanks for sharing <@U01TBAF98H0>. I'll share it with my dev team.",
+        "user": "UL2E0QVB3",
+        "ts": "1622590169.052800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge9a383c24eb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/46e9a383c24ebc58aff0a71a2925d006.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Taru",
+            "real_name": "Taru",
+            "display_name": "Taru",
+            "team": "TJE58GTJL",
+            "name": "taru.bhargav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for sharing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01TBAF98H0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I'll share it with my dev team."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622415431.046900",
+        "parent_user_id": "UL2E0QVB3"
+    }
+]

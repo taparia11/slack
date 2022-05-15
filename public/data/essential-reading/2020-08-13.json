@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "88178fb0-be8a-490e-ab01-3d23325e7dcd",
+        "type": "message",
+        "text": "congrats <@U012R27LRJ8>! <https:\/\/coda.io\/@coda\/funding-the-future-of-coda>",
+        "user": "U011UJX75PE",
+        "ts": "1597325708.086100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coda",
+                "service_url": "https:\/\/coda.io",
+                "title": "Funding the future of Coda",
+                "title_link": "https:\/\/coda.io\/@coda\/funding-the-future-of-coda",
+                "author_name": "Coda",
+                "text": "We raised a Series C round, and we can’t wait to show you what we’ll build next.",
+                "fallback": "Coda Link: Funding the future of Coda",
+                "from_url": "https:\/\/coda.io\/@coda\/funding-the-future-of-coda",
+                "id": 1,
+                "original_url": "https:\/\/coda.io\/@coda\/funding-the-future-of-coda"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/62",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "congrats "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012R27LRJ8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/coda.io\/@coda\/funding-the-future-of-coda"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597325708.086100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1597680836.090200",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U012R27LRJ8"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1597333142.086800"
+            },
+            {
+                "user": "U012R27LRJ8",
+                "ts": "1597680836.090200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1597680836.090200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJ7H3VCEN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1597325710.086300",
+        "user": "U012R27LRJ8",
+        "text": "<@U012R27LRJ8> has joined the channel",
+        "inviter": "U011UJX75PE"
+    },
+    {
+        "client_msg_id": "8f173222-ebd3-4f5a-bb91-ea9a2897730c",
+        "type": "message",
+        "text": "nice!",
+        "user": "UJG9WTEKG",
+        "ts": "1597333142.086800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dgAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597325708.086100",
+        "parent_user_id": "U011UJX75PE"
+    }
+]

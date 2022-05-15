@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "fffc5b24-095c-4de0-8c71-bde8004ea38e",
+        "type": "message",
+        "text": "<@UQ3Q7SQ6A> Hey, just saw this! I'm the head of marketing at <http:\/\/Friday.app|Friday.app> &amp; we do this for teams. Let me know if you have q's. We do have a free trial:\n<https:\/\/friday.app\/teams>",
+        "user": "UJG24P8P6",
+        "ts": "1644955902.813509",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/friday.app\/teams",
+                "image_url": "https:\/\/friday.app\/images\/opengraph.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 28113,
+                "service_icon": "https:\/\/friday.app\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/friday.app\/teams",
+                "fallback": "For Teams",
+                "text": "See how Friday can help you build the highest performing team in the company, while feeling good about it at the same time.",
+                "title": "For Teams",
+                "title_link": "https:\/\/friday.app\/teams",
+                "service_name": "friday.app"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z7gW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ3Q7SQ6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey, just saw this! I'm the head of marketing at Friday.app & we do this for teams. Let me know if you have q's. We do have a free trial:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/friday.app\/teams"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643792045.629649",
+        "parent_user_id": "UQ3Q7SQ6A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ3Q7SQ6A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

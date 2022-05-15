@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "ab56324e-a7b7-4865-8795-74a1e3653ebf",
+        "type": "message",
+        "text": "Ah, yes. I work for <https:\/\/wistia.com\/|Wistia>, so it will go on our blog.",
+        "user": "U022P46SRDX",
+        "ts": "1636736572.065400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1c2d9c345331",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2063983959207_1c2d9c34533169fbbb08_72.jpg",
+            "first_name": "",
+            "real_name": "Meisha Bochicchio",
+            "display_name": "Meisha Bochicchio",
+            "team": "TJE58GTJL",
+            "name": "mbochicchio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L3u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, yes. I work for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wistia.com\/",
+                                "text": "Wistia"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", so it will go on our blog."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636555855.043700",
+        "parent_user_id": "U022P46SRDX"
+    },
+    {
+        "client_msg_id": "2040C77D-5EE1-466E-8983-24B073CA8433",
+        "type": "message",
+        "text": "Done :white_check_mark: thanks <@U022P46SRDX>!",
+        "user": "U015XHF0RE0",
+        "ts": "1636738110.066100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b994352b8aa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-22\/1197226784578_3b994352b8aac48ece1e_72.jpg",
+            "first_name": "",
+            "real_name": "Adelina",
+            "display_name": "Adelina",
+            "team": "TJE58GTJL",
+            "name": "karpenkova.adel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022P46SRDX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636555855.043700",
+        "parent_user_id": "U022P46SRDX",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U022P46SRDX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

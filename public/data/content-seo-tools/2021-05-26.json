@@ -1,0 +1,863 @@
+[
+    {
+        "client_msg_id": "bff75f24-9a5b-4816-b4bf-e2562fcc3d65",
+        "type": "message",
+        "text": "<@U0166H7KUAZ> what will you be redirecting? I’m asking because using a plugin for redirects results in having slow redirects. It’s better to implement them at CDN\/server level than application level. If it’s just a few URls and you don’t have dev resources, then I’d go for a plugin. But if it’s a large scale migration I’d go for a different solution.\n\nSlow redirects lead to a poorer user experience.",
+        "user": "U014PRHQUQ2",
+        "ts": "1622017896.037200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0166H7KUAZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what will you be redirecting? I’m asking because using a plugin for redirects results in having slow redirects. It’s better to implement them at CDN\/server level than application level. If it’s just a few URls and you don’t have dev resources, then I’d go for a plugin. But if it’s a large scale migration I’d go for a different solution.\n\nSlow redirects lead to a poorer user experience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621978251.027000",
+        "parent_user_id": "U0166H7KUAZ"
+    },
+    {
+        "client_msg_id": "6097006c-f8d1-4c7e-b06b-dec76601b9f2",
+        "type": "message",
+        "text": "<@U022P09NXS7> - not to sound salesy - but our tool Narrato Workspace would be super useful for this. The tool was built for content planning, and also supports content creation and collaboration.\n\nYou can check it out here - <https:\/\/narrato.io\/content-workflow-management-software>\n\nYou can sign up for the free early user access license too.",
+        "user": "U022NPEBM18",
+        "ts": "1622023715.037400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g5853f346f4c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5853f346f4c719b06f4805a6be15beb4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Akshay Bhat",
+            "display_name": "Akshay Bhat",
+            "team": "TJE58GTJL",
+            "name": "akshay",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6fiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U022P09NXS7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - not to sound salesy - but our tool Narrato Workspace would be super useful for this. The tool was built for content planning, and also supports content creation and collaboration.\n\nYou can check it out here - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/narrato.io\/content-workflow-management-software"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nYou can sign up for the free early user access license too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621883444.019700",
+        "parent_user_id": "U022P09NXS7"
+    },
+    {
+        "client_msg_id": "A799D007-E365-4C7B-A6D3-F0E69F86A604",
+        "type": "message",
+        "text": "↑ I wouldn't say it's shit — but I would say it's definitely _limited_.",
+        "user": "U01P13NTGG6",
+        "ts": "1622028253.039000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NsCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑ I wouldn't say it's shit — but I would say it's definitely "
+                            },
+                            {
+                                "type": "text",
+                                "text": "limited",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622000787.032300",
+        "parent_user_id": "U01HBGYE7G9",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012GHRAHDK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26cc59bd-c99c-4a91-9c42-71604fc379f0",
+        "type": "message",
+        "text": "Sorta depends on the nature of the content.\n\nI am planning a fairly content heavy site in the near future and am gearing up to use Webflow. The content is going to be part of a fairly structured funnel with a lot of repeating elements. Webflow's dynamic CMS is an attractive proposition for this as I want it be able to read from a DAM (or a hacked together DAM at this stage).\n\nEventually, I want Webflow to intake from a headless CMS and it seems more technically suited to do this vs Wordpress.",
+        "user": "U01AHL8AGBB",
+        "ts": "1622031280.039300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZAkUI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorta depends on the nature of the content.\n\nI am planning a fairly content heavy site in the near future and am gearing up to use Webflow. The content is going to be part of a fairly structured funnel with a lot of repeating elements. Webflow's dynamic CMS is an attractive proposition for this as I want it be able to read from a DAM (or a hacked together DAM at this stage).\n\nEventually, I want Webflow to intake from a headless CMS and it seems more technically suited to do this vs Wordpress."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622000787.032300",
+        "parent_user_id": "U01HBGYE7G9"
+    },
+    {
+        "client_msg_id": "85ee3643-5038-4c33-8a4b-e4118634437a",
+        "type": "message",
+        "text": "<@U01AHL8AGBB> Really interesting. Seems like a better use of content assets to be able to easily reuse in multiple places. In terms of SEO, could that be a negative though in repeating content?\n\nAlso, do you think Webflow would be an easier for non-technical members of a team vs Wordpress? Wordpress is pretty easy for most of our team but ends up being a pain for new layouts if we don’t already have one to duplicate.",
+        "user": "U020GLH1U10",
+        "ts": "1622041540.039600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "36fac68535ac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-08\/2609166114656_36fac68535ace53d6c0a_72.jpg",
+            "first_name": "Alessandra",
+            "real_name": "Alessandra Colaci",
+            "display_name": "Alessandra Colaci",
+            "team": "TJE58GTJL",
+            "name": "alessandra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "259QT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AHL8AGBB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Really interesting. Seems like a better use of content assets to be able to easily reuse in multiple places. In terms of SEO, could that be a negative though in repeating content?\n\nAlso, do you think Webflow would be an easier for non-technical members of a team vs Wordpress? Wordpress is pretty easy for most of our team but ends up being a pain for new layouts if we don’t already have one to duplicate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622000787.032300",
+        "parent_user_id": "U01HBGYE7G9"
+    },
+    {
+        "client_msg_id": "3fa5eaf9-4b3a-4c9d-adff-6e764b1acbc1",
+        "type": "message",
+        "text": "Thoughts on <https:\/\/www.conductor.com\/|Conductor>?",
+        "user": "U01B8G8FB45",
+        "ts": "1622042999.040000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12464311b190",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-04\/2144515570724_12464311b190a74e679d_72.jpg",
+            "first_name": "Gail",
+            "real_name": "Gail Axelrod",
+            "display_name": "Gail Axelrod",
+            "team": "TJE58GTJL",
+            "name": "gaxelro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Conductor",
+                "title": "Organic Marketing Enterprise SEO &amp; Content Platform | Conductor",
+                "title_link": "https:\/\/www.conductor.com\/",
+                "text": "Conductor's organic marketing platform helps marketers create powerful content to drive quality traffic to their site and accelerate digital growth and revenue.",
+                "fallback": "Conductor: Organic Marketing Enterprise SEO &amp; Content Platform | Conductor",
+                "from_url": "https:\/\/www.conductor.com\/",
+                "service_icon": "https:\/\/23i62qan03n64z5op2foc7a-wpengine.netdna-ssl.com\/wp-content\/themes\/theme\/dist\/images\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.conductor.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUc3v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thoughts on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.conductor.com\/",
+                                "text": "Conductor"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622042999.040000",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1622065877.042300",
+        "reply_users": [
+            "ULJBEFSJJ",
+            "U01B8G8FB45",
+            "UJG9WTEKG",
+            "U019E2RJD9Q"
+        ],
+        "replies": [
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1622043240.040200"
+            },
+            {
+                "user": "U01B8G8FB45",
+                "ts": "1622044655.040400"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1622060859.041100"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1622060906.041300"
+            },
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1622060947.041500"
+            },
+            {
+                "user": "U019E2RJD9Q",
+                "ts": "1622065877.042300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622065877.042300"
+    },
+    {
+        "client_msg_id": "97c3f46f-968a-4366-9ac5-8fb7a9ecfb82",
+        "type": "message",
+        "text": "I used it a few years ago and at the time preferred Ahrefs for ease of use. It seems like they've expanded their content marketing capabilities with the content brief and content mapping stuff now though, which is cool.",
+        "user": "ULJBEFSJJ",
+        "ts": "1622043240.040200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WhF77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I used it a few years ago and at the time preferred Ahrefs for ease of use. It seems like they've expanded their content marketing capabilities with the content brief and content mapping stuff now though, which is cool."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622042999.040000",
+        "parent_user_id": "U01B8G8FB45"
+    },
+    {
+        "client_msg_id": "1847676f-df50-44af-a9c0-c425e9657947",
+        "type": "message",
+        "text": "yes particularly interested in how useful the brief functionality actually is vs could i just do this on my own and it would take a bit more time...",
+        "user": "U01B8G8FB45",
+        "ts": "1622044655.040400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "12464311b190",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-06-04\/2144515570724_12464311b190a74e679d_72.jpg",
+            "first_name": "Gail",
+            "real_name": "Gail Axelrod",
+            "display_name": "Gail Axelrod",
+            "team": "TJE58GTJL",
+            "name": "gaxelro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes particularly interested in how useful the brief functionality actually is vs could i just do this on my own and it would take a bit more time..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622042999.040000",
+        "parent_user_id": "U01B8G8FB45"
+    },
+    {
+        "client_msg_id": "7ce6d2e6-cdae-47e5-b2da-f424ca1ab9f0",
+        "type": "message",
+        "text": "<@U014PRHQUQ2> not a migration, just updating a few URLs",
+        "user": "U0166H7KUAZ",
+        "ts": "1622053731.040700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f58be1456496",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-29\/1197308509671_f58be1456496f374b7ea_72.jpg",
+            "first_name": "",
+            "real_name": "Phillip Paquette",
+            "display_name": "Phillip Paquette",
+            "team": "TJE58GTJL",
+            "name": "phillippaquette",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Z\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " not a migration, just updating a few URLs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621978251.027000",
+        "parent_user_id": "U0166H7KUAZ"
+    },
+    {
+        "client_msg_id": "0e15a16d-d904-4664-b461-52860c1a702e",
+        "type": "message",
+        "text": "then you should be fine <@U0166H7KUAZ> :+1:",
+        "user": "U014PRHQUQ2",
+        "ts": "1622054391.040900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "64G\/i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "then you should be fine "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0166H7KUAZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621978251.027000",
+        "parent_user_id": "U0166H7KUAZ"
+    },
+    {
+        "client_msg_id": "cfced5a0-b315-4ed0-9270-b00130d032fe",
+        "type": "message",
+        "text": "it was okay but it's been a while since i've used it",
+        "user": "UJG9WTEKG",
+        "ts": "1622060859.041100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it was okay but it's been a while since i've used it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622042999.040000",
+        "parent_user_id": "U01B8G8FB45"
+    },
+    {
+        "client_msg_id": "cdb980aa-b36e-4496-add2-5e2dc7f6bf4e",
+        "type": "message",
+        "text": "check out content harmony and marketmuse",
+        "user": "UJG9WTEKG",
+        "ts": "1622060906.041300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEOu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "check out content harmony and marketmuse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622042999.040000",
+        "parent_user_id": "U01B8G8FB45",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01B8G8FB45"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d570074a-ce17-47a3-a11b-cdc64c9f381e",
+        "type": "message",
+        "text": "both have very cool brief building features",
+        "user": "UJG9WTEKG",
+        "ts": "1622060947.041500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "geNd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "both have very cool brief building features"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622042999.040000",
+        "parent_user_id": "U01B8G8FB45"
+    },
+    {
+        "client_msg_id": "06dd2ab2-7876-4ec2-9ff6-b310c42e4fff",
+        "type": "message",
+        "text": "I know this might be a bit of a magic bean request - but anyone have experience tying goal conversions to individual keywords rather than to content pages\/blogs? Or know of any tech solution that might help overcome Google Analytics' limitations?",
+        "user": "UUVRBN6UQ",
+        "ts": "1622065636.042200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ba3146f9d55a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-15\/1854619529206_ba3146f9d55a09ddfe7c_72.jpg",
+            "first_name": "Bogar",
+            "real_name": "Bogar Alonso",
+            "display_name": "Bogar",
+            "team": "TJE58GTJL",
+            "name": "bogar.alonso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4H+U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know this might be a bit of a magic bean request - but anyone have experience tying goal conversions to individual keywords rather than to content pages\/blogs? Or know of any tech solution that might help overcome Google Analytics' limitations?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622065636.042200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1622687107.078200",
+        "reply_users": [
+            "U01KH3P18RZ",
+            "U01TM66SD8C"
+        ],
+        "replies": [
+            {
+                "user": "U01KH3P18RZ",
+                "ts": "1622068698.042600"
+            },
+            {
+                "user": "U01TM66SD8C",
+                "ts": "1622687107.078200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "646c691f-bd84-45a6-95fa-b597676c8ff2",
+        "type": "message",
+        "text": "Thanks for the shout Jimmy. <@U01B8G8FB45>, happy to walk you through Content Harmony and set you up with some free credits if brief building is your primary goal.\n\nWe've got a <https:\/\/www.contentharmony.com\/offers\/superpath\/|special offer for Superpath members> as well.",
+        "user": "U019E2RJD9Q",
+        "ts": "1622065877.042300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "bcebee72c9b4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1513766373124_bcebee72c9b4c4fba078_72.jpg",
+            "first_name": "Kane",
+            "real_name": "Kane Jamison",
+            "display_name": "Kane Jamison",
+            "team": "TJE58GTJL",
+            "name": "kane",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Content Harmony",
+                "title": "Superpath",
+                "title_link": "https:\/\/www.contentharmony.com\/offers\/superpath\/",
+                "text": "Activate a Content Harmony subscription and we’ll give you two free months of bonus briefs. Welcome Superpath members! You signed up for Superpath Slack group in the first place because you care about doing content marketing well, not just pumping out filler copy. Well, so do we. Content Harmony",
+                "fallback": "Content Harmony: Superpath",
+                "image_url": "https:\/\/www.contentharmony.com\/content\/images\/2021\/03\/content-harmony-social-thumbnail-2.png",
+                "image_width": 400,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Kane Jamison",
+                        "short": true
+                    },
+                    {
+                        "title": "Filed under",
+                        "value": "Offers",
+                        "short": true
+                    }
+                ],
+                "ts": 1615936366,
+                "from_url": "https:\/\/www.contentharmony.com\/offers\/superpath\/",
+                "image_bytes": 79295,
+                "service_icon": "https:\/\/www.contentharmony.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.contentharmony.com\/offers\/superpath\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hdXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the shout Jimmy. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01B8G8FB45"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", happy to walk you through Content Harmony and set you up with some free credits if brief building is your primary goal.\n\nWe've got a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.contentharmony.com\/offers\/superpath\/",
+                                "text": "special offer for Superpath members"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622042999.040000",
+        "parent_user_id": "U01B8G8FB45",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UJG9WTEKG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b75fcb2f-fb0a-4ca0-9e04-0909d55b8f80",
+        "type": "message",
+        "text": "Alas, this is (pretty) impossible. :disappointed:\n\nBecause we can’t tie a user’s session to a keyword (because Google isn’t providing data at that level), we can’t tie that conversion event to a specific keyword.\n\nThis _sort of_ works if you’re hyper-targeting niche keywords. E.g., you have a 500 word article targeting a high-intent low-traffic long-tail phrase (“How can red scissors improve my SEO?“) because then you can do a hand wave and say ‘all of the TINY traffic to this post is from that keyword!’ But that isn’t exact.",
+        "user": "U01KH3P18RZ",
+        "ts": "1622068698.042600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "fab0c6d48595",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-28\/2110157153414_fab0c6d48595c62a6594_72.jpg",
+            "first_name": "Kai",
+            "real_name": "Kai Davis",
+            "display_name": "Kai (Your Shopify SEO Guy)",
+            "team": "TJE58GTJL",
+            "name": "kai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01KH3P18RZ",
+            "ts": "1622068727.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alas, this is (pretty) impossible. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBecause we can’t tie a user’s session to a keyword (because Google isn’t providing data at that level), we can’t tie that conversion event to a specific keyword.\n\nThis "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sort of",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " works if you’re hyper-targeting niche keywords. E.g., you have a 500 word article targeting a high-intent low-traffic long-tail phrase (“How can red scissors improve my SEO?“) because then you can do a hand wave and say ‘all of the TINY traffic to this post is from that keyword!’ But that isn’t exact."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622065636.042200",
+        "parent_user_id": "UUVRBN6UQ"
+    }
+]

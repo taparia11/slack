@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "bed40578-6ccb-4809-9bf1-793b579cb9d5",
+        "type": "message",
+        "text": "nice <@U017WRJTKF1>!",
+        "user": "U011UJX75PE",
+        "ts": "1603738795.116400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "35b4e7bec8e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1065450049489_35b4e7bec8e7151a1927_72.jpg",
+            "first_name": "Walter",
+            "real_name": "Walter",
+            "display_name": "Walter",
+            "team": "TJE58GTJL",
+            "name": "walter.chen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jbz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603455023.094400",
+        "parent_user_id": "U017WRJTKF1"
+    },
+    {
+        "client_msg_id": "04377d66-247f-4b7b-b323-3c248db7e6c5",
+        "type": "message",
+        "text": "Thank you, Kirsten. This is helpful",
+        "user": "U01AKUSUUQG",
+        "ts": "1603769380.117100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a57b38914bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-16\/1390546856976_3a57b38914bdf1c15d13_72.jpg",
+            "first_name": "Sargi",
+            "real_name": "Sargi Pragada",
+            "display_name": "Sargi Pragada",
+            "team": "TJE58GTJL",
+            "name": "sargipr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, Kirsten. This is helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603205751.076300",
+        "parent_user_id": "U01AKUSUUQG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01D0FSPDV4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

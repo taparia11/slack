@@ -1,0 +1,228 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647866591.770229",
+        "thread_ts": "1647866591.770229",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1647876544.752739",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1647876544.752739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1647876544.752739"
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1647871292.970859",
+        "thread_ts": "1647871292.970859",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1647876595.806209",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1647876595.806209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1647876595.806209"
+    },
+    {
+        "client_msg_id": "746ff40a-afd9-4629-80b4-4354bf58fdc6",
+        "type": "message",
+        "text": "<@U02GLJM8MST> can you move to <#C012AUSC85C|promotion>? general rule is that this channel is for sharing stuff that other people have written\/published",
+        "user": "UJG9WTEKG",
+        "ts": "1647876544.752739",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fmGr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02GLJM8MST"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you move to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? general rule is that this channel is for sharing stuff that other people have written\/published"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647866591.770229",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5af92fd1-0b50-4e75-bf81-a12cf7eef42e",
+        "type": "message",
+        "text": "<@U032D0T39QR> mind moving to <#C012AUSC85C|promotion>? general rule is that this channel is for sharing stuff that other people wrote\/published",
+        "user": "UJG9WTEKG",
+        "ts": "1647876595.806209",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QE5O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U032D0T39QR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mind moving to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C012AUSC85C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? general rule is that this channel is for sharing stuff that other people wrote\/published"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647871292.970859",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "443259f6-4d65-4006-9685-b838c4bd55bf",
+        "type": "message",
+        "text": "Hey folks! This Thursday we will be having an AMA conversation about Web3. Especially around why content marketers should be aware of what it is and what it could mean for the future of our work. It's the kind of space where there will probably be more questions than answers :wink:\n\nThis Twitter thread is a nice, compact primer that is worth scrolling through: <https:\/\/twitter.com\/cdixon\/status\/1442201621266534402?s=20&amp;t=Yi62PbL0d1qG1NC1MabxqQ>\n\nIt's nice coz it hypersimplifies some of the technical web3 stuff into core concepts!",
+        "user": "U01AHL8AGBB",
+        "ts": "1647876957.846299",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "09eb34255d46",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-07\/1347887170866_09eb34255d4678a00ddc_72.png",
+            "first_name": "Jordy",
+            "real_name": "Jordy Fujiwara",
+            "display_name": "Jordy",
+            "team": "TJE58GTJL",
+            "name": "jordy.fujiwara",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/cdixon\/status\/1442201621266534402?s=20&amp;t=Yi62PbL0d1qG1NC1MabxqQ",
+                "ts": 1632682635,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/cdixon\/status\/1442201621266534402?s=20&amp;t=Yi62PbL0d1qG1NC1MabxqQ",
+                "fallback": "<https:\/\/twitter.com\/cdixon|@cdixon>: Why Web 3 matters :thread:",
+                "text": "Why Web 3 matters :thread:",
+                "author_name": "cdixon.eth",
+                "author_link": "https:\/\/twitter.com\/cdixon\/status\/1442201621266534402",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1433529810681155587\/ACs86CsF_normal.png",
+                "author_subname": "@cdixon",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks! This Thursday we will be having an AMA conversation about Web3. Especially around why content marketers should be aware of what it is and what it could mean for the future of our work. It's the kind of space where there will probably be more questions than answers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThis Twitter thread is a nice, compact primer that is worth scrolling through: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/cdixon\/status\/1442201621266534402?s=20&t=Yi62PbL0d1qG1NC1MabxqQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIt's nice coz it hypersimplifies some of the technical web3 stuff into core concepts!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

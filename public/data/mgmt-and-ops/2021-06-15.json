@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "83428bd2-41c5-40bc-b8a3-39c3fa1bb95d",
+        "type": "message",
+        "text": "Hey <@U01P13NTGG6> I _think_ I can help you.\n\nHear me out: let’s do it, and if at the end of the call you find this was useful, we can donate my 1.5x hourly rate to a cause we both agree on. How about that? :slightly_smiling_face:",
+        "user": "U017WRJTKF1",
+        "ts": "1623762172.078200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01P13NTGG6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "think",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I can help you.\n\nHear me out: let’s do it, and if at the end of the call you find this was useful, we can donate my 1.5x hourly rate to a cause we both agree on. How about that? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623289733.072400",
+        "parent_user_id": "U01P13NTGG6",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U01P13NTGG6",
+                    "UJG9WTEKG",
+                    "UJDPMTREY",
+                    "UUKNLUX5X"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57577b37-60bf-416f-9ec3-301faf9f7deb",
+        "type": "message",
+        "text": "Absolutely <@U017WRJTKF1>!",
+        "user": "U01P13NTGG6",
+        "ts": "1623763833.078500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "1625b1f12011",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-24\/1775273585607_1625b1f12011f553efc5_72.png",
+            "first_name": "Skyler",
+            "real_name": "Skyler Reeves",
+            "display_name": "Skyler Reeves",
+            "team": "TJE58GTJL",
+            "name": "skyler",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Vy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U017WRJTKF1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623289733.072400",
+        "parent_user_id": "U01P13NTGG6"
+    }
+]

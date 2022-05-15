@@ -1,0 +1,1452 @@
+[
+    {
+        "client_msg_id": "22c289a0-f667-406a-a59a-fe1637e8b4db",
+        "type": "message",
+        "text": "Thanks all — I guess the challenge is that in an early stage startup just traffic growth only goes so far to convince the c-level to invest more €€€. (I was previously also led to believe we should track organic content, following a workshop an Animalz agency rep did for Forget The Funnel.)\n\nIn the last 48h I got two different recommendations from SaaS marketers on how to measure content's impact on actual revenue driven, e.g. by tracking number of activated users whose first touch attribution is content x CLV = content driven revenue. One of the recommendations included a calculation method for it as well. I will try applying that to Outfunnel's content budgets — the only tricky part being we haven't tracked first touch attribution well, but rather the landing page, source\/medium of the session that led to a conversion... :smiling_face_with_tear:",
+        "user": "U033E81LTB3",
+        "ts": "1645086641.535699",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6ad32a7797be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099134379990_6ad32a7797beec184434_72.jpg",
+            "first_name": "Katheriin",
+            "real_name": "Katheriin Liibert",
+            "display_name": "Katheriin Liibert",
+            "team": "TJE58GTJL",
+            "name": "katheriin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PVc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks all — I guess the challenge is that in an early stage startup just traffic growth only goes so far to convince the c-level to invest more €€€. (I was previously also led to believe we should track organic content, following a workshop an Animalz agency rep did for Forget The Funnel.)\n\nIn the last 48h I got two different recommendations from SaaS marketers on how to measure content's impact on actual revenue driven, e.g. by tracking number of activated users whose first touch attribution is content x CLV = content driven revenue. One of the recommendations included a calculation method for it as well. I will try applying that to Outfunnel's content budgets — the only tricky part being we haven't tracked first touch attribution well, but rather the landing page, source\/medium of the session that led to a conversion... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644938777.078869",
+        "parent_user_id": "U033E81LTB3"
+    },
+    {
+        "client_msg_id": "1c5c942f-2e08-4f75-9e76-898089eaa385",
+        "type": "message",
+        "text": "I’d be interested to see how you go about recording this kind of first touch and tracing it back to a conversion. I trust that Google Analytics cross-device tracking capability is getting better, but I think it is still going to miss a lot. Especially if we consider that the average conversion window for most content is probably measured in weeks if not months. The only sure-fire method would be to get the user to sign in as early as possible and record that as the first touch. Is there a better solution I’m missing?",
+        "user": "U02CN04K022",
+        "ts": "1645092367.056019",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5ab3d8d339b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-01\/2437897082582_5ab3d8d339b1fd15987f_72.jpg",
+            "first_name": "Risto",
+            "real_name": "Risto Rehemägi",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "risto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’d be interested to see how you go about recording this kind of first touch and tracing it back to a conversion. I trust that Google Analytics cross-device tracking capability is getting better, but I think it is still going to miss a lot. Especially if we consider that the average conversion window for most content is probably measured in weeks if not months. The only sure-fire method would be to get the user to sign in as early as possible and record that as the first touch. Is there a better solution I’m missing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644938777.078869",
+        "parent_user_id": "U033E81LTB3"
+    },
+    {
+        "client_msg_id": "7473ccc1-040f-49a5-bc4a-b88568df340d",
+        "type": "message",
+        "text": "We have been using a custom setup that records final-touch attribution from Google Tag Manager for deals in Pipedrive (needed a tiny bit of custom code), and a Zapier setup that sends deal conversion data (incl movement between pipeline stages) back to Google Analytics and Google Ads, coming full circle as Offline Conversions. This solution was recommended to us &amp; partially set up by the Holini agency.\n\nHowever, it's super prone to errors and non-ideal for a few other reasons.\n\nSince a growth marketer joined our team, we have been setting up better tracking with help from Segment and Amplitude. I don't know the ins and outs of it completely, but I do know we are now able to track all touchpoints for all signups (as long as they're on the same device, browser), and segment them according to Pipedrive data as well. This is closer to ideal! We just don't have the data retrospectively for all of 2021, of course.",
+        "user": "U033E81LTB3",
+        "ts": "1645094808.113279",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6ad32a7797be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-15\/3099134379990_6ad32a7797beec184434_72.jpg",
+            "first_name": "Katheriin",
+            "real_name": "Katheriin Liibert",
+            "display_name": "Katheriin Liibert",
+            "team": "TJE58GTJL",
+            "name": "katheriin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BKdX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have been using a custom setup that records final-touch attribution from Google Tag Manager for deals in Pipedrive (needed a tiny bit of custom code), and a Zapier setup that sends deal conversion data (incl movement between pipeline stages) back to Google Analytics and Google Ads, coming full circle as Offline Conversions. This solution was recommended to us & partially set up by the Holini agency.\n\nHowever, it's super prone to errors and non-ideal for a few other reasons.\n\nSince a growth marketer joined our team, we have been setting up better tracking with help from Segment and Amplitude. I don't know the ins and outs of it completely, but I do know we are now able to track all touchpoints for all signups (as long as they're on the same device, browser), and segment them according to Pipedrive data as well. This is closer to ideal! We just don't have the data retrospectively for all of 2021, of course."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644938777.078869",
+        "parent_user_id": "U033E81LTB3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02CN04K022",
+                    "U030TFJS6QJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dccd9f57-2811-41a1-a31b-663e6265926c",
+        "type": "message",
+        "text": "Does anyone have experience acquiring users for chrome extensions?",
+        "user": "U024KA3A85Q",
+        "ts": "1645099558.567979",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "4228d6a3fb56",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-27\/2655456564018_4228d6a3fb567e7df6ce_72.png",
+            "first_name": "Ram",
+            "real_name": "Ram Chaitanya",
+            "display_name": "Ram Chaitanya",
+            "team": "TJE58GTJL",
+            "name": "ramchaitanya88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKPe+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have experience acquiring users for chrome extensions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E568A61D-FB46-4537-BA2D-1AA49DBFA0B1",
+        "type": "message",
+        "text": "<@U0188DZQPB8> awesome!! Would you be down for a zoom call where I could ask a few questions? I'll buy you coffee! ",
+        "user": "U02A8UR3Z60",
+        "ts": "1645107743.711379",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "dd781b486769",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-03\/2336037289142_dd781b486769fb2915dd_72.jpg",
+            "first_name": "Callahan",
+            "real_name": "Callahan Peel",
+            "display_name": "Callahan Peel",
+            "team": "TJE58GTJL",
+            "name": "callahanpeel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=dPhz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0188DZQPB8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " awesome!! Would you be down for a zoom call where I could ask a few questions? I'll buy you coffee! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644849288.764419",
+        "parent_user_id": "U02A8UR3Z60"
+    },
+    {
+        "client_msg_id": "7373bc69-8ab3-4f68-876c-d1fee3f7e919",
+        "type": "message",
+        "text": "*Here’s a suggestion I’m looking for from the community!*\n\nI started freelancing a few months back and have written for a few clients. I was looking for a few more clients to write content for.\n\nA prospect approached me a few days back. For writing in the niche they were operating in, I said I would charge *$65\/1000 words*. But the client wants me to lower it down to $45\/1000 words.\n\nThe process I follow is resource-intensive and hence I believe my rate is reasonable. Quite confused about what I should be doing. What can I do to convince them?\n\nHere's the process(to give you an idea of the amount of work involved):\n\n• I begin with a *Google auto-suggest* check of all topics relevant to the keyword. I add these topics to a content brief. Google auto-suggest is a goldmine of topics!\n• Use ‘*Keywords everywhere*’(free chrome extension) to find and add topics I might have missed during the Google auto-suggest check\n• Use the ‘*related searches*’ field at the end of every Google search result page to identify other relevant topics to write about.\n• Look at the ‘*People also ask*’ section and add the questions as ‘FAQs’ towards the end of the content brief. \n• Look for relevant *ZSV(Zero Search Volume) KWs*. These are actually not zero-volume KWs. It’s just that KW research tools are attributing zero search volume to them. \n• Take a look at *Ahrefs\/Semrush* to see the top results for the target keyword and the featured snippet every single result is ranking for. I add these topics to the content brief and mark those topics as ‘*featured snippet opportunity*’. \n• Start sorting the content brief to ensure that the topics are arranged in the *decreasing order of search volume*\n• *The writing begins.* And as always, content is king!\n• Whenever there’s a featured snippet opportunity, I take a look at the already existing featured snippet and use a strategy of my own to write a better answer target. \n• I then optimize using *Frase*. I generally look for a score of 50+\n• Run it through *Copyscape, Grammarly,* and make the necessary changes.",
+        "user": "U0322M1LX1A",
+        "ts": "1645108048.968599",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "478db3ecbd5b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-08\/3100296927632_478db3ecbd5b21fe0da6_72.jpg",
+            "first_name": "Sriram",
+            "real_name": "Sriram Palaniappan",
+            "display_name": "Sriram Palaniappan",
+            "team": "TJE58GTJL",
+            "name": "plsriram8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0322M1LX1A",
+            "ts": "1645153848.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCTt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here’s a suggestion I’m looking for from the community!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI started freelancing a few months back and have written for a few clients. I was looking for a few more clients to write content for.\n\nA prospect approached me a few days back. For writing in the niche they were operating in, I said I would charge "
+                            },
+                            {
+                                "type": "text",
+                                "text": "$65\/1000 words",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". But the client wants me to lower it down to $45\/1000 words.\n\nThe process I follow is resource-intensive and hence I believe my rate is reasonable. Quite confused about what I should be doing. What can I do to convince them?\n\nHere's the process(to give you an idea of the amount of work involved):\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I begin with a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Google auto-suggest",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " check of all topics relevant to the keyword. I add these topics to a content brief. Google auto-suggest is a goldmine of topics!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use ‘"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Keywords everywhere",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "’(free chrome extension) to find and add topics I might have missed during the Google auto-suggest check"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Use the ‘"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "related searches",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "’ field at the end of every Google search result page to identify other relevant topics to write about."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Look at the ‘"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "People also ask",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "’ section and add the questions as ‘FAQs’ towards the end of the content brief. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Look for relevant "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ZSV(Zero Search Volume) KWs",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". These are actually not zero-volume KWs. It’s just that KW research tools are attributing zero search volume to them. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Take a look at "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Ahrefs\/Semrush",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to see the top results for the target keyword and the featured snippet every single result is ranking for. I add these topics to the content brief and mark those topics as ‘"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "featured snippet opportunity",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "’. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Start sorting the content brief to ensure that the topics are arranged in the "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "decreasing order of search volume",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The writing begins. ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "And as always, content is king!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Whenever there’s a featured snippet opportunity, I take a look at the already existing featured snippet and use a strategy of my own to write a better answer target. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I then optimize using "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Frase",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". I generally look for a score of 50+"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Run it through "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Copyscape, Grammarly,",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and make the necessary changes."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645108048.968599",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1645295174.759229",
+        "reply_users": [
+            "URAV154AV",
+            "U02F1GK6U6B",
+            "U024K88ECFN",
+            "U02CUMU0PMG",
+            "U0322M1LX1A"
+        ],
+        "replies": [
+            {
+                "user": "URAV154AV",
+                "ts": "1645111323.151229"
+            },
+            {
+                "user": "U02F1GK6U6B",
+                "ts": "1645113585.941139"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1645114729.858809"
+            },
+            {
+                "user": "U02CUMU0PMG",
+                "ts": "1645236389.033959"
+            },
+            {
+                "user": "U0322M1LX1A",
+                "ts": "1645260108.086869"
+            },
+            {
+                "user": "U024K88ECFN",
+                "ts": "1645295174.759229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7095df4e-a566-4c3f-817b-1f639d0096ea",
+        "type": "message",
+        "text": "Your original rate is extremely low in my experience. They are just trying to take advantage of you.",
+        "user": "URAV154AV",
+        "ts": "1645111323.151229",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "82eece4f99ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/871274952613_82eece4f99caf7981b42_72.jpg",
+            "first_name": "Cassandra",
+            "real_name": "Cassandra Jowett",
+            "display_name": "Cassandra Jowett",
+            "team": "TJE58GTJL",
+            "name": "cassandrajowett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hAX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your original rate is extremely low in my experience. They are just trying to take advantage of you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645108048.968599",
+        "parent_user_id": "U0322M1LX1A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02SMBRHL6A",
+                    "UUH2ESL66",
+                    "U031QSNBB6K",
+                    "U0211K6LSM9",
+                    "U01NJ39M36K",
+                    "U02KFSN2QDR",
+                    "U0322M1LX1A",
+                    "U033EF4909G",
+                    "U032ZSTGWSK",
+                    "U033EFUG70B"
+                ],
+                "count": 10
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U024K88ECFN",
+                    "U031BTQNH1R",
+                    "U0344825724",
+                    "U017WRJTKF1",
+                    "U01V7GTK38A",
+                    "U0211K6LSM9"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddebc8c1-d61c-43c6-8092-1868575cf0ba",
+        "type": "message",
+        "text": "I agree with <@URAV154AV>. Your original rate is low. And if they can't pay that, they're trying to take advantage of you. \nYour process is intensive enough for you to increase your rates",
+        "user": "U02F1GK6U6B",
+        "ts": "1645113585.941139",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b77d6f7d6c82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/3004677185921_b77d6f7d6c82fd929faa_72.jpg",
+            "first_name": "Nneka",
+            "real_name": "Nneka Otika",
+            "display_name": "Nneka Otika",
+            "team": "TJE58GTJL",
+            "name": "nnekaotika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tsac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URAV154AV"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Your original rate is low. And if they can't pay that, they're trying to take advantage of you. \nYour process is intensive enough for you to increase your rates"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645108048.968599",
+        "parent_user_id": "U0322M1LX1A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0322M1LX1A",
+                    "U032ZSTGWSK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce7545d4-85b4-4413-852f-bfffc2173458",
+        "type": "message",
+        "text": "Agreed! We provide complex briefs with most of what your list includes _before_ giving the assignment to a writer, and we pay at least 2x your rate (even for inexperienced writers) for the writing without all of those add-ons. I agree, they're trying to take advantage because you're not in the US.\n\nI would not try to convince them, but rather approach other companies and increase your rates, as long as your portfolio supports it. :slightly_smiling_face:",
+        "user": "U024K88ECFN",
+        "ts": "1645114729.858809",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00c4a04080e3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-23\/3286590119379_00c4a04080e367a58cfc_72.png",
+            "first_name": "Rebekah",
+            "real_name": "Rebekah Edwards",
+            "display_name": "Rebekah Edwards",
+            "team": "TJE58GTJL",
+            "name": "rebekah473",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U024K88ECFN",
+            "ts": "1645114746.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3Dao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed! We provide complex briefs with most of what your list includes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "before",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " giving the assignment to a writer, and we pay at least 2x your rate (even for inexperienced writers) for the writing without all of those add-ons. I agree, they're trying to take advantage because you're not in the US.\n\nI would not try to convince them, but rather approach other companies and increase your rates, as long as your portfolio supports it. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645108048.968599",
+        "parent_user_id": "U0322M1LX1A",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUQ0C0ZUH",
+                    "U0322M1LX1A",
+                    "U0301QW3FR7",
+                    "U032ZSTGWSK"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8e2f8e6-5222-41c1-81f5-71541eb94133",
+        "type": "message",
+        "text": "Hey cool cats and kittens. I'm looking for some inspiration of awesome *help centers* and\/or *onboarding content*. Which products are nailing this? Thanks! :call_me_hand:",
+        "user": "UUH2ESL66",
+        "ts": "1645122057.004179",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "258edf4c5252",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/984845117296_258edf4c525224d42bff_72.jpg",
+            "first_name": "Eric",
+            "real_name": "Eric Doty",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eric.doty3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey cool cats and kittens. I'm looking for some inspiration of awesome "
+                            },
+                            {
+                                "type": "text",
+                                "text": "help centers",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and\/or "
+                            },
+                            {
+                                "type": "text",
+                                "text": "onboarding content",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Which products are nailing this? Thanks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "call_me_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645122057.004179",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1646413380.602559",
+        "reply_users": [
+            "UUKNW6ABT",
+            "U02V46B3JRX",
+            "UUH2ESL66",
+            "U0331KC4D0S"
+        ],
+        "replies": [
+            {
+                "user": "UUKNW6ABT",
+                "ts": "1645142364.625589"
+            },
+            {
+                "user": "U02V46B3JRX",
+                "ts": "1645173562.120249"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1645205050.946109"
+            },
+            {
+                "user": "U02V46B3JRX",
+                "ts": "1645427053.371959"
+            },
+            {
+                "user": "U0331KC4D0S",
+                "ts": "1646386844.888599"
+            },
+            {
+                "user": "UUH2ESL66",
+                "ts": "1646413380.602559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d765f5c5-2473-43b7-8edb-4cb18f8b95a6",
+        "type": "message",
+        "text": "Hi everyone — still hoping to get some more beta testers on <https:\/\/whist.com|Whist>. If anyone is on low hardware\/has a ton of tabs open\/does some pretty heavy work in the browser, we’d love to have you try the beta version of Whist and hear your feedback!",
+        "user": "U030Q3TEVHR",
+        "ts": "1645127111.135029",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "884bd7510e1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3047930175952_884bd7510e1dfca5dc2a_72.jpg",
+            "first_name": "Philippe",
+            "real_name": "Philippe Noël",
+            "display_name": "Philippe Noël",
+            "team": "TJE58GTJL",
+            "name": "phil106",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UNXOo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone — still hoping to get some more beta testers on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/whist.com",
+                                "text": "Whist"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If anyone is on low hardware\/has a ton of tabs open\/does some pretty heavy work in the browser, we’d love to have you try the beta version of Whist and hear your feedback!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645127111.135029",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1646522107.994719",
+        "reply_users": [
+            "U02F1GK6U6B",
+            "U0344825724",
+            "U030Q3TEVHR",
+            "U0340MZ0NQ2"
+        ],
+        "replies": [
+            {
+                "user": "U02F1GK6U6B",
+                "ts": "1645134657.752639"
+            },
+            {
+                "user": "U0344825724",
+                "ts": "1645134886.687419"
+            },
+            {
+                "user": "U030Q3TEVHR",
+                "ts": "1645139110.809929"
+            },
+            {
+                "user": "U0340MZ0NQ2",
+                "ts": "1645715203.892079"
+            },
+            {
+                "user": "U030Q3TEVHR",
+                "ts": "1645721795.622689"
+            },
+            {
+                "user": "U0340MZ0NQ2",
+                "ts": "1646520659.750529"
+            },
+            {
+                "user": "U030Q3TEVHR",
+                "ts": "1646522107.994719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cf15f2b2-2eb9-4cb8-a62d-5bebeb7fdd5d",
+        "type": "message",
+        "text": "I'm a tab hoarder. Currently holding onto 72 tabs. I use one tab but I'd be happy to beta test for you",
+        "user": "U02F1GK6U6B",
+        "ts": "1645134657.752639",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b77d6f7d6c82",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-22\/3004677185921_b77d6f7d6c82fd929faa_72.jpg",
+            "first_name": "Nneka",
+            "real_name": "Nneka Otika",
+            "display_name": "Nneka Otika",
+            "team": "TJE58GTJL",
+            "name": "nnekaotika",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm a tab hoarder. Currently holding onto 72 tabs. I use one tab but I'd be happy to beta test for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645127111.135029",
+        "parent_user_id": "U030Q3TEVHR",
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "UUKNW6ABT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64a9b7a2-d486-4031-9436-5eb015fdfa13",
+        "type": "message",
+        "text": "Hi Phillippe -- can I integrate the LastPass extension into Whist? That's my only reservation since that is important for my daily workflows. Thanks!",
+        "user": "U0344825724",
+        "ts": "1645134886.687419",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "996b1006f7ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-22\/3141510188322_996b1006f7add7e7abcb_72.jpg",
+            "first_name": "Clair",
+            "real_name": "Clair Belmonte",
+            "display_name": "Clair Belmonte",
+            "team": "TJE58GTJL",
+            "name": "clairbelmonte",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ac4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Phillippe -- can I integrate the LastPass extension into Whist? That's my only reservation since that is important for my daily workflows. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645127111.135029",
+        "parent_user_id": "U030Q3TEVHR"
+    },
+    {
+        "client_msg_id": "d75241b4-ed32-473d-ad98-dd34860af18d",
+        "type": "message",
+        "text": "<@U0344825724> yes absolutely, you should be able to use LastPass as normal, many of our users do :slightly_smiling_face:",
+        "user": "U030Q3TEVHR",
+        "ts": "1645139110.809929",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "884bd7510e1d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-28\/3047930175952_884bd7510e1dfca5dc2a_72.jpg",
+            "first_name": "Philippe",
+            "real_name": "Philippe Noël",
+            "display_name": "Philippe Noël",
+            "team": "TJE58GTJL",
+            "name": "phil106",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+xmDG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0344825724"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes absolutely, you should be able to use LastPass as normal, many of our users do "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645127111.135029",
+        "parent_user_id": "U030Q3TEVHR"
+    },
+    {
+        "client_msg_id": "A93E5E6A-C712-4E45-8CE9-7155968EF9EE",
+        "type": "message",
+        "text": "Sure! Feel free to DM me or set up some time via my calendly: <http:\/\/mellieyap.com|mellieyap.com>",
+        "user": "U0188DZQPB8",
+        "ts": "1645140132.303279",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a212eadb87bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-11\/1295590126722_a212eadb87bcaf2d6d8d_72.png",
+            "first_name": "Melissa",
+            "real_name": "Melissa Yap",
+            "display_name": "Mel",
+            "team": "TJE58GTJL",
+            "name": "mellie.yap",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+FuW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure! Feel free to DM me or set up some time via my calendly: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mellieyap.com",
+                                "text": "mellieyap.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644849288.764419",
+        "parent_user_id": "U02A8UR3Z60"
+    },
+    {
+        "client_msg_id": "09955ffd-c7e8-4e6f-80c5-988d24e4ed89",
+        "type": "message",
+        "text": "I really like Userlist’s help docs. They provide templates, worksheets, and guides to help new users get started quickly. <https:\/\/userlist.com\/docs\/>",
+        "user": "UUKNW6ABT",
+        "ts": "1645142364.625589",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9965ba10c1fe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2949348475077_9965ba10c1fe62e85d86_72.png",
+            "first_name": "Ramli",
+            "real_name": "Ramli John",
+            "display_name": "Ramli John",
+            "team": "TJE58GTJL",
+            "name": "ramli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/userlist.com\/docs\/",
+                "image_url": "https:\/\/userlist.com\/assets\/Userlist-Preview.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 12904,
+                "service_icon": "https:\/\/userlist.com\/images\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/userlist.com\/docs\/",
+                "fallback": "Userlist: Userlist Documentation",
+                "text": "Welcome to the Userlist Documentation. This is the place to learn about how to integrate, setup, and manage your Userlist account.",
+                "title": "Userlist Documentation",
+                "title_link": "https:\/\/userlist.com\/docs\/",
+                "service_name": "Userlist"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SD9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really like Userlist’s help docs. They provide templates, worksheets, and guides to help new users get started quickly. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/userlist.com\/docs\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645122057.004179",
+        "parent_user_id": "UUH2ESL66",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUH2ESL66"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a6ee3ef-7294-4fcb-b04b-c809565aab48",
+        "type": "message",
+        "text": "See if \"The Content Formula\" by Michael Brenner might help. <https:\/\/www.amazon.com\/Content-Formula-Calculate-Marketing-Never\/dp\/0997050802> He did this ROI work at SAP.",
+        "user": "U031B8HB5FB",
+        "ts": "1645150727.830919",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "00d87ccfb42a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-02\/3033846562567_00d87ccfb42a0696543e_72.jpg",
+            "first_name": "Jill",
+            "real_name": "Jill Golden",
+            "display_name": "Jill Golden",
+            "team": "TJE58GTJL",
+            "name": "jillkgolden",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKfRx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See if \"The Content Formula\" by Michael Brenner might help. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Content-Formula-Calculate-Marketing-Never\/dp\/0997050802"
+                            },
+                            {
+                                "type": "text",
+                                "text": " He did this ROI work at SAP."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644938777.078869",
+        "parent_user_id": "U033E81LTB3"
+    },
+    {
+        "client_msg_id": "7999C0B3-6A44-4378-B971-2A11FE3169DE",
+        "type": "message",
+        "text": "Hello everyone. I’m looking looking into content syndication and I need your advise on how to go about it :pray:. \n\nWhat channels did you use? How did you handle it from an SEO perspective? And what were your results like??\n\nThanks.",
+        "user": "U02FV1X5L64",
+        "ts": "1645165282.420649",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8ea9a21ffc75",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-16\/3112686520693_8ea9a21ffc75123c5adf_72.png",
+            "first_name": "Sheriff",
+            "real_name": "Sheriff Subair",
+            "display_name": "Sheriff Subair",
+            "team": "TJE58GTJL",
+            "name": "sheriff",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQim",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello everyone. I’m looking looking into content syndication and I need your advise on how to go about it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". \n\nWhat channels did you use? How did you handle it from an SEO perspective? And what were your results like??\n\nThanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02CUMU0PMG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

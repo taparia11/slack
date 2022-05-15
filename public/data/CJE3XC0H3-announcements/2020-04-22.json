@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1587560295.128800",
+        "thread_ts": "1587560295.128800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1587560497.129600",
+        "reply_users": [
+            "UJE5LQ2JC",
+            "UV2LX8XS8"
+        ],
+        "replies": [
+            {
+                "user": "UJE5LQ2JC",
+                "ts": "1587560493.129400"
+            },
+            {
+                "user": "UV2LX8XS8",
+                "ts": "1587560497.129600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C7080E0F-20F9-4C10-86B7-C205EFBFC182",
+        "type": "message",
+        "text": "Ecosystem? Community?",
+        "user": "UJE5LQ2JC",
+        "ts": "1587560493.129400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f0b1eb794d0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810787383395_f0b1eb794d0acc18306a_72.jpg",
+            "first_name": "Sean",
+            "real_name": "Sean Blanda",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "scblanda",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hukJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ecosystem? Community?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587560295.128800",
+        "parent_user_id": "UMQASRN1W"
+    },
+    {
+        "client_msg_id": "52e05916-f2b3-4dbd-8893-6470d2be615d",
+        "type": "message",
+        "text": "you might consider adding in sections to your blog for those verticals, something like how Hubspot has sales, marketing, service, etc. I’m not sure of the verticals, so don’t know if that’s appropriate.",
+        "user": "UV2LX8XS8",
+        "ts": "1587560497.129600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ceddbcb5969b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-09\/988726447396_ceddbcb5969bda763727_72.jpg",
+            "first_name": "",
+            "real_name": "Jesse S.",
+            "display_name": "Jesse S.",
+            "team": "TJE58GTJL",
+            "name": "jessehshort",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you might consider adding in sections to your blog for those verticals, something like how Hubspot has sales, marketing, service, etc. I’m not sure of the verticals, so don’t know if that’s appropriate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587560295.128800",
+        "parent_user_id": "UMQASRN1W"
+    }
+]

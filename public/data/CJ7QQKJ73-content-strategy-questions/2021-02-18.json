@@ -1,0 +1,1224 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1613639016.046300",
+        "thread_ts": "1613639016.046300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1613645032.046900",
+        "reply_users": [
+            "U014PRHQUQ2",
+            "UJJFDTN8G",
+            "U017WRJTKF1"
+        ],
+        "replies": [
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1613640455.046400"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1613641648.046600"
+            },
+            {
+                "user": "U017WRJTKF1",
+                "ts": "1613645032.046900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ff76500d-05a6-4214-b85d-62c6500fb7b7",
+        "type": "message",
+        "text": "Can you elaborate on `website tracking`, what does it cover?",
+        "user": "U014PRHQUQ2",
+        "ts": "1613640455.046400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dZ=Wa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you elaborate on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "website tracking",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", what does it cover?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613639016.046300",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "32794931-3e27-43d9-8883-9c5f5fe0cfd2",
+        "type": "message",
+        "text": "That's up to you :slightly_smiling_face:",
+        "user": "UJJFDTN8G",
+        "ts": "1613641648.046600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWOAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's up to you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613639016.046300",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "373601a3-966e-4d45-b3e5-48a676b20e02",
+        "type": "message",
+        "text": "This is very cryptic :point_up:",
+        "user": "U017WRJTKF1",
+        "ts": "1613645032.046900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5becbba1453b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-19\/2398013799555_5becbba1453b45394896_72.jpg",
+            "first_name": "fio",
+            "real_name": "fio",
+            "display_name": "fio",
+            "team": "TJE58GTJL",
+            "name": "fio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ub9F9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is very cryptic "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613639016.046300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "3f7698f9-9dde-43b6-9664-76e8f87e41cb",
+        "type": "message",
+        "text": "I've recently gone down the Jobs to Be Done rabbit hole and I love it! Thanks to everyone who sent me the resources (the Intercom doc was super useful), I've read them all and looking for ones focused on content.\n\nI'm wondering how you've implemented it into your content strategy? I am experimenting with it by adding two columns on my content calendar: \"JTBD\" and \"Push\/Pull\"\n\nSo for example:\n*JTBD:* Hiring my product to take large, secure payments\n*Push\/Pull:* Increase the push away by showing how bad the existing product is\n*Article title:* Why bank transfers are inefficient for large payments\n\nWhat do you think?",
+        "user": "U01MW6DPU72",
+        "ts": "1613649123.050700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2ab21f412c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2ab21f412c3215ee2b3c2994772c589e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Araminta",
+            "real_name": "Araminta Robertson",
+            "display_name": "Araminta Robertson",
+            "team": "TJE58GTJL",
+            "name": "robertsona98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jZr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've recently gone down the Jobs to Be Done rabbit hole and I love it! Thanks to everyone who sent me the resources (the Intercom doc was super useful), I've read them all and looking for ones focused on content.\n\nI'm wondering how you've implemented it into your content strategy? I am experimenting with it by adding two columns on my content calendar: \"JTBD\" and \"Push\/Pull\"\n\nSo for example:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "JTBD: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hiring my product to take large, secure payments\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Push\/Pull:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Increase the push away by showing how bad the existing product is\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Article title:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Why bank transfers are inefficient for large payments\n\nWhat do you think?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613649123.050700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1613655133.052400",
+        "reply_users": [
+            "UJJFDTN8G",
+            "U01MW6DPU72"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1613649425.050800"
+            },
+            {
+                "user": "U01MW6DPU72",
+                "ts": "1613655133.052400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "36d1f75b-4381-4f75-9fa0-29a0c5ac4ff7",
+        "type": "message",
+        "text": "I love the idea. But, maybe I'm not the right audience for your example. I can make a £20k bank transfer via my Virgin Money app, for example. If that were £200k, I'm sure there'd be an issue.",
+        "user": "UJJFDTN8G",
+        "ts": "1613649425.050800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love the idea. But, maybe I'm not the right audience for your example. I can make a £20k bank transfer via my Virgin Money app, for example. If that were £200k, I'm sure there'd be an issue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613649123.050700",
+        "parent_user_id": "U01MW6DPU72"
+    },
+    {
+        "client_msg_id": "C757A8CD-8E79-4070-848A-E2182B63CF62",
+        "type": "message",
+        "text": "The Animalz podcast :)",
+        "user": "URLKJLWKS",
+        "ts": "1613654344.051200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "623baec1eb40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/860396897233_623baec1eb40f711996c_72.jpg",
+            "first_name": "",
+            "real_name": "Alice Teodorescu",
+            "display_name": "Alice Teodorescu",
+            "team": "TJE58GTJL",
+            "name": "alice",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vqh7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Animalz podcast :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613514721.025200",
+        "parent_user_id": "U01MM4EAC69",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01NPSL1DLH",
+                    "U01GFV6UWJH",
+                    "U01MM4EAC69",
+                    "U019MUQNH5H"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "573C98FE-06CF-45A5-982D-84EA1ED64C9A",
+        "type": "message",
+        "text": "Don’t know about a grid, but I stumbled upon this listicle <https:\/\/www.skyword.com\/contentstandard\/24-content-marketing-awards-to-target-now-for-2021-recognition\/|https:\/\/www.skyword.com\/contentstandard\/24-content-marketing-awards-to-target-now-for-2021-recognition\/>",
+        "user": "URLKJLWKS",
+        "ts": "1613654554.052100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "623baec1eb40",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-12\/860396897233_623baec1eb40f711996c_72.jpg",
+            "first_name": "",
+            "real_name": "Alice Teodorescu",
+            "display_name": "Alice Teodorescu",
+            "team": "TJE58GTJL",
+            "name": "alice",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Skyword",
+                "title": "24 Content Marketing Awards to Target Now for 2021 Recognition",
+                "title_link": "https:\/\/www.skyword.com\/contentstandard\/24-content-marketing-awards-to-target-now-for-2021-recognition\/",
+                "text": "Discover the best content marketing awards to target for 2021 glory, so you and your team get the recognition your creative campaigns deserve.",
+                "fallback": "Skyword: 24 Content Marketing Awards to Target Now for 2021 Recognition",
+                "image_url": "https:\/\/d9p7civm2914u.cloudfront.net\/wp-content\/uploads\/2020\/12\/pexels-annalouise-1387577-1.jpg?x28507",
+                "image_width": 340,
+                "image_height": 250,
+                "ts": 1609368724,
+                "from_url": "https:\/\/www.skyword.com\/contentstandard\/24-content-marketing-awards-to-target-now-for-2021-recognition\/",
+                "image_bytes": 456206,
+                "service_icon": "https:\/\/www.skyword.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.skyword.com\/contentstandard\/24-content-marketing-awards-to-target-now-for-2021-recognition\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ElR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don’t know about a grid, but I stumbled upon this listicle "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.skyword.com\/contentstandard\/24-content-marketing-awards-to-target-now-for-2021-recognition\/",
+                                "text": "https:\/\/www.skyword.com\/contentstandard\/24-content-marketing-awards-to-target-now-for-2021-recognition\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613504252.020300",
+        "parent_user_id": "U0109FC8H7Y"
+    },
+    {
+        "client_msg_id": "6292e79b-3dfc-423f-8c5b-484f787ca0db",
+        "type": "message",
+        "text": "Ah yes it's B2B content, I should have mentioned. So it's for companies that take large deposit payments.",
+        "user": "U01MW6DPU72",
+        "ts": "1613655133.052400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g2ab21f412c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2ab21f412c3215ee2b3c2994772c589e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Araminta",
+            "real_name": "Araminta Robertson",
+            "display_name": "Araminta Robertson",
+            "team": "TJE58GTJL",
+            "name": "robertsona98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kbh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah yes it's B2B content, I should have mentioned. So it's for companies that take large deposit payments."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613649123.050700",
+        "parent_user_id": "U01MW6DPU72",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJJFDTN8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f554ebe5-2944-430d-bb7f-9c23b22c0a0a",
+        "type": "message",
+        "text": "Thank you <@U015B88C4CA>! Sincerely appreciate you doing that :pray:",
+        "user": "U01GCF35SH4",
+        "ts": "1613667087.053100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a2165bc376cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-17\/1761251218469_a2165bc376cc3c34f249_72.jpg",
+            "first_name": "Evan",
+            "real_name": "Evan Knight",
+            "display_name": "Evan Knight",
+            "team": "TJE58GTJL",
+            "name": "evan.knight",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rLSdW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U015B88C4CA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Sincerely appreciate you doing that "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613590182.038900",
+        "parent_user_id": "U01GCF35SH4"
+    },
+    {
+        "client_msg_id": "457e0541-1631-4986-8eb2-36dad18c16a2",
+        "type": "message",
+        "text": "You can build an email list out of it. That's an added advantage if you are not looking to leverage SEO.",
+        "user": "U01MM4F6HTP",
+        "ts": "1613672440.053400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d39d0f8f66bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-11\/1724849361111_d39d0f8f66bddaa96e06_72.jpg",
+            "first_name": "Manohara",
+            "real_name": "Manohara H",
+            "display_name": "Manohara H",
+            "team": "TJE58GTJL",
+            "name": "manoharah98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h2o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can build an email list out of it. That's an added advantage if you are not looking to leverage SEO."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613590182.038900",
+        "parent_user_id": "U01GCF35SH4"
+    },
+    {
+        "client_msg_id": "4f2affb2-d69a-489b-a4d1-f49c1521ec16",
+        "type": "message",
+        "text": "I'm pitching to a company that has great case studies, and whitepapers, but all of it is a bit... serious and sometimes dry. They are bringing me in to create more \"fun\/creative\" content. I feel like this could go in a million directions. Anyone have examples of b2b content they like that falls into this category? Any thoughts\/examples\/advice is appreciated!",
+        "user": "U01N2ARBLA1",
+        "ts": "1613678739.056900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "9af63ebef720",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-15\/1759630464180_9af63ebef72078ebc1d9_72.jpg",
+            "first_name": "",
+            "real_name": "Mary Walsh",
+            "display_name": "Mary Walsh",
+            "team": "TJE58GTJL",
+            "name": "marywalsh27",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SCXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm pitching to a company that has great case studies, and whitepapers, but all of it is a bit... serious and sometimes dry. They are bringing me in to create more \"fun\/creative\" content. I feel like this could go in a million directions. Anyone have examples of b2b content they like that falls into this category? Any thoughts\/examples\/advice is appreciated!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613678739.056900",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1613698982.061800",
+        "reply_users": [
+            "U01BENRM555",
+            "U01LCCTLT8T",
+            "UJFELMVU1",
+            "UUJBMNRNF"
+        ],
+        "replies": [
+            {
+                "user": "U01BENRM555",
+                "ts": "1613679220.057000"
+            },
+            {
+                "user": "U01LCCTLT8T",
+                "ts": "1613679770.057300"
+            },
+            {
+                "user": "UJFELMVU1",
+                "ts": "1613681059.057600"
+            },
+            {
+                "user": "UUJBMNRNF",
+                "ts": "1613698982.061800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6c4f0c2f-9796-45ed-851b-e1515f457941",
+        "type": "message",
+        "text": "Our team at Venngage recently published a <https:\/\/venngage.com\/blog\/case-study-venngage-college-unmazed\/|case study> with a lighter and informal tone, if that helps.",
+        "user": "U01BENRM555",
+        "ts": "1613679220.057000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "92b2415c02c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1400426291877_92b2415c02c41b4b1d45_72.jpg",
+            "first_name": "Ronita",
+            "real_name": "Ronita Mohan",
+            "display_name": "Ronita Mohan (E\/Er\/Eir)",
+            "team": "TJE58GTJL",
+            "name": "ronita",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Venngage",
+                "title": "Dr. Amanda Sterk Turns Complex Content into Infographics",
+                "title_link": "https:\/\/venngage.com\/blog\/case-study-venngage-college-unmazed\/",
+                "text": "Dr. Amanda Sterk has discovered the power of infographics. She has successfully grown a business and simplified complex information for her audiences.",
+                "fallback": "Venngage: Dr. Amanda Sterk Turns Complex Content into Infographics",
+                "image_url": "https:\/\/venngage-wordpress.s3.amazonaws.com\/uploads\/2021\/01\/College_Unmazed_Case_Study_Blog_Header.png",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1611941642,
+                "from_url": "https:\/\/venngage.com\/blog\/case-study-venngage-college-unmazed\/",
+                "image_bytes": 94879,
+                "service_icon": "https:\/\/venngage.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/venngage.com\/blog\/case-study-venngage-college-unmazed\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XupLR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our team at Venngage recently published a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/venngage.com\/blog\/case-study-venngage-college-unmazed\/",
+                                "text": "case study"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with a lighter and informal tone, if that helps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613678739.056900",
+        "parent_user_id": "U01N2ARBLA1"
+    },
+    {
+        "client_msg_id": "9d1c802f-54c5-414b-ac8b-ec70c5b13e63",
+        "type": "message",
+        "text": "Video can lend itself to levity (with some great scriptwriting and an understanding of how snarky\/comedic, etc. a brand is willing to be within their existing voice guidelines). Nintex (an enterprise software firm) did a great video series a few years ago poking fun at broken work processes, which all promoted their proprietary research: <https:\/\/www.youtube.com\/watch?v=JIdZaVlzZs4>",
+        "user": "U01LCCTLT8T",
+        "ts": "1613679770.057300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ebd76b4601b3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-12\/1853673206387_ebd76b4601b30469c085_72.jpg",
+            "first_name": "",
+            "real_name": "Matilda Schieren",
+            "display_name": "Matilda Schieren",
+            "team": "TJE58GTJL",
+            "name": "mswartz913",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Most Broken Processes: Document (Mis)management",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=JIdZaVlzZs4",
+                "author_name": "Nintex",
+                "author_link": "https:\/\/www.youtube.com\/c\/nintex",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/JIdZaVlzZs4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Most Broken Processes: Document (Mis)management",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/JIdZaVlzZs4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=JIdZaVlzZs4",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=JIdZaVlzZs4"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PzPsM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Video can lend itself to levity (with some great scriptwriting and an understanding of how snarky\/comedic, etc. a brand is willing to be within their existing voice guidelines). Nintex (an enterprise software firm) did a great video series a few years ago poking fun at broken work processes, which all promoted their proprietary research: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=JIdZaVlzZs4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613678739.056900",
+        "parent_user_id": "U01N2ARBLA1"
+    },
+    {
+        "client_msg_id": "afd45cea-35b2-49c6-a4c9-4ab2b95f9637",
+        "type": "message",
+        "text": "Just a few ideas off the top of my head:\n\n• An advice column <https:\/\/blog.doist.com\/ask-doist-productivity-uncertainty\/|(example from Doist)> has lots of opportunity for fun, charm, and even snark if the brand wants to go that way, plus obvious opportunities to mention your offerings.\n• Can you create a saga that has a big payoff for the audience? I love the storytelling they wrapped around a “boring” product (<https:\/\/www.youtube.com\/watch?v=vz4yYDfsiC4|example from Jira Service Management>). While that example is a video, you could accomplish something similar with a zine \/ web comic \/ serialized story chapters released on the website or via email. A choose your own adventure option is out there, but could be so cool!\n• Lean into a theme. Mailgun &amp; Mailjet took a boring conference idea and made it much more appealing by <http:\/\/go.mailjet.com\/nl2\/mtrq\/m69w5.html|framing it as summer camp>. I personally think they could have gotten away with even more sass &amp; fun in the context of this theme!\n• Bite-sized silliness. For example, my alma mater Lucidchart’s funny pop culture \/ meme culture flowcharts (both in <https:\/\/www.lucidchart.com\/pages\/flowcharts|image> and <https:\/\/www.youtube.com\/playlist?list=PLUoebdZqEHTygG_DML0kNfbjnkv-MLnwi|video> form). This was a really successful effort for them!",
+        "user": "UJFELMVU1",
+        "ts": "1613681059.057600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f99c9b96a13d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-27\/3177379518961_f99c9b96a13d5b027747_72.jpg",
+            "first_name": "Eliza",
+            "real_name": "Eliza Wright",
+            "display_name": "Eliza Wright",
+            "team": "TJE58GTJL",
+            "name": "eliza1wright",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJFELMVU1",
+            "ts": "1613681631.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "High Velocity, presented by Jira Service Management",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=vz4yYDfsiC4",
+                "author_name": "Atlassian",
+                "author_link": "https:\/\/www.youtube.com\/user\/GoAtlassian",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vz4yYDfsiC4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: High Velocity, presented by Jira Service Management",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vz4yYDfsiC4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=vz4yYDfsiC4",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=vz4yYDfsiC4"
+            },
+            {
+                "service_name": "YouTube",
+                "title": "Lucidchart Explains the Internet",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLUoebdZqEHTygG_DML0kNfbjnkv-MLnwi",
+                "text": "Lucidchart is here to explain memes, pop culture, and anything else on the internet that's diagram-worthy. Buckle up for a wild ride through the universe of ...",
+                "fallback": "YouTube: Lucidchart Explains the Internet",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/O8w4hyx8JVI\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCU0nFS3a1pgk_onEAwrJA4K6_PEg&days_since_epoch=18676",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLUoebdZqEHTygG_DML0kNfbjnkv-MLnwi",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/d2bf50f1\/img\/favicon.ico",
+                "id": 3,
+                "original_url": "https:\/\/www.youtube.com\/playlist?list=PLUoebdZqEHTygG_DML0kNfbjnkv-MLnwi"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BNaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a few ideas off the top of my head:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "An advice column "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/blog.doist.com\/ask-doist-productivity-uncertainty\/",
+                                        "text": "(example from Doist)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " has lots of opportunity for fun, charm, and even snark if the brand wants to go that way, plus obvious opportunities to mention your offerings."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can you create a saga that has a big payoff for the audience? I love the storytelling they wrapped around a “boring” product ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=vz4yYDfsiC4",
+                                        "text": "example from Jira Service Management"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "). While that example is a video, you could accomplish something similar with a zine \/ web comic \/ serialized story chapters released on the website or via email. A choose your own adventure option is out there, but could be so cool!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Lean into a theme. Mailgun & Mailjet took a boring conference idea and made it much more appealing by "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/go.mailjet.com\/nl2\/mtrq\/m69w5.html",
+                                        "text": "framing it as summer camp"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". I personally think they could have gotten away with even more sass & fun in the context of this theme!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bite-sized silliness. For example, my alma mater Lucidchart’s funny pop culture \/ meme culture flowcharts (both in "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.lucidchart.com\/pages\/flowcharts",
+                                        "text": "image"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/playlist?list=PLUoebdZqEHTygG_DML0kNfbjnkv-MLnwi",
+                                        "text": "video"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " form). This was a really successful effort for them!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613678739.056900",
+        "parent_user_id": "U01N2ARBLA1",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01N2ARBLA1",
+                    "U01FXSKB4G7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UUJBMNRNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d45207f9-1cfd-4238-8cd3-61429b8ff311",
+        "type": "message",
+        "text": "Thanks <@URLKJLWKS>!",
+        "user": "U0109FC8H7Y",
+        "ts": "1613681738.058300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "be85d10e5bf3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-11\/1185499540836_be85d10e5bf36beaefba_72.png",
+            "first_name": "Doug",
+            "real_name": "Doug Patterson",
+            "display_name": "Doug Patterson",
+            "team": "TJE58GTJL",
+            "name": "dougp",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zhP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URLKJLWKS"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613504252.020300",
+        "parent_user_id": "U0109FC8H7Y"
+    },
+    {
+        "client_msg_id": "dd41fd7e-db2b-4d3a-967f-be3f9fa137b9",
+        "type": "message",
+        "text": "same!.",
+        "user": "UJ2QESJ66",
+        "ts": "1613683086.058700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6f45bd7b7f97",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-24\/1268680536836_6f45bd7b7f97c52740e0_72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Ortega",
+            "display_name": "Juan",
+            "team": "TJE58GTJL",
+            "name": "juan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xu3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "same!."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613504516.023200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "12fa92f9-725b-4735-9298-325e0b07b002",
+        "type": "message",
+        "text": "Does anyone here hire freelance writers? I’m writing a post about what companies look for when hiring a freelance writer and need a few quotes! Some questions I’m looking for are:\n1. When you’re looking at a freelance writer’s website, what convinces you to contact them?\n2. How do search for new writers? (ie. look through popular blogs, referrals, etc.)\n3. What is the biggest no-no a freelance writer could have on their website?\n\nWould love to hear any thoughts, and be sure to link back to your website so I can give you credit in the post :slightly_smiling_face:",
+        "user": "U01J3P3EVDL",
+        "ts": "1613687491.061400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc471a37d628",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c471a37d628e50a814ae61c069f7bc73.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "Jessica",
+            "display_name": "Jessica",
+            "team": "TJE58GTJL",
+            "name": "jessica629",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NbSV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone here hire freelance writers? I’m writing a post about what companies look for when hiring a freelance writer and need a few quotes! Some questions I’m looking for are:\n1. When you’re looking at a freelance writer’s website, what convinces you to contact them?\n2. How do search for new writers? (ie. look through popular blogs, referrals, etc.)\n3. What is the biggest no-no a freelance writer could have on their website?\n\nWould love to hear any thoughts, and be sure to link back to your website so I can give you credit in the post "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613687491.061400",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1613841090.002700",
+        "reply_users": [
+            "U014PRHQUQ2",
+            "U015BEETZ2P",
+            "URA4VBQ2X",
+            "U01J3P3EVDL",
+            "U011QQDDSJV",
+            "U01GFV6UWJH"
+        ],
+        "replies": [
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1613724677.067500"
+            },
+            {
+                "user": "U015BEETZ2P",
+                "ts": "1613727637.069900"
+            },
+            {
+                "user": "URA4VBQ2X",
+                "ts": "1613739737.070200"
+            },
+            {
+                "user": "U01J3P3EVDL",
+                "ts": "1613750768.070500"
+            },
+            {
+                "user": "U011QQDDSJV",
+                "ts": "1613753344.070700"
+            },
+            {
+                "user": "U01GFV6UWJH",
+                "ts": "1613788874.000200"
+            },
+            {
+                "user": "U01J3P3EVDL",
+                "ts": "1613841090.002700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c32ae7cd-081c-489c-b9cd-2c7847230ec0",
+        "type": "message",
+        "text": "i'd be curious if <@UT9JX4C5C> has any data on this",
+        "user": "UJG9WTEKG",
+        "ts": "1613693587.061500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QUO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'd be curious if "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT9JX4C5C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has any data on this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613608918.043100",
+        "parent_user_id": "UUH2EB134"
+    },
+    {
+        "client_msg_id": "1254111a-700a-4386-9b94-0fdd4a456980",
+        "type": "message",
+        "text": "such good examples, <@UJFELMVU1>!",
+        "user": "UUJBMNRNF",
+        "ts": "1613698982.061800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g60cda1030c0",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60cda1030c03869961d38a096c73158e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Hannah",
+            "real_name": "Hannah Wiginton",
+            "display_name": "Hannah Wiginton",
+            "team": "TJE58GTJL",
+            "name": "hwiginton00",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GL=1I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "such good examples, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJFELMVU1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613678739.056900",
+        "parent_user_id": "U01N2ARBLA1",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJFELMVU1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

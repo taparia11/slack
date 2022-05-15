@@ -1,0 +1,580 @@
+[
+    {
+        "client_msg_id": "0bdb4ad0-605e-4400-b2f8-baa9738a6748",
+        "type": "message",
+        "text": "Hey <@U01H87WF448> . Welcome :wave::skin-tone-4:",
+        "user": "U01704F04QH",
+        "ts": "1607616747.153900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c4babd35d9f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1343175645235_c4babd35d9f8360f26e8_72.jpg",
+            "first_name": "Stella",
+            "real_name": "Stella Inabo",
+            "display_name": "Stella Inabo",
+            "team": "TJE58GTJL",
+            "name": "stellainabo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01H87WF448"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Welcome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607577128.152600",
+        "parent_user_id": "U01H87WF448",
+        "reactions": [
+            {
+                "name": "wave::skin-tone-3",
+                "users": [
+                    "U01H87WF448"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43c9f838-3cb5-49c9-8d70-5739d7a2e913",
+        "type": "message",
+        "text": "Hi All - I'm a writer with 20 years of experience across thought leadership, marketing and internal communications. Nice to meet you! Check out my portfolio at <http:\/\/aislewpeter.com|aislewpeter.com> and connect on at <https:\/\/www.linkedin.com\/in\/peter-burger-401801\/>",
+        "user": "U01GCR094D9",
+        "ts": "1607617417.156100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "77a723524673",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1571588634628_77a723524673eb44bef4_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Burger",
+            "display_name": "Peter Burger",
+            "team": "TJE58GTJL",
+            "name": "burgerpete",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All - I'm a writer with 20 years of experience across thought leadership, marketing and internal communications. Nice to meet you! Check out my portfolio at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/aislewpeter.com",
+                                "text": "aislewpeter.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and connect on at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/in\/peter-burger-401801\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607617417.156100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1608113280.196300",
+        "reply_users": [
+            "UJG9WTEKG",
+            "U01GCR094D9",
+            "UJ4QFBMU2"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1607621638.156500"
+            },
+            {
+                "user": "U01GCR094D9",
+                "ts": "1607628720.159700"
+            },
+            {
+                "user": "UJ4QFBMU2",
+                "ts": "1608113280.196300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1608113280.196300",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "U012UL77GUT",
+                    "UJG9WTEKG",
+                    "U01EBT43ERH",
+                    "U01AHL8AGBB",
+                    "U01FUP6AMEZ",
+                    "U015B88C4CA",
+                    "U014QJ54630",
+                    "U01DEA6F7CH",
+                    "UL4QTGBGT",
+                    "U0192P2G8F5",
+                    "U015HDJKZM2",
+                    "U01A827PTTM",
+                    "U01CSFHKLQP",
+                    "U01GGQMG6HW",
+                    "U012YJ35BML",
+                    "URLKJLWKS",
+                    "U010UHR7PED",
+                    "U014UBPTJ0N",
+                    "UJ4QFBMU2",
+                    "U01HP40NNUF"
+                ],
+                "count": 20
+            }
+        ]
+    },
+    {
+        "client_msg_id": "769d8f59-8def-41ba-a3c3-f269a08d06b4",
+        "type": "message",
+        "text": "welcome <@U01GCR094D9>!",
+        "user": "UJG9WTEKG",
+        "ts": "1607621638.156500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01GCR094D9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607617417.156100",
+        "parent_user_id": "U01GCR094D9"
+    },
+    {
+        "client_msg_id": "bc378c8a-1690-4594-bfc6-419ccd80df0c",
+        "type": "message",
+        "text": "welcome aboard <@U01H87WF448>!",
+        "user": "UJG9WTEKG",
+        "ts": "1607621660.157000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wS\/YR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "welcome aboard "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01H87WF448"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607577128.152600",
+        "parent_user_id": "U01H87WF448",
+        "reactions": [
+            {
+                "name": "wave::skin-tone-3",
+                "users": [
+                    "U01H87WF448"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b132a9a0-6c95-4901-9568-36131463b011",
+        "type": "message",
+        "text": "Would love to get your perspective on incorporating sources into content marketing pieces. This is something I've been trying to do more &amp; <@UJ2MQ8SRH> has written about lately",
+        "user": "UJG24P8P6",
+        "ts": "1607621829.157300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2de5f7f10d61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-17\/1188814622853_2de5f7f10d615692b763_72.jpg",
+            "first_name": "Josh",
+            "real_name": "Josh Spilker",
+            "display_name": "Josh Spilker",
+            "team": "TJE58GTJL",
+            "name": "joshspilker",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LkkO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would love to get your perspective on incorporating sources into content marketing pieces. This is something I've been trying to do more & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ2MQ8SRH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has written about lately"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607357633.118400",
+        "parent_user_id": "U01G0B9ALG6"
+    },
+    {
+        "client_msg_id": "16c633d3-bb27-4f8f-90ec-2d1619cb4279",
+        "type": "message",
+        "text": "Hey Josh, plenty of thoughts on that. Overall I think it starts with looking internally and highlighting the expertise you want to showcase in-house, while also finding appropriate third-party experts that can add some credibility. Getting those sources onboard can be difficult, especially when its more promotional content. I hate to admit it but my profile as a journalist\/content marketer does help; sometimes sources that normally wouldn't participate in content marketing pieces are happy to volunteer in hopes that once I get to know them I might have more opportunities for them in my journalism work in the future.",
+        "user": "U01G0B9ALG6",
+        "ts": "1607623740.157700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "d224014df536",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-07\/1552291909589_d224014df5361d56c5ba_72.jpg",
+            "first_name": "",
+            "real_name": "Jared Lindzon",
+            "display_name": "Jared Lindzon",
+            "team": "TJE58GTJL",
+            "name": "jaredlindzon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gwX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Josh, plenty of thoughts on that. Overall I think it starts with looking internally and highlighting the expertise you want to showcase in-house, while also finding appropriate third-party experts that can add some credibility. Getting those sources onboard can be difficult, especially when its more promotional content. I hate to admit it but my profile as a journalist\/content marketer does help; sometimes sources that normally wouldn't participate in content marketing pieces are happy to volunteer in hopes that once I get to know them I might have more opportunities for them in my journalism work in the future."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607357633.118400",
+        "parent_user_id": "U01G0B9ALG6",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJG24P8P6",
+                    "U016LHA1BHP",
+                    "U01CVQ02E5S"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "bot_id": "BLLCEVD9N",
+        "type": "message",
+        "text": "knuckle bump",
+        "user": "U01FUP6AMEZ",
+        "ts": "1607623885.158100",
+        "team": "TJE58GTJL",
+        "bot_profile": {
+            "id": "BLLCEVD9N",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1563567276,
+            "team_id": "TJE58GTJL"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "rFCh",
+                "image_url": "https:\/\/media1.giphy.com\/media\/fjxNnUOlRGw6IdenbW\/giphy-downsized.gif?cid=6104955e01b82dcdc7e67d3643bb82bba6cf5f3534b4815e&rid=giphy-downsized.gif",
+                "alt_text": "knuckle bump",
+                "title": {
+                    "type": "plain_text",
+                    "text": "knuckle bump",
+                    "emoji": true
+                },
+                "fallback": "480x270px image",
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 1551793,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "7Pfzf",
+                "elements": [
+                    {
+                        "type": "image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/CBeebiesHQ\/|CBeebies HQ>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607577128.152600",
+        "parent_user_id": "U01H87WF448"
+    },
+    {
+        "client_msg_id": "8c1074a0-15a2-40ac-bfbf-682bd2977663",
+        "type": "message",
+        "text": "Looking forward to your AMA. Your remodeled RV looks cool :blush:",
+        "user": "U01A4KX71HR",
+        "ts": "1607624535.158500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "938183dd6c69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1374749543888_938183dd6c69ee31ae89_72.jpg",
+            "first_name": "Aditya",
+            "real_name": "Aditya Tejas",
+            "display_name": "Aditya",
+            "team": "TJE58GTJL",
+            "name": "adityatejas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sD5Sk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking forward to your AMA. Your remodeled RV looks cool "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607458377.137000",
+        "parent_user_id": "U019E2RJD9Q",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U019E2RJD9Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E1A1E5A7-6A95-4A38-B6BE-6022EF05FC0B",
+        "type": "message",
+        "text": "Welcome <@U01H87WF448> !",
+        "user": "U015B88C4CA",
+        "ts": "1607627483.159100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "6e116b419699",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-30\/1688081624278_6e116b419699b9055428_72.jpg",
+            "first_name": "Alison",
+            "real_name": "Alison Baldyga (she\/her)",
+            "display_name": "Alison Baldyga (she\/her)",
+            "team": "TJE58GTJL",
+            "name": "alisonbaldyga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L4PH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01H87WF448"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607577128.152600",
+        "parent_user_id": "U01H87WF448",
+        "reactions": [
+            {
+                "name": "wave::skin-tone-3",
+                "users": [
+                    "U01H87WF448"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01e75398-df0c-403e-a156-f6db6abd9264",
+        "type": "message",
+        "text": "Thanks so much Jimmy.",
+        "user": "U01GCR094D9",
+        "ts": "1607628720.159700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "77a723524673",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-10\/1571588634628_77a723524673eb44bef4_72.jpg",
+            "first_name": "Peter",
+            "real_name": "Peter Burger",
+            "display_name": "Peter Burger",
+            "team": "TJE58GTJL",
+            "name": "burgerpete",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks so much Jimmy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607617417.156100",
+        "parent_user_id": "U01GCR094D9"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "50d2c63a-ad6a-48ba-9d0a-910de2d5bb5f",
+        "type": "message",
+        "text": "Hi all - I’m the content manager for <https:\/\/www.togetherplatform.com\/|Together Software>, (DR 63) a startup that helps enterprise companies run mentoring programs across their organization.\n• *I’m looking for sites to guest post on*. \n• In exchange I can offer links from our DR 63 site.\nDM me if interested :slightly_smiling_face:",
+        "user": "U01MM4EAC69",
+        "ts": "1634317738.164100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b24d38bc8456",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-21\/2507904900390_b24d38bc8456eb8fee58_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Carruthers",
+            "display_name": "Ryan Carruthers",
+            "team": "TJE58GTJL",
+            "name": "ryancarr678",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Together Mentoring Software",
+                "title_link": "https:\/\/www.togetherplatform.com\/",
+                "text": "Together's mentorship software makes it simple to start a mentorship program in the workplace or for your organization's members",
+                "fallback": "Together Mentoring Software",
+                "image_url": "https:\/\/assets-global.website-files.com\/5ce11396d0cadb55a02cabf7\/5cf0b3c92daaeaf6e8699b39_social.jpg",
+                "from_url": "https:\/\/www.togetherplatform.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 86529,
+                "service_name": "togetherplatform.com",
+                "id": 1,
+                "original_url": "https:\/\/www.togetherplatform.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gtr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all - I’m the content manager for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.togetherplatform.com\/",
+                                "text": "Together Software"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", (DR 63) a startup that helps enterprise companies run mentoring programs across their organization.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I’m looking for sites to guest post on",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In exchange I can offer links from our DR 63 site."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DM me if interested "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

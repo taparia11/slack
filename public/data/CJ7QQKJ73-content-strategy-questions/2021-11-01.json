@@ -1,0 +1,743 @@
+[
+    {
+        "client_msg_id": "8d9609d9-fd9b-436f-8939-29043d8bd6e0",
+        "type": "message",
+        "text": "Hey fam, A GA question:\n\nPlease tell me someone knows how to fix this. I'm trying to group\/report on a specific list of pages [they don't have anything in common when it comes to URLs so I'm adding them manually]. The best approach I found is to create content groupings in GA. However, whatever I do, I still get the general website stats with no filters\/groups on them, if that makes sense. Is there a way to make this work? Or an alternative? TIA",
+        "user": "U019P0ADPCH",
+        "ts": "1635770060.096200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey fam, A GA question:\n\nPlease tell me someone knows how to fix this. I'm trying to group\/report on a specific list of pages [they don't have anything in common when it comes to URLs so I'm adding them manually]. The best approach I found is to create content groupings in GA. However, whatever I do, I still get the general website stats with no filters\/groups on them, if that makes sense. Is there a way to make this work? Or an alternative? TIA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635770060.096200",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1636564822.205700",
+        "reply_users": [
+            "U02C37J4X5K",
+            "U019P0ADPCH",
+            "UJDPMTREY"
+        ],
+        "replies": [
+            {
+                "user": "U02C37J4X5K",
+                "ts": "1635772073.096300"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1635772654.096500"
+            },
+            {
+                "user": "UJDPMTREY",
+                "ts": "1635779081.097800"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1635789247.103500"
+            },
+            {
+                "user": "U02C37J4X5K",
+                "ts": "1635790731.103800"
+            },
+            {
+                "user": "U02C37J4X5K",
+                "ts": "1635790864.104100"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1636564822.205700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "89ff6351-7083-4f5e-983f-9002ed2f290f",
+        "type": "message",
+        "text": "Hey <@U019P0ADPCH> when you say you get the general website stats with no filters\/groups on them, what type of report are you generating for that? Are you able to select those content groupings as a dimension?",
+        "user": "U02C37J4X5K",
+        "ts": "1635772073.096300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2a0e0926cbe6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-20\/2521416259889_2a0e0926cbe6892f403b_72.jpg",
+            "first_name": "Suraj",
+            "real_name": "Suraj Karakulath",
+            "display_name": "Suraj Karakulath",
+            "team": "TJE58GTJL",
+            "name": "karakulath.suraj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U019P0ADPCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " when you say you get the general website stats with no filters\/groups on them, what type of report are you generating for that? Are you able to select those content groupings as a dimension?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635770060.096200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "d9919527-d5eb-45ec-9f7f-9002cb4bd10b",
+        "type": "message",
+        "text": "<@U02C37J4X5K> yes, I can select them as a grouping. Problem is: instead of getting like 10k Users for the pieces I selected, I get the whole 40+k that's for the entire website",
+        "user": "U019P0ADPCH",
+        "ts": "1635772654.096500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxVT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02C37J4X5K"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes, I can select them as a grouping. Problem is: instead of getting like 10k Users for the pieces I selected, I get the whole 40+k that's for the entire website"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635770060.096200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "3d25ad3a-6cfd-4338-921a-ebb47a1172e6",
+        "type": "message",
+        "text": "Hello all, \n\nI'm creating a guide on how B2B marketers can ditch MQLs &amp; SQLs and help fuel the acquisition of PQLs, so marketing can have more impact on sales. \n\nIs there any B2B marketer who has done this before here and will like to see the draft and contribute? \n\nI'll quote and give you a backlink.",
+        "user": "UUVRX9C13",
+        "ts": "1635772756.096900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KFsAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello all, \n\nI'm creating a guide on how B2B marketers can ditch MQLs & SQLs and help fuel the acquisition of PQLs, so marketing can have more impact on sales. \n\nIs there any B2B marketer who has done this before here and will like to see the draft and contribute? \n\nI'll quote and give you a backlink."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635772756.096900",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1636496844.176200",
+        "reply_users": [
+            "UJJFDTN8G",
+            "UUVRX9C13",
+            "U02GKTN1NDC"
+        ],
+        "replies": [
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1635773017.097000"
+            },
+            {
+                "user": "UUVRX9C13",
+                "ts": "1635776811.097200"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1635777023.097400"
+            },
+            {
+                "user": "UUVRX9C13",
+                "ts": "1635777868.097600"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1635780558.098000"
+            },
+            {
+                "user": "UUVRX9C13",
+                "ts": "1635781394.098200"
+            },
+            {
+                "user": "U02GKTN1NDC",
+                "ts": "1636430627.151600"
+            },
+            {
+                "user": "UUVRX9C13",
+                "ts": "1636473374.170000"
+            },
+            {
+                "user": "U02GKTN1NDC",
+                "ts": "1636496844.176200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d468ed6b-2027-404c-a8a3-b9f9755d29b5",
+        "type": "message",
+        "text": "I don't measure on MQLs or SQLs so happy to contribute with whatever you need.\n\nWithout Googling though, I couldn't tell you what a PQL is though.",
+        "user": "UJJFDTN8G",
+        "ts": "1635773017.097000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't measure on MQLs or SQLs so happy to contribute with whatever you need.\n\nWithout Googling though, I couldn't tell you what a PQL is though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635772756.096900",
+        "parent_user_id": "UUVRX9C13"
+    },
+    {
+        "client_msg_id": "f13a8f56-d94f-45de-a837-171f3c8093a3",
+        "type": "message",
+        "text": "PQL = product qualified lead.",
+        "user": "UUVRX9C13",
+        "ts": "1635776811.097200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCTQ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PQL = product qualified lead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635772756.096900",
+        "parent_user_id": "UUVRX9C13"
+    },
+    {
+        "client_msg_id": "fd6c946c-cc26-4ea1-a526-83b78c605c24",
+        "type": "message",
+        "text": "Sounds exactly how I operate with the <http:\/\/dispatch.m.io|Mio blog>. The aim is to get readers to install the app from the blog post or move them to website to learn more about the product.",
+        "user": "UJJFDTN8G",
+        "ts": "1635777023.097400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nxWk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds exactly how I operate with the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dispatch.m.io",
+                                "text": "Mio blog"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". The aim is to get readers to install the app from the blog post or move them to website to learn more about the product."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635772756.096900",
+        "parent_user_id": "UUVRX9C13"
+    },
+    {
+        "client_msg_id": "890e000a-d74b-49fa-b0fa-09a578b2b287",
+        "type": "message",
+        "text": "Nice, can I DM you the draft? There's a spot your experience will be helpful (using content to directly funnel readers into new users.",
+        "user": "UUVRX9C13",
+        "ts": "1635777868.097600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice, can I DM you the draft? There's a spot your experience will be helpful (using content to directly funnel readers into new users."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635772756.096900",
+        "parent_user_id": "UUVRX9C13"
+    },
+    {
+        "client_msg_id": "991860b8-1963-48cb-bd8e-d777c60721d5",
+        "type": "message",
+        "text": "have you tried creating a segment that includes only those URLs within that content grouping? that should filter everything that you see in GA (when that segment is applied).\n\notherwise, you'd need to manually drill down in any report to exclude content that wasn't within your content group",
+        "user": "UJDPMTREY",
+        "ts": "1635779081.097800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g0f2b9c6857c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cd0f2b9c6857c50b5da6c8ef2d80103b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Derek",
+            "real_name": "Derek Gleason",
+            "display_name": "Derek Gleason",
+            "team": "TJE58GTJL",
+            "name": "derek.gleason",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1Ha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have you tried creating a segment that includes only those URLs within that content grouping? that should filter everything that you see in GA (when that segment is applied).\n\notherwise, you'd need to manually drill down in any report to exclude content that wasn't within your content group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635770060.096200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "c6c7b796-da72-497e-9db2-cabd7a06f9c3",
+        "type": "message",
+        "text": "Sure thing!",
+        "user": "UJJFDTN8G",
+        "ts": "1635780558.098000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOGD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure thing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635772756.096900",
+        "parent_user_id": "UUVRX9C13"
+    },
+    {
+        "client_msg_id": "21fb6783-7c5d-4ba7-93da-f0d21233933b",
+        "type": "message",
+        "text": "I’m DM’ing you at <@UJJFDTN8G>",
+        "user": "UUVRX9C13",
+        "ts": "1635781394.098200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ed743ec6092a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-07\/2580992218451_ed743ec6092a515a6d4c_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Eduoh",
+            "display_name": "Victor Eduoh",
+            "team": "TJE58GTJL",
+            "name": "victor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hv+Uv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m DM’ing you at "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJJFDTN8G"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635772756.096900",
+        "parent_user_id": "UUVRX9C13"
+    },
+    {
+        "client_msg_id": "a4823e8f-f020-4d63-b145-76dcc1af557f",
+        "type": "message",
+        "text": "<@UJDPMTREY> that's what I ended up doing, it's just weird that no matter how I sort it, I still get some extra pages I hadn't added. Currently looking into adding controls via Data Studio",
+        "user": "U019P0ADPCH",
+        "ts": "1635789247.103500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b26c915e9b23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-29\/2020593037140_b26c915e9b23e5b0cdbe_72.png",
+            "first_name": "Alexandra",
+            "real_name": "Alexandra Cote",
+            "display_name": "Alexandra Cote",
+            "team": "TJE58GTJL",
+            "name": "cotealexandra11",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SkvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJDPMTREY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that's what I ended up doing, it's just weird that no matter how I sort it, I still get some extra pages I hadn't added. Currently looking into adding controls via Data Studio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635770060.096200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "3f574ff8-ce8a-4100-9e27-c65272feeb12",
+        "type": "message",
+        "text": "Strange. This may be a stupid question but any chance you accidentally added something in the URL that applies to all pages? Like a regex wildcard etc.? Something might be wrong with the manual URL additions is what I'm thinking.",
+        "user": "U02C37J4X5K",
+        "ts": "1635790731.103800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2a0e0926cbe6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-20\/2521416259889_2a0e0926cbe6892f403b_72.jpg",
+            "first_name": "Suraj",
+            "real_name": "Suraj Karakulath",
+            "display_name": "Suraj Karakulath",
+            "team": "TJE58GTJL",
+            "name": "karakulath.suraj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVvA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Strange. This may be a stupid question but any chance you accidentally added something in the URL that applies to all pages? Like a regex wildcard etc.? Something might be wrong with the manual URL additions is what I'm thinking."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635770060.096200",
+        "parent_user_id": "U019P0ADPCH",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UJDPMTREY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db801c18-ad3a-4fd3-a377-64acdf111dc1",
+        "type": "message",
+        "text": "Or something like \"contains\" and \/home",
+        "user": "U02C37J4X5K",
+        "ts": "1635790864.104100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "2a0e0926cbe6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-20\/2521416259889_2a0e0926cbe6892f403b_72.jpg",
+            "first_name": "Suraj",
+            "real_name": "Suraj Karakulath",
+            "display_name": "Suraj Karakulath",
+            "team": "TJE58GTJL",
+            "name": "karakulath.suraj",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "meu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or something like \"contains\" and \/home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1635770060.096200",
+        "parent_user_id": "U019P0ADPCH"
+    },
+    {
+        "client_msg_id": "5371c9f6-6974-46d9-9434-7fd395352e53",
+        "type": "message",
+        "text": "I always recommend the pro blogger job board - I found great talent there",
+        "user": "U01NRLHF3HT",
+        "ts": "1635799684.104300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e5d8f0730364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-22\/1775366437445_e5d8f0730364f08b9818_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Roeder",
+            "display_name": "Laura Roeder",
+            "team": "TJE58GTJL",
+            "name": "laura116",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "env",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I always recommend the pro blogger job board - I found great talent there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1634728089.239600",
+        "parent_user_id": "U01JED4MWKT",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01JED4MWKT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U01JED4MWKT",
+                    "U01L7S9CVNG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1604236172.059800",
+        "thread_ts": "1604236172.059800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1604514866.063400",
+        "reply_users": [
+            "U01CUV0GH46",
+            "U01CYNC1ZAN",
+            "U01BWJZ3QMD"
+        ],
+        "replies": [
+            {
+                "user": "U01CUV0GH46",
+                "ts": "1604243294.059900"
+            },
+            {
+                "user": "U01CYNC1ZAN",
+                "ts": "1604508010.062600"
+            },
+            {
+                "user": "U01BWJZ3QMD",
+                "ts": "1604514866.063400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e26b5bfc-bde2-46ea-8fcb-a583e904550b",
+        "type": "message",
+        "text": "Hi Alexandra, I'm interested in receiving the details :slightly_smiling_face: Thanks!",
+        "user": "U01CUV0GH46",
+        "ts": "1604243294.059900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "8e4627b6cce6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-25\/1552408065856_8e4627b6cce6b430a346_72.jpg",
+            "first_name": "Adrien",
+            "real_name": "Adrien Lemaire",
+            "display_name": "Adrien Lemaire",
+            "team": "TJE58GTJL",
+            "name": "ad.lemaire",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SQ9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Alexandra, I'm interested in receiving the details "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604236172.059800",
+        "parent_user_id": "U019P0ADPCH"
+    }
+]

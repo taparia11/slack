@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583345086.000200",
+        "user": "UUJBUK6LT",
+        "text": "<@UUJBUK6LT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583384603.000200",
+        "user": "UUWUJ11TJ",
+        "text": "<@UUWUJ11TJ> has joined the channel"
+    },
+    {
+        "client_msg_id": "843d15eb-d5d6-44ad-87d8-128ad4fb7478",
+        "type": "message",
+        "text": "Hey hey",
+        "user": "UUWUJ11TJ",
+        "ts": "1583384608.000500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "11ce6db238ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-05\/985577144439_11ce6db238ec5f3b69ec_72.jpg",
+            "first_name": "Jacob",
+            "real_name": "Jacob Peters",
+            "display_name": "Jacob Peters",
+            "team": "TJE58GTJL",
+            "name": "jacob_cmcg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ytva",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey hey"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

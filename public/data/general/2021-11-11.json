@@ -1,0 +1,419 @@
+[
+    {
+        "client_msg_id": "D31FCA71-4FA3-4F3E-9D00-94EEFC837AC0",
+        "type": "message",
+        "text": "hi all! *wrt content pruning*: would deindeixing pages from Google achieve the same result? or should we strictly prune them from our website? appreciate the help :wink: ",
+        "user": "U0201FV7XGQ",
+        "ts": "1636619726.106500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c55f0dd09d73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-20\/1981080271202_c55f0dd09d73010650de_72.png",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "adityashth74",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0201FV7XGQ",
+            "ts": "1636619864.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JlMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi all! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "wrt content pruning",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": would deindeixing pages from Google achieve the same result? or should we strictly prune them from our website? appreciate the help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636619726.106500",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1636646785.108000",
+        "reply_users": [
+            "UUKNSAKUH",
+            "U0201FV7XGQ",
+            "U01ER4GNRJ7",
+            "ULJBEFSJJ"
+        ],
+        "replies": [
+            {
+                "user": "UUKNSAKUH",
+                "ts": "1636620854.106700"
+            },
+            {
+                "user": "UUKNSAKUH",
+                "ts": "1636621315.106900"
+            },
+            {
+                "user": "UUKNSAKUH",
+                "ts": "1636621371.107100"
+            },
+            {
+                "user": "U0201FV7XGQ",
+                "ts": "1636622668.107300"
+            },
+            {
+                "user": "U01ER4GNRJ7",
+                "ts": "1636635834.107600"
+            },
+            {
+                "user": "ULJBEFSJJ",
+                "ts": "1636646785.108000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e55aefe8-5aff-4d2c-b40d-2748b8f6e44c",
+        "type": "message",
+        "text": "I’m not sure what you want to achieve, are you speaking about pages you no longer want on your website?",
+        "user": "UUKNSAKUH",
+        "ts": "1636620854.106700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c1fd638514",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/975112902481_22c1fd63851461dc68d6_72.jpg",
+            "first_name": "Kal",
+            "real_name": "Kal Dimitrov",
+            "display_name": "Kal Dimitrov",
+            "team": "TJE58GTJL",
+            "name": "kaloyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NnTUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not sure what you want to achieve, are you speaking about pages you no longer want on your website?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636619726.106500",
+        "parent_user_id": "U0201FV7XGQ"
+    },
+    {
+        "client_msg_id": "df15ef78-c4b6-4ee4-b3d2-5aa1bb919560",
+        "type": "message",
+        "text": "If you do remove them from your website, google will also soon deindex them (you can try speeding it up with the request deindexing tool in the search console)",
+        "user": "UUKNSAKUH",
+        "ts": "1636621315.106900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c1fd638514",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/975112902481_22c1fd63851461dc68d6_72.jpg",
+            "first_name": "Kal",
+            "real_name": "Kal Dimitrov",
+            "display_name": "Kal Dimitrov",
+            "team": "TJE58GTJL",
+            "name": "kaloyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RiX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you do remove them from your website, google will also soon deindex them (you can try speeding it up with the request deindexing tool in the search console)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636619726.106500",
+        "parent_user_id": "U0201FV7XGQ"
+    },
+    {
+        "client_msg_id": "6029817e-c37b-4ea6-a1f2-36752a5aee80",
+        "type": "message",
+        "text": "just always be wary not to remove pages that have backlinks pointing to them, even though they are not ranking - it’s not the end of the world if you have a page that’s not ranking, but if it brought you good backlinks and you removed it, then it very well could be",
+        "user": "UUKNSAKUH",
+        "ts": "1636621371.107100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "22c1fd638514",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/975112902481_22c1fd63851461dc68d6_72.jpg",
+            "first_name": "Kal",
+            "real_name": "Kal Dimitrov",
+            "display_name": "Kal Dimitrov",
+            "team": "TJE58GTJL",
+            "name": "kaloyan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFOt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just always be wary not to remove pages that have backlinks pointing to them, even though they are not ranking - it’s not the end of the world if you have a page that’s not ranking, but if it brought you good backlinks and you removed it, then it very well could be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636619726.106500",
+        "parent_user_id": "U0201FV7XGQ"
+    },
+    {
+        "client_msg_id": "101131eb-416b-44be-a670-3bda623d6273",
+        "type": "message",
+        "text": "thanks <@UUKNSAKUH>! basically we have 100s of pages that drive 0 traffic (+ no backlinks). from what i know, removing them boosts traffic (since crawl budget goes to high traffic pages).",
+        "user": "U0201FV7XGQ",
+        "ts": "1636622668.107300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c55f0dd09d73",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-20\/1981080271202_c55f0dd09d73010650de_72.png",
+            "first_name": "aditya",
+            "real_name": "aditya sheth",
+            "display_name": "aditya",
+            "team": "TJE58GTJL",
+            "name": "adityashth74",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0201FV7XGQ",
+            "ts": "1636622713.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5CXB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUKNSAKUH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! basically we have 100s of pages that drive 0 traffic (+ no backlinks). from what i know, removing them boosts traffic (since crawl budget goes to high traffic pages)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636619726.106500",
+        "parent_user_id": "U0201FV7XGQ"
+    },
+    {
+        "client_msg_id": "dc1f38b8-1cad-44a3-9146-f53c9d0fa777",
+        "type": "message",
+        "text": "Setting a page to noindex prevents\/removes it from Google’s index (assuming it can be crawled). But that’s it. It can still accumulate and pass PageRank, so I assume it can still influence other determinations made by Google’s systems.\n\nCrawl budget isn’t an issue until you get into the millions of pages (if they update moderately - like once a week) or tens of thousands (if they update frequently - like daily).\n\nAlso, the assertion that removing pages boosts traffic since crawl budget goes to high traffic pages is incorrect. Crawl budget doesn’t influence traffic.\n\nLastly, traffic\/backlinks shouldn’t be the basis for pruning content. The main issue revolves around quality of content. Don’t be the one that uses a butcher’s blade when a scalpel is what’s required.\n\nLook to improve the content as opposed to giving it the axe.",
+        "user": "U01ER4GNRJ7",
+        "ts": "1636635834.107600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b3339a5e347e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-17\/1492466340871_b3339a5e347e5f378bef_72.jpg",
+            "first_name": "Stephen",
+            "real_name": "Stephen Jeske",
+            "display_name": "Stephen Jeske",
+            "team": "TJE58GTJL",
+            "name": "stephen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YovL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Setting a page to noindex prevents\/removes it from Google’s index (assuming it can be crawled). But that’s it. It can still accumulate and pass PageRank, so I assume it can still influence other determinations made by Google’s systems.\n\nCrawl budget isn’t an issue until you get into the millions of pages (if they update moderately - like once a week) or tens of thousands (if they update frequently - like daily).\n\nAlso, the assertion that removing pages boosts traffic since crawl budget goes to high traffic pages is incorrect. Crawl budget doesn’t influence traffic.\n\nLastly, traffic\/backlinks shouldn’t be the basis for pruning content. The main issue revolves around quality of content. Don’t be the one that uses a butcher’s blade when a scalpel is what’s required.\n\nLook to improve the content as opposed to giving it the axe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636619726.106500",
+        "parent_user_id": "U0201FV7XGQ"
+    },
+    {
+        "client_msg_id": "7b289847-ef20-45cc-98b4-0f9aba37f7d1",
+        "type": "message",
+        "text": "Deindexing will help with crawl budget, but if the content is bad enough that you want to prune it anyway, why not just delete it? Similarly to the point above, I think it would make the most sense to review it for quality in addition to the backlinks and then get rid of whatever content is no longer worth updating rather than leaving it on your site. The only reason I can see to deindex it is if you're planning on updating it anyway... and even then I wouldn't go to the effort of deindexing it in the meantime",
+        "user": "ULJBEFSJJ",
+        "ts": "1636646785.108000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "c749875321a5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-18\/2090537681729_c749875321a56a4f4dc4_72.jpg",
+            "first_name": "Tatiana",
+            "real_name": "Tatiana Morand (she\/her)",
+            "display_name": "Tatiana",
+            "team": "TJE58GTJL",
+            "name": "tmorand",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1BPi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Deindexing will help with crawl budget, but if the content is bad enough that you want to prune it anyway, why not just delete it? Similarly to the point above, I think it would make the most sense to review it for quality in addition to the backlinks and then get rid of whatever content is no longer worth updating rather than leaving it on your site. The only reason I can see to deindex it is if you're planning on updating it anyway... and even then I wouldn't go to the effort of deindexing it in the meantime"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636619726.106500",
+        "parent_user_id": "U0201FV7XGQ"
+    },
+    {
+        "client_msg_id": "dd5d864d-e6ba-4ca0-a5d0-a97a8054e52f",
+        "type": "message",
+        "text": "Hey Superpeeps, has anyone had their Linkedin account suspended and been able to have it reinstated?\n\nThis happened to me 2 months ago (unfairly I believe - here's <https:\/\/scm.ck.page\/posts\/it-s-been-a-frustrating-week|more info on what happened>), and after several attempts and back and forth emails with the LI team I got nowhere. I basically put it in the \"too hard &amp; frustrating basket\" and left it alone for my own sanity.\n\nI'm feeling now that I'm missing opportunities by not having a presence on LI, so I'd like to try again to get it reinstated.\n\nDoes anyone have any tips, guidance, or a contact that works at LI (who will actually listen and not throw terms and conditions in my face) that might be able to help?",
+        "user": "U01RSA9E9D4",
+        "ts": "1636671527.112900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gfbc217f6e1b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fbc217f6e1b233bf10c4247333c118e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Anfernee",
+            "real_name": "Anfernee Chansamooth",
+            "display_name": "Anf Chansamooth",
+            "team": "TJE58GTJL",
+            "name": "anf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01RSA9E9D4",
+            "ts": "1636671555.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/scm.ck.page\/posts\/it-s-been-a-frustrating-week",
+                "title": "It's been a frustrating week!",
+                "title_link": "https:\/\/scm.ck.page\/posts\/it-s-been-a-frustrating-week",
+                "text": "Why hello, I’m Anf Chansamooth. You’re getting this email because you signed up to receive content marketing, remote work, and entrepreneurship tips from me (either through Simple Creative Marketing, Founders Connect or Remote Business Summit). ​ I appreciate you being on my list, but if you...",
+                "thumb_url": "https:\/\/embed.filekitcdn.com\/e\/7MJaPDzqrMSSXpBxtEe4nS\/hSwmdgMG3erDsKZrZpnU83\/email",
+                "thumb_width": 1196,
+                "thumb_height": 416,
+                "fallback": "It's been a frustrating week!",
+                "service_name": "scm.ck.page",
+                "id": 1,
+                "original_url": "https:\/\/scm.ck.page\/posts\/it-s-been-a-frustrating-week"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "imkSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Superpeeps, has anyone had their Linkedin account suspended and been able to have it reinstated?\n\nThis happened to me 2 months ago (unfairly I believe - here's "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scm.ck.page\/posts\/it-s-been-a-frustrating-week",
+                                "text": "more info on what happened"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), and after several attempts and back and forth emails with the LI team I got nowhere. I basically put it in the \"too hard & frustrating basket\" and left it alone for my own sanity.\n\nI'm feeling now that I'm missing opportunities by not having a presence on LI, so I'd like to try again to get it reinstated.\n\nDoes anyone have any tips, guidance, or a contact that works at LI (who will actually listen and not throw terms and conditions in my face) that might be able to help?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

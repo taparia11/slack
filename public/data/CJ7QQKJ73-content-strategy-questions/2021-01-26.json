@@ -1,0 +1,2686 @@
+[
+    {
+        "client_msg_id": "85fc4a63-319a-41af-b8f8-88c1566c759b",
+        "type": "message",
+        "text": "Hey, I have a question about choosing the right site structure for a new blog.\n\nI see some companies having it the \"normal\" way:  <http:\/\/example.com\/blog|example.com\/blog>, while others (like Backlinko) prefer to do it without \/blog and just write massive guides in one scroll: <https:\/\/backlinko.com\/content-marketing-this-year>\n\nWhat are your thoughts on this? Is any of them better\/worse? Any resources where I could get myself educated about this + some technical SEO?",
+        "user": "U01K26PH1L3",
+        "ts": "1611657779.072000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a9d895e8edc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1660961993847_a9d895e8edc23e24f9be_72.jpg",
+            "first_name": "Kas",
+            "real_name": "Kas (V7)",
+            "display_name": "Kas (Tidio)",
+            "team": "TJE58GTJL",
+            "name": "k.szatylowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01K26PH1L3",
+            "ts": "1611657799.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XH89",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, I have a question about choosing the right site structure for a new blog.\n\nI see some companies having it the \"normal\" way:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/example.com\/blog",
+                                "text": "example.com\/blog"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", while others (like Backlinko) prefer to do it without \/blog and just write massive guides in one scroll: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/backlinko.com\/content-marketing-this-year"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWhat are your thoughts on this? Is any of them better\/worse? Any resources where I could get myself educated about this + some technical SEO?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "reply_count": 21,
+        "reply_users_count": 9,
+        "latest_reply": "1611896130.177200",
+        "reply_users": [
+            "U014PRHQUQ2",
+            "U01K26PH1L3",
+            "UJJFDTN8G",
+            "UJG4WTGKS",
+            "USLACKBOT",
+            "U01ANAZTZTK",
+            "UUXMCJQ15",
+            "U013WCZ5GSV",
+            "U0192P2G8F5"
+        ],
+        "replies": [
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611658496.072300"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611658510.072500"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611658563.072700"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611658594.072900"
+            },
+            {
+                "user": "U01K26PH1L3",
+                "ts": "1611658828.073100"
+            },
+            {
+                "user": "UJJFDTN8G",
+                "ts": "1611660066.073400"
+            },
+            {
+                "user": "UJG4WTGKS",
+                "ts": "1611662511.073700"
+            },
+            {
+                "user": "UJG4WTGKS",
+                "ts": "1611662573.073900"
+            },
+            {
+                "user": "UJG4WTGKS",
+                "ts": "1611662623.074100"
+            },
+            {
+                "user": "U01K26PH1L3",
+                "ts": "1611663660.074300"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1611663661.074500"
+            },
+            {
+                "user": "U014PRHQUQ2",
+                "ts": "1611666312.075100"
+            },
+            {
+                "user": "U01ANAZTZTK",
+                "ts": "1611669978.075800"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1611673457.080400"
+            },
+            {
+                "user": "U01K26PH1L3",
+                "ts": "1611677107.081100"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1611677107.081300"
+            },
+            {
+                "user": "U013WCZ5GSV",
+                "ts": "1611682182.087000"
+            },
+            {
+                "user": "U013WCZ5GSV",
+                "ts": "1611682184.087200"
+            },
+            {
+                "user": "U0192P2G8F5",
+                "ts": "1611786970.123200"
+            },
+            {
+                "user": "UUXMCJQ15",
+                "ts": "1611861865.149200"
+            },
+            {
+                "user": "U0192P2G8F5",
+                "ts": "1611896130.177200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6606de4b-a275-4af5-bad7-84782d161618",
+        "type": "message",
+        "text": "It’s a matter of preference. I personally prefer a neat information architecture, which means information is properly ordered. Blog articles go into `\/blog\/`, our Academy articles go into `\/academy\/` and so on. You could argue that it’s also easier to track performance in Analytics if your content is better organized but you could use something like virtual pageviews to achieve that if I were to go for a flat URL structure.\n\nIf you expect to publish a lot of content, I’d neatly categorize it. If it’s just 10-20 pages in total on a site, a flat URL structure (without subfolders) is fine",
+        "user": "U014PRHQUQ2",
+        "ts": "1611658496.072300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nus6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s a matter of preference. I personally prefer a neat information architecture, which means information is properly ordered. Blog articles go into "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/blog\/",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", our Academy articles go into "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/academy\/",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and so on. You could argue that it’s also easier to track performance in Analytics if your content is better organized but you could use something like virtual pageviews to achieve that if I were to go for a flat URL structure.\n\nIf you expect to publish a lot of content, I’d neatly categorize it. If it’s just 10-20 pages in total on a site, a flat URL structure (without subfolders) is fine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01K26PH1L3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "494dc2a6-b2b0-4ef4-8465-ff1f891fd8d2",
+        "type": "message",
+        "text": "this doesn’t really touch on Technical SEO, it’s more of a preference",
+        "user": "U014PRHQUQ2",
+        "ts": "1611658510.072500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wnycM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this doesn’t really touch on Technical SEO, it’s more of a preference"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "client_msg_id": "a0f6ca24-3d32-4f68-9739-28383267d0fb",
+        "type": "message",
+        "text": "something to consider is the URL’s length. So having a flat URL structure makes for shorter URLs, but when you have a lot of content it comes at a cost — a messy information architecture.",
+        "user": "U014PRHQUQ2",
+        "ts": "1611658563.072700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "something to consider is the URL’s length. So having a flat URL structure makes for shorter URLs, but when you have a lot of content it comes at a cost — a messy information architecture."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "client_msg_id": "23389925-2f3b-4df4-96c2-caa289f3714e",
+        "type": "message",
+        "text": "keep the future in mind too, changing URL structure is easy but the migration that follows is a PITA. Avoid migrations where you can",
+        "user": "U014PRHQUQ2",
+        "ts": "1611658594.072900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hmv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "keep the future in mind too, changing URL structure is easy but the migration that follows is a PITA. Avoid migrations where you can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01K26PH1L3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10bf3843-91d9-49bd-bf5f-195849c6bb40",
+        "type": "message",
+        "text": "thank you <@U014PRHQUQ2>!!!",
+        "user": "U01K26PH1L3",
+        "ts": "1611658828.073100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a9d895e8edc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1660961993847_a9d895e8edc23e24f9be_72.jpg",
+            "first_name": "Kas",
+            "real_name": "Kas (V7)",
+            "display_name": "Kas (Tidio)",
+            "team": "TJE58GTJL",
+            "name": "k.szatylowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9a5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U014PRHQUQ2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e647b6a2-ba6b-4afb-bade-e3360991b477",
+        "type": "message",
+        "text": "We use <http:\/\/dispatch.m.io|dispatch.m.io> instead of <http:\/\/m.io\/blog|m.io\/blog> - I can honestly say it has made no difference in this case. We rank #1 for our most important posts and high for everything else.\n\nThere's a lot of theory out there about structure but I'd only listen to people who have changed\/experimented for real-world insights.",
+        "user": "UJJFDTN8G",
+        "ts": "1611660066.073400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tKn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We use "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/dispatch.m.io",
+                                "text": "dispatch.m.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " instead of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/m.io\/blog",
+                                "text": "m.io\/blog"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I can honestly say it has made no difference in this case. We rank #1 for our most important posts and high for everything else.\n\nThere's a lot of theory out there about structure but I'd only listen to people who have changed\/experimented for real-world insights."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "client_msg_id": "6f3780be-a86c-4638-be57-1877f9f458ab",
+        "type": "message",
+        "text": "To add to what Steven said (which was excellent):\n\nIt also depends a lot on the structure of your site\/how much content you have and how you want to spread it out.\n\nBacklinko is mostly a blog, so Brian can get away with not using a folder for the blog, but if you have landing pages, blog, academy, etc. it would get messy quickly and it’s definitely better to use a folder (\/blog\/, etc.)",
+        "user": "UJG4WTGKS",
+        "ts": "1611662511.073700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g59d2a818266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a59d2a81826605914ba3f4b78c3fa6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Markov",
+            "display_name": "Ilia Markov",
+            "team": "TJE58GTJL",
+            "name": "hello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KcV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To add to what Steven said (which was excellent):\n\nIt also depends a lot on the structure of your site\/how much content you have and how you want to spread it out.\n\nBacklinko is mostly a blog, so Brian can get away with not using a folder for the blog, but if you have landing pages, blog, academy, etc. it would get messy quickly and it’s definitely better to use a folder (\/blog\/, etc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "client_msg_id": "68d26bce-97cd-48ca-8d96-5a0647d4e2ed",
+        "type": "message",
+        "text": "from an SEO perspective shorter URLs work better, but making the architecture clearer through the strategic use of folders also has benefits from the point of SEO",
+        "user": "UJG4WTGKS",
+        "ts": "1611662573.073900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g59d2a818266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a59d2a81826605914ba3f4b78c3fa6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Markov",
+            "display_name": "Ilia Markov",
+            "team": "TJE58GTJL",
+            "name": "hello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKDa9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "from an SEO perspective shorter URLs work better, but making the architecture clearer through the strategic use of folders also has benefits from the point of SEO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01K26PH1L3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7590a4ef-fe5b-4943-a6da-b1648e56895c",
+        "type": "message",
+        "text": "finally, it’s also user friendly. Having your blog under a folder (\/blog\/) makes is miles easier to track it in Google Analytics without having to be an analytics magician",
+        "user": "UJG4WTGKS",
+        "ts": "1611662623.074100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g59d2a818266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a59d2a81826605914ba3f4b78c3fa6f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Markov",
+            "display_name": "Ilia Markov",
+            "team": "TJE58GTJL",
+            "name": "hello",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U+Qu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "finally, it’s also user friendly. Having your blog under a folder (\/blog\/) makes is miles easier to track it in Google Analytics without having to be an analytics magician"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01K26PH1L3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc9c389c-4eff-4dfb-bf87-774203f71fa9",
+        "type": "message",
+        "text": "thank you folks! :slightly_smiling_face: really useful stuff",
+        "user": "U01K26PH1L3",
+        "ts": "1611663660.074300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a9d895e8edc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1660961993847_a9d895e8edc23e24f9be_72.jpg",
+            "first_name": "Kas",
+            "real_name": "Kas (V7)",
+            "display_name": "Kas (Tidio)",
+            "team": "TJE58GTJL",
+            "name": "k.szatylowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01K26PH1L3",
+            "ts": "1611666656.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+o6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you folks! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " really useful stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1611663661.074500",
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "client_msg_id": "306afc72-8417-460a-83e2-dd23ffdfb6e7",
+        "type": "message",
+        "text": "to add to the Backlinko stuff: Brian has been moving content and restructuring his site’s architecture constantly, based on new insights and results. It’s never done, and I’m sure he too regrets some of the decisions he’s made. His IA is very work-in-progress",
+        "user": "U014PRHQUQ2",
+        "ts": "1611666312.075100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "5eaf71ac08a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-06-03\/1161541404066_5eaf71ac08a31003112c_72.png",
+            "first_name": "Steven",
+            "real_name": "Steven van Vessum",
+            "display_name": "Steven van Vessum",
+            "team": "TJE58GTJL",
+            "name": "steven",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uG8sf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to add to the Backlinko stuff: Brian has been moving content and restructuring his site’s architecture constantly, based on new insights and results. It’s never done, and I’m sure he too regrets some of the decisions he’s made. His IA is very work-in-progress"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01K26PH1L3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "UJG4WTGKS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5aca44d4-07d9-4f3c-81c5-606be6dce0fe",
+        "type": "message",
+        "text": "For us, it is also really important for reporting on our site traffic. Our \/blog\/ traffic numbers are pretty different than our \/products\/ traffic numbers, so having those in the url structure makes it easy to filter by section of the website in Google Analytics.",
+        "user": "U01ANAZTZTK",
+        "ts": "1611669978.075800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ef5727669c45",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1349771386962_ef5727669c45c9f60612_72.jpg",
+            "first_name": "Theresa",
+            "real_name": "Theresa Hebert",
+            "display_name": "Theresa Hebert",
+            "team": "TJE58GTJL",
+            "name": "theresa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q02Mp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For us, it is also really important for reporting on our site traffic. Our \/blog\/ traffic numbers are pretty different than our \/products\/ traffic numbers, so having those in the url structure makes it easy to filter by section of the website in Google Analytics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01K26PH1L3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01K26PH1L3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff5cc94f-9019-48fd-b763-1532ba871db9",
+        "type": "message",
+        "text": "Hello! I'm looking for customer engagement\/customer loyalty subject matter experts... Can you recommend experts for me to follow on LinkedIn or know someone you could introduce me to who wouldn't mind doing a 30 min informational interview?",
+        "user": "UMQASRN1W",
+        "ts": "1611671143.078300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae52749b3983",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-09\/902007767399_ae52749b3983ed788ed1_72.jpg",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth B",
+            "display_name": "Elizabeth B",
+            "team": "TJE58GTJL",
+            "name": "elizabeth.sm.bell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pvf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! I'm looking for customer engagement\/customer loyalty subject matter experts... Can you recommend experts for me to follow on LinkedIn or know someone you could introduce me to who wouldn't mind doing a 30 min informational interview?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611671143.078300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1611765019.108800",
+        "reply_users": [
+            "U01K26PH1L3",
+            "URB31QKM4",
+            "UMQASRN1W"
+        ],
+        "replies": [
+            {
+                "user": "U01K26PH1L3",
+                "ts": "1611677154.081800"
+            },
+            {
+                "user": "URB31QKM4",
+                "ts": "1611684922.089000"
+            },
+            {
+                "user": "UMQASRN1W",
+                "ts": "1611765019.108800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "483be269-2851-4e53-9238-1af35274596c",
+        "type": "message",
+        "text": "Literally put everything I know about YouTube into these two videos:",
+        "user": "UUXMCJQ15",
+        "ts": "1611672941.079300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "apM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Literally put everything I know about YouTube into these two videos:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611598494.057300",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "80f344ef-2a44-4fac-a360-99cc7208d8df",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=1kXYmMm1xdg>",
+        "user": "UUXMCJQ15",
+        "ts": "1611672984.079500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "3 Secrets - Start &amp; Grow Your YouTube Channel From Zero (2020)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=1kXYmMm1xdg",
+                "author_name": "Brendan Hufford",
+                "author_link": "https:\/\/www.youtube.com\/user\/lpflyer88",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/1kXYmMm1xdg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 3 Secrets - Start & Grow Your YouTube Channel From Zero (2020)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/1kXYmMm1xdg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=1kXYmMm1xdg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=1kXYmMm1xdg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CqIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=1kXYmMm1xdg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611598494.057300",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "516582eb-8821-4197-8a0d-051c6116a020",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Ycb0dqt1fKU>",
+        "user": "UUXMCJQ15",
+        "ts": "1611672990.079800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Master YouTube SEO in 2 minutes #100DaysofSEO",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Ycb0dqt1fKU",
+                "author_name": "Brendan Hufford",
+                "author_link": "https:\/\/www.youtube.com\/user\/lpflyer88",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Ycb0dqt1fKU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Master YouTube SEO in 2 minutes #100DaysofSEO",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Ycb0dqt1fKU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Ycb0dqt1fKU",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Ycb0dqt1fKU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zhe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Ycb0dqt1fKU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611598494.057300",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "7b256a74-cb08-4565-ae7a-8530fb272232",
+        "type": "message",
+        "text": ":pray:  Thanks Brendan. Bookmarked these to go through tomorrow",
+        "user": "UJJFDTN8G",
+        "ts": "1611673027.080100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gd91d89ae152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/86d91d89ae1528e747f4a586668d5d87.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Dominic",
+            "real_name": "Dominic Kent",
+            "display_name": "Dom Kent",
+            "team": "TJE58GTJL",
+            "name": "dominic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Thanks Brendan. Bookmarked these to go through tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611598494.057300",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "f128fcb3-d222-4920-8e8a-dacfe92be1a9",
+        "type": "message",
+        "text": "I wouldn’t stress it TBH",
+        "user": "UUXMCJQ15",
+        "ts": "1611673457.080400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6e525101d39",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e525101d39a0ff9ea2ac1c51a176ba8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Brendan",
+            "real_name": "Brendan Hufford",
+            "display_name": "Brendan Hufford",
+            "team": "TJE58GTJL",
+            "name": "brendanhufford",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R=R5L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn’t stress it TBH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01K26PH1L3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc1d104f-77a1-4e58-ac42-5129ebb4d496",
+        "type": "message",
+        "text": "+1 to <@U014PRHQUQ2>'s question, buuuut if you're mainly focused on \"how effectively is this content generating traffic,\" check out Revive:\n\n<https:\/\/revive.animalz.co\/>\n\nfree tool we (Animalz :wave: ) built that hooks up to your Google Analytics and identifies articles that have plateaued or suffer from content decay",
+        "user": "UJ3K7N8GJ",
+        "ts": "1611675011.080700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "e354841b2058",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-06\/629246990838_e354841b20589b6851e1_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Law",
+            "display_name": "Ryan Law",
+            "team": "TJE58GTJL",
+            "name": "ryan096",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Ojm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014PRHQUQ2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s question, buuuut if you're mainly focused on \"how effectively is this content generating traffic,\" check out Revive:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/revive.animalz.co\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nfree tool we (Animalz "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) built that hooks up to your Google Analytics and identifies articles that have plateaued or suffer from content decay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611621372.063900",
+        "parent_user_id": "U01HEQWRG0G",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014PRHQUQ2",
+                    "UJG9WTEKG",
+                    "U01HEQWRG0G"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9137ed4c-1b67-4303-a8b3-27b4f7f29ae5",
+        "type": "message",
+        "text": "Hey <@UUJBPA9K5>! I don't have a matrix to share but more of a process - we also have this problem and while we don't want to discourage requests we also want them to be prioritized, like you said. Currently we have the requests go to sales enablement, then to product marketing, who decides if it is a priority against the needs of the business, then back down to content to produce.",
+        "user": "UMQASRN1W",
+        "ts": "1611675221.080900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ae52749b3983",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-09\/902007767399_ae52749b3983ed788ed1_72.jpg",
+            "first_name": "Elizabeth",
+            "real_name": "Elizabeth B",
+            "display_name": "Elizabeth B",
+            "team": "TJE58GTJL",
+            "name": "elizabeth.sm.bell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W+19",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUJBPA9K5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I don't have a matrix to share but more of a process - we also have this problem and while we don't want to discourage requests we also want them to be prioritized, like you said. Currently we have the requests go to sales enablement, then to product marketing, who decides if it is a priority against the needs of the business, then back down to content to produce."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611613145.062600",
+        "parent_user_id": "UUJBPA9K5"
+    },
+    {
+        "client_msg_id": "447664b1-53e6-49ae-a2c6-a104e7208a7a",
+        "type": "message",
+        "text": "thank you everyone!!! :slightly_smiling_face: You guys are such a knowledgeable and helpful bunch of folks. So happy I joined this Slack, thanks again!! :heart:",
+        "user": "U01K26PH1L3",
+        "ts": "1611677107.081100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a9d895e8edc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1660961993847_a9d895e8edc23e24f9be_72.jpg",
+            "first_name": "Kas",
+            "real_name": "Kas (V7)",
+            "display_name": "Kas (Tidio)",
+            "team": "TJE58GTJL",
+            "name": "k.szatylowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gwQ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you everyone!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You guys are such a knowledgeable and helpful bunch of folks. So happy I joined this Slack, thanks again!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Hello! Not all of our members are guys. In an effort to be more conscious of the language we use to address each other, why not try “Hey, folks,” or “Hey everyone” instead?",
+        "user": "USLACKBOT",
+        "ts": "1611677107.081300",
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "client_msg_id": "142bf7dd-e660-4444-9abe-bb6b71469c4f",
+        "type": "message",
+        "text": "Hey, I know some folks from Referral Candy and they are pros at this, shall I connect you <@UMQASRN1W>?:)",
+        "user": "U01K26PH1L3",
+        "ts": "1611677154.081800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a9d895e8edc2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-26\/1660961993847_a9d895e8edc23e24f9be_72.jpg",
+            "first_name": "Kas",
+            "real_name": "Kas (V7)",
+            "display_name": "Kas (Tidio)",
+            "team": "TJE58GTJL",
+            "name": "k.szatylowicz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5U7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, I know some folks from Referral Candy and they are pros at this, shall I connect you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQASRN1W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611671143.078300",
+        "parent_user_id": "UMQASRN1W"
+    },
+    {
+        "client_msg_id": "d2bbc83c-44ac-4998-b467-cb36d85c17d0",
+        "type": "message",
+        "text": "<https:\/\/pro.superpath.co\/membership> :upside_down_face:",
+        "user": "UJG9WTEKG",
+        "ts": "1611677723.082800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Superpath",
+                "title": "Superpath Pro",
+                "title_link": "https:\/\/pro.superpath.co\/membership",
+                "text": "This is our paid membership. Members get access to all of our courses, monthly office hours and regular networking opportunities.",
+                "fallback": "Superpath: Superpath Pro",
+                "image_url": "https:\/\/d31ezp3r8jwmks.cloudfront.net\/u5jsaovvomqo252psrhfknup6gw1",
+                "from_url": "https:\/\/pro.superpath.co\/membership",
+                "image_width": 445,
+                "image_height": 103,
+                "image_bytes": 16778,
+                "service_icon": "https:\/\/d31ezp3r8jwmks.cloudfront.net\/t7wrxkh0njjzsrc5gecby8nu2c82",
+                "id": 1,
+                "original_url": "https:\/\/pro.superpath.co\/membership"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a+eja",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pro.superpath.co\/membership"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611260999.018100",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "6074ceb5-c1ab-47a2-ba04-91d1afd4344e",
+        "type": "message",
+        "text": "brian dean has been writing about this recently",
+        "user": "UJG9WTEKG",
+        "ts": "1611677816.083300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wp5GK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brian dean has been writing about this recently"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611598494.057300",
+        "parent_user_id": "UJJFDTN8G"
+    },
+    {
+        "client_msg_id": "0a28f0fa-d8be-4f9d-bef9-a89fb7c7a2fd",
+        "type": "message",
+        "text": "Hi All! Does anyone know of any SaaS products with amazing \"pre-recorded \/ on-demand demo\" pages? Looking for some inspiration! Thanks.",
+        "user": "U013P4Q9YTU",
+        "ts": "1611680228.085400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "451a663a5132",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-21\/1145001450500_451a663a51324a8c7452_72.jpg",
+            "first_name": "Alli",
+            "real_name": "Alli Tunell",
+            "display_name": "Alli Tunell",
+            "team": "TJE58GTJL",
+            "name": "alli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RHtxV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi All! Does anyone know of any SaaS products with amazing \"pre-recorded \/ on-demand demo\" pages? Looking for some inspiration! Thanks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611680228.085400",
+        "reply_count": 7,
+        "reply_users_count": 6,
+        "latest_reply": "1611735235.096700",
+        "reply_users": [
+            "U01JZ3EUP70",
+            "U01DEA6F7CH",
+            "U013P4Q9YTU",
+            "U012YJ35BML",
+            "U01DMU97FSS",
+            "U019P0ADPCH"
+        ],
+        "replies": [
+            {
+                "user": "U01JZ3EUP70",
+                "ts": "1611681468.085700"
+            },
+            {
+                "user": "U01DEA6F7CH",
+                "ts": "1611683022.088000"
+            },
+            {
+                "user": "U013P4Q9YTU",
+                "ts": "1611683520.088300"
+            },
+            {
+                "user": "U012YJ35BML",
+                "ts": "1611714799.095200"
+            },
+            {
+                "user": "U013P4Q9YTU",
+                "ts": "1611716504.095400"
+            },
+            {
+                "user": "U01DMU97FSS",
+                "ts": "1611718445.096000"
+            },
+            {
+                "user": "U019P0ADPCH",
+                "ts": "1611735235.096700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d6c30682-295b-49b7-b85a-30cd5bf0456a",
+        "type": "message",
+        "text": "I could get her a Superpath pro subscription :slightly_smiling_face: She's very new to the content world so I was trying to find something a bit more basic but she could sort through the content and learn each section slowly!",
+        "user": "U013P4Q9YTU",
+        "ts": "1611680896.085500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "451a663a5132",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-21\/1145001450500_451a663a51324a8c7452_72.jpg",
+            "first_name": "Alli",
+            "real_name": "Alli Tunell",
+            "display_name": "Alli Tunell",
+            "team": "TJE58GTJL",
+            "name": "alli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RK10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could get her a Superpath pro subscription "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " She's very new to the content world so I was trying to find something a bit more basic but she could sort through the content and learn each section slowly!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611260999.018100",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "a4853f7b-1367-4a63-8a0c-68599322310c",
+        "type": "message",
+        "text": "Kartra? \n<https:\/\/home.kartra.com\/|https:\/\/home.kartra.com\/>",
+        "user": "U01JZ3EUP70",
+        "ts": "1611681468.085700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "86a761a68156",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-19\/1664840274529_86a761a6815691b518b2_72.jpg",
+            "first_name": "Akinduyo",
+            "real_name": "Akinduyo Eniola",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "eniola",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Kartra",
+                "title_link": "https:\/\/home.kartra.com\/",
+                "text": "Next generation all-in-one platform to run your online business",
+                "fallback": "Kartra",
+                "image_url": "https:\/\/kartrausers.s3.amazonaws.com\/Kartra\/4091483_1556180212856kartra_logo.png",
+                "from_url": "https:\/\/home.kartra.com\/",
+                "image_width": 249,
+                "image_height": 249,
+                "image_bytes": 5117,
+                "service_icon": "http:\/\/d2uolguxr56s4e.cloudfront.net\/internal\/favicon.ico",
+                "service_name": "home.kartra.com",
+                "id": 1,
+                "original_url": "https:\/\/home.kartra.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tosb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kartra? \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/home.kartra.com\/",
+                                "text": "https:\/\/home.kartra.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611680228.085400",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "bb66cee8-5731-4f51-b924-95d23a643f3a",
+        "type": "message",
+        "text": "I think another piece <@U01HEQWRG0G> that can make a content audit _feel_ unsuccessful is that the client doesn’t _do_ anything with the information. We always make sure to identify a few very specific things they can do and integrate that with their keyword strategy, etc. But yes, tell us more :slightly_smiling_face:",
+        "user": "U013WCZ5GSV",
+        "ts": "1611681990.086000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7ccd0d56b0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1361149389360_b7ccd0d56b0aa7e01022_72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Dunham",
+            "display_name": "Justin Dunham",
+            "team": "TJE58GTJL",
+            "name": "justin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think another piece "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01HEQWRG0G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that can make a content audit "
+                            },
+                            {
+                                "type": "text",
+                                "text": "feel",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " unsuccessful is that the client doesn’t "
+                            },
+                            {
+                                "type": "text",
+                                "text": "do",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " anything with the information. We always make sure to identify a few very specific things they can do and integrate that with their keyword strategy, etc. But yes, tell us more "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611621372.063900",
+        "parent_user_id": "U01HEQWRG0G"
+    },
+    {
+        "client_msg_id": "59b6b252-cbce-4356-85c1-efe23ec92ffe",
+        "type": "message",
+        "text": "haha",
+        "user": "UJG9WTEKG",
+        "ts": "1611682145.086200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W\/5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611260999.018100",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "7326a838-a1a0-42ba-a222-fa4658055383",
+        "type": "message",
+        "text": "fair enough!",
+        "user": "UJG9WTEKG",
+        "ts": "1611682148.086400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8MDR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fair enough!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611260999.018100",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "5d06de7e-e0f6-464f-965c-f67f5f32c7c2",
+        "type": "message",
+        "text": "lol",
+        "user": "UJG9WTEKG",
+        "ts": "1611682148.086600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VuU6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611260999.018100",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "7d0a2e0e-1f3c-4845-9c6f-2fe72716ae2e",
+        "type": "message",
+        "text": "if you do sign her up, let me know. i'd be happy to jump on call with her",
+        "user": "UJG9WTEKG",
+        "ts": "1611682180.086800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MwNhv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you do sign her up, let me know. i'd be happy to jump on call with her"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611260999.018100",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "531b9687-ac45-49ba-8dce-229141e7fd69",
+        "type": "message",
+        "text": "<@U01ANAZTZTK> a hack you can use to get around that – many blogs have “Blog” in the page title or some other unique string. Use “Page Title” as your filter, and filter for e.g. “Blog”, instead of using the URL. that lets you use whatever URLs you want.",
+        "user": "U013WCZ5GSV",
+        "ts": "1611682182.087000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "b7ccd0d56b0a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-01\/1361149389360_b7ccd0d56b0aa7e01022_72.png",
+            "first_name": "Justin",
+            "real_name": "Justin Dunham",
+            "display_name": "Justin Dunham",
+            "team": "TJE58GTJL",
+            "name": "justin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n2Pw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01ANAZTZTK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a hack you can use to get around that – many blogs have “Blog” in the page title or some other unique string. Use “Page Title” as your filter, and filter for e.g. “Blog”, instead of using the URL. that lets you use whatever URLs you want."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01KUBLLQR3",
+                "created": 1611682182,
+                "timestamp": 1611682182,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U013WCZ5GSV",
+                "editable": false,
+                "size": 7876,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01KUBLLQR3\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TJE58GTJL-F01KUBLLQR3\/download\/image.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01KUBLLQR3-89ac0a51a3\/image_64.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01KUBLLQR3-89ac0a51a3\/image_80.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01KUBLLQR3-89ac0a51a3\/image_360.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "thumb_360_w": 360,
+                "thumb_360_h": 86,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TJE58GTJL-F01KUBLLQR3-89ac0a51a3\/image_160.png?t=xoxe-626178571632-3467451922035-3469800396036-b45365c7edcd0220272aa8a422c2b82f",
+                "original_w": 454,
+                "original_h": 108,
+                "thumb_tiny": "AwALADDRJYHhcj60bm\/ufrRRQAAsTyuPxpQTnkY\/GgUYoATc2cbPxzSgsQcrg\/WjFGKAP\/\/Z",
+                "permalink": "https:\/\/content-career-growth.slack.com\/files\/U013WCZ5GSV\/F01KUBLLQR3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TJE58GTJL-F01KUBLLQR3-4e020ba625",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U013WCZ5GSV",
+        "display_as_bot": false,
+        "ts": "1611682184.087200",
+        "thread_ts": "1611657779.072000",
+        "parent_user_id": "U01K26PH1L3"
+    },
+    {
+        "client_msg_id": "68cbaff0-4e66-4e50-81c2-012c0388c275",
+        "type": "message",
+        "text": "I think we are! Her name is Zoe Hartsfield.",
+        "user": "U013P4Q9YTU",
+        "ts": "1611682295.087600",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "451a663a5132",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-21\/1145001450500_451a663a51324a8c7452_72.jpg",
+            "first_name": "Alli",
+            "real_name": "Alli Tunell",
+            "display_name": "Alli Tunell",
+            "team": "TJE58GTJL",
+            "name": "alli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODec",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we are! Her name is Zoe Hartsfield."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611260999.018100",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "ff64d20a-856b-4c93-ae33-e45e259fc0d1",
+        "type": "message",
+        "text": "I don't have any to share, but just confirming that as a B2B buyer, my biggest complaint is that you so often have to book a sales call to get a demo. I just want a 3-minute overview! :slightly_smiling_face:",
+        "user": "U01DEA6F7CH",
+        "ts": "1611683022.088000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "70a1b3d3ea49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-22\/1443614799301_70a1b3d3ea49adc43894_72.jpg",
+            "first_name": "Lee",
+            "real_name": "Lee Price",
+            "display_name": "Lee Price",
+            "team": "TJE58GTJL",
+            "name": "lee792",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4UtE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't have any to share, but just confirming that as a B2B buyer, my biggest complaint is that you so often have to book a sales call to get a demo. I just want a 3-minute overview! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611680228.085400",
+        "parent_user_id": "U013P4Q9YTU",
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U016AG4A2G2",
+                    "UJG10LPNG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6378cb62-9fa8-4bc3-9925-c9d2113c4e5a",
+        "type": "message",
+        "text": "Right <@U01DEA6F7CH>? I'm trying to create a page for our self-service product where people can just access a recording instead! But we might get deeper into the project and determine we need a page like this for our other products as well. Thanks for the example <@U01JZ3EUP70>!",
+        "user": "U013P4Q9YTU",
+        "ts": "1611683520.088300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "451a663a5132",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-21\/1145001450500_451a663a51324a8c7452_72.jpg",
+            "first_name": "Alli",
+            "real_name": "Alli Tunell",
+            "display_name": "Alli Tunell",
+            "team": "TJE58GTJL",
+            "name": "alli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m6zl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01DEA6F7CH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? I'm trying to create a page for our self-service product where people can just access a recording instead! But we might get deeper into the project and determine we need a page like this for our other products as well. Thanks for the example "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JZ3EUP70"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611680228.085400",
+        "parent_user_id": "U013P4Q9YTU",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U01JZ3EUP70"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01DEA6F7CH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a68a934-68ad-4232-acd9-cb9c0439584e",
+        "type": "message",
+        "text": "will keep an eye out for her :eyes:",
+        "user": "UJG9WTEKG",
+        "ts": "1611683561.088500",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XlZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will keep an eye out for her "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611260999.018100",
+        "parent_user_id": "U013P4Q9YTU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U013P4Q9YTU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ce8405d-ea27-4a32-96d2-c55c2f64f93d",
+        "type": "message",
+        "text": "Hey Elizabeth! I’d recommend reaching out to Tara Robertson, she’s the new\/incoming CMO at Teamwork but previously led customer marketing at Sprout. She is a force to be reckoned with a great LinkedIn follow.",
+        "user": "URB31QKM4",
+        "ts": "1611684922.089000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "099d380d742a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-04\/936714280756_099d380d742afea0dc9f_72.png",
+            "first_name": "Alicia",
+            "real_name": "Alicia Johnston",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "aliciabjohnston",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lTfjS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Elizabeth! I’d recommend reaching out to Tara Robertson, she’s the new\/incoming CMO at Teamwork but previously led customer marketing at Sprout. She is a force to be reckoned with a great LinkedIn follow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611671143.078300",
+        "parent_user_id": "UMQASRN1W",
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U017WRJTKF1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4BE59ED0-44C8-41A5-8605-D64C4099228C",
+        "type": "message",
+        "text": "Thanks everybody. One of the major problems is that sources don’t seem to 100% agree on what a content audit actually entails. Some say to catalog every single piece of content that has ever been created (whether you’re doing your own content or something for a client), including social media posts and all markers of engagement\/performance. This seems ridiculously excessive to me, as well as unattainable.\n\nWhat I have in mind for a client I’m working with right now is to get a handle on the entire extent of their blog content, and perhaps their video content on YouTube, too. Those are the two main channels for them.\n\nI know they have a diverse range of blog articles, but it’s also become apparent that they tend to repeat themselves on certain topics. Trying to help them really narrow down and focus.",
+        "user": "U01HEQWRG0G",
+        "ts": "1611690691.090300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g102596d1121",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/102596d1121842e322ecc80a0d319be9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Theresa H",
+            "display_name": "Theresa H",
+            "team": "TJE58GTJL",
+            "name": "sam226",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8oB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks everybody. One of the major problems is that sources don’t seem to 100% agree on what a content audit actually entails. Some say to catalog every single piece of content that has ever been created (whether you’re doing your own content or something for a client), including social media posts and all markers of engagement\/performance. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "This"
+                            },
+                            {
+                                "type": "text",
+                                "text": " seems ridiculously excessive to me, as well as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "unattainable"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "What"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have in mind for a client I’m working with right now is to get a handle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on the entire extent of their blog content, and perhaps their video content on YouTube, too. Those are the two main channels for them.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I know they have a diverse range of blog articles, but it’s also become "
+                            },
+                            {
+                                "type": "text",
+                                "text": "apparent"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that they tend to repeat themselves on certain topics. Trying to help them really narrow down and focus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611621372.063900",
+        "parent_user_id": "U01HEQWRG0G"
+    },
+    {
+        "client_msg_id": "4de510de-7831-464f-b49d-0a858b909d8f",
+        "type": "message",
+        "text": "Hey <@U019F15SA7Q> thanks for responding! It will be a mix of blogposts and gated content. I had a look at the Animalz link and there are some good pointers! Thanks for sharing :slightly_smiling_face:",
+        "user": "UL2E0QVB3",
+        "ts": "1611697286.090900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ge9a383c24eb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/46e9a383c24ebc58aff0a71a2925d006.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Taru",
+            "real_name": "Taru",
+            "display_name": "Taru",
+            "team": "TJE58GTJL",
+            "name": "taru.bhargav",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wd2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U019F15SA7Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks for responding! It will be a mix of blogposts and gated content. I had a look at the Animalz link and there are some good pointers! Thanks for sharing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611180882.108500",
+        "parent_user_id": "UL2E0QVB3"
+    },
+    {
+        "client_msg_id": "1307a5cc-dc12-4f95-b8b0-e51ec410b729",
+        "type": "message",
+        "text": "Thanks <@UMQASRN1W>!",
+        "user": "UUJBPA9K5",
+        "ts": "1611702070.091100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "67bd03044bbf",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-25\/1680266786932_67bd03044bbf51442723_72.jpg",
+            "first_name": "Jenna",
+            "real_name": "Jenna Buckle",
+            "display_name": "Jenna Buckle",
+            "team": "TJE58GTJL",
+            "name": "jbuckle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMQASRN1W"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611613145.062600",
+        "parent_user_id": "UUJBPA9K5"
+    },
+    {
+        "client_msg_id": "0DCBDE19-6426-40CA-8D07-7787C4EB290A",
+        "type": "message",
+        "text": "The ones I’ve done has focused primarily on keeping whatever gets traffic and backlinks. It’s possible you have multiple pages competing for the same keyword (cannablization). In my mind those are two separate problems. Hope that helps :+1:",
+        "user": "U012YJ35BML",
+        "ts": "1611714308.093700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Dc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The ones I’ve done has focused primarily on keeping whatever gets traffic and backlinks. It’s possible you have multiple pages competing for the same keyword (cannablization). In my mind those are two separate problems. Hope that helps "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611621372.063900",
+        "parent_user_id": "U01HEQWRG0G"
+    },
+    {
+        "client_msg_id": "7771DCBB-7827-44C0-9422-9215E793BA9C",
+        "type": "message",
+        "text": "On-demand demo... :thinking_face: I’ve been looking into Click Up recently and they have a bunch of stuff. I’d check them out.",
+        "user": "U012YJ35BML",
+        "ts": "1611714799.095200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a25e2ece0b31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-06\/1100816571126_a25e2ece0b31f89444c8_72.png",
+            "first_name": "Ryan",
+            "real_name": "Ryan Olestro",
+            "display_name": "Ryan Olestro",
+            "team": "TJE58GTJL",
+            "name": "ryanolestro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ijT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On-demand demo... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ve been looking into Click Up recently and they have a bunch of stuff. I’d check them out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611680228.085400",
+        "parent_user_id": "U013P4Q9YTU"
+    },
+    {
+        "client_msg_id": "c0a24fe9-1a37-49e6-80e4-3d9cebf7554d",
+        "type": "message",
+        "text": "<@U012YJ35BML> the ClickUp example is excellent! Thank you!",
+        "user": "U013P4Q9YTU",
+        "ts": "1611716504.095400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "451a663a5132",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-21\/1145001450500_451a663a51324a8c7452_72.jpg",
+            "first_name": "Alli",
+            "real_name": "Alli Tunell",
+            "display_name": "Alli Tunell",
+            "team": "TJE58GTJL",
+            "name": "alli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012YJ35BML"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the ClickUp example is excellent! Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611680228.085400",
+        "parent_user_id": "U013P4Q9YTU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012YJ35BML"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fcc9f29-82b5-4136-a62c-1c6472d41f6b",
+        "type": "message",
+        "text": "<@U0105JEFJ1F> Have you tried the Sales Hacker community? I think it is was bought by <http:\/\/Outreach.io|Outreach.io> if I was not mistaken.\n\n<https:\/\/www.saleshacker.com\/>",
+        "user": "U01DMU97FSS",
+        "ts": "1611718311.095700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6dae222acd6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6dae222acd6d343863d4762f6072fd78.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Malnik",
+            "display_name": "Jessica Malnik",
+            "team": "TJE58GTJL",
+            "name": "jessica",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Sales Hacker",
+                "title": "Sales Hacker | The World's Largest Community for B2B Sales",
+                "title_link": "https:\/\/www.saleshacker.com\/",
+                "text": "The World's Largest Community for B2B Sales",
+                "fallback": "Sales Hacker: Sales Hacker | The World's Largest Community for B2B Sales",
+                "from_url": "https:\/\/www.saleshacker.com\/",
+                "service_icon": "https:\/\/www.saleshacker.com\/wp-content\/uploads\/2015\/03\/cropped-SH_Logo_Navy_Profile_SH-04-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.saleshacker.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m0YX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0105JEFJ1F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Have you tried the Sales Hacker community? I think it is was bought by "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Outreach.io",
+                                "text": "Outreach.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if I was not mistaken.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.saleshacker.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611609208.060400",
+        "parent_user_id": "U0105JEFJ1F"
+    },
+    {
+        "client_msg_id": "abe3020a-375e-4742-a6b6-db60d64d9a4c",
+        "type": "message",
+        "text": "<@U013P4Q9YTU> ProcessKit has a cool on-demand demo. :slightly_smiling_face:\n\n<https:\/\/processkit.com\/demo\/>",
+        "user": "U01DMU97FSS",
+        "ts": "1611718445.096000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "g6dae222acd6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6dae222acd6d343863d4762f6072fd78.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Jessica",
+            "real_name": "Jessica Malnik",
+            "display_name": "Jessica Malnik",
+            "team": "TJE58GTJL",
+            "name": "jessica",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01DMU97FSS",
+            "ts": "1611718450.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013P4Q9YTU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ProcessKit has a cool on-demand demo. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/processkit.com\/demo\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611680228.085400",
+        "parent_user_id": "U013P4Q9YTU"
+    }
+]

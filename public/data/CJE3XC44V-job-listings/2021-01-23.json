@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "a104d16a-8ed9-4fc8-9462-defece933a1e",
+        "type": "message",
+        "text": "Hi <@UJ94KABMF>, I sent you a message :blush:",
+        "user": "U0188DZQPB8",
+        "ts": "1611474883.026800",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "a212eadb87bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-11\/1295590126722_a212eadb87bcaf2d6d8d_72.png",
+            "first_name": "Melissa",
+            "real_name": "Melissa Yap",
+            "display_name": "Mel",
+            "team": "TJE58GTJL",
+            "name": "mellie.yap",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qb3C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJ94KABMF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I sent you a message "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611352215.023400",
+        "parent_user_id": "UJ94KABMF"
+    }
+]

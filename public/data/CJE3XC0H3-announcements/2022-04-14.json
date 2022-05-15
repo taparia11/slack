@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "4a322aa4-6da2-4f28-a213-1e4c9d2d56e6",
+        "type": "message",
+        "text": "<!here> reminder: our AMA with <https:\/\/knotch.com\/|Knotch> is starting in 10 min. we'll be talking content strategy over in <#C014P2BJLER|general> :smiley:",
+        "user": "UJG9WTEKG",
+        "ts": "1649955162.528489",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "gc25b94e6ebf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eec25b94e6ebf55f0b7933372344cd09.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy Daly",
+            "display_name": "",
+            "team": "TJE58GTJL",
+            "name": "runjimdaly",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJG9WTEKG",
+            "ts": "1649955181.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/knotch.com\/",
+                "image_url": "https:\/\/knotch.com\/wp-content\/uploads\/2019\/11\/Knotch-Logo.jpg",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 19182,
+                "service_icon": "https:\/\/knotch.com\/wp-content\/uploads\/2022\/04\/cropped-Group-14213-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/knotch.com\/",
+                "fallback": "Knotch",
+                "text": "Knotch is the world’s leading Content Intelligence Platform that breaks through the status quo of how businesses connect content to outcomes.",
+                "title": "Knotch",
+                "title_link": "https:\/\/knotch.com\/",
+                "service_name": "knotch.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mJ2z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reminder: our AMA with "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/knotch.com\/",
+                                "text": "Knotch"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is starting in 10 min. we'll be talking content strategy over in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C014P2BJLER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "partying_face",
+                "users": [
+                    "U02Q5J6H7NC",
+                    "U03BMPTTVQU",
+                    "URLKJLWKS",
+                    "U03BRV9SU2U",
+                    "U02F1GK6U6B",
+                    "U02LR6JUZN3",
+                    "U010JU2GTND",
+                    "U02EDRUJN58",
+                    "UJ420S7MG"
+                ],
+                "count": 9
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0367KX46Q5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "headphones",
+                "users": [
+                    "U011QQDDSJV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U031BTQNH1R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

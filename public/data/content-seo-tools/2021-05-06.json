@@ -1,0 +1,513 @@
+[
+    {
+        "client_msg_id": "7bdf7654-fa65-48c7-a57f-2f5487a1a53f",
+        "type": "message",
+        "text": "Would like to join the <#CN9UCQ92A|tools> channel - how do I do this? Or, is it automatically done when one is a newby? :bee:",
+        "user": "U021R75LUF2",
+        "ts": "1620298353.108300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a28256ad65f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-06\/2037123351763_3a28256ad65fa0ace3eb_72.jpg",
+            "first_name": "William",
+            "real_name": "William Short",
+            "display_name": "Bill",
+            "team": "TJE58GTJL",
+            "name": "englishapostles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would like to join the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CN9UCQ92A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel - how do I do this? Or, is it automatically done when one is a newby? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620298353.108300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1620299974.109300",
+        "reply_users": [
+            "U01V7CQF8LC",
+            "U021R75LUF2"
+        ],
+        "replies": [
+            {
+                "user": "U01V7CQF8LC",
+                "ts": "1620299375.108400"
+            },
+            {
+                "user": "U021R75LUF2",
+                "ts": "1620299932.109100"
+            },
+            {
+                "user": "U021R75LUF2",
+                "ts": "1620299974.109300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a5e5ce6a-72d9-4796-a7cb-5a015b154d05",
+        "type": "message",
+        "text": "Your'e in <@U021R75LUF2> :wink:",
+        "user": "U01V7CQF8LC",
+        "ts": "1620299375.108400",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ac9c0196fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-21\/2000020000481_f9ac9c0196fd1a4eefd5_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Heyns",
+            "display_name": "Brett",
+            "team": "TJE58GTJL",
+            "name": "brettheyns",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OzL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your'e in "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U021R75LUF2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620298353.108300",
+        "parent_user_id": "U021R75LUF2"
+    },
+    {
+        "client_msg_id": "3ea7a780-8af2-48c2-81f8-d393efac9801",
+        "type": "message",
+        "text": "A Great Email Toolbox:\n<https:\/\/emailresourc.es\/>",
+        "user": "U01V7CQF8LC",
+        "ts": "1620299494.108900",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ac9c0196fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-21\/2000020000481_f9ac9c0196fd1a4eefd5_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Heyns",
+            "display_name": "Brett",
+            "team": "TJE58GTJL",
+            "name": "brettheyns",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Email Resources",
+                "title_link": "https:\/\/emailresourc.es\/",
+                "text": "A curated collection of the best email resources to help you at every step of your email workflow.",
+                "fallback": "Email Resources",
+                "image_url": "https:\/\/emailresourc.es\/social.png",
+                "from_url": "https:\/\/emailresourc.es\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 628827,
+                "service_icon": "https:\/\/emailresourc.es\/favicon\/apple-touch-icon.png",
+                "service_name": "emailresourc.es",
+                "id": 1,
+                "original_url": "https:\/\/emailresourc.es\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mwY1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A Great Email Toolbox:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/emailresourc.es\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77c1556c-d3a6-4a20-87f1-5633e93d7bf1",
+        "type": "message",
+        "text": "Thanks for the Welcome Wagon greeting, Brett. I'm glad to be here.  :-)",
+        "user": "U021R75LUF2",
+        "ts": "1620299932.109100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a28256ad65f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-06\/2037123351763_3a28256ad65fa0ace3eb_72.jpg",
+            "first_name": "William",
+            "real_name": "William Short",
+            "display_name": "Bill",
+            "team": "TJE58GTJL",
+            "name": "englishapostles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pmB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the Welcome Wagon greeting, Brett. I'm glad to be here.  :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620298353.108300",
+        "parent_user_id": "U021R75LUF2"
+    },
+    {
+        "client_msg_id": "4b82c0cd-9c53-4f3d-896b-9c53ced94f9d",
+        "type": "message",
+        "text": "Call me Bill since William sounds so formal...",
+        "user": "U021R75LUF2",
+        "ts": "1620299974.109300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3a28256ad65f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-06\/2037123351763_3a28256ad65fa0ace3eb_72.jpg",
+            "first_name": "William",
+            "real_name": "William Short",
+            "display_name": "Bill",
+            "team": "TJE58GTJL",
+            "name": "englishapostles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YxJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Call me Bill since William sounds so formal..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620298353.108300",
+        "parent_user_id": "U021R75LUF2",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U01V7CQF8LC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01V7CQF8LC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f18d6afe-c551-492d-9c86-d1e2f98df986",
+        "type": "message",
+        "text": "Sounds good Brett, I'll send you a DM",
+        "user": "U01A5QD7T62",
+        "ts": "1620319076.109700",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "697f3caeb3e6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-26\/2002552667427_697f3caeb3e604b43234_72.jpg",
+            "first_name": "",
+            "real_name": "Ryo Chiba",
+            "display_name": "Ryo Chiba",
+            "team": "TJE58GTJL",
+            "name": "ryo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good Brett, I'll send you a DM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620177100.099700",
+        "parent_user_id": "UUH2EB134",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U01V7CQF8LC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f536933d-a92f-4feb-9c98-51e474a60e03",
+        "type": "message",
+        "text": "Looking forward! Thanks <@U01A5QD7T62> :pray:",
+        "user": "U01V7CQF8LC",
+        "ts": "1620319356.110000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "f9ac9c0196fd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-21\/2000020000481_f9ac9c0196fd1a4eefd5_72.png",
+            "first_name": "Brett",
+            "real_name": "Brett Heyns",
+            "display_name": "Brett",
+            "team": "TJE58GTJL",
+            "name": "brettheyns",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AISX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looking forward! Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A5QD7T62"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620177100.099700",
+        "parent_user_id": "UUH2EB134"
+    },
+    {
+        "client_msg_id": "92655842-18eb-445a-8e8c-84621158148b",
+        "type": "message",
+        "text": "Would love to test drive it too <@U01A5QD7T62> :slightly_smiling_face:",
+        "user": "U0216ELKLQY",
+        "ts": "1620319799.110200",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "ga19107e7639",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a19107e7639db5f72a138bda489f9c70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Ivan Srsen",
+            "display_name": "Ivan Srsen",
+            "team": "TJE58GTJL",
+            "name": "srsen.ivan1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would love to test drive it too "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A5QD7T62"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620177100.099700",
+        "parent_user_id": "UUH2EB134",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01A5QD7T62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbee2f49-db9f-4b6c-b1b5-3f6e3cf41fd8",
+        "type": "message",
+        "text": "Airtable users! Are you leveraging the \"Create records from multiple select\" script how the Airtable team is in <https:\/\/youtu.be\/cpXc4dGN_n8?t=238|this demo>? If so, are you open to helping me understand it better. I get the gist, but the specific steps aren't clear.",
+        "user": "UUH2EB134",
+        "ts": "1620321599.113000",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How to Give Your CMO Insight Into Your Content Marketing Workflow with Airtable",
+                "title_link": "https:\/\/youtu.be\/cpXc4dGN_n8?t=238",
+                "author_name": "superpath",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCPZyG9JwjALi0RtW1iK9Q-A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/cpXc4dGN_n8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to Give Your CMO Insight Into Your Content Marketing Workflow with Airtable",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/cpXc4dGN_n8?start=238&feature=oembed&start=238&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/cpXc4dGN_n8?t=238",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/cpXc4dGN_n8?t=238"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cuPHu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Airtable users! Are you leveraging the \"Create records from multiple select\" script how the Airtable team is in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/cpXc4dGN_n8?t=238",
+                                "text": "this demo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? If so, are you open to helping me understand it better. I get the gist, but the specific steps aren't clear."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

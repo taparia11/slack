@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1619348802.120900",
+        "thread_ts": "1619348802.120900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1619476558.131300",
+        "reply_users": [
+            "UJG9WTEKG"
+        ],
+        "replies": [
+            {
+                "user": "UJG9WTEKG",
+                "ts": "1619476558.131300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619476558.131300"
+    },
+    {
+        "client_msg_id": "43f63380-085f-453a-af43-7aca0c538685",
+        "type": "message",
+        "text": "Would definitely be interested Brett. I have a vision (especially when it comes to strategy :wink:), but not in SaaS. Although I do feel that that point translates very well to SaaS as well. Let me know if you'd be interested and I can elaborate a bit more to see if it would be a good fit.",
+        "user": "U01QF8VQFSR",
+        "ts": "1619357680.121100",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "3b0f16e92d26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-05\/1927894267811_3b0f16e92d265019d31d_72.jpg",
+            "first_name": "",
+            "real_name": "Jelle Schut",
+            "display_name": "Jelle Schut",
+            "team": "TJE58GTJL",
+            "name": "jelle.schut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BcLLC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would definitely be interested Brett. I have a vision (especially when it comes to strategy "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), but not in SaaS. Although I do feel that that point translates very well to SaaS as well. Let me know if you'd be interested and I can elaborate a bit more to see if it would be a good fit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618238803.095400",
+        "parent_user_id": "U01JGE01ZA8"
+    },
+    {
+        "client_msg_id": "e586c8dd-b9a3-4fd6-a0c0-ca050ccb0474",
+        "type": "message",
+        "text": "I'm not sure what type of feedback you're looking for, so apologies for being a bit over the place. In terms of the production value, all looks well. You've got quality of the audio and video. And Nelio is charismatic and engaging. It's difficult to say how it could be cut together differently without knowing your goals. But if you pay attention to the watch time in your analytics, it'll tell you where people are bouncing and give you a sense for how to tighten up the narrative. My gut tells me that there will be a drop-off before the 25-second montage ends in the first video.",
+        "user": "UUH2EB134",
+        "ts": "1619377894.121300",
+        "team": "TJE58GTJL",
+        "user_team": "TJE58GTJL",
+        "source_team": "TJE58GTJL",
+        "user_profile": {
+            "avatar_hash": "91f75496da23",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-11\/2592255583170_91f75496da238af310c2_72.png",
+            "first_name": "Ronnie",
+            "real_name": "Ronnie Higgins",
+            "display_name": "Ronnie Higgins",
+            "team": "TJE58GTJL",
+            "name": "ronnie",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3cT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure what type of feedback you're looking for, so apologies for being a bit over the place. In terms of the production value, all looks well. You've got quality of the audio and video. And Nelio is charismatic and engaging. It's difficult to say how it could be cut together differently without knowing your goals. But if you pay attention to the watch time in your analytics, it'll tell you where people are bouncing and give you a sense for how to tighten up the narrative. My gut tells me that there will be a drop-off before the 25-second montage ends in the first video."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619167784.117300",
+        "parent_user_id": "UUW4MCUSD"
+    }
+]
